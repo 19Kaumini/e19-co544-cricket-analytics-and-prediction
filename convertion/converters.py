@@ -8,6 +8,7 @@ def convert_over_to_df(over_data):
     over_df["runs_by_bat"] = over_df["runs"].apply(lambda x: x.get("batter"))
     over_df["extra_runs"] = over_df["runs"].apply(lambda x: x.get("extras"))
     over_df["total"] = over_df["runs"].apply(lambda x: x.get("total"))
+    over_df["tot_cumsum"] = over_df["total"].cumsum()
     over_df["delivery"] = np.arange(1, len(over_df) + 1)
 
     if "extras" in over_df.columns:
@@ -31,11 +32,6 @@ def convert_over_to_df(over_data):
 
         over_df["fielder"] = over_df["wickets"].apply(get_fielder_name)
         over_df.drop(columns=["wickets"], inplace=True)
-
-    # over_df['extra_type'] = np.nan
-    # over_df['wicket_type'] = np.nan
-    # over_df['player_out'] = np.nan
-    # over_df['fielder'] = np.nan
 
     over_df.drop(columns=["runs"], inplace=True)
     return over_df
