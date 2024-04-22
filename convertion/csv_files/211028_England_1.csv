@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings
-0,ME Trescothick,B Lee,GO Jones,,0,0,0,1,-,1,0,,,bat,England,1
-1,ME Trescothick,B Lee,GO Jones,,1,0,1,2,-,1,0,,,bat,England,1
-2,GO Jones,B Lee,ME Trescothick,,0,0,0,3,-,1,0,,,bat,England,1
-3,GO Jones,B Lee,ME Trescothick,,0,0,0,4,-,1,0,,,bat,England,1
-4,GO Jones,B Lee,ME Trescothick,,0,0,0,5,-,1,0,,,bat,England,1
-5,GO Jones,B Lee,ME Trescothick,{'noballs': 1},0,1,1,6,noballs,1,0,,,bat,England,1
-6,GO Jones,B Lee,ME Trescothick,,2,0,2,7,-,1,0,,,bat,England,1
-7,ME Trescothick,GD McGrath,GO Jones,,0,0,0,1,-,2,0,,,bat,England,1
-8,ME Trescothick,GD McGrath,GO Jones,,0,0,0,2,-,2,0,,,bat,England,1
-9,ME Trescothick,GD McGrath,GO Jones,{'wides': 1},0,1,1,3,wides,2,0,,,bat,England,1
-10,ME Trescothick,GD McGrath,GO Jones,,0,0,0,4,-,2,0,,,bat,England,1
-11,ME Trescothick,GD McGrath,GO Jones,,0,0,0,5,-,2,0,,,bat,England,1
-12,ME Trescothick,GD McGrath,GO Jones,,0,0,0,6,-,2,0,,,bat,England,1
-13,ME Trescothick,GD McGrath,GO Jones,,1,0,1,7,-,2,0,,,bat,England,1
-14,ME Trescothick,B Lee,GO Jones,,4,0,4,1,-,3,0,,,bat,England,1
-15,ME Trescothick,B Lee,GO Jones,,1,0,1,2,-,3,0,,,bat,England,1
-16,GO Jones,B Lee,ME Trescothick,,0,0,0,3,-,3,0,,,bat,England,1
-17,GO Jones,B Lee,ME Trescothick,,4,0,4,4,-,3,0,,,bat,England,1
-18,GO Jones,B Lee,ME Trescothick,,4,0,4,5,-,3,0,,,bat,England,1
-19,GO Jones,B Lee,ME Trescothick,,1,0,1,6,-,3,0,,,bat,England,1
-20,GO Jones,GD McGrath,ME Trescothick,,0,0,0,1,-,4,0,,,bat,England,1
-21,GO Jones,GD McGrath,ME Trescothick,,4,0,4,2,-,4,0,,,bat,England,1
-22,GO Jones,GD McGrath,ME Trescothick,,4,0,4,3,-,4,0,,,bat,England,1
-23,GO Jones,GD McGrath,ME Trescothick,,0,0,0,4,-,4,0,,,bat,England,1
-24,GO Jones,GD McGrath,ME Trescothick,,0,0,0,5,-,4,caught,GO Jones,MS Kasprowicz,bat,England,1
-25,ME Trescothick,GD McGrath,A Flintoff,,1,0,1,6,-,4,0,,,bat,England,1
-26,ME Trescothick,B Lee,A Flintoff,,1,0,1,1,-,5,0,,,bat,England,1
-27,A Flintoff,B Lee,ME Trescothick,{'noballs': 1},1,1,2,2,noballs,5,0,,,bat,England,1
-28,ME Trescothick,B Lee,A Flintoff,,4,0,4,3,-,5,0,,,bat,England,1
-29,ME Trescothick,B Lee,A Flintoff,,1,0,1,4,-,5,0,,,bat,England,1
-30,A Flintoff,B Lee,ME Trescothick,{'wides': 1},0,1,1,5,wides,5,0,,,bat,England,1
-31,A Flintoff,B Lee,ME Trescothick,,1,0,1,6,-,5,0,,,bat,England,1
-32,ME Trescothick,B Lee,A Flintoff,{'legbyes': 1},0,1,1,7,legbyes,5,0,,,bat,England,1
-33,A Flintoff,B Lee,ME Trescothick,,3,0,3,8,-,5,0,,,bat,England,1
-34,A Flintoff,MS Kasprowicz,ME Trescothick,,1,0,1,1,-,6,0,,,bat,England,1
-35,ME Trescothick,MS Kasprowicz,A Flintoff,,0,0,0,2,-,6,0,,,bat,England,1
-36,ME Trescothick,MS Kasprowicz,A Flintoff,,4,0,4,3,-,6,0,,,bat,England,1
-37,ME Trescothick,MS Kasprowicz,A Flintoff,,1,0,1,4,-,6,0,,,bat,England,1
-38,A Flintoff,MS Kasprowicz,ME Trescothick,,0,0,0,5,-,6,caught,A Flintoff,A Symonds,bat,England,1
-39,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,6,-,6,0,,,bat,England,1
-40,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,1,-,7,0,,,bat,England,1
-41,ME Trescothick,JN Gillespie,KP Pietersen,,0,0,0,2,-,7,0,,,bat,England,1
-42,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,3,-,7,0,,,bat,England,1
-43,KP Pietersen,JN Gillespie,ME Trescothick,,0,0,0,4,-,7,0,,,bat,England,1
-44,KP Pietersen,JN Gillespie,ME Trescothick,,4,0,4,5,-,7,0,,,bat,England,1
-45,KP Pietersen,JN Gillespie,ME Trescothick,,2,0,2,6,-,7,0,,,bat,England,1
-46,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,1,-,8,0,,,bat,England,1
-47,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,2,-,8,0,,,bat,England,1
-48,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,3,-,8,0,,,bat,England,1
-49,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,4,-,8,0,,,bat,England,1
-50,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,5,-,8,0,,,bat,England,1
-51,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,6,-,8,0,,,bat,England,1
-52,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,1,-,9,0,,,bat,England,1
-53,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,2,-,9,0,,,bat,England,1
-54,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,3,-,9,0,,,bat,England,1
-55,ME Trescothick,JN Gillespie,KP Pietersen,,4,0,4,4,-,9,0,,,bat,England,1
-56,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,5,-,9,0,,,bat,England,1
-57,KP Pietersen,JN Gillespie,ME Trescothick,,6,0,6,6,-,9,0,,,bat,England,1
-58,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,1,-,10,0,,,bat,England,1
-59,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,2,-,10,0,,,bat,England,1
-60,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,3,-,10,0,,,bat,England,1
-61,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,4,-,10,0,,,bat,England,1
-62,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,5,-,10,0,,,bat,England,1
-63,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,6,-,10,0,,,bat,England,1
-64,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,1,-,11,0,,,bat,England,1
-65,KP Pietersen,MJ Clarke,ME Trescothick,,1,0,1,2,-,11,0,,,bat,England,1
-66,ME Trescothick,MJ Clarke,KP Pietersen,,4,0,4,3,-,11,0,,,bat,England,1
-67,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,4,-,11,0,,,bat,England,1
-68,KP Pietersen,MJ Clarke,ME Trescothick,,0,0,0,5,-,11,caught,KP Pietersen,ML Hayden,bat,England,1
-69,ME Trescothick,MJ Clarke,MP Vaughan,,1,0,1,6,-,11,0,,,bat,England,1
-70,ME Trescothick,A Symonds,MP Vaughan,,1,0,1,1,-,12,0,,,bat,England,1
-71,MP Vaughan,A Symonds,ME Trescothick,,0,0,0,2,-,12,caught,MP Vaughan,RT Ponting,bat,England,1
-72,PD Collingwood,A Symonds,ME Trescothick,,0,0,0,3,-,12,0,,,bat,England,1
-73,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,4,-,12,0,,,bat,England,1
-74,ME Trescothick,A Symonds,PD Collingwood,,1,0,1,5,-,12,0,,,bat,England,1
-75,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,6,-,12,0,,,bat,England,1
-76,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,1,-,13,0,,,bat,England,1
-77,ME Trescothick,MJ Clarke,PD Collingwood,,0,0,0,2,-,13,0,,,bat,England,1
-78,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,3,-,13,0,,,bat,England,1
-79,PD Collingwood,MJ Clarke,ME Trescothick,,0,0,0,4,-,13,0,,,bat,England,1
-80,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,5,-,13,0,,,bat,England,1
-81,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,6,-,13,0,,,bat,England,1
-82,ME Trescothick,A Symonds,PD Collingwood,,0,0,0,1,-,14,caught,ME Trescothick,MEK Hussey,bat,England,1
-83,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,2,-,14,0,,,bat,England,1
-84,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,3,-,14,0,,,bat,England,1
-85,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,4,-,14,0,,,bat,England,1
-86,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,5,-,14,0,,,bat,England,1
-87,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,6,-,14,0,,,bat,England,1
-88,AJ Strauss,MJ Clarke,PD Collingwood,,3,0,3,1,-,15,0,,,bat,England,1
-89,PD Collingwood,MJ Clarke,AJ Strauss,,2,0,2,2,-,15,0,,,bat,England,1
-90,PD Collingwood,MJ Clarke,AJ Strauss,,1,0,1,3,-,15,0,,,bat,England,1
-91,AJ Strauss,MJ Clarke,PD Collingwood,,0,0,0,4,-,15,0,,,bat,England,1
-92,AJ Strauss,MJ Clarke,PD Collingwood,,1,0,1,5,-,15,0,,,bat,England,1
-93,PD Collingwood,MJ Clarke,AJ Strauss,,6,0,6,6,-,15,0,,,bat,England,1
-94,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,1,-,16,0,,,bat,England,1
-95,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,2,-,16,0,,,bat,England,1
-96,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,3,-,16,0,,,bat,England,1
-97,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,4,-,16,0,,,bat,England,1
-98,PD Collingwood,A Symonds,AJ Strauss,,4,0,4,5,-,16,0,,,bat,England,1
-99,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,6,-,16,0,,,bat,England,1
-100,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,1,-,17,0,,,bat,England,1
-101,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,2,-,17,0,,,bat,England,1
-102,AJ Strauss,JN Gillespie,PD Collingwood,,4,0,4,3,-,17,0,,,bat,England,1
-103,AJ Strauss,JN Gillespie,PD Collingwood,{'wides': 1},0,1,1,4,wides,17,0,,,bat,England,1
-104,AJ Strauss,JN Gillespie,PD Collingwood,,1,0,1,5,-,17,0,,,bat,England,1
-105,PD Collingwood,JN Gillespie,AJ Strauss,,4,0,4,6,-,17,0,,,bat,England,1
-106,PD Collingwood,JN Gillespie,AJ Strauss,,6,0,6,7,-,17,0,,,bat,England,1
-107,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,1,-,18,0,,,bat,England,1
-108,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,2,-,18,0,,,bat,England,1
-109,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,3,-,18,0,,,bat,England,1
-110,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,4,-,18,0,,,bat,England,1
-111,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,5,-,18,0,,,bat,England,1
-112,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,6,-,18,0,,,bat,England,1
-113,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,1,-,19,0,,,bat,England,1
-114,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,2,-,19,bowled,AJ Strauss,,bat,England,1
-115,VS Solanki,JN Gillespie,PD Collingwood,,1,0,1,3,-,19,0,,,bat,England,1
-116,PD Collingwood,JN Gillespie,VS Solanki,,0,0,0,4,-,19,0,,,bat,England,1
-117,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,5,-,19,0,,,bat,England,1
-118,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,6,-,19,0,,,bat,England,1
-119,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,1,-,20,0,,,bat,England,1
-120,VS Solanki,GD McGrath,PD Collingwood,,4,0,4,2,-,20,0,,,bat,England,1
-121,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,3,-,20,0,,,bat,England,1
-122,VS Solanki,GD McGrath,PD Collingwood,,0,0,0,4,-,20,caught,VS Solanki,MEK Hussey,bat,England,1
-123,PD Collingwood,GD McGrath,J Lewis,,4,0,4,5,-,20,0,,,bat,England,1
-124,PD Collingwood,GD McGrath,J Lewis,,0,0,0,6,-,20,caught,PD Collingwood,RT Ponting,bat,England,1
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date
+0,ME Trescothick,B Lee,GO Jones,,0,0,0,1,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+1,ME Trescothick,B Lee,GO Jones,,1,0,1,2,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+2,GO Jones,B Lee,ME Trescothick,,0,0,0,3,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+3,GO Jones,B Lee,ME Trescothick,,0,0,0,4,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+4,GO Jones,B Lee,ME Trescothick,,0,0,0,5,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+5,GO Jones,B Lee,ME Trescothick,{'noballs': 1},0,1,1,6,noballs,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+6,GO Jones,B Lee,ME Trescothick,,2,0,2,7,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13
+7,ME Trescothick,GD McGrath,GO Jones,,0,0,0,1,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+8,ME Trescothick,GD McGrath,GO Jones,,0,0,0,2,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+9,ME Trescothick,GD McGrath,GO Jones,{'wides': 1},0,1,1,3,wides,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+10,ME Trescothick,GD McGrath,GO Jones,,0,0,0,4,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+11,ME Trescothick,GD McGrath,GO Jones,,0,0,0,5,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+12,ME Trescothick,GD McGrath,GO Jones,,0,0,0,6,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+13,ME Trescothick,GD McGrath,GO Jones,,1,0,1,7,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13
+14,ME Trescothick,B Lee,GO Jones,,4,0,4,1,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+15,ME Trescothick,B Lee,GO Jones,,1,0,1,2,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+16,GO Jones,B Lee,ME Trescothick,,0,0,0,3,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+17,GO Jones,B Lee,ME Trescothick,,4,0,4,4,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+18,GO Jones,B Lee,ME Trescothick,,4,0,4,5,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+19,GO Jones,B Lee,ME Trescothick,,1,0,1,6,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13
+20,GO Jones,GD McGrath,ME Trescothick,,0,0,0,1,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13
+21,GO Jones,GD McGrath,ME Trescothick,,4,0,4,2,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13
+22,GO Jones,GD McGrath,ME Trescothick,,4,0,4,3,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13
+23,GO Jones,GD McGrath,ME Trescothick,,0,0,0,4,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13
+24,GO Jones,GD McGrath,ME Trescothick,,0,0,0,5,-,4,caught,GO Jones,MS Kasprowicz,bat,England,1,The Rose Bowl,2005-06-13
+25,ME Trescothick,GD McGrath,A Flintoff,,1,0,1,6,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13
+26,ME Trescothick,B Lee,A Flintoff,,1,0,1,1,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+27,A Flintoff,B Lee,ME Trescothick,{'noballs': 1},1,1,2,2,noballs,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+28,ME Trescothick,B Lee,A Flintoff,,4,0,4,3,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+29,ME Trescothick,B Lee,A Flintoff,,1,0,1,4,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+30,A Flintoff,B Lee,ME Trescothick,{'wides': 1},0,1,1,5,wides,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+31,A Flintoff,B Lee,ME Trescothick,,1,0,1,6,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+32,ME Trescothick,B Lee,A Flintoff,{'legbyes': 1},0,1,1,7,legbyes,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+33,A Flintoff,B Lee,ME Trescothick,,3,0,3,8,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13
+34,A Flintoff,MS Kasprowicz,ME Trescothick,,1,0,1,1,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13
+35,ME Trescothick,MS Kasprowicz,A Flintoff,,0,0,0,2,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13
+36,ME Trescothick,MS Kasprowicz,A Flintoff,,4,0,4,3,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13
+37,ME Trescothick,MS Kasprowicz,A Flintoff,,1,0,1,4,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13
+38,A Flintoff,MS Kasprowicz,ME Trescothick,,0,0,0,5,-,6,caught,A Flintoff,A Symonds,bat,England,1,The Rose Bowl,2005-06-13
+39,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,6,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13
+40,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,1,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+41,ME Trescothick,JN Gillespie,KP Pietersen,,0,0,0,2,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+42,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,3,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+43,KP Pietersen,JN Gillespie,ME Trescothick,,0,0,0,4,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+44,KP Pietersen,JN Gillespie,ME Trescothick,,4,0,4,5,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+45,KP Pietersen,JN Gillespie,ME Trescothick,,2,0,2,6,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13
+46,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,1,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+47,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,2,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+48,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,3,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+49,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,4,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+50,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,5,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+51,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,6,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13
+52,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,1,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+53,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,2,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+54,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,3,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+55,ME Trescothick,JN Gillespie,KP Pietersen,,4,0,4,4,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+56,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,5,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+57,KP Pietersen,JN Gillespie,ME Trescothick,,6,0,6,6,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13
+58,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,1,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+59,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,2,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+60,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,3,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+61,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,4,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+62,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,5,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+63,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,6,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13
+64,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,1,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13
+65,KP Pietersen,MJ Clarke,ME Trescothick,,1,0,1,2,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13
+66,ME Trescothick,MJ Clarke,KP Pietersen,,4,0,4,3,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13
+67,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,4,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13
+68,KP Pietersen,MJ Clarke,ME Trescothick,,0,0,0,5,-,11,caught,KP Pietersen,ML Hayden,bat,England,1,The Rose Bowl,2005-06-13
+69,ME Trescothick,MJ Clarke,MP Vaughan,,1,0,1,6,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13
+70,ME Trescothick,A Symonds,MP Vaughan,,1,0,1,1,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13
+71,MP Vaughan,A Symonds,ME Trescothick,,0,0,0,2,-,12,caught,MP Vaughan,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13
+72,PD Collingwood,A Symonds,ME Trescothick,,0,0,0,3,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13
+73,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,4,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13
+74,ME Trescothick,A Symonds,PD Collingwood,,1,0,1,5,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13
+75,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,6,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13
+76,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,1,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+77,ME Trescothick,MJ Clarke,PD Collingwood,,0,0,0,2,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+78,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,3,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+79,PD Collingwood,MJ Clarke,ME Trescothick,,0,0,0,4,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+80,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,5,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+81,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,6,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13
+82,ME Trescothick,A Symonds,PD Collingwood,,0,0,0,1,-,14,caught,ME Trescothick,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13
+83,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,2,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13
+84,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,3,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13
+85,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,4,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13
+86,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,5,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13
+87,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,6,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13
+88,AJ Strauss,MJ Clarke,PD Collingwood,,3,0,3,1,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+89,PD Collingwood,MJ Clarke,AJ Strauss,,2,0,2,2,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+90,PD Collingwood,MJ Clarke,AJ Strauss,,1,0,1,3,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+91,AJ Strauss,MJ Clarke,PD Collingwood,,0,0,0,4,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+92,AJ Strauss,MJ Clarke,PD Collingwood,,1,0,1,5,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+93,PD Collingwood,MJ Clarke,AJ Strauss,,6,0,6,6,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13
+94,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,1,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+95,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,2,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+96,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,3,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+97,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,4,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+98,PD Collingwood,A Symonds,AJ Strauss,,4,0,4,5,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+99,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,6,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13
+100,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,1,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+101,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,2,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+102,AJ Strauss,JN Gillespie,PD Collingwood,,4,0,4,3,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+103,AJ Strauss,JN Gillespie,PD Collingwood,{'wides': 1},0,1,1,4,wides,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+104,AJ Strauss,JN Gillespie,PD Collingwood,,1,0,1,5,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+105,PD Collingwood,JN Gillespie,AJ Strauss,,4,0,4,6,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+106,PD Collingwood,JN Gillespie,AJ Strauss,,6,0,6,7,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13
+107,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,1,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+108,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,2,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+109,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,3,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+110,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,4,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+111,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,5,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+112,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,6,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13
+113,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,1,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13
+114,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,2,-,19,bowled,AJ Strauss,,bat,England,1,The Rose Bowl,2005-06-13
+115,VS Solanki,JN Gillespie,PD Collingwood,,1,0,1,3,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13
+116,PD Collingwood,JN Gillespie,VS Solanki,,0,0,0,4,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13
+117,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,5,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13
+118,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,6,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13
+119,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,1,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13
+120,VS Solanki,GD McGrath,PD Collingwood,,4,0,4,2,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13
+121,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,3,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13
+122,VS Solanki,GD McGrath,PD Collingwood,,0,0,0,4,-,20,caught,VS Solanki,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13
+123,PD Collingwood,GD McGrath,J Lewis,,4,0,4,5,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13
+124,PD Collingwood,GD McGrath,J Lewis,,0,0,0,6,-,20,caught,PD Collingwood,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13

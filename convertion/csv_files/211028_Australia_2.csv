@@ -1,91 +1,91 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings
-0,AC Gilchrist,D Gough,ML Hayden,0,0,0,1,1,,-,0,,,bat,England,2
-1,AC Gilchrist,D Gough,ML Hayden,4,0,4,2,1,,-,0,,,bat,England,2
-2,AC Gilchrist,D Gough,ML Hayden,0,0,0,3,1,,-,0,,,bat,England,2
-3,AC Gilchrist,D Gough,ML Hayden,0,0,0,4,1,,-,0,,,bat,England,2
-4,AC Gilchrist,D Gough,ML Hayden,4,0,4,5,1,,-,0,,,bat,England,2
-5,AC Gilchrist,D Gough,ML Hayden,0,0,0,6,1,,-,0,,,bat,England,2
-6,ML Hayden,J Lewis,AC Gilchrist,4,0,4,1,2,,-,0,,,bat,England,2
-7,ML Hayden,J Lewis,AC Gilchrist,1,0,1,2,2,,-,0,,,bat,England,2
-8,AC Gilchrist,J Lewis,ML Hayden,0,0,0,3,2,,-,0,,,bat,England,2
-9,AC Gilchrist,J Lewis,ML Hayden,0,0,0,4,2,,-,0,,,bat,England,2
-10,AC Gilchrist,J Lewis,ML Hayden,4,0,4,5,2,,-,0,,,bat,England,2
-11,AC Gilchrist,J Lewis,ML Hayden,1,0,1,6,2,,-,0,,,bat,England,2
-12,AC Gilchrist,D Gough,ML Hayden,0,1,1,1,3,{'legbyes': 1},legbyes,0,,,bat,England,2
-13,ML Hayden,D Gough,AC Gilchrist,1,0,1,2,3,,-,0,,,bat,England,2
-14,AC Gilchrist,D Gough,ML Hayden,0,1,1,3,3,{'noballs': 1},noballs,0,,,bat,England,2
-15,AC Gilchrist,D Gough,ML Hayden,2,0,2,4,3,,-,0,,,bat,England,2
-16,AC Gilchrist,D Gough,ML Hayden,0,0,0,5,3,,-,caught,AC Gilchrist,KP Pietersen,bat,England,2
-17,ML Hayden,D Gough,A Symonds,0,0,0,6,3,,-,caught,ML Hayden,KP Pietersen,bat,England,2
-18,A Symonds,D Gough,MJ Clarke,0,0,0,7,3,,-,0,,,bat,England,2
-19,MJ Clarke,J Lewis,A Symonds,0,0,0,1,4,,-,caught,MJ Clarke,GO Jones,bat,England,2
-20,MEK Hussey,J Lewis,A Symonds,0,0,0,2,4,,-,0,,,bat,England,2
-21,MEK Hussey,J Lewis,A Symonds,1,0,1,3,4,,-,0,,,bat,England,2
-22,A Symonds,J Lewis,MEK Hussey,0,0,0,4,4,,-,caught,A Symonds,KP Pietersen,bat,England,2
-23,RT Ponting,J Lewis,MEK Hussey,0,0,0,5,4,,-,0,,,bat,England,2
-24,RT Ponting,J Lewis,MEK Hussey,0,0,0,6,4,,-,0,,,bat,England,2
-25,MEK Hussey,D Gough,RT Ponting,0,0,0,1,5,,-,0,,,bat,England,2
-26,MEK Hussey,D Gough,RT Ponting,0,0,0,2,5,,-,0,,,bat,England,2
-27,MEK Hussey,D Gough,RT Ponting,0,0,0,3,5,,-,0,,,bat,England,2
-28,MEK Hussey,D Gough,RT Ponting,0,0,0,4,5,,-,caught,MEK Hussey,A Flintoff,bat,England,2
-29,DR Martyn,D Gough,RT Ponting,0,0,0,5,5,,-,0,,,bat,England,2
-30,DR Martyn,D Gough,RT Ponting,4,0,4,6,5,,-,0,,,bat,England,2
-31,RT Ponting,J Lewis,DR Martyn,0,0,0,1,6,,-,caught,RT Ponting,VS Solanki,bat,England,2
-32,B Lee,J Lewis,DR Martyn,0,0,0,2,6,,-,0,,,bat,England,2
-33,B Lee,J Lewis,DR Martyn,3,0,3,3,6,,-,0,,,bat,England,2
-34,DR Martyn,J Lewis,B Lee,0,0,0,4,6,,-,0,,,bat,England,2
-35,DR Martyn,J Lewis,B Lee,0,0,0,5,6,,-,caught,DR Martyn,ME Trescothick,bat,England,2
-36,JN Gillespie,J Lewis,B Lee,0,0,0,6,6,,-,0,,,bat,England,2
-37,B Lee,SJ Harmison,JN Gillespie,0,0,0,1,7,,-,0,,,bat,England,2
-38,B Lee,SJ Harmison,JN Gillespie,1,0,1,2,7,,-,0,,,bat,England,2
-39,JN Gillespie,SJ Harmison,B Lee,0,1,1,3,7,{'noballs': 1},noballs,0,,,bat,England,2
-40,JN Gillespie,SJ Harmison,B Lee,1,0,1,4,7,,-,0,,,bat,England,2
-41,B Lee,SJ Harmison,JN Gillespie,4,0,4,5,7,,-,0,,,bat,England,2
-42,B Lee,SJ Harmison,JN Gillespie,1,0,1,6,7,,-,0,,,bat,England,2
-43,JN Gillespie,SJ Harmison,B Lee,0,0,0,7,7,,-,0,,,bat,England,2
-44,B Lee,J Lewis,JN Gillespie,2,0,2,1,8,,-,0,,,bat,England,2
-45,B Lee,J Lewis,JN Gillespie,1,0,1,2,8,,-,0,,,bat,England,2
-46,JN Gillespie,J Lewis,B Lee,0,0,0,3,8,,-,0,,,bat,England,2
-47,JN Gillespie,J Lewis,B Lee,4,0,4,4,8,,-,0,,,bat,England,2
-48,JN Gillespie,J Lewis,B Lee,0,0,0,5,8,,-,0,,,bat,England,2
-49,JN Gillespie,J Lewis,B Lee,3,0,3,6,8,,-,0,,,bat,England,2
-50,JN Gillespie,SJ Harmison,B Lee,4,0,4,1,9,,-,0,,,bat,England,2
-51,JN Gillespie,SJ Harmison,B Lee,0,0,0,2,9,,-,0,,,bat,England,2
-52,JN Gillespie,SJ Harmison,B Lee,0,0,0,3,9,,-,0,,,bat,England,2
-53,JN Gillespie,SJ Harmison,B Lee,1,0,1,4,9,,-,0,,,bat,England,2
-54,B Lee,SJ Harmison,JN Gillespie,0,0,0,5,9,,-,0,,,bat,England,2
-55,B Lee,SJ Harmison,JN Gillespie,0,0,0,6,9,,-,0,,,bat,England,2
-56,JN Gillespie,A Flintoff,B Lee,4,0,4,1,10,,-,0,,,bat,England,2
-57,JN Gillespie,A Flintoff,B Lee,4,0,4,2,10,,-,0,,,bat,England,2
-58,JN Gillespie,A Flintoff,B Lee,1,0,1,3,10,,-,0,,,bat,England,2
-59,B Lee,A Flintoff,JN Gillespie,1,0,1,4,10,,-,0,,,bat,England,2
-60,JN Gillespie,A Flintoff,B Lee,1,0,1,5,10,,-,0,,,bat,England,2
-61,B Lee,A Flintoff,JN Gillespie,0,0,0,6,10,,-,0,,,bat,England,2
-62,JN Gillespie,PD Collingwood,B Lee,1,0,1,1,11,,-,0,,,bat,England,2
-63,B Lee,PD Collingwood,JN Gillespie,0,1,1,2,11,{'byes': 1},byes,0,,,bat,England,2
-64,JN Gillespie,PD Collingwood,B Lee,0,0,0,3,11,,-,caught,JN Gillespie,ME Trescothick,bat,England,2
-65,B Lee,PD Collingwood,MS Kasprowicz,1,0,1,4,11,,-,0,,,bat,England,2
-66,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,5,11,,-,0,,,bat,England,2
-67,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,6,11,,-,0,,,bat,England,2
-68,B Lee,A Flintoff,MS Kasprowicz,0,0,0,1,12,,-,0,,,bat,England,2
-69,B Lee,A Flintoff,MS Kasprowicz,0,0,0,2,12,,-,0,,,bat,England,2
-70,B Lee,A Flintoff,MS Kasprowicz,0,0,0,3,12,,-,0,,,bat,England,2
-71,B Lee,A Flintoff,MS Kasprowicz,0,1,1,4,12,{'legbyes': 1},legbyes,0,,,bat,England,2
-72,MS Kasprowicz,A Flintoff,B Lee,0,1,1,5,12,{'wides': 1},wides,0,,,bat,England,2
-73,MS Kasprowicz,A Flintoff,B Lee,1,0,1,6,12,,-,0,,,bat,England,2
-74,B Lee,A Flintoff,MS Kasprowicz,1,0,1,7,12,,-,0,,,bat,England,2
-75,B Lee,PD Collingwood,MS Kasprowicz,0,0,0,1,13,,-,caught,B Lee,SJ Harmison,bat,England,2
-76,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,2,13,,-,0,,,bat,England,2
-77,GD McGrath,PD Collingwood,MS Kasprowicz,0,0,0,3,13,,-,0,,,bat,England,2
-78,GD McGrath,PD Collingwood,MS Kasprowicz,3,0,3,4,13,,-,0,,,bat,England,2
-79,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,5,13,,-,0,,,bat,England,2
-80,GD McGrath,PD Collingwood,MS Kasprowicz,1,0,1,6,13,,-,0,,,bat,England,2
-81,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,1,14,,-,0,,,bat,England,2
-82,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,2,14,,-,0,,,bat,England,2
-83,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,3,14,,-,0,,,bat,England,2
-84,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,4,14,,-,0,,,bat,England,2
-85,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,5,14,,-,0,,,bat,England,2
-86,GD McGrath,A Flintoff,MS Kasprowicz,1,0,1,6,14,,-,0,,,bat,England,2
-87,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,1,15,,-,0,,,bat,England,2
-88,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,2,15,,-,0,,,bat,England,2
-89,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,3,15,,-,bowled,GD McGrath,,bat,England,2
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date
+0,AC Gilchrist,D Gough,ML Hayden,0,0,0,1,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+1,AC Gilchrist,D Gough,ML Hayden,4,0,4,2,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+2,AC Gilchrist,D Gough,ML Hayden,0,0,0,3,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+3,AC Gilchrist,D Gough,ML Hayden,0,0,0,4,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+4,AC Gilchrist,D Gough,ML Hayden,4,0,4,5,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+5,AC Gilchrist,D Gough,ML Hayden,0,0,0,6,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+6,ML Hayden,J Lewis,AC Gilchrist,4,0,4,1,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+7,ML Hayden,J Lewis,AC Gilchrist,1,0,1,2,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+8,AC Gilchrist,J Lewis,ML Hayden,0,0,0,3,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+9,AC Gilchrist,J Lewis,ML Hayden,0,0,0,4,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+10,AC Gilchrist,J Lewis,ML Hayden,4,0,4,5,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+11,AC Gilchrist,J Lewis,ML Hayden,1,0,1,6,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+12,AC Gilchrist,D Gough,ML Hayden,0,1,1,1,3,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13
+13,ML Hayden,D Gough,AC Gilchrist,1,0,1,2,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+14,AC Gilchrist,D Gough,ML Hayden,0,1,1,3,3,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13
+15,AC Gilchrist,D Gough,ML Hayden,2,0,2,4,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+16,AC Gilchrist,D Gough,ML Hayden,0,0,0,5,3,,-,caught,AC Gilchrist,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13
+17,ML Hayden,D Gough,A Symonds,0,0,0,6,3,,-,caught,ML Hayden,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13
+18,A Symonds,D Gough,MJ Clarke,0,0,0,7,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+19,MJ Clarke,J Lewis,A Symonds,0,0,0,1,4,,-,caught,MJ Clarke,GO Jones,bat,England,2,The Rose Bowl,2005-06-13
+20,MEK Hussey,J Lewis,A Symonds,0,0,0,2,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+21,MEK Hussey,J Lewis,A Symonds,1,0,1,3,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+22,A Symonds,J Lewis,MEK Hussey,0,0,0,4,4,,-,caught,A Symonds,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13
+23,RT Ponting,J Lewis,MEK Hussey,0,0,0,5,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+24,RT Ponting,J Lewis,MEK Hussey,0,0,0,6,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+25,MEK Hussey,D Gough,RT Ponting,0,0,0,1,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+26,MEK Hussey,D Gough,RT Ponting,0,0,0,2,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+27,MEK Hussey,D Gough,RT Ponting,0,0,0,3,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+28,MEK Hussey,D Gough,RT Ponting,0,0,0,4,5,,-,caught,MEK Hussey,A Flintoff,bat,England,2,The Rose Bowl,2005-06-13
+29,DR Martyn,D Gough,RT Ponting,0,0,0,5,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+30,DR Martyn,D Gough,RT Ponting,4,0,4,6,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+31,RT Ponting,J Lewis,DR Martyn,0,0,0,1,6,,-,caught,RT Ponting,VS Solanki,bat,England,2,The Rose Bowl,2005-06-13
+32,B Lee,J Lewis,DR Martyn,0,0,0,2,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+33,B Lee,J Lewis,DR Martyn,3,0,3,3,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+34,DR Martyn,J Lewis,B Lee,0,0,0,4,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+35,DR Martyn,J Lewis,B Lee,0,0,0,5,6,,-,caught,DR Martyn,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13
+36,JN Gillespie,J Lewis,B Lee,0,0,0,6,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+37,B Lee,SJ Harmison,JN Gillespie,0,0,0,1,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+38,B Lee,SJ Harmison,JN Gillespie,1,0,1,2,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+39,JN Gillespie,SJ Harmison,B Lee,0,1,1,3,7,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13
+40,JN Gillespie,SJ Harmison,B Lee,1,0,1,4,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+41,B Lee,SJ Harmison,JN Gillespie,4,0,4,5,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+42,B Lee,SJ Harmison,JN Gillespie,1,0,1,6,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+43,JN Gillespie,SJ Harmison,B Lee,0,0,0,7,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+44,B Lee,J Lewis,JN Gillespie,2,0,2,1,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+45,B Lee,J Lewis,JN Gillespie,1,0,1,2,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+46,JN Gillespie,J Lewis,B Lee,0,0,0,3,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+47,JN Gillespie,J Lewis,B Lee,4,0,4,4,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+48,JN Gillespie,J Lewis,B Lee,0,0,0,5,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+49,JN Gillespie,J Lewis,B Lee,3,0,3,6,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+50,JN Gillespie,SJ Harmison,B Lee,4,0,4,1,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+51,JN Gillespie,SJ Harmison,B Lee,0,0,0,2,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+52,JN Gillespie,SJ Harmison,B Lee,0,0,0,3,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+53,JN Gillespie,SJ Harmison,B Lee,1,0,1,4,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+54,B Lee,SJ Harmison,JN Gillespie,0,0,0,5,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+55,B Lee,SJ Harmison,JN Gillespie,0,0,0,6,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+56,JN Gillespie,A Flintoff,B Lee,4,0,4,1,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+57,JN Gillespie,A Flintoff,B Lee,4,0,4,2,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+58,JN Gillespie,A Flintoff,B Lee,1,0,1,3,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+59,B Lee,A Flintoff,JN Gillespie,1,0,1,4,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+60,JN Gillespie,A Flintoff,B Lee,1,0,1,5,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+61,B Lee,A Flintoff,JN Gillespie,0,0,0,6,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+62,JN Gillespie,PD Collingwood,B Lee,1,0,1,1,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+63,B Lee,PD Collingwood,JN Gillespie,0,1,1,2,11,{'byes': 1},byes,0,,,bat,England,2,The Rose Bowl,2005-06-13
+64,JN Gillespie,PD Collingwood,B Lee,0,0,0,3,11,,-,caught,JN Gillespie,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13
+65,B Lee,PD Collingwood,MS Kasprowicz,1,0,1,4,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+66,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,5,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+67,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,6,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+68,B Lee,A Flintoff,MS Kasprowicz,0,0,0,1,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+69,B Lee,A Flintoff,MS Kasprowicz,0,0,0,2,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+70,B Lee,A Flintoff,MS Kasprowicz,0,0,0,3,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+71,B Lee,A Flintoff,MS Kasprowicz,0,1,1,4,12,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13
+72,MS Kasprowicz,A Flintoff,B Lee,0,1,1,5,12,{'wides': 1},wides,0,,,bat,England,2,The Rose Bowl,2005-06-13
+73,MS Kasprowicz,A Flintoff,B Lee,1,0,1,6,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+74,B Lee,A Flintoff,MS Kasprowicz,1,0,1,7,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+75,B Lee,PD Collingwood,MS Kasprowicz,0,0,0,1,13,,-,caught,B Lee,SJ Harmison,bat,England,2,The Rose Bowl,2005-06-13
+76,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,2,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+77,GD McGrath,PD Collingwood,MS Kasprowicz,0,0,0,3,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+78,GD McGrath,PD Collingwood,MS Kasprowicz,3,0,3,4,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+79,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,5,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+80,GD McGrath,PD Collingwood,MS Kasprowicz,1,0,1,6,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+81,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,1,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+82,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,2,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+83,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,3,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+84,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,4,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+85,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,5,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+86,GD McGrath,A Flintoff,MS Kasprowicz,1,0,1,6,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+87,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,1,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+88,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,2,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13
+89,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,3,15,,-,bowled,GD McGrath,,bat,England,2,The Rose Bowl,2005-06-13

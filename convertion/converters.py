@@ -78,6 +78,8 @@ def json_to_csv(match_file, output_file=False):
         df["toss_decision"] = toss_decision
         df["toss_winner"] = toss_win_team
         df["innings"] = idx + 1
+        df["venue"] = info["venue"]
+        df["date"] = info["dates"][0]
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
