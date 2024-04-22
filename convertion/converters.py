@@ -70,7 +70,7 @@ def json_to_csv(match_file, output_file=False):
     all_innings_df = {}
     for idx, inning in enumerate(innings):
         team = inning["overs"]
-        print("team:", team)
+        # print("team:", team)
 
         df = complete_team_df(team)
         df["extra_type"] = df["extra_type"].fillna("-")
@@ -80,6 +80,10 @@ def json_to_csv(match_file, output_file=False):
         df["innings"] = idx + 1
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
+        print("innings", innings)
+        print("inning & team", inning)
+        df["team_bat"] = innings[idx]["team"]
+        df["team_bowl"] = innings[1 if idx == 0 else 0]["team"]
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
