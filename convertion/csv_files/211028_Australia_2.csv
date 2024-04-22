@@ -1,91 +1,91 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,tot_cumsum,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
 0,AC Gilchrist,D Gough,ML Hayden,0,0,0,0,1,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
 1,AC Gilchrist,D Gough,ML Hayden,4,0,4,4,2,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
 2,AC Gilchrist,D Gough,ML Hayden,0,0,0,4,3,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
 3,AC Gilchrist,D Gough,ML Hayden,0,0,0,4,4,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
 4,AC Gilchrist,D Gough,ML Hayden,4,0,4,8,5,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
 5,AC Gilchrist,D Gough,ML Hayden,0,0,0,8,6,1,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-6,ML Hayden,J Lewis,AC Gilchrist,4,0,4,4,1,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-7,ML Hayden,J Lewis,AC Gilchrist,1,0,1,5,2,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-8,AC Gilchrist,J Lewis,ML Hayden,0,0,0,5,3,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-9,AC Gilchrist,J Lewis,ML Hayden,0,0,0,5,4,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-10,AC Gilchrist,J Lewis,ML Hayden,4,0,4,9,5,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-11,AC Gilchrist,J Lewis,ML Hayden,1,0,1,10,6,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-12,AC Gilchrist,D Gough,ML Hayden,0,1,1,1,1,3,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-13,ML Hayden,D Gough,AC Gilchrist,1,0,1,2,2,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-14,AC Gilchrist,D Gough,ML Hayden,0,1,1,3,3,3,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-15,AC Gilchrist,D Gough,ML Hayden,2,0,2,5,4,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-16,AC Gilchrist,D Gough,ML Hayden,0,0,0,5,5,3,,-,caught,AC Gilchrist,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-17,ML Hayden,D Gough,A Symonds,0,0,0,5,6,3,,-,caught,ML Hayden,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-18,A Symonds,D Gough,MJ Clarke,0,0,0,5,7,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-19,MJ Clarke,J Lewis,A Symonds,0,0,0,0,1,4,,-,caught,MJ Clarke,GO Jones,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-20,MEK Hussey,J Lewis,A Symonds,0,0,0,0,2,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-21,MEK Hussey,J Lewis,A Symonds,1,0,1,1,3,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-22,A Symonds,J Lewis,MEK Hussey,0,0,0,1,4,4,,-,caught,A Symonds,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-23,RT Ponting,J Lewis,MEK Hussey,0,0,0,1,5,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-24,RT Ponting,J Lewis,MEK Hussey,0,0,0,1,6,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-25,MEK Hussey,D Gough,RT Ponting,0,0,0,0,1,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-26,MEK Hussey,D Gough,RT Ponting,0,0,0,0,2,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-27,MEK Hussey,D Gough,RT Ponting,0,0,0,0,3,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-28,MEK Hussey,D Gough,RT Ponting,0,0,0,0,4,5,,-,caught,MEK Hussey,A Flintoff,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-29,DR Martyn,D Gough,RT Ponting,0,0,0,0,5,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-30,DR Martyn,D Gough,RT Ponting,4,0,4,4,6,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-31,RT Ponting,J Lewis,DR Martyn,0,0,0,0,1,6,,-,caught,RT Ponting,VS Solanki,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-32,B Lee,J Lewis,DR Martyn,0,0,0,0,2,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-33,B Lee,J Lewis,DR Martyn,3,0,3,3,3,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-34,DR Martyn,J Lewis,B Lee,0,0,0,3,4,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-35,DR Martyn,J Lewis,B Lee,0,0,0,3,5,6,,-,caught,DR Martyn,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-36,JN Gillespie,J Lewis,B Lee,0,0,0,3,6,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-37,B Lee,SJ Harmison,JN Gillespie,0,0,0,0,1,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-38,B Lee,SJ Harmison,JN Gillespie,1,0,1,1,2,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-39,JN Gillespie,SJ Harmison,B Lee,0,1,1,2,3,7,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-40,JN Gillespie,SJ Harmison,B Lee,1,0,1,3,4,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-41,B Lee,SJ Harmison,JN Gillespie,4,0,4,7,5,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-42,B Lee,SJ Harmison,JN Gillespie,1,0,1,8,6,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-43,JN Gillespie,SJ Harmison,B Lee,0,0,0,8,7,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-44,B Lee,J Lewis,JN Gillespie,2,0,2,2,1,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-45,B Lee,J Lewis,JN Gillespie,1,0,1,3,2,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-46,JN Gillespie,J Lewis,B Lee,0,0,0,3,3,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-47,JN Gillespie,J Lewis,B Lee,4,0,4,7,4,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-48,JN Gillespie,J Lewis,B Lee,0,0,0,7,5,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-49,JN Gillespie,J Lewis,B Lee,3,0,3,10,6,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-50,JN Gillespie,SJ Harmison,B Lee,4,0,4,4,1,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-51,JN Gillespie,SJ Harmison,B Lee,0,0,0,4,2,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-52,JN Gillespie,SJ Harmison,B Lee,0,0,0,4,3,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-53,JN Gillespie,SJ Harmison,B Lee,1,0,1,5,4,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-54,B Lee,SJ Harmison,JN Gillespie,0,0,0,5,5,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-55,B Lee,SJ Harmison,JN Gillespie,0,0,0,5,6,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-56,JN Gillespie,A Flintoff,B Lee,4,0,4,4,1,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-57,JN Gillespie,A Flintoff,B Lee,4,0,4,8,2,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-58,JN Gillespie,A Flintoff,B Lee,1,0,1,9,3,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-59,B Lee,A Flintoff,JN Gillespie,1,0,1,10,4,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-60,JN Gillespie,A Flintoff,B Lee,1,0,1,11,5,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-61,B Lee,A Flintoff,JN Gillespie,0,0,0,11,6,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-62,JN Gillespie,PD Collingwood,B Lee,1,0,1,1,1,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-63,B Lee,PD Collingwood,JN Gillespie,0,1,1,2,2,11,{'byes': 1},byes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-64,JN Gillespie,PD Collingwood,B Lee,0,0,0,2,3,11,,-,caught,JN Gillespie,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-65,B Lee,PD Collingwood,MS Kasprowicz,1,0,1,3,4,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-66,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,3,5,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-67,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,3,6,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-68,B Lee,A Flintoff,MS Kasprowicz,0,0,0,0,1,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-69,B Lee,A Flintoff,MS Kasprowicz,0,0,0,0,2,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-70,B Lee,A Flintoff,MS Kasprowicz,0,0,0,0,3,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-71,B Lee,A Flintoff,MS Kasprowicz,0,1,1,1,4,12,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-72,MS Kasprowicz,A Flintoff,B Lee,0,1,1,2,5,12,{'wides': 1},wides,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-73,MS Kasprowicz,A Flintoff,B Lee,1,0,1,3,6,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-74,B Lee,A Flintoff,MS Kasprowicz,1,0,1,4,7,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-75,B Lee,PD Collingwood,MS Kasprowicz,0,0,0,0,1,13,,-,caught,B Lee,SJ Harmison,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-76,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,1,2,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-77,GD McGrath,PD Collingwood,MS Kasprowicz,0,0,0,1,3,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-78,GD McGrath,PD Collingwood,MS Kasprowicz,3,0,3,4,4,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-79,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,5,5,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-80,GD McGrath,PD Collingwood,MS Kasprowicz,1,0,1,6,6,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-81,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,0,1,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-82,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,0,2,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-83,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,0,3,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-84,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,0,4,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-85,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,0,5,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-86,GD McGrath,A Flintoff,MS Kasprowicz,1,0,1,1,6,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-87,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,0,1,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-88,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,0,2,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
-89,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,0,3,15,,-,bowled,GD McGrath,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+6,ML Hayden,J Lewis,AC Gilchrist,4,0,4,12,1,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+7,ML Hayden,J Lewis,AC Gilchrist,1,0,1,13,2,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+8,AC Gilchrist,J Lewis,ML Hayden,0,0,0,13,3,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+9,AC Gilchrist,J Lewis,ML Hayden,0,0,0,13,4,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+10,AC Gilchrist,J Lewis,ML Hayden,4,0,4,17,5,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+11,AC Gilchrist,J Lewis,ML Hayden,1,0,1,18,6,2,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+12,AC Gilchrist,D Gough,ML Hayden,0,1,1,19,1,3,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+13,ML Hayden,D Gough,AC Gilchrist,1,0,1,20,2,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+14,AC Gilchrist,D Gough,ML Hayden,0,1,1,21,3,3,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+15,AC Gilchrist,D Gough,ML Hayden,2,0,2,23,4,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+16,AC Gilchrist,D Gough,ML Hayden,0,0,0,23,5,3,,-,caught,AC Gilchrist,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+17,ML Hayden,D Gough,A Symonds,0,0,0,23,6,3,,-,caught,ML Hayden,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+18,A Symonds,D Gough,MJ Clarke,0,0,0,23,7,3,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+19,MJ Clarke,J Lewis,A Symonds,0,0,0,23,1,4,,-,caught,MJ Clarke,GO Jones,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+20,MEK Hussey,J Lewis,A Symonds,0,0,0,23,2,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+21,MEK Hussey,J Lewis,A Symonds,1,0,1,24,3,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+22,A Symonds,J Lewis,MEK Hussey,0,0,0,24,4,4,,-,caught,A Symonds,KP Pietersen,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+23,RT Ponting,J Lewis,MEK Hussey,0,0,0,24,5,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+24,RT Ponting,J Lewis,MEK Hussey,0,0,0,24,6,4,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+25,MEK Hussey,D Gough,RT Ponting,0,0,0,24,1,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+26,MEK Hussey,D Gough,RT Ponting,0,0,0,24,2,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+27,MEK Hussey,D Gough,RT Ponting,0,0,0,24,3,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+28,MEK Hussey,D Gough,RT Ponting,0,0,0,24,4,5,,-,caught,MEK Hussey,A Flintoff,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+29,DR Martyn,D Gough,RT Ponting,0,0,0,24,5,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+30,DR Martyn,D Gough,RT Ponting,4,0,4,28,6,5,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+31,RT Ponting,J Lewis,DR Martyn,0,0,0,28,1,6,,-,caught,RT Ponting,VS Solanki,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+32,B Lee,J Lewis,DR Martyn,0,0,0,28,2,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+33,B Lee,J Lewis,DR Martyn,3,0,3,31,3,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+34,DR Martyn,J Lewis,B Lee,0,0,0,31,4,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+35,DR Martyn,J Lewis,B Lee,0,0,0,31,5,6,,-,caught,DR Martyn,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+36,JN Gillespie,J Lewis,B Lee,0,0,0,31,6,6,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+37,B Lee,SJ Harmison,JN Gillespie,0,0,0,31,1,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+38,B Lee,SJ Harmison,JN Gillespie,1,0,1,32,2,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+39,JN Gillespie,SJ Harmison,B Lee,0,1,1,33,3,7,{'noballs': 1},noballs,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+40,JN Gillespie,SJ Harmison,B Lee,1,0,1,34,4,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+41,B Lee,SJ Harmison,JN Gillespie,4,0,4,38,5,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+42,B Lee,SJ Harmison,JN Gillespie,1,0,1,39,6,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+43,JN Gillespie,SJ Harmison,B Lee,0,0,0,39,7,7,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+44,B Lee,J Lewis,JN Gillespie,2,0,2,41,1,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+45,B Lee,J Lewis,JN Gillespie,1,0,1,42,2,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+46,JN Gillespie,J Lewis,B Lee,0,0,0,42,3,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+47,JN Gillespie,J Lewis,B Lee,4,0,4,46,4,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+48,JN Gillespie,J Lewis,B Lee,0,0,0,46,5,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+49,JN Gillespie,J Lewis,B Lee,3,0,3,49,6,8,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+50,JN Gillespie,SJ Harmison,B Lee,4,0,4,53,1,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+51,JN Gillespie,SJ Harmison,B Lee,0,0,0,53,2,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+52,JN Gillespie,SJ Harmison,B Lee,0,0,0,53,3,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+53,JN Gillespie,SJ Harmison,B Lee,1,0,1,54,4,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+54,B Lee,SJ Harmison,JN Gillespie,0,0,0,54,5,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+55,B Lee,SJ Harmison,JN Gillespie,0,0,0,54,6,9,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+56,JN Gillespie,A Flintoff,B Lee,4,0,4,58,1,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+57,JN Gillespie,A Flintoff,B Lee,4,0,4,62,2,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+58,JN Gillespie,A Flintoff,B Lee,1,0,1,63,3,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+59,B Lee,A Flintoff,JN Gillespie,1,0,1,64,4,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+60,JN Gillespie,A Flintoff,B Lee,1,0,1,65,5,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+61,B Lee,A Flintoff,JN Gillespie,0,0,0,65,6,10,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+62,JN Gillespie,PD Collingwood,B Lee,1,0,1,66,1,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+63,B Lee,PD Collingwood,JN Gillespie,0,1,1,67,2,11,{'byes': 1},byes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+64,JN Gillespie,PD Collingwood,B Lee,0,0,0,67,3,11,,-,caught,JN Gillespie,ME Trescothick,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+65,B Lee,PD Collingwood,MS Kasprowicz,1,0,1,68,4,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+66,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,68,5,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+67,MS Kasprowicz,PD Collingwood,B Lee,0,0,0,68,6,11,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+68,B Lee,A Flintoff,MS Kasprowicz,0,0,0,68,1,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+69,B Lee,A Flintoff,MS Kasprowicz,0,0,0,68,2,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+70,B Lee,A Flintoff,MS Kasprowicz,0,0,0,68,3,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+71,B Lee,A Flintoff,MS Kasprowicz,0,1,1,69,4,12,{'legbyes': 1},legbyes,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+72,MS Kasprowicz,A Flintoff,B Lee,0,1,1,70,5,12,{'wides': 1},wides,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+73,MS Kasprowicz,A Flintoff,B Lee,1,0,1,71,6,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+74,B Lee,A Flintoff,MS Kasprowicz,1,0,1,72,7,12,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+75,B Lee,PD Collingwood,MS Kasprowicz,0,0,0,72,1,13,,-,caught,B Lee,SJ Harmison,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+76,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,73,2,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+77,GD McGrath,PD Collingwood,MS Kasprowicz,0,0,0,73,3,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+78,GD McGrath,PD Collingwood,MS Kasprowicz,3,0,3,76,4,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+79,MS Kasprowicz,PD Collingwood,GD McGrath,1,0,1,77,5,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+80,GD McGrath,PD Collingwood,MS Kasprowicz,1,0,1,78,6,13,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+81,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,78,1,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+82,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,78,2,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+83,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,78,3,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+84,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,78,4,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+85,GD McGrath,A Flintoff,MS Kasprowicz,0,0,0,78,5,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+86,GD McGrath,A Flintoff,MS Kasprowicz,1,0,1,79,6,14,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+87,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,79,1,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+88,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,79,2,15,,-,0,,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
+89,GD McGrath,SJ Harmison,MS Kasprowicz,0,0,0,79,3,15,,-,bowled,GD McGrath,,bat,England,2,The Rose Bowl,2005-06-13,Australia,England
