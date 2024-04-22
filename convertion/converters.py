@@ -56,6 +56,10 @@ def json_to_csv(match_file, output_file=False):
         file = json.load(f)
 
     info = file["info"]
+    # Added toss decision and toss winner
+    toss_decision = info["toss"]["decision"]
+    toss_win_team = info["toss"]["winner"]
+    print(f"Toss winner: {toss_win_team}, Toss decision: {toss_decision}")
     innings = file["innings"]
     length = len(innings)
 
@@ -69,6 +73,8 @@ def json_to_csv(match_file, output_file=False):
         df = complete_team_df(team)
         df["extra_type"] = df["extra_type"].fillna("-")
         df["wicket_type"] = df["wicket_type"].fillna(0)
+        df["toss_decision"] = toss_decision
+        df["toss_winner"] = toss_win_team
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
