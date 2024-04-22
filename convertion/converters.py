@@ -83,7 +83,7 @@ def json_to_csv(match_file, output_file=False):
         print("innings", innings)
         print("inning & team", inning)
         df["team_bat"] = innings[idx]["team"]
-        df["team_bowl"] = innings[1 if idx == 0 else 0]["team"]
+        df["team_ball"] = innings[1 if idx == 0 else 0]["team"]
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
