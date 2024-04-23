@@ -4,6 +4,7 @@ import numpy as np
 
 # global
 batter_scores = {}
+balls_faced = {}
 
 
 def convert_over_to_df(over_data, prev_score_cumsum=0):
@@ -17,10 +18,18 @@ def convert_over_to_df(over_data, prev_score_cumsum=0):
     over_df["team_total"] = score
 
     over_df["batter_runs"] = [{} for _ in range(len(over_df))]
+    over_df["balls_faced"] = [{} for _ in range(len(over_df))]
 
     for idx, row in over_df.iterrows():
         batter = row["batter"]
         runs = row["runs_by_bat"]
+
+        if batter in balls_faced:
+            balls_faced[batter] += 1
+        else:
+            balls_faced[batter] = 1
+        over_df.at[idx, "balls_faced"] = balls_faced.copy()
+
         if batter in batter_scores:
             batter_scores[batter] += runs
         else:
@@ -91,6 +100,9 @@ def json_to_csv(match_file, output_file=False):
 
         global batter_scores
         batter_scores = {}
+
+        global balls_faced
+        balls_faced = {}
 
         team = inning["overs"]
 
