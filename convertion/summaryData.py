@@ -1,12 +1,12 @@
 import pandas as pd
 import warnings
-from Viz import Vizuals
+from plot import Plotting
 from converters import json_to_csv
 
 warnings.filterwarnings("ignore")
 
 
-class Duranz(Vizuals):
+class Summary(Plotting):
 
     def __init__(self, match):
         self.match = match
