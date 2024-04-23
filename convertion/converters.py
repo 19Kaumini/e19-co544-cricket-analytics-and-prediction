@@ -61,7 +61,7 @@ def json_to_csv(match_file, output_file=False):
     toss_decision = info["toss"]["decision"]
     toss_win_team = info["toss"]["winner"]
     players = info["registry"]["people"]
-    print("Player Mapping:", players)
+    # print("Player Mapping:", players)
 
     innings = file["innings"]
     length = len(innings)
@@ -96,4 +96,4 @@ def json_to_csv(match_file, output_file=False):
 
         all_innings_df[team_innings] = df
 
-    return all_innings_df, info
+    return all_innings_df, players
