@@ -53,14 +53,6 @@ def convert_over_to_df(over_data, prev_score_cumsum=0):
 
     over_df.drop(columns=["runs"], inplace=True)
 
-    #
-
-    # Add the batter_runs as a new column
-
-    #
-
-    # print("FI", score)
-
     return over_df, score.iloc[-1]
 
 
@@ -86,7 +78,6 @@ def json_to_csv(match_file, output_file=False):
     toss_decision = info["toss"]["decision"]
     toss_win_team = info["toss"]["winner"]
     players = info["registry"]["people"]
-    # print("Player Mapping:", players)
 
     innings = file["innings"]
     length = len(innings)
@@ -101,7 +92,6 @@ def json_to_csv(match_file, output_file=False):
         global batter_scores
         batter_scores = {}
 
-        # array of objects(over data) -  array of objects(per over)
         team = inning["overs"]
 
         # Call per inning
@@ -113,8 +103,6 @@ def json_to_csv(match_file, output_file=False):
         df["innings"] = idx + 1
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
-        # print("innings", innings)
-        # print("inning & team", inning)
         df["batting_team"] = innings[idx]["team"]
         df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
 
