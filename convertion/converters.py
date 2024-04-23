@@ -2,16 +2,30 @@ import os, json
 import pandas as pd
 import numpy as np
 
+# global
+batter_scores = {}
+
 
 def convert_over_to_df(over_data, prev_score_cumsum=0):
+
     over_df = pd.DataFrame(over_data)
     over_df["runs_by_bat"] = over_df["runs"].apply(lambda x: x.get("batter"))
     over_df["extra_runs"] = over_df["runs"].apply(lambda x: x.get("extras"))
     over_df["total"] = over_df["runs"].apply(lambda x: x.get("total"))
-
     # Cumulative sum of the total score
     score = over_df["total"].cumsum() + prev_score_cumsum
     over_df["team_total"] = score
+
+    over_df["batter_runs"] = [{} for _ in range(len(over_df))]
+
+    for idx, row in over_df.iterrows():
+        batter = row["batter"]
+        runs = row["runs_by_bat"]
+        if batter in batter_scores:
+            batter_scores[batter] += runs
+        else:
+            batter_scores[batter] = runs
+        over_df.at[idx, "batter_runs"] = batter_scores.copy()
 
     over_df["delivery"] = np.arange(1, len(over_df) + 1)
 
@@ -38,13 +52,24 @@ def convert_over_to_df(over_data, prev_score_cumsum=0):
         over_df.drop(columns=["wickets"], inplace=True)
 
     over_df.drop(columns=["runs"], inplace=True)
+
+    #
+
+    # Add the batter_runs as a new column
+
+    #
+
+    # print("FI", score)
+
     return over_df, score.iloc[-1]
 
 
 def complete_team_df(team_overs):
     all_overs = []
+    # keep tarck of total runs
     score_cumsum = 0
     for over_index, over in enumerate(team_overs):
+        # over["deliveries"] array of objects(per ball)
         over_df, score_cumsum = convert_over_to_df(over["deliveries"], score_cumsum)
         over_df["over"] = over_index + 1
         all_overs.append(over_df)
@@ -72,9 +97,14 @@ def json_to_csv(match_file, output_file=False):
 
     all_innings_df = {}
     for idx, inning in enumerate(innings):
-        team = inning["overs"]
-        # print("team:", team)
 
+        global batter_scores
+        batter_scores = {}
+
+        # array of objects(over data) -  array of objects(per over)
+        team = inning["overs"]
+
+        # Call per inning
         df = complete_team_df(team)
         df["extra_type"] = df["extra_type"].fillna("-")
         df["wicket_type"] = df["wicket_type"].fillna(0)
