@@ -5,17 +5,21 @@ import numpy as np
 # global
 batter_scores = {}
 balls_faced = {}
+total_score = 0
 
 
-def convert_over_to_df(over_data, prev_score_cumsum=0):
+def convert_over_to_df(over_data):
 
     over_df = pd.DataFrame(over_data)
     over_df["runs_by_bat"] = over_df["runs"].apply(lambda x: x.get("batter"))
     over_df["extra_runs"] = over_df["runs"].apply(lambda x: x.get("extras"))
     over_df["total"] = over_df["runs"].apply(lambda x: x.get("total"))
     # Cumulative sum of the total score
-    score = over_df["total"].cumsum() + prev_score_cumsum
+    global total_score
+    score = over_df["total"].cumsum() + total_score
     over_df["team_total"] = score
+
+    total_score = score.iloc[-1]
 
     over_df["batter_runs"] = [{} for _ in range(len(over_df))]
     over_df["balls_faced"] = [{} for _ in range(len(over_df))]
@@ -62,16 +66,16 @@ def convert_over_to_df(over_data, prev_score_cumsum=0):
 
     over_df.drop(columns=["runs"], inplace=True)
 
-    return over_df, score.iloc[-1]
+    return over_df
 
 
 def complete_team_df(team_overs):
     all_overs = []
     # keep tarck of total runs
-    score_cumsum = 0
+
     for over_index, over in enumerate(team_overs):
         # over["deliveries"] array of objects(per ball)
-        over_df, score_cumsum = convert_over_to_df(over["deliveries"], score_cumsum)
+        over_df = convert_over_to_df(over["deliveries"])
         over_df["over"] = over_index + 1
         all_overs.append(over_df)
     return pd.concat(all_overs, ignore_index=True)
@@ -103,6 +107,9 @@ def json_to_csv(match_file, output_file=False):
 
         global balls_faced
         balls_faced = {}
+
+        global total_score
+        total_score = 0
 
         team = inning["overs"]
 
