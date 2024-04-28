@@ -32,13 +32,13 @@ def convert_over_to_df(over_data):
             balls_faced[batter] += 1
         else:
             balls_faced[batter] = 1
-        over_df.at[idx, "balls_faced"] = balls_faced.copy()
+        over_df.at[idx, "balls_faced"] = balls_faced.copy()[batter]
 
         if batter in batter_scores:
             batter_scores[batter] += runs
         else:
             batter_scores[batter] = runs
-        over_df.at[idx, "batter_runs"] = batter_scores.copy()
+        over_df.at[idx, "batter_runs"] = batter_scores.copy()[batter]
 
     over_df["delivery"] = np.arange(1, len(over_df) + 1)
 
