@@ -1,0 +1,124 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,CH Gayle,MA Starc,E Lewis,,2,0,2,2,2,1,1,-,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+1,CH Gayle,MA Starc,E Lewis,,1,0,1,3,3,2,2,-,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+2,E Lewis,MA Starc,CH Gayle,{'legbyes': 1},0,1,1,4,0,1,3,legbyes,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+3,CH Gayle,MA Starc,E Lewis,,0,0,0,4,3,3,4,-,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+4,CH Gayle,MA Starc,E Lewis,,0,0,0,4,3,4,5,-,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+5,CH Gayle,MA Starc,E Lewis,,0,0,0,4,3,5,6,-,1,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+6,E Lewis,JR Hazlewood,CH Gayle,,4,0,4,8,4,2,1,-,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+7,E Lewis,JR Hazlewood,CH Gayle,,4,0,4,12,8,3,2,-,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+8,E Lewis,JR Hazlewood,CH Gayle,,4,0,4,16,12,4,3,-,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+9,E Lewis,JR Hazlewood,CH Gayle,,1,0,1,17,13,5,4,-,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+10,CH Gayle,JR Hazlewood,E Lewis,,6,0,6,23,9,6,5,-,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+11,CH Gayle,JR Hazlewood,E Lewis,{'legbyes': 1},0,1,1,24,9,7,6,legbyes,2,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+12,CH Gayle,PJ Cummins,E Lewis,,6,0,6,30,15,8,1,-,3,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+13,CH Gayle,PJ Cummins,E Lewis,,0,0,0,30,15,9,2,-,3,bowled,CH Gayle,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+14,N Pooran,PJ Cummins,E Lewis,,0,0,0,30,0,1,3,-,3,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+15,N Pooran,PJ Cummins,E Lewis,,4,0,4,34,4,2,4,-,3,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+16,N Pooran,PJ Cummins,E Lewis,{'legbyes': 1},0,1,1,35,4,3,5,legbyes,3,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+17,E Lewis,PJ Cummins,N Pooran,,0,0,0,35,13,6,6,-,3,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+18,N Pooran,JR Hazlewood,E Lewis,,0,0,0,35,4,4,1,-,4,caught,N Pooran,MR Marsh,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+19,RL Chase,JR Hazlewood,E Lewis,,0,0,0,35,0,1,2,-,4,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+20,RL Chase,JR Hazlewood,E Lewis,,0,0,0,35,0,2,3,-,4,bowled,RL Chase,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+21,SO Hetmyer,JR Hazlewood,E Lewis,,1,0,1,36,1,1,4,-,4,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+22,E Lewis,JR Hazlewood,SO Hetmyer,,1,0,1,37,14,7,5,-,4,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+23,SO Hetmyer,JR Hazlewood,E Lewis,,0,0,0,37,1,2,6,-,4,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+24,E Lewis,PJ Cummins,SO Hetmyer,,1,0,1,38,15,8,1,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+25,SO Hetmyer,PJ Cummins,E Lewis,,1,0,1,39,2,3,2,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+26,E Lewis,PJ Cummins,SO Hetmyer,,0,0,0,39,15,9,3,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+27,E Lewis,PJ Cummins,SO Hetmyer,,1,0,1,40,16,10,4,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+28,SO Hetmyer,PJ Cummins,E Lewis,,4,0,4,44,6,4,5,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+29,SO Hetmyer,PJ Cummins,E Lewis,,0,0,0,44,6,5,6,-,5,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+30,E Lewis,GJ Maxwell,SO Hetmyer,,1,0,1,45,17,11,1,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+31,SO Hetmyer,GJ Maxwell,E Lewis,,0,0,0,45,6,6,2,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+32,SO Hetmyer,GJ Maxwell,E Lewis,,1,0,1,46,7,7,3,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+33,E Lewis,GJ Maxwell,SO Hetmyer,,4,0,4,50,21,12,4,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+34,E Lewis,GJ Maxwell,SO Hetmyer,,0,0,0,50,21,13,5,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+35,E Lewis,GJ Maxwell,SO Hetmyer,,0,0,0,50,21,14,6,-,6,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+36,SO Hetmyer,MR Marsh,E Lewis,,1,0,1,51,8,8,1,-,7,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+37,E Lewis,MR Marsh,SO Hetmyer,,0,0,0,51,21,15,2,-,7,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+38,E Lewis,MR Marsh,SO Hetmyer,,0,0,0,51,21,16,3,-,7,0,,,"{'by': 'Australia', 'umpire': 'L Rusere', 'batter': 'E Lewis', 'decision': 'struck down'}",field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+39,E Lewis,MR Marsh,SO Hetmyer,,1,0,1,52,22,17,4,-,7,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+40,SO Hetmyer,MR Marsh,E Lewis,,1,0,1,53,9,9,5,-,7,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+41,E Lewis,MR Marsh,SO Hetmyer,,0,0,0,53,22,18,6,-,7,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+42,SO Hetmyer,A Zampa,E Lewis,,1,0,1,54,10,10,1,-,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+43,E Lewis,A Zampa,SO Hetmyer,,1,0,1,55,23,19,2,-,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+44,SO Hetmyer,A Zampa,E Lewis,,1,0,1,56,11,11,3,-,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+45,E Lewis,A Zampa,SO Hetmyer,,0,0,0,56,23,20,4,-,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+46,E Lewis,A Zampa,SO Hetmyer,{'legbyes': 1},0,1,1,57,23,21,5,legbyes,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+47,SO Hetmyer,A Zampa,E Lewis,,0,0,0,57,11,12,6,-,8,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+48,E Lewis,MR Marsh,SO Hetmyer,,1,0,1,58,24,22,1,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+49,SO Hetmyer,MR Marsh,E Lewis,,1,0,1,59,12,13,2,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+50,E Lewis,MR Marsh,SO Hetmyer,,1,0,1,60,25,23,3,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+51,SO Hetmyer,MR Marsh,E Lewis,,4,0,4,64,16,14,4,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+52,SO Hetmyer,MR Marsh,E Lewis,,1,0,1,65,17,15,5,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+53,E Lewis,MR Marsh,SO Hetmyer,,0,0,0,65,25,24,6,-,9,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+54,SO Hetmyer,A Zampa,E Lewis,,1,0,1,66,18,16,1,-,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+55,E Lewis,A Zampa,SO Hetmyer,,4,0,4,70,29,25,2,-,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+56,E Lewis,A Zampa,SO Hetmyer,,0,0,0,70,29,26,3,-,10,caught,E Lewis,SPD Smith,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+57,SO Hetmyer,A Zampa,KA Pollard,,1,0,1,71,19,17,4,-,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+58,KA Pollard,A Zampa,SO Hetmyer,,1,0,1,72,1,1,5,-,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+59,SO Hetmyer,A Zampa,KA Pollard,{'wides': 1},0,1,1,73,19,18,6,wides,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+60,SO Hetmyer,A Zampa,KA Pollard,,1,0,1,74,20,19,7,-,10,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+61,SO Hetmyer,MA Starc,KA Pollard,,0,0,0,74,20,20,1,-,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+62,SO Hetmyer,MA Starc,KA Pollard,,1,0,1,75,21,21,2,-,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+63,KA Pollard,MA Starc,SO Hetmyer,,2,0,2,77,3,2,3,-,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+64,KA Pollard,MA Starc,SO Hetmyer,,0,0,0,77,3,3,4,-,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+65,KA Pollard,MA Starc,SO Hetmyer,{'wides': 1},0,1,1,78,3,4,5,wides,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+66,KA Pollard,MA Starc,SO Hetmyer,{'legbyes': 1},0,1,1,79,3,5,6,legbyes,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+67,SO Hetmyer,MA Starc,KA Pollard,,2,0,2,81,23,22,7,-,11,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+68,KA Pollard,A Zampa,SO Hetmyer,,0,0,0,81,3,6,1,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+69,KA Pollard,A Zampa,SO Hetmyer,,1,0,1,82,4,7,2,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+70,SO Hetmyer,A Zampa,KA Pollard,,0,0,0,82,23,23,3,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+71,SO Hetmyer,A Zampa,KA Pollard,,0,0,0,82,23,24,4,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+72,SO Hetmyer,A Zampa,KA Pollard,,1,0,1,83,24,25,5,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+73,KA Pollard,A Zampa,SO Hetmyer,,4,0,4,87,8,8,6,-,12,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+74,SO Hetmyer,JR Hazlewood,KA Pollard,,0,0,0,87,24,26,1,-,13,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+75,SO Hetmyer,JR Hazlewood,KA Pollard,,2,0,2,89,26,27,2,-,13,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+76,SO Hetmyer,JR Hazlewood,KA Pollard,,1,0,1,90,27,28,3,-,13,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+77,KA Pollard,JR Hazlewood,SO Hetmyer,,1,0,1,91,9,9,4,-,13,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+78,SO Hetmyer,JR Hazlewood,KA Pollard,,0,0,0,91,27,29,5,-,13,caught,SO Hetmyer,MS Wade,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+79,DJ Bravo,JR Hazlewood,KA Pollard,,1,0,1,92,1,1,6,-,13,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+80,DJ Bravo,A Zampa,KA Pollard,,0,0,0,92,1,2,1,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+81,DJ Bravo,A Zampa,KA Pollard,,1,0,1,93,2,3,2,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+82,KA Pollard,A Zampa,DJ Bravo,,0,0,0,93,9,10,3,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+83,KA Pollard,A Zampa,DJ Bravo,,1,0,1,94,10,11,4,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+84,DJ Bravo,A Zampa,KA Pollard,,0,0,0,94,2,4,5,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+85,DJ Bravo,A Zampa,KA Pollard,,0,0,0,94,2,5,6,-,14,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+86,KA Pollard,MR Marsh,DJ Bravo,,2,0,2,96,12,12,1,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+87,KA Pollard,MR Marsh,DJ Bravo,,0,0,0,96,12,13,2,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+88,KA Pollard,MR Marsh,DJ Bravo,,0,0,0,96,12,14,3,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+89,KA Pollard,MR Marsh,DJ Bravo,,2,0,2,98,14,15,4,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+90,KA Pollard,MR Marsh,DJ Bravo,,1,0,1,99,15,16,5,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+91,DJ Bravo,MR Marsh,KA Pollard,,0,0,0,99,2,6,6,-,15,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+92,KA Pollard,MA Starc,DJ Bravo,,1,0,1,100,16,17,1,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+93,DJ Bravo,MA Starc,KA Pollard,,1,0,1,101,3,7,2,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+94,KA Pollard,MA Starc,DJ Bravo,,1,0,1,102,17,18,3,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+95,DJ Bravo,MA Starc,KA Pollard,,0,0,0,102,3,8,4,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+96,DJ Bravo,MA Starc,KA Pollard,,6,0,6,108,9,9,5,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+97,DJ Bravo,MA Starc,KA Pollard,,1,0,1,109,10,10,6,-,16,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+98,DJ Bravo,PJ Cummins,KA Pollard,{'legbyes': 1},0,1,1,110,10,11,1,legbyes,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+99,KA Pollard,PJ Cummins,DJ Bravo,,2,0,2,112,19,19,2,-,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+100,KA Pollard,PJ Cummins,DJ Bravo,,4,0,4,116,23,20,3,-,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+101,KA Pollard,PJ Cummins,DJ Bravo,,0,0,0,116,23,21,4,-,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+102,KA Pollard,PJ Cummins,DJ Bravo,,6,0,6,122,29,22,5,-,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+103,KA Pollard,PJ Cummins,DJ Bravo,,1,0,1,123,30,23,6,-,17,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+104,KA Pollard,JR Hazlewood,DJ Bravo,,2,0,2,125,32,24,1,-,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+105,KA Pollard,JR Hazlewood,DJ Bravo,,1,0,1,126,33,25,2,-,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+106,DJ Bravo,JR Hazlewood,KA Pollard,,0,0,0,126,10,12,3,-,18,caught,DJ Bravo,DA Warner,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+107,KA Pollard,JR Hazlewood,AD Russell,,4,0,4,130,37,26,4,-,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+108,KA Pollard,JR Hazlewood,AD Russell,{'wides': 1},0,1,1,131,37,27,5,wides,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+109,KA Pollard,JR Hazlewood,AD Russell,,4,0,4,135,41,28,6,-,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+110,KA Pollard,JR Hazlewood,AD Russell,,1,0,1,136,42,29,7,-,18,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+111,KA Pollard,PJ Cummins,AD Russell,,1,0,1,137,43,30,1,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+112,AD Russell,PJ Cummins,KA Pollard,,4,0,4,141,4,1,2,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+113,AD Russell,PJ Cummins,KA Pollard,,0,0,0,141,4,2,3,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+114,AD Russell,PJ Cummins,KA Pollard,,1,0,1,142,5,3,4,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+115,KA Pollard,PJ Cummins,AD Russell,,1,0,1,143,44,31,5,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+116,AD Russell,PJ Cummins,KA Pollard,,0,0,0,143,5,4,6,-,19,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+117,KA Pollard,MA Starc,AD Russell,,0,0,0,143,44,32,1,-,20,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+118,KA Pollard,MA Starc,AD Russell,,0,0,0,143,44,33,2,-,20,caught,KA Pollard,GJ Maxwell,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+119,AD Russell,MA Starc,JO Holder,,1,0,1,144,6,5,3,-,20,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+120,JO Holder,MA Starc,AD Russell,,1,0,1,145,1,1,4,-,20,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+121,AD Russell,MA Starc,JO Holder,,6,0,6,151,12,6,5,-,20,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia
+122,AD Russell,MA Starc,JO Holder,,6,0,6,157,18,7,6,-,20,0,,,,field,Australia,1,"Zayed Cricket Stadium, Abu Dhabi",2021-11-06,West Indies,Australia

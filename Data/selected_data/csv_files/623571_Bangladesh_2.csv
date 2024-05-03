@@ -1,0 +1,124 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Tamim Iqbal,BV Vitori,Shamsur Rahman,2,0,2,2,2,1,1,0,,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+1,Tamim Iqbal,BV Vitori,Shamsur Rahman,0,0,0,2,2,2,2,bowled,Tamim Iqbal,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+2,Shakib Al Hasan,BV Vitori,Shamsur Rahman,0,0,0,2,0,1,3,0,,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+3,Shakib Al Hasan,BV Vitori,Shamsur Rahman,1,0,1,3,1,2,4,0,,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+4,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,3,0,1,5,0,,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+5,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,3,0,2,6,0,,,1,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+6,Shakib Al Hasan,TL Chatara,Shamsur Rahman,4,0,4,7,5,3,1,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+7,Shakib Al Hasan,TL Chatara,Shamsur Rahman,4,0,4,11,9,4,2,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+8,Shakib Al Hasan,TL Chatara,Shamsur Rahman,1,0,1,12,10,5,3,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+9,Shamsur Rahman,TL Chatara,Shakib Al Hasan,1,0,1,13,1,3,4,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+10,Shakib Al Hasan,TL Chatara,Shamsur Rahman,0,0,0,13,10,6,5,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+11,Shakib Al Hasan,TL Chatara,Shamsur Rahman,0,0,0,13,10,7,6,0,,,2,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+12,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,13,1,4,1,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+13,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,13,1,5,2,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+14,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,13,1,6,3,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+15,Shamsur Rahman,BV Vitori,Shakib Al Hasan,4,0,4,17,5,7,4,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+16,Shamsur Rahman,BV Vitori,Shakib Al Hasan,1,0,1,18,6,8,5,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+17,Shakib Al Hasan,BV Vitori,Shamsur Rahman,4,0,4,22,14,8,6,0,,,3,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+18,Shamsur Rahman,TL Chatara,Shakib Al Hasan,0,0,0,22,6,9,1,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+19,Shamsur Rahman,TL Chatara,Shakib Al Hasan,1,0,1,23,7,10,2,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+20,Shakib Al Hasan,TL Chatara,Shamsur Rahman,0,0,0,23,14,9,3,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+21,Shakib Al Hasan,TL Chatara,Shamsur Rahman,0,0,0,23,14,10,4,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+22,Shakib Al Hasan,TL Chatara,Shamsur Rahman,4,0,4,27,18,11,5,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+23,Shakib Al Hasan,TL Chatara,Shamsur Rahman,4,0,4,31,22,12,6,0,,,4,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+24,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,0,0,31,7,11,1,0,,,5,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+25,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,0,0,31,7,12,2,0,,,5,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+26,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,0,0,31,7,13,3,0,,,5,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+27,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,1,1,32,7,14,4,0,,,5,{'byes': 1},byes,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+28,Shakib Al Hasan,P Utseya,Shamsur Rahman,0,2,2,34,22,13,5,0,,,5,{'wides': 2},wides,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+29,Shamsur Rahman,P Utseya,Shakib Al Hasan,1,0,1,35,8,15,6,0,,,5,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+30,Shakib Al Hasan,P Utseya,Shamsur Rahman,2,0,2,37,24,14,7,0,,,5,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+31,Shamsur Rahman,T Panyangara,Shakib Al Hasan,1,1,2,39,9,16,1,0,,,6,{'noballs': 1},noballs,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+32,Shakib Al Hasan,T Panyangara,Shamsur Rahman,0,0,0,39,24,15,2,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+33,Shakib Al Hasan,T Panyangara,Shamsur Rahman,4,0,4,43,28,16,3,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+34,Shakib Al Hasan,T Panyangara,Shamsur Rahman,4,0,4,47,32,17,4,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+35,Shakib Al Hasan,T Panyangara,Shamsur Rahman,0,0,0,47,32,18,5,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+36,Shakib Al Hasan,T Panyangara,Shamsur Rahman,0,0,0,47,32,19,6,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+37,Shakib Al Hasan,T Panyangara,Shamsur Rahman,2,0,2,49,34,20,7,0,,,6,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+38,Shamsur Rahman,P Utseya,Shakib Al Hasan,1,0,1,50,10,17,1,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+39,Shakib Al Hasan,P Utseya,Shamsur Rahman,0,0,0,50,34,21,2,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+40,Shakib Al Hasan,P Utseya,Shamsur Rahman,1,0,1,51,35,22,3,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+41,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,0,0,51,10,18,4,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+42,Shamsur Rahman,P Utseya,Shakib Al Hasan,0,0,0,51,10,19,5,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+43,Shamsur Rahman,P Utseya,Shakib Al Hasan,1,0,1,52,11,20,6,0,,,7,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+44,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,1,0,1,53,12,21,1,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+45,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,1,0,1,54,36,23,2,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+46,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,1,0,1,55,13,22,3,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+47,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,1,0,1,56,37,24,4,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+48,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,1,0,1,57,14,23,5,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+49,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,1,0,1,58,38,25,6,0,,,8,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+50,Shakib Al Hasan,P Utseya,Shamsur Rahman,1,0,1,59,39,26,1,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+51,Shamsur Rahman,P Utseya,Shakib Al Hasan,6,0,6,65,20,24,2,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+52,Shamsur Rahman,P Utseya,Shakib Al Hasan,2,0,2,67,22,25,3,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+53,Shamsur Rahman,P Utseya,Shakib Al Hasan,4,0,4,71,26,26,4,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+54,Shamsur Rahman,P Utseya,Shakib Al Hasan,4,0,4,75,30,27,5,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+55,Shamsur Rahman,P Utseya,Shakib Al Hasan,1,0,1,76,31,28,6,0,,,9,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+56,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,0,0,0,76,31,29,1,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+57,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,0,0,0,76,31,30,2,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+58,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,4,0,4,80,35,31,3,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+59,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,1,0,1,81,36,32,4,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+60,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,1,0,1,82,40,27,5,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+61,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,0,0,0,82,36,33,6,0,,,10,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+62,Shakib Al Hasan,H Masakadza,Shamsur Rahman,1,0,1,83,41,28,1,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+63,Shamsur Rahman,H Masakadza,Shakib Al Hasan,1,0,1,84,37,34,2,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+64,Shakib Al Hasan,H Masakadza,Shamsur Rahman,1,0,1,85,42,29,3,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+65,Shamsur Rahman,H Masakadza,Shakib Al Hasan,0,0,0,85,37,35,4,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+66,Shamsur Rahman,H Masakadza,Shakib Al Hasan,4,0,4,89,41,36,5,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+67,Shamsur Rahman,H Masakadza,Shakib Al Hasan,0,0,0,89,41,37,6,0,,,11,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+68,Shakib Al Hasan,T Panyangara,Shamsur Rahman,0,0,0,89,42,30,1,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+69,Shakib Al Hasan,T Panyangara,Shamsur Rahman,1,0,1,90,43,31,2,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+70,Shamsur Rahman,T Panyangara,Shakib Al Hasan,4,0,4,94,45,38,3,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+71,Shamsur Rahman,T Panyangara,Shakib Al Hasan,1,0,1,95,46,39,4,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+72,Shakib Al Hasan,T Panyangara,Shamsur Rahman,4,0,4,99,47,32,5,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+73,Shakib Al Hasan,T Panyangara,Shamsur Rahman,0,0,0,99,47,33,6,0,,,12,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+74,Shamsur Rahman,BV Vitori,Shakib Al Hasan,1,0,1,100,47,40,1,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+75,Shakib Al Hasan,BV Vitori,Shamsur Rahman,1,0,1,101,48,34,2,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+76,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,101,47,41,3,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+77,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,101,47,42,4,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+78,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,101,47,43,5,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+79,Shamsur Rahman,BV Vitori,Shakib Al Hasan,0,0,0,101,47,44,6,0,,,13,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+80,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,2,0,2,103,50,35,1,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+81,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,0,0,0,103,50,36,2,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+82,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,6,0,6,109,56,37,3,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+83,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,1,0,1,110,57,38,4,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+84,Shamsur Rahman,CT Mutombodzi,Shakib Al Hasan,1,0,1,111,48,45,5,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+85,Shakib Al Hasan,CT Mutombodzi,Shamsur Rahman,6,0,6,117,63,39,6,0,,,14,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+86,Shamsur Rahman,P Utseya,Shakib Al Hasan,1,0,1,118,49,46,1,0,,,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+87,Shakib Al Hasan,P Utseya,Shamsur Rahman,2,0,2,120,65,40,2,0,,,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+88,Shakib Al Hasan,P Utseya,Shamsur Rahman,0,0,0,120,65,41,3,caught,Shakib Al Hasan,MN Waller,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+89,Shamsur Rahman,P Utseya,Mushfiqur Rahim,4,0,4,124,53,47,4,0,,,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+90,Shamsur Rahman,P Utseya,Mushfiqur Rahim,0,0,0,124,53,48,5,caught,Shamsur Rahman,BRM Taylor,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+91,Mushfiqur Rahim,P Utseya,Nasir Hossain,1,0,1,125,1,1,6,0,,,15,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+92,Mushfiqur Rahim,CT Mutombodzi,Nasir Hossain,1,0,1,126,2,2,1,run out,Nasir Hossain,Sikandar Raza;CT Mutombodzi,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+93,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,1,0,1,127,3,3,2,0,,,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+94,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,1,0,1,128,1,1,3,0,,,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+95,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,1,0,1,129,4,4,4,0,,,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+96,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,1,0,1,130,2,2,5,0,,,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+97,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,0,0,0,130,4,5,6,run out,Mahmudullah,CT Mutombodzi;BRM Taylor,16,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+98,Mushfiqur Rahim,TL Chatara,Ziaur Rahman,3,0,3,133,7,6,1,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+99,Ziaur Rahman,TL Chatara,Mushfiqur Rahim,0,1,1,134,0,1,2,0,,,17,{'wides': 1},wides,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+100,Ziaur Rahman,TL Chatara,Mushfiqur Rahim,0,0,0,134,0,2,3,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+101,Ziaur Rahman,TL Chatara,Mushfiqur Rahim,0,0,0,134,0,3,4,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+102,Ziaur Rahman,TL Chatara,Mushfiqur Rahim,0,0,0,134,0,4,5,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+103,Ziaur Rahman,TL Chatara,Mushfiqur Rahim,1,0,1,135,1,5,6,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+104,Mushfiqur Rahim,TL Chatara,Ziaur Rahman,6,0,6,141,13,7,7,0,,,17,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+105,Ziaur Rahman,T Panyangara,Mushfiqur Rahim,0,0,0,141,1,6,1,0,,,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+106,Ziaur Rahman,T Panyangara,Mushfiqur Rahim,1,0,1,142,2,7,2,0,,,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+107,Mushfiqur Rahim,T Panyangara,Ziaur Rahman,1,0,1,143,14,8,3,0,,,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+108,Ziaur Rahman,T Panyangara,Mushfiqur Rahim,0,0,0,143,2,8,4,caught,Ziaur Rahman,V Sibanda,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+109,Mushfiqur Rahim,T Panyangara,Sohag Gazi,2,0,2,145,16,9,5,0,,,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+110,Mushfiqur Rahim,T Panyangara,Sohag Gazi,4,0,4,149,20,10,6,0,,,18,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+111,Sohag Gazi,BV Vitori,Mushfiqur Rahim,1,0,1,150,1,1,1,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+112,Mushfiqur Rahim,BV Vitori,Sohag Gazi,6,0,6,156,26,11,2,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+113,Mushfiqur Rahim,BV Vitori,Sohag Gazi,1,0,1,157,27,12,3,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+114,Sohag Gazi,BV Vitori,Mushfiqur Rahim,0,0,0,157,1,2,4,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+115,Sohag Gazi,BV Vitori,Mushfiqur Rahim,1,0,1,158,2,3,5,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+116,Mushfiqur Rahim,BV Vitori,Sohag Gazi,1,0,1,159,28,13,6,0,,,19,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+117,Mushfiqur Rahim,T Panyangara,Sohag Gazi,0,0,0,159,28,14,1,caught,Mushfiqur Rahim,SC Williams,20,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+118,Sohag Gazi,T Panyangara,Abdur Razzak,0,1,1,160,2,4,2,0,,,20,{'legbyes': 1},legbyes,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+119,Abdur Razzak,T Panyangara,Sohag Gazi,0,0,0,160,0,1,3,0,,,20,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+120,Abdur Razzak,T Panyangara,Sohag Gazi,2,0,2,162,2,2,4,0,,,20,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+121,Abdur Razzak,T Panyangara,Sohag Gazi,0,0,0,162,2,3,5,0,,,20,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe
+122,Abdur Razzak,T Panyangara,Sohag Gazi,0,0,0,162,2,4,6,lbw,Abdur Razzak,,20,,-,bat,Zimbabwe,2,Queens Sports Club,2013-05-11,Bangladesh,Zimbabwe

@@ -1,0 +1,108 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JD Ryder,Abdul Razzaq,MJ Guptill,1,0,1,1,1,1,1,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+1,MJ Guptill,Abdul Razzaq,JD Ryder,0,0,0,1,0,1,2,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+2,MJ Guptill,Abdul Razzaq,JD Ryder,4,0,4,5,4,2,3,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+3,MJ Guptill,Abdul Razzaq,JD Ryder,6,0,6,11,10,3,4,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+4,MJ Guptill,Abdul Razzaq,JD Ryder,4,0,4,15,14,4,5,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+5,MJ Guptill,Abdul Razzaq,JD Ryder,0,0,0,15,14,5,6,1,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+6,JD Ryder,Shoaib Akhtar,MJ Guptill,4,0,4,19,5,2,1,2,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+7,JD Ryder,Shoaib Akhtar,MJ Guptill,1,0,1,20,6,3,2,2,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+8,MJ Guptill,Shoaib Akhtar,JD Ryder,6,0,6,26,20,6,3,2,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+9,MJ Guptill,Shoaib Akhtar,JD Ryder,1,0,1,27,21,7,4,2,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+10,JD Ryder,Shoaib Akhtar,MJ Guptill,0,0,0,27,6,4,5,2,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+11,JD Ryder,Shoaib Akhtar,MJ Guptill,0,0,0,27,6,5,6,2,caught,JD Ryder,Younis Khan,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+12,MJ Guptill,Umar Gul,DG Brownlie,1,0,1,28,22,8,1,3,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+13,DG Brownlie,Umar Gul,MJ Guptill,0,0,0,28,0,1,2,3,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+14,DG Brownlie,Umar Gul,MJ Guptill,0,4,4,32,0,2,3,3,0,,,{'byes': 4},byes,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+15,DG Brownlie,Umar Gul,MJ Guptill,4,0,4,36,4,3,4,3,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+16,DG Brownlie,Umar Gul,MJ Guptill,1,0,1,37,5,4,5,3,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+17,MJ Guptill,Umar Gul,DG Brownlie,1,0,1,38,23,9,6,3,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+18,MJ Guptill,Shoaib Akhtar,DG Brownlie,6,0,6,44,29,10,1,4,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+19,MJ Guptill,Shoaib Akhtar,DG Brownlie,1,0,1,45,30,11,2,4,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+20,DG Brownlie,Shoaib Akhtar,MJ Guptill,0,0,0,45,5,5,3,4,caught,DG Brownlie,Umar Akmal,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+21,SB Styris,Shoaib Akhtar,MJ Guptill,0,0,0,45,0,1,4,4,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+22,SB Styris,Shoaib Akhtar,MJ Guptill,6,0,6,51,6,2,5,4,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+23,SB Styris,Shoaib Akhtar,MJ Guptill,0,0,0,51,6,3,6,4,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+24,MJ Guptill,Saeed Ajmal,SB Styris,1,0,1,52,31,12,1,5,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+25,SB Styris,Saeed Ajmal,MJ Guptill,0,0,0,52,6,4,2,5,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+26,SB Styris,Saeed Ajmal,MJ Guptill,1,0,1,53,7,5,3,5,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+27,MJ Guptill,Saeed Ajmal,SB Styris,1,0,1,54,32,13,4,5,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+28,SB Styris,Saeed Ajmal,MJ Guptill,0,0,0,54,7,6,5,5,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+29,SB Styris,Saeed Ajmal,MJ Guptill,0,1,1,55,7,7,6,5,0,,,{'legbyes': 1},legbyes,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+30,SB Styris,Shoaib Akhtar,MJ Guptill,0,0,0,55,7,8,1,6,bowled,SB Styris,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+31,LRPL Taylor,Shoaib Akhtar,MJ Guptill,0,0,0,55,0,1,2,6,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+32,LRPL Taylor,Shoaib Akhtar,MJ Guptill,1,0,1,56,1,2,3,6,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+33,MJ Guptill,Shoaib Akhtar,LRPL Taylor,0,0,0,56,32,14,4,6,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+34,MJ Guptill,Shoaib Akhtar,LRPL Taylor,0,0,0,56,32,15,5,6,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+35,MJ Guptill,Shoaib Akhtar,LRPL Taylor,1,0,1,57,33,16,6,6,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+36,MJ Guptill,Wahab Riaz,LRPL Taylor,1,0,1,58,34,17,1,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+37,LRPL Taylor,Wahab Riaz,MJ Guptill,0,0,0,58,1,3,2,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+38,LRPL Taylor,Wahab Riaz,MJ Guptill,1,0,1,59,2,4,3,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+39,MJ Guptill,Wahab Riaz,LRPL Taylor,0,0,0,59,34,18,4,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+40,MJ Guptill,Wahab Riaz,LRPL Taylor,4,0,4,63,38,19,5,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+41,MJ Guptill,Wahab Riaz,LRPL Taylor,4,0,4,67,42,20,6,7,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+42,LRPL Taylor,Shahid Afridi,MJ Guptill,1,0,1,68,3,5,1,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+43,MJ Guptill,Shahid Afridi,LRPL Taylor,1,0,1,69,43,21,2,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+44,LRPL Taylor,Shahid Afridi,MJ Guptill,0,0,0,69,3,6,3,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+45,LRPL Taylor,Shahid Afridi,MJ Guptill,0,0,0,69,3,7,4,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+46,LRPL Taylor,Shahid Afridi,MJ Guptill,4,0,4,73,7,8,5,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+47,LRPL Taylor,Shahid Afridi,MJ Guptill,2,0,2,75,9,9,6,8,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+48,MJ Guptill,Mohammad Hafeez,LRPL Taylor,6,0,6,81,49,22,1,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+49,MJ Guptill,Mohammad Hafeez,LRPL Taylor,2,0,2,83,51,23,2,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+50,MJ Guptill,Mohammad Hafeez,LRPL Taylor,1,0,1,84,52,24,3,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+51,LRPL Taylor,Mohammad Hafeez,MJ Guptill,0,2,2,86,9,10,4,9,0,,,{'wides': 2},wides,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+52,MJ Guptill,Mohammad Hafeez,LRPL Taylor,0,0,0,86,52,25,5,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+53,MJ Guptill,Mohammad Hafeez,LRPL Taylor,0,0,0,86,52,26,6,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+54,MJ Guptill,Mohammad Hafeez,LRPL Taylor,1,0,1,87,53,27,7,9,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+55,MJ Guptill,Shahid Afridi,LRPL Taylor,1,0,1,88,54,28,1,10,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+56,LRPL Taylor,Shahid Afridi,MJ Guptill,2,0,2,90,11,11,2,10,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+57,LRPL Taylor,Shahid Afridi,MJ Guptill,1,0,1,91,12,12,3,10,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+58,MJ Guptill,Shahid Afridi,LRPL Taylor,0,0,0,91,54,29,4,10,run out,MJ Guptill,Mohammad Hafeez;Umar Akmal,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+59,JEC Franklin,Shahid Afridi,LRPL Taylor,0,0,0,91,0,1,5,10,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+60,JEC Franklin,Shahid Afridi,LRPL Taylor,0,0,0,91,0,2,6,10,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+61,LRPL Taylor,Saeed Ajmal,JEC Franklin,1,0,1,92,13,13,1,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+62,JEC Franklin,Saeed Ajmal,LRPL Taylor,0,0,0,92,0,3,2,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+63,JEC Franklin,Saeed Ajmal,LRPL Taylor,0,0,0,92,0,4,3,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+64,JEC Franklin,Saeed Ajmal,LRPL Taylor,4,0,4,96,4,5,4,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+65,JEC Franklin,Saeed Ajmal,LRPL Taylor,1,0,1,97,5,6,5,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+66,LRPL Taylor,Saeed Ajmal,JEC Franklin,0,0,0,97,13,14,6,11,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+67,JEC Franklin,Shahid Afridi,LRPL Taylor,4,0,4,101,9,7,1,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+68,JEC Franklin,Shahid Afridi,LRPL Taylor,1,0,1,102,10,8,2,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+69,LRPL Taylor,Shahid Afridi,JEC Franklin,0,0,0,102,13,15,3,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+70,LRPL Taylor,Shahid Afridi,JEC Franklin,1,0,1,103,14,16,4,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+71,JEC Franklin,Shahid Afridi,LRPL Taylor,0,0,0,103,10,9,5,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+72,JEC Franklin,Shahid Afridi,LRPL Taylor,1,0,1,104,11,10,6,12,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+73,JEC Franklin,Saeed Ajmal,LRPL Taylor,0,0,0,104,11,11,1,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+74,JEC Franklin,Saeed Ajmal,LRPL Taylor,1,0,1,105,12,12,2,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+75,LRPL Taylor,Saeed Ajmal,JEC Franklin,0,0,0,105,14,17,3,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+76,LRPL Taylor,Saeed Ajmal,JEC Franklin,0,0,0,105,14,18,4,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+77,LRPL Taylor,Saeed Ajmal,JEC Franklin,0,0,0,105,14,19,5,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+78,LRPL Taylor,Saeed Ajmal,JEC Franklin,0,0,0,105,14,20,6,13,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+79,JEC Franklin,Umar Gul,LRPL Taylor,0,0,0,105,12,13,1,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+80,JEC Franklin,Umar Gul,LRPL Taylor,0,1,1,106,12,14,2,14,0,,,{'wides': 1},wides,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+81,JEC Franklin,Umar Gul,LRPL Taylor,0,0,0,106,12,15,3,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+82,JEC Franklin,Umar Gul,LRPL Taylor,6,0,6,112,18,16,4,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+83,JEC Franklin,Umar Gul,LRPL Taylor,1,0,1,113,19,17,5,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+84,LRPL Taylor,Umar Gul,JEC Franklin,0,0,0,113,14,21,6,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+85,LRPL Taylor,Umar Gul,JEC Franklin,1,0,1,114,15,22,7,14,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+86,LRPL Taylor,Mohammad Hafeez,JEC Franklin,0,0,0,114,15,23,1,15,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+87,LRPL Taylor,Mohammad Hafeez,JEC Franklin,0,0,0,114,15,24,2,15,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+88,LRPL Taylor,Mohammad Hafeez,JEC Franklin,1,0,1,115,16,25,3,15,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+89,JEC Franklin,Mohammad Hafeez,LRPL Taylor,0,0,0,115,19,18,4,15,lbw,JEC Franklin,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+90,PD McGlashan,Mohammad Hafeez,LRPL Taylor,0,0,0,115,0,1,5,15,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+91,PD McGlashan,Mohammad Hafeez,LRPL Taylor,0,0,0,115,0,2,6,15,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+92,LRPL Taylor,Shoaib Akhtar,PD McGlashan,6,0,6,121,22,26,1,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+93,LRPL Taylor,Shoaib Akhtar,PD McGlashan,4,0,4,125,26,27,2,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+94,LRPL Taylor,Shoaib Akhtar,PD McGlashan,0,0,0,125,26,28,3,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+95,LRPL Taylor,Shoaib Akhtar,PD McGlashan,1,0,1,126,27,29,4,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+96,PD McGlashan,Shoaib Akhtar,LRPL Taylor,0,0,0,126,0,3,5,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+97,PD McGlashan,Shoaib Akhtar,LRPL Taylor,0,0,0,126,0,4,6,16,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+98,LRPL Taylor,Mohammad Hafeez,PD McGlashan,0,2,2,128,27,30,1,17,0,,,{'wides': 2},wides,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+99,PD McGlashan,Mohammad Hafeez,LRPL Taylor,0,0,0,128,0,5,2,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+100,PD McGlashan,Mohammad Hafeez,LRPL Taylor,0,0,0,128,0,6,3,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+101,PD McGlashan,Mohammad Hafeez,LRPL Taylor,1,0,1,129,1,7,4,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+102,LRPL Taylor,Mohammad Hafeez,PD McGlashan,0,1,1,130,27,31,5,17,0,,,{'wides': 1},wides,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+103,LRPL Taylor,Mohammad Hafeez,PD McGlashan,6,0,6,136,33,32,6,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+104,LRPL Taylor,Mohammad Hafeez,PD McGlashan,0,0,0,136,33,33,7,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+105,LRPL Taylor,Mohammad Hafeez,PD McGlashan,6,0,6,142,39,34,8,17,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan
+106,PD McGlashan,Saeed Ajmal,LRPL Taylor,4,0,4,146,5,8,1,18,0,,,,-,field,New Zealand,2,Eden Park,2010-12-26,New Zealand,Pakistan

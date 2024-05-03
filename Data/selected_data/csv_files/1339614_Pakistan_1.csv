@@ -1,0 +1,127 @@
+,batter,bowler,non_striker,extras,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Mohammad Rizwan,MJ Henry,Babar Azam,,,0,0,0,0,0,1,1,-,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+1,Mohammad Rizwan,MJ Henry,Babar Azam,,,0,0,0,0,0,2,2,-,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+2,Mohammad Rizwan,MJ Henry,Babar Azam,,,0,0,0,0,0,3,3,-,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+3,Mohammad Rizwan,MJ Henry,Babar Azam,{'legbyes': 1},"{'by': 'New Zealand', 'umpire': 'Ahsan Raza', 'batter': 'Mohammad Rizwan', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,1,1,1,0,4,4,legbyes,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+4,Babar Azam,MJ Henry,Mohammad Rizwan,,,0,0,0,1,0,1,5,-,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+5,Babar Azam,MJ Henry,Mohammad Rizwan,,,4,0,4,5,4,2,6,-,1,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+6,Mohammad Rizwan,AF Milne,Babar Azam,,,0,0,0,5,0,5,1,-,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+7,Mohammad Rizwan,AF Milne,Babar Azam,,,4,0,4,9,4,6,2,-,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+8,Mohammad Rizwan,AF Milne,Babar Azam,,,4,0,4,13,8,7,3,-,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+9,Mohammad Rizwan,AF Milne,Babar Azam,,,0,0,0,13,8,8,4,-,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+10,Mohammad Rizwan,AF Milne,Babar Azam,{'wides': 1},,0,1,1,14,8,9,5,wides,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+11,Mohammad Rizwan,AF Milne,Babar Azam,,,0,0,0,14,8,10,6,-,2,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+12,Mohammad Rizwan,AF Milne,Babar Azam,,"{'by': 'Pakistan', 'umpire': 'Faisal Afridi', 'batter': 'Mohammad Rizwan', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,14,8,11,7,-,2,lbw,Mohammad Rizwan,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+13,Babar Azam,BG Lister,Fakhar Zaman,,,1,0,1,15,5,3,1,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+14,Fakhar Zaman,BG Lister,Babar Azam,,,0,0,0,15,0,1,2,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+15,Fakhar Zaman,BG Lister,Babar Azam,,,1,0,1,16,1,2,3,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+16,Babar Azam,BG Lister,Fakhar Zaman,,,4,0,4,20,9,4,4,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+17,Babar Azam,BG Lister,Fakhar Zaman,,,0,0,0,20,9,5,5,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+18,Babar Azam,BG Lister,Fakhar Zaman,,,0,0,0,20,9,6,6,-,3,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+19,Fakhar Zaman,MJ Henry,Babar Azam,,,0,0,0,20,1,3,1,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+20,Fakhar Zaman,MJ Henry,Babar Azam,,,0,0,0,20,1,4,2,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+21,Fakhar Zaman,MJ Henry,Babar Azam,,,0,0,0,20,1,5,3,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+22,Fakhar Zaman,MJ Henry,Babar Azam,,,4,0,4,24,5,6,4,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+23,Fakhar Zaman,MJ Henry,Babar Azam,,,4,0,4,28,9,7,5,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+24,Fakhar Zaman,MJ Henry,Babar Azam,,,1,0,1,29,10,8,6,-,4,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+25,Fakhar Zaman,AF Milne,Babar Azam,,,1,0,1,30,11,9,1,-,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+26,Babar Azam,AF Milne,Fakhar Zaman,,,0,0,0,30,9,7,2,-,5,bowled,Babar Azam,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+27,Saim Ayub,AF Milne,Fakhar Zaman,,,0,0,0,30,0,1,3,-,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+28,Saim Ayub,AF Milne,Fakhar Zaman,,,0,0,0,30,0,2,4,-,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+29,Saim Ayub,AF Milne,Fakhar Zaman,{'noballs': 1},,2,1,3,33,2,3,5,noballs,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+30,Saim Ayub,AF Milne,Fakhar Zaman,,,4,0,4,37,6,4,6,-,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+31,Saim Ayub,AF Milne,Fakhar Zaman,,,4,0,4,41,10,5,7,-,5,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+32,Fakhar Zaman,BG Lister,Saim Ayub,,,1,0,1,42,12,10,1,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+33,Saim Ayub,BG Lister,Fakhar Zaman,,,1,0,1,43,11,6,2,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+34,Fakhar Zaman,BG Lister,Saim Ayub,,,1,0,1,44,13,11,3,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+35,Saim Ayub,BG Lister,Fakhar Zaman,,,4,0,4,48,15,7,4,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+36,Saim Ayub,BG Lister,Fakhar Zaman,,,4,0,4,52,19,8,5,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+37,Saim Ayub,BG Lister,Fakhar Zaman,,,0,0,0,52,19,9,6,-,6,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+38,Fakhar Zaman,JDS Neesham,Saim Ayub,,,0,0,0,52,13,12,1,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+39,Fakhar Zaman,JDS Neesham,Saim Ayub,,,1,0,1,53,14,13,2,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+40,Saim Ayub,JDS Neesham,Fakhar Zaman,,,0,0,0,53,19,10,3,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+41,Saim Ayub,JDS Neesham,Fakhar Zaman,,,0,0,0,53,19,11,4,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+42,Saim Ayub,JDS Neesham,Fakhar Zaman,,,0,0,0,53,19,12,5,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+43,Saim Ayub,JDS Neesham,Fakhar Zaman,,,0,0,0,53,19,13,6,-,7,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+44,Fakhar Zaman,IS Sodhi,Saim Ayub,,,1,0,1,54,15,14,1,-,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+45,Saim Ayub,IS Sodhi,Fakhar Zaman,{'legbyes': 1},,0,1,1,55,19,14,2,legbyes,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+46,Fakhar Zaman,IS Sodhi,Saim Ayub,,,0,0,0,55,15,15,3,-,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+47,Fakhar Zaman,IS Sodhi,Saim Ayub,{'byes': 4},,0,4,4,59,15,16,4,byes,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+48,Fakhar Zaman,IS Sodhi,Saim Ayub,,,1,0,1,60,16,17,5,-,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+49,Saim Ayub,IS Sodhi,Fakhar Zaman,{'legbyes': 1},,0,1,1,61,19,15,6,legbyes,8,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+50,Saim Ayub,JDS Neesham,Fakhar Zaman,,,4,0,4,65,23,16,1,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+51,Saim Ayub,JDS Neesham,Fakhar Zaman,,,1,0,1,66,24,17,2,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+52,Fakhar Zaman,JDS Neesham,Saim Ayub,,,0,0,0,66,16,18,3,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+53,Fakhar Zaman,JDS Neesham,Saim Ayub,,,4,0,4,70,20,19,4,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+54,Fakhar Zaman,JDS Neesham,Saim Ayub,,,1,0,1,71,21,20,5,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+55,Saim Ayub,JDS Neesham,Fakhar Zaman,,,4,0,4,75,28,18,6,-,9,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+56,Fakhar Zaman,IS Sodhi,Saim Ayub,,,1,0,1,76,22,21,1,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+57,Saim Ayub,IS Sodhi,Fakhar Zaman,,,0,0,0,76,28,19,2,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+58,Saim Ayub,IS Sodhi,Fakhar Zaman,,,6,0,6,82,34,20,3,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+59,Saim Ayub,IS Sodhi,Fakhar Zaman,,,2,0,2,84,36,21,4,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+60,Saim Ayub,IS Sodhi,Fakhar Zaman,,,1,0,1,85,37,22,5,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+61,Fakhar Zaman,IS Sodhi,Saim Ayub,,,6,0,6,91,28,22,6,-,10,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+62,Saim Ayub,AF Milne,Fakhar Zaman,,,0,0,0,91,37,23,1,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+63,Saim Ayub,AF Milne,Fakhar Zaman,,,6,0,6,97,43,24,2,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+64,Saim Ayub,AF Milne,Fakhar Zaman,,,2,0,2,99,45,25,3,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+65,Saim Ayub,AF Milne,Fakhar Zaman,,,0,0,0,99,45,26,4,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+66,Saim Ayub,AF Milne,Fakhar Zaman,{'wides': 1},,0,1,1,100,45,27,5,wides,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+67,Saim Ayub,AF Milne,Fakhar Zaman,,,1,0,1,101,46,28,6,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+68,Fakhar Zaman,AF Milne,Saim Ayub,,,6,0,6,107,34,23,7,-,11,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+69,Saim Ayub,R Ravindra,Fakhar Zaman,,,1,0,1,108,47,29,1,-,12,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+70,Fakhar Zaman,R Ravindra,Saim Ayub,,,1,0,1,109,35,24,2,-,12,run out,Saim Ayub,CJ Bowes,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+71,Fakhar Zaman,R Ravindra,Shadab Khan,,,1,0,1,110,36,25,3,-,12,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+72,Shadab Khan,R Ravindra,Fakhar Zaman,,,4,0,4,114,4,1,4,-,12,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+73,Shadab Khan,R Ravindra,Fakhar Zaman,,,1,0,1,115,5,2,5,-,12,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+74,Fakhar Zaman,R Ravindra,Shadab Khan,,,1,0,1,116,37,26,6,-,12,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+75,Fakhar Zaman,MJ Henry,Shadab Khan,,,2,0,2,118,39,27,1,-,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+76,Fakhar Zaman,MJ Henry,Shadab Khan,{'wides': 1},,0,1,1,119,39,28,2,wides,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+77,Fakhar Zaman,MJ Henry,Shadab Khan,{'wides': 1},,0,1,1,120,39,29,3,wides,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+78,Fakhar Zaman,MJ Henry,Shadab Khan,,,0,0,0,120,39,30,4,-,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+79,Fakhar Zaman,MJ Henry,Shadab Khan,,,2,0,2,122,41,31,5,-,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+80,Fakhar Zaman,MJ Henry,Shadab Khan,,,1,0,1,123,42,32,6,-,13,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+81,Shadab Khan,MJ Henry,Fakhar Zaman,,,0,0,0,123,5,3,7,-,13,caught,Shadab Khan,TWM Latham,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+82,Iftikhar Ahmed,MJ Henry,Fakhar Zaman,,"{'by': 'New Zealand', 'umpire': 'Ahsan Raza', 'batter': 'Iftikhar Ahmed', 'decision': 'upheld', 'type': 'wicket'}",0,0,0,123,0,1,8,-,13,caught,Iftikhar Ahmed,TWM Latham,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+83,Fakhar Zaman,IS Sodhi,Imad Wasim,,,0,0,0,123,42,33,1,-,14,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+84,Fakhar Zaman,IS Sodhi,Imad Wasim,,,1,0,1,124,43,34,2,-,14,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+85,Imad Wasim,IS Sodhi,Fakhar Zaman,,,2,0,2,126,2,1,3,-,14,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+86,Imad Wasim,IS Sodhi,Fakhar Zaman,,,1,0,1,127,3,2,4,-,14,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+87,Fakhar Zaman,IS Sodhi,Imad Wasim,,,4,0,4,131,47,35,5,-,14,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+88,Fakhar Zaman,IS Sodhi,Imad Wasim,,,0,0,0,131,47,36,6,-,14,caught,Fakhar Zaman,MS Chapman,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+89,Imad Wasim,BG Lister,Faheem Ashraf,,,0,0,0,131,3,3,1,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+90,Imad Wasim,BG Lister,Faheem Ashraf,,,0,0,0,131,3,4,2,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+91,Imad Wasim,BG Lister,Faheem Ashraf,,,1,0,1,132,4,5,3,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+92,Faheem Ashraf,BG Lister,Imad Wasim,,,1,0,1,133,1,1,4,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+93,Imad Wasim,BG Lister,Faheem Ashraf,,,1,0,1,134,5,6,5,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+94,Faheem Ashraf,BG Lister,Imad Wasim,,,1,0,1,135,2,2,6,-,15,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+95,Faheem Ashraf,IS Sodhi,Imad Wasim,,,0,0,0,135,2,3,1,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+96,Faheem Ashraf,IS Sodhi,Imad Wasim,{'wides': 1},,0,1,1,136,2,4,2,wides,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+97,Faheem Ashraf,IS Sodhi,Imad Wasim,,,1,0,1,137,3,5,3,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+98,Imad Wasim,IS Sodhi,Faheem Ashraf,,,4,0,4,141,9,7,4,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+99,Imad Wasim,IS Sodhi,Faheem Ashraf,,,1,0,1,142,10,8,5,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+100,Faheem Ashraf,IS Sodhi,Imad Wasim,,,0,0,0,142,3,6,6,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+101,Faheem Ashraf,IS Sodhi,Imad Wasim,,,1,0,1,143,4,7,7,-,16,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+102,Faheem Ashraf,AF Milne,Imad Wasim,,,4,0,4,147,8,8,1,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+103,Faheem Ashraf,AF Milne,Imad Wasim,,,1,0,1,148,9,9,2,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+104,Imad Wasim,AF Milne,Faheem Ashraf,,,4,0,4,152,14,9,3,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+105,Imad Wasim,AF Milne,Faheem Ashraf,,,1,0,1,153,15,10,4,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+106,Faheem Ashraf,AF Milne,Imad Wasim,,,0,0,0,153,9,10,5,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+107,Faheem Ashraf,AF Milne,Imad Wasim,,,4,0,4,157,13,11,6,-,17,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+108,Imad Wasim,JDS Neesham,Faheem Ashraf,,,0,0,0,157,15,11,1,-,18,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+109,Imad Wasim,JDS Neesham,Faheem Ashraf,,,1,0,1,158,16,12,2,-,18,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+110,Faheem Ashraf,JDS Neesham,Imad Wasim,,,0,0,0,158,13,12,3,-,18,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+111,Faheem Ashraf,JDS Neesham,Imad Wasim,,,1,0,1,159,14,13,4,-,18,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+112,Imad Wasim,JDS Neesham,Faheem Ashraf,,,0,0,0,159,16,13,5,-,18,caught,Imad Wasim,MJ Henry,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+113,Shaheen Shah Afridi,JDS Neesham,Faheem Ashraf,,,1,0,1,160,1,1,6,-,18,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+114,Shaheen Shah Afridi,MJ Henry,Faheem Ashraf,,,0,0,0,160,1,2,1,-,19,caught,Shaheen Shah Afridi,CJ Bowes,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+115,Haris Rauf,MJ Henry,Faheem Ashraf,,,1,0,1,161,1,1,2,-,19,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+116,Faheem Ashraf,MJ Henry,Haris Rauf,,,1,0,1,162,15,14,3,-,19,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+117,Haris Rauf,MJ Henry,Faheem Ashraf,,,0,0,0,162,1,2,4,-,19,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+118,Haris Rauf,MJ Henry,Faheem Ashraf,,,4,0,4,166,5,3,5,-,19,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+119,Haris Rauf,MJ Henry,Faheem Ashraf,,,6,0,6,172,11,4,6,-,19,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+120,Faheem Ashraf,BG Lister,Haris Rauf,,,6,0,6,178,21,15,1,-,20,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+121,Faheem Ashraf,BG Lister,Haris Rauf,,,1,0,1,179,22,16,2,-,20,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+122,Haris Rauf,BG Lister,Faheem Ashraf,{'wides': 2},,0,2,2,181,11,5,3,wides,20,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+123,Faheem Ashraf,BG Lister,Haris Rauf,,,0,0,0,181,22,17,4,-,20,caught and bowled,Faheem Ashraf,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+124,Zaman Khan,BG Lister,Haris Rauf,{'byes': 1},,0,1,1,182,0,1,5,byes,20,0,,,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand
+125,Haris Rauf,BG Lister,Zaman Khan,,,0,0,0,182,11,6,6,-,20,caught,Haris Rauf,JDS Neesham,bat,Pakistan,1,"Gaddafi Stadium, Lahore",2023-04-14,Pakistan,New Zealand

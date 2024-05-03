@@ -1,0 +1,122 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,FH Allen,Mahedi Hasan,TL Seifert,1,0,1,1,1,1,1,0,,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+1,TL Seifert,Mahedi Hasan,FH Allen,0,0,0,1,0,1,2,0,,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+2,TL Seifert,Mahedi Hasan,FH Allen,0,0,0,1,0,2,3,0,,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+3,TL Seifert,Mahedi Hasan,FH Allen,0,0,0,1,0,3,4,bowled,TL Seifert,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+4,DJ Mitchell,Mahedi Hasan,FH Allen,0,0,0,1,0,1,5,0,,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+5,DJ Mitchell,Mahedi Hasan,FH Allen,0,0,0,1,0,2,6,0,,,1,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+6,FH Allen,Shoriful Islam,DJ Mitchell,0,0,0,1,1,2,1,0,,,2,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+7,FH Allen,Shoriful Islam,DJ Mitchell,0,0,0,1,1,3,2,caught,FH Allen,Soumya Sarkar,2,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+8,GD Phillips,Shoriful Islam,DJ Mitchell,0,0,0,1,0,1,3,lbw,GD Phillips,,2,"{'by': 'Bangladesh', 'umpire': 'WR Knights', 'batter': 'GD Phillips', 'decision': 'upheld', 'type': 'wicket'}",,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+9,MS Chapman,Shoriful Islam,DJ Mitchell,0,0,0,1,0,1,4,0,,,2,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+10,MS Chapman,Shoriful Islam,DJ Mitchell,1,0,1,2,1,2,5,0,,,2,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+11,DJ Mitchell,Shoriful Islam,MS Chapman,0,0,0,2,0,3,6,0,,,2,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+12,MS Chapman,Tanzim Hasan Sakib,DJ Mitchell,0,0,0,2,1,3,1,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+13,MS Chapman,Tanzim Hasan Sakib,DJ Mitchell,1,0,1,3,2,4,2,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+14,DJ Mitchell,Tanzim Hasan Sakib,MS Chapman,2,0,2,5,2,4,3,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+15,DJ Mitchell,Tanzim Hasan Sakib,MS Chapman,0,1,1,6,2,5,4,0,,,3,,{'wides': 1},wides,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+16,DJ Mitchell,Tanzim Hasan Sakib,MS Chapman,1,0,1,7,3,6,5,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+17,MS Chapman,Tanzim Hasan Sakib,DJ Mitchell,1,0,1,8,3,5,6,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+18,DJ Mitchell,Tanzim Hasan Sakib,MS Chapman,1,0,1,9,4,7,7,0,,,3,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+19,DJ Mitchell,Shoriful Islam,MS Chapman,0,0,0,9,4,8,1,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+20,DJ Mitchell,Shoriful Islam,MS Chapman,4,0,4,13,8,9,2,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+21,DJ Mitchell,Shoriful Islam,MS Chapman,4,0,4,17,12,10,3,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+22,DJ Mitchell,Shoriful Islam,MS Chapman,0,0,0,17,12,11,4,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+23,DJ Mitchell,Shoriful Islam,MS Chapman,0,0,0,17,12,12,5,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+24,DJ Mitchell,Shoriful Islam,MS Chapman,1,0,1,18,13,13,6,0,,,4,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+25,DJ Mitchell,Mahedi Hasan,MS Chapman,0,0,0,18,13,14,1,0,,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+26,DJ Mitchell,Mahedi Hasan,MS Chapman,1,0,1,19,14,15,2,0,,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+27,MS Chapman,Mahedi Hasan,DJ Mitchell,1,0,1,20,4,6,3,0,,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+28,DJ Mitchell,Mahedi Hasan,MS Chapman,0,0,0,20,14,16,4,bowled,DJ Mitchell,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+29,JDS Neesham,Mahedi Hasan,MS Chapman,1,0,1,21,1,1,5,0,,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+30,MS Chapman,Mahedi Hasan,JDS Neesham,1,0,1,22,5,7,6,0,,,5,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+31,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,0,0,0,22,5,8,1,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+32,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,4,0,4,26,9,9,2,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+33,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,0,0,0,26,9,10,3,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+34,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,0,0,0,26,9,11,4,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+35,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,6,0,6,32,15,12,5,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+36,MS Chapman,Tanzim Hasan Sakib,JDS Neesham,4,0,4,36,19,13,6,0,,,6,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+37,JDS Neesham,Mahedi Hasan,MS Chapman,0,0,0,36,1,2,1,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+38,JDS Neesham,Mahedi Hasan,MS Chapman,2,0,2,38,3,3,2,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+39,JDS Neesham,Mahedi Hasan,MS Chapman,0,0,0,38,3,4,3,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+40,JDS Neesham,Mahedi Hasan,MS Chapman,1,0,1,39,4,5,4,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+41,MS Chapman,Mahedi Hasan,JDS Neesham,0,0,0,39,19,14,5,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+42,MS Chapman,Mahedi Hasan,JDS Neesham,0,0,0,39,19,15,6,0,,,7,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+43,JDS Neesham,Mustafizur Rahman,MS Chapman,0,0,0,39,4,6,1,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+44,JDS Neesham,Mustafizur Rahman,MS Chapman,0,0,0,39,4,7,2,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+45,JDS Neesham,Mustafizur Rahman,MS Chapman,2,0,2,41,6,8,3,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+46,JDS Neesham,Mustafizur Rahman,MS Chapman,1,0,1,42,7,9,4,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+47,MS Chapman,Mustafizur Rahman,JDS Neesham,0,0,0,42,19,16,5,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+48,MS Chapman,Mustafizur Rahman,JDS Neesham,0,0,0,42,19,17,6,0,,,8,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+49,JDS Neesham,Mahedi Hasan,MS Chapman,1,0,1,43,8,10,1,0,,,9,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+50,MS Chapman,Mahedi Hasan,JDS Neesham,0,1,1,44,19,18,2,0,,,9,,{'legbyes': 1},legbyes,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+51,JDS Neesham,Mahedi Hasan,MS Chapman,4,0,4,48,12,11,3,0,,,9,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+52,JDS Neesham,Mahedi Hasan,MS Chapman,0,0,0,48,12,12,4,0,,,9,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+53,JDS Neesham,Mahedi Hasan,MS Chapman,0,0,0,48,12,13,5,0,,,9,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+54,JDS Neesham,Mahedi Hasan,MS Chapman,1,0,1,49,13,14,6,0,,,9,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+55,JDS Neesham,Rishad Hossain,MS Chapman,1,0,1,50,14,15,1,0,,,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+56,MS Chapman,Rishad Hossain,JDS Neesham,0,0,0,50,19,19,2,caught,MS Chapman,Tanzim Hasan Sakib,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+57,MJ Santner,Rishad Hossain,JDS Neesham,2,0,2,52,2,1,3,0,,,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+58,MJ Santner,Rishad Hossain,JDS Neesham,0,0,0,52,2,2,4,0,,,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+59,MJ Santner,Rishad Hossain,JDS Neesham,1,0,1,53,3,3,5,0,,,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+60,JDS Neesham,Rishad Hossain,MJ Santner,0,0,0,53,14,16,6,0,,,10,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+61,MJ Santner,Afif Hossain,JDS Neesham,1,0,1,54,4,4,1,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+62,JDS Neesham,Afif Hossain,MJ Santner,4,0,4,58,18,17,2,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+63,JDS Neesham,Afif Hossain,MJ Santner,1,0,1,59,19,18,3,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+64,MJ Santner,Afif Hossain,JDS Neesham,1,0,1,60,5,5,4,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+65,JDS Neesham,Afif Hossain,MJ Santner,1,0,1,61,20,19,5,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+66,MJ Santner,Afif Hossain,JDS Neesham,1,0,1,62,6,6,6,0,,,11,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+67,MJ Santner,Rishad Hossain,JDS Neesham,1,0,1,63,7,7,1,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+68,JDS Neesham,Rishad Hossain,MJ Santner,4,0,4,67,24,20,2,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+69,JDS Neesham,Rishad Hossain,MJ Santner,1,0,1,68,25,21,3,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+70,MJ Santner,Rishad Hossain,JDS Neesham,0,0,0,68,7,8,4,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+71,MJ Santner,Rishad Hossain,JDS Neesham,2,0,2,70,9,9,5,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+72,MJ Santner,Rishad Hossain,JDS Neesham,1,0,1,71,10,10,6,0,,,12,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+73,MJ Santner,Mustafizur Rahman,JDS Neesham,0,0,0,71,10,11,1,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+74,MJ Santner,Mustafizur Rahman,JDS Neesham,0,0,0,71,10,12,2,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+75,MJ Santner,Mustafizur Rahman,JDS Neesham,1,0,1,72,11,13,3,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+76,JDS Neesham,Mustafizur Rahman,MJ Santner,0,0,0,72,25,22,4,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+77,JDS Neesham,Mustafizur Rahman,MJ Santner,1,0,1,73,26,23,5,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+78,MJ Santner,Mustafizur Rahman,JDS Neesham,1,0,1,74,12,14,6,0,,,13,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+79,MJ Santner,Tanzim Hasan Sakib,JDS Neesham,0,0,0,74,12,15,1,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+80,MJ Santner,Tanzim Hasan Sakib,JDS Neesham,4,0,4,78,16,16,2,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+81,MJ Santner,Tanzim Hasan Sakib,JDS Neesham,0,0,0,78,16,17,3,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+82,MJ Santner,Tanzim Hasan Sakib,JDS Neesham,4,0,4,82,20,18,4,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+83,MJ Santner,Tanzim Hasan Sakib,JDS Neesham,1,0,1,83,21,19,5,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+84,JDS Neesham,Tanzim Hasan Sakib,MJ Santner,6,0,6,89,32,24,6,0,,,14,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+85,MJ Santner,Shoriful Islam,JDS Neesham,2,0,2,91,23,20,1,0,,,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+86,MJ Santner,Shoriful Islam,JDS Neesham,0,0,0,91,23,21,2,0,,,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+87,MJ Santner,Shoriful Islam,JDS Neesham,0,0,0,91,23,22,3,caught,MJ Santner,Soumya Sarkar,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+88,AF Milne,Shoriful Islam,JDS Neesham,0,0,0,91,0,1,4,0,,,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+89,AF Milne,Shoriful Islam,JDS Neesham,1,0,1,92,1,2,5,0,,,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+90,JDS Neesham,Shoriful Islam,AF Milne,0,0,0,92,32,25,6,0,,,15,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+91,AF Milne,Rishad Hossain,JDS Neesham,0,0,0,92,1,3,1,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+92,AF Milne,Rishad Hossain,JDS Neesham,0,0,0,92,1,4,2,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+93,AF Milne,Rishad Hossain,JDS Neesham,0,0,0,92,1,5,3,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+94,AF Milne,Rishad Hossain,JDS Neesham,1,0,1,93,2,6,4,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+95,JDS Neesham,Rishad Hossain,AF Milne,6,0,6,99,38,26,5,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+96,JDS Neesham,Rishad Hossain,AF Milne,4,0,4,103,42,27,6,0,,,16,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+97,AF Milne,Mustafizur Rahman,JDS Neesham,1,0,1,104,3,7,1,0,,,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+98,JDS Neesham,Mustafizur Rahman,AF Milne,6,0,6,110,48,28,2,0,,,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+99,JDS Neesham,Mustafizur Rahman,AF Milne,0,0,0,110,48,29,3,caught,JDS Neesham,Afif Hossain,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+100,TG Southee,Mustafizur Rahman,AF Milne,0,0,0,110,0,1,4,0,,,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+101,TG Southee,Mustafizur Rahman,AF Milne,1,0,1,111,1,2,5,0,,,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+102,AF Milne,Mustafizur Rahman,TG Southee,0,0,0,111,3,8,6,0,,,17,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+103,TG Southee,Shoriful Islam,AF Milne,4,0,4,115,5,3,1,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+104,TG Southee,Shoriful Islam,AF Milne,0,0,0,115,5,4,2,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+105,TG Southee,Shoriful Islam,AF Milne,2,0,2,117,7,5,3,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+106,TG Southee,Shoriful Islam,AF Milne,0,0,0,117,7,6,4,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+107,TG Southee,Shoriful Islam,AF Milne,1,0,1,118,8,7,5,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+108,AF Milne,Shoriful Islam,TG Southee,6,0,6,124,9,9,6,0,,,18,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+109,TG Southee,Mustafizur Rahman,AF Milne,0,0,0,124,8,8,1,0,,,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+110,TG Southee,Mustafizur Rahman,AF Milne,0,0,0,124,8,9,2,0,,,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+111,TG Southee,Mustafizur Rahman,AF Milne,0,0,0,124,8,10,3,caught,TG Southee,Afif Hossain,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+112,IS Sodhi,Mustafizur Rahman,AF Milne,0,0,0,124,0,1,4,0,,,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+113,IS Sodhi,Mustafizur Rahman,AF Milne,0,0,0,124,0,2,5,0,,,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+114,IS Sodhi,Mustafizur Rahman,AF Milne,1,0,1,125,1,3,6,0,,,19,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+115,IS Sodhi,Tanzim Hasan Sakib,AF Milne,1,0,1,126,2,4,1,0,,,20,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+116,AF Milne,Tanzim Hasan Sakib,IS Sodhi,0,0,0,126,9,10,2,0,,,20,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+117,AF Milne,Tanzim Hasan Sakib,IS Sodhi,1,0,1,127,10,11,3,0,,,20,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+118,IS Sodhi,Tanzim Hasan Sakib,AF Milne,0,0,0,127,2,5,4,caught,IS Sodhi,Liton Das,20,"{'by': 'Bangladesh', 'umpire': 'WR Knights', 'batter': 'IS Sodhi', 'decision': 'upheld', 'type': 'wicket'}",,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+119,BV Sears,Tanzim Hasan Sakib,AF Milne,1,0,1,128,1,1,5,0,,,20,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh
+120,AF Milne,Tanzim Hasan Sakib,BV Sears,6,0,6,134,16,12,6,0,,,20,,,-,field,Bangladesh,1,"McLean Park, Napier",2023-12-27,New Zealand,Bangladesh

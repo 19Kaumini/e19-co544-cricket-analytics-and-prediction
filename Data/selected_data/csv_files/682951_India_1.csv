@@ -1,0 +1,130 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,RG Sharma,BJ Hodge,AM Rahane,4,0,4,4,4,1,1,0,,,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+1,RG Sharma,BJ Hodge,AM Rahane,1,0,1,5,5,2,2,0,,,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+2,AM Rahane,BJ Hodge,RG Sharma,1,0,1,6,1,1,3,0,,,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+3,RG Sharma,BJ Hodge,AM Rahane,0,0,0,6,5,3,4,caught,RG Sharma,JM Muirhead,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+4,V Kohli,BJ Hodge,AM Rahane,0,0,0,6,0,1,5,0,,,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+5,V Kohli,BJ Hodge,AM Rahane,1,0,1,7,1,2,6,0,,,1,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+6,V Kohli,GJ Maxwell,AM Rahane,0,0,0,7,1,3,1,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+7,V Kohli,GJ Maxwell,AM Rahane,1,0,1,8,2,4,2,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+8,AM Rahane,GJ Maxwell,V Kohli,1,0,1,9,2,2,3,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+9,V Kohli,GJ Maxwell,AM Rahane,0,1,1,10,2,5,4,0,,,2,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+10,V Kohli,GJ Maxwell,AM Rahane,0,0,0,10,2,6,5,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+11,V Kohli,GJ Maxwell,AM Rahane,0,0,0,10,2,7,6,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+12,V Kohli,GJ Maxwell,AM Rahane,6,0,6,16,8,8,7,0,,,2,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+13,AM Rahane,MA Starc,V Kohli,0,0,0,16,2,3,1,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+14,AM Rahane,MA Starc,V Kohli,3,0,3,19,5,4,2,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+15,V Kohli,MA Starc,AM Rahane,4,0,4,23,12,9,3,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+16,V Kohli,MA Starc,AM Rahane,0,0,0,23,12,10,4,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+17,V Kohli,MA Starc,AM Rahane,0,0,0,23,12,11,5,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+18,V Kohli,MA Starc,AM Rahane,0,0,0,23,12,12,6,0,,,3,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+19,AM Rahane,SR Watson,V Kohli,1,0,1,24,6,5,1,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+20,V Kohli,SR Watson,AM Rahane,0,0,0,24,12,13,2,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+21,V Kohli,SR Watson,AM Rahane,0,0,0,24,12,14,3,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+22,V Kohli,SR Watson,AM Rahane,4,0,4,28,16,15,4,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+23,V Kohli,SR Watson,AM Rahane,0,0,0,28,16,16,5,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+24,V Kohli,SR Watson,AM Rahane,2,0,2,30,18,17,6,0,,,4,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+25,AM Rahane,MA Starc,V Kohli,0,0,0,30,6,6,1,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+26,AM Rahane,MA Starc,V Kohli,4,0,4,34,10,7,2,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+27,AM Rahane,MA Starc,V Kohli,0,0,0,34,10,8,3,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+28,AM Rahane,MA Starc,V Kohli,0,1,1,35,10,9,4,0,,,5,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+29,AM Rahane,MA Starc,V Kohli,0,0,0,35,10,10,5,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+30,AM Rahane,MA Starc,V Kohli,1,0,1,36,11,11,6,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+31,V Kohli,MA Starc,AM Rahane,1,0,1,37,19,18,7,0,,,5,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+32,V Kohli,DE Bollinger,AM Rahane,1,0,1,38,20,19,1,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+33,AM Rahane,DE Bollinger,V Kohli,1,0,1,39,12,12,2,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+34,V Kohli,DE Bollinger,AM Rahane,0,0,0,39,20,20,3,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+35,V Kohli,DE Bollinger,AM Rahane,1,0,1,40,21,21,4,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+36,AM Rahane,DE Bollinger,V Kohli,4,0,4,44,16,13,5,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+37,AM Rahane,DE Bollinger,V Kohli,0,0,0,44,16,14,6,0,,,6,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+38,V Kohli,JM Muirhead,AM Rahane,2,0,2,46,23,22,1,0,,,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+39,V Kohli,JM Muirhead,AM Rahane,0,0,0,46,23,23,2,caught,V Kohli,CL White,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+40,Yuvraj Singh,JM Muirhead,AM Rahane,1,0,1,47,1,1,3,0,,,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+41,AM Rahane,JM Muirhead,Yuvraj Singh,2,0,2,49,18,15,4,0,,,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+42,AM Rahane,JM Muirhead,Yuvraj Singh,1,0,1,50,19,16,5,0,,,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+43,Yuvraj Singh,JM Muirhead,AM Rahane,1,0,1,51,2,2,6,0,,,7,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+44,Yuvraj Singh,GJ Maxwell,AM Rahane,0,0,0,51,2,3,1,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+45,Yuvraj Singh,GJ Maxwell,AM Rahane,0,0,0,51,2,4,2,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+46,Yuvraj Singh,GJ Maxwell,AM Rahane,0,0,0,51,2,5,3,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+47,Yuvraj Singh,GJ Maxwell,AM Rahane,0,0,0,51,2,6,4,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+48,Yuvraj Singh,GJ Maxwell,AM Rahane,0,0,0,51,2,7,5,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+49,Yuvraj Singh,GJ Maxwell,AM Rahane,1,0,1,52,3,8,6,0,,,8,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+50,Yuvraj Singh,DE Bollinger,AM Rahane,1,0,1,53,4,9,1,0,,,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+51,AM Rahane,DE Bollinger,Yuvraj Singh,0,0,0,53,19,17,2,caught,AM Rahane,BJ Haddin,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+52,SK Raina,DE Bollinger,Yuvraj Singh,0,0,0,53,0,1,3,0,,,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+53,SK Raina,DE Bollinger,Yuvraj Singh,0,0,0,53,0,2,4,0,,,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+54,SK Raina,DE Bollinger,Yuvraj Singh,1,0,1,54,1,3,5,0,,,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+55,Yuvraj Singh,DE Bollinger,SK Raina,0,0,0,54,4,10,6,0,,,9,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+56,SK Raina,GJ Maxwell,Yuvraj Singh,1,0,1,55,2,4,1,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+57,Yuvraj Singh,GJ Maxwell,SK Raina,1,0,1,56,5,11,2,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+58,SK Raina,GJ Maxwell,Yuvraj Singh,1,0,1,57,3,5,3,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+59,Yuvraj Singh,GJ Maxwell,SK Raina,0,0,0,57,5,12,4,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+60,Yuvraj Singh,GJ Maxwell,SK Raina,1,0,1,58,6,13,5,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+61,SK Raina,GJ Maxwell,Yuvraj Singh,1,0,1,59,4,6,6,0,,,10,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+62,SK Raina,DE Bollinger,Yuvraj Singh,0,0,0,59,4,7,1,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+63,SK Raina,DE Bollinger,Yuvraj Singh,1,0,1,60,5,8,2,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+64,Yuvraj Singh,DE Bollinger,SK Raina,4,0,4,64,10,14,3,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+65,Yuvraj Singh,DE Bollinger,SK Raina,0,0,0,64,10,15,4,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+66,Yuvraj Singh,DE Bollinger,SK Raina,0,0,0,64,10,16,5,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+67,Yuvraj Singh,DE Bollinger,SK Raina,0,0,0,64,10,17,6,0,,,11,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+68,SK Raina,GJ Maxwell,Yuvraj Singh,1,0,1,65,6,9,1,0,,,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+69,Yuvraj Singh,GJ Maxwell,SK Raina,1,0,1,66,11,18,2,0,,,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+70,SK Raina,GJ Maxwell,Yuvraj Singh,0,0,0,66,6,10,3,caught,SK Raina,AJ Finch,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+71,Yuvraj Singh,GJ Maxwell,MS Dhoni,1,0,1,67,12,19,4,0,,,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+72,MS Dhoni,GJ Maxwell,Yuvraj Singh,1,0,1,68,1,1,5,0,,,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+73,Yuvraj Singh,GJ Maxwell,MS Dhoni,1,0,1,69,13,20,6,0,,,12,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+74,Yuvraj Singh,BJ Hodge,MS Dhoni,0,0,0,69,13,21,1,0,,,13,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+75,Yuvraj Singh,BJ Hodge,MS Dhoni,4,0,4,73,17,22,2,0,,,13,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+76,Yuvraj Singh,BJ Hodge,MS Dhoni,1,0,1,74,18,23,3,0,,,13,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+77,MS Dhoni,BJ Hodge,Yuvraj Singh,0,1,1,75,1,2,4,0,,,13,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+78,MS Dhoni,BJ Hodge,Yuvraj Singh,0,0,0,75,1,3,5,0,,,13,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+79,MS Dhoni,BJ Hodge,Yuvraj Singh,0,2,2,77,1,4,6,0,,,13,{'legbyes': 2},legbyes,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+80,MS Dhoni,BJ Hodge,Yuvraj Singh,0,0,0,77,1,5,7,0,,,13,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+81,Yuvraj Singh,JM Muirhead,MS Dhoni,6,0,6,83,24,24,1,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+82,Yuvraj Singh,JM Muirhead,MS Dhoni,6,0,6,89,30,25,2,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+83,Yuvraj Singh,JM Muirhead,MS Dhoni,1,0,1,90,31,26,3,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+84,MS Dhoni,JM Muirhead,Yuvraj Singh,1,0,1,91,2,6,4,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+85,Yuvraj Singh,JM Muirhead,MS Dhoni,1,0,1,92,32,27,5,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+86,MS Dhoni,JM Muirhead,Yuvraj Singh,2,0,2,94,4,7,6,0,,,14,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+87,Yuvraj Singh,SR Watson,MS Dhoni,0,0,0,94,32,28,1,0,,,15,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+88,Yuvraj Singh,SR Watson,MS Dhoni,1,0,1,95,33,29,2,0,,,15,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+89,MS Dhoni,SR Watson,Yuvraj Singh,0,0,0,95,4,8,3,0,,,15,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+90,MS Dhoni,SR Watson,Yuvraj Singh,0,1,1,96,4,9,4,0,,,15,{'legbyes': 1},legbyes,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+91,Yuvraj Singh,SR Watson,MS Dhoni,1,0,1,97,34,30,5,0,,,15,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+92,MS Dhoni,SR Watson,Yuvraj Singh,0,1,1,98,4,10,6,0,,,15,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+93,MS Dhoni,SR Watson,Yuvraj Singh,0,3,3,101,4,11,7,0,,,15,{'wides': 3},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+94,MS Dhoni,SR Watson,Yuvraj Singh,1,0,1,102,5,12,8,0,,,15,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+95,MS Dhoni,DE Bollinger,Yuvraj Singh,0,0,0,102,5,13,1,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+96,MS Dhoni,DE Bollinger,Yuvraj Singh,2,0,2,104,7,14,2,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+97,MS Dhoni,DE Bollinger,Yuvraj Singh,0,0,0,104,7,15,3,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+98,MS Dhoni,DE Bollinger,Yuvraj Singh,2,0,2,106,9,16,4,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+99,MS Dhoni,DE Bollinger,Yuvraj Singh,4,0,4,110,13,17,5,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+100,MS Dhoni,DE Bollinger,Yuvraj Singh,2,0,2,112,15,18,6,0,,,16,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+101,Yuvraj Singh,MA Starc,MS Dhoni,1,0,1,113,35,31,1,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+102,MS Dhoni,MA Starc,Yuvraj Singh,6,0,6,119,21,19,2,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+103,MS Dhoni,MA Starc,Yuvraj Singh,0,1,1,120,21,20,3,0,,,17,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+104,MS Dhoni,MA Starc,Yuvraj Singh,1,0,1,121,22,21,4,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+105,Yuvraj Singh,MA Starc,MS Dhoni,4,0,4,125,39,32,5,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+106,Yuvraj Singh,MA Starc,MS Dhoni,0,0,0,125,39,33,6,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+107,Yuvraj Singh,MA Starc,MS Dhoni,6,0,6,131,45,34,7,0,,,17,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+108,MS Dhoni,SR Watson,Yuvraj Singh,1,0,1,132,23,22,1,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+109,Yuvraj Singh,SR Watson,MS Dhoni,0,0,0,132,45,35,2,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+110,Yuvraj Singh,SR Watson,MS Dhoni,4,0,4,136,49,36,3,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+111,Yuvraj Singh,SR Watson,MS Dhoni,0,1,1,137,49,37,4,0,,,18,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+112,Yuvraj Singh,SR Watson,MS Dhoni,6,0,6,143,55,38,5,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+113,Yuvraj Singh,SR Watson,MS Dhoni,4,0,4,147,59,39,6,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+114,Yuvraj Singh,SR Watson,MS Dhoni,0,0,0,147,59,40,7,0,,,18,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+115,MS Dhoni,MA Starc,Yuvraj Singh,1,0,1,148,24,23,1,0,,,19,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+116,Yuvraj Singh,MA Starc,MS Dhoni,0,1,1,149,59,41,2,0,,,19,{'wides': 1},wides,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+117,Yuvraj Singh,MA Starc,MS Dhoni,1,0,1,150,60,42,3,0,,,19,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+118,MS Dhoni,MA Starc,Yuvraj Singh,0,0,0,150,24,24,4,bowled,MS Dhoni,,19,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+119,RA Jadeja,MA Starc,Yuvraj Singh,0,1,1,151,0,1,5,0,,,19,{'legbyes': 1},legbyes,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+120,Yuvraj Singh,MA Starc,RA Jadeja,0,0,0,151,60,43,6,0,,,19,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+121,Yuvraj Singh,MA Starc,RA Jadeja,0,1,1,152,60,44,7,0,,,19,{'legbyes': 1},legbyes,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+122,Yuvraj Singh,SR Watson,RA Jadeja,0,0,0,152,60,45,1,caught,Yuvraj Singh,GJ Maxwell,20,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+123,RA Jadeja,SR Watson,R Ashwin,2,0,2,154,2,2,2,0,,,20,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+124,RA Jadeja,SR Watson,R Ashwin,1,0,1,155,3,3,3,0,,,20,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+125,R Ashwin,SR Watson,RA Jadeja,0,1,1,156,0,1,4,0,,,20,{'noballs': 1},noballs,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+126,R Ashwin,SR Watson,RA Jadeja,2,0,2,158,2,2,5,0,,,20,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+127,R Ashwin,SR Watson,RA Jadeja,0,0,0,158,2,3,6,run out,RA Jadeja,SR Watson,20,,-,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia
+128,B Kumar,SR Watson,R Ashwin,0,1,1,159,0,1,7,0,,,20,{'legbyes': 1},legbyes,field,Australia,1,Shere Bangla National Stadium,2014-03-30,India,Australia

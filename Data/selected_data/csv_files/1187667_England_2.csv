@@ -1,0 +1,126 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,T Banton,TG Southee,DJ Malan,0,0,0,0,0,1,1,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+1,T Banton,TG Southee,DJ Malan,1,0,1,1,1,2,2,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+2,DJ Malan,TG Southee,T Banton,1,0,1,2,1,1,3,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+3,T Banton,TG Southee,DJ Malan,4,0,4,6,5,3,4,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+4,T Banton,TG Southee,DJ Malan,1,0,1,7,6,4,5,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+5,DJ Malan,TG Southee,T Banton,4,0,4,11,5,2,6,1,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+6,T Banton,LH Ferguson,DJ Malan,1,0,1,12,7,5,1,2,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+7,DJ Malan,LH Ferguson,T Banton,1,0,1,13,6,3,2,2,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+8,T Banton,LH Ferguson,DJ Malan,6,0,6,19,13,6,3,2,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+9,T Banton,LH Ferguson,DJ Malan,4,0,4,23,17,7,4,2,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+10,T Banton,LH Ferguson,DJ Malan,0,1,1,24,17,8,5,2,{'wides': 1},wides,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+11,T Banton,LH Ferguson,DJ Malan,0,1,1,25,17,9,6,2,{'legbyes': 1},legbyes,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+12,DJ Malan,LH Ferguson,T Banton,0,0,0,25,6,4,7,2,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+13,T Banton,BM Tickner,DJ Malan,1,0,1,26,18,10,1,3,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+14,DJ Malan,BM Tickner,T Banton,0,0,0,26,6,5,2,3,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+15,DJ Malan,BM Tickner,T Banton,0,0,0,26,6,6,3,3,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+16,DJ Malan,BM Tickner,T Banton,1,0,1,27,7,7,4,3,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+17,T Banton,BM Tickner,DJ Malan,0,0,0,27,18,11,5,3,,-,bowled,T Banton,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+18,JM Vince,BM Tickner,DJ Malan,0,0,0,27,0,1,6,3,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+19,DJ Malan,LH Ferguson,JM Vince,4,0,4,31,11,8,1,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+20,DJ Malan,LH Ferguson,JM Vince,1,0,1,32,12,9,2,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+21,JM Vince,LH Ferguson,DJ Malan,0,0,0,32,0,2,3,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+22,JM Vince,LH Ferguson,DJ Malan,0,0,0,32,0,3,4,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+23,JM Vince,LH Ferguson,DJ Malan,0,0,0,32,0,4,5,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+24,JM Vince,LH Ferguson,DJ Malan,0,0,0,32,0,5,6,4,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+25,DJ Malan,BM Tickner,JM Vince,0,0,0,32,12,10,1,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+26,DJ Malan,BM Tickner,JM Vince,0,0,0,32,12,11,2,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+27,DJ Malan,BM Tickner,JM Vince,0,0,0,32,12,12,3,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+28,DJ Malan,BM Tickner,JM Vince,1,0,1,33,13,13,4,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+29,JM Vince,BM Tickner,DJ Malan,1,0,1,34,1,6,5,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+30,DJ Malan,BM Tickner,JM Vince,2,0,2,36,15,14,6,5,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+31,JM Vince,TG Southee,DJ Malan,1,0,1,37,2,7,1,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+32,DJ Malan,TG Southee,JM Vince,4,0,4,41,19,15,2,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+33,DJ Malan,TG Southee,JM Vince,0,0,0,41,19,16,3,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+34,DJ Malan,TG Southee,JM Vince,0,0,0,41,19,17,4,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+35,DJ Malan,TG Southee,JM Vince,4,0,4,45,23,18,5,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+36,DJ Malan,TG Southee,JM Vince,1,0,1,46,24,19,6,6,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+37,DJ Malan,IS Sodhi,JM Vince,1,0,1,47,25,20,1,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+38,JM Vince,IS Sodhi,DJ Malan,0,0,0,47,2,8,2,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+39,JM Vince,IS Sodhi,DJ Malan,4,0,4,51,6,9,3,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+40,JM Vince,IS Sodhi,DJ Malan,1,0,1,52,7,10,4,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+41,DJ Malan,IS Sodhi,JM Vince,4,0,4,56,29,21,5,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+42,DJ Malan,IS Sodhi,JM Vince,4,0,4,60,33,22,6,7,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+43,JM Vince,MJ Santner,DJ Malan,1,0,1,61,8,11,1,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+44,DJ Malan,MJ Santner,JM Vince,1,0,1,62,34,23,2,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+45,JM Vince,MJ Santner,DJ Malan,0,0,0,62,8,12,3,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+46,JM Vince,MJ Santner,DJ Malan,2,0,2,64,10,13,4,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+47,JM Vince,MJ Santner,DJ Malan,1,0,1,65,11,14,5,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+48,DJ Malan,MJ Santner,JM Vince,1,0,1,66,35,24,6,8,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+49,DJ Malan,JDS Neesham,JM Vince,1,0,1,67,36,25,1,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+50,JM Vince,JDS Neesham,DJ Malan,2,0,2,69,13,15,2,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+51,JM Vince,JDS Neesham,DJ Malan,1,0,1,70,14,16,3,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+52,DJ Malan,JDS Neesham,JM Vince,6,0,6,76,42,26,4,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+53,DJ Malan,JDS Neesham,JM Vince,4,0,4,80,46,27,5,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+54,DJ Malan,JDS Neesham,JM Vince,2,0,2,82,48,28,6,9,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+55,JM Vince,MJ Santner,DJ Malan,0,0,0,82,14,17,1,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+56,JM Vince,MJ Santner,DJ Malan,1,0,1,83,15,18,2,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+57,DJ Malan,MJ Santner,JM Vince,2,0,2,85,50,29,3,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+58,DJ Malan,MJ Santner,JM Vince,0,0,0,85,50,30,4,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+59,DJ Malan,MJ Santner,JM Vince,4,0,4,89,54,31,5,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+60,DJ Malan,MJ Santner,JM Vince,1,0,1,90,55,32,6,10,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+61,DJ Malan,IS Sodhi,JM Vince,0,0,0,90,55,33,1,11,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+62,DJ Malan,IS Sodhi,JM Vince,0,0,0,90,55,34,2,11,,-,caught,DJ Malan,MJ Guptill,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+63,JM Vince,IS Sodhi,EJG Morgan,1,0,1,91,16,19,3,11,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+64,EJG Morgan,IS Sodhi,JM Vince,1,0,1,92,1,1,4,11,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+65,JM Vince,IS Sodhi,EJG Morgan,2,0,2,94,18,20,5,11,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+66,JM Vince,IS Sodhi,EJG Morgan,0,0,0,94,18,21,6,11,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+67,EJG Morgan,MJ Santner,JM Vince,1,0,1,95,2,2,1,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+68,JM Vince,MJ Santner,EJG Morgan,0,0,0,95,18,22,2,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+69,JM Vince,MJ Santner,EJG Morgan,0,0,0,95,18,23,3,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+70,JM Vince,MJ Santner,EJG Morgan,2,0,2,97,20,24,4,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+71,JM Vince,MJ Santner,EJG Morgan,4,0,4,101,24,25,5,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+72,JM Vince,MJ Santner,EJG Morgan,4,0,4,105,28,26,6,12,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+73,EJG Morgan,BM Tickner,JM Vince,1,0,1,106,3,3,1,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+74,JM Vince,BM Tickner,EJG Morgan,4,0,4,110,32,27,2,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+75,JM Vince,BM Tickner,EJG Morgan,6,0,6,116,38,28,3,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+76,JM Vince,BM Tickner,EJG Morgan,2,0,2,118,40,29,4,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+77,JM Vince,BM Tickner,EJG Morgan,1,0,1,119,41,30,5,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+78,EJG Morgan,BM Tickner,JM Vince,0,0,0,119,3,4,6,13,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+79,JM Vince,LH Ferguson,EJG Morgan,1,0,1,120,42,31,1,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+80,EJG Morgan,LH Ferguson,JM Vince,1,0,1,121,4,5,2,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+81,JM Vince,LH Ferguson,EJG Morgan,1,0,1,122,43,32,3,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+82,EJG Morgan,LH Ferguson,JM Vince,0,0,0,122,4,6,4,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+83,EJG Morgan,LH Ferguson,JM Vince,0,0,0,122,4,7,5,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+84,EJG Morgan,LH Ferguson,JM Vince,1,0,1,123,5,8,6,14,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+85,EJG Morgan,MJ Santner,JM Vince,6,0,6,129,11,9,1,15,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+86,EJG Morgan,MJ Santner,JM Vince,0,1,1,130,11,10,2,15,{'wides': 1},wides,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+87,EJG Morgan,MJ Santner,JM Vince,6,0,6,136,17,11,3,15,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+88,EJG Morgan,MJ Santner,JM Vince,0,1,1,137,17,12,4,15,{'wides': 1},wides,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+89,EJG Morgan,MJ Santner,JM Vince,1,0,1,138,18,13,5,15,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+90,JM Vince,MJ Santner,EJG Morgan,1,0,1,139,44,33,6,15,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+91,EJG Morgan,MJ Santner,JM Vince,0,0,0,139,18,14,7,15,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+92,EJG Morgan,MJ Santner,JM Vince,0,0,0,139,18,15,8,15,,-,caught,EJG Morgan,C Munro,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+93,JM Vince,TG Southee,SW Billings,1,0,1,140,45,34,1,16,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+94,SW Billings,TG Southee,JM Vince,1,0,1,141,1,1,2,16,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+95,JM Vince,TG Southee,SW Billings,1,0,1,142,46,35,3,16,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+96,SW Billings,TG Southee,JM Vince,0,0,0,142,1,2,4,16,,-,run out,SW Billings,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+97,SM Curran,TG Southee,JM Vince,0,0,0,142,0,1,5,16,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+98,SM Curran,TG Southee,JM Vince,0,0,0,142,0,2,6,16,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+99,JM Vince,BM Tickner,SM Curran,0,0,0,142,46,36,1,17,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+100,JM Vince,BM Tickner,SM Curran,1,0,1,143,47,37,2,17,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+101,SM Curran,BM Tickner,JM Vince,0,1,1,144,0,3,3,17,{'wides': 1},wides,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+102,SM Curran,BM Tickner,JM Vince,0,0,0,144,0,4,4,17,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+103,SM Curran,BM Tickner,JM Vince,1,0,1,145,1,5,5,17,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+104,JM Vince,BM Tickner,SM Curran,2,0,2,147,49,38,6,17,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+105,JM Vince,BM Tickner,SM Curran,0,0,0,147,49,39,7,17,,-,caught,JM Vince,TG Southee,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+106,SM Curran,LH Ferguson,L Gregory,1,0,1,148,2,6,1,18,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+107,L Gregory,LH Ferguson,SM Curran,0,0,0,148,0,1,2,18,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+108,L Gregory,LH Ferguson,SM Curran,0,0,0,148,0,2,3,18,,-,bowled,L Gregory,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+109,TK Curran,LH Ferguson,SM Curran,1,0,1,149,1,1,4,18,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+110,SM Curran,LH Ferguson,TK Curran,0,0,0,149,2,7,5,18,,-,caught,SM Curran,C Munro,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+111,TK Curran,LH Ferguson,S Mahmood,1,0,1,150,2,2,6,18,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+112,TK Curran,IS Sodhi,S Mahmood,1,0,1,151,3,3,1,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+113,S Mahmood,IS Sodhi,TK Curran,1,0,1,152,1,1,2,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+114,TK Curran,IS Sodhi,S Mahmood,1,0,1,153,4,4,3,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+115,S Mahmood,IS Sodhi,TK Curran,1,0,1,154,2,2,4,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+116,TK Curran,IS Sodhi,S Mahmood,0,1,1,155,4,5,5,19,{'wides': 1},wides,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+117,TK Curran,IS Sodhi,S Mahmood,6,0,6,161,10,6,6,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+118,TK Curran,IS Sodhi,S Mahmood,1,0,1,162,11,7,7,19,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+119,TK Curran,TG Southee,S Mahmood,0,0,0,162,11,8,1,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+120,TK Curran,TG Southee,S Mahmood,0,0,0,162,11,9,2,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+121,TK Curran,TG Southee,S Mahmood,1,0,1,163,12,10,3,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+122,S Mahmood,TG Southee,TK Curran,0,0,0,163,2,3,4,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+123,S Mahmood,TG Southee,TK Curran,1,0,1,164,3,4,5,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand
+124,TK Curran,TG Southee,S Mahmood,2,0,2,166,14,11,6,20,,-,0,,,bat,New Zealand,2,Saxton Oval,2019-11-05,England,New Zealand

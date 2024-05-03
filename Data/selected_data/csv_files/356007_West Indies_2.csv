@@ -1,0 +1,124 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,CH Gayle,DW Steyn,ADS Fletcher,0,0,0,0,0,1,1,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+1,CH Gayle,DW Steyn,ADS Fletcher,2,0,2,2,2,2,2,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+2,CH Gayle,DW Steyn,ADS Fletcher,0,0,0,2,2,3,3,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+3,CH Gayle,DW Steyn,ADS Fletcher,1,0,1,3,3,4,4,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+4,ADS Fletcher,DW Steyn,CH Gayle,0,0,0,3,0,1,5,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+5,ADS Fletcher,DW Steyn,CH Gayle,0,0,0,3,0,2,6,1,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+6,CH Gayle,WD Parnell,ADS Fletcher,1,0,1,4,4,5,1,2,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+7,ADS Fletcher,WD Parnell,CH Gayle,0,0,0,4,0,3,2,2,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+8,ADS Fletcher,WD Parnell,CH Gayle,0,0,0,4,0,4,3,2,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+9,ADS Fletcher,WD Parnell,CH Gayle,0,0,0,4,0,5,4,2,,-,bowled,ADS Fletcher,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+10,LMP Simmons,WD Parnell,CH Gayle,0,1,1,5,0,1,5,2,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+11,CH Gayle,WD Parnell,LMP Simmons,0,0,0,5,4,6,6,2,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+12,LMP Simmons,DW Steyn,CH Gayle,2,0,2,7,2,2,1,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+13,LMP Simmons,DW Steyn,CH Gayle,0,0,0,7,2,3,2,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+14,LMP Simmons,DW Steyn,CH Gayle,0,0,0,7,2,4,3,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+15,LMP Simmons,DW Steyn,CH Gayle,4,0,4,11,6,5,4,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+16,LMP Simmons,DW Steyn,CH Gayle,1,0,1,12,7,6,5,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+17,CH Gayle,DW Steyn,LMP Simmons,1,0,1,13,5,7,6,3,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+18,CH Gayle,WD Parnell,LMP Simmons,0,0,0,13,5,8,1,4,,-,caught,CH Gayle,J Botha,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+19,DJ Bravo,WD Parnell,LMP Simmons,0,1,1,14,0,1,2,4,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+20,LMP Simmons,WD Parnell,DJ Bravo,1,0,1,15,8,7,3,4,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+21,DJ Bravo,WD Parnell,LMP Simmons,0,0,0,15,0,2,4,4,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+22,DJ Bravo,WD Parnell,LMP Simmons,1,0,1,16,1,3,5,4,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+23,LMP Simmons,WD Parnell,DJ Bravo,0,0,0,16,8,8,6,4,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+24,DJ Bravo,JH Kallis,LMP Simmons,4,0,4,20,5,4,1,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+25,DJ Bravo,JH Kallis,LMP Simmons,1,0,1,21,6,5,2,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+26,LMP Simmons,JH Kallis,DJ Bravo,4,0,4,25,12,9,3,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+27,LMP Simmons,JH Kallis,DJ Bravo,4,0,4,29,16,10,4,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+28,LMP Simmons,JH Kallis,DJ Bravo,4,0,4,33,20,11,5,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+29,LMP Simmons,JH Kallis,DJ Bravo,1,0,1,34,21,12,6,5,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+30,LMP Simmons,JA Morkel,DJ Bravo,1,0,1,35,22,13,1,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+31,DJ Bravo,JA Morkel,LMP Simmons,4,0,4,39,10,6,2,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+32,DJ Bravo,JA Morkel,LMP Simmons,1,0,1,40,11,7,3,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+33,LMP Simmons,JA Morkel,DJ Bravo,4,0,4,44,26,14,4,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+34,LMP Simmons,JA Morkel,DJ Bravo,1,0,1,45,27,15,5,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+35,DJ Bravo,JA Morkel,LMP Simmons,0,0,0,45,11,8,6,6,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+36,LMP Simmons,J Botha,DJ Bravo,0,1,1,46,27,16,1,7,{'byes': 1},byes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+37,DJ Bravo,J Botha,LMP Simmons,1,0,1,47,12,9,2,7,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+38,LMP Simmons,J Botha,DJ Bravo,1,0,1,48,28,17,3,7,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+39,DJ Bravo,J Botha,LMP Simmons,1,0,1,49,13,10,4,7,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+40,LMP Simmons,J Botha,DJ Bravo,2,0,2,51,30,18,5,7,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+41,LMP Simmons,J Botha,DJ Bravo,4,0,4,55,34,19,6,7,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+42,DJ Bravo,JA Morkel,LMP Simmons,2,0,2,57,15,11,1,8,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+43,DJ Bravo,JA Morkel,LMP Simmons,0,1,1,58,15,12,2,8,{'noballs': 1},noballs,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+44,DJ Bravo,JA Morkel,LMP Simmons,1,0,1,59,16,13,3,8,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+45,LMP Simmons,JA Morkel,DJ Bravo,0,1,1,60,34,20,4,8,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+46,DJ Bravo,JA Morkel,LMP Simmons,1,0,1,61,17,14,5,8,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+47,LMP Simmons,JA Morkel,DJ Bravo,0,1,1,62,34,21,6,8,{'wides': 1},wides,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+48,LMP Simmons,JA Morkel,DJ Bravo,4,0,4,66,38,22,7,8,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+49,LMP Simmons,JA Morkel,DJ Bravo,0,0,0,66,38,23,8,8,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+50,DJ Bravo,RE van der Merwe,LMP Simmons,1,0,1,67,18,15,1,9,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+51,LMP Simmons,RE van der Merwe,DJ Bravo,0,0,0,67,38,24,2,9,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+52,LMP Simmons,RE van der Merwe,DJ Bravo,0,1,1,68,38,25,3,9,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+53,DJ Bravo,RE van der Merwe,LMP Simmons,1,0,1,69,19,16,4,9,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+54,LMP Simmons,RE van der Merwe,DJ Bravo,1,0,1,70,39,26,5,9,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+55,DJ Bravo,RE van der Merwe,LMP Simmons,0,0,0,70,19,17,6,9,,-,caught,DJ Bravo,DW Steyn,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+56,LMP Simmons,J Botha,S Chanderpaul,0,0,0,70,39,27,1,10,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+57,LMP Simmons,J Botha,S Chanderpaul,0,1,1,71,39,28,2,10,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+58,S Chanderpaul,J Botha,LMP Simmons,1,0,1,72,1,1,3,10,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+59,LMP Simmons,J Botha,S Chanderpaul,4,0,4,76,43,29,4,10,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+60,LMP Simmons,J Botha,S Chanderpaul,2,0,2,78,45,30,5,10,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+61,LMP Simmons,J Botha,S Chanderpaul,4,0,4,82,49,31,6,10,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+62,S Chanderpaul,RE van der Merwe,LMP Simmons,0,0,0,82,1,2,1,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+63,S Chanderpaul,RE van der Merwe,LMP Simmons,0,0,0,82,1,3,2,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+64,S Chanderpaul,RE van der Merwe,LMP Simmons,2,0,2,84,3,4,3,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+65,S Chanderpaul,RE van der Merwe,LMP Simmons,1,0,1,85,4,5,4,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+66,LMP Simmons,RE van der Merwe,S Chanderpaul,1,0,1,86,50,32,5,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+67,S Chanderpaul,RE van der Merwe,LMP Simmons,4,0,4,90,8,6,6,11,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+68,LMP Simmons,JP Duminy,S Chanderpaul,1,0,1,91,51,33,1,12,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+69,S Chanderpaul,JP Duminy,LMP Simmons,0,0,0,91,8,7,2,12,,-,caught and bowled,S Chanderpaul,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+70,RR Sarwan,JP Duminy,LMP Simmons,1,0,1,92,1,1,3,12,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+71,LMP Simmons,JP Duminy,RR Sarwan,1,0,1,93,52,34,4,12,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+72,RR Sarwan,JP Duminy,LMP Simmons,1,0,1,94,2,2,5,12,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+73,LMP Simmons,JP Duminy,RR Sarwan,1,0,1,95,53,35,6,12,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+74,LMP Simmons,RE van der Merwe,RR Sarwan,2,0,2,97,55,36,1,13,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+75,LMP Simmons,RE van der Merwe,RR Sarwan,6,0,6,103,61,37,2,13,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+76,LMP Simmons,RE van der Merwe,RR Sarwan,0,1,1,104,61,38,3,13,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+77,RR Sarwan,RE van der Merwe,LMP Simmons,0,0,0,104,2,3,4,13,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+78,RR Sarwan,RE van der Merwe,LMP Simmons,2,0,2,106,4,4,5,13,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+79,RR Sarwan,RE van der Merwe,LMP Simmons,0,0,0,106,4,5,6,13,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+80,LMP Simmons,JP Duminy,RR Sarwan,4,0,4,110,65,39,1,14,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+81,LMP Simmons,JP Duminy,RR Sarwan,4,0,4,114,69,40,2,14,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+82,LMP Simmons,JP Duminy,RR Sarwan,2,0,2,116,71,41,3,14,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+83,LMP Simmons,JP Duminy,RR Sarwan,0,1,1,117,71,42,4,14,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+84,RR Sarwan,JP Duminy,LMP Simmons,1,0,1,118,5,6,5,14,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+85,LMP Simmons,JP Duminy,RR Sarwan,0,0,0,118,71,43,6,14,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+86,RR Sarwan,JH Kallis,LMP Simmons,1,0,1,119,6,7,1,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+87,LMP Simmons,JH Kallis,RR Sarwan,0,0,0,119,71,44,2,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+88,LMP Simmons,JH Kallis,RR Sarwan,0,0,0,119,71,45,3,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+89,LMP Simmons,JH Kallis,RR Sarwan,4,0,4,123,75,46,4,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+90,LMP Simmons,JH Kallis,RR Sarwan,0,0,0,123,75,47,5,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+91,LMP Simmons,JH Kallis,RR Sarwan,0,0,0,123,75,48,6,15,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+92,RR Sarwan,RE van der Merwe,LMP Simmons,1,0,1,124,7,8,1,16,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+93,LMP Simmons,RE van der Merwe,RR Sarwan,1,0,1,125,76,49,2,16,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+94,RR Sarwan,RE van der Merwe,LMP Simmons,1,0,1,126,8,9,3,16,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+95,LMP Simmons,RE van der Merwe,RR Sarwan,1,0,1,127,77,50,4,16,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+96,RR Sarwan,RE van der Merwe,LMP Simmons,0,1,1,128,8,10,5,16,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+97,LMP Simmons,RE van der Merwe,RR Sarwan,0,5,5,133,77,51,6,16,{'wides': 5},wides,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+98,LMP Simmons,RE van der Merwe,RR Sarwan,0,0,0,133,77,52,7,16,,-,caught,LMP Simmons,AB de Villiers,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+99,RR Sarwan,DW Steyn,KA Pollard,0,0,0,133,8,11,1,17,,-,caught,RR Sarwan,J Botha,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+100,KA Pollard,DW Steyn,D Ramdin,1,0,1,134,1,1,2,17,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+101,D Ramdin,DW Steyn,KA Pollard,1,0,1,135,1,1,3,17,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+102,KA Pollard,DW Steyn,D Ramdin,4,0,4,139,5,2,4,17,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+103,KA Pollard,DW Steyn,D Ramdin,1,0,1,140,6,3,5,17,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+104,D Ramdin,DW Steyn,KA Pollard,1,0,1,141,2,2,6,17,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+105,D Ramdin,WD Parnell,KA Pollard,0,1,1,142,2,3,1,18,{'legbyes': 1},legbyes,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+106,KA Pollard,WD Parnell,D Ramdin,0,0,0,142,6,4,2,18,,-,caught,KA Pollard,GC Smith,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+107,D Ramdin,WD Parnell,JE Taylor,1,0,1,143,3,4,3,18,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+108,JE Taylor,WD Parnell,D Ramdin,0,0,0,143,0,1,4,18,,-,bowled,JE Taylor,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+109,SJ Benn,WD Parnell,D Ramdin,1,0,1,144,1,1,5,18,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+110,D Ramdin,WD Parnell,SJ Benn,4,0,4,148,7,5,6,18,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+111,SJ Benn,DW Steyn,D Ramdin,1,0,1,149,2,2,1,19,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+112,D Ramdin,DW Steyn,SJ Benn,1,0,1,150,8,6,2,19,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+113,SJ Benn,DW Steyn,D Ramdin,4,0,4,154,6,3,3,19,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+114,SJ Benn,DW Steyn,D Ramdin,4,0,4,158,10,4,4,19,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+115,SJ Benn,DW Steyn,D Ramdin,1,0,1,159,11,5,5,19,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+116,D Ramdin,DW Steyn,SJ Benn,0,0,0,159,8,7,6,19,,-,bowled,D Ramdin,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+117,SJ Benn,WD Parnell,FH Edwards,0,0,0,159,11,6,1,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+118,SJ Benn,WD Parnell,FH Edwards,1,0,1,160,12,7,2,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+119,FH Edwards,WD Parnell,SJ Benn,1,0,1,161,1,1,3,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+120,SJ Benn,WD Parnell,FH Edwards,0,0,0,161,12,8,4,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+121,SJ Benn,WD Parnell,FH Edwards,1,0,1,162,13,9,5,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa
+122,FH Edwards,WD Parnell,SJ Benn,1,0,1,163,2,2,6,20,,-,0,,,field,West Indies,2,Kennington Oval,2009-06-13,West Indies,South Africa

@@ -1,0 +1,131 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,AJ Finch,K Rabada,SR Watson,0,0,0,0,0,1,1,0,,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+1,AJ Finch,K Rabada,SR Watson,2,0,2,2,2,2,2,0,,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+2,AJ Finch,K Rabada,SR Watson,0,0,0,2,2,3,3,0,,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+3,AJ Finch,K Rabada,SR Watson,0,0,0,2,2,4,4,bowled,AJ Finch,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+4,SPD Smith,K Rabada,SR Watson,1,0,1,3,1,1,5,0,,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+5,SR Watson,K Rabada,SPD Smith,0,0,0,3,0,1,6,0,,,1,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+6,SPD Smith,CH Morris,SR Watson,0,0,0,3,1,2,1,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+7,SPD Smith,CH Morris,SR Watson,4,0,4,7,5,3,2,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+8,SPD Smith,CH Morris,SR Watson,0,0,0,7,5,4,3,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+9,SPD Smith,CH Morris,SR Watson,0,0,0,7,5,5,4,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+10,SPD Smith,CH Morris,SR Watson,4,0,4,11,9,6,5,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+11,SPD Smith,CH Morris,SR Watson,1,0,1,12,10,7,6,0,,,2,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+12,SPD Smith,K Rabada,SR Watson,1,0,1,13,11,8,1,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+13,SR Watson,K Rabada,SPD Smith,0,0,0,13,0,2,2,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+14,SR Watson,K Rabada,SPD Smith,1,0,1,14,1,3,3,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+15,SPD Smith,K Rabada,SR Watson,0,0,0,14,11,9,4,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+16,SPD Smith,K Rabada,SR Watson,1,0,1,15,12,10,5,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+17,SR Watson,K Rabada,SPD Smith,0,0,0,15,1,4,6,0,,,3,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+18,SPD Smith,DW Steyn,SR Watson,0,1,1,16,12,11,1,0,,,4,{'legbyes': 1},legbyes,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+19,SR Watson,DW Steyn,SPD Smith,0,0,0,16,1,5,2,0,,,4,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+20,SR Watson,DW Steyn,SPD Smith,0,0,0,16,1,6,3,0,,,4,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+21,SR Watson,DW Steyn,SPD Smith,0,0,0,16,1,7,4,0,,,4,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+22,SR Watson,DW Steyn,SPD Smith,4,0,4,20,5,8,5,0,,,4,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+23,SR Watson,DW Steyn,SPD Smith,0,0,0,20,5,9,6,0,,,4,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+24,SPD Smith,K Rabada,SR Watson,0,1,1,21,12,12,1,0,,,5,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+25,SPD Smith,K Rabada,SR Watson,0,0,0,21,12,13,2,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+26,SPD Smith,K Rabada,SR Watson,6,0,6,27,18,14,3,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+27,SPD Smith,K Rabada,SR Watson,1,0,1,28,19,15,4,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+28,SR Watson,K Rabada,SPD Smith,0,0,0,28,5,10,5,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+29,SR Watson,K Rabada,SPD Smith,0,0,0,28,5,11,6,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+30,SR Watson,K Rabada,SPD Smith,0,0,0,28,5,12,7,0,,,5,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+31,SPD Smith,DW Steyn,SR Watson,0,0,0,28,19,16,1,caught,SPD Smith,K Rabada,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+32,SR Watson,DW Steyn,DA Warner,0,0,0,28,5,13,2,0,,,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+33,SR Watson,DW Steyn,DA Warner,4,0,4,32,9,14,3,0,,,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+34,SR Watson,DW Steyn,DA Warner,0,0,0,32,9,15,4,caught,SR Watson,JP Duminy,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+35,DA Warner,DW Steyn,GJ Maxwell,0,0,0,32,0,1,5,0,,,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+36,DA Warner,DW Steyn,GJ Maxwell,4,0,4,36,4,2,6,0,,,6,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+37,GJ Maxwell,CH Morris,DA Warner,0,1,1,37,0,1,1,0,,,7,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+38,GJ Maxwell,CH Morris,DA Warner,1,0,1,38,1,2,2,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+39,DA Warner,CH Morris,GJ Maxwell,1,0,1,39,5,3,3,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+40,GJ Maxwell,CH Morris,DA Warner,1,0,1,40,2,3,4,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+41,DA Warner,CH Morris,GJ Maxwell,4,0,4,44,9,4,5,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+42,DA Warner,CH Morris,GJ Maxwell,0,0,0,44,9,5,6,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+43,DA Warner,CH Morris,GJ Maxwell,1,0,1,45,10,6,7,0,,,7,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+44,DA Warner,D Wiese,GJ Maxwell,1,0,1,46,11,7,1,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+45,GJ Maxwell,D Wiese,DA Warner,4,0,4,50,6,4,2,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+46,GJ Maxwell,D Wiese,DA Warner,2,0,2,52,8,5,3,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+47,GJ Maxwell,D Wiese,DA Warner,2,0,2,54,10,6,4,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+48,GJ Maxwell,D Wiese,DA Warner,6,0,6,60,16,7,5,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+49,GJ Maxwell,D Wiese,DA Warner,0,0,0,60,16,8,6,0,,,8,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+50,DA Warner,Imran Tahir,GJ Maxwell,1,0,1,61,12,8,1,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+51,GJ Maxwell,Imran Tahir,DA Warner,2,0,2,63,18,9,2,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+52,GJ Maxwell,Imran Tahir,DA Warner,0,0,0,63,18,10,3,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+53,GJ Maxwell,Imran Tahir,DA Warner,1,0,1,64,19,11,4,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+54,DA Warner,Imran Tahir,GJ Maxwell,6,0,6,70,18,9,5,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+55,DA Warner,Imran Tahir,GJ Maxwell,1,0,1,71,19,10,6,0,,,9,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+56,DA Warner,D Wiese,GJ Maxwell,1,0,1,72,20,11,1,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+57,GJ Maxwell,D Wiese,DA Warner,4,0,4,76,23,12,2,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+58,GJ Maxwell,D Wiese,DA Warner,4,0,4,80,27,13,3,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+59,GJ Maxwell,D Wiese,DA Warner,1,0,1,81,28,14,4,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+60,DA Warner,D Wiese,GJ Maxwell,6,0,6,87,26,12,5,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+61,DA Warner,D Wiese,GJ Maxwell,1,0,1,88,27,13,6,0,,,10,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+62,DA Warner,Imran Tahir,GJ Maxwell,4,0,4,92,31,14,1,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+63,DA Warner,Imran Tahir,GJ Maxwell,0,0,0,92,31,15,2,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+64,DA Warner,Imran Tahir,GJ Maxwell,1,0,1,93,32,16,3,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+65,GJ Maxwell,Imran Tahir,DA Warner,2,0,2,95,30,15,4,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+66,GJ Maxwell,Imran Tahir,DA Warner,0,0,0,95,30,16,5,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+67,GJ Maxwell,Imran Tahir,DA Warner,1,0,1,96,31,17,6,0,,,11,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+68,GJ Maxwell,D Wiese,DA Warner,0,0,0,96,31,18,1,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+69,GJ Maxwell,D Wiese,DA Warner,1,0,1,97,32,19,2,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+70,DA Warner,D Wiese,GJ Maxwell,2,0,2,99,34,17,3,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+71,DA Warner,D Wiese,GJ Maxwell,1,0,1,100,35,18,4,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+72,GJ Maxwell,D Wiese,DA Warner,0,0,0,100,32,20,5,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+73,GJ Maxwell,D Wiese,DA Warner,4,0,4,104,36,21,6,0,,,12,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+74,DA Warner,Imran Tahir,GJ Maxwell,1,0,1,105,36,19,1,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+75,GJ Maxwell,Imran Tahir,DA Warner,0,1,1,106,36,22,2,0,,,13,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+76,GJ Maxwell,Imran Tahir,DA Warner,0,0,0,106,36,23,3,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+77,GJ Maxwell,Imran Tahir,DA Warner,1,0,1,107,37,24,4,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+78,DA Warner,Imran Tahir,GJ Maxwell,0,0,0,107,36,20,5,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+79,DA Warner,Imran Tahir,GJ Maxwell,4,0,4,111,40,21,6,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+80,DA Warner,Imran Tahir,GJ Maxwell,2,0,2,113,42,22,7,0,,,13,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+81,GJ Maxwell,D Wiese,DA Warner,6,0,6,119,43,25,1,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+82,GJ Maxwell,D Wiese,DA Warner,4,0,4,123,47,26,2,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+83,GJ Maxwell,D Wiese,DA Warner,0,0,0,123,47,27,3,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+84,GJ Maxwell,D Wiese,DA Warner,6,0,6,129,53,28,4,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+85,GJ Maxwell,D Wiese,DA Warner,0,1,1,130,53,29,5,0,,,14,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+86,GJ Maxwell,D Wiese,DA Warner,1,0,1,131,54,30,6,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+87,DA Warner,D Wiese,GJ Maxwell,0,0,0,131,42,23,7,0,,,14,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+88,GJ Maxwell,Imran Tahir,DA Warner,1,0,1,132,55,31,1,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+89,DA Warner,Imran Tahir,GJ Maxwell,6,0,6,138,48,24,2,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+90,DA Warner,Imran Tahir,GJ Maxwell,4,0,4,142,52,25,3,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+91,DA Warner,Imran Tahir,GJ Maxwell,6,0,6,148,58,26,4,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+92,DA Warner,Imran Tahir,GJ Maxwell,1,0,1,149,59,27,5,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+93,GJ Maxwell,Imran Tahir,DA Warner,1,0,1,150,56,32,6,0,,,15,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+94,GJ Maxwell,DW Steyn,DA Warner,1,0,1,151,57,33,1,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+95,DA Warner,DW Steyn,GJ Maxwell,6,0,6,157,65,28,2,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+96,DA Warner,DW Steyn,GJ Maxwell,1,0,1,158,66,29,3,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+97,GJ Maxwell,DW Steyn,DA Warner,1,0,1,159,58,34,4,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+98,DA Warner,DW Steyn,GJ Maxwell,1,0,1,160,67,30,5,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+99,GJ Maxwell,DW Steyn,DA Warner,0,0,0,160,58,35,6,0,,,16,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+100,DA Warner,CH Morris,GJ Maxwell,1,0,1,161,68,31,1,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+101,GJ Maxwell,CH Morris,DA Warner,1,0,1,162,59,36,2,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+102,DA Warner,CH Morris,GJ Maxwell,4,0,4,166,72,32,3,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+103,DA Warner,CH Morris,GJ Maxwell,0,0,0,166,72,33,4,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+104,DA Warner,CH Morris,GJ Maxwell,1,0,1,167,73,34,5,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+105,GJ Maxwell,CH Morris,DA Warner,4,1,5,172,63,37,6,0,,,17,{'noballs': 1},noballs,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+106,GJ Maxwell,CH Morris,DA Warner,0,1,1,173,63,38,7,0,,,17,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+107,GJ Maxwell,CH Morris,DA Warner,0,1,1,174,63,39,8,0,,,17,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+108,GJ Maxwell,CH Morris,DA Warner,2,0,2,176,65,40,9,0,,,17,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+109,DA Warner,DW Steyn,GJ Maxwell,0,1,1,177,73,35,1,0,,,18,{'legbyes': 1},legbyes,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+110,GJ Maxwell,DW Steyn,DA Warner,2,0,2,179,67,41,2,0,,,18,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+111,GJ Maxwell,DW Steyn,DA Warner,2,0,2,181,69,42,3,0,,,18,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+112,GJ Maxwell,DW Steyn,DA Warner,1,0,1,182,70,43,4,0,,,18,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+113,DA Warner,DW Steyn,GJ Maxwell,1,0,1,183,74,36,5,0,,,18,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+114,GJ Maxwell,DW Steyn,DA Warner,1,1,2,185,71,44,6,0,,,18,{'noballs': 1},noballs,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+115,DA Warner,DW Steyn,GJ Maxwell,2,0,2,187,76,37,7,0,,,18,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+116,GJ Maxwell,CH Morris,DA Warner,0,0,0,187,71,45,1,0,,,19,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+117,GJ Maxwell,CH Morris,DA Warner,0,1,1,188,71,46,2,0,,,19,{'legbyes': 1},legbyes,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+118,DA Warner,CH Morris,GJ Maxwell,1,0,1,189,77,38,3,0,,,19,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+119,GJ Maxwell,CH Morris,DA Warner,4,0,4,193,75,47,4,0,,,19,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+120,GJ Maxwell,CH Morris,DA Warner,0,0,0,193,75,48,5,caught,GJ Maxwell,AB de Villiers,19,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+121,DA Warner,CH Morris,MR Marsh,0,1,1,194,77,39,6,0,,,19,{'legbyes': 1},legbyes,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+122,DA Warner,K Rabada,MR Marsh,0,0,0,194,77,40,1,bowled,DA Warner,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+123,JP Faulkner,K Rabada,MR Marsh,0,1,1,195,0,1,2,0,,,20,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+124,JP Faulkner,K Rabada,MR Marsh,2,0,2,197,2,2,3,0,,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+125,JP Faulkner,K Rabada,MR Marsh,0,1,1,198,2,3,4,0,,,20,{'wides': 1},wides,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+126,JP Faulkner,K Rabada,MR Marsh,2,0,2,200,4,4,5,0,,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+127,JP Faulkner,K Rabada,MR Marsh,2,0,2,202,6,5,6,0,,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+128,JP Faulkner,K Rabada,MR Marsh,1,0,1,203,7,6,7,0,,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa
+129,MR Marsh,K Rabada,JP Faulkner,2,0,2,205,2,1,8,0,,,20,,-,field,Australia,2,New Wanderers Stadium,2016-03-06,Australia,South Africa

@@ -1,0 +1,131 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MJ Guptill,SL Malinga,C Munro,,0,0,0,0,0,1,1,-,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+1,MJ Guptill,SL Malinga,C Munro,,1,0,1,1,1,2,2,-,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+2,C Munro,SL Malinga,MJ Guptill,,1,0,1,2,1,1,3,-,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+3,MJ Guptill,SL Malinga,C Munro,,0,0,0,2,1,3,4,-,caught,MJ Guptill,BKG Mendis,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+4,C Munro,SL Malinga,TL Seifert,{'wides': 1},0,1,1,3,1,2,5,wides,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+5,C Munro,SL Malinga,TL Seifert,,6,0,6,9,7,3,6,-,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+6,C Munro,SL Malinga,TL Seifert,,0,0,0,9,7,4,7,-,0,,,1,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+7,TL Seifert,CAK Rajitha,C Munro,,2,0,2,11,2,1,1,-,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+8,TL Seifert,CAK Rajitha,C Munro,,0,0,0,11,2,2,2,-,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+9,TL Seifert,CAK Rajitha,C Munro,,0,0,0,11,2,3,3,-,caught,TL Seifert,PADLR Sandakan,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+10,HM Nicholls,CAK Rajitha,C Munro,,0,0,0,11,0,1,4,-,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+11,HM Nicholls,CAK Rajitha,C Munro,{'wides': 1},0,1,1,12,0,2,5,wides,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+12,HM Nicholls,CAK Rajitha,C Munro,,0,0,0,12,0,3,6,-,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+13,HM Nicholls,CAK Rajitha,C Munro,,1,0,1,13,1,4,7,-,0,,,2,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+14,HM Nicholls,SL Malinga,C Munro,,1,0,1,14,2,5,1,-,0,,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+15,C Munro,SL Malinga,HM Nicholls,,4,0,4,18,11,5,2,-,0,,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+16,C Munro,SL Malinga,HM Nicholls,,1,0,1,19,12,6,3,-,0,,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+17,HM Nicholls,SL Malinga,C Munro,,2,0,2,21,4,6,4,-,0,,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+18,HM Nicholls,SL Malinga,C Munro,,0,0,0,21,4,7,5,-,bowled,HM Nicholls,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+19,LRPL Taylor,SL Malinga,C Munro,,1,0,1,22,1,1,6,-,0,,,3,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+20,LRPL Taylor,CAK Rajitha,C Munro,,1,0,1,23,2,2,1,-,0,,,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+21,C Munro,CAK Rajitha,LRPL Taylor,,4,0,4,27,16,7,2,-,0,,,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+22,C Munro,CAK Rajitha,LRPL Taylor,,0,0,0,27,16,8,3,-,caught,C Munro,MD Shanaka,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+23,LRPL Taylor,CAK Rajitha,MJ Santner,,0,0,0,27,2,3,4,-,0,,,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+24,LRPL Taylor,CAK Rajitha,MJ Santner,,0,0,0,27,2,4,5,-,0,,,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+25,LRPL Taylor,CAK Rajitha,MJ Santner,,1,0,1,28,3,5,6,-,0,,,4,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+26,LRPL Taylor,SL Malinga,MJ Santner,,0,0,0,28,3,6,1,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+27,LRPL Taylor,SL Malinga,MJ Santner,,0,0,0,28,3,7,2,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+28,LRPL Taylor,SL Malinga,MJ Santner,,1,0,1,29,4,8,3,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+29,MJ Santner,SL Malinga,LRPL Taylor,,0,0,0,29,0,1,4,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+30,MJ Santner,SL Malinga,LRPL Taylor,,0,0,0,29,0,2,5,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+31,MJ Santner,SL Malinga,LRPL Taylor,,0,0,0,29,0,3,6,-,0,,,5,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+32,LRPL Taylor,NLTC Perera,MJ Santner,,1,0,1,30,5,9,1,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+33,MJ Santner,NLTC Perera,LRPL Taylor,,0,0,0,30,0,4,2,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+34,MJ Santner,NLTC Perera,LRPL Taylor,{'wides': 1},0,1,1,31,0,5,3,wides,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+35,MJ Santner,NLTC Perera,LRPL Taylor,,1,0,1,32,1,6,4,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+36,LRPL Taylor,NLTC Perera,MJ Santner,,0,0,0,32,5,10,5,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+37,LRPL Taylor,NLTC Perera,MJ Santner,,0,0,0,32,5,11,6,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+38,LRPL Taylor,NLTC Perera,MJ Santner,,1,0,1,33,6,12,7,-,0,,,6,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+39,LRPL Taylor,CBRLS Kumara,MJ Santner,,0,0,0,33,6,13,1,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+40,LRPL Taylor,CBRLS Kumara,MJ Santner,,0,0,0,33,6,14,2,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+41,LRPL Taylor,CBRLS Kumara,MJ Santner,,0,0,0,33,6,15,3,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+42,LRPL Taylor,CBRLS Kumara,MJ Santner,,1,0,1,34,7,16,4,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+43,MJ Santner,CBRLS Kumara,LRPL Taylor,,1,0,1,35,2,7,5,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+44,LRPL Taylor,CBRLS Kumara,MJ Santner,,1,0,1,36,8,17,6,-,0,,,7,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+45,LRPL Taylor,NLTC Perera,MJ Santner,,1,0,1,37,9,18,1,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+46,MJ Santner,NLTC Perera,LRPL Taylor,,1,0,1,38,3,8,2,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+47,LRPL Taylor,NLTC Perera,MJ Santner,,1,0,1,39,10,19,3,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+48,MJ Santner,NLTC Perera,LRPL Taylor,,0,0,0,39,3,9,4,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+49,MJ Santner,NLTC Perera,LRPL Taylor,,4,0,4,43,7,10,5,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+50,MJ Santner,NLTC Perera,LRPL Taylor,,1,0,1,44,8,11,6,-,0,,,8,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+51,MJ Santner,CBRLS Kumara,LRPL Taylor,,1,0,1,45,9,12,1,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+52,LRPL Taylor,CBRLS Kumara,MJ Santner,,0,0,0,45,10,20,2,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+53,LRPL Taylor,CBRLS Kumara,MJ Santner,,1,0,1,46,11,21,3,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+54,MJ Santner,CBRLS Kumara,LRPL Taylor,,0,0,0,46,9,13,4,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+55,MJ Santner,CBRLS Kumara,LRPL Taylor,,1,0,1,47,10,14,5,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+56,LRPL Taylor,CBRLS Kumara,MJ Santner,,0,0,0,47,11,22,6,-,0,,,9,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+57,MJ Santner,PADLR Sandakan,LRPL Taylor,,1,0,1,48,11,15,1,-,0,,,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+58,LRPL Taylor,PADLR Sandakan,MJ Santner,,4,0,4,52,15,23,2,-,0,,,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+59,LRPL Taylor,PADLR Sandakan,MJ Santner,,0,0,0,52,15,24,3,-,0,,,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+60,LRPL Taylor,PADLR Sandakan,MJ Santner,,1,0,1,53,16,25,4,-,0,,,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+61,MJ Santner,PADLR Sandakan,LRPL Taylor,,2,0,2,55,13,16,5,-,0,,,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+62,MJ Santner,PADLR Sandakan,LRPL Taylor,,0,0,0,55,13,17,6,-,caught,MJ Santner,NLTC Perera,10,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+63,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,0,0,0,55,0,1,1,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+64,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,1,0,1,56,1,2,2,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+65,LRPL Taylor,CBRLS Kumara,DAJ Bracewell,,1,0,1,57,17,26,3,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+66,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,0,0,0,57,1,3,4,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+67,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,0,0,0,57,1,4,5,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+68,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,0,0,0,57,1,5,6,-,0,,,11,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+69,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,1,0,1,58,18,27,1,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+70,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,1,0,1,59,2,6,2,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+71,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,1,0,1,60,19,28,3,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+72,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,1,0,1,61,3,7,4,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+73,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,1,0,1,62,20,29,5,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+74,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,6,0,6,68,9,8,6,-,0,,,12,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+75,LRPL Taylor,CBRLS Kumara,DAJ Bracewell,{'legbyes': 1},0,1,1,69,20,30,1,legbyes,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+76,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,{'wides': 5},0,5,5,74,9,9,2,wides,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+77,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,0,0,0,74,9,10,3,-,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+78,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,2,0,2,76,11,11,4,-,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+79,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,{'noballs': 1},0,1,1,77,11,12,5,noballs,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+80,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,6,0,6,83,17,13,6,-,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+81,DAJ Bracewell,CBRLS Kumara,LRPL Taylor,,1,0,1,84,18,14,7,-,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+82,LRPL Taylor,CBRLS Kumara,DAJ Bracewell,,1,0,1,85,21,31,8,-,0,,,13,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+83,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,6,0,6,91,27,32,1,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+84,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,0,0,0,91,27,33,2,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+85,LRPL Taylor,PADLR Sandakan,DAJ Bracewell,,1,0,1,92,28,34,3,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+86,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,0,0,0,92,18,15,4,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+87,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,0,0,0,92,18,16,5,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+88,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,{'wides': 1},0,1,1,93,18,17,6,wides,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+89,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,{'wides': 1},0,1,1,94,18,18,7,wides,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+90,DAJ Bracewell,PADLR Sandakan,LRPL Taylor,,1,0,1,95,19,19,8,-,0,,,14,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+91,DAJ Bracewell,NLTC Perera,LRPL Taylor,,1,0,1,96,20,20,1,-,0,,,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+92,LRPL Taylor,NLTC Perera,DAJ Bracewell,,4,0,4,100,32,35,2,-,0,,,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+93,LRPL Taylor,NLTC Perera,DAJ Bracewell,,1,0,1,101,33,36,3,-,0,,,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+94,DAJ Bracewell,NLTC Perera,LRPL Taylor,,1,0,1,102,21,21,4,-,0,,,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+95,LRPL Taylor,NLTC Perera,DAJ Bracewell,,0,0,0,102,33,37,5,-,caught,LRPL Taylor,N Dickwella,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+96,SC Kuggeleijn,NLTC Perera,DAJ Bracewell,,1,0,1,103,1,1,6,-,0,,,15,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+97,SC Kuggeleijn,PADLR Sandakan,DAJ Bracewell,{'wides': 1},0,1,1,104,1,2,1,wides,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+98,SC Kuggeleijn,PADLR Sandakan,DAJ Bracewell,,1,0,1,105,2,3,2,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+99,DAJ Bracewell,PADLR Sandakan,SC Kuggeleijn,,0,0,0,105,21,22,3,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+100,DAJ Bracewell,PADLR Sandakan,SC Kuggeleijn,{'wides': 1},0,1,1,106,21,23,4,wides,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+101,DAJ Bracewell,PADLR Sandakan,SC Kuggeleijn,{'wides': 1},0,1,1,107,21,24,5,wides,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+102,DAJ Bracewell,PADLR Sandakan,SC Kuggeleijn,,1,0,1,108,22,25,6,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+103,SC Kuggeleijn,PADLR Sandakan,DAJ Bracewell,,0,0,0,108,2,4,7,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+104,SC Kuggeleijn,PADLR Sandakan,DAJ Bracewell,,6,0,6,114,8,5,8,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+105,SC Kuggeleijn,PADLR Sandakan,DAJ Bracewell,,1,0,1,115,9,6,9,-,0,,,16,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+106,SC Kuggeleijn,NLTC Perera,DAJ Bracewell,{'legbyes': 1},0,1,1,116,9,7,1,legbyes,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+107,DAJ Bracewell,NLTC Perera,SC Kuggeleijn,,6,0,6,122,28,26,2,-,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+108,DAJ Bracewell,NLTC Perera,SC Kuggeleijn,,6,0,6,128,34,27,3,-,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+109,DAJ Bracewell,NLTC Perera,SC Kuggeleijn,,0,0,0,128,34,28,4,-,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+110,DAJ Bracewell,NLTC Perera,SC Kuggeleijn,,6,0,6,134,40,29,5,-,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+111,DAJ Bracewell,NLTC Perera,SC Kuggeleijn,,4,0,4,138,44,30,6,-,0,,,17,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+112,SC Kuggeleijn,CAK Rajitha,DAJ Bracewell,,4,0,4,142,13,8,1,-,0,,,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+113,SC Kuggeleijn,CAK Rajitha,DAJ Bracewell,,1,0,1,143,14,9,2,-,0,,,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+114,DAJ Bracewell,CAK Rajitha,SC Kuggeleijn,,0,0,0,143,44,31,3,-,caught,DAJ Bracewell,DM de Silva,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+115,SC Kuggeleijn,CAK Rajitha,TG Southee,,6,0,6,149,20,10,4,-,0,,,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+116,SC Kuggeleijn,CAK Rajitha,TG Southee,,6,0,6,155,26,11,5,-,0,,,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+117,SC Kuggeleijn,CAK Rajitha,TG Southee,,1,0,1,156,27,12,6,-,0,,,18,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+118,SC Kuggeleijn,SL Malinga,TG Southee,,1,0,1,157,28,13,1,-,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+119,TG Southee,SL Malinga,SC Kuggeleijn,,0,0,0,157,0,1,2,-,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+120,TG Southee,SL Malinga,SC Kuggeleijn,,1,0,1,158,1,2,3,-,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+121,SC Kuggeleijn,SL Malinga,TG Southee,{'byes': 1},0,1,1,159,28,14,4,byes,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+122,TG Southee,SL Malinga,SC Kuggeleijn,,2,0,2,161,3,3,5,-,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+123,TG Southee,SL Malinga,SC Kuggeleijn,,1,0,1,162,4,4,6,-,0,,,19,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+124,TG Southee,CAK Rajitha,SC Kuggeleijn,{'byes': 1},0,1,1,163,4,5,1,byes,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+125,SC Kuggeleijn,CAK Rajitha,TG Southee,,1,0,1,164,29,15,2,-,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+126,TG Southee,CAK Rajitha,SC Kuggeleijn,,2,0,2,166,6,6,3,-,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+127,TG Southee,CAK Rajitha,SC Kuggeleijn,,6,0,6,172,12,7,4,-,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+128,TG Southee,CAK Rajitha,SC Kuggeleijn,,1,0,1,173,13,8,5,-,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka
+129,SC Kuggeleijn,CAK Rajitha,TG Southee,,6,0,6,179,35,16,6,-,0,,,20,field,Sri Lanka,1,Eden Park,2019-01-11,New Zealand,Sri Lanka

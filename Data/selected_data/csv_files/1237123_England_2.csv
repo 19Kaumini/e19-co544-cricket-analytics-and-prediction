@@ -1,0 +1,123 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JJ Roy,GF Linde,JC Buttler,,0,0,0,0,0,1,1,-,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+1,JJ Roy,GF Linde,JC Buttler,{'wides': 1},0,1,1,1,0,2,2,wides,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+2,JJ Roy,GF Linde,JC Buttler,{'legbyes': 2},0,2,2,3,0,3,3,legbyes,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+3,JJ Roy,GF Linde,JC Buttler,,0,0,0,3,0,4,4,-,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+4,JJ Roy,GF Linde,JC Buttler,,4,0,4,7,4,5,5,-,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+5,JJ Roy,GF Linde,JC Buttler,,0,0,0,7,4,6,6,-,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+6,JJ Roy,GF Linde,JC Buttler,,1,0,1,8,5,7,7,-,1,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+7,JJ Roy,K Rabada,JC Buttler,,0,0,0,8,5,8,1,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+8,JJ Roy,K Rabada,JC Buttler,,1,0,1,9,6,9,2,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+9,JC Buttler,K Rabada,JJ Roy,,1,0,1,10,1,1,3,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+10,JJ Roy,K Rabada,JC Buttler,,0,0,0,10,6,10,4,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+11,JJ Roy,K Rabada,JC Buttler,,1,0,1,11,7,11,5,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+12,JC Buttler,K Rabada,JJ Roy,,4,0,4,15,5,2,6,-,2,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+13,JJ Roy,A Nortje,JC Buttler,,0,0,0,15,7,12,1,-,3,"{'by': 'England', 'umpire': 'AT Holdstock', 'batter': 'JJ Roy', 'decision': 'upheld'}",0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+14,JJ Roy,A Nortje,JC Buttler,,0,0,0,15,7,13,2,-,3,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+15,JJ Roy,A Nortje,JC Buttler,,1,0,1,16,8,14,3,-,3,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+16,JC Buttler,A Nortje,JJ Roy,,0,0,0,16,5,3,4,-,3,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+17,JC Buttler,A Nortje,JJ Roy,,1,0,1,17,6,4,5,-,3,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+18,JJ Roy,A Nortje,JC Buttler,,0,0,0,17,8,15,6,-,3,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+19,JC Buttler,L Ngidi,JJ Roy,,1,0,1,18,7,5,1,-,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+20,JJ Roy,L Ngidi,JC Buttler,,2,0,2,20,10,16,2,-,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+21,JJ Roy,L Ngidi,JC Buttler,,4,0,4,24,14,17,3,-,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+22,JJ Roy,L Ngidi,JC Buttler,,0,0,0,24,14,18,4,-,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+23,JJ Roy,L Ngidi,JC Buttler,,0,0,0,24,14,19,5,-,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+24,JJ Roy,L Ngidi,JC Buttler,{'wides': 1},0,1,1,25,14,20,6,wides,4,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+25,JJ Roy,L Ngidi,JC Buttler,,0,0,0,25,14,21,7,-,4,,caught,JJ Roy,H Klaasen,field,England,2,Boland Park,2020-11-29,England,South Africa
+26,DJ Malan,A Nortje,JC Buttler,,1,0,1,26,1,1,1,-,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+27,JC Buttler,A Nortje,DJ Malan,,1,0,1,27,8,6,2,-,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+28,DJ Malan,A Nortje,JC Buttler,,0,0,0,27,1,2,3,-,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+29,DJ Malan,A Nortje,JC Buttler,,0,0,0,27,1,3,4,-,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+30,DJ Malan,A Nortje,JC Buttler,,0,0,0,27,1,4,5,-,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+31,DJ Malan,A Nortje,JC Buttler,{'legbyes': 1},0,1,1,28,1,5,6,legbyes,5,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+32,DJ Malan,L Ngidi,JC Buttler,,1,0,1,29,2,6,1,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+33,JC Buttler,L Ngidi,DJ Malan,,0,0,0,29,8,7,2,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+34,JC Buttler,L Ngidi,DJ Malan,,0,0,0,29,8,8,3,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+35,JC Buttler,L Ngidi,DJ Malan,,4,0,4,33,12,9,4,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+36,JC Buttler,L Ngidi,DJ Malan,,4,0,4,37,16,10,5,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+37,JC Buttler,L Ngidi,DJ Malan,,4,0,4,41,20,11,6,-,6,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+38,DJ Malan,GF Linde,JC Buttler,,4,0,4,45,6,7,1,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+39,DJ Malan,GF Linde,JC Buttler,,1,0,1,46,7,8,2,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+40,JC Buttler,GF Linde,DJ Malan,,1,0,1,47,21,12,3,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+41,DJ Malan,GF Linde,JC Buttler,,0,0,0,47,7,9,4,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+42,DJ Malan,GF Linde,JC Buttler,,1,0,1,48,8,10,5,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+43,JC Buttler,GF Linde,DJ Malan,,0,0,0,48,21,13,6,-,7,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+44,DJ Malan,T Shamsi,JC Buttler,,1,0,1,49,9,11,1,-,8,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+45,JC Buttler,T Shamsi,DJ Malan,,1,0,1,50,22,14,2,-,8,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+46,DJ Malan,T Shamsi,JC Buttler,,1,0,1,51,10,12,3,-,8,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+47,JC Buttler,T Shamsi,DJ Malan,,0,0,0,51,22,15,4,-,8,,bowled,JC Buttler,,field,England,2,Boland Park,2020-11-29,England,South Africa
+48,JM Bairstow,T Shamsi,DJ Malan,,0,0,0,51,0,1,5,-,8,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+49,JM Bairstow,T Shamsi,DJ Malan,,1,0,1,52,1,2,6,-,8,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+50,JM Bairstow,GF Linde,DJ Malan,,0,0,0,52,1,3,1,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+51,JM Bairstow,GF Linde,DJ Malan,,0,0,0,52,1,4,2,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+52,JM Bairstow,GF Linde,DJ Malan,,1,0,1,53,2,5,3,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+53,DJ Malan,GF Linde,JM Bairstow,,0,0,0,53,10,13,4,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+54,DJ Malan,GF Linde,JM Bairstow,,1,0,1,54,11,14,5,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+55,JM Bairstow,GF Linde,DJ Malan,,1,0,1,55,3,6,6,-,9,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+56,JM Bairstow,T Shamsi,DJ Malan,,0,0,0,55,3,7,1,-,10,,caught,JM Bairstow,RR Hendricks,field,England,2,Boland Park,2020-11-29,England,South Africa
+57,BA Stokes,T Shamsi,DJ Malan,,1,0,1,56,1,1,2,-,10,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+58,DJ Malan,T Shamsi,BA Stokes,,0,0,0,56,11,15,3,-,10,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+59,DJ Malan,T Shamsi,BA Stokes,,1,0,1,57,12,16,4,-,10,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+60,BA Stokes,T Shamsi,DJ Malan,,1,0,1,58,2,2,5,-,10,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+61,DJ Malan,T Shamsi,BA Stokes,,1,0,1,59,13,17,6,-,10,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+62,DJ Malan,GF Linde,BA Stokes,,0,0,0,59,13,18,1,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+63,DJ Malan,GF Linde,BA Stokes,,4,0,4,63,17,19,2,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+64,DJ Malan,GF Linde,BA Stokes,,1,0,1,64,18,20,3,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+65,BA Stokes,GF Linde,DJ Malan,,1,0,1,65,3,3,4,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+66,DJ Malan,GF Linde,BA Stokes,,1,0,1,66,19,21,5,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+67,BA Stokes,GF Linde,DJ Malan,,4,0,4,70,7,4,6,-,11,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+68,DJ Malan,T Shamsi,BA Stokes,,1,0,1,71,20,22,1,-,12,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+69,BA Stokes,T Shamsi,DJ Malan,,0,0,0,71,7,5,2,-,12,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+70,BA Stokes,T Shamsi,DJ Malan,,0,0,0,71,7,6,3,-,12,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+71,BA Stokes,T Shamsi,DJ Malan,,0,0,0,71,7,7,4,-,12,"{'by': 'South Africa', 'umpire': 'S George', 'batter': 'BA Stokes', 'decision': 'struck down', 'umpires_call': True}",0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+72,BA Stokes,T Shamsi,DJ Malan,,1,0,1,72,8,8,5,-,12,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+73,DJ Malan,T Shamsi,BA Stokes,,1,0,1,73,21,23,6,-,12,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+74,DJ Malan,K Rabada,BA Stokes,,1,0,1,74,22,24,1,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+75,BA Stokes,K Rabada,DJ Malan,,0,0,0,74,8,9,2,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+76,BA Stokes,K Rabada,DJ Malan,,1,0,1,75,9,10,3,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+77,DJ Malan,K Rabada,BA Stokes,,0,0,0,75,22,25,4,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+78,DJ Malan,K Rabada,BA Stokes,,1,0,1,76,23,26,5,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+79,BA Stokes,K Rabada,DJ Malan,,1,0,1,77,10,11,6,-,13,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+80,BA Stokes,T Shamsi,DJ Malan,,6,0,6,83,16,12,1,-,14,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+81,BA Stokes,T Shamsi,DJ Malan,,0,0,0,83,16,13,2,-,14,,caught,BA Stokes,Q de Kock,field,England,2,Boland Park,2020-11-29,England,South Africa
+82,EJG Morgan,T Shamsi,DJ Malan,,0,0,0,83,0,1,3,-,14,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+83,EJG Morgan,T Shamsi,DJ Malan,,0,0,0,83,0,2,4,-,14,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+84,EJG Morgan,T Shamsi,DJ Malan,,1,0,1,84,1,3,5,-,14,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+85,DJ Malan,T Shamsi,EJG Morgan,,1,0,1,85,24,27,6,-,14,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+86,DJ Malan,L Ngidi,EJG Morgan,,0,0,0,85,24,28,1,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+87,DJ Malan,L Ngidi,EJG Morgan,,1,0,1,86,25,29,2,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+88,EJG Morgan,L Ngidi,DJ Malan,,6,0,6,92,7,4,3,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+89,EJG Morgan,L Ngidi,DJ Malan,,1,0,1,93,8,5,4,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+90,DJ Malan,L Ngidi,EJG Morgan,,0,0,0,93,25,30,5,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+91,DJ Malan,L Ngidi,EJG Morgan,,4,0,4,97,29,31,6,-,15,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+92,EJG Morgan,A Nortje,DJ Malan,,0,0,0,97,8,6,1,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+93,EJG Morgan,A Nortje,DJ Malan,,1,0,1,98,9,7,2,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+94,DJ Malan,A Nortje,EJG Morgan,,4,0,4,102,33,32,3,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+95,DJ Malan,A Nortje,EJG Morgan,,4,0,4,106,37,33,4,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+96,DJ Malan,A Nortje,EJG Morgan,,1,0,1,107,38,34,5,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+97,EJG Morgan,A Nortje,DJ Malan,,0,0,0,107,9,8,6,-,16,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+98,DJ Malan,K Rabada,EJG Morgan,,1,0,1,108,39,35,1,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+99,EJG Morgan,K Rabada,DJ Malan,,0,0,0,108,9,9,2,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+100,EJG Morgan,K Rabada,DJ Malan,,0,0,0,108,9,10,3,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+101,EJG Morgan,K Rabada,DJ Malan,,2,0,2,110,11,11,4,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+102,EJG Morgan,K Rabada,DJ Malan,,4,0,4,114,15,12,5,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+103,EJG Morgan,K Rabada,DJ Malan,,4,0,4,118,19,13,6,-,17,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+104,DJ Malan,L Ngidi,EJG Morgan,,2,0,2,120,41,36,1,-,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+105,DJ Malan,L Ngidi,EJG Morgan,,4,0,4,124,45,37,2,-,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+106,DJ Malan,L Ngidi,EJG Morgan,,4,0,4,128,49,38,3,-,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+107,DJ Malan,L Ngidi,EJG Morgan,,6,0,6,134,55,39,4,-,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+108,DJ Malan,L Ngidi,EJG Morgan,,0,0,0,134,55,40,5,-,18,,caught,DJ Malan,RR Hendricks,field,England,2,Boland Park,2020-11-29,England,South Africa
+109,EJG Morgan,L Ngidi,SM Curran,{'wides': 1},0,1,1,135,19,14,6,wides,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+110,EJG Morgan,L Ngidi,SM Curran,,1,0,1,136,20,15,7,-,18,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+111,EJG Morgan,A Nortje,SM Curran,,1,0,1,137,21,16,1,-,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+112,SM Curran,A Nortje,EJG Morgan,,1,0,1,138,1,1,2,-,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+113,EJG Morgan,A Nortje,SM Curran,,1,0,1,139,22,17,3,-,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+114,SM Curran,A Nortje,EJG Morgan,,0,0,0,139,1,2,4,-,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+115,SM Curran,A Nortje,EJG Morgan,{'legbyes': 1},0,1,1,140,1,3,5,legbyes,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+116,EJG Morgan,A Nortje,SM Curran,,4,0,4,144,26,18,6,-,19,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+117,SM Curran,K Rabada,EJG Morgan,,0,0,0,144,1,4,1,-,20,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+118,SM Curran,K Rabada,EJG Morgan,,0,0,0,144,1,5,2,-,20,,bowled,SM Curran,,field,England,2,Boland Park,2020-11-29,England,South Africa
+119,CJ Jordan,K Rabada,EJG Morgan,,2,0,2,146,2,1,3,-,20,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+120,CJ Jordan,K Rabada,EJG Morgan,,0,0,0,146,2,2,4,-,20,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa
+121,CJ Jordan,K Rabada,EJG Morgan,,1,0,1,147,3,3,5,-,20,,0,,,field,England,2,Boland Park,2020-11-29,England,South Africa

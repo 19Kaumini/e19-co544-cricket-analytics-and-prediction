@@ -1,0 +1,125 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,RS Bopara,DW Steyn,LJ Wright,,2,0,2,2,2,1,1,-,0,,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+1,RS Bopara,DW Steyn,LJ Wright,,0,0,0,2,2,2,2,-,0,,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+2,RS Bopara,DW Steyn,LJ Wright,{'legbyes': 1},0,1,1,3,2,3,3,legbyes,0,,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+3,LJ Wright,DW Steyn,RS Bopara,,1,0,1,4,1,1,4,-,0,,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+4,RS Bopara,DW Steyn,LJ Wright,,0,0,0,4,2,4,5,-,0,,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+5,RS Bopara,DW Steyn,LJ Wright,,0,0,0,4,2,5,6,-,bowled,RS Bopara,,1,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+6,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,4,1,2,1,-,0,,,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+7,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,4,1,3,2,-,0,,,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+8,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,4,1,4,3,-,0,,,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+9,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,4,1,5,4,-,0,,,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+10,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,4,1,6,5,-,caught,LJ Wright,MV Boucher,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+11,OA Shah,WD Parnell,KP Pietersen,,1,0,1,5,1,1,6,-,0,,,2,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+12,OA Shah,DW Steyn,KP Pietersen,,1,0,1,6,2,2,1,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+13,KP Pietersen,DW Steyn,OA Shah,,4,0,4,10,4,1,2,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+14,KP Pietersen,DW Steyn,OA Shah,,4,0,4,14,8,2,3,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+15,KP Pietersen,DW Steyn,OA Shah,,0,0,0,14,8,3,4,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+16,KP Pietersen,DW Steyn,OA Shah,,0,0,0,14,8,4,5,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+17,KP Pietersen,DW Steyn,OA Shah,,1,0,1,15,9,5,6,-,0,,,3,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+18,KP Pietersen,WD Parnell,OA Shah,,0,0,0,15,9,6,1,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+19,KP Pietersen,WD Parnell,OA Shah,,0,0,0,15,9,7,2,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+20,KP Pietersen,WD Parnell,OA Shah,,0,0,0,15,9,8,3,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+21,KP Pietersen,WD Parnell,OA Shah,,0,0,0,15,9,9,4,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+22,KP Pietersen,WD Parnell,OA Shah,,1,0,1,16,10,10,5,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+23,OA Shah,WD Parnell,KP Pietersen,,0,0,0,16,2,3,6,-,0,,,4,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+24,KP Pietersen,JH Kallis,OA Shah,,0,0,0,16,10,11,1,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+25,KP Pietersen,JH Kallis,OA Shah,,4,0,4,20,14,12,2,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+26,KP Pietersen,JH Kallis,OA Shah,,4,0,4,24,18,13,3,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+27,KP Pietersen,JH Kallis,OA Shah,,0,0,0,24,18,14,4,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+28,KP Pietersen,JH Kallis,OA Shah,,1,0,1,25,19,15,5,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+29,OA Shah,JH Kallis,KP Pietersen,,0,0,0,25,2,4,6,-,0,,,5,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+30,KP Pietersen,JA Morkel,OA Shah,,0,0,0,25,19,16,1,-,0,,,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+31,KP Pietersen,JA Morkel,OA Shah,,0,0,0,25,19,17,2,-,caught,KP Pietersen,RE van der Merwe,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+32,PD Collingwood,JA Morkel,OA Shah,,0,0,0,25,0,1,3,-,0,,,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+33,PD Collingwood,JA Morkel,OA Shah,,0,0,0,25,0,2,4,-,0,,,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+34,PD Collingwood,JA Morkel,OA Shah,,0,0,0,25,0,3,5,-,0,,,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+35,PD Collingwood,JA Morkel,OA Shah,,0,0,0,25,0,4,6,-,0,,,6,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+36,OA Shah,J Botha,PD Collingwood,,1,0,1,26,3,5,1,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+37,PD Collingwood,J Botha,OA Shah,,0,0,0,26,0,5,2,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+38,PD Collingwood,J Botha,OA Shah,,1,0,1,27,1,6,3,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+39,OA Shah,J Botha,PD Collingwood,,0,0,0,27,3,6,4,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+40,OA Shah,J Botha,PD Collingwood,,1,0,1,28,4,7,5,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+41,PD Collingwood,J Botha,OA Shah,,0,0,0,28,1,7,6,-,0,,,7,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+42,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,28,4,8,1,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+43,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,28,4,9,2,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+44,OA Shah,RE van der Merwe,PD Collingwood,{'wides': 1},0,1,1,29,4,10,3,wides,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+45,OA Shah,RE van der Merwe,PD Collingwood,,1,0,1,30,5,11,4,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+46,PD Collingwood,RE van der Merwe,OA Shah,,2,0,2,32,3,8,5,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+47,PD Collingwood,RE van der Merwe,OA Shah,,2,0,2,34,5,9,6,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+48,PD Collingwood,RE van der Merwe,OA Shah,,0,0,0,34,5,10,7,-,0,,,8,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+49,OA Shah,J Botha,PD Collingwood,,0,0,0,34,5,12,1,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+50,OA Shah,J Botha,PD Collingwood,,0,0,0,34,5,13,2,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+51,OA Shah,J Botha,PD Collingwood,{'wides': 2},0,2,2,36,5,14,3,wides,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+52,PD Collingwood,J Botha,OA Shah,,4,0,4,40,9,11,4,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+53,PD Collingwood,J Botha,OA Shah,,1,0,1,41,10,12,5,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+54,OA Shah,J Botha,PD Collingwood,,0,0,0,41,5,15,6,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+55,OA Shah,J Botha,PD Collingwood,,1,0,1,42,6,16,7,-,0,,,9,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+56,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,42,6,17,1,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+57,OA Shah,RE van der Merwe,PD Collingwood,,1,0,1,43,7,18,2,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+58,PD Collingwood,RE van der Merwe,OA Shah,,2,0,2,45,12,13,3,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+59,PD Collingwood,RE van der Merwe,OA Shah,,1,0,1,46,13,14,4,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+60,OA Shah,RE van der Merwe,PD Collingwood,,1,0,1,47,8,19,5,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+61,PD Collingwood,RE van der Merwe,OA Shah,,0,0,0,47,13,15,6,-,0,,,10,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+62,OA Shah,J Botha,PD Collingwood,,1,0,1,48,9,20,1,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+63,PD Collingwood,J Botha,OA Shah,,1,0,1,49,14,16,2,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+64,OA Shah,J Botha,PD Collingwood,,0,0,0,49,9,21,3,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+65,OA Shah,J Botha,PD Collingwood,,6,0,6,55,15,22,4,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+66,OA Shah,J Botha,PD Collingwood,,0,0,0,55,15,23,5,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+67,OA Shah,J Botha,PD Collingwood,,1,0,1,56,16,24,6,-,0,,,11,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+68,OA Shah,RE van der Merwe,PD Collingwood,,6,0,6,62,22,25,1,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+69,OA Shah,RE van der Merwe,PD Collingwood,,4,0,4,66,26,26,2,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+70,OA Shah,RE van der Merwe,PD Collingwood,,4,0,4,70,30,27,3,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+71,OA Shah,RE van der Merwe,PD Collingwood,,1,0,1,71,31,28,4,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+72,PD Collingwood,RE van der Merwe,OA Shah,,1,0,1,72,15,17,5,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+73,OA Shah,RE van der Merwe,PD Collingwood,,1,0,1,73,32,29,6,-,0,,,12,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+74,OA Shah,JH Kallis,PD Collingwood,,1,0,1,74,33,30,1,-,0,,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+75,PD Collingwood,JH Kallis,OA Shah,,4,0,4,78,19,18,2,-,0,,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+76,PD Collingwood,JH Kallis,OA Shah,,0,0,0,78,19,19,3,-,bowled,PD Collingwood,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+77,JS Foster,JH Kallis,OA Shah,,0,0,0,78,0,1,4,-,0,,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+78,JS Foster,JH Kallis,OA Shah,,0,0,0,78,0,2,5,-,0,,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+79,JS Foster,JH Kallis,OA Shah,,1,0,1,79,1,3,6,-,0,,,13,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+80,JS Foster,RE van der Merwe,OA Shah,,0,0,0,79,1,4,1,-,caught,JS Foster,JA Morkel,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+81,AD Mascarenhas,RE van der Merwe,OA Shah,,0,0,0,79,0,1,2,-,0,,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+82,AD Mascarenhas,RE van der Merwe,OA Shah,,1,0,1,80,1,2,3,-,0,,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+83,OA Shah,RE van der Merwe,AD Mascarenhas,{'wides': 1},0,1,1,81,33,31,4,wides,0,,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+84,OA Shah,RE van der Merwe,AD Mascarenhas,,1,0,1,82,34,32,5,-,0,,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+85,AD Mascarenhas,RE van der Merwe,OA Shah,,0,0,0,82,1,3,6,-,bowled,AD Mascarenhas,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+86,GP Swann,RE van der Merwe,OA Shah,,1,0,1,83,1,1,7,-,0,,,14,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+87,GP Swann,JH Kallis,OA Shah,,1,0,1,84,2,2,1,-,0,,,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+88,OA Shah,JH Kallis,GP Swann,,4,0,4,88,38,33,2,-,0,,,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+89,OA Shah,JH Kallis,GP Swann,,0,0,0,88,38,34,3,-,0,,,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+90,OA Shah,JH Kallis,GP Swann,,0,0,0,88,38,35,4,-,0,,,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+91,OA Shah,JH Kallis,GP Swann,,0,0,0,88,38,36,5,-,caught,OA Shah,MV Boucher,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+92,SCJ Broad,JH Kallis,GP Swann,,0,0,0,88,0,1,6,-,0,,,15,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+93,GP Swann,J Botha,SCJ Broad,,2,0,2,90,4,3,1,-,0,,,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+94,GP Swann,J Botha,SCJ Broad,,1,0,1,91,5,4,2,-,0,,,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+95,SCJ Broad,J Botha,GP Swann,,1,0,1,92,1,2,3,-,0,,,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+96,GP Swann,J Botha,SCJ Broad,,0,0,0,92,5,5,4,-,0,,,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+97,GP Swann,J Botha,SCJ Broad,,0,0,0,92,5,6,5,-,caught,GP Swann,JA Morkel,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+98,AU Rashid,J Botha,SCJ Broad,,1,0,1,93,1,1,6,-,0,,,16,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+99,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,93,1,2,1,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+100,AU Rashid,DW Steyn,SCJ Broad,,2,0,2,95,3,3,2,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+101,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,95,3,4,3,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+102,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,95,3,5,4,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+103,AU Rashid,DW Steyn,SCJ Broad,{'wides': 1},0,1,1,96,3,6,5,wides,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+104,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,96,3,7,6,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+105,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,96,3,8,7,-,0,,,17,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+106,SCJ Broad,WD Parnell,AU Rashid,,0,0,0,96,1,3,1,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+107,SCJ Broad,WD Parnell,AU Rashid,,1,0,1,97,2,4,2,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+108,AU Rashid,WD Parnell,SCJ Broad,{'wides': 1},0,1,1,98,3,9,3,wides,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+109,AU Rashid,WD Parnell,SCJ Broad,,0,0,0,98,3,10,4,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+110,AU Rashid,WD Parnell,SCJ Broad,,1,0,1,99,4,11,5,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+111,SCJ Broad,WD Parnell,AU Rashid,,1,0,1,100,3,5,6,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+112,AU Rashid,WD Parnell,SCJ Broad,,1,0,1,101,5,12,7,-,0,,,18,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+113,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,101,5,13,1,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+114,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,101,5,14,2,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+115,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,101,5,15,3,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+116,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,101,5,16,4,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+117,AU Rashid,DW Steyn,SCJ Broad,,2,0,2,103,7,17,5,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+118,AU Rashid,DW Steyn,SCJ Broad,,1,0,1,104,8,18,6,-,0,,,19,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+119,AU Rashid,WD Parnell,SCJ Broad,,1,0,1,105,9,19,1,-,0,,,20,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+120,SCJ Broad,WD Parnell,AU Rashid,,2,0,2,107,5,6,2,-,0,,,20,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+121,SCJ Broad,WD Parnell,AU Rashid,,4,0,4,111,9,7,3,-,0,,,20,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+122,SCJ Broad,WD Parnell,AU Rashid,,0,0,0,111,9,8,4,-,bowled,SCJ Broad,,20,bat,England,1,Trent Bridge,2009-06-11,England,South Africa
+123,JM Anderson,WD Parnell,AU Rashid,,0,0,0,111,0,1,5,-,bowled,JM Anderson,,20,bat,England,1,Trent Bridge,2009-06-11,England,South Africa

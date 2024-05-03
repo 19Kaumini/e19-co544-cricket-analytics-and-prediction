@@ -1,0 +1,122 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,DJ Malan,Imad Wasim,JJ Roy,0,0,0,0,0,1,1,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+1,DJ Malan,Imad Wasim,JJ Roy,0,0,0,0,0,2,2,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+2,DJ Malan,Imad Wasim,JJ Roy,1,0,1,1,1,3,3,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+3,JJ Roy,Imad Wasim,DJ Malan,0,0,0,1,0,1,4,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+4,JJ Roy,Imad Wasim,DJ Malan,2,0,2,3,2,2,5,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+5,JJ Roy,Imad Wasim,DJ Malan,4,0,4,7,6,3,6,1,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+6,DJ Malan,Shaheen Shah Afridi,JJ Roy,0,5,5,12,1,4,1,2,{'wides': 5},wides,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+7,DJ Malan,Shaheen Shah Afridi,JJ Roy,0,0,0,12,1,5,2,2,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+8,DJ Malan,Shaheen Shah Afridi,JJ Roy,0,0,0,12,1,6,3,2,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+9,DJ Malan,Shaheen Shah Afridi,JJ Roy,0,0,0,12,1,7,4,2,,-,caught and bowled,DJ Malan,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+10,JM Bairstow,Shaheen Shah Afridi,JJ Roy,0,0,0,12,0,1,5,2,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+11,JM Bairstow,Shaheen Shah Afridi,JJ Roy,0,0,0,12,0,2,6,2,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+12,JM Bairstow,Shaheen Shah Afridi,JJ Roy,4,0,4,16,4,3,7,2,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+13,JJ Roy,Imad Wasim,JM Bairstow,6,0,6,22,12,4,1,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+14,JJ Roy,Imad Wasim,JM Bairstow,0,0,0,22,12,5,2,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+15,JJ Roy,Imad Wasim,JM Bairstow,1,0,1,23,13,6,3,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+16,JM Bairstow,Imad Wasim,JJ Roy,1,0,1,24,5,4,4,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+17,JJ Roy,Imad Wasim,JM Bairstow,6,0,6,30,19,7,5,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+18,JJ Roy,Imad Wasim,JM Bairstow,6,0,6,36,25,8,6,3,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+19,JM Bairstow,Shaheen Shah Afridi,JJ Roy,6,0,6,42,11,5,1,4,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+20,JM Bairstow,Shaheen Shah Afridi,JJ Roy,0,0,0,42,11,6,2,4,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+21,JM Bairstow,Shaheen Shah Afridi,JJ Roy,0,0,0,42,11,7,3,4,,-,caught,JM Bairstow,Imad Wasim,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+22,JJ Roy,Shaheen Shah Afridi,MM Ali,1,0,1,43,26,9,4,4,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+23,MM Ali,Shaheen Shah Afridi,JJ Roy,1,0,1,44,1,1,5,4,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+24,JJ Roy,Shaheen Shah Afridi,MM Ali,4,0,4,48,30,10,6,4,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+25,MM Ali,Mohammad Hasnain,JJ Roy,0,0,0,48,1,2,1,5,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+26,MM Ali,Mohammad Hasnain,JJ Roy,0,0,0,48,1,3,2,5,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+27,MM Ali,Mohammad Hasnain,JJ Roy,0,0,0,48,1,4,3,5,,-,caught,MM Ali,Haris Rauf,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+28,JJ Roy,Mohammad Hasnain,LS Livingstone,1,0,1,49,31,11,4,5,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+29,LS Livingstone,Mohammad Hasnain,JJ Roy,0,0,0,49,0,1,5,5,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+30,LS Livingstone,Mohammad Hasnain,JJ Roy,1,0,1,50,1,2,6,5,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+31,LS Livingstone,Haris Rauf,JJ Roy,1,0,1,51,2,3,1,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+32,JJ Roy,Haris Rauf,LS Livingstone,1,0,1,52,32,12,2,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+33,LS Livingstone,Haris Rauf,JJ Roy,6,0,6,58,8,4,3,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+34,LS Livingstone,Haris Rauf,JJ Roy,4,0,4,62,12,5,4,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+35,LS Livingstone,Haris Rauf,JJ Roy,6,0,6,68,18,6,5,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+36,LS Livingstone,Haris Rauf,JJ Roy,1,0,1,69,19,7,6,6,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+37,LS Livingstone,Shadab Khan,JJ Roy,6,0,6,75,25,8,1,7,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+38,LS Livingstone,Shadab Khan,JJ Roy,6,0,6,81,31,9,2,7,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+39,LS Livingstone,Shadab Khan,JJ Roy,1,0,1,82,32,10,3,7,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+40,JJ Roy,Shadab Khan,LS Livingstone,0,0,0,82,32,13,4,7,,-,caught,JJ Roy,Babar Azam,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+41,LS Livingstone,Shadab Khan,EJG Morgan,1,0,1,83,33,11,5,7,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+42,EJG Morgan,Shadab Khan,LS Livingstone,0,0,0,83,0,1,6,7,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+43,LS Livingstone,Mohammad Hasnain,EJG Morgan,0,1,1,84,33,12,1,8,{'wides': 1},wides,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+44,LS Livingstone,Mohammad Hasnain,EJG Morgan,4,0,4,88,37,13,2,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+45,LS Livingstone,Mohammad Hasnain,EJG Morgan,2,0,2,90,39,14,3,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+46,LS Livingstone,Mohammad Hasnain,EJG Morgan,1,0,1,91,40,15,4,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+47,EJG Morgan,Mohammad Hasnain,LS Livingstone,0,0,0,91,0,2,5,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+48,EJG Morgan,Mohammad Hasnain,LS Livingstone,0,0,0,91,0,3,6,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+49,EJG Morgan,Mohammad Hasnain,LS Livingstone,1,0,1,92,1,4,7,8,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+50,EJG Morgan,Shadab Khan,LS Livingstone,1,0,1,93,2,5,1,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+51,LS Livingstone,Shadab Khan,EJG Morgan,6,0,6,99,46,16,2,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+52,LS Livingstone,Shadab Khan,EJG Morgan,0,0,0,99,46,17,3,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+53,LS Livingstone,Shadab Khan,EJG Morgan,4,0,4,103,50,18,4,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+54,LS Livingstone,Shadab Khan,EJG Morgan,6,0,6,109,56,19,5,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+55,LS Livingstone,Shadab Khan,EJG Morgan,1,0,1,110,57,20,6,9,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+56,LS Livingstone,Imad Wasim,EJG Morgan,4,0,4,114,61,21,1,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+57,LS Livingstone,Imad Wasim,EJG Morgan,1,0,1,115,62,22,2,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+58,EJG Morgan,Imad Wasim,LS Livingstone,2,0,2,117,4,6,3,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+59,EJG Morgan,Imad Wasim,LS Livingstone,1,0,1,118,5,7,4,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+60,LS Livingstone,Imad Wasim,EJG Morgan,1,0,1,119,63,23,5,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+61,EJG Morgan,Imad Wasim,LS Livingstone,1,0,1,120,6,8,6,10,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+62,EJG Morgan,Haris Rauf,LS Livingstone,1,0,1,121,7,9,1,11,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+63,LS Livingstone,Haris Rauf,EJG Morgan,1,0,1,122,64,24,2,11,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+64,EJG Morgan,Haris Rauf,LS Livingstone,1,0,1,123,8,10,3,11,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+65,LS Livingstone,Haris Rauf,EJG Morgan,0,1,1,124,64,25,4,11,{'legbyes': 1},legbyes,0,,,"{'by': 'Pakistan', 'umpire': 'DJ Millns', 'batter': 'LS Livingstone', 'decision': 'struck down'}",field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+66,EJG Morgan,Haris Rauf,LS Livingstone,0,0,0,124,8,11,5,11,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+67,EJG Morgan,Haris Rauf,LS Livingstone,1,0,1,125,9,12,6,11,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+68,EJG Morgan,Imad Wasim,LS Livingstone,6,0,6,131,15,13,1,12,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+69,EJG Morgan,Imad Wasim,LS Livingstone,1,0,1,132,16,14,2,12,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+70,LS Livingstone,Imad Wasim,EJG Morgan,1,0,1,133,65,26,3,12,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+71,EJG Morgan,Imad Wasim,LS Livingstone,0,0,0,133,16,15,4,12,,-,caught,EJG Morgan,Haris Rauf,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+72,LS Livingstone,Imad Wasim,L Gregory,1,0,1,134,66,27,5,12,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+73,L Gregory,Imad Wasim,LS Livingstone,0,0,0,134,0,1,6,12,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+74,LS Livingstone,Shadab Khan,L Gregory,1,0,1,135,67,28,1,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+75,L Gregory,Shadab Khan,LS Livingstone,2,0,2,137,2,2,2,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+76,L Gregory,Shadab Khan,LS Livingstone,1,0,1,138,3,3,3,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+77,LS Livingstone,Shadab Khan,L Gregory,0,1,1,139,67,29,4,13,{'wides': 1},wides,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+78,LS Livingstone,Shadab Khan,L Gregory,0,0,0,139,67,30,5,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+79,LS Livingstone,Shadab Khan,L Gregory,0,1,1,140,67,31,6,13,{'wides': 1},wides,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+80,LS Livingstone,Shadab Khan,L Gregory,1,0,1,141,68,32,7,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+81,L Gregory,Shadab Khan,LS Livingstone,1,0,1,142,4,4,8,13,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+82,L Gregory,Mohammad Hasnain,LS Livingstone,1,0,1,143,5,5,1,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+83,LS Livingstone,Mohammad Hasnain,L Gregory,1,0,1,144,69,33,2,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+84,L Gregory,Mohammad Hasnain,LS Livingstone,2,0,2,146,7,6,3,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+85,L Gregory,Mohammad Hasnain,LS Livingstone,1,0,1,147,8,7,4,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+86,LS Livingstone,Mohammad Hasnain,L Gregory,4,0,4,151,73,34,5,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+87,LS Livingstone,Mohammad Hasnain,L Gregory,1,0,1,152,74,35,6,14,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+88,LS Livingstone,Shaheen Shah Afridi,L Gregory,0,0,0,152,74,36,1,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+89,LS Livingstone,Shaheen Shah Afridi,L Gregory,6,0,6,158,80,37,2,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+90,LS Livingstone,Shaheen Shah Afridi,L Gregory,1,0,1,159,81,38,3,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+91,L Gregory,Shaheen Shah Afridi,LS Livingstone,0,0,0,159,8,8,4,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+92,L Gregory,Shaheen Shah Afridi,LS Livingstone,1,0,1,160,9,9,5,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+93,LS Livingstone,Shaheen Shah Afridi,L Gregory,1,0,1,161,82,39,6,15,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+94,LS Livingstone,Haris Rauf,L Gregory,4,0,4,165,86,40,1,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+95,LS Livingstone,Haris Rauf,L Gregory,2,0,2,167,88,41,2,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+96,LS Livingstone,Haris Rauf,L Gregory,2,0,2,169,90,42,3,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+97,LS Livingstone,Haris Rauf,L Gregory,1,0,1,170,91,43,4,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+98,L Gregory,Haris Rauf,LS Livingstone,1,0,1,171,10,10,5,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+99,LS Livingstone,Haris Rauf,L Gregory,6,0,6,177,97,44,6,16,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+100,L Gregory,Shadab Khan,LS Livingstone,0,0,0,177,10,11,1,17,,-,caught,L Gregory,Shaheen Shah Afridi,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+101,LS Livingstone,Shadab Khan,DJ Willey,6,0,6,183,103,45,2,17,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+102,LS Livingstone,Shadab Khan,DJ Willey,0,0,0,183,103,46,3,17,,-,caught,LS Livingstone,Shaheen Shah Afridi,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+103,DJ Willey,Shadab Khan,TK Curran,0,0,0,183,0,1,4,17,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+104,DJ Willey,Shadab Khan,TK Curran,6,0,6,189,6,2,5,17,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+105,DJ Willey,Shadab Khan,TK Curran,0,0,0,189,6,3,6,17,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+106,TK Curran,Mohammad Hasnain,DJ Willey,1,0,1,190,1,1,1,18,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+107,DJ Willey,Mohammad Hasnain,TK Curran,1,0,1,191,7,4,2,18,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+108,TK Curran,Mohammad Hasnain,DJ Willey,0,0,0,191,1,2,3,18,,-,run out,TK Curran,Shadab Khan,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+109,DJ Willey,Mohammad Hasnain,S Mahmood,4,0,4,195,11,5,4,18,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+110,DJ Willey,Mohammad Hasnain,S Mahmood,0,0,0,195,11,6,5,18,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+111,DJ Willey,Mohammad Hasnain,S Mahmood,1,0,1,196,12,7,6,18,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+112,DJ Willey,Haris Rauf,S Mahmood,0,1,1,197,12,8,1,19,{'wides': 1},wides,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+113,DJ Willey,Haris Rauf,S Mahmood,4,0,4,201,16,9,2,19,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+114,DJ Willey,Haris Rauf,S Mahmood,0,0,0,201,16,10,3,19,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+115,DJ Willey,Haris Rauf,S Mahmood,0,0,0,201,16,11,4,19,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+116,DJ Willey,Haris Rauf,S Mahmood,0,0,0,201,16,12,5,19,,-,caught,DJ Willey,Shadab Khan,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+117,S Mahmood,Haris Rauf,MW Parkinson,0,0,0,201,0,1,6,19,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+118,S Mahmood,Haris Rauf,MW Parkinson,0,0,0,201,0,2,7,19,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+119,MW Parkinson,Shaheen Shah Afridi,S Mahmood,0,0,0,201,0,1,1,20,,-,0,,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan
+120,MW Parkinson,Shaheen Shah Afridi,S Mahmood,0,0,0,201,0,2,2,20,,-,bowled,MW Parkinson,,,field,England,2,"Trent Bridge, Nottingham",2021-07-16,England,Pakistan

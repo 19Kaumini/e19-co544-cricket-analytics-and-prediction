@@ -1,0 +1,67 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JT Smuts,AD Mathews,HG Kuhn,,1,0,1,1,1,1,1,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+1,HG Kuhn,AD Mathews,JT Smuts,,4,0,4,5,4,1,2,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+2,HG Kuhn,AD Mathews,JT Smuts,,1,0,1,6,5,2,3,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+3,JT Smuts,AD Mathews,HG Kuhn,,1,0,1,7,2,2,4,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+4,HG Kuhn,AD Mathews,JT Smuts,,1,0,1,8,6,3,5,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+5,JT Smuts,AD Mathews,HG Kuhn,{'wides': 1},0,1,1,9,2,3,6,wides,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+6,JT Smuts,AD Mathews,HG Kuhn,,1,0,1,10,3,4,7,-,1,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+7,JT Smuts,KMDN Kulasekara,HG Kuhn,{'legbyes': 1},0,1,1,11,3,5,1,legbyes,2,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+8,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,11,6,4,2,-,2,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+9,HG Kuhn,KMDN Kulasekara,JT Smuts,,4,0,4,15,10,5,3,-,2,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+10,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,15,10,6,4,-,2,lbw,HG Kuhn,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+11,TB de Bruyn,KMDN Kulasekara,JT Smuts,,4,0,4,19,4,1,5,-,2,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+12,TB de Bruyn,KMDN Kulasekara,JT Smuts,,0,0,0,19,4,2,6,-,2,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+13,JT Smuts,RAS Lakmal,TB de Bruyn,,4,0,4,23,7,6,1,-,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+14,JT Smuts,RAS Lakmal,TB de Bruyn,{'wides': 1},0,1,1,24,7,7,2,wides,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+15,JT Smuts,RAS Lakmal,TB de Bruyn,,0,0,0,24,7,8,3,-,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+16,JT Smuts,RAS Lakmal,TB de Bruyn,,6,0,6,30,13,9,4,-,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+17,JT Smuts,RAS Lakmal,TB de Bruyn,,0,0,0,30,13,10,5,-,3,caught,JT Smuts,DAS Gunaratne,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+18,TB de Bruyn,RAS Lakmal,DA Miller,,6,0,6,36,10,3,6,-,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+19,TB de Bruyn,RAS Lakmal,DA Miller,,1,0,1,37,11,4,7,-,3,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+20,TB de Bruyn,DAS Gunaratne,DA Miller,,1,0,1,38,12,5,1,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+21,DA Miller,DAS Gunaratne,TB de Bruyn,,1,0,1,39,1,1,2,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+22,TB de Bruyn,DAS Gunaratne,DA Miller,,1,0,1,40,13,6,3,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+23,DA Miller,DAS Gunaratne,TB de Bruyn,,1,0,1,41,2,2,4,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+24,TB de Bruyn,DAS Gunaratne,DA Miller,,1,0,1,42,14,7,5,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+25,DA Miller,DAS Gunaratne,TB de Bruyn,,0,0,0,42,2,3,6,-,4,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+26,TB de Bruyn,S Prasanna,DA Miller,,4,0,4,46,18,8,1,-,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+27,TB de Bruyn,S Prasanna,DA Miller,,1,0,1,47,19,9,2,-,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+28,DA Miller,S Prasanna,TB de Bruyn,,6,0,6,53,8,4,3,-,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+29,DA Miller,S Prasanna,TB de Bruyn,,1,0,1,54,9,5,4,-,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+30,TB de Bruyn,S Prasanna,DA Miller,,0,0,0,54,19,10,5,-,5,caught,TB de Bruyn,DAS Gunaratne,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+31,F Behardien,S Prasanna,DA Miller,{'wides': 1},0,1,1,55,0,1,6,wides,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+32,F Behardien,S Prasanna,DA Miller,,1,0,1,56,1,2,7,-,5,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+33,F Behardien,DAS Gunaratne,DA Miller,,1,0,1,57,2,3,1,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+34,DA Miller,DAS Gunaratne,F Behardien,{'wides': 1},0,1,1,58,9,6,2,wides,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+35,DA Miller,DAS Gunaratne,F Behardien,,1,0,1,59,10,7,3,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+36,F Behardien,DAS Gunaratne,DA Miller,,2,0,2,61,4,4,4,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+37,F Behardien,DAS Gunaratne,DA Miller,,0,0,0,61,4,5,5,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+38,F Behardien,DAS Gunaratne,DA Miller,,1,0,1,62,5,6,6,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+39,DA Miller,DAS Gunaratne,F Behardien,,1,0,1,63,11,8,7,-,6,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+40,DA Miller,N Pradeep,F Behardien,,1,0,1,64,12,9,1,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+41,F Behardien,N Pradeep,DA Miller,,4,0,4,68,9,7,2,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+42,F Behardien,N Pradeep,DA Miller,,0,0,0,68,9,8,3,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+43,F Behardien,N Pradeep,DA Miller,,1,0,1,69,10,9,4,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+44,DA Miller,N Pradeep,F Behardien,,1,0,1,70,13,10,5,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+45,F Behardien,N Pradeep,DA Miller,,4,0,4,74,14,10,6,-,7,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+46,DA Miller,AD Mathews,F Behardien,,1,0,1,75,14,11,1,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+47,F Behardien,AD Mathews,DA Miller,,1,0,1,76,15,11,2,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+48,DA Miller,AD Mathews,F Behardien,,6,0,6,82,20,12,3,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+49,DA Miller,AD Mathews,F Behardien,{'wides': 1},0,1,1,83,20,13,4,wides,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+50,DA Miller,AD Mathews,F Behardien,,2,0,2,85,22,14,5,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+51,DA Miller,AD Mathews,F Behardien,,4,0,4,89,26,15,6,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+52,DA Miller,AD Mathews,F Behardien,,4,0,4,93,30,16,7,-,8,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+53,F Behardien,KMDN Kulasekara,DA Miller,,1,0,1,94,16,12,1,-,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+54,DA Miller,KMDN Kulasekara,F Behardien,{'noballs': 1},0,1,1,95,30,17,2,noballs,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+55,DA Miller,KMDN Kulasekara,F Behardien,,4,0,4,99,34,18,3,-,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+56,DA Miller,KMDN Kulasekara,F Behardien,,6,0,6,105,40,19,4,-,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+57,DA Miller,KMDN Kulasekara,F Behardien,,0,0,0,105,40,20,5,-,9,caught,DA Miller,RAS Lakmal,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+58,F Behardien,KMDN Kulasekara,M Mosehle,,1,0,1,106,17,13,6,-,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+59,M Mosehle,KMDN Kulasekara,F Behardien,,6,0,6,112,6,1,7,-,9,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+60,F Behardien,N Pradeep,M Mosehle,,0,0,0,112,17,14,1,-,10,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+61,F Behardien,N Pradeep,M Mosehle,,4,0,4,116,21,15,2,-,10,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+62,F Behardien,N Pradeep,M Mosehle,,6,0,6,122,27,16,3,-,10,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+63,F Behardien,N Pradeep,M Mosehle,,2,0,2,124,29,17,4,-,10,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+64,F Behardien,N Pradeep,M Mosehle,,1,0,1,125,30,18,5,-,10,run out,M Mosehle,DAS Gunaratne,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka
+65,F Behardien,N Pradeep,WD Parnell,,1,0,1,126,31,19,6,-,10,0,,,field,Sri Lanka,1,SuperSport Park,2017-01-20,South Africa,Sri Lanka

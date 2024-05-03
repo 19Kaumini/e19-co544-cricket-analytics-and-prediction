@@ -1,0 +1,114 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,BA King,SM Curran,KR Mayers,0,0,0,0,0,1,1,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+1,BA King,SM Curran,KR Mayers,6,0,6,6,6,2,2,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+2,BA King,SM Curran,KR Mayers,0,0,0,6,6,3,3,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+3,BA King,SM Curran,KR Mayers,4,0,4,10,10,4,4,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+4,BA King,SM Curran,KR Mayers,0,0,0,10,10,5,5,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+5,BA King,SM Curran,KR Mayers,6,0,6,16,16,6,6,1,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+6,KR Mayers,WG Jacks,BA King,0,0,0,16,0,1,1,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+7,KR Mayers,WG Jacks,BA King,6,0,6,22,6,2,2,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+8,KR Mayers,WG Jacks,BA King,3,0,3,25,9,3,3,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+9,BA King,WG Jacks,KR Mayers,0,0,0,25,16,7,4,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+10,BA King,WG Jacks,KR Mayers,4,0,4,29,20,8,5,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+11,BA King,WG Jacks,KR Mayers,1,0,1,30,21,9,6,2,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+12,BA King,CR Woakes,KR Mayers,1,0,1,31,22,10,1,3,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+13,KR Mayers,CR Woakes,BA King,1,0,1,32,10,4,2,3,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+14,BA King,CR Woakes,KR Mayers,0,0,0,32,22,11,3,3,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+15,BA King,CR Woakes,KR Mayers,0,0,0,32,22,12,4,3,caught,BA King,BM Duckett,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+16,SD Hope,CR Woakes,KR Mayers,4,0,4,36,4,1,5,3,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+17,SD Hope,CR Woakes,KR Mayers,0,0,0,36,4,2,6,3,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+18,KR Mayers,TS Mills,SD Hope,0,1,1,37,10,5,1,4,0,,,{'wides': 1},wides,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+19,KR Mayers,TS Mills,SD Hope,0,0,0,37,10,6,2,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+20,KR Mayers,TS Mills,SD Hope,0,1,1,38,10,7,3,4,0,,,{'wides': 1},wides,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+21,KR Mayers,TS Mills,SD Hope,1,0,1,39,11,8,4,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+22,SD Hope,TS Mills,KR Mayers,1,0,1,40,5,3,5,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+23,KR Mayers,TS Mills,SD Hope,0,0,0,40,11,9,6,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+24,KR Mayers,TS Mills,SD Hope,6,0,6,46,17,10,7,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+25,KR Mayers,TS Mills,SD Hope,1,0,1,47,18,11,8,4,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+26,KR Mayers,CR Woakes,SD Hope,1,0,1,48,19,12,1,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+27,SD Hope,CR Woakes,KR Mayers,1,0,1,49,6,4,2,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+28,KR Mayers,CR Woakes,SD Hope,0,0,0,49,19,13,3,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+29,KR Mayers,CR Woakes,SD Hope,0,0,0,49,19,14,4,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+30,KR Mayers,CR Woakes,SD Hope,1,0,1,50,20,15,5,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+31,SD Hope,CR Woakes,KR Mayers,6,0,6,56,12,5,6,5,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+32,KR Mayers,SM Curran,SD Hope,1,0,1,57,21,16,1,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+33,SD Hope,SM Curran,KR Mayers,0,0,0,57,12,6,2,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+34,SD Hope,SM Curran,KR Mayers,0,0,0,57,12,7,3,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+35,SD Hope,SM Curran,KR Mayers,1,0,1,58,13,8,4,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+36,KR Mayers,SM Curran,SD Hope,1,0,1,59,22,17,5,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+37,SD Hope,SM Curran,KR Mayers,0,0,0,59,13,9,6,6,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+38,KR Mayers,Rehan Ahmed,SD Hope,6,0,6,65,28,18,1,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+39,KR Mayers,Rehan Ahmed,SD Hope,0,0,0,65,28,19,2,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+40,KR Mayers,Rehan Ahmed,SD Hope,6,0,6,71,34,20,3,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+41,KR Mayers,Rehan Ahmed,SD Hope,0,0,0,71,34,21,4,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+42,KR Mayers,Rehan Ahmed,SD Hope,1,0,1,72,35,22,5,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+43,SD Hope,Rehan Ahmed,KR Mayers,6,0,6,78,19,10,6,7,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+44,KR Mayers,AU Rashid,SD Hope,0,0,0,78,35,23,1,8,caught,KR Mayers,HC Brook,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+45,N Pooran,AU Rashid,SD Hope,0,0,0,78,0,1,2,8,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+46,N Pooran,AU Rashid,SD Hope,0,0,0,78,0,2,3,8,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+47,N Pooran,AU Rashid,SD Hope,0,0,0,78,0,3,4,8,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+48,N Pooran,AU Rashid,SD Hope,1,0,1,79,1,4,5,8,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+49,SD Hope,AU Rashid,N Pooran,0,0,0,79,19,11,6,8,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+50,N Pooran,TS Mills,SD Hope,0,1,1,80,1,5,1,9,0,,,{'wides': 1},wides,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+51,N Pooran,TS Mills,SD Hope,0,0,0,80,1,6,2,9,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+52,N Pooran,TS Mills,SD Hope,1,0,1,81,2,7,3,9,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+53,SD Hope,TS Mills,N Pooran,0,1,1,82,19,12,4,9,0,,,{'legbyes': 1},legbyes,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+54,N Pooran,TS Mills,SD Hope,1,0,1,83,3,8,5,9,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+55,SD Hope,TS Mills,N Pooran,0,0,0,83,19,13,6,9,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+56,SD Hope,TS Mills,N Pooran,4,0,4,87,23,14,7,9,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+57,N Pooran,AU Rashid,SD Hope,1,0,1,88,4,9,1,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+58,SD Hope,AU Rashid,N Pooran,1,0,1,89,24,15,2,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+59,N Pooran,AU Rashid,SD Hope,6,0,6,95,10,10,3,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+60,N Pooran,AU Rashid,SD Hope,1,0,1,96,11,11,4,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+61,SD Hope,AU Rashid,N Pooran,1,0,1,97,25,16,5,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+62,N Pooran,AU Rashid,SD Hope,2,0,2,99,13,12,6,10,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+63,SD Hope,Rehan Ahmed,N Pooran,1,0,1,100,26,17,1,11,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+64,N Pooran,Rehan Ahmed,SD Hope,0,0,0,100,13,13,2,11,caught and bowled,N Pooran,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+65,SO Hetmyer,Rehan Ahmed,SD Hope,1,0,1,101,1,1,3,11,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+66,SD Hope,Rehan Ahmed,SO Hetmyer,0,0,0,101,26,18,4,11,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+67,SD Hope,Rehan Ahmed,SO Hetmyer,0,0,0,101,26,19,5,11,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+68,SD Hope,Rehan Ahmed,SO Hetmyer,0,0,0,101,26,20,6,11,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+69,SO Hetmyer,AU Rashid,SD Hope,0,0,0,101,1,2,1,12,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+70,SO Hetmyer,AU Rashid,SD Hope,0,0,0,101,1,3,2,12,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+71,SO Hetmyer,AU Rashid,SD Hope,0,0,0,101,1,4,3,12,caught,SO Hetmyer,BM Duckett,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+72,R Powell,AU Rashid,SD Hope,1,0,1,102,1,1,4,12,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+73,SD Hope,AU Rashid,R Powell,0,0,0,102,26,21,5,12,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+74,SD Hope,AU Rashid,R Powell,0,0,0,102,26,22,6,12,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+75,R Powell,Rehan Ahmed,SD Hope,0,0,0,102,1,2,1,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+76,R Powell,Rehan Ahmed,SD Hope,4,0,4,106,5,3,2,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+77,R Powell,Rehan Ahmed,SD Hope,1,0,1,107,6,4,3,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+78,SD Hope,Rehan Ahmed,R Powell,1,0,1,108,27,23,4,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+79,R Powell,Rehan Ahmed,SD Hope,4,0,4,112,10,5,5,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+80,R Powell,Rehan Ahmed,SD Hope,0,0,0,112,10,6,6,13,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+81,SD Hope,LS Livingstone,R Powell,1,0,1,113,28,24,1,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+82,R Powell,LS Livingstone,SD Hope,1,0,1,114,11,7,2,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+83,SD Hope,LS Livingstone,R Powell,0,0,0,114,28,25,3,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+84,SD Hope,LS Livingstone,R Powell,1,0,1,115,29,26,4,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+85,R Powell,LS Livingstone,SD Hope,1,0,1,116,12,8,5,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+86,SD Hope,LS Livingstone,R Powell,1,0,1,117,30,27,6,14,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+87,SD Hope,Rehan Ahmed,R Powell,0,0,0,117,30,28,1,15,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+88,SD Hope,Rehan Ahmed,R Powell,6,0,6,123,36,29,2,15,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+89,SD Hope,Rehan Ahmed,R Powell,0,0,0,123,36,30,3,15,caught,SD Hope,HC Brook,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+90,R Shepherd,Rehan Ahmed,R Powell,0,0,0,123,0,1,4,15,caught,R Shepherd,SM Curran,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+91,AD Russell,Rehan Ahmed,R Powell,0,0,0,123,0,1,5,15,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+92,AD Russell,Rehan Ahmed,R Powell,2,0,2,125,2,2,6,15,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+93,R Powell,LS Livingstone,AD Russell,1,0,1,126,13,9,1,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+94,AD Russell,LS Livingstone,R Powell,1,0,1,127,3,3,2,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+95,R Powell,LS Livingstone,AD Russell,1,0,1,128,14,10,3,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+96,AD Russell,LS Livingstone,R Powell,1,0,1,129,4,4,4,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+97,R Powell,LS Livingstone,AD Russell,6,0,6,135,20,11,5,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+98,R Powell,LS Livingstone,AD Russell,6,0,6,141,26,12,6,16,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+99,AD Russell,TS Mills,R Powell,1,0,1,142,5,5,1,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+100,R Powell,TS Mills,AD Russell,1,0,1,143,27,13,2,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+101,AD Russell,TS Mills,R Powell,2,0,2,145,7,6,3,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+102,AD Russell,TS Mills,R Powell,6,0,6,151,13,7,4,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+103,AD Russell,TS Mills,R Powell,0,1,1,152,13,8,5,17,0,,,{'wides': 1},wides,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+104,AD Russell,TS Mills,R Powell,1,0,1,153,14,9,6,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+105,R Powell,TS Mills,AD Russell,4,0,4,157,31,14,7,17,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+106,AD Russell,AU Rashid,R Powell,0,0,0,157,14,10,1,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+107,AD Russell,AU Rashid,R Powell,6,0,6,163,20,11,2,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+108,AD Russell,AU Rashid,R Powell,0,0,0,163,20,12,3,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+109,AD Russell,AU Rashid,R Powell,4,0,4,167,24,13,4,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+110,AD Russell,AU Rashid,R Powell,1,0,1,168,25,14,5,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+111,R Powell,AU Rashid,AD Russell,0,0,0,168,31,15,6,18,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England
+112,AD Russell,SM Curran,R Powell,4,0,4,172,29,15,1,19,0,,,,-,field,West Indies,2,"Kensington Oval, Bridgetown, Barbados",2023-12-12,West Indies,England

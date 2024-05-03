@@ -1,0 +1,118 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,NV Ojha,CB Mpofu,M Vijay,0,0,0,0,0,1,1,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+1,NV Ojha,CB Mpofu,M Vijay,0,0,0,0,0,2,2,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+2,NV Ojha,CB Mpofu,M Vijay,1,0,1,1,1,3,3,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+3,M Vijay,CB Mpofu,NV Ojha,2,0,2,3,2,1,4,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+4,M Vijay,CB Mpofu,NV Ojha,0,0,0,3,2,2,5,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+5,M Vijay,CB Mpofu,NV Ojha,0,0,0,3,2,3,6,1,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+6,NV Ojha,TL Chatara,M Vijay,0,0,0,3,1,4,1,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+7,NV Ojha,TL Chatara,M Vijay,0,0,0,3,1,5,2,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+8,NV Ojha,TL Chatara,M Vijay,0,1,1,4,1,6,3,2,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+9,NV Ojha,TL Chatara,M Vijay,0,0,0,4,1,7,4,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+10,NV Ojha,TL Chatara,M Vijay,0,0,0,4,1,8,5,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+11,NV Ojha,TL Chatara,M Vijay,0,0,0,4,1,9,6,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+12,NV Ojha,TL Chatara,M Vijay,0,0,0,4,1,10,7,2,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+13,M Vijay,CB Mpofu,NV Ojha,0,0,0,4,2,4,1,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+14,M Vijay,CB Mpofu,NV Ojha,4,0,4,8,6,5,2,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+15,M Vijay,CB Mpofu,NV Ojha,6,0,6,14,12,6,3,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+16,M Vijay,CB Mpofu,NV Ojha,0,1,1,15,12,7,4,3,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+17,M Vijay,CB Mpofu,NV Ojha,1,0,1,16,13,8,5,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+18,NV Ojha,CB Mpofu,M Vijay,4,0,4,20,5,11,6,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+19,NV Ojha,CB Mpofu,M Vijay,0,0,0,20,5,12,7,3,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+20,M Vijay,TL Chatara,NV Ojha,0,1,1,21,13,9,1,4,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+21,M Vijay,TL Chatara,NV Ojha,0,0,0,21,13,10,2,4,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+22,M Vijay,TL Chatara,NV Ojha,0,1,1,22,13,11,3,4,{'legbyes': 1},legbyes,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+23,NV Ojha,TL Chatara,M Vijay,1,0,1,23,6,13,4,4,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+24,M Vijay,TL Chatara,NV Ojha,0,0,0,23,13,12,5,4,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+25,M Vijay,TL Chatara,NV Ojha,4,0,4,27,17,13,6,4,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+26,M Vijay,TL Chatara,NV Ojha,0,1,1,28,17,14,7,4,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+27,M Vijay,TL Chatara,NV Ojha,0,0,0,28,17,15,8,4,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+28,NV Ojha,RW Price,M Vijay,0,0,0,28,6,14,1,5,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+29,NV Ojha,RW Price,M Vijay,0,0,0,28,6,15,2,5,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+30,NV Ojha,RW Price,M Vijay,0,0,0,28,6,16,3,5,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+31,NV Ojha,RW Price,M Vijay,0,0,0,28,6,17,4,5,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+32,NV Ojha,RW Price,M Vijay,4,0,4,32,10,18,5,5,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+33,NV Ojha,RW Price,M Vijay,0,0,0,32,10,19,6,5,,-,caught,NV Ojha,TL Chatara,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+34,M Vijay,TL Chatara,SK Raina,1,0,1,33,18,16,1,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+35,SK Raina,TL Chatara,M Vijay,0,0,0,33,0,1,2,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+36,SK Raina,TL Chatara,M Vijay,0,0,0,33,0,2,3,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+37,SK Raina,TL Chatara,M Vijay,4,0,4,37,4,3,4,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+38,SK Raina,TL Chatara,M Vijay,0,1,1,38,4,4,5,6,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+39,SK Raina,TL Chatara,M Vijay,1,0,1,39,5,5,6,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+40,M Vijay,TL Chatara,SK Raina,1,0,1,40,19,17,7,6,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+41,M Vijay,GA Lamb,SK Raina,0,0,0,40,19,18,1,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+42,M Vijay,GA Lamb,SK Raina,2,0,2,42,21,19,2,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+43,M Vijay,GA Lamb,SK Raina,0,0,0,42,21,20,3,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+44,M Vijay,GA Lamb,SK Raina,0,0,0,42,21,21,4,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+45,M Vijay,GA Lamb,SK Raina,6,0,6,48,27,22,5,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+46,M Vijay,GA Lamb,SK Raina,0,0,0,48,27,23,6,7,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+47,SK Raina,RW Price,M Vijay,1,0,1,49,6,6,1,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+48,M Vijay,RW Price,SK Raina,0,0,0,49,27,24,2,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+49,M Vijay,RW Price,SK Raina,1,0,1,50,28,25,3,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+50,SK Raina,RW Price,M Vijay,1,0,1,51,7,7,4,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+51,M Vijay,RW Price,SK Raina,0,2,2,53,28,26,5,8,{'wides': 2},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+52,SK Raina,RW Price,M Vijay,1,0,1,54,8,8,6,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+53,M Vijay,RW Price,SK Raina,1,0,1,55,29,27,7,8,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+54,M Vijay,GA Lamb,SK Raina,1,0,1,56,30,28,1,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+55,SK Raina,GA Lamb,M Vijay,0,0,0,56,8,9,2,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+56,SK Raina,GA Lamb,M Vijay,1,0,1,57,9,10,3,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+57,M Vijay,GA Lamb,SK Raina,1,0,1,58,31,29,4,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+58,SK Raina,GA Lamb,M Vijay,2,0,2,60,11,11,5,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+59,SK Raina,GA Lamb,M Vijay,1,0,1,61,12,12,6,9,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+60,SK Raina,AG Cremer,M Vijay,2,0,2,63,14,13,1,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+61,SK Raina,AG Cremer,M Vijay,4,0,4,67,18,14,2,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+62,SK Raina,AG Cremer,M Vijay,1,0,1,68,19,15,3,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+63,M Vijay,AG Cremer,SK Raina,0,0,0,68,31,30,4,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+64,M Vijay,AG Cremer,SK Raina,1,0,1,69,32,31,5,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+65,SK Raina,AG Cremer,M Vijay,1,0,1,70,20,16,6,10,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+66,SK Raina,GA Lamb,M Vijay,0,0,0,70,20,17,1,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+67,SK Raina,GA Lamb,M Vijay,0,0,0,70,20,18,2,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+68,SK Raina,GA Lamb,M Vijay,1,0,1,71,21,19,3,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+69,M Vijay,GA Lamb,SK Raina,0,0,0,71,32,32,4,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+70,M Vijay,GA Lamb,SK Raina,6,0,6,77,38,33,5,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+71,M Vijay,GA Lamb,SK Raina,0,0,0,77,38,34,6,11,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+72,SK Raina,E Chigumbura,M Vijay,0,0,0,77,21,20,1,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+73,SK Raina,E Chigumbura,M Vijay,2,0,2,79,23,21,2,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+74,SK Raina,E Chigumbura,M Vijay,1,0,1,80,24,22,3,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+75,M Vijay,E Chigumbura,SK Raina,1,0,1,81,39,35,4,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+76,SK Raina,E Chigumbura,M Vijay,6,0,6,87,30,23,5,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+77,SK Raina,E Chigumbura,M Vijay,2,0,2,89,32,24,6,12,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+78,M Vijay,CJ Chibhabha,SK Raina,1,0,1,90,40,36,1,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+79,SK Raina,CJ Chibhabha,M Vijay,1,0,1,91,33,25,2,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+80,M Vijay,CJ Chibhabha,SK Raina,0,0,0,91,40,37,3,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+81,M Vijay,CJ Chibhabha,SK Raina,1,0,1,92,41,38,4,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+82,SK Raina,CJ Chibhabha,M Vijay,1,0,1,93,34,26,5,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+83,M Vijay,CJ Chibhabha,SK Raina,1,0,1,94,42,39,6,13,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+84,M Vijay,RW Price,SK Raina,1,0,1,95,43,40,1,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+85,SK Raina,RW Price,M Vijay,4,0,4,99,38,27,2,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+86,SK Raina,RW Price,M Vijay,2,0,2,101,40,28,3,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+87,SK Raina,RW Price,M Vijay,4,0,4,105,44,29,4,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+88,SK Raina,RW Price,M Vijay,1,0,1,106,45,30,5,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+89,M Vijay,RW Price,SK Raina,2,0,2,108,45,41,6,14,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+90,SK Raina,CJ Chibhabha,M Vijay,1,0,1,109,46,31,1,15,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+91,M Vijay,CJ Chibhabha,SK Raina,1,0,1,110,46,42,2,15,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+92,SK Raina,CJ Chibhabha,M Vijay,1,0,1,111,47,32,3,15,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+93,M Vijay,CJ Chibhabha,SK Raina,0,0,0,111,46,43,4,15,,-,caught,M Vijay,AG Cremer,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+94,SK Raina,CJ Chibhabha,YK Pathan,1,0,1,112,48,33,5,15,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+95,YK Pathan,CJ Chibhabha,SK Raina,0,0,0,112,0,1,6,15,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+96,SK Raina,CB Mpofu,YK Pathan,6,0,6,118,54,34,1,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+97,SK Raina,CB Mpofu,YK Pathan,0,0,0,118,54,35,2,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+98,SK Raina,CB Mpofu,YK Pathan,1,0,1,119,55,36,3,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+99,YK Pathan,CB Mpofu,SK Raina,2,0,2,121,2,2,4,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+100,YK Pathan,CB Mpofu,SK Raina,0,0,0,121,2,3,5,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+101,YK Pathan,CB Mpofu,SK Raina,1,0,1,122,3,4,6,16,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+102,YK Pathan,CJ Chibhabha,SK Raina,1,0,1,123,4,5,1,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+103,SK Raina,CJ Chibhabha,YK Pathan,2,0,2,125,57,37,2,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+104,SK Raina,CJ Chibhabha,YK Pathan,4,0,4,129,61,38,3,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+105,SK Raina,CJ Chibhabha,YK Pathan,0,0,0,129,61,39,4,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+106,SK Raina,CJ Chibhabha,YK Pathan,2,0,2,131,63,40,5,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+107,SK Raina,CJ Chibhabha,YK Pathan,1,0,1,132,64,41,6,17,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+108,SK Raina,TL Chatara,YK Pathan,1,0,1,133,65,42,1,18,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+109,YK Pathan,TL Chatara,SK Raina,0,1,1,134,4,6,2,18,{'legbyes': 1},legbyes,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+110,SK Raina,TL Chatara,YK Pathan,0,1,1,135,65,43,3,18,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+111,SK Raina,TL Chatara,YK Pathan,0,1,1,136,65,44,4,18,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+112,SK Raina,TL Chatara,YK Pathan,3,0,3,139,68,45,5,18,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+113,YK Pathan,TL Chatara,SK Raina,0,0,0,139,4,7,6,18,,-,caught,YK Pathan,H Masakadza,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+114,SK Raina,TL Chatara,RG Sharma,0,1,1,140,68,46,7,18,{'wides': 1},wides,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+115,SK Raina,TL Chatara,RG Sharma,0,0,0,140,68,47,8,18,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe
+116,SK Raina,TL Chatara,RG Sharma,4,0,4,144,72,48,9,18,,-,0,,,field,India,2,Harare Sports Club,2010-06-13,India,Zimbabwe

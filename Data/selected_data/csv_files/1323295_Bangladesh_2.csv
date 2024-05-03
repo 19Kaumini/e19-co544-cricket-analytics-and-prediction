@@ -1,0 +1,130 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Munim Shahriar,R Ngarava,Liton Das,0,0,0,0,0,1,1,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+1,Munim Shahriar,R Ngarava,Liton Das,1,0,1,1,1,2,2,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+2,Liton Das,R Ngarava,Munim Shahriar,1,0,1,2,1,1,3,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+3,Munim Shahriar,R Ngarava,Liton Das,0,0,0,2,1,3,4,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+4,Munim Shahriar,R Ngarava,Liton Das,2,0,2,4,3,4,5,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+5,Munim Shahriar,R Ngarava,Liton Das,1,0,1,5,4,5,6,1,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+6,Munim Shahriar,WP Masakadza,Liton Das,0,0,0,5,4,6,1,2,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+7,Munim Shahriar,WP Masakadza,Liton Das,0,0,0,5,4,7,2,2,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+8,Munim Shahriar,WP Masakadza,Liton Das,0,0,0,5,4,8,3,2,caught,Munim Shahriar,TL Chivanga,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+9,Anamul Haque,WP Masakadza,Liton Das,0,0,0,5,0,1,4,2,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+10,Anamul Haque,WP Masakadza,Liton Das,0,0,0,5,0,2,5,2,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+11,Anamul Haque,WP Masakadza,Liton Das,1,0,1,6,1,3,6,2,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+12,Anamul Haque,TL Chivanga,Liton Das,0,0,0,6,1,4,1,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+13,Anamul Haque,TL Chivanga,Liton Das,1,0,1,7,2,5,2,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+14,Liton Das,TL Chivanga,Anamul Haque,0,1,1,8,1,2,3,3,0,,,{'wides': 1},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+15,Liton Das,TL Chivanga,Anamul Haque,4,0,4,12,5,3,4,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+16,Liton Das,TL Chivanga,Anamul Haque,1,0,1,13,6,4,5,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+17,Anamul Haque,TL Chivanga,Liton Das,1,0,1,14,3,6,6,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+18,Liton Das,TL Chivanga,Anamul Haque,4,0,4,18,10,5,7,3,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+19,Anamul Haque,WP Masakadza,Liton Das,1,0,1,19,4,7,1,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+20,Liton Das,WP Masakadza,Anamul Haque,0,0,0,19,10,6,2,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+21,Liton Das,WP Masakadza,Anamul Haque,0,0,0,19,10,7,3,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+22,Liton Das,WP Masakadza,Anamul Haque,4,0,4,23,14,8,4,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+23,Liton Das,WP Masakadza,Anamul Haque,1,0,1,24,15,9,5,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+24,Anamul Haque,WP Masakadza,Liton Das,0,0,0,24,4,8,6,4,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+25,Liton Das,R Ngarava,Anamul Haque,1,0,1,25,16,10,1,5,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+26,Anamul Haque,R Ngarava,Liton Das,0,1,1,26,4,9,2,5,0,,,{'legbyes': 1},legbyes,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+27,Liton Das,R Ngarava,Anamul Haque,2,0,2,28,18,11,3,5,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+28,Liton Das,R Ngarava,Anamul Haque,4,0,4,32,22,12,4,5,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+29,Liton Das,R Ngarava,Anamul Haque,4,0,4,36,26,13,5,5,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+30,Liton Das,R Ngarava,Anamul Haque,0,5,5,41,26,14,6,5,0,,,{'wides': 5},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+31,Liton Das,R Ngarava,Anamul Haque,4,0,4,45,30,15,7,5,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+32,Anamul Haque,TL Chivanga,Liton Das,0,5,5,50,4,10,1,6,0,,,"{'legbyes': 4, 'noballs': 1}",legbyesnoballs,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+33,Anamul Haque,TL Chivanga,Liton Das,0,1,1,51,4,11,2,6,0,,,{'wides': 1},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+34,Anamul Haque,TL Chivanga,Liton Das,6,0,6,57,10,12,3,6,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+35,Anamul Haque,TL Chivanga,Liton Das,1,0,1,58,11,13,4,6,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+36,Liton Das,TL Chivanga,Anamul Haque,0,0,0,58,30,16,5,6,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+37,Liton Das,TL Chivanga,Anamul Haque,0,0,0,58,30,17,6,6,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+38,Liton Das,TL Chivanga,Anamul Haque,1,0,1,59,31,18,7,6,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+39,Anamul Haque,TL Chivanga,Liton Das,0,1,1,60,11,14,8,6,0,,,{'legbyes': 1},legbyes,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+40,Anamul Haque,SC Williams,Liton Das,1,0,1,61,12,15,1,7,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+41,Liton Das,SC Williams,Anamul Haque,1,0,1,62,32,19,2,7,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+42,Anamul Haque,SC Williams,Liton Das,0,0,0,62,12,16,3,7,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+43,Anamul Haque,SC Williams,Liton Das,1,0,1,63,13,17,4,7,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+44,Liton Das,SC Williams,Anamul Haque,0,0,0,63,32,20,5,7,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+45,Liton Das,SC Williams,Anamul Haque,0,0,0,63,32,21,6,7,run out,Liton Das,SC Williams;R Ngarava,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+46,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,1,0,1,64,14,18,1,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+47,Nazmul Hossain Shanto,Sikandar Raza,Anamul Haque,1,0,1,65,1,1,2,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+48,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,1,0,1,66,15,19,3,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+49,Nazmul Hossain Shanto,Sikandar Raza,Anamul Haque,1,0,1,67,2,2,4,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+50,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,0,0,0,67,15,20,5,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+51,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,2,0,2,69,17,21,6,8,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+52,Nazmul Hossain Shanto,SC Williams,Anamul Haque,1,0,1,70,3,3,1,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+53,Anamul Haque,SC Williams,Nazmul Hossain Shanto,1,0,1,71,18,22,2,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+54,Nazmul Hossain Shanto,SC Williams,Anamul Haque,1,0,1,72,4,4,3,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+55,Anamul Haque,SC Williams,Nazmul Hossain Shanto,0,0,0,72,18,23,4,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+56,Anamul Haque,SC Williams,Nazmul Hossain Shanto,0,0,0,72,18,24,5,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+57,Anamul Haque,SC Williams,Nazmul Hossain Shanto,1,0,1,73,19,25,6,9,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+58,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,1,0,1,74,20,26,1,10,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+59,Nazmul Hossain Shanto,Sikandar Raza,Anamul Haque,4,0,4,78,8,5,2,10,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+60,Nazmul Hossain Shanto,Sikandar Raza,Anamul Haque,1,0,1,79,9,6,3,10,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+61,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,6,0,6,85,26,27,4,10,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+62,Anamul Haque,Sikandar Raza,Nazmul Hossain Shanto,0,0,0,85,26,28,5,10,caught,Anamul Haque,M Shumba,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+63,Nazmul Hossain Shanto,Sikandar Raza,Afif Hossain,1,0,1,86,10,7,6,10,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+64,Nazmul Hossain Shanto,LM Jongwe,Afif Hossain,0,0,0,86,10,8,1,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+65,Nazmul Hossain Shanto,LM Jongwe,Afif Hossain,1,0,1,87,11,9,2,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+66,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,0,1,1,88,0,1,3,11,0,,,{'wides': 1},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+67,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,0,0,0,88,0,2,4,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+68,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,4,0,4,92,4,3,5,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+69,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,1,0,1,93,5,4,6,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+70,Nazmul Hossain Shanto,LM Jongwe,Afif Hossain,0,0,0,93,11,10,7,11,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+71,Afif Hossain,Sikandar Raza,Nazmul Hossain Shanto,1,0,1,94,6,5,1,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+72,Nazmul Hossain Shanto,Sikandar Raza,Afif Hossain,0,0,0,94,11,11,2,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+73,Nazmul Hossain Shanto,Sikandar Raza,Afif Hossain,4,0,4,98,15,12,3,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+74,Nazmul Hossain Shanto,Sikandar Raza,Afif Hossain,3,0,3,101,18,13,4,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+75,Afif Hossain,Sikandar Raza,Nazmul Hossain Shanto,2,0,2,103,8,6,5,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+76,Afif Hossain,Sikandar Raza,Nazmul Hossain Shanto,1,0,1,104,9,7,6,12,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+77,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,1,0,1,105,10,8,1,13,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+78,Nazmul Hossain Shanto,LM Jongwe,Afif Hossain,1,0,1,106,19,14,2,13,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+79,Afif Hossain,LM Jongwe,Nazmul Hossain Shanto,0,0,0,106,10,9,3,13,caught,Afif Hossain,WP Masakadza,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+80,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,1,0,1,107,20,15,4,13,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+81,Nurul Hasan,LM Jongwe,Nazmul Hossain Shanto,1,0,1,108,1,1,5,13,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+82,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,4,0,4,112,24,16,6,13,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+83,Nurul Hasan,W Madhevere,Nazmul Hossain Shanto,1,0,1,113,2,2,1,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+84,Nazmul Hossain Shanto,W Madhevere,Nurul Hasan,2,0,2,115,26,17,2,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+85,Nazmul Hossain Shanto,W Madhevere,Nurul Hasan,0,1,1,116,26,18,3,14,0,,,{'wides': 1},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+86,Nazmul Hossain Shanto,W Madhevere,Nurul Hasan,0,0,0,116,26,19,4,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+87,Nazmul Hossain Shanto,W Madhevere,Nurul Hasan,6,0,6,122,32,20,5,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+88,Nazmul Hossain Shanto,W Madhevere,Nurul Hasan,1,0,1,123,33,21,6,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+89,Nurul Hasan,W Madhevere,Nazmul Hossain Shanto,1,0,1,124,3,3,7,14,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+90,Nurul Hasan,WP Masakadza,Nazmul Hossain Shanto,2,0,2,126,5,4,1,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+91,Nurul Hasan,WP Masakadza,Nazmul Hossain Shanto,0,0,0,126,5,5,2,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+92,Nurul Hasan,WP Masakadza,Nazmul Hossain Shanto,6,0,6,132,11,6,3,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+93,Nurul Hasan,WP Masakadza,Nazmul Hossain Shanto,6,0,6,138,17,7,4,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+94,Nurul Hasan,WP Masakadza,Nazmul Hossain Shanto,1,0,1,139,18,8,5,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+95,Nazmul Hossain Shanto,WP Masakadza,Nurul Hasan,1,0,1,140,34,22,6,15,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+96,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,2,0,2,142,36,23,1,16,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+97,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,1,0,1,143,37,24,2,16,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+98,Nurul Hasan,LM Jongwe,Nazmul Hossain Shanto,1,0,1,144,19,9,3,16,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+99,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,0,1,1,145,37,25,4,16,0,,,{'legbyes': 1},legbyes,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+100,Nurul Hasan,LM Jongwe,Nazmul Hossain Shanto,1,0,1,146,20,10,5,16,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+101,Nazmul Hossain Shanto,LM Jongwe,Nurul Hasan,0,0,0,146,37,26,6,16,caught,Nazmul Hossain Shanto,RW Chakabva,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+102,Nurul Hasan,R Ngarava,Mosaddek Hossain,1,0,1,147,21,11,1,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+103,Mosaddek Hossain,R Ngarava,Nurul Hasan,1,0,1,148,1,1,2,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+104,Nurul Hasan,R Ngarava,Mosaddek Hossain,4,0,4,152,25,12,3,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+105,Nurul Hasan,R Ngarava,Mosaddek Hossain,1,0,1,153,26,13,4,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+106,Mosaddek Hossain,R Ngarava,Nurul Hasan,1,0,1,154,2,2,5,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+107,Nurul Hasan,R Ngarava,Mosaddek Hossain,1,1,2,156,27,14,6,17,0,,,{'noballs': 1},noballs,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+108,Mosaddek Hossain,R Ngarava,Nurul Hasan,4,0,4,160,6,3,7,17,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+109,Nurul Hasan,LM Jongwe,Mosaddek Hossain,6,0,6,166,33,15,1,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+110,Nurul Hasan,LM Jongwe,Mosaddek Hossain,1,0,1,167,34,16,2,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+111,Mosaddek Hossain,LM Jongwe,Nurul Hasan,2,0,2,169,8,4,3,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+112,Mosaddek Hossain,LM Jongwe,Nurul Hasan,2,0,2,171,10,5,4,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+113,Mosaddek Hossain,LM Jongwe,Nurul Hasan,0,1,1,172,10,6,5,18,0,,,{'noballs': 1},noballs,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+114,Mosaddek Hossain,LM Jongwe,Nurul Hasan,0,0,0,172,10,7,6,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+115,Mosaddek Hossain,LM Jongwe,Nurul Hasan,2,0,2,174,12,8,7,18,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+116,Nurul Hasan,R Ngarava,Mosaddek Hossain,0,0,0,174,34,17,1,19,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+117,Nurul Hasan,R Ngarava,Mosaddek Hossain,0,0,0,174,34,18,2,19,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+118,Nurul Hasan,R Ngarava,Mosaddek Hossain,1,0,1,175,35,19,3,19,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+119,Mosaddek Hossain,R Ngarava,Nurul Hasan,1,0,1,176,13,9,4,19,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+120,Nurul Hasan,R Ngarava,Mosaddek Hossain,1,0,1,177,36,20,5,19,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+121,Mosaddek Hossain,R Ngarava,Nurul Hasan,0,1,1,178,13,10,6,19,0,,,{'wides': 1},wides,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+122,Mosaddek Hossain,R Ngarava,Nurul Hasan,0,0,0,178,13,11,7,19,caught,Mosaddek Hossain,M Shumba,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+123,Nurul Hasan,TL Chivanga,Nasum Ahmed,0,0,0,178,36,21,1,20,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+124,Nurul Hasan,TL Chivanga,Nasum Ahmed,0,4,4,182,36,22,2,20,0,,,{'legbyes': 4},legbyes,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+125,Nurul Hasan,TL Chivanga,Nasum Ahmed,6,0,6,188,42,23,3,20,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+126,Nurul Hasan,TL Chivanga,Nasum Ahmed,0,0,0,188,42,24,4,20,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+127,Nurul Hasan,TL Chivanga,Nasum Ahmed,0,0,0,188,42,25,5,20,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe
+128,Nurul Hasan,TL Chivanga,Nasum Ahmed,0,0,0,188,42,26,6,20,0,,,,-,bat,Zimbabwe,2,Harare Sports Club,2022-07-30,Bangladesh,Zimbabwe

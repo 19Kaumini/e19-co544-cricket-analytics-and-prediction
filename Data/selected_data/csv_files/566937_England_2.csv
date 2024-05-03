@@ -1,0 +1,129 @@
+,batter,bowler,extras,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MJ Lumb,MG Johnson,{'noballs': 1},AD Hales,2,1,3,3,2,1,1,noballs,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+1,MJ Lumb,MG Johnson,,AD Hales,0,0,0,3,2,2,2,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+2,MJ Lumb,MG Johnson,,AD Hales,0,0,0,3,2,3,3,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+3,MJ Lumb,MG Johnson,{'wides': 1},AD Hales,0,1,1,4,2,4,4,wides,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+4,MJ Lumb,MG Johnson,,AD Hales,4,0,4,8,6,5,5,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+5,MJ Lumb,MG Johnson,{'wides': 1},AD Hales,0,1,1,9,6,6,6,wides,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+6,MJ Lumb,MG Johnson,,AD Hales,4,0,4,13,10,7,7,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+7,MJ Lumb,MG Johnson,,AD Hales,4,0,4,17,14,8,8,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+8,MJ Lumb,MG Johnson,,AD Hales,0,0,0,17,14,9,9,-,1,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+9,AD Hales,JR Hazlewood,,MJ Lumb,2,0,2,19,2,1,1,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+10,AD Hales,JR Hazlewood,,MJ Lumb,0,0,0,19,2,2,2,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+11,AD Hales,JR Hazlewood,,MJ Lumb,0,0,0,19,2,3,3,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+12,AD Hales,JR Hazlewood,,MJ Lumb,0,0,0,19,2,4,4,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+13,AD Hales,JR Hazlewood,,MJ Lumb,1,0,1,20,3,5,5,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+14,MJ Lumb,JR Hazlewood,,AD Hales,6,0,6,26,20,10,6,-,2,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+15,AD Hales,MG Johnson,,MJ Lumb,0,0,0,26,3,6,1,-,3,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+16,AD Hales,MG Johnson,,MJ Lumb,4,0,4,30,7,7,2,-,3,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+17,AD Hales,MG Johnson,,MJ Lumb,1,0,1,31,8,8,3,-,3,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+18,MJ Lumb,MG Johnson,,AD Hales,0,0,0,31,20,11,4,-,3,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+19,MJ Lumb,MG Johnson,,AD Hales,2,0,2,33,22,12,5,-,3,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+20,MJ Lumb,MG Johnson,,AD Hales,0,0,0,33,22,13,6,-,3,lbw,MJ Lumb,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+21,AD Hales,JR Hazlewood,,LJ Wright,0,0,0,33,8,9,1,-,4,caught,AD Hales,MS Wade,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+22,LJ Wright,JR Hazlewood,,EJG Morgan,4,0,4,37,4,1,2,-,4,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+23,LJ Wright,JR Hazlewood,,EJG Morgan,0,0,0,37,4,2,3,-,4,caught,LJ Wright,MS Wade,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+24,JE Root,JR Hazlewood,{'wides': 1},EJG Morgan,0,1,1,38,0,1,4,wides,4,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+25,JE Root,JR Hazlewood,,EJG Morgan,0,0,0,38,0,2,5,-,4,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+26,JE Root,JR Hazlewood,,EJG Morgan,0,0,0,38,0,3,6,-,4,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+27,JE Root,JR Hazlewood,,EJG Morgan,4,0,4,42,4,4,7,-,4,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+28,EJG Morgan,MG Johnson,,JE Root,0,0,0,42,0,1,1,-,5,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+29,EJG Morgan,MG Johnson,,JE Root,0,0,0,42,0,2,2,-,5,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+30,EJG Morgan,MG Johnson,,JE Root,0,0,0,42,0,3,3,-,5,caught,EJG Morgan,GJ Maxwell,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+31,RS Bopara,MG Johnson,,JE Root,0,0,0,42,0,1,4,-,5,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+32,RS Bopara,MG Johnson,,JE Root,0,0,0,42,0,2,5,-,5,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+33,RS Bopara,MG Johnson,,JE Root,0,0,0,42,0,3,6,-,5,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+34,JE Root,JR Hazlewood,,RS Bopara,1,0,1,43,5,5,1,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+35,RS Bopara,JR Hazlewood,,JE Root,1,0,1,44,1,4,2,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+36,JE Root,JR Hazlewood,,RS Bopara,4,0,4,48,9,6,3,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+37,JE Root,JR Hazlewood,,RS Bopara,0,0,0,48,9,7,4,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+38,JE Root,JR Hazlewood,,RS Bopara,2,0,2,50,11,8,5,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+39,JE Root,JR Hazlewood,,RS Bopara,4,0,4,54,15,9,6,-,6,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+40,RS Bopara,Fawad Ahmed,,JE Root,4,0,4,58,5,5,1,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+41,RS Bopara,Fawad Ahmed,,JE Root,1,0,1,59,6,6,2,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+42,JE Root,Fawad Ahmed,,RS Bopara,1,0,1,60,16,10,3,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+43,RS Bopara,Fawad Ahmed,,JE Root,1,0,1,61,7,7,4,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+44,JE Root,Fawad Ahmed,,RS Bopara,2,0,2,63,18,11,5,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+45,JE Root,Fawad Ahmed,,RS Bopara,1,0,1,64,19,12,6,-,7,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+46,JE Root,SR Watson,,RS Bopara,2,0,2,66,21,13,1,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+47,JE Root,SR Watson,,RS Bopara,0,0,0,66,21,14,2,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+48,JE Root,SR Watson,,RS Bopara,4,0,4,70,25,15,3,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+49,JE Root,SR Watson,,RS Bopara,4,0,4,74,29,16,4,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+50,JE Root,SR Watson,,RS Bopara,1,0,1,75,30,17,5,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+51,RS Bopara,SR Watson,,JE Root,0,0,0,75,7,8,6,-,8,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+52,JE Root,Fawad Ahmed,,RS Bopara,0,0,0,75,30,18,1,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+53,JE Root,Fawad Ahmed,,RS Bopara,4,0,4,79,34,19,2,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+54,JE Root,Fawad Ahmed,,RS Bopara,2,0,2,81,36,20,3,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+55,JE Root,Fawad Ahmed,,RS Bopara,4,0,4,85,40,21,4,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+56,JE Root,Fawad Ahmed,,RS Bopara,1,0,1,86,41,22,5,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+57,RS Bopara,Fawad Ahmed,,JE Root,2,0,2,88,9,9,6,-,9,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+58,JE Root,JP Faulkner,,RS Bopara,2,0,2,90,43,23,1,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+59,JE Root,JP Faulkner,,RS Bopara,1,0,1,91,44,24,2,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+60,RS Bopara,JP Faulkner,,JE Root,4,0,4,95,13,10,3,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+61,RS Bopara,JP Faulkner,,JE Root,1,0,1,96,14,11,4,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+62,JE Root,JP Faulkner,,RS Bopara,1,0,1,97,45,25,5,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+63,RS Bopara,JP Faulkner,,JE Root,1,0,1,98,15,12,6,-,10,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+64,RS Bopara,Fawad Ahmed,,JE Root,2,0,2,100,17,13,1,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+65,RS Bopara,Fawad Ahmed,,JE Root,1,0,1,101,18,14,2,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+66,JE Root,Fawad Ahmed,,RS Bopara,1,0,1,102,46,26,3,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+67,RS Bopara,Fawad Ahmed,{'wides': 1},JE Root,0,1,1,103,18,15,4,wides,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+68,RS Bopara,Fawad Ahmed,,JE Root,2,0,2,105,20,16,5,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+69,RS Bopara,Fawad Ahmed,,JE Root,4,0,4,109,24,17,6,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+70,RS Bopara,Fawad Ahmed,,JE Root,1,0,1,110,25,18,7,-,11,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+71,RS Bopara,SR Watson,,JE Root,1,0,1,111,26,19,1,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+72,JE Root,SR Watson,,RS Bopara,1,0,1,112,47,27,2,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+73,RS Bopara,SR Watson,,JE Root,1,0,1,113,27,20,3,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+74,JE Root,SR Watson,,RS Bopara,1,0,1,114,48,28,4,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+75,RS Bopara,SR Watson,,JE Root,0,0,0,114,27,21,5,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+76,RS Bopara,SR Watson,,JE Root,1,0,1,115,28,22,6,-,12,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+77,RS Bopara,JP Faulkner,,JE Root,2,0,2,117,30,23,1,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+78,RS Bopara,JP Faulkner,,JE Root,2,0,2,119,32,24,2,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+79,RS Bopara,JP Faulkner,,JE Root,0,0,0,119,32,25,3,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+80,RS Bopara,JP Faulkner,,JE Root,1,0,1,120,33,26,4,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+81,JE Root,JP Faulkner,,RS Bopara,0,0,0,120,48,29,5,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+82,JE Root,JP Faulkner,{'wides': 1},RS Bopara,0,1,1,121,48,30,6,wides,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+83,JE Root,JP Faulkner,,RS Bopara,4,0,4,125,52,31,7,-,13,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+84,RS Bopara,SR Watson,,JE Root,6,0,6,131,39,27,1,-,14,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+85,RS Bopara,SR Watson,,JE Root,2,0,2,133,41,28,2,-,14,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+86,RS Bopara,SR Watson,,JE Root,4,0,4,137,45,29,3,-,14,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+87,RS Bopara,SR Watson,,JE Root,0,0,0,137,45,30,4,-,14,caught,RS Bopara,DA Warner,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+88,JC Buttler,SR Watson,,JE Root,0,0,0,137,0,1,5,-,14,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+89,JC Buttler,SR Watson,,JE Root,0,0,0,137,0,2,6,-,14,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+90,JE Root,Fawad Ahmed,,JC Buttler,0,0,0,137,52,32,1,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+91,JE Root,Fawad Ahmed,,JC Buttler,1,0,1,138,53,33,2,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+92,JC Buttler,Fawad Ahmed,,JE Root,2,0,2,140,2,3,3,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+93,JC Buttler,Fawad Ahmed,,JE Root,0,0,0,140,2,4,4,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+94,JC Buttler,Fawad Ahmed,,JE Root,4,0,4,144,6,5,5,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+95,JC Buttler,Fawad Ahmed,,JE Root,1,0,1,145,7,6,6,-,15,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+96,JC Buttler,JR Hazlewood,,JE Root,1,0,1,146,8,7,1,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+97,JE Root,JR Hazlewood,,JC Buttler,4,0,4,150,57,34,2,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+98,JE Root,JR Hazlewood,,JC Buttler,1,0,1,151,58,35,3,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+99,JC Buttler,JR Hazlewood,,JE Root,0,0,0,151,8,8,4,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+100,JC Buttler,JR Hazlewood,,JE Root,6,0,6,157,14,9,5,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+101,JC Buttler,JR Hazlewood,,JE Root,1,0,1,158,15,10,6,-,16,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+102,JC Buttler,MG Johnson,,JE Root,1,0,1,159,16,11,1,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+103,JE Root,MG Johnson,,JC Buttler,6,0,6,165,64,36,2,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+104,JE Root,MG Johnson,,JC Buttler,4,0,4,169,68,37,3,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+105,JE Root,MG Johnson,,JC Buttler,4,0,4,173,72,38,4,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+106,JE Root,MG Johnson,{'noballs': 1},JC Buttler,0,1,1,174,72,39,5,noballs,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+107,JE Root,MG Johnson,,JC Buttler,0,0,0,174,72,40,6,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+108,JE Root,MG Johnson,,JC Buttler,1,0,1,175,73,41,7,-,17,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+109,JE Root,JP Faulkner,,JC Buttler,1,0,1,176,74,42,1,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+110,JC Buttler,JP Faulkner,,JE Root,1,0,1,177,17,12,2,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+111,JE Root,JP Faulkner,,JC Buttler,0,0,0,177,74,43,3,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+112,JE Root,JP Faulkner,,JC Buttler,1,0,1,178,75,44,4,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+113,JC Buttler,JP Faulkner,,JE Root,1,0,1,179,18,13,5,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+114,JE Root,JP Faulkner,,JC Buttler,2,0,2,181,77,45,6,-,18,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+115,JC Buttler,SR Watson,,JE Root,1,0,1,182,19,14,1,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+116,JE Root,SR Watson,,JC Buttler,4,0,4,186,81,46,2,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+117,JE Root,SR Watson,{'wides': 1},JC Buttler,0,1,1,187,81,47,3,wides,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+118,JE Root,SR Watson,,JC Buttler,2,0,2,189,83,48,4,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+119,JE Root,SR Watson,,JC Buttler,0,0,0,189,83,49,5,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+120,JE Root,SR Watson,,JC Buttler,4,0,4,193,87,50,6,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+121,JE Root,SR Watson,,JC Buttler,2,0,2,195,89,51,7,-,19,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+122,JC Buttler,JP Faulkner,,JE Root,2,0,2,197,21,15,1,-,20,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+123,JC Buttler,JP Faulkner,,JE Root,6,0,6,203,27,16,2,-,20,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+124,JC Buttler,JP Faulkner,,JE Root,0,0,0,203,27,17,3,-,20,bowled,JC Buttler,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+125,SCJ Broad,JP Faulkner,,JE Root,4,0,4,207,4,1,4,-,20,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+126,SCJ Broad,JP Faulkner,{'byes': 1},JE Root,0,1,1,208,4,2,5,byes,20,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia
+127,JE Root,JP Faulkner,,SCJ Broad,1,0,1,209,90,52,6,-,20,0,,,field,England,2,The Rose Bowl,2013-08-29,England,Australia

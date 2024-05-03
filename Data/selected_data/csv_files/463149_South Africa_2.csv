@@ -1,0 +1,124 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MN van Wyk,P Kumar,HM Amla,,0,0,0,0,0,1,1,-,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+1,MN van Wyk,P Kumar,HM Amla,,1,0,1,1,1,2,2,-,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+2,HM Amla,P Kumar,MN van Wyk,,1,0,1,2,1,1,3,-,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+3,MN van Wyk,P Kumar,HM Amla,{'byes': 4},0,4,4,6,1,3,4,byes,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+4,MN van Wyk,P Kumar,HM Amla,,0,0,0,6,1,4,5,-,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+5,MN van Wyk,P Kumar,HM Amla,,0,0,0,6,1,5,6,-,1,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+6,HM Amla,A Nehra,MN van Wyk,,0,0,0,6,1,2,1,-,2,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+7,HM Amla,A Nehra,MN van Wyk,,0,0,0,6,1,3,2,-,2,bowled,HM Amla,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+8,CA Ingram,A Nehra,MN van Wyk,,0,0,0,6,0,1,3,-,2,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+9,CA Ingram,A Nehra,MN van Wyk,,1,0,1,7,1,2,4,-,2,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+10,MN van Wyk,A Nehra,CA Ingram,,0,0,0,7,1,6,5,-,2,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+11,MN van Wyk,A Nehra,CA Ingram,{'legbyes': 1},0,1,1,8,1,7,6,legbyes,2,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+12,MN van Wyk,MM Patel,CA Ingram,,6,0,6,14,7,8,1,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+13,MN van Wyk,MM Patel,CA Ingram,,4,0,4,18,11,9,2,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+14,MN van Wyk,MM Patel,CA Ingram,,4,0,4,22,15,10,3,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+15,MN van Wyk,MM Patel,CA Ingram,,1,0,1,23,16,11,4,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+16,CA Ingram,MM Patel,MN van Wyk,,0,0,0,23,1,3,5,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+17,CA Ingram,MM Patel,MN van Wyk,,0,0,0,23,1,4,6,-,3,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+18,MN van Wyk,A Nehra,CA Ingram,,6,0,6,29,22,12,1,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+19,MN van Wyk,A Nehra,CA Ingram,,1,0,1,30,23,13,2,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+20,CA Ingram,A Nehra,MN van Wyk,,0,0,0,30,1,5,3,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+21,CA Ingram,A Nehra,MN van Wyk,,1,0,1,31,2,6,4,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+22,MN van Wyk,A Nehra,CA Ingram,,0,0,0,31,23,14,5,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+23,MN van Wyk,A Nehra,CA Ingram,,0,0,0,31,23,15,6,-,4,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+24,CA Ingram,MM Patel,MN van Wyk,,0,0,0,31,2,7,1,-,5,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+25,CA Ingram,MM Patel,MN van Wyk,,0,0,0,31,2,8,2,-,5,caught,CA Ingram,P Kumar,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+26,AB de Villiers,MM Patel,MN van Wyk,,0,0,0,31,0,1,3,-,5,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+27,AB de Villiers,MM Patel,MN van Wyk,,1,0,1,32,1,2,4,-,5,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+28,MN van Wyk,MM Patel,AB de Villiers,,6,0,6,38,29,16,5,-,5,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+29,MN van Wyk,MM Patel,AB de Villiers,,4,0,4,42,33,17,6,-,5,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+30,AB de Villiers,R Ashwin,MN van Wyk,,1,0,1,43,2,3,1,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+31,MN van Wyk,R Ashwin,AB de Villiers,,4,0,4,47,37,18,2,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+32,MN van Wyk,R Ashwin,AB de Villiers,{'wides': 1},0,1,1,48,37,19,3,wides,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+33,MN van Wyk,R Ashwin,AB de Villiers,,6,0,6,54,43,20,4,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+34,MN van Wyk,R Ashwin,AB de Villiers,,1,0,1,55,44,21,5,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+35,AB de Villiers,R Ashwin,MN van Wyk,,1,0,1,56,3,4,6,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+36,MN van Wyk,R Ashwin,AB de Villiers,,3,0,3,59,47,22,7,-,6,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+37,MN van Wyk,Yuvraj Singh,AB de Villiers,,1,0,1,60,48,23,1,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+38,AB de Villiers,Yuvraj Singh,MN van Wyk,,0,0,0,60,3,5,2,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+39,AB de Villiers,Yuvraj Singh,MN van Wyk,,4,0,4,64,7,6,3,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+40,AB de Villiers,Yuvraj Singh,MN van Wyk,,4,0,4,68,11,7,4,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+41,AB de Villiers,Yuvraj Singh,MN van Wyk,,1,0,1,69,12,8,5,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+42,MN van Wyk,Yuvraj Singh,AB de Villiers,,0,0,0,69,48,24,6,-,7,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+43,AB de Villiers,R Ashwin,MN van Wyk,,1,0,1,70,13,9,1,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+44,MN van Wyk,R Ashwin,AB de Villiers,,6,0,6,76,54,25,2,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+45,MN van Wyk,R Ashwin,AB de Villiers,,0,0,0,76,54,26,3,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+46,MN van Wyk,R Ashwin,AB de Villiers,,1,0,1,77,55,27,4,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+47,AB de Villiers,R Ashwin,MN van Wyk,,1,0,1,78,14,10,5,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+48,MN van Wyk,R Ashwin,AB de Villiers,,1,0,1,79,56,28,6,-,8,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+49,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,79,56,29,1,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+50,MN van Wyk,P Kumar,AB de Villiers,{'wides': 1},0,1,1,80,56,30,2,wides,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+51,MN van Wyk,P Kumar,AB de Villiers,,2,0,2,82,58,31,3,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+52,MN van Wyk,P Kumar,AB de Villiers,,4,0,4,86,62,32,4,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+53,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,86,62,33,5,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+54,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,86,62,34,6,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+55,MN van Wyk,P Kumar,AB de Villiers,,1,0,1,87,63,35,7,-,9,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+56,MN van Wyk,Yuvraj Singh,AB de Villiers,,1,0,1,88,64,36,1,-,10,run out,AB de Villiers,A Nehra;SK Raina,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+57,MN van Wyk,Yuvraj Singh,JP Duminy,,1,0,1,89,65,37,2,-,10,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+58,JP Duminy,Yuvraj Singh,MN van Wyk,,0,0,0,89,0,1,3,-,10,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+59,JP Duminy,Yuvraj Singh,MN van Wyk,,0,0,0,89,0,2,4,-,10,lbw,JP Duminy,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+60,DA Miller,Yuvraj Singh,MN van Wyk,,1,0,1,90,1,1,5,-,10,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+61,MN van Wyk,Yuvraj Singh,DA Miller,,1,0,1,91,66,38,6,-,10,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+62,MN van Wyk,P Kumar,DA Miller,,1,0,1,92,67,39,1,-,11,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+63,DA Miller,P Kumar,MN van Wyk,,1,0,1,93,2,2,2,-,11,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+64,MN van Wyk,P Kumar,DA Miller,,0,0,0,93,67,40,3,-,11,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+65,MN van Wyk,P Kumar,DA Miller,,0,0,0,93,67,41,4,-,11,caught,MN van Wyk,A Nehra,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+66,J Botha,P Kumar,DA Miller,,4,0,4,97,4,1,5,-,11,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+67,J Botha,P Kumar,DA Miller,,1,0,1,98,5,2,6,-,11,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+68,J Botha,Yuvraj Singh,DA Miller,,0,0,0,98,5,3,1,-,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+69,J Botha,Yuvraj Singh,DA Miller,,0,0,0,98,5,4,2,-,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+70,J Botha,Yuvraj Singh,DA Miller,{'legbyes': 1},0,1,1,99,5,5,3,legbyes,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+71,DA Miller,Yuvraj Singh,J Botha,,0,0,0,99,2,3,4,-,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+72,DA Miller,Yuvraj Singh,J Botha,,0,0,0,99,2,4,5,-,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+73,DA Miller,Yuvraj Singh,J Botha,,2,0,2,101,4,5,6,-,12,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+74,J Botha,YK Pathan,DA Miller,,0,0,0,101,5,6,1,-,13,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+75,J Botha,YK Pathan,DA Miller,,1,0,1,102,6,7,2,-,13,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+76,DA Miller,YK Pathan,J Botha,,0,0,0,102,4,6,3,-,13,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+77,DA Miller,YK Pathan,J Botha,,6,0,6,108,10,7,4,-,13,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+78,DA Miller,YK Pathan,J Botha,,0,0,0,108,10,8,5,-,13,lbw,DA Miller,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+79,RJ Peterson,YK Pathan,J Botha,,1,0,1,109,1,1,6,-,13,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+80,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,109,1,2,1,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+81,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,109,1,3,2,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+82,RJ Peterson,Yuvraj Singh,J Botha,,1,0,1,110,2,4,3,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+83,J Botha,Yuvraj Singh,RJ Peterson,,2,0,2,112,8,8,4,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+84,J Botha,Yuvraj Singh,RJ Peterson,,1,0,1,113,9,9,5,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+85,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,113,2,5,6,-,14,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+86,J Botha,YK Pathan,RJ Peterson,,0,0,0,113,9,10,1,-,15,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+87,J Botha,YK Pathan,RJ Peterson,,6,0,6,119,15,11,2,-,15,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+88,J Botha,YK Pathan,RJ Peterson,,1,0,1,120,16,12,3,-,15,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+89,RJ Peterson,YK Pathan,J Botha,,0,0,0,120,2,6,4,-,15,caught,RJ Peterson,V Kohli,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+90,WD Parnell,YK Pathan,J Botha,,1,0,1,121,1,1,5,-,15,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+91,J Botha,YK Pathan,WD Parnell,,0,0,0,121,16,13,6,-,15,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+92,WD Parnell,R Ashwin,J Botha,,0,0,0,121,1,2,1,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+93,WD Parnell,R Ashwin,J Botha,,0,0,0,121,1,3,2,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+94,WD Parnell,R Ashwin,J Botha,,1,0,1,122,2,4,3,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+95,J Botha,R Ashwin,WD Parnell,,1,0,1,123,17,14,4,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+96,WD Parnell,R Ashwin,J Botha,,1,0,1,124,3,5,5,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+97,J Botha,R Ashwin,WD Parnell,,1,0,1,125,18,15,6,-,16,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+98,J Botha,YK Pathan,WD Parnell,,1,0,1,126,19,16,1,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+99,WD Parnell,YK Pathan,J Botha,,0,0,0,126,3,6,2,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+100,WD Parnell,YK Pathan,J Botha,,0,0,0,126,3,7,3,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+101,WD Parnell,YK Pathan,J Botha,,1,0,1,127,4,8,4,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+102,J Botha,YK Pathan,WD Parnell,,1,0,1,128,20,17,5,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+103,WD Parnell,YK Pathan,J Botha,,3,0,3,131,7,9,6,-,17,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+104,WD Parnell,A Nehra,J Botha,,4,0,4,135,11,10,1,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+105,WD Parnell,A Nehra,J Botha,,1,0,1,136,12,11,2,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+106,J Botha,A Nehra,WD Parnell,,1,0,1,137,21,18,3,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+107,WD Parnell,A Nehra,J Botha,,1,0,1,138,13,12,4,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+108,J Botha,A Nehra,WD Parnell,,1,0,1,139,22,19,5,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+109,WD Parnell,A Nehra,J Botha,,1,0,1,140,14,13,6,-,18,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+110,WD Parnell,R Ashwin,J Botha,{'wides': 1},0,1,1,141,14,14,1,wides,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+111,WD Parnell,R Ashwin,J Botha,,0,0,0,141,14,15,2,-,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+112,WD Parnell,R Ashwin,J Botha,,0,0,0,141,14,16,3,-,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+113,WD Parnell,R Ashwin,J Botha,,0,0,0,141,14,17,4,-,19,caught,WD Parnell,YK Pathan,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+114,J Botha,R Ashwin,J Theron,,1,0,1,142,23,20,5,-,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+115,J Theron,R Ashwin,J Botha,,0,0,0,142,0,1,6,-,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+116,J Theron,R Ashwin,J Botha,,0,0,0,142,0,2,7,-,19,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+117,J Botha,A Nehra,J Theron,,2,0,2,144,25,21,1,-,20,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+118,J Botha,A Nehra,J Theron,,0,0,0,144,25,22,2,-,20,caught,J Botha,RG Sharma,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+119,J Theron,A Nehra,M Ntini,{'legbyes': 1},0,1,1,145,0,3,3,legbyes,20,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+120,M Ntini,A Nehra,J Theron,,0,0,0,145,0,1,4,-,20,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+121,M Ntini,A Nehra,J Theron,,1,0,1,146,1,2,5,-,20,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India
+122,J Theron,A Nehra,M Ntini,,1,0,1,147,1,4,6,-,20,0,,,bat,India,2,Moses Mabhida Stadium,2011-01-09,South Africa,India

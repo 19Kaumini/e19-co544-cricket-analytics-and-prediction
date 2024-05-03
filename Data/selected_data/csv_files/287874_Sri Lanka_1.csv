@@ -1,0 +1,121 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,replacements,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,WU Tharanga,B Lee,ST Jayasuriya,1,0,1,1,1,1,1,0,,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+1,ST Jayasuriya,B Lee,WU Tharanga,0,0,0,1,0,1,2,0,,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+2,ST Jayasuriya,B Lee,WU Tharanga,0,0,0,1,0,2,3,lbw,ST Jayasuriya,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+3,KC Sangakkara,B Lee,WU Tharanga,1,0,1,2,1,1,4,0,,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+4,WU Tharanga,B Lee,KC Sangakkara,1,0,1,3,2,2,5,0,,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+5,KC Sangakkara,B Lee,WU Tharanga,4,0,4,7,5,2,6,0,,,1,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+6,WU Tharanga,NW Bracken,KC Sangakkara,0,0,0,7,2,3,1,0,,,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+7,WU Tharanga,NW Bracken,KC Sangakkara,0,0,0,7,2,4,2,0,,,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+8,WU Tharanga,NW Bracken,KC Sangakkara,2,0,2,9,4,5,3,0,,,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+9,WU Tharanga,NW Bracken,KC Sangakkara,0,0,0,9,4,6,4,0,,,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+10,WU Tharanga,NW Bracken,KC Sangakkara,0,0,0,9,4,7,5,0,,,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+11,WU Tharanga,NW Bracken,KC Sangakkara,0,0,0,9,4,8,6,caught,WU Tharanga,B Lee,2,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+12,DPMD Jayawardene,B Lee,KC Sangakkara,1,0,1,10,1,1,1,0,,,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+13,KC Sangakkara,B Lee,DPMD Jayawardene,0,0,0,10,5,3,2,0,,,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+14,KC Sangakkara,B Lee,DPMD Jayawardene,1,0,1,11,6,4,3,0,,,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+15,DPMD Jayawardene,B Lee,KC Sangakkara,0,0,0,11,1,2,4,caught,DPMD Jayawardene,SR Clark,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+16,LPC Silva,B Lee,KC Sangakkara,0,0,0,11,0,1,5,0,,,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+17,LPC Silva,B Lee,KC Sangakkara,0,0,0,11,0,2,6,0,,,3,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+18,KC Sangakkara,NW Bracken,LPC Silva,0,0,0,11,6,5,1,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+19,KC Sangakkara,NW Bracken,LPC Silva,1,0,1,12,7,6,2,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+20,LPC Silva,NW Bracken,KC Sangakkara,1,0,1,13,1,3,3,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+21,KC Sangakkara,NW Bracken,LPC Silva,0,0,0,13,7,7,4,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+22,KC Sangakkara,NW Bracken,LPC Silva,2,0,2,15,9,8,5,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+23,KC Sangakkara,NW Bracken,LPC Silva,0,0,0,15,9,9,6,0,,,4,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+24,LPC Silva,MG Johnson,KC Sangakkara,4,0,4,19,5,4,1,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+25,LPC Silva,MG Johnson,KC Sangakkara,0,0,0,19,5,5,2,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+26,LPC Silva,MG Johnson,KC Sangakkara,0,0,0,19,5,6,3,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+27,LPC Silva,MG Johnson,KC Sangakkara,0,1,1,20,5,7,4,0,,,5,{'wides': 1},wides,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+28,LPC Silva,MG Johnson,KC Sangakkara,0,0,0,20,5,8,5,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+29,LPC Silva,MG Johnson,KC Sangakkara,1,0,1,21,6,9,6,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+30,KC Sangakkara,MG Johnson,LPC Silva,0,0,0,21,9,10,7,0,,,5,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+31,LPC Silva,SR Clark,KC Sangakkara,0,0,0,21,6,10,1,0,,,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+32,LPC Silva,SR Clark,KC Sangakkara,0,0,0,21,6,11,2,0,,,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+33,LPC Silva,SR Clark,KC Sangakkara,0,0,0,21,6,12,3,caught,LPC Silva,B Lee,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+34,KC Sangakkara,SR Clark,TM Dilshan,4,0,4,25,13,11,4,0,,,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+35,KC Sangakkara,SR Clark,TM Dilshan,1,0,1,26,14,12,5,0,,,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+36,TM Dilshan,SR Clark,KC Sangakkara,0,0,0,26,0,1,6,0,,,6,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+37,KC Sangakkara,MG Johnson,TM Dilshan,0,0,0,26,14,13,1,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+38,KC Sangakkara,MG Johnson,TM Dilshan,0,0,0,26,14,14,2,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+39,KC Sangakkara,MG Johnson,TM Dilshan,0,0,0,26,14,15,3,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+40,KC Sangakkara,MG Johnson,TM Dilshan,1,0,1,27,15,16,4,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+41,TM Dilshan,MG Johnson,KC Sangakkara,1,0,1,28,1,2,5,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+42,KC Sangakkara,MG Johnson,TM Dilshan,0,0,0,28,15,17,6,0,,,7,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+43,TM Dilshan,SR Clark,KC Sangakkara,2,0,2,30,3,3,1,0,,,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+44,TM Dilshan,SR Clark,KC Sangakkara,0,0,0,30,3,4,2,0,,,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+45,TM Dilshan,SR Clark,KC Sangakkara,0,0,0,30,3,5,3,caught,TM Dilshan,AC Gilchrist,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+46,J Mubarak,SR Clark,KC Sangakkara,0,0,0,30,0,1,4,0,,,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+47,J Mubarak,SR Clark,KC Sangakkara,4,0,4,34,4,2,5,0,,,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+48,J Mubarak,SR Clark,KC Sangakkara,0,0,0,34,4,3,6,0,,,8,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+49,KC Sangakkara,MG Johnson,J Mubarak,1,0,1,35,16,18,1,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+50,J Mubarak,MG Johnson,KC Sangakkara,0,0,0,35,4,4,2,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+51,J Mubarak,MG Johnson,KC Sangakkara,1,0,1,36,5,5,3,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+52,KC Sangakkara,MG Johnson,J Mubarak,1,0,1,37,17,19,4,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+53,J Mubarak,MG Johnson,KC Sangakkara,1,0,1,38,6,6,5,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+54,KC Sangakkara,MG Johnson,J Mubarak,1,0,1,39,18,20,6,0,,,9,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+55,KC Sangakkara,SR Clark,J Mubarak,0,0,0,39,18,21,1,0,,,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+56,KC Sangakkara,SR Clark,J Mubarak,4,0,4,43,22,22,2,0,,,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+57,KC Sangakkara,SR Clark,J Mubarak,0,0,0,43,22,23,3,caught,KC Sangakkara,MJ Clarke,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+58,MF Maharoof,SR Clark,J Mubarak,0,0,0,43,0,1,4,0,,,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+59,MF Maharoof,SR Clark,J Mubarak,0,0,0,43,0,2,5,caught,MF Maharoof,MJ Clarke,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+60,WPUJC Vaas,SR Clark,J Mubarak,0,0,0,43,0,1,6,0,,,10,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+61,J Mubarak,B Lee,WPUJC Vaas,1,0,1,44,7,7,1,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+62,WPUJC Vaas,B Lee,J Mubarak,4,0,4,48,4,2,2,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+63,WPUJC Vaas,B Lee,J Mubarak,1,0,1,49,5,3,3,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+64,J Mubarak,B Lee,WPUJC Vaas,4,0,4,53,11,8,4,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+65,J Mubarak,B Lee,WPUJC Vaas,0,0,0,53,11,9,5,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+66,J Mubarak,B Lee,WPUJC Vaas,2,0,2,55,13,10,6,0,,,11,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+67,WPUJC Vaas,SR Clark,J Mubarak,0,0,0,55,5,4,1,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+68,WPUJC Vaas,SR Clark,J Mubarak,1,0,1,56,6,5,2,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+69,J Mubarak,SR Clark,WPUJC Vaas,1,0,1,57,14,11,3,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+70,WPUJC Vaas,SR Clark,J Mubarak,1,1,2,59,7,6,4,0,,,12,{'noballs': 1},noballs,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+71,J Mubarak,SR Clark,WPUJC Vaas,1,0,1,60,15,12,5,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+72,WPUJC Vaas,SR Clark,J Mubarak,0,0,0,60,7,7,6,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+73,WPUJC Vaas,SR Clark,J Mubarak,0,0,0,60,7,8,7,0,,,12,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+74,J Mubarak,SR Watson,WPUJC Vaas,1,0,1,61,16,13,1,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+75,WPUJC Vaas,SR Watson,J Mubarak,1,0,1,62,8,9,2,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+76,J Mubarak,SR Watson,WPUJC Vaas,1,0,1,63,17,14,3,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+77,WPUJC Vaas,SR Watson,J Mubarak,0,0,0,63,8,10,4,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+78,WPUJC Vaas,SR Watson,J Mubarak,1,0,1,64,9,11,5,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+79,J Mubarak,SR Watson,WPUJC Vaas,1,0,1,65,18,15,6,0,,,13,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+80,J Mubarak,NW Bracken,WPUJC Vaas,4,0,4,69,22,16,1,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+81,J Mubarak,NW Bracken,WPUJC Vaas,0,0,0,69,22,17,2,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+82,J Mubarak,NW Bracken,WPUJC Vaas,1,0,1,70,23,18,3,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+83,WPUJC Vaas,NW Bracken,J Mubarak,0,0,0,70,9,12,4,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+84,WPUJC Vaas,NW Bracken,J Mubarak,1,0,1,71,10,13,5,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+85,J Mubarak,NW Bracken,WPUJC Vaas,1,0,1,72,24,19,6,0,,,14,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+86,J Mubarak,SR Watson,WPUJC Vaas,1,0,1,73,25,20,1,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+87,WPUJC Vaas,SR Watson,J Mubarak,0,1,1,74,10,14,2,0,,,15,{'noballs': 1},noballs,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+88,WPUJC Vaas,SR Watson,J Mubarak,1,0,1,75,11,15,3,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+89,J Mubarak,SR Watson,WPUJC Vaas,0,0,0,75,25,21,4,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+90,J Mubarak,SR Watson,WPUJC Vaas,1,0,1,76,26,22,5,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+91,WPUJC Vaas,SR Watson,J Mubarak,1,0,1,77,12,16,6,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+92,J Mubarak,SR Watson,WPUJC Vaas,0,0,0,77,26,23,7,0,,,15,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+93,WPUJC Vaas,MG Johnson,J Mubarak,1,0,1,78,13,17,1,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+94,J Mubarak,MG Johnson,WPUJC Vaas,1,0,1,79,27,24,2,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+95,WPUJC Vaas,MG Johnson,J Mubarak,0,0,0,79,13,18,3,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+96,WPUJC Vaas,MG Johnson,J Mubarak,1,0,1,80,14,19,4,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+97,J Mubarak,MG Johnson,WPUJC Vaas,1,0,1,81,28,25,5,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+98,WPUJC Vaas,MG Johnson,J Mubarak,1,0,1,82,15,20,6,0,,,16,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+99,WPUJC Vaas,SR Watson,J Mubarak,1,0,1,83,16,21,1,0,,,17,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+100,J Mubarak,SR Watson,WPUJC Vaas,0,0,0,83,28,26,2,caught,J Mubarak,A Symonds,17,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+101,WPUJC Vaas,SR Watson,SL Malinga,1,0,1,84,17,22,3,0,,,17,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+102,SL Malinga,SR Watson,WPUJC Vaas,0,0,0,84,0,1,4,0,,,17,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+103,SL Malinga,SR Watson,WPUJC Vaas,0,1,1,85,0,2,5,0,,,17,{'legbyes': 1},legbyes,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+104,WPUJC Vaas,SR Watson,SL Malinga,1,0,1,86,18,23,6,0,,,17,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+105,WPUJC Vaas,B Lee,SL Malinga,1,0,1,87,19,24,1,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+106,SL Malinga,B Lee,WPUJC Vaas,1,0,1,88,1,3,2,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+107,WPUJC Vaas,B Lee,SL Malinga,1,0,1,89,20,25,3,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+108,SL Malinga,B Lee,WPUJC Vaas,1,0,1,90,2,4,4,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+109,WPUJC Vaas,B Lee,SL Malinga,1,0,1,91,21,26,5,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+110,SL Malinga,B Lee,WPUJC Vaas,1,0,1,92,3,5,6,0,,,18,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+111,SL Malinga,SR Watson,WPUJC Vaas,0,0,0,92,3,6,1,0,,,19,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+112,SL Malinga,SR Watson,WPUJC Vaas,6,0,6,98,9,7,2,0,,,19,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+113,SL Malinga,A Symonds,WPUJC Vaas,1,0,1,99,10,8,3,0,,,19,,-,"{'role': [{'in': 'A Symonds', 'reason': 'injury', 'role': 'bowler'}]}",field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+114,WPUJC Vaas,A Symonds,SL Malinga,0,0,0,99,21,27,4,0,,,19,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+115,WPUJC Vaas,A Symonds,SL Malinga,0,0,0,99,21,28,5,caught,WPUJC Vaas,B Lee,19,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+116,SL Malinga,A Symonds,CRD Fernando,1,0,1,100,11,9,6,0,,,19,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+117,SL Malinga,NW Bracken,CRD Fernando,1,0,1,101,12,10,1,0,,,20,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+118,CRD Fernando,NW Bracken,SL Malinga,0,0,0,101,0,1,2,0,,,20,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia
+119,CRD Fernando,NW Bracken,SL Malinga,0,0,0,101,0,2,3,caught and bowled,CRD Fernando,,20,,-,,field,Australia,1,Newlands,2007-09-20,Sri Lanka,Australia

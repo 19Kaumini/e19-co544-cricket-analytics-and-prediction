@@ -1,0 +1,124 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,DJM Short,DJ Willey,AJ Finch,,0,0,0,0,0,1,1,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+1,DJM Short,DJ Willey,AJ Finch,,0,0,0,0,0,2,2,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+2,DJM Short,DJ Willey,AJ Finch,,0,0,0,0,0,3,3,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+3,DJM Short,DJ Willey,AJ Finch,{'wides': 1},0,1,1,1,0,4,4,wides,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+4,DJM Short,DJ Willey,AJ Finch,,2,0,2,3,2,5,5,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+5,DJM Short,DJ Willey,AJ Finch,,1,0,1,4,3,6,6,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+6,AJ Finch,DJ Willey,DJM Short,,0,0,0,4,0,1,7,-,1,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+7,DJM Short,CJ Jordan,AJ Finch,,0,0,0,4,3,7,1,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+8,DJM Short,CJ Jordan,AJ Finch,,4,0,4,8,7,8,2,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+9,DJM Short,CJ Jordan,AJ Finch,,4,0,4,12,11,9,3,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+10,DJM Short,CJ Jordan,AJ Finch,,4,0,4,16,15,10,4,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+11,DJM Short,CJ Jordan,AJ Finch,,1,0,1,17,16,11,5,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+12,AJ Finch,CJ Jordan,DJM Short,,0,0,0,17,0,2,6,-,2,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+13,DJM Short,LE Plunkett,AJ Finch,,0,0,0,17,16,12,1,-,3,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+14,DJM Short,LE Plunkett,AJ Finch,,0,0,0,17,16,13,2,-,3,caught,DJM Short,MM Ali,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+15,GJ Maxwell,LE Plunkett,AJ Finch,,1,0,1,18,1,1,3,-,3,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+16,AJ Finch,LE Plunkett,GJ Maxwell,,1,0,1,19,1,3,4,-,3,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+17,GJ Maxwell,LE Plunkett,AJ Finch,,1,0,1,20,2,2,5,-,3,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+18,AJ Finch,LE Plunkett,GJ Maxwell,,4,0,4,24,5,4,6,-,3,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+19,GJ Maxwell,CJ Jordan,AJ Finch,,2,0,2,26,4,3,1,-,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+20,GJ Maxwell,CJ Jordan,AJ Finch,,2,0,2,28,6,4,2,-,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+21,GJ Maxwell,CJ Jordan,AJ Finch,{'noballs': 1},0,1,1,29,6,5,3,noballs,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+22,GJ Maxwell,CJ Jordan,AJ Finch,,4,0,4,33,10,6,4,-,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+23,GJ Maxwell,CJ Jordan,AJ Finch,,0,0,0,33,10,7,5,-,4,bowled,GJ Maxwell,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+24,TM Head,CJ Jordan,AJ Finch,,5,0,5,38,5,1,6,-,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+25,AJ Finch,CJ Jordan,TM Head,,1,0,1,39,6,5,7,-,4,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+26,AJ Finch,LE Plunkett,TM Head,,1,0,1,40,7,6,1,-,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+27,TM Head,LE Plunkett,AJ Finch,,4,0,4,44,9,2,2,-,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+28,TM Head,LE Plunkett,AJ Finch,,0,0,0,44,9,3,3,-,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+29,TM Head,LE Plunkett,AJ Finch,,1,0,1,45,10,4,4,-,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+30,AJ Finch,LE Plunkett,TM Head,{'byes': 1},0,1,1,46,7,7,5,byes,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+31,TM Head,LE Plunkett,AJ Finch,,1,0,1,47,11,5,6,-,5,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+32,TM Head,DJ Willey,AJ Finch,{'wides': 1},0,1,1,48,11,6,1,wides,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+33,TM Head,DJ Willey,AJ Finch,,1,0,1,49,12,7,2,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+34,AJ Finch,DJ Willey,TM Head,,4,0,4,53,11,8,3,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+35,AJ Finch,DJ Willey,TM Head,,0,0,0,53,11,9,4,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+36,AJ Finch,DJ Willey,TM Head,,1,0,1,54,12,10,5,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+37,TM Head,DJ Willey,AJ Finch,,1,0,1,55,13,8,6,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+38,AJ Finch,DJ Willey,TM Head,,4,0,4,59,16,11,7,-,6,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+39,TM Head,AU Rashid,AJ Finch,,1,0,1,60,14,9,1,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+40,AJ Finch,AU Rashid,TM Head,,0,0,0,60,16,12,2,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+41,AJ Finch,AU Rashid,TM Head,,0,0,0,60,16,13,3,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+42,AJ Finch,AU Rashid,TM Head,,1,0,1,61,17,14,4,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+43,TM Head,AU Rashid,AJ Finch,,1,0,1,62,15,10,5,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+44,AJ Finch,AU Rashid,TM Head,,1,0,1,63,18,15,6,-,7,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+45,AJ Finch,MM Ali,TM Head,,1,0,1,64,19,16,1,-,8,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+46,TM Head,MM Ali,AJ Finch,,0,0,0,64,15,11,2,-,8,caught,TM Head,AD Hales,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+47,AJ Finch,MM Ali,AT Carey,,0,0,0,64,19,17,3,-,8,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+48,AJ Finch,MM Ali,AT Carey,,4,0,4,68,23,18,4,-,8,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+49,AJ Finch,MM Ali,AT Carey,,1,0,1,69,24,19,5,-,8,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+50,AT Carey,MM Ali,AJ Finch,,1,0,1,70,1,1,6,-,8,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+51,AT Carey,AU Rashid,AJ Finch,,2,0,2,72,3,2,1,-,9,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+52,AT Carey,AU Rashid,AJ Finch,,0,0,0,72,3,3,2,-,9,bowled,AT Carey,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+53,MP Stoinis,AU Rashid,AJ Finch,,0,0,0,72,0,1,3,-,9,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+54,MP Stoinis,AU Rashid,AJ Finch,,0,0,0,72,0,2,4,-,9,caught,MP Stoinis,JJ Roy,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+55,AC Agar,AU Rashid,AJ Finch,,0,0,0,72,0,1,5,-,9,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+56,AC Agar,AU Rashid,AJ Finch,,1,0,1,73,1,2,6,-,9,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+57,AC Agar,MM Ali,AJ Finch,,1,0,1,74,2,3,1,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+58,AJ Finch,MM Ali,AC Agar,,6,0,6,80,30,20,2,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+59,AJ Finch,MM Ali,AC Agar,,1,0,1,81,31,21,3,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+60,AC Agar,MM Ali,AJ Finch,,0,0,0,81,2,4,4,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+61,AC Agar,MM Ali,AJ Finch,,1,0,1,82,3,5,5,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+62,AJ Finch,MM Ali,AC Agar,,1,0,1,83,32,22,6,-,10,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+63,AJ Finch,AU Rashid,AC Agar,,1,0,1,84,33,23,1,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+64,AC Agar,AU Rashid,AJ Finch,,0,0,0,84,3,6,2,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+65,AC Agar,AU Rashid,AJ Finch,,0,0,0,84,3,7,3,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+66,AC Agar,AU Rashid,AJ Finch,,6,0,6,90,9,8,4,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+67,AC Agar,AU Rashid,AJ Finch,,0,0,0,90,9,9,5,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+68,AC Agar,AU Rashid,AJ Finch,,0,0,0,90,9,10,6,-,11,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+69,AJ Finch,MM Ali,AC Agar,,6,0,6,96,39,24,1,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+70,AJ Finch,MM Ali,AC Agar,,1,0,1,97,40,25,2,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+71,AC Agar,MM Ali,AJ Finch,,1,0,1,98,10,11,3,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+72,AJ Finch,MM Ali,AC Agar,,4,0,4,102,44,26,4,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+73,AJ Finch,MM Ali,AC Agar,,6,0,6,108,50,27,5,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+74,AJ Finch,MM Ali,AC Agar,,1,0,1,109,51,28,6,-,12,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+75,AJ Finch,LE Plunkett,AC Agar,,6,0,6,115,57,29,1,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+76,AJ Finch,LE Plunkett,AC Agar,,0,0,0,115,57,30,2,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+77,AJ Finch,LE Plunkett,AC Agar,,1,0,1,116,58,31,3,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+78,AC Agar,LE Plunkett,AJ Finch,,4,0,4,120,14,12,4,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+79,AC Agar,LE Plunkett,AJ Finch,,1,0,1,121,15,13,5,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+80,AJ Finch,LE Plunkett,AC Agar,,1,0,1,122,59,32,6,-,13,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+81,AJ Finch,MM Ali,AC Agar,,1,0,1,123,60,33,1,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+82,AC Agar,MM Ali,AJ Finch,,4,0,4,127,19,14,2,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+83,AC Agar,MM Ali,AJ Finch,,1,0,1,128,20,15,3,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+84,AJ Finch,MM Ali,AC Agar,,6,0,6,134,66,34,4,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+85,AJ Finch,MM Ali,AC Agar,,4,0,4,138,70,35,5,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+86,AJ Finch,MM Ali,AC Agar,,6,0,6,144,76,36,6,-,14,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+87,AC Agar,CJ Jordan,AJ Finch,,1,0,1,145,21,16,1,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+88,AJ Finch,CJ Jordan,AC Agar,,2,0,2,147,78,37,2,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+89,AJ Finch,CJ Jordan,AC Agar,,1,0,1,148,79,38,3,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+90,AC Agar,CJ Jordan,AJ Finch,,4,0,4,152,25,17,4,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+91,AC Agar,CJ Jordan,AJ Finch,,1,0,1,153,26,18,5,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+92,AJ Finch,CJ Jordan,AC Agar,,1,0,1,154,80,39,6,-,15,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+93,AJ Finch,AU Rashid,AC Agar,,4,0,4,158,84,40,1,-,16,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+94,AJ Finch,AU Rashid,AC Agar,,0,0,0,158,84,41,2,-,16,caught,AJ Finch,CJ Jordan,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+95,AJ Tye,AU Rashid,AC Agar,,1,0,1,159,1,1,3,-,16,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+96,AC Agar,AU Rashid,AJ Tye,,1,0,1,160,27,19,4,-,16,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+97,AJ Tye,AU Rashid,AC Agar,,6,0,6,166,7,2,5,-,16,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+98,AJ Tye,AU Rashid,AC Agar,,1,0,1,167,8,3,6,-,16,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+99,AJ Tye,DJ Willey,AC Agar,,1,0,1,168,9,4,1,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+100,AC Agar,DJ Willey,AJ Tye,{'wides': 1},0,1,1,169,27,20,2,wides,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+101,AC Agar,DJ Willey,AJ Tye,,0,0,0,169,27,21,3,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+102,AC Agar,DJ Willey,AJ Tye,,1,0,1,170,28,22,4,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+103,AJ Tye,DJ Willey,AC Agar,,1,0,1,171,10,5,5,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+104,AC Agar,DJ Willey,AJ Tye,,1,0,1,172,29,23,6,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+105,AJ Tye,DJ Willey,AC Agar,,1,0,1,173,11,6,7,-,17,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+106,AJ Tye,CJ Jordan,AC Agar,,1,0,1,174,12,7,1,-,18,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+107,AC Agar,CJ Jordan,AJ Tye,,0,0,0,174,29,24,2,-,18,bowled,AC Agar,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+108,KW Richardson,CJ Jordan,AJ Tye,,0,0,0,174,0,1,3,-,18,caught,KW Richardson,AD Hales,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+109,MJ Swepson,CJ Jordan,AJ Tye,,0,0,0,174,0,1,4,-,18,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+110,MJ Swepson,CJ Jordan,AJ Tye,,1,0,1,175,1,2,5,-,18,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+111,AJ Tye,CJ Jordan,MJ Swepson,,2,0,2,177,14,8,6,-,18,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+112,MJ Swepson,DJ Willey,AJ Tye,,1,0,1,178,2,3,1,-,19,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+113,AJ Tye,DJ Willey,MJ Swepson,,0,0,0,178,14,9,2,-,19,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+114,AJ Tye,DJ Willey,MJ Swepson,,6,0,6,184,20,10,3,-,19,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+115,AJ Tye,DJ Willey,MJ Swepson,,0,0,0,184,20,11,4,-,19,caught,AJ Tye,LE Plunkett,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+116,MJ Swepson,DJ Willey,B Stanlake,,1,0,1,185,3,4,5,-,19,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+117,B Stanlake,DJ Willey,MJ Swepson,,1,0,1,186,1,1,6,-,19,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+118,B Stanlake,LE Plunkett,MJ Swepson,,0,0,0,186,1,2,1,-,20,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+119,B Stanlake,LE Plunkett,MJ Swepson,{'wides': 1},0,1,1,187,1,3,2,wides,20,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+120,B Stanlake,LE Plunkett,MJ Swepson,,0,0,0,187,1,4,3,-,20,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+121,B Stanlake,LE Plunkett,MJ Swepson,,6,0,6,193,7,5,4,-,20,0,,,field,Australia,2,Edgbaston,2018-06-27,Australia,England
+122,B Stanlake,LE Plunkett,MJ Swepson,,0,0,0,193,7,6,5,-,20,caught,B Stanlake,EJG Morgan,field,Australia,2,Edgbaston,2018-06-27,Australia,England

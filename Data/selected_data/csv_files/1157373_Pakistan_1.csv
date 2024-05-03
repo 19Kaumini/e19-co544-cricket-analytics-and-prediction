@@ -1,0 +1,125 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Babar Azam,GJ Maxwell,Fakhar Zaman,,1,0,1,1,1,1,1,-,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+1,Fakhar Zaman,GJ Maxwell,Babar Azam,,0,0,0,1,0,1,2,-,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+2,Fakhar Zaman,GJ Maxwell,Babar Azam,{'legbyes': 1},0,1,1,2,0,2,3,legbyes,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+3,Babar Azam,GJ Maxwell,Fakhar Zaman,,0,0,0,2,1,2,4,-,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+4,Babar Azam,GJ Maxwell,Fakhar Zaman,{'wides': 1},0,1,1,3,1,3,5,wides,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+5,Babar Azam,GJ Maxwell,Fakhar Zaman,,1,0,1,4,2,4,6,-,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+6,Fakhar Zaman,GJ Maxwell,Babar Azam,,2,0,2,6,2,3,7,-,1,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+7,Babar Azam,NM Coulter-Nile,Fakhar Zaman,,4,0,4,10,6,5,1,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+8,Babar Azam,NM Coulter-Nile,Fakhar Zaman,,1,0,1,11,7,6,2,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+9,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,2,0,2,13,4,4,3,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+10,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,0,0,0,13,4,5,4,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+11,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,0,0,0,13,4,6,5,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+12,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,1,0,1,14,5,7,6,-,2,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+13,Fakhar Zaman,B Stanlake,Babar Azam,,4,0,4,18,9,8,1,-,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+14,Fakhar Zaman,B Stanlake,Babar Azam,,1,0,1,19,10,9,2,-,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+15,Babar Azam,B Stanlake,Fakhar Zaman,,0,0,0,19,7,7,3,-,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+16,Babar Azam,B Stanlake,Fakhar Zaman,,1,0,1,20,8,8,4,-,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+17,Fakhar Zaman,B Stanlake,Babar Azam,{'legbyes': 1},0,1,1,21,10,10,5,legbyes,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+18,Babar Azam,B Stanlake,Fakhar Zaman,,1,0,1,22,9,9,6,-,3,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+19,Babar Azam,NM Coulter-Nile,Fakhar Zaman,,4,0,4,26,13,10,1,-,4,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+20,Babar Azam,NM Coulter-Nile,Fakhar Zaman,,1,0,1,27,14,11,2,-,4,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+21,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,1,0,1,28,11,11,3,-,4,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+22,Babar Azam,NM Coulter-Nile,Fakhar Zaman,,1,0,1,29,15,12,4,-,4,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+23,Fakhar Zaman,NM Coulter-Nile,Babar Azam,,0,0,0,29,11,12,5,-,4,"{'by': 'Australia', 'batter': 'Fakhar Zaman', 'decision': 'upheld'}",caught,Fakhar Zaman,AT Carey,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+24,Mohammad Hafeez,NM Coulter-Nile,Babar Azam,,0,0,0,29,0,1,6,-,4,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+25,Babar Azam,B Stanlake,Mohammad Hafeez,,1,0,1,30,16,13,1,-,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+26,Mohammad Hafeez,B Stanlake,Babar Azam,{'legbyes': 1},0,1,1,31,0,2,2,legbyes,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+27,Babar Azam,B Stanlake,Mohammad Hafeez,,4,0,4,35,20,14,3,-,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+28,Babar Azam,B Stanlake,Mohammad Hafeez,,1,0,1,36,21,15,4,-,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+29,Mohammad Hafeez,B Stanlake,Babar Azam,,4,0,4,40,4,3,5,-,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+30,Mohammad Hafeez,B Stanlake,Babar Azam,,0,0,0,40,4,4,6,-,5,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+31,Babar Azam,AJ Tye,Mohammad Hafeez,,1,0,1,41,22,16,1,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+32,Mohammad Hafeez,AJ Tye,Babar Azam,,2,0,2,43,6,5,2,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+33,Mohammad Hafeez,AJ Tye,Babar Azam,{'wides': 1},0,1,1,44,6,6,3,wides,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+34,Mohammad Hafeez,AJ Tye,Babar Azam,{'wides': 1},0,1,1,45,6,7,4,wides,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+35,Mohammad Hafeez,AJ Tye,Babar Azam,,0,0,0,45,6,8,5,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+36,Mohammad Hafeez,AJ Tye,Babar Azam,,0,0,0,45,6,9,6,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+37,Mohammad Hafeez,AJ Tye,Babar Azam,,0,0,0,45,6,10,7,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+38,Mohammad Hafeez,AJ Tye,Babar Azam,,1,0,1,46,7,11,8,-,6,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+39,Mohammad Hafeez,MR Marsh,Babar Azam,,0,0,0,46,7,12,1,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+40,Mohammad Hafeez,MR Marsh,Babar Azam,,4,0,4,50,11,13,2,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+41,Mohammad Hafeez,MR Marsh,Babar Azam,,1,0,1,51,12,14,3,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+42,Babar Azam,MR Marsh,Mohammad Hafeez,,0,0,0,51,22,17,4,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+43,Babar Azam,MR Marsh,Mohammad Hafeez,,0,0,0,51,22,18,5,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+44,Babar Azam,MR Marsh,Mohammad Hafeez,,0,0,0,51,22,19,6,-,7,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+45,Mohammad Hafeez,A Zampa,Babar Azam,,6,0,6,57,18,15,1,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+46,Mohammad Hafeez,A Zampa,Babar Azam,,0,0,0,57,18,16,2,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+47,Mohammad Hafeez,A Zampa,Babar Azam,,1,0,1,58,19,17,3,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+48,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,59,23,20,4,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+49,Mohammad Hafeez,A Zampa,Babar Azam,,0,0,0,59,19,18,5,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+50,Mohammad Hafeez,A Zampa,Babar Azam,,0,0,0,59,19,19,6,-,8,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+51,Babar Azam,DJM Short,Mohammad Hafeez,,1,0,1,60,24,21,1,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+52,Mohammad Hafeez,DJM Short,Babar Azam,,1,0,1,61,20,20,2,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+53,Babar Azam,DJM Short,Mohammad Hafeez,,1,0,1,62,25,22,3,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+54,Mohammad Hafeez,DJM Short,Babar Azam,,0,0,0,62,20,21,4,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+55,Mohammad Hafeez,DJM Short,Babar Azam,,1,0,1,63,21,22,5,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+56,Babar Azam,DJM Short,Mohammad Hafeez,,1,0,1,64,26,23,6,-,9,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+57,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,65,27,24,1,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+58,Mohammad Hafeez,A Zampa,Babar Azam,,0,0,0,65,21,23,2,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+59,Mohammad Hafeez,A Zampa,Babar Azam,,1,0,1,66,22,24,3,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+60,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,67,28,25,4,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+61,Mohammad Hafeez,A Zampa,Babar Azam,,1,0,1,68,23,25,5,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+62,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,69,29,26,6,-,10,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+63,Babar Azam,DJM Short,Mohammad Hafeez,,1,0,1,70,30,27,1,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+64,Mohammad Hafeez,DJM Short,Babar Azam,,1,0,1,71,24,26,2,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+65,Babar Azam,DJM Short,Mohammad Hafeez,,2,0,2,73,32,28,3,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+66,Babar Azam,DJM Short,Mohammad Hafeez,,2,0,2,75,34,29,4,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+67,Babar Azam,DJM Short,Mohammad Hafeez,,1,0,1,76,35,30,5,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+68,Mohammad Hafeez,DJM Short,Babar Azam,,1,0,1,77,25,27,6,-,11,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+69,Mohammad Hafeez,AJ Tye,Babar Azam,,4,0,4,81,29,28,1,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+70,Mohammad Hafeez,AJ Tye,Babar Azam,,1,0,1,82,30,29,2,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+71,Babar Azam,AJ Tye,Mohammad Hafeez,,1,0,1,83,36,31,3,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+72,Mohammad Hafeez,AJ Tye,Babar Azam,,1,0,1,84,31,30,4,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+73,Babar Azam,AJ Tye,Mohammad Hafeez,,1,0,1,85,37,32,5,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+74,Mohammad Hafeez,AJ Tye,Babar Azam,,1,0,1,86,32,31,6,-,12,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+75,Mohammad Hafeez,A Zampa,Babar Azam,,1,0,1,87,33,32,1,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+76,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,88,38,33,2,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+77,Mohammad Hafeez,A Zampa,Babar Azam,,1,0,1,89,34,33,3,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+78,Babar Azam,A Zampa,Mohammad Hafeez,,0,0,0,89,38,34,4,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+79,Babar Azam,A Zampa,Mohammad Hafeez,,0,0,0,89,38,35,5,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+80,Babar Azam,A Zampa,Mohammad Hafeez,,1,0,1,90,39,36,6,-,13,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+81,Babar Azam,B Stanlake,Mohammad Hafeez,,0,0,0,90,39,37,1,-,14,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+82,Babar Azam,B Stanlake,Mohammad Hafeez,,2,0,2,92,41,38,2,-,14,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+83,Babar Azam,B Stanlake,Mohammad Hafeez,,1,0,1,93,42,39,3,-,14,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+84,Mohammad Hafeez,B Stanlake,Babar Azam,,6,0,6,99,40,34,4,-,14,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+85,Mohammad Hafeez,B Stanlake,Babar Azam,,0,0,0,99,40,35,5,-,14,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+86,Mohammad Hafeez,B Stanlake,Babar Azam,,0,0,0,99,40,36,6,-,14,,caught,Mohammad Hafeez,DJM Short,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+87,Babar Azam,A Zampa,Shoaib Malik,{'legbyes': 1},0,1,1,100,42,40,1,legbyes,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+88,Shoaib Malik,A Zampa,Babar Azam,,0,0,0,100,0,1,2,-,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+89,Shoaib Malik,A Zampa,Babar Azam,,1,0,1,101,1,2,3,-,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+90,Babar Azam,A Zampa,Shoaib Malik,,1,0,1,102,43,41,4,-,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+91,Shoaib Malik,A Zampa,Babar Azam,,1,0,1,103,2,3,5,-,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+92,Babar Azam,A Zampa,Shoaib Malik,,1,0,1,104,44,42,6,-,15,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+93,Babar Azam,DJM Short,Shoaib Malik,,1,0,1,105,45,43,1,-,16,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+94,Shoaib Malik,DJM Short,Babar Azam,,1,0,1,106,3,4,2,-,16,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+95,Babar Azam,DJM Short,Shoaib Malik,,0,0,0,106,45,44,3,-,16,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+96,Babar Azam,DJM Short,Shoaib Malik,,0,0,0,106,45,45,4,-,16,,caught,Babar Azam,AJ Finch,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+97,Asif Ali,DJM Short,Shoaib Malik,,0,0,0,106,0,1,5,-,16,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+98,Asif Ali,DJM Short,Shoaib Malik,,1,0,1,107,1,2,6,-,16,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+99,Asif Ali,B Stanlake,Shoaib Malik,,1,0,1,108,2,3,1,-,17,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+100,Shoaib Malik,B Stanlake,Asif Ali,,1,0,1,109,4,5,2,-,17,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+101,Asif Ali,B Stanlake,Shoaib Malik,,6,0,6,115,8,4,3,-,17,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+102,Asif Ali,B Stanlake,Shoaib Malik,,1,0,1,116,9,5,4,-,17,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+103,Shoaib Malik,B Stanlake,Asif Ali,,1,0,1,117,5,6,5,-,17,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+104,Asif Ali,B Stanlake,Shoaib Malik,,0,0,0,117,9,6,6,-,17,,caught,Asif Ali,DJM Short,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+105,Shoaib Malik,AJ Tye,Faheem Ashraf,,4,0,4,121,9,7,1,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+106,Shoaib Malik,AJ Tye,Faheem Ashraf,,1,0,1,122,10,8,2,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+107,Faheem Ashraf,AJ Tye,Shoaib Malik,,1,0,1,123,1,1,3,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+108,Shoaib Malik,AJ Tye,Faheem Ashraf,,1,0,1,124,11,9,4,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+109,Faheem Ashraf,AJ Tye,Shoaib Malik,{'wides': 1},0,1,1,125,1,2,5,wides,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+110,Faheem Ashraf,AJ Tye,Shoaib Malik,,1,0,1,126,2,3,6,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+111,Shoaib Malik,AJ Tye,Faheem Ashraf,,2,0,2,128,13,10,7,-,18,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+112,Faheem Ashraf,NM Coulter-Nile,Shoaib Malik,,1,0,1,129,3,4,1,-,19,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+113,Shoaib Malik,NM Coulter-Nile,Faheem Ashraf,,1,0,1,130,14,11,2,-,19,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+114,Faheem Ashraf,NM Coulter-Nile,Shoaib Malik,{'legbyes': 1},0,1,1,131,3,5,3,legbyes,19,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+115,Shoaib Malik,NM Coulter-Nile,Faheem Ashraf,,0,0,0,131,14,12,4,-,19,,caught,Shoaib Malik,MR Marsh,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+116,Hasan Ali,NM Coulter-Nile,Faheem Ashraf,,0,0,0,131,0,1,5,-,19,,caught,Hasan Ali,MR Marsh,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+117,Faheem Ashraf,NM Coulter-Nile,Imad Wasim,,1,0,1,132,4,6,6,-,19,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+118,Faheem Ashraf,AJ Tye,Imad Wasim,,4,0,4,136,8,7,1,-,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+119,Faheem Ashraf,AJ Tye,Imad Wasim,,2,0,2,138,10,8,2,-,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+120,Faheem Ashraf,AJ Tye,Imad Wasim,,1,0,1,139,11,9,3,-,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+121,Imad Wasim,AJ Tye,Faheem Ashraf,,1,0,1,140,1,1,4,-,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+122,Faheem Ashraf,AJ Tye,Imad Wasim,,6,0,6,146,17,10,5,-,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia
+123,Faheem Ashraf,AJ Tye,Imad Wasim,{'legbyes': 1},0,1,1,147,17,11,6,legbyes,20,,0,,,bat,Pakistan,1,Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia

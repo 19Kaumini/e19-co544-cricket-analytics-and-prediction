@@ -1,0 +1,57 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Ishan Kishan,TG Southee,RR Pant,0,0,0,0,0,1,1,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+1,Ishan Kishan,TG Southee,RR Pant,0,0,0,0,0,2,2,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+2,Ishan Kishan,TG Southee,RR Pant,0,0,0,0,0,3,3,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+3,Ishan Kishan,TG Southee,RR Pant,6,0,6,6,6,4,4,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+4,Ishan Kishan,TG Southee,RR Pant,0,0,0,6,6,5,5,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+5,Ishan Kishan,TG Southee,RR Pant,0,0,0,6,6,6,6,1,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+6,RR Pant,AF Milne,Ishan Kishan,3,0,3,9,3,1,1,2,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+7,Ishan Kishan,AF Milne,RR Pant,0,0,0,9,6,7,2,2,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+8,Ishan Kishan,AF Milne,RR Pant,0,0,0,9,6,8,3,2,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+9,Ishan Kishan,AF Milne,RR Pant,4,0,4,13,10,9,4,2,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+10,Ishan Kishan,AF Milne,RR Pant,0,0,0,13,10,10,5,2,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+11,Ishan Kishan,AF Milne,RR Pant,0,0,0,13,10,11,6,2,caught,Ishan Kishan,MS Chapman,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+12,RR Pant,TG Southee,SA Yadav,0,0,0,13,3,2,1,3,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+13,RR Pant,TG Southee,SA Yadav,4,0,4,17,7,3,2,3,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+14,RR Pant,TG Southee,SA Yadav,4,0,4,21,11,4,3,3,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+15,RR Pant,TG Southee,SA Yadav,0,0,0,21,11,5,4,3,caught,RR Pant,IS Sodhi,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+16,SS Iyer,TG Southee,SA Yadav,0,0,0,21,0,1,5,3,caught,SS Iyer,JDS Neesham,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+17,HH Pandya,TG Southee,SA Yadav,0,1,1,22,0,1,6,3,0,,,{'wides': 1},wides,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+18,HH Pandya,TG Southee,SA Yadav,0,1,1,23,0,2,7,3,0,,,{'wides': 1},wides,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+19,HH Pandya,TG Southee,SA Yadav,0,0,0,23,0,3,8,3,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+20,SA Yadav,AF Milne,HH Pandya,4,0,4,27,4,1,1,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+21,SA Yadav,AF Milne,HH Pandya,0,0,0,27,4,2,2,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+22,SA Yadav,AF Milne,HH Pandya,1,0,1,28,5,3,3,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+23,HH Pandya,AF Milne,SA Yadav,4,0,4,32,4,4,4,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+24,HH Pandya,AF Milne,SA Yadav,4,0,4,36,8,5,5,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+25,HH Pandya,AF Milne,SA Yadav,3,0,3,39,11,6,6,4,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+26,HH Pandya,TG Southee,SA Yadav,4,0,4,43,15,7,1,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+27,HH Pandya,TG Southee,SA Yadav,0,0,0,43,15,8,2,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+28,HH Pandya,TG Southee,SA Yadav,6,0,6,49,21,9,3,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+29,HH Pandya,TG Southee,SA Yadav,1,0,1,50,22,10,4,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+30,SA Yadav,TG Southee,HH Pandya,0,0,0,50,5,4,5,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+31,SA Yadav,TG Southee,HH Pandya,0,0,0,50,5,5,6,5,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+32,HH Pandya,LH Ferguson,SA Yadav,0,0,0,50,22,11,1,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+33,HH Pandya,LH Ferguson,SA Yadav,1,0,1,51,23,12,2,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+34,SA Yadav,LH Ferguson,HH Pandya,6,0,6,57,11,6,3,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+35,SA Yadav,LH Ferguson,HH Pandya,0,0,0,57,11,7,4,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+36,SA Yadav,LH Ferguson,HH Pandya,1,0,1,58,12,8,5,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+37,HH Pandya,LH Ferguson,SA Yadav,0,0,0,58,23,13,6,6,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+38,SA Yadav,IS Sodhi,HH Pandya,1,0,1,59,13,9,1,7,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+39,HH Pandya,IS Sodhi,SA Yadav,1,0,1,60,24,14,2,7,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+40,SA Yadav,IS Sodhi,HH Pandya,0,0,0,60,13,10,3,7,caught,SA Yadav,GD Phillips,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+41,DJ Hooda,IS Sodhi,HH Pandya,2,0,2,62,2,1,4,7,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+42,DJ Hooda,IS Sodhi,HH Pandya,1,0,1,63,3,2,5,7,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+43,HH Pandya,IS Sodhi,DJ Hooda,1,0,1,64,25,15,6,7,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+44,HH Pandya,MJ Santner,DJ Hooda,1,0,1,65,26,16,1,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+45,DJ Hooda,MJ Santner,HH Pandya,0,0,0,65,3,3,2,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+46,DJ Hooda,MJ Santner,HH Pandya,2,0,2,67,5,4,3,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+47,DJ Hooda,MJ Santner,HH Pandya,1,0,1,68,6,5,4,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+48,HH Pandya,MJ Santner,DJ Hooda,1,0,1,69,27,17,5,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+49,DJ Hooda,MJ Santner,HH Pandya,0,0,0,69,6,6,6,8,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+50,HH Pandya,IS Sodhi,DJ Hooda,1,0,1,70,28,18,1,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+51,DJ Hooda,IS Sodhi,HH Pandya,1,0,1,71,7,7,2,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+52,HH Pandya,IS Sodhi,DJ Hooda,1,0,1,72,29,19,3,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+53,DJ Hooda,IS Sodhi,HH Pandya,1,0,1,73,8,8,4,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+54,HH Pandya,IS Sodhi,DJ Hooda,1,0,1,74,30,20,5,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand
+55,DJ Hooda,IS Sodhi,HH Pandya,1,0,1,75,9,9,6,9,0,,,,-,bat,New Zealand,2,"McLean Park, Napier",2022-11-22,India,New Zealand

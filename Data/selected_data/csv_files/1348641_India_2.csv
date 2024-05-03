@@ -1,0 +1,127 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Ishan Kishan,D Madushanka,Shubman Gill,,1,0,1,1,1,1,1,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+1,Shubman Gill,D Madushanka,Ishan Kishan,,1,0,1,2,1,1,2,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+2,Ishan Kishan,D Madushanka,Shubman Gill,,0,0,0,2,1,2,3,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+3,Ishan Kishan,D Madushanka,Shubman Gill,,0,0,0,2,1,3,4,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+4,Ishan Kishan,D Madushanka,Shubman Gill,,1,0,1,3,2,4,5,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+5,Shubman Gill,D Madushanka,Ishan Kishan,{'wides': 5},0,5,5,8,1,2,6,wides,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+6,Shubman Gill,D Madushanka,Ishan Kishan,,4,0,4,12,5,3,7,-,1,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+7,Ishan Kishan,CAK Rajitha,Shubman Gill,,0,0,0,12,2,5,1,-,2,bowled,Ishan Kishan,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+8,RA Tripathi,CAK Rajitha,Shubman Gill,,0,0,0,12,0,1,2,-,2,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+9,RA Tripathi,CAK Rajitha,Shubman Gill,,4,0,4,16,4,2,3,-,2,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+10,RA Tripathi,CAK Rajitha,Shubman Gill,{'legbyes': 4},0,4,4,20,4,3,4,legbyes,2,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+11,RA Tripathi,CAK Rajitha,Shubman Gill,,1,0,1,21,5,4,5,-,2,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+12,Shubman Gill,CAK Rajitha,RA Tripathi,,0,0,0,21,5,4,6,-,2,caught,Shubman Gill,M Theekshana,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+13,RA Tripathi,D Madushanka,SA Yadav,,0,0,0,21,5,5,1,-,3,caught,RA Tripathi,BKG Mendis,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+14,HH Pandya,D Madushanka,SA Yadav,{'wides': 1},0,1,1,22,0,1,2,wides,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+15,HH Pandya,D Madushanka,SA Yadav,,4,0,4,26,4,2,3,-,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+16,HH Pandya,D Madushanka,SA Yadav,,0,0,0,26,4,3,4,-,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+17,HH Pandya,D Madushanka,SA Yadav,,1,0,1,27,5,4,5,-,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+18,SA Yadav,D Madushanka,HH Pandya,,0,0,0,27,0,1,6,-,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+19,SA Yadav,D Madushanka,HH Pandya,,0,0,0,27,0,2,7,-,3,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+20,HH Pandya,CAK Rajitha,SA Yadav,,0,0,0,27,5,5,1,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+21,HH Pandya,CAK Rajitha,SA Yadav,,0,0,0,27,5,6,2,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+22,HH Pandya,CAK Rajitha,SA Yadav,,0,0,0,27,5,7,3,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+23,HH Pandya,CAK Rajitha,SA Yadav,,0,0,0,27,5,8,4,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+24,HH Pandya,CAK Rajitha,SA Yadav,,1,0,1,28,6,9,5,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+25,SA Yadav,CAK Rajitha,HH Pandya,,0,0,0,28,0,3,6,-,4,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+26,HH Pandya,C Karunaratne,SA Yadav,,6,0,6,34,12,10,1,-,5,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+27,HH Pandya,C Karunaratne,SA Yadav,,0,0,0,34,12,11,2,-,5,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+28,HH Pandya,C Karunaratne,SA Yadav,,0,0,0,34,12,12,3,-,5,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+29,HH Pandya,C Karunaratne,SA Yadav,,0,0,0,34,12,13,4,-,5,caught,HH Pandya,BKG Mendis,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+30,DJ Hooda,C Karunaratne,SA Yadav,,0,0,0,34,0,1,5,-,5,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+31,DJ Hooda,C Karunaratne,SA Yadav,,1,0,1,35,1,2,6,-,5,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+32,DJ Hooda,CAK Rajitha,SA Yadav,,0,0,0,35,1,3,1,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+33,DJ Hooda,CAK Rajitha,SA Yadav,,1,0,1,36,2,4,2,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+34,SA Yadav,CAK Rajitha,DJ Hooda,,0,0,0,36,0,4,3,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+35,SA Yadav,CAK Rajitha,DJ Hooda,,2,0,2,38,2,5,4,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+36,SA Yadav,CAK Rajitha,DJ Hooda,,0,0,0,38,2,6,5,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+37,SA Yadav,CAK Rajitha,DJ Hooda,,1,0,1,39,3,7,6,-,6,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+38,SA Yadav,PWH de Silva,DJ Hooda,,2,0,2,41,5,8,1,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+39,SA Yadav,PWH de Silva,DJ Hooda,,1,0,1,42,6,9,2,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+40,DJ Hooda,PWH de Silva,SA Yadav,,2,0,2,44,4,5,3,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+41,DJ Hooda,PWH de Silva,SA Yadav,,1,0,1,45,5,6,4,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+42,SA Yadav,PWH de Silva,DJ Hooda,,1,0,1,46,7,10,5,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+43,DJ Hooda,PWH de Silva,SA Yadav,,1,0,1,47,6,7,6,-,7,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+44,DJ Hooda,C Karunaratne,SA Yadav,,1,0,1,48,7,8,1,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+45,SA Yadav,C Karunaratne,DJ Hooda,,0,0,0,48,7,11,2,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+46,SA Yadav,C Karunaratne,DJ Hooda,,4,0,4,52,11,12,3,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+47,SA Yadav,C Karunaratne,DJ Hooda,,0,0,0,52,11,13,4,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+48,SA Yadav,C Karunaratne,DJ Hooda,,0,0,0,52,11,14,5,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+49,SA Yadav,C Karunaratne,DJ Hooda,,2,0,2,54,13,15,6,-,8,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+50,DJ Hooda,M Theekshana,SA Yadav,,0,0,0,54,7,9,1,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+51,DJ Hooda,M Theekshana,SA Yadav,,1,0,1,55,8,10,2,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+52,SA Yadav,M Theekshana,DJ Hooda,,1,0,1,56,14,16,3,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+53,DJ Hooda,M Theekshana,SA Yadav,,1,0,1,57,9,11,4,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+54,SA Yadav,M Theekshana,DJ Hooda,,0,0,0,57,14,17,5,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+55,SA Yadav,M Theekshana,DJ Hooda,,0,0,0,57,14,18,6,-,9,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+56,DJ Hooda,PWH de Silva,SA Yadav,,0,0,0,57,9,12,1,-,10,caught,DJ Hooda,DM de Silva,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+57,AR Patel,PWH de Silva,SA Yadav,,0,0,0,57,0,1,2,-,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+58,AR Patel,PWH de Silva,SA Yadav,{'wides': 1},0,1,1,58,0,2,3,wides,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+59,AR Patel,PWH de Silva,SA Yadav,,0,0,0,58,0,3,4,-,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+60,AR Patel,PWH de Silva,SA Yadav,,0,0,0,58,0,4,5,-,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+61,AR Patel,PWH de Silva,SA Yadav,,6,0,6,64,6,5,6,-,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+62,AR Patel,PWH de Silva,SA Yadav,,0,0,0,64,6,6,7,-,10,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+63,SA Yadav,M Theekshana,AR Patel,,4,0,4,68,18,19,1,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+64,SA Yadav,M Theekshana,AR Patel,,2,0,2,70,20,20,2,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+65,SA Yadav,M Theekshana,AR Patel,,1,0,1,71,21,21,3,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+66,AR Patel,M Theekshana,SA Yadav,,1,0,1,72,7,7,4,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+67,SA Yadav,M Theekshana,AR Patel,,1,0,1,73,22,22,5,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+68,AR Patel,M Theekshana,SA Yadav,,0,0,0,73,7,8,6,-,11,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+69,SA Yadav,C Karunaratne,AR Patel,,4,0,4,77,26,23,1,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+70,SA Yadav,C Karunaratne,AR Patel,,1,0,1,78,27,24,2,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+71,AR Patel,C Karunaratne,SA Yadav,,1,0,1,79,8,9,3,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+72,SA Yadav,C Karunaratne,AR Patel,,1,0,1,80,28,25,4,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+73,AR Patel,C Karunaratne,SA Yadav,,4,0,4,84,12,10,5,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+74,AR Patel,C Karunaratne,SA Yadav,,1,0,1,85,13,11,6,-,12,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+75,AR Patel,M Theekshana,SA Yadav,,0,0,0,85,13,12,1,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+76,AR Patel,M Theekshana,SA Yadav,,4,0,4,89,17,13,2,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+77,AR Patel,M Theekshana,SA Yadav,,6,0,6,95,23,14,3,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+78,AR Patel,M Theekshana,SA Yadav,,1,0,1,96,24,15,4,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+79,SA Yadav,M Theekshana,AR Patel,,1,0,1,97,29,26,5,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+80,AR Patel,M Theekshana,SA Yadav,,1,0,1,98,25,16,6,-,13,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+81,AR Patel,PWH de Silva,SA Yadav,,6,0,6,104,31,17,1,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+82,AR Patel,PWH de Silva,SA Yadav,,6,0,6,110,37,18,2,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+83,AR Patel,PWH de Silva,SA Yadav,,6,0,6,116,43,19,3,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+84,AR Patel,PWH de Silva,SA Yadav,,1,0,1,117,44,20,4,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+85,SA Yadav,PWH de Silva,AR Patel,,6,0,6,123,35,27,5,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+86,SA Yadav,PWH de Silva,AR Patel,,1,0,1,124,36,28,6,-,14,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+87,SA Yadav,C Karunaratne,AR Patel,,6,0,6,130,42,29,1,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+88,SA Yadav,C Karunaratne,AR Patel,,0,0,0,130,42,30,2,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+89,SA Yadav,C Karunaratne,AR Patel,,1,0,1,131,43,31,3,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+90,AR Patel,C Karunaratne,SA Yadav,,6,0,6,137,50,21,4,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+91,AR Patel,C Karunaratne,SA Yadav,,1,0,1,138,51,22,5,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+92,SA Yadav,C Karunaratne,AR Patel,,1,0,1,139,44,32,6,-,15,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+93,SA Yadav,D Madushanka,AR Patel,{'wides': 1},0,1,1,140,44,33,1,wides,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+94,SA Yadav,D Madushanka,AR Patel,,6,0,6,146,50,34,2,-,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+95,SA Yadav,D Madushanka,AR Patel,,1,0,1,147,51,35,3,-,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+96,AR Patel,D Madushanka,SA Yadav,,1,0,1,148,52,23,4,-,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+97,SA Yadav,D Madushanka,AR Patel,,0,0,0,148,51,36,5,-,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+98,SA Yadav,D Madushanka,AR Patel,,0,0,0,148,51,37,6,-,16,caught,SA Yadav,PWH de Silva,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+99,Shivam Mavi,D Madushanka,AR Patel,,1,0,1,149,1,1,7,-,16,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+100,Shivam Mavi,M Theekshana,AR Patel,,0,0,0,149,1,2,1,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+101,Shivam Mavi,M Theekshana,AR Patel,,0,0,0,149,1,3,2,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+102,Shivam Mavi,M Theekshana,AR Patel,,1,0,1,150,2,4,3,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+103,AR Patel,M Theekshana,Shivam Mavi,,2,0,2,152,54,24,4,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+104,AR Patel,M Theekshana,Shivam Mavi,,1,0,1,153,55,25,5,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+105,Shivam Mavi,M Theekshana,AR Patel,,4,0,4,157,6,5,6,-,17,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+106,AR Patel,D Madushanka,Shivam Mavi,,0,0,0,157,55,26,1,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+107,AR Patel,D Madushanka,Shivam Mavi,,1,0,1,158,56,27,2,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+108,Shivam Mavi,D Madushanka,AR Patel,,0,0,0,158,6,6,3,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+109,Shivam Mavi,D Madushanka,AR Patel,,6,0,6,164,12,7,4,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+110,Shivam Mavi,D Madushanka,AR Patel,,4,0,4,168,16,8,5,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+111,Shivam Mavi,D Madushanka,AR Patel,,6,0,6,174,22,9,6,-,18,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+112,AR Patel,CAK Rajitha,Shivam Mavi,{'wides': 1},0,1,1,175,56,28,1,wides,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+113,AR Patel,CAK Rajitha,Shivam Mavi,{'wides': 1},0,1,1,176,56,29,2,wides,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+114,AR Patel,CAK Rajitha,Shivam Mavi,,2,0,2,178,58,30,3,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+115,AR Patel,CAK Rajitha,Shivam Mavi,,1,0,1,179,59,31,4,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+116,Shivam Mavi,CAK Rajitha,AR Patel,,2,0,2,181,24,10,5,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+117,Shivam Mavi,CAK Rajitha,AR Patel,,0,0,0,181,24,11,6,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+118,Shivam Mavi,CAK Rajitha,AR Patel,,1,0,1,182,25,12,7,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+119,AR Patel,CAK Rajitha,Shivam Mavi,,4,0,4,186,63,32,8,-,19,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+120,Shivam Mavi,MD Shanaka,AR Patel,,1,0,1,187,26,13,1,-,20,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+121,AR Patel,MD Shanaka,Shivam Mavi,,2,0,2,189,65,33,2,-,20,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+122,AR Patel,MD Shanaka,Shivam Mavi,,0,0,0,189,65,34,3,-,20,caught,AR Patel,C Karunaratne,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+123,Umran Malik,MD Shanaka,Shivam Mavi,,1,0,1,190,1,1,4,-,20,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+124,Shivam Mavi,MD Shanaka,Umran Malik,,0,0,0,190,26,14,5,-,20,0,,,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka
+125,Shivam Mavi,MD Shanaka,Umran Malik,,0,0,0,190,26,15,6,-,20,caught,Shivam Mavi,M Theekshana,field,India,2,"Maharashtra Cricket Association Stadium, Pune",2023-01-05,India,Sri Lanka

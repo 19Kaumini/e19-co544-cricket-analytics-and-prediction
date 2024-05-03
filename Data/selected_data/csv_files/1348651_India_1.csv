@@ -1,0 +1,125 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,review,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Ishan Kishan,BG Lister,Shubman Gill,0,0,0,0,0,1,1,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+1,Ishan Kishan,BG Lister,Shubman Gill,1,0,1,1,1,2,2,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+2,Shubman Gill,BG Lister,Ishan Kishan,0,0,0,1,0,1,3,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+3,Shubman Gill,BG Lister,Ishan Kishan,0,0,0,1,0,2,4,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+4,Shubman Gill,BG Lister,Ishan Kishan,4,0,4,5,4,3,5,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+5,Shubman Gill,BG Lister,Ishan Kishan,1,0,1,6,5,4,6,1,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+6,Shubman Gill,MG Bracewell,Ishan Kishan,1,0,1,7,6,5,1,2,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+7,Ishan Kishan,MG Bracewell,Shubman Gill,0,0,0,7,1,3,2,2,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'Ishan Kishan', 'decision': 'struck down', 'umpires_call': True}",lbw,Ishan Kishan,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+8,RA Tripathi,MG Bracewell,Shubman Gill,1,0,1,8,1,1,3,2,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+9,Shubman Gill,MG Bracewell,RA Tripathi,1,0,1,9,7,6,4,2,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+10,RA Tripathi,MG Bracewell,Shubman Gill,1,0,1,10,2,2,5,2,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+11,Shubman Gill,MG Bracewell,RA Tripathi,4,0,4,14,11,7,6,2,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+12,RA Tripathi,LH Ferguson,Shubman Gill,0,0,0,14,2,3,1,3,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+13,RA Tripathi,LH Ferguson,Shubman Gill,4,0,4,18,6,4,2,3,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+14,RA Tripathi,LH Ferguson,Shubman Gill,0,1,1,19,6,5,3,3,,0,,,{'byes': 1},byes,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+15,Shubman Gill,LH Ferguson,RA Tripathi,4,0,4,23,15,8,4,3,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+16,Shubman Gill,LH Ferguson,RA Tripathi,0,1,1,24,15,9,5,3,,0,,,{'legbyes': 1},legbyes,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+17,RA Tripathi,LH Ferguson,Shubman Gill,1,0,1,25,7,6,6,3,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+18,RA Tripathi,BG Lister,Shubman Gill,0,0,0,25,7,7,1,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+19,RA Tripathi,BG Lister,Shubman Gill,0,0,0,25,7,8,2,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+20,RA Tripathi,BG Lister,Shubman Gill,1,0,1,26,8,9,3,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+21,Shubman Gill,BG Lister,RA Tripathi,2,0,2,28,17,10,4,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+22,Shubman Gill,BG Lister,RA Tripathi,0,0,0,28,17,11,5,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+23,Shubman Gill,BG Lister,RA Tripathi,2,0,2,30,19,12,6,4,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+24,RA Tripathi,BM Tickner,Shubman Gill,1,0,1,31,9,10,1,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+25,Shubman Gill,BM Tickner,RA Tripathi,4,0,4,35,23,13,2,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+26,Shubman Gill,BM Tickner,RA Tripathi,4,0,4,39,27,14,3,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+27,Shubman Gill,BM Tickner,RA Tripathi,0,0,0,39,27,15,4,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+28,Shubman Gill,BM Tickner,RA Tripathi,4,0,4,43,31,16,5,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+29,Shubman Gill,BM Tickner,RA Tripathi,1,0,1,44,32,17,6,5,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+30,Shubman Gill,LH Ferguson,RA Tripathi,1,0,1,45,33,18,1,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+31,RA Tripathi,LH Ferguson,Shubman Gill,4,0,4,49,13,11,2,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+32,RA Tripathi,LH Ferguson,Shubman Gill,6,0,6,55,19,12,3,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+33,RA Tripathi,LH Ferguson,Shubman Gill,0,1,1,56,19,13,4,6,,0,,,{'wides': 1},wides,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+34,RA Tripathi,LH Ferguson,Shubman Gill,1,0,1,57,20,14,5,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+35,Shubman Gill,LH Ferguson,RA Tripathi,0,0,0,57,33,19,6,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+36,Shubman Gill,LH Ferguson,RA Tripathi,1,0,1,58,34,20,7,6,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+37,Shubman Gill,IS Sodhi,RA Tripathi,1,0,1,59,35,21,1,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+38,RA Tripathi,IS Sodhi,Shubman Gill,4,0,4,63,24,15,2,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+39,RA Tripathi,IS Sodhi,Shubman Gill,1,0,1,64,25,16,3,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+40,Shubman Gill,IS Sodhi,RA Tripathi,2,0,2,66,37,22,4,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+41,Shubman Gill,IS Sodhi,RA Tripathi,1,0,1,67,38,23,5,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+42,RA Tripathi,IS Sodhi,Shubman Gill,2,0,2,69,27,17,6,7,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+43,Shubman Gill,MJ Santner,RA Tripathi,1,0,1,70,39,24,1,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+44,RA Tripathi,MJ Santner,Shubman Gill,4,0,4,74,31,18,2,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+45,RA Tripathi,MJ Santner,Shubman Gill,6,0,6,80,37,19,3,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+46,RA Tripathi,MJ Santner,Shubman Gill,0,0,0,80,37,20,4,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+47,RA Tripathi,MJ Santner,Shubman Gill,1,0,1,81,38,21,5,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+48,Shubman Gill,MJ Santner,RA Tripathi,0,0,0,81,39,25,6,8,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+49,RA Tripathi,IS Sodhi,Shubman Gill,6,0,6,87,44,22,1,9,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+50,RA Tripathi,IS Sodhi,Shubman Gill,0,0,0,87,44,23,2,9,,caught,RA Tripathi,LH Ferguson,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+51,SA Yadav,IS Sodhi,Shubman Gill,1,0,1,88,1,1,3,9,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+52,Shubman Gill,IS Sodhi,SA Yadav,1,0,1,89,40,26,4,9,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+53,SA Yadav,IS Sodhi,Shubman Gill,4,0,4,93,5,2,5,9,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+54,SA Yadav,IS Sodhi,Shubman Gill,1,0,1,94,6,3,6,9,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+55,SA Yadav,MJ Santner,Shubman Gill,1,0,1,95,7,4,1,10,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+56,Shubman Gill,MJ Santner,SA Yadav,1,0,1,96,41,27,2,10,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+57,SA Yadav,MJ Santner,Shubman Gill,0,1,1,97,7,5,3,10,,0,,,{'byes': 1},byes,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+58,Shubman Gill,MJ Santner,SA Yadav,4,0,4,101,45,28,4,10,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+59,Shubman Gill,MJ Santner,SA Yadav,0,0,0,101,45,29,5,10,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+60,Shubman Gill,MJ Santner,SA Yadav,1,0,1,102,46,30,6,10,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+61,Shubman Gill,IS Sodhi,SA Yadav,0,0,0,102,46,31,1,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+62,Shubman Gill,IS Sodhi,SA Yadav,1,0,1,103,47,32,2,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+63,SA Yadav,IS Sodhi,Shubman Gill,0,0,0,103,7,6,3,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+64,SA Yadav,IS Sodhi,Shubman Gill,6,0,6,109,13,7,4,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+65,SA Yadav,IS Sodhi,Shubman Gill,2,0,2,111,15,8,5,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+66,SA Yadav,IS Sodhi,Shubman Gill,1,0,1,112,16,9,6,11,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+67,SA Yadav,MJ Santner,Shubman Gill,1,0,1,113,17,10,1,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+68,Shubman Gill,MJ Santner,SA Yadav,0,0,0,113,47,33,2,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+69,Shubman Gill,MJ Santner,SA Yadav,2,0,2,115,49,34,3,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+70,Shubman Gill,MJ Santner,SA Yadav,1,0,1,116,50,35,4,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+71,SA Yadav,MJ Santner,Shubman Gill,1,0,1,117,18,11,5,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+72,Shubman Gill,MJ Santner,SA Yadav,1,0,1,118,51,36,6,12,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+73,Shubman Gill,BM Tickner,SA Yadav,1,0,1,119,52,37,1,13,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+74,SA Yadav,BM Tickner,Shubman Gill,6,0,6,125,24,12,2,13,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+75,SA Yadav,BM Tickner,Shubman Gill,0,0,0,125,24,13,3,13,,caught,SA Yadav,MG Bracewell,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+76,HH Pandya,BM Tickner,Shubman Gill,4,0,4,129,4,1,4,13,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+77,HH Pandya,BM Tickner,Shubman Gill,1,0,1,130,5,2,5,13,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+78,Shubman Gill,BM Tickner,HH Pandya,1,0,1,131,53,38,6,13,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+79,Shubman Gill,LH Ferguson,HH Pandya,1,0,1,132,54,39,1,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+80,HH Pandya,LH Ferguson,Shubman Gill,1,0,1,133,6,3,2,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+81,Shubman Gill,LH Ferguson,HH Pandya,6,0,6,139,60,40,3,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+82,Shubman Gill,LH Ferguson,HH Pandya,1,0,1,140,61,41,4,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+83,HH Pandya,LH Ferguson,Shubman Gill,0,0,0,140,6,4,5,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+84,HH Pandya,LH Ferguson,Shubman Gill,4,0,4,144,10,5,6,14,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+85,Shubman Gill,MJ Santner,HH Pandya,1,0,1,145,62,42,1,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+86,HH Pandya,MJ Santner,Shubman Gill,4,0,4,149,14,6,2,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+87,HH Pandya,MJ Santner,Shubman Gill,1,0,1,150,15,7,3,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+88,Shubman Gill,MJ Santner,HH Pandya,1,0,1,151,63,43,4,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+89,HH Pandya,MJ Santner,Shubman Gill,1,0,1,152,16,8,5,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+90,Shubman Gill,MJ Santner,HH Pandya,4,0,4,156,67,44,6,15,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+91,HH Pandya,BG Lister,Shubman Gill,1,0,1,157,17,9,1,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+92,Shubman Gill,BG Lister,HH Pandya,0,0,0,157,67,45,2,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+93,Shubman Gill,BG Lister,HH Pandya,6,0,6,163,73,46,3,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+94,Shubman Gill,BG Lister,HH Pandya,6,0,6,169,79,47,4,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+95,Shubman Gill,BG Lister,HH Pandya,1,0,1,170,80,48,5,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+96,HH Pandya,BG Lister,Shubman Gill,0,0,0,170,17,10,6,16,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+97,Shubman Gill,BM Tickner,HH Pandya,6,0,6,176,86,49,1,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+98,Shubman Gill,BM Tickner,HH Pandya,4,0,4,180,90,50,2,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+99,Shubman Gill,BM Tickner,HH Pandya,0,1,1,181,90,51,3,17,,0,,,{'wides': 1},wides,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+100,Shubman Gill,BM Tickner,HH Pandya,0,0,0,181,90,52,4,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+101,Shubman Gill,BM Tickner,HH Pandya,6,0,6,187,96,53,5,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+102,Shubman Gill,BM Tickner,HH Pandya,1,0,1,188,97,54,6,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+103,HH Pandya,BM Tickner,Shubman Gill,0,1,1,189,17,11,7,17,,0,,,{'wides': 1},wides,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+104,HH Pandya,BM Tickner,Shubman Gill,4,0,4,193,21,12,8,17,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+105,Shubman Gill,LH Ferguson,HH Pandya,4,0,4,197,101,55,1,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+106,Shubman Gill,LH Ferguson,HH Pandya,6,0,6,203,107,56,2,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+107,Shubman Gill,LH Ferguson,HH Pandya,1,0,1,204,108,57,3,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+108,HH Pandya,LH Ferguson,Shubman Gill,0,0,0,204,21,13,4,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+109,HH Pandya,LH Ferguson,Shubman Gill,6,0,6,210,27,14,5,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+110,HH Pandya,LH Ferguson,Shubman Gill,1,0,1,211,28,15,6,18,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+111,HH Pandya,BG Lister,Shubman Gill,1,0,1,212,29,16,1,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+112,Shubman Gill,BG Lister,HH Pandya,4,0,4,216,112,58,2,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+113,Shubman Gill,BG Lister,HH Pandya,1,0,1,217,113,59,3,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+114,HH Pandya,BG Lister,Shubman Gill,1,0,1,218,30,17,4,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+115,Shubman Gill,BG Lister,HH Pandya,4,0,4,222,117,60,5,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+116,Shubman Gill,BG Lister,HH Pandya,6,0,6,228,123,61,6,19,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+117,HH Pandya,DJ Mitchell,Shubman Gill,0,0,0,228,30,18,1,20,,caught,HH Pandya,MG Bracewell,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+118,DJ Hooda,DJ Mitchell,Shubman Gill,1,0,1,229,1,1,2,20,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+119,Shubman Gill,DJ Mitchell,DJ Hooda,2,0,2,231,125,62,3,20,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+120,Shubman Gill,DJ Mitchell,DJ Hooda,0,0,0,231,125,63,4,20,"{'by': 'New Zealand', 'umpire': 'Nitin Menon', 'batter': 'Shubman Gill', 'decision': 'struck down'}",0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+121,Shubman Gill,DJ Mitchell,DJ Hooda,0,1,1,232,125,64,5,20,,0,,,{'wides': 1},wides,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+122,Shubman Gill,DJ Mitchell,DJ Hooda,1,0,1,233,126,65,6,20,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand
+123,DJ Hooda,DJ Mitchell,Shubman Gill,1,0,1,234,2,2,7,20,,0,,,,-,bat,India,1,"Narendra Modi Stadium, Ahmedabad",2023-02-01,India,New Zealand

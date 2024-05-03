@@ -1,0 +1,125 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,CH Gayle,DP Nannes,LMP Simmons,,1,0,1,1,1,1,1,-,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+1,LMP Simmons,DP Nannes,CH Gayle,,4,0,4,5,4,1,2,-,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+2,LMP Simmons,DP Nannes,CH Gayle,,1,0,1,6,5,2,3,-,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+3,CH Gayle,DP Nannes,LMP Simmons,{'legbyes': 1},0,1,1,7,1,2,4,legbyes,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+4,LMP Simmons,DP Nannes,CH Gayle,,0,0,0,7,5,3,5,-,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+5,LMP Simmons,DP Nannes,CH Gayle,,0,0,0,7,5,4,6,-,1,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+6,CH Gayle,SW Tait,LMP Simmons,,4,0,4,11,5,3,1,-,2,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+7,CH Gayle,SW Tait,LMP Simmons,,0,0,0,11,5,4,2,-,2,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+8,CH Gayle,SW Tait,LMP Simmons,{'wides': 1},0,1,1,12,5,5,3,wides,2,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+9,CH Gayle,SW Tait,LMP Simmons,,0,0,0,12,5,6,4,-,2,bowled,CH Gayle,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+10,N Deonarine,SW Tait,LMP Simmons,,0,0,0,12,0,1,5,-,2,caught,N Deonarine,SR Watson,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+11,KA Pollard,SW Tait,LMP Simmons,,0,0,0,12,0,1,6,-,2,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+12,KA Pollard,SW Tait,LMP Simmons,,2,0,2,14,2,2,7,-,2,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+13,LMP Simmons,DP Nannes,KA Pollard,,0,0,0,14,5,5,1,-,3,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+14,LMP Simmons,DP Nannes,KA Pollard,,0,0,0,14,5,6,2,-,3,caught,LMP Simmons,SW Tait,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+15,KA Pollard,DP Nannes,WW Hinds,,0,0,0,14,2,3,3,-,3,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+16,KA Pollard,DP Nannes,WW Hinds,,4,0,4,18,6,4,4,-,3,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+17,KA Pollard,DP Nannes,WW Hinds,,1,0,1,19,7,5,5,-,3,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+18,WW Hinds,DP Nannes,KA Pollard,,0,0,0,19,0,1,6,-,3,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+19,KA Pollard,SW Tait,WW Hinds,,0,0,0,19,7,6,1,-,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+20,KA Pollard,SW Tait,WW Hinds,,1,0,1,20,8,7,2,-,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+21,WW Hinds,SW Tait,KA Pollard,,0,0,0,20,0,2,3,-,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+22,WW Hinds,SW Tait,KA Pollard,,1,0,1,21,1,3,4,-,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+23,KA Pollard,SW Tait,WW Hinds,,4,0,4,25,12,8,5,-,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+24,KA Pollard,SW Tait,WW Hinds,{'wides': 1},0,1,1,26,12,9,6,wides,4,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+25,KA Pollard,SW Tait,WW Hinds,,0,0,0,26,12,10,7,-,4,caught,KA Pollard,BJ Haddin,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+26,WW Hinds,DP Nannes,RS Morton,,1,0,1,27,2,4,1,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+27,RS Morton,DP Nannes,WW Hinds,,0,0,0,27,0,1,2,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+28,RS Morton,DP Nannes,WW Hinds,,0,0,0,27,0,2,3,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+29,RS Morton,DP Nannes,WW Hinds,,0,0,0,27,0,3,4,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+30,RS Morton,DP Nannes,WW Hinds,{'wides': 1},0,1,1,28,0,4,5,wides,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+31,RS Morton,DP Nannes,WW Hinds,,1,0,1,29,1,5,6,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+32,WW Hinds,DP Nannes,RS Morton,,0,0,0,29,2,5,7,-,5,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+33,RS Morton,MG Johnson,WW Hinds,,4,0,4,33,5,6,1,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+34,RS Morton,MG Johnson,WW Hinds,,1,0,1,34,6,7,2,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+35,WW Hinds,MG Johnson,RS Morton,,0,0,0,34,2,6,3,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+36,WW Hinds,MG Johnson,RS Morton,,4,0,4,38,6,7,4,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+37,WW Hinds,MG Johnson,RS Morton,,1,0,1,39,7,8,5,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+38,RS Morton,MG Johnson,WW Hinds,,1,0,1,40,7,8,6,-,6,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+39,RS Morton,DJ Hussey,WW Hinds,,1,0,1,41,8,9,1,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+40,WW Hinds,DJ Hussey,RS Morton,,0,0,0,41,7,9,2,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+41,WW Hinds,DJ Hussey,RS Morton,,1,0,1,42,8,10,3,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+42,RS Morton,DJ Hussey,WW Hinds,,0,0,0,42,8,10,4,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+43,RS Morton,DJ Hussey,WW Hinds,,1,0,1,43,9,11,5,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+44,WW Hinds,DJ Hussey,RS Morton,,1,0,1,44,9,11,6,-,7,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+45,WW Hinds,MG Johnson,RS Morton,,2,0,2,46,11,12,1,-,8,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+46,WW Hinds,MG Johnson,RS Morton,,0,0,0,46,11,13,2,-,8,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+47,WW Hinds,MG Johnson,RS Morton,,0,0,0,46,11,14,3,-,8,caught,WW Hinds,SR Watson,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+48,RS Morton,MG Johnson,DR Smith,,0,0,0,46,9,12,4,-,8,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+49,RS Morton,MG Johnson,DR Smith,,0,0,0,46,9,13,5,-,8,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+50,RS Morton,MG Johnson,DR Smith,,0,0,0,46,9,14,6,-,8,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+51,DR Smith,SPD Smith,RS Morton,,1,0,1,47,1,1,1,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+52,RS Morton,SPD Smith,DR Smith,,1,0,1,48,10,15,2,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+53,DR Smith,SPD Smith,RS Morton,,0,0,0,48,1,2,3,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+54,DR Smith,SPD Smith,RS Morton,,1,0,1,49,2,3,4,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+55,RS Morton,SPD Smith,DR Smith,,1,0,1,50,11,16,5,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+56,DR Smith,SPD Smith,RS Morton,,1,0,1,51,3,4,6,-,9,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+57,DR Smith,MG Johnson,RS Morton,,1,0,1,52,4,5,1,-,10,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+58,RS Morton,MG Johnson,DR Smith,,1,0,1,53,12,17,2,-,10,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+59,DR Smith,MG Johnson,RS Morton,,0,0,0,53,4,6,3,-,10,caught,DR Smith,SPD Smith,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+60,RS Morton,MG Johnson,D Ramdin,,1,0,1,54,13,18,4,-,10,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+61,D Ramdin,MG Johnson,RS Morton,,0,0,0,54,0,1,5,-,10,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+62,D Ramdin,MG Johnson,RS Morton,,1,0,1,55,1,2,6,-,10,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+63,D Ramdin,SPD Smith,RS Morton,,1,0,1,56,2,3,1,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+64,RS Morton,SPD Smith,D Ramdin,,0,0,0,56,13,19,2,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+65,RS Morton,SPD Smith,D Ramdin,,0,0,0,56,13,20,3,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+66,RS Morton,SPD Smith,D Ramdin,,2,0,2,58,15,21,4,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+67,RS Morton,SPD Smith,D Ramdin,,1,0,1,59,16,22,5,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+68,D Ramdin,SPD Smith,RS Morton,,4,0,4,63,6,4,6,-,11,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+69,RS Morton,MJ Clarke,D Ramdin,,1,0,1,64,17,23,1,-,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+70,D Ramdin,MJ Clarke,RS Morton,,3,0,3,67,9,5,2,-,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+71,RS Morton,MJ Clarke,D Ramdin,,1,0,1,68,18,24,3,-,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+72,D Ramdin,MJ Clarke,RS Morton,,0,0,0,68,9,6,4,-,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+73,D Ramdin,MJ Clarke,RS Morton,,1,0,1,69,10,7,5,-,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+74,RS Morton,MJ Clarke,D Ramdin,{'legbyes': 1},0,1,1,70,18,25,6,legbyes,12,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+75,RS Morton,SPD Smith,D Ramdin,,1,0,1,71,19,26,1,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+76,D Ramdin,SPD Smith,RS Morton,,2,0,2,73,12,8,2,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+77,D Ramdin,SPD Smith,RS Morton,,1,0,1,74,13,9,3,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+78,RS Morton,SPD Smith,D Ramdin,,4,0,4,78,23,27,4,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+79,RS Morton,SPD Smith,D Ramdin,,1,0,1,79,24,28,5,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+80,D Ramdin,SPD Smith,RS Morton,,1,0,1,80,14,10,6,-,13,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+81,D Ramdin,SW Tait,RS Morton,,0,0,0,80,14,11,1,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+82,D Ramdin,SW Tait,RS Morton,,0,0,0,80,14,12,2,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+83,D Ramdin,SW Tait,RS Morton,,4,0,4,84,18,13,3,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+84,D Ramdin,SW Tait,RS Morton,,1,0,1,85,19,14,4,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+85,RS Morton,SW Tait,D Ramdin,,1,0,1,86,25,29,5,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+86,D Ramdin,SW Tait,RS Morton,,0,0,0,86,19,15,6,-,14,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+87,RS Morton,MJ Clarke,D Ramdin,,3,0,3,89,28,30,1,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+88,D Ramdin,MJ Clarke,RS Morton,,4,0,4,93,23,16,2,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+89,D Ramdin,MJ Clarke,RS Morton,,4,0,4,97,27,17,3,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+90,D Ramdin,MJ Clarke,RS Morton,,1,0,1,98,28,18,4,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+91,RS Morton,MJ Clarke,D Ramdin,,0,0,0,98,28,31,5,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+92,RS Morton,MJ Clarke,D Ramdin,,1,0,1,99,29,32,6,-,15,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+93,RS Morton,MG Johnson,D Ramdin,,1,0,1,100,30,33,1,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+94,D Ramdin,MG Johnson,RS Morton,,4,0,4,104,32,19,2,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+95,D Ramdin,MG Johnson,RS Morton,,1,0,1,105,33,20,3,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+96,RS Morton,MG Johnson,D Ramdin,,0,0,0,105,30,34,4,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+97,RS Morton,MG Johnson,D Ramdin,,4,0,4,109,34,35,5,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+98,RS Morton,MG Johnson,D Ramdin,,1,0,1,110,35,36,6,-,16,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+99,RS Morton,SR Watson,D Ramdin,,1,0,1,111,36,37,1,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+100,D Ramdin,SR Watson,RS Morton,,1,0,1,112,34,21,2,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+101,RS Morton,SR Watson,D Ramdin,,1,0,1,113,37,38,3,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+102,D Ramdin,SR Watson,RS Morton,,4,0,4,117,38,22,4,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+103,D Ramdin,SR Watson,RS Morton,,1,0,1,118,39,23,5,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+104,RS Morton,SR Watson,D Ramdin,,1,0,1,119,38,39,6,-,17,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+105,RS Morton,DP Nannes,D Ramdin,,1,0,1,120,39,40,1,-,18,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+106,D Ramdin,DP Nannes,RS Morton,,4,0,4,124,43,24,2,-,18,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+107,D Ramdin,DP Nannes,RS Morton,,1,0,1,125,44,25,3,-,18,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+108,RS Morton,DP Nannes,D Ramdin,,1,0,1,126,40,41,4,-,18,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+109,D Ramdin,DP Nannes,RS Morton,,0,0,0,126,44,26,5,-,18,caught,D Ramdin,DJ Hussey,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+110,RS Morton,DP Nannes,DJG Sammy,,0,0,0,126,40,42,6,-,18,caught,RS Morton,SPD Smith,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+111,NO Miller,SW Tait,DJG Sammy,,1,0,1,127,1,1,1,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+112,DJG Sammy,SW Tait,NO Miller,{'wides': 1},0,1,1,128,0,1,2,wides,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+113,DJG Sammy,SW Tait,NO Miller,,1,0,1,129,1,2,3,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+114,NO Miller,SW Tait,DJG Sammy,,0,0,0,129,1,2,4,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+115,NO Miller,SW Tait,DJG Sammy,,4,0,4,133,5,3,5,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+116,NO Miller,SW Tait,DJG Sammy,,2,0,2,135,7,4,6,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+117,NO Miller,SW Tait,DJG Sammy,,1,0,1,136,8,5,7,-,19,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+118,NO Miller,SR Watson,DJG Sammy,,1,0,1,137,9,6,1,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+119,DJG Sammy,SR Watson,NO Miller,,0,0,0,137,1,3,2,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+120,DJG Sammy,SR Watson,NO Miller,,1,0,1,138,2,4,3,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+121,NO Miller,SR Watson,DJG Sammy,,1,0,1,139,10,7,4,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+122,DJG Sammy,SR Watson,NO Miller,,1,0,1,140,3,5,5,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia
+123,NO Miller,SR Watson,DJG Sammy,,1,0,1,141,11,8,6,-,20,0,,,bat,Australia,2,Bellerive Oval,2010-02-21,West Indies,Australia

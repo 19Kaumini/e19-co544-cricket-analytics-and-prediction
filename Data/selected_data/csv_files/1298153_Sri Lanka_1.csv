@@ -1,0 +1,129 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,P Nissanka,JR Hazlewood,BKG Mendis,0,0,0,0,0,1,1,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+1,P Nissanka,JR Hazlewood,BKG Mendis,1,0,1,1,1,2,2,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+2,BKG Mendis,JR Hazlewood,P Nissanka,1,0,1,2,1,1,3,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+3,P Nissanka,JR Hazlewood,BKG Mendis,0,0,0,2,1,3,4,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+4,P Nissanka,JR Hazlewood,BKG Mendis,0,0,0,2,1,4,5,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+5,P Nissanka,JR Hazlewood,BKG Mendis,0,0,0,2,1,5,6,1,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+6,BKG Mendis,PJ Cummins,P Nissanka,0,0,0,2,1,2,1,2,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+7,BKG Mendis,PJ Cummins,P Nissanka,4,0,4,6,5,3,2,2,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+8,BKG Mendis,PJ Cummins,P Nissanka,0,0,0,6,5,4,3,2,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+9,BKG Mendis,PJ Cummins,P Nissanka,0,0,0,6,5,5,4,2,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+10,BKG Mendis,PJ Cummins,P Nissanka,0,0,0,6,5,6,5,2,caught,BKG Mendis,MR Marsh,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+11,DM de Silva,PJ Cummins,P Nissanka,0,0,0,6,0,1,6,2,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+12,P Nissanka,JR Hazlewood,DM de Silva,0,0,0,6,1,6,1,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+13,P Nissanka,JR Hazlewood,DM de Silva,4,0,4,10,5,7,2,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+14,P Nissanka,JR Hazlewood,DM de Silva,2,0,2,12,7,8,3,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+15,P Nissanka,JR Hazlewood,DM de Silva,1,0,1,13,8,9,4,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+16,DM de Silva,JR Hazlewood,P Nissanka,1,0,1,14,1,2,5,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+17,P Nissanka,JR Hazlewood,DM de Silva,0,1,1,15,8,10,6,3,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+18,P Nissanka,JR Hazlewood,DM de Silva,0,1,1,16,8,11,7,3,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+19,P Nissanka,JR Hazlewood,DM de Silva,0,0,0,16,8,12,8,3,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+20,DM de Silva,PJ Cummins,P Nissanka,1,0,1,17,2,3,1,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+21,P Nissanka,PJ Cummins,DM de Silva,0,0,0,17,8,13,2,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+22,P Nissanka,PJ Cummins,DM de Silva,0,0,0,17,8,14,3,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+23,P Nissanka,PJ Cummins,DM de Silva,1,0,1,18,9,15,4,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+24,DM de Silva,PJ Cummins,P Nissanka,4,0,4,22,6,4,5,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+25,DM de Silva,PJ Cummins,P Nissanka,0,0,0,22,6,5,6,4,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+26,P Nissanka,MA Starc,DM de Silva,0,0,0,22,9,16,1,5,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+27,P Nissanka,MA Starc,DM de Silva,0,0,0,22,9,17,2,5,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+28,P Nissanka,MA Starc,DM de Silva,1,0,1,23,10,18,3,5,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+29,DM de Silva,MA Starc,P Nissanka,0,1,1,24,6,6,4,5,0,,,{'legbyes': 1},legbyes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+30,P Nissanka,MA Starc,DM de Silva,0,0,0,24,10,19,5,5,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+31,P Nissanka,MA Starc,DM de Silva,0,1,1,25,10,20,6,5,0,,,{'legbyes': 1},legbyes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+32,P Nissanka,JR Hazlewood,DM de Silva,0,0,0,25,10,21,1,6,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+33,P Nissanka,JR Hazlewood,DM de Silva,2,0,2,27,12,22,2,6,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+34,P Nissanka,JR Hazlewood,DM de Silva,4,0,4,31,16,23,3,6,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+35,P Nissanka,JR Hazlewood,DM de Silva,0,0,0,31,16,24,4,6,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+36,P Nissanka,JR Hazlewood,DM de Silva,1,0,1,32,17,25,5,6,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+37,DM de Silva,JR Hazlewood,P Nissanka,0,4,4,36,6,7,6,6,0,,,{'byes': 4},byes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+38,P Nissanka,AC Agar,DM de Silva,1,0,1,37,18,26,1,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+39,DM de Silva,AC Agar,P Nissanka,1,0,1,38,7,8,2,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+40,P Nissanka,AC Agar,DM de Silva,0,0,0,38,18,27,3,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+41,P Nissanka,AC Agar,DM de Silva,0,0,0,38,18,28,4,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+42,P Nissanka,AC Agar,DM de Silva,1,0,1,39,19,29,5,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+43,DM de Silva,AC Agar,P Nissanka,4,0,4,43,11,9,6,7,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+44,P Nissanka,MP Stoinis,DM de Silva,1,0,1,44,20,30,1,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+45,DM de Silva,MP Stoinis,P Nissanka,2,0,2,46,13,10,2,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+46,DM de Silva,MP Stoinis,P Nissanka,1,0,1,47,14,11,3,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+47,P Nissanka,MP Stoinis,DM de Silva,1,0,1,48,21,31,4,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+48,DM de Silva,MP Stoinis,P Nissanka,1,0,1,49,15,12,5,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+49,P Nissanka,MP Stoinis,DM de Silva,1,0,1,50,22,32,6,8,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+50,P Nissanka,AC Agar,DM de Silva,2,0,2,52,24,33,1,9,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+51,P Nissanka,AC Agar,DM de Silva,0,0,0,52,24,34,2,9,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+52,P Nissanka,AC Agar,DM de Silva,2,0,2,54,26,35,3,9,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+53,P Nissanka,AC Agar,DM de Silva,2,0,2,56,28,36,4,9,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+54,P Nissanka,AC Agar,DM de Silva,1,0,1,57,29,37,5,9,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+55,DM de Silva,AC Agar,P Nissanka,0,1,1,58,15,13,6,9,0,,,{'legbyes': 1},legbyes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+56,DM de Silva,MA Starc,P Nissanka,0,0,0,58,15,14,1,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+57,DM de Silva,MA Starc,P Nissanka,1,0,1,59,16,15,2,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+58,P Nissanka,MA Starc,DM de Silva,1,0,1,60,30,38,3,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+59,DM de Silva,MA Starc,P Nissanka,1,0,1,61,17,16,4,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+60,P Nissanka,MA Starc,DM de Silva,2,0,2,63,32,39,5,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+61,P Nissanka,MA Starc,DM de Silva,0,0,0,63,32,40,6,10,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+62,DM de Silva,MP Stoinis,P Nissanka,0,0,0,63,17,17,1,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+63,DM de Silva,MP Stoinis,P Nissanka,1,0,1,64,18,18,2,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+64,P Nissanka,MP Stoinis,DM de Silva,1,0,1,65,33,41,3,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+65,DM de Silva,MP Stoinis,P Nissanka,0,1,1,66,18,19,4,11,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+66,DM de Silva,MP Stoinis,P Nissanka,2,0,2,68,20,20,5,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+67,DM de Silva,MP Stoinis,P Nissanka,4,0,4,72,24,21,6,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+68,DM de Silva,MP Stoinis,P Nissanka,1,0,1,73,25,22,7,11,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+69,DM de Silva,AC Agar,P Nissanka,1,0,1,74,26,23,1,12,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+70,P Nissanka,AC Agar,DM de Silva,1,0,1,75,34,42,2,12,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+71,DM de Silva,AC Agar,P Nissanka,0,0,0,75,26,24,3,12,caught,DM de Silva,DA Warner,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+72,KIC Asalanka,AC Agar,P Nissanka,1,0,1,76,1,1,4,12,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+73,P Nissanka,AC Agar,KIC Asalanka,1,0,1,77,35,43,5,12,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+74,KIC Asalanka,AC Agar,P Nissanka,0,1,1,78,1,2,6,12,0,,,{'legbyes': 1},legbyes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+75,KIC Asalanka,MR Marsh,P Nissanka,2,0,2,80,3,3,1,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+76,KIC Asalanka,MR Marsh,P Nissanka,1,0,1,81,4,4,2,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+77,P Nissanka,MR Marsh,KIC Asalanka,1,0,1,82,36,44,3,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+78,KIC Asalanka,MR Marsh,P Nissanka,6,0,6,88,10,5,4,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+79,KIC Asalanka,MR Marsh,P Nissanka,0,0,0,88,10,6,5,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+80,KIC Asalanka,MR Marsh,P Nissanka,4,0,4,92,14,7,6,13,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+81,P Nissanka,AC Agar,KIC Asalanka,0,1,1,93,36,45,1,14,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+82,P Nissanka,AC Agar,KIC Asalanka,2,0,2,95,38,46,2,14,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+83,P Nissanka,AC Agar,KIC Asalanka,2,0,2,97,40,47,3,14,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+84,P Nissanka,AC Agar,KIC Asalanka,0,0,0,97,40,48,4,14,run out,P Nissanka,MR Marsh;MS Wade,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+85,PBB Rajapaksa,AC Agar,KIC Asalanka,1,0,1,98,1,1,5,14,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+86,KIC Asalanka,AC Agar,PBB Rajapaksa,0,0,0,98,14,8,6,14,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+87,KIC Asalanka,AC Agar,PBB Rajapaksa,1,0,1,99,15,9,7,14,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+88,KIC Asalanka,MA Starc,PBB Rajapaksa,1,0,1,100,16,10,1,15,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+89,PBB Rajapaksa,MA Starc,KIC Asalanka,2,0,2,102,3,2,2,15,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+90,PBB Rajapaksa,MA Starc,KIC Asalanka,0,0,0,102,3,3,3,15,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+91,PBB Rajapaksa,MA Starc,KIC Asalanka,4,0,4,106,7,4,4,15,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+92,PBB Rajapaksa,MA Starc,KIC Asalanka,0,0,0,106,7,5,5,15,caught,PBB Rajapaksa,PJ Cummins,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+93,MD Shanaka,MA Starc,KIC Asalanka,0,0,0,106,0,1,6,15,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+94,KIC Asalanka,GJ Maxwell,MD Shanaka,1,0,1,107,17,11,1,16,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+95,MD Shanaka,GJ Maxwell,KIC Asalanka,2,0,2,109,2,2,2,16,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+96,MD Shanaka,GJ Maxwell,KIC Asalanka,0,0,0,109,2,3,3,16,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+97,MD Shanaka,GJ Maxwell,KIC Asalanka,1,0,1,110,3,4,4,16,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+98,KIC Asalanka,GJ Maxwell,MD Shanaka,1,0,1,111,18,12,5,16,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+99,MD Shanaka,GJ Maxwell,KIC Asalanka,0,0,0,111,3,5,6,16,caught,MD Shanaka,MS Wade,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+100,KIC Asalanka,PJ Cummins,PWH de Silva,0,0,0,111,18,13,1,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+101,KIC Asalanka,PJ Cummins,PWH de Silva,0,0,0,111,18,14,2,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+102,KIC Asalanka,PJ Cummins,PWH de Silva,4,0,4,115,22,15,3,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+103,KIC Asalanka,PJ Cummins,PWH de Silva,2,0,2,117,24,16,4,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+104,KIC Asalanka,PJ Cummins,PWH de Silva,1,0,1,118,25,17,5,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+105,PWH de Silva,PJ Cummins,KIC Asalanka,1,0,1,119,1,1,6,17,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+106,PWH de Silva,JR Hazlewood,KIC Asalanka,0,1,1,120,1,2,1,18,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+107,PWH de Silva,JR Hazlewood,KIC Asalanka,0,0,0,120,1,3,2,18,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+108,PWH de Silva,JR Hazlewood,KIC Asalanka,0,0,0,120,1,4,3,18,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+109,PWH de Silva,JR Hazlewood,KIC Asalanka,0,0,0,120,1,5,4,18,caught,PWH de Silva,MS Wade,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+110,C Karunaratne,JR Hazlewood,KIC Asalanka,2,0,2,122,2,1,5,18,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+111,C Karunaratne,JR Hazlewood,KIC Asalanka,0,0,0,122,2,2,6,18,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+112,C Karunaratne,JR Hazlewood,KIC Asalanka,4,0,4,126,6,3,7,18,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+113,KIC Asalanka,MA Starc,C Karunaratne,0,0,0,126,25,18,1,19,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+114,KIC Asalanka,MA Starc,C Karunaratne,1,0,1,127,26,19,2,19,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+115,C Karunaratne,MA Starc,KIC Asalanka,0,5,5,132,6,4,3,19,0,,,{'wides': 5},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+116,C Karunaratne,MA Starc,KIC Asalanka,3,0,3,135,9,5,4,19,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+117,KIC Asalanka,MA Starc,C Karunaratne,0,1,1,136,26,20,5,19,0,,,{'legbyes': 1},legbyes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+118,C Karunaratne,MA Starc,KIC Asalanka,1,0,1,137,10,6,6,19,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+119,KIC Asalanka,MA Starc,C Karunaratne,0,0,0,137,26,21,7,19,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+120,C Karunaratne,PJ Cummins,KIC Asalanka,0,1,1,138,10,7,1,20,0,,,{'byes': 1},byes,"{'by': 'Australia', 'umpire': 'RK Illingworth', 'batter': 'C Karunaratne', 'decision': 'struck down'}",field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+121,KIC Asalanka,PJ Cummins,C Karunaratne,2,0,2,140,28,22,2,20,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+122,KIC Asalanka,PJ Cummins,C Karunaratne,4,0,4,144,32,23,3,20,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+123,KIC Asalanka,PJ Cummins,C Karunaratne,0,1,1,145,32,24,4,20,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+124,KIC Asalanka,PJ Cummins,C Karunaratne,6,0,6,151,38,25,5,20,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+125,KIC Asalanka,PJ Cummins,C Karunaratne,0,1,1,152,38,26,6,20,0,,,{'byes': 1},byes,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+126,C Karunaratne,PJ Cummins,KIC Asalanka,0,1,1,153,10,8,7,20,0,,,{'wides': 1},wides,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia
+127,C Karunaratne,PJ Cummins,KIC Asalanka,4,0,4,157,14,9,8,20,0,,,,-,,field,Australia,1,Perth Stadium,2022-10-25,Sri Lanka,Australia

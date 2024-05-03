@@ -1,0 +1,127 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,UT Khawaja,A Nehra,SR Watson,1,0,1,1,1,1,1,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+1,SR Watson,A Nehra,UT Khawaja,0,0,0,1,0,1,2,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+2,SR Watson,A Nehra,UT Khawaja,0,0,0,1,0,2,3,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+3,SR Watson,A Nehra,UT Khawaja,0,0,0,1,0,3,4,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+4,SR Watson,A Nehra,UT Khawaja,0,0,0,1,0,4,5,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+5,SR Watson,A Nehra,UT Khawaja,0,0,0,1,0,5,6,1,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+6,UT Khawaja,JJ Bumrah,SR Watson,3,0,3,4,4,2,1,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+7,SR Watson,JJ Bumrah,UT Khawaja,0,0,0,4,0,6,2,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+8,SR Watson,JJ Bumrah,UT Khawaja,1,0,1,5,1,7,3,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+9,UT Khawaja,JJ Bumrah,SR Watson,4,0,4,9,8,3,4,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+10,UT Khawaja,JJ Bumrah,SR Watson,4,0,4,13,12,4,5,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+11,UT Khawaja,JJ Bumrah,SR Watson,2,0,2,15,14,5,6,2,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+12,SR Watson,A Nehra,UT Khawaja,1,0,1,16,2,8,1,3,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+13,UT Khawaja,A Nehra,SR Watson,0,0,0,16,14,6,2,3,caught,UT Khawaja,MS Dhoni,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+14,SE Marsh,A Nehra,SR Watson,0,0,0,16,0,1,3,3,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+15,SE Marsh,A Nehra,SR Watson,1,0,1,17,1,2,4,3,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+16,SR Watson,A Nehra,SE Marsh,6,0,6,23,8,9,5,3,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+17,SR Watson,A Nehra,SE Marsh,1,0,1,24,9,10,6,3,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+18,SR Watson,JJ Bumrah,SE Marsh,0,0,0,24,9,11,1,4,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+19,SR Watson,JJ Bumrah,SE Marsh,0,0,0,24,9,12,2,4,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+20,SR Watson,JJ Bumrah,SE Marsh,0,1,1,25,9,13,3,4,0,,,{'noballs': 1},noballs,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+21,SR Watson,JJ Bumrah,SE Marsh,4,1,5,30,13,14,4,4,0,,,{'noballs': 1},noballs,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+22,SR Watson,JJ Bumrah,SE Marsh,4,0,4,34,17,15,5,4,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+23,SR Watson,JJ Bumrah,SE Marsh,1,0,1,35,18,16,6,4,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+24,SE Marsh,JJ Bumrah,SR Watson,0,1,1,36,1,3,7,4,0,,,{'legbyes': 1},legbyes,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+25,SR Watson,JJ Bumrah,SE Marsh,1,0,1,37,19,17,8,4,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+26,SR Watson,A Nehra,SE Marsh,4,0,4,41,23,18,1,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+27,SR Watson,A Nehra,SE Marsh,4,0,4,45,27,19,2,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+28,SR Watson,A Nehra,SE Marsh,0,0,0,45,27,20,3,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+29,SR Watson,A Nehra,SE Marsh,0,0,0,45,27,21,4,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+30,SR Watson,A Nehra,SE Marsh,1,0,1,46,28,22,5,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+31,SE Marsh,A Nehra,SR Watson,2,0,2,48,3,4,6,5,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+32,SR Watson,R Ashwin,SE Marsh,2,0,2,50,30,23,1,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+33,SR Watson,R Ashwin,SE Marsh,0,0,0,50,30,24,2,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+34,SR Watson,R Ashwin,SE Marsh,4,0,4,54,34,25,3,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+35,SR Watson,R Ashwin,SE Marsh,0,0,0,54,34,26,4,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+36,SR Watson,R Ashwin,SE Marsh,3,0,3,57,37,27,5,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+37,SE Marsh,R Ashwin,SR Watson,0,0,0,57,3,5,6,6,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+38,SR Watson,RA Jadeja,SE Marsh,1,0,1,58,38,28,1,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+39,SE Marsh,RA Jadeja,SR Watson,0,0,0,58,3,6,2,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+40,SE Marsh,RA Jadeja,SR Watson,0,0,0,58,3,7,3,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+41,SE Marsh,RA Jadeja,SR Watson,0,0,0,58,3,8,4,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+42,SE Marsh,RA Jadeja,SR Watson,1,0,1,59,4,9,5,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+43,SR Watson,RA Jadeja,SE Marsh,4,0,4,63,42,29,6,7,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+44,SE Marsh,R Ashwin,SR Watson,4,0,4,67,8,10,1,8,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+45,SE Marsh,R Ashwin,SR Watson,1,0,1,68,9,11,2,8,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+46,SR Watson,R Ashwin,SE Marsh,1,0,1,69,43,30,3,8,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+47,SE Marsh,R Ashwin,SR Watson,0,0,0,69,9,12,4,8,bowled,SE Marsh,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+48,GJ Maxwell,R Ashwin,SR Watson,1,0,1,70,1,1,5,8,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+49,SR Watson,R Ashwin,GJ Maxwell,2,0,2,72,45,31,6,8,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+50,GJ Maxwell,RA Jadeja,SR Watson,0,0,0,72,1,2,1,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+51,GJ Maxwell,RA Jadeja,SR Watson,1,0,1,73,2,3,2,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+52,SR Watson,RA Jadeja,GJ Maxwell,0,0,0,73,45,32,3,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+53,SR Watson,RA Jadeja,GJ Maxwell,1,0,1,74,46,33,4,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+54,GJ Maxwell,RA Jadeja,SR Watson,1,0,1,75,3,4,5,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+55,SR Watson,RA Jadeja,GJ Maxwell,0,0,0,75,46,34,6,9,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+56,GJ Maxwell,Yuvraj Singh,SR Watson,0,0,0,75,3,5,1,10,caught,GJ Maxwell,SK Raina,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+57,TM Head,Yuvraj Singh,SR Watson,2,0,2,77,2,1,2,10,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+58,TM Head,Yuvraj Singh,SR Watson,1,0,1,78,3,2,3,10,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+59,SR Watson,Yuvraj Singh,TM Head,0,0,0,78,46,35,4,10,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+60,SR Watson,Yuvraj Singh,TM Head,1,0,1,79,47,36,5,10,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+61,TM Head,Yuvraj Singh,SR Watson,1,0,1,80,4,3,6,10,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+62,TM Head,HH Pandya,SR Watson,1,0,1,81,5,4,1,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+63,SR Watson,HH Pandya,TM Head,4,0,4,85,51,37,2,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+64,SR Watson,HH Pandya,TM Head,0,1,1,86,51,38,3,11,0,,,{'wides': 1},wides,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+65,SR Watson,HH Pandya,TM Head,1,0,1,87,52,39,4,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+66,TM Head,HH Pandya,SR Watson,0,0,0,87,5,5,5,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+67,TM Head,HH Pandya,SR Watson,1,0,1,88,6,6,6,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+68,SR Watson,HH Pandya,TM Head,1,0,1,89,53,40,7,11,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+69,SR Watson,Yuvraj Singh,TM Head,2,0,2,91,55,41,1,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+70,SR Watson,Yuvraj Singh,TM Head,1,0,1,92,56,42,2,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+71,TM Head,Yuvraj Singh,SR Watson,6,0,6,98,12,7,3,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+72,TM Head,Yuvraj Singh,SR Watson,4,0,4,102,16,8,4,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+73,TM Head,Yuvraj Singh,SR Watson,0,0,0,102,16,9,5,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+74,TM Head,Yuvraj Singh,SR Watson,1,0,1,103,17,10,6,12,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+75,TM Head,HH Pandya,SR Watson,1,0,1,104,18,11,1,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+76,SR Watson,HH Pandya,TM Head,2,0,2,106,58,43,2,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+77,SR Watson,HH Pandya,TM Head,4,0,4,110,62,44,3,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+78,SR Watson,HH Pandya,TM Head,0,1,1,111,62,45,4,13,0,,,{'wides': 1},wides,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+79,SR Watson,HH Pandya,TM Head,0,1,1,112,62,46,5,13,0,,,{'wides': 1},wides,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+80,SR Watson,HH Pandya,TM Head,0,0,0,112,62,47,6,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+81,SR Watson,HH Pandya,TM Head,4,0,4,116,66,48,7,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+82,SR Watson,HH Pandya,TM Head,2,0,2,118,68,49,8,13,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+83,TM Head,R Ashwin,SR Watson,1,0,1,119,19,12,1,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+84,SR Watson,R Ashwin,TM Head,0,1,1,120,68,50,2,14,0,,,{'wides': 1},wides,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+85,SR Watson,R Ashwin,TM Head,2,0,2,122,70,51,3,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+86,SR Watson,R Ashwin,TM Head,1,0,1,123,71,52,4,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+87,TM Head,R Ashwin,SR Watson,2,0,2,125,21,13,5,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+88,TM Head,R Ashwin,SR Watson,1,0,1,126,22,14,6,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+89,SR Watson,R Ashwin,TM Head,1,0,1,127,72,53,7,14,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+90,SR Watson,RA Jadeja,TM Head,2,0,2,129,74,54,1,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+91,SR Watson,RA Jadeja,TM Head,6,0,6,135,80,55,2,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+92,SR Watson,RA Jadeja,TM Head,1,0,1,136,81,56,3,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+93,TM Head,RA Jadeja,SR Watson,2,0,2,138,24,15,4,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+94,TM Head,RA Jadeja,SR Watson,1,0,1,139,25,16,5,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+95,SR Watson,RA Jadeja,TM Head,1,0,1,140,82,57,6,15,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+96,SR Watson,R Ashwin,TM Head,1,0,1,141,83,58,1,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+97,TM Head,R Ashwin,SR Watson,1,0,1,142,26,17,2,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+98,SR Watson,R Ashwin,TM Head,6,0,6,148,89,59,3,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+99,SR Watson,R Ashwin,TM Head,0,0,0,148,89,60,4,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+100,SR Watson,R Ashwin,TM Head,1,0,1,149,90,61,5,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+101,TM Head,R Ashwin,SR Watson,0,0,0,149,26,18,6,16,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+102,SR Watson,RA Jadeja,TM Head,6,0,6,155,96,62,1,17,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+103,SR Watson,RA Jadeja,TM Head,2,0,2,157,98,63,2,17,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+104,SR Watson,RA Jadeja,TM Head,4,0,4,161,102,64,3,17,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+105,SR Watson,RA Jadeja,TM Head,6,0,6,167,108,65,4,17,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+106,SR Watson,RA Jadeja,TM Head,1,0,1,168,109,66,5,17,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+107,TM Head,RA Jadeja,SR Watson,0,0,0,168,26,19,6,17,bowled,TM Head,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+108,SR Watson,JJ Bumrah,CA Lynn,0,0,0,168,109,67,1,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+109,SR Watson,JJ Bumrah,CA Lynn,1,0,1,169,110,68,2,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+110,CA Lynn,JJ Bumrah,SR Watson,4,0,4,173,4,1,3,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+111,CA Lynn,JJ Bumrah,SR Watson,1,0,1,174,5,2,4,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+112,SR Watson,JJ Bumrah,CA Lynn,1,0,1,175,111,69,5,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+113,CA Lynn,JJ Bumrah,SR Watson,1,0,1,176,6,3,6,18,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+114,CA Lynn,A Nehra,SR Watson,1,0,1,177,7,4,1,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+115,SR Watson,A Nehra,CA Lynn,1,0,1,178,112,70,2,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+116,CA Lynn,A Nehra,SR Watson,1,0,1,179,8,5,3,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+117,SR Watson,A Nehra,CA Lynn,6,0,6,185,118,71,4,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+118,SR Watson,A Nehra,CA Lynn,1,0,1,186,119,72,5,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+119,CA Lynn,A Nehra,SR Watson,1,0,1,187,9,6,6,19,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+120,CA Lynn,JJ Bumrah,SR Watson,0,1,1,188,9,7,1,20,0,,,{'legbyes': 1},legbyes,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+121,SR Watson,JJ Bumrah,CA Lynn,1,0,1,189,120,73,2,20,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+122,CA Lynn,JJ Bumrah,SR Watson,4,0,4,193,13,8,3,20,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+123,CA Lynn,JJ Bumrah,SR Watson,0,0,0,193,13,9,4,20,caught,CA Lynn,RA Jadeja,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+124,SR Watson,JJ Bumrah,CT Bancroft,2,0,2,195,122,74,5,20,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India
+125,SR Watson,JJ Bumrah,CT Bancroft,2,0,2,197,124,75,6,20,0,,,,-,bat,Australia,1,Sydney Cricket Ground,2016-01-31,Australia,India

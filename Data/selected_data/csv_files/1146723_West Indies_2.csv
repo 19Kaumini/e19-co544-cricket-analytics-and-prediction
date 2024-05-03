@@ -1,0 +1,58 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,,1,0,1,1,1,1,1,-,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+1,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,0,0,0,1,0,1,2,-,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+2,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,1,0,1,2,1,2,3,-,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+3,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,,6,0,6,8,7,2,4,-,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+4,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,{'byes': 1},0,1,1,9,7,3,5,byes,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+5,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,1,0,1,10,2,3,6,-,1,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+6,E Lewis,Mustafizur Rahman,ADS Fletcher,,0,0,0,10,2,4,1,-,2,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+7,E Lewis,Mustafizur Rahman,ADS Fletcher,,0,0,0,10,2,5,2,-,2,caught,E Lewis,Liton Das,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+8,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,10,7,4,3,-,2,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+9,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,10,7,5,4,-,2,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+10,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,10,7,6,5,-,2,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+11,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,10,7,7,6,-,2,caught,ADS Fletcher,Mushfiqur Rahim,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+12,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,10,0,1,1,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+13,AD Russell,Shakib Al Hasan,MN Samuels,,1,0,1,11,1,2,2,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+14,MN Samuels,Shakib Al Hasan,AD Russell,,0,0,0,11,0,1,3,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+15,MN Samuels,Shakib Al Hasan,AD Russell,{'wides': 1},0,1,1,12,0,2,4,wides,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+16,MN Samuels,Shakib Al Hasan,AD Russell,,4,0,4,16,4,3,5,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+17,MN Samuels,Shakib Al Hasan,AD Russell,,1,0,1,17,5,4,6,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+18,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,17,1,3,7,-,3,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+19,MN Samuels,Nazmul Islam,AD Russell,,2,0,2,19,7,5,1,-,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+20,MN Samuels,Nazmul Islam,AD Russell,,0,0,0,19,7,6,2,-,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+21,MN Samuels,Nazmul Islam,AD Russell,,6,0,6,25,13,7,3,-,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+22,MN Samuels,Nazmul Islam,AD Russell,,1,0,1,26,14,8,4,-,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+23,AD Russell,Nazmul Islam,MN Samuels,{'legbyes': 1},0,1,1,27,1,4,5,legbyes,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+24,MN Samuels,Nazmul Islam,AD Russell,,0,0,0,27,14,9,6,-,4,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+25,AD Russell,Shakib Al Hasan,MN Samuels,,6,0,6,33,7,5,1,-,5,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+26,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,33,7,6,2,-,5,0,,,"{'by': 'Bangladesh', 'batter': 'AD Russell', 'decision': 'struck down', 'umpires_call': True}",field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+27,AD Russell,Shakib Al Hasan,MN Samuels,,1,0,1,34,8,7,3,-,5,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+28,MN Samuels,Shakib Al Hasan,AD Russell,,6,0,6,40,20,10,4,-,5,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+29,MN Samuels,Shakib Al Hasan,AD Russell,,1,0,1,41,21,11,5,-,5,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+30,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,41,8,8,6,-,5,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+31,MN Samuels,Rubel Hossain,AD Russell,{'wides': 5},0,5,5,46,21,12,1,wides,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+32,MN Samuels,Rubel Hossain,AD Russell,,4,0,4,50,25,13,2,-,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+33,MN Samuels,Rubel Hossain,AD Russell,,1,0,1,51,26,14,3,-,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+34,AD Russell,Rubel Hossain,MN Samuels,,1,0,1,52,9,9,4,-,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+35,MN Samuels,Rubel Hossain,AD Russell,,0,0,0,52,26,15,5,-,6,caught,MN Samuels,Mahmudullah,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+36,AD Russell,Rubel Hossain,R Powell,,1,0,1,53,10,10,6,-,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+37,R Powell,Rubel Hossain,AD Russell,,0,0,0,53,0,1,7,-,6,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+38,AD Russell,Mustafizur Rahman,R Powell,,0,0,0,53,10,11,1,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+39,AD Russell,Mustafizur Rahman,R Powell,,4,0,4,57,14,12,2,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+40,AD Russell,Mustafizur Rahman,R Powell,,6,0,6,63,20,13,3,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+41,AD Russell,Mustafizur Rahman,R Powell,,4,0,4,67,24,14,4,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+42,AD Russell,Mustafizur Rahman,R Powell,,0,0,0,67,24,15,5,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+43,AD Russell,Mustafizur Rahman,R Powell,,4,0,4,71,28,16,6,-,7,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+44,R Powell,Nazmul Islam,AD Russell,,1,0,1,72,1,2,1,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+45,AD Russell,Nazmul Islam,R Powell,,0,0,0,72,28,17,2,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+46,AD Russell,Nazmul Islam,R Powell,,1,0,1,73,29,18,3,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+47,R Powell,Nazmul Islam,AD Russell,,6,0,6,79,7,3,4,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+48,R Powell,Nazmul Islam,AD Russell,,1,0,1,80,8,4,5,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+49,AD Russell,Nazmul Islam,R Powell,,6,0,6,86,35,19,6,-,8,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+50,R Powell,Rubel Hossain,AD Russell,,0,0,0,86,8,5,1,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+51,R Powell,Rubel Hossain,AD Russell,,0,0,0,86,8,6,2,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+52,R Powell,Rubel Hossain,AD Russell,,0,0,0,86,8,7,3,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+53,R Powell,Rubel Hossain,AD Russell,,1,0,1,87,9,8,4,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+54,AD Russell,Rubel Hossain,R Powell,,0,0,0,87,35,20,5,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+55,AD Russell,Rubel Hossain,R Powell,,0,0,0,87,35,21,6,-,9,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
+56,R Powell,Shakib Al Hasan,AD Russell,,6,0,6,93,15,9,1,-,10,0,,,,field,West Indies,2,"Warner Park, Basseterre",2018-07-31,West Indies,Bangladesh
