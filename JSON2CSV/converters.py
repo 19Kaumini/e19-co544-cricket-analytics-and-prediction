@@ -147,7 +147,7 @@ def json_to_csv(match_file, output_file=False):
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
 
-            file_path = f"./csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
+            file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
             df.to_csv(file_path)
 
         all_innings_df[team_innings] = df
