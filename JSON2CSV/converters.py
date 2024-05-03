@@ -134,15 +134,30 @@ def json_to_csv(match_file, output_file=False):
 
         # Call per inning
         df = complete_team_df(team)
+
         df["extra_type"] = df["extra_type"].fillna("-")
+        if "wicket_type" not in df.columns:
+            df["wicket_type"] = 0
+
         df["wicket_type"] = df["wicket_type"].fillna(0)
         df["toss_decision"] = toss_decision
         df["toss_winner"] = toss_win_team
         df["innings"] = idx + 1
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
-        df["batting_team"] = innings[idx]["team"]
-        df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
+
+        # df["batting_team"] = innings[idx]["team"]
+        # df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
+
+        # No outcome error handle
+
+        if len(innings) > 1:
+            df["batting_team"] = innings[idx]["team"]
+            df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
+        else:
+            # Handle the case when there is no second inning
+            df["batting_team"] = innings[idx]["team"]
+            df["bowling_team"] = None  # or any other value you want to assign
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
