@@ -87,6 +87,25 @@ def json_to_csv(match_file, output_file=False):
         file = json.load(f)
 
     info = file["info"]
+
+    # decide whether the teams are top 10 or not
+    teams = [
+        "South Africa",
+        "England",
+        "Australia",
+        "New Zealand",
+        "India",
+        "Pakistan",
+        "Sri Lanka",
+        "West Indies",
+        "Bangladesh",
+        "Zimbabwe",
+    ]
+
+    if info["teams"][0] not in teams or info["teams"][1] not in teams:
+        # print("Teams are not top 10")
+        return
+
     # Added toss decision and toss winner
     toss_decision = info["toss"]["decision"]
     toss_win_team = info["toss"]["winner"]
