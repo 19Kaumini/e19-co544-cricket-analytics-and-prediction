@@ -135,7 +135,10 @@ def json_to_csv(match_file, output_file=False):
         # Call per inning
         df = complete_team_df(team)
 
+        if "extra_type" not in df.columns:
+            df["extra_type"] = 0
         df["extra_type"] = df["extra_type"].fillna("-")
+
         if "wicket_type" not in df.columns:
             df["wicket_type"] = 0
 
