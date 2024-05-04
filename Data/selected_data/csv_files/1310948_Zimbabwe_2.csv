@@ -1,0 +1,127 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,0,0,1,1,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+1,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,0,0,2,2,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+2,W Madhevere,Fazalhaq Farooqi,I Kaia,2,0,2,2,2,3,3,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+3,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,2,2,4,4,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+4,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,2,2,5,5,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+5,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,2,2,6,6,1,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+6,I Kaia,Nijat Masood,W Madhevere,0,1,1,3,0,1,1,2,{'noballs': 1},noballs,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+7,I Kaia,Nijat Masood,W Madhevere,6,0,6,9,6,2,2,2,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+8,I Kaia,Nijat Masood,W Madhevere,0,1,1,10,6,3,3,2,{'byes': 1},byes,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+9,W Madhevere,Nijat Masood,I Kaia,4,0,4,14,6,7,4,2,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+10,W Madhevere,Nijat Masood,I Kaia,4,0,4,18,10,8,5,2,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+11,W Madhevere,Nijat Masood,I Kaia,0,0,0,18,10,9,6,2,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+12,W Madhevere,Nijat Masood,I Kaia,2,0,2,20,12,10,7,2,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+13,I Kaia,Fazalhaq Farooqi,W Madhevere,1,0,1,21,7,4,1,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+14,W Madhevere,Fazalhaq Farooqi,I Kaia,1,0,1,22,13,11,2,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+15,I Kaia,Fazalhaq Farooqi,W Madhevere,1,0,1,23,8,5,3,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+16,W Madhevere,Fazalhaq Farooqi,I Kaia,0,0,0,23,13,12,4,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+17,W Madhevere,Fazalhaq Farooqi,I Kaia,1,0,1,24,14,13,5,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+18,I Kaia,Fazalhaq Farooqi,W Madhevere,0,1,1,25,8,6,6,3,{'wides': 1},wides,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+19,I Kaia,Fazalhaq Farooqi,W Madhevere,0,0,0,25,8,7,7,3,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+20,W Madhevere,Sharafuddin Ashraf,I Kaia,0,0,0,25,14,14,1,4,,-,caught,W Madhevere,Noor Ahmad,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+21,T Marumani,Sharafuddin Ashraf,I Kaia,0,0,0,25,0,1,2,4,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+22,T Marumani,Sharafuddin Ashraf,I Kaia,0,0,0,25,0,2,3,4,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+23,T Marumani,Sharafuddin Ashraf,I Kaia,0,0,0,25,0,3,4,4,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+24,T Marumani,Sharafuddin Ashraf,I Kaia,2,0,2,27,2,4,5,4,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+25,T Marumani,Sharafuddin Ashraf,I Kaia,0,0,0,27,2,5,6,4,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+26,I Kaia,Azmatullah Omarzai,T Marumani,0,1,1,28,8,8,1,5,{'wides': 1},wides,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+27,I Kaia,Azmatullah Omarzai,T Marumani,0,0,0,28,8,9,2,5,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+28,I Kaia,Azmatullah Omarzai,T Marumani,4,0,4,32,12,10,3,5,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+29,I Kaia,Azmatullah Omarzai,T Marumani,0,0,0,32,12,11,4,5,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+30,I Kaia,Azmatullah Omarzai,T Marumani,0,1,1,33,12,12,5,5,{'legbyes': 1},legbyes,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+31,T Marumani,Azmatullah Omarzai,I Kaia,4,0,4,37,6,6,6,5,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+32,T Marumani,Azmatullah Omarzai,I Kaia,1,0,1,38,7,7,7,5,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+33,T Marumani,Rashid Khan,I Kaia,0,0,0,38,7,8,1,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+34,T Marumani,Rashid Khan,I Kaia,1,0,1,39,8,9,2,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+35,I Kaia,Rashid Khan,T Marumani,0,1,1,40,12,13,3,6,{'wides': 1},wides,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+36,I Kaia,Rashid Khan,T Marumani,0,0,0,40,12,14,4,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+37,I Kaia,Rashid Khan,T Marumani,0,0,0,40,12,15,5,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+38,I Kaia,Rashid Khan,T Marumani,0,0,0,40,12,16,6,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+39,I Kaia,Rashid Khan,T Marumani,0,0,0,40,12,17,7,6,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+40,T Marumani,Noor Ahmad,I Kaia,0,0,0,40,8,10,1,7,,-,run out,I Kaia,Nijat Masood,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+41,CR Ervine,Noor Ahmad,T Marumani,1,0,1,41,1,1,2,7,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+42,T Marumani,Noor Ahmad,CR Ervine,0,0,0,41,8,11,3,7,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+43,T Marumani,Noor Ahmad,CR Ervine,0,0,0,41,8,12,4,7,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+44,T Marumani,Noor Ahmad,CR Ervine,1,0,1,42,9,13,5,7,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+45,CR Ervine,Noor Ahmad,T Marumani,0,0,0,42,1,2,6,7,,-,lbw,CR Ervine,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+46,T Marumani,Sharafuddin Ashraf,Sikandar Raza,1,0,1,43,10,14,1,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+47,Sikandar Raza,Sharafuddin Ashraf,T Marumani,0,0,0,43,0,1,2,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+48,Sikandar Raza,Sharafuddin Ashraf,T Marumani,0,1,1,44,0,2,3,8,{'wides': 1},wides,stumped,Sikandar Raza,Afsar Zazai,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+49,C Madande,Sharafuddin Ashraf,T Marumani,0,0,0,44,0,1,4,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+50,C Madande,Sharafuddin Ashraf,T Marumani,0,0,0,44,0,2,5,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+51,C Madande,Sharafuddin Ashraf,T Marumani,0,0,0,44,0,3,6,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+52,C Madande,Sharafuddin Ashraf,T Marumani,0,0,0,44,0,4,7,8,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+53,T Marumani,Noor Ahmad,C Madande,1,0,1,45,11,15,1,9,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+54,C Madande,Noor Ahmad,T Marumani,0,0,0,45,0,5,2,9,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+55,C Madande,Noor Ahmad,T Marumani,1,0,1,46,1,6,3,9,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+56,T Marumani,Noor Ahmad,C Madande,0,2,2,48,11,16,4,9,{'legbyes': 2},legbyes,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+57,T Marumani,Noor Ahmad,C Madande,0,0,0,48,11,17,5,9,,-,bowled,T Marumani,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+58,RP Burl,Noor Ahmad,C Madande,1,0,1,49,1,1,6,9,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+59,RP Burl,Sharafuddin Ashraf,C Madande,0,0,0,49,1,2,1,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+60,RP Burl,Sharafuddin Ashraf,C Madande,0,0,0,49,1,3,2,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+61,RP Burl,Sharafuddin Ashraf,C Madande,1,0,1,50,2,4,3,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+62,C Madande,Sharafuddin Ashraf,RP Burl,0,0,0,50,1,7,4,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+63,C Madande,Sharafuddin Ashraf,RP Burl,1,0,1,51,2,8,5,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+64,RP Burl,Sharafuddin Ashraf,C Madande,4,0,4,55,6,5,6,10,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+65,C Madande,Noor Ahmad,RP Burl,0,0,0,55,2,9,1,11,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+66,C Madande,Noor Ahmad,RP Burl,0,1,1,56,2,10,2,11,{'wides': 1},wides,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+67,C Madande,Noor Ahmad,RP Burl,0,0,0,56,2,11,3,11,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+68,C Madande,Noor Ahmad,RP Burl,0,0,0,56,2,12,4,11,,-,caught,C Madande,Rahmanullah Gurbaz,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+69,DT Tiripano,Noor Ahmad,RP Burl,0,0,0,56,0,1,5,11,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+70,DT Tiripano,Noor Ahmad,RP Burl,0,0,0,56,0,2,6,11,,-,bowled,DT Tiripano,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+71,LM Jongwe,Noor Ahmad,RP Burl,0,0,0,56,0,1,7,11,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+72,RP Burl,Rashid Khan,LM Jongwe,0,0,0,56,6,6,1,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+73,RP Burl,Rashid Khan,LM Jongwe,1,0,1,57,7,7,2,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+74,LM Jongwe,Rashid Khan,RP Burl,1,0,1,58,1,2,3,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+75,RP Burl,Rashid Khan,LM Jongwe,0,0,0,58,7,8,4,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+76,RP Burl,Rashid Khan,LM Jongwe,1,0,1,59,8,9,5,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+77,LM Jongwe,Rashid Khan,RP Burl,0,0,0,59,1,3,6,12,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+78,RP Burl,Noor Ahmad,LM Jongwe,2,0,2,61,10,10,1,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+79,RP Burl,Noor Ahmad,LM Jongwe,0,0,0,61,10,11,2,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+80,RP Burl,Noor Ahmad,LM Jongwe,1,0,1,62,11,12,3,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+81,LM Jongwe,Noor Ahmad,RP Burl,1,0,1,63,2,4,4,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+82,RP Burl,Noor Ahmad,LM Jongwe,0,0,0,63,11,13,5,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+83,RP Burl,Noor Ahmad,LM Jongwe,0,0,0,63,11,14,6,13,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+84,LM Jongwe,Rashid Khan,RP Burl,0,0,0,63,2,5,1,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+85,LM Jongwe,Rashid Khan,RP Burl,1,0,1,64,3,6,2,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+86,RP Burl,Rashid Khan,LM Jongwe,0,0,0,64,11,15,3,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+87,RP Burl,Rashid Khan,LM Jongwe,0,0,0,64,11,16,4,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+88,RP Burl,Rashid Khan,LM Jongwe,0,0,0,64,11,17,5,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+89,RP Burl,Rashid Khan,LM Jongwe,1,0,1,65,12,18,6,14,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+90,RP Burl,Sharafuddin Ashraf,LM Jongwe,1,0,1,66,13,19,1,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+91,LM Jongwe,Sharafuddin Ashraf,RP Burl,0,0,0,66,3,7,2,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+92,LM Jongwe,Sharafuddin Ashraf,RP Burl,0,0,0,66,3,8,3,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+93,LM Jongwe,Sharafuddin Ashraf,RP Burl,1,0,1,67,4,9,4,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+94,RP Burl,Sharafuddin Ashraf,LM Jongwe,0,0,0,67,13,20,5,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+95,RP Burl,Sharafuddin Ashraf,LM Jongwe,1,0,1,68,14,21,6,15,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+96,RP Burl,Rashid Khan,LM Jongwe,0,0,0,68,14,22,1,16,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+97,RP Burl,Rashid Khan,LM Jongwe,1,0,1,69,15,23,2,16,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+98,LM Jongwe,Rashid Khan,RP Burl,0,0,0,69,4,10,3,16,,-,bowled,LM Jongwe,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+99,A Ndlovu,Rashid Khan,RP Burl,0,0,0,69,0,1,4,16,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+100,A Ndlovu,Rashid Khan,RP Burl,0,0,0,69,0,2,5,16,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+101,A Ndlovu,Rashid Khan,RP Burl,0,0,0,69,0,3,6,16,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+102,RP Burl,Fazalhaq Farooqi,A Ndlovu,0,0,0,69,15,24,1,17,,-,caught and bowled,RP Burl,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+103,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,69,0,4,2,17,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+104,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,69,0,5,3,17,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+105,A Ndlovu,Fazalhaq Farooqi,TL Chatara,1,0,1,70,1,6,4,17,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+106,TL Chatara,Fazalhaq Farooqi,A Ndlovu,1,0,1,71,1,1,5,17,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+107,A Ndlovu,Fazalhaq Farooqi,TL Chatara,1,0,1,72,2,7,6,17,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+108,A Ndlovu,Nijat Masood,TL Chatara,1,0,1,73,3,8,1,18,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+109,TL Chatara,Nijat Masood,A Ndlovu,1,0,1,74,2,2,2,18,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+110,A Ndlovu,Nijat Masood,TL Chatara,0,1,1,75,3,9,3,18,{'legbyes': 1},legbyes,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+111,TL Chatara,Nijat Masood,A Ndlovu,0,0,0,75,2,3,4,18,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+112,TL Chatara,Nijat Masood,A Ndlovu,1,0,1,76,3,4,5,18,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+113,A Ndlovu,Nijat Masood,TL Chatara,1,0,1,77,4,10,6,18,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+114,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,77,4,11,1,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+115,A Ndlovu,Fazalhaq Farooqi,TL Chatara,2,0,2,79,6,12,2,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+116,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,79,6,13,3,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+117,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,79,6,14,4,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+118,A Ndlovu,Fazalhaq Farooqi,TL Chatara,4,0,4,83,10,15,5,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+119,A Ndlovu,Fazalhaq Farooqi,TL Chatara,0,0,0,83,10,16,6,19,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+120,TL Chatara,Nijat Masood,A Ndlovu,1,0,1,84,4,5,1,20,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+121,A Ndlovu,Nijat Masood,TL Chatara,1,0,1,85,11,17,2,20,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+122,TL Chatara,Nijat Masood,A Ndlovu,1,0,1,86,5,6,3,20,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+123,A Ndlovu,Nijat Masood,TL Chatara,2,0,2,88,13,18,4,20,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+124,A Ndlovu,Nijat Masood,TL Chatara,0,1,1,89,13,19,5,20,{'legbyes': 1},legbyes,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan
+125,TL Chatara,Nijat Masood,A Ndlovu,1,0,1,90,6,7,6,20,,-,0,,,bat,Afghanistan,2,Harare Sports Club,2022-06-14,Zimbabwe,Afghanistan

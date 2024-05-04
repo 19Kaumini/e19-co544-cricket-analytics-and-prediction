@@ -1,0 +1,125 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,KA Maharaj,A Balbirnie,0,0,0,0,0,1,1,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+1,PR Stirling,KA Maharaj,A Balbirnie,1,0,1,1,1,2,2,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+2,A Balbirnie,KA Maharaj,PR Stirling,0,0,0,1,0,1,3,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+3,A Balbirnie,KA Maharaj,PR Stirling,4,0,4,5,4,2,4,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+4,A Balbirnie,KA Maharaj,PR Stirling,1,0,1,6,5,3,5,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+5,PR Stirling,KA Maharaj,A Balbirnie,2,0,2,8,3,3,6,1,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+6,A Balbirnie,L Ngidi,PR Stirling,0,0,0,8,5,4,1,2,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+7,A Balbirnie,L Ngidi,PR Stirling,0,1,1,9,5,5,2,2,{'wides': 1},wides,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+8,A Balbirnie,L Ngidi,PR Stirling,4,0,4,13,9,6,3,2,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+9,A Balbirnie,L Ngidi,PR Stirling,0,0,0,13,9,7,4,2,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+10,A Balbirnie,L Ngidi,PR Stirling,0,4,4,17,9,8,5,2,{'byes': 4},byes,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+11,A Balbirnie,L Ngidi,PR Stirling,0,0,0,17,9,9,6,2,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+12,A Balbirnie,L Ngidi,PR Stirling,1,0,1,18,10,10,7,2,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+13,A Balbirnie,WD Parnell,PR Stirling,4,0,4,22,14,11,1,3,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+14,A Balbirnie,WD Parnell,PR Stirling,0,0,0,22,14,12,2,3,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+15,A Balbirnie,WD Parnell,PR Stirling,0,0,0,22,14,13,3,3,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+16,A Balbirnie,WD Parnell,PR Stirling,0,0,0,22,14,14,4,3,,-,,caught,A Balbirnie,D Pretorius,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+17,PR Stirling,WD Parnell,L Tucker,0,0,0,22,3,4,5,3,,-,"{'by': 'South Africa', 'umpire': 'MJ Saggers', 'batter': 'PR Stirling', 'decision': 'struck down', 'umpires_call': True}",0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+18,PR Stirling,WD Parnell,L Tucker,0,0,0,22,3,5,6,3,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+19,L Tucker,L Ngidi,PR Stirling,4,0,4,26,4,1,1,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+20,L Tucker,L Ngidi,PR Stirling,1,0,1,27,5,2,2,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+21,PR Stirling,L Ngidi,L Tucker,6,0,6,33,9,6,3,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+22,PR Stirling,L Ngidi,L Tucker,4,0,4,37,13,7,4,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+23,PR Stirling,L Ngidi,L Tucker,0,1,1,38,13,8,5,4,{'wides': 1},wides,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+24,PR Stirling,L Ngidi,L Tucker,1,0,1,39,14,9,6,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+25,L Tucker,L Ngidi,PR Stirling,0,0,0,39,5,3,7,4,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+26,PR Stirling,WD Parnell,L Tucker,0,0,0,39,14,10,1,5,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+27,PR Stirling,WD Parnell,L Tucker,4,0,4,43,18,11,2,5,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+28,PR Stirling,WD Parnell,L Tucker,0,0,0,43,18,12,3,5,,-,"{'by': 'Ireland', 'umpire': 'MJ Saggers', 'batter': 'PR Stirling', 'decision': 'struck down'}",lbw,PR Stirling,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+29,HT Tector,WD Parnell,L Tucker,1,0,1,44,1,1,4,5,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+30,L Tucker,WD Parnell,HT Tector,4,0,4,48,9,4,5,5,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+31,L Tucker,WD Parnell,HT Tector,6,0,6,54,15,5,6,5,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+32,HT Tector,D Pretorius,L Tucker,1,0,1,55,2,2,1,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+33,L Tucker,D Pretorius,HT Tector,1,0,1,56,16,6,2,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+34,HT Tector,D Pretorius,L Tucker,0,0,0,56,2,3,3,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+35,HT Tector,D Pretorius,L Tucker,1,0,1,57,3,4,4,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+36,L Tucker,D Pretorius,HT Tector,4,0,4,61,20,7,5,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+37,L Tucker,D Pretorius,HT Tector,6,0,6,67,26,8,6,6,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+38,HT Tector,T Shamsi,L Tucker,1,0,1,68,4,5,1,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+39,L Tucker,T Shamsi,HT Tector,0,0,0,68,26,9,2,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+40,L Tucker,T Shamsi,HT Tector,1,0,1,69,27,10,3,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+41,HT Tector,T Shamsi,L Tucker,1,0,1,70,5,6,4,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+42,L Tucker,T Shamsi,HT Tector,1,0,1,71,28,11,5,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+43,HT Tector,T Shamsi,L Tucker,1,0,1,72,6,7,6,7,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+44,HT Tector,KA Maharaj,L Tucker,0,0,0,72,6,8,1,8,,-,,caught,HT Tector,D Pretorius,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+45,GJ Delany,KA Maharaj,L Tucker,1,0,1,73,1,1,2,8,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+46,L Tucker,KA Maharaj,GJ Delany,0,0,0,73,28,12,3,8,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+47,L Tucker,KA Maharaj,GJ Delany,6,0,6,79,34,13,4,8,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+48,L Tucker,KA Maharaj,GJ Delany,1,0,1,80,35,14,5,8,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+49,GJ Delany,KA Maharaj,L Tucker,0,0,0,80,1,2,6,8,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+50,L Tucker,T Shamsi,GJ Delany,0,0,0,80,35,15,1,9,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+51,L Tucker,T Shamsi,GJ Delany,1,0,1,81,36,16,2,9,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+52,GJ Delany,T Shamsi,L Tucker,1,0,1,82,2,3,3,9,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+53,L Tucker,T Shamsi,GJ Delany,0,1,1,83,36,17,4,9,{'legbyes': 1},legbyes,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+54,GJ Delany,T Shamsi,L Tucker,0,0,0,83,2,4,5,9,,-,,lbw,GJ Delany,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+55,C Campher,T Shamsi,L Tucker,0,0,0,83,0,1,6,9,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+56,L Tucker,KA Maharaj,C Campher,1,0,1,84,37,18,1,10,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+57,C Campher,KA Maharaj,L Tucker,0,0,0,84,0,2,2,10,,-,,bowled,C Campher,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+58,GH Dockrell,KA Maharaj,L Tucker,1,0,1,85,1,1,3,10,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+59,L Tucker,KA Maharaj,GH Dockrell,4,0,4,89,41,19,4,10,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+60,L Tucker,KA Maharaj,GH Dockrell,1,0,1,90,42,20,5,10,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+61,GH Dockrell,KA Maharaj,L Tucker,1,0,1,91,2,2,6,10,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+62,GH Dockrell,T Shamsi,L Tucker,0,0,0,91,2,3,1,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+63,GH Dockrell,T Shamsi,L Tucker,4,0,4,95,6,4,2,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+64,GH Dockrell,T Shamsi,L Tucker,6,0,6,101,12,5,3,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+65,GH Dockrell,T Shamsi,L Tucker,0,0,0,101,12,6,4,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+66,GH Dockrell,T Shamsi,L Tucker,4,0,4,105,16,7,5,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+67,GH Dockrell,T Shamsi,L Tucker,1,0,1,106,17,8,6,11,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+68,GH Dockrell,KA Maharaj,L Tucker,1,0,1,107,18,9,1,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+69,L Tucker,KA Maharaj,GH Dockrell,1,0,1,108,43,21,2,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+70,GH Dockrell,KA Maharaj,L Tucker,1,0,1,109,19,10,3,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+71,L Tucker,KA Maharaj,GH Dockrell,1,0,1,110,44,22,4,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+72,GH Dockrell,KA Maharaj,L Tucker,0,0,0,110,19,11,5,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+73,GH Dockrell,KA Maharaj,L Tucker,1,0,1,111,20,12,6,12,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+74,GH Dockrell,D Pretorius,L Tucker,1,0,1,112,21,13,1,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+75,L Tucker,D Pretorius,GH Dockrell,1,0,1,113,45,23,2,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+76,GH Dockrell,D Pretorius,L Tucker,6,0,6,119,27,14,3,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+77,GH Dockrell,D Pretorius,L Tucker,1,0,1,120,28,15,4,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+78,L Tucker,D Pretorius,GH Dockrell,4,0,4,124,49,24,5,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+79,L Tucker,D Pretorius,GH Dockrell,6,0,6,130,55,25,6,13,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+80,GH Dockrell,WD Parnell,L Tucker,1,0,1,131,29,16,1,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+81,L Tucker,WD Parnell,GH Dockrell,2,0,2,133,57,26,2,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+82,L Tucker,WD Parnell,GH Dockrell,1,0,1,134,58,27,3,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+83,GH Dockrell,WD Parnell,L Tucker,0,0,0,134,29,17,4,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+84,GH Dockrell,WD Parnell,L Tucker,6,0,6,140,35,18,5,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+85,GH Dockrell,WD Parnell,L Tucker,1,0,1,141,36,19,6,14,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+86,GH Dockrell,L Ngidi,L Tucker,1,0,1,142,37,20,1,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+87,L Tucker,L Ngidi,GH Dockrell,0,0,0,142,58,28,2,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+88,L Tucker,L Ngidi,GH Dockrell,0,0,0,142,58,29,3,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+89,L Tucker,L Ngidi,GH Dockrell,4,0,4,146,62,30,4,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+90,L Tucker,L Ngidi,GH Dockrell,1,0,1,147,63,31,5,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+91,GH Dockrell,L Ngidi,L Tucker,1,0,1,148,38,21,6,15,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+92,GH Dockrell,D Pretorius,L Tucker,2,0,2,150,40,22,1,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+93,GH Dockrell,D Pretorius,L Tucker,0,0,0,150,40,23,2,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+94,GH Dockrell,D Pretorius,L Tucker,1,0,1,151,41,24,3,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+95,L Tucker,D Pretorius,GH Dockrell,1,0,1,152,64,32,4,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+96,GH Dockrell,D Pretorius,L Tucker,0,1,1,153,41,25,5,16,{'noballs': 1},noballs,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+97,GH Dockrell,D Pretorius,L Tucker,1,0,1,154,42,26,6,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+98,L Tucker,D Pretorius,GH Dockrell,0,1,1,155,64,33,7,16,{'wides': 1},wides,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+99,L Tucker,D Pretorius,GH Dockrell,0,0,0,155,64,34,8,16,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+100,GH Dockrell,T Shamsi,L Tucker,1,0,1,156,43,27,1,17,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+101,L Tucker,T Shamsi,GH Dockrell,2,0,2,158,66,35,2,17,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+102,L Tucker,T Shamsi,GH Dockrell,2,0,2,160,68,36,3,17,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+103,L Tucker,T Shamsi,GH Dockrell,6,0,6,166,74,37,4,17,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+104,L Tucker,T Shamsi,GH Dockrell,4,0,4,170,78,38,5,17,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+105,L Tucker,T Shamsi,GH Dockrell,0,0,0,170,78,39,6,17,,-,,caught,L Tucker,Q de Kock,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+106,GH Dockrell,D Pretorius,MR Adair,0,0,0,170,43,28,1,18,,-,,caught,GH Dockrell,AK Markram,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+107,MR Adair,D Pretorius,AR McBrine,1,0,1,171,1,1,2,18,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+108,AR McBrine,D Pretorius,MR Adair,1,0,1,172,1,1,3,18,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+109,MR Adair,D Pretorius,AR McBrine,0,0,0,172,1,2,4,18,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+110,MR Adair,D Pretorius,AR McBrine,1,0,1,173,2,3,5,18,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+111,AR McBrine,D Pretorius,MR Adair,2,0,2,175,3,2,6,18,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+112,MR Adair,L Ngidi,AR McBrine,0,0,0,175,2,4,1,19,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+113,MR Adair,L Ngidi,AR McBrine,0,0,0,175,2,5,2,19,,-,,bowled,MR Adair,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+114,BJ McCarthy,L Ngidi,AR McBrine,1,0,1,176,1,1,3,19,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+115,AR McBrine,L Ngidi,BJ McCarthy,6,0,6,182,9,3,4,19,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+116,AR McBrine,L Ngidi,BJ McCarthy,1,0,1,183,10,4,5,19,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+117,BJ McCarthy,L Ngidi,AR McBrine,1,0,1,184,2,2,6,19,,-,,run out,AR McBrine,Q de Kock;H Klaasen,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+118,BJ McCarthy,WD Parnell,J Little,0,0,0,184,2,3,1,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+119,BJ McCarthy,WD Parnell,J Little,0,0,0,184,2,4,2,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+120,BJ McCarthy,WD Parnell,J Little,0,0,0,184,2,5,3,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+121,BJ McCarthy,WD Parnell,J Little,0,0,0,184,2,6,4,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+122,BJ McCarthy,WD Parnell,J Little,0,0,0,184,2,7,5,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa
+123,BJ McCarthy,WD Parnell,J Little,6,0,6,190,8,8,6,20,,-,,0,,,bat,South Africa,2,"County Ground, Bristol",2022-08-03,Ireland,South Africa

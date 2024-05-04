@@ -1,0 +1,65 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,DJ Hooda,J Little,Ishan Kishan,1,0,1,1,1,1,1,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+1,Ishan Kishan,J Little,DJ Hooda,0,0,0,1,0,1,2,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+2,Ishan Kishan,J Little,DJ Hooda,4,0,4,5,4,2,3,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+3,Ishan Kishan,J Little,DJ Hooda,6,0,6,11,10,3,4,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+4,Ishan Kishan,J Little,DJ Hooda,4,0,4,15,14,4,5,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+5,Ishan Kishan,J Little,DJ Hooda,0,0,0,15,14,5,6,1,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+6,DJ Hooda,MR Adair,Ishan Kishan,1,0,1,16,2,2,1,2,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+7,Ishan Kishan,MR Adair,DJ Hooda,1,0,1,17,15,6,2,2,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+8,DJ Hooda,MR Adair,Ishan Kishan,0,0,0,17,2,3,3,2,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+9,DJ Hooda,MR Adair,Ishan Kishan,0,1,1,18,2,4,4,2,{'legbyes': 1},legbyes,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+10,Ishan Kishan,MR Adair,DJ Hooda,0,1,1,19,15,7,5,2,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+11,Ishan Kishan,MR Adair,DJ Hooda,1,0,1,20,16,8,6,2,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+12,DJ Hooda,MR Adair,Ishan Kishan,0,0,0,20,2,5,7,2,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+13,Ishan Kishan,CA Young,DJ Hooda,4,0,4,24,20,9,1,3,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+14,Ishan Kishan,CA Young,DJ Hooda,6,0,6,30,26,10,2,3,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+15,Ishan Kishan,CA Young,DJ Hooda,0,0,0,30,26,11,3,3,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+16,Ishan Kishan,CA Young,DJ Hooda,0,0,0,30,26,12,4,3,,-,,bowled,Ishan Kishan,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+17,SA Yadav,CA Young,DJ Hooda,0,0,0,30,0,1,5,3,,-,"{'by': 'India', 'umpire': 'M Hawthorne', 'batter': 'SA Yadav', 'decision': 'struck down'}",lbw,SA Yadav,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+18,HH Pandya,CA Young,DJ Hooda,0,1,1,31,0,1,6,3,{'noballs': 1},noballs,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+19,HH Pandya,CA Young,DJ Hooda,4,0,4,35,4,2,7,3,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+20,DJ Hooda,MR Adair,HH Pandya,0,0,0,35,2,6,1,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+21,DJ Hooda,MR Adair,HH Pandya,0,0,0,35,2,7,2,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+22,DJ Hooda,MR Adair,HH Pandya,4,0,4,39,6,8,3,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+23,DJ Hooda,MR Adair,HH Pandya,0,1,1,40,6,9,4,4,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+24,DJ Hooda,MR Adair,HH Pandya,4,0,4,44,10,10,5,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+25,DJ Hooda,MR Adair,HH Pandya,1,0,1,45,11,11,6,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+26,HH Pandya,MR Adair,DJ Hooda,0,0,0,45,4,3,7,4,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+27,DJ Hooda,CA Young,HH Pandya,0,1,1,46,11,12,1,5,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+28,DJ Hooda,CA Young,HH Pandya,0,0,0,46,11,13,2,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+29,DJ Hooda,CA Young,HH Pandya,0,0,0,46,11,14,3,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+30,DJ Hooda,CA Young,HH Pandya,0,0,0,46,11,15,4,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+31,DJ Hooda,CA Young,HH Pandya,1,0,1,47,12,16,5,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+32,HH Pandya,CA Young,DJ Hooda,0,0,0,47,4,4,6,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+33,HH Pandya,CA Young,DJ Hooda,1,0,1,48,5,5,7,5,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+34,HH Pandya,AR McBrine,DJ Hooda,6,0,6,54,11,6,1,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+35,HH Pandya,AR McBrine,DJ Hooda,1,0,1,55,12,7,2,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+36,DJ Hooda,AR McBrine,HH Pandya,6,0,6,61,18,17,3,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+37,DJ Hooda,AR McBrine,HH Pandya,0,1,1,62,18,18,4,6,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+38,DJ Hooda,AR McBrine,HH Pandya,0,0,0,62,18,19,5,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+39,DJ Hooda,AR McBrine,HH Pandya,1,0,1,63,19,20,6,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+40,HH Pandya,AR McBrine,DJ Hooda,6,0,6,69,18,8,7,6,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+41,DJ Hooda,C Olphert,HH Pandya,6,0,6,75,25,21,1,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+42,DJ Hooda,C Olphert,HH Pandya,0,0,0,75,25,22,2,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+43,DJ Hooda,C Olphert,HH Pandya,2,0,2,77,27,23,3,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+44,DJ Hooda,C Olphert,HH Pandya,1,0,1,78,28,24,4,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+45,HH Pandya,C Olphert,DJ Hooda,0,0,0,78,18,9,5,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+46,HH Pandya,C Olphert,DJ Hooda,0,0,0,78,18,10,6,7,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+47,DJ Hooda,J Little,HH Pandya,0,0,0,78,28,25,1,8,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+48,DJ Hooda,J Little,HH Pandya,4,0,4,82,32,26,2,8,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+49,DJ Hooda,J Little,HH Pandya,4,0,4,86,36,27,3,8,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+50,DJ Hooda,J Little,HH Pandya,1,0,1,87,37,28,4,8,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+51,HH Pandya,J Little,DJ Hooda,6,0,6,93,24,11,5,8,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+52,HH Pandya,J Little,DJ Hooda,0,1,1,94,24,12,6,8,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+53,HH Pandya,J Little,DJ Hooda,0,0,0,94,24,13,7,8,,-,"{'by': 'India', 'umpire': 'PA Reynolds', 'batter': 'HH Pandya', 'decision': 'struck down', 'umpires_call': True}",lbw,HH Pandya,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+54,DJ Hooda,C Olphert,KD Karthik,1,0,1,95,38,29,1,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+55,KD Karthik,C Olphert,DJ Hooda,0,0,0,95,0,1,2,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+56,KD Karthik,C Olphert,DJ Hooda,0,1,1,96,0,2,3,9,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+57,KD Karthik,C Olphert,DJ Hooda,1,0,1,97,1,3,4,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+58,DJ Hooda,C Olphert,KD Karthik,1,0,1,98,39,30,5,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+59,KD Karthik,C Olphert,DJ Hooda,0,0,0,98,1,4,6,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+60,KD Karthik,C Olphert,DJ Hooda,0,1,1,99,1,5,7,9,{'wides': 1},wides,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+61,KD Karthik,C Olphert,DJ Hooda,4,0,4,103,5,6,8,9,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+62,DJ Hooda,J Little,KD Karthik,4,0,4,107,43,31,1,10,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland
+63,DJ Hooda,J Little,KD Karthik,4,0,4,111,47,32,2,10,,-,,0,,,field,India,2,"The Village, Malahide, Dublin",2022-06-26,India,Ireland

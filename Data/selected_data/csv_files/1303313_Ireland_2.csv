@@ -1,0 +1,88 @@
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,MJ Santner,A Balbirnie,0,0,0,0,0,1,1,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+1,PR Stirling,MJ Santner,A Balbirnie,0,0,0,0,0,2,2,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+2,PR Stirling,MJ Santner,A Balbirnie,6,0,6,6,6,3,3,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+3,PR Stirling,MJ Santner,A Balbirnie,0,0,0,6,6,4,4,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+4,PR Stirling,MJ Santner,A Balbirnie,4,0,4,10,10,5,5,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+5,PR Stirling,MJ Santner,A Balbirnie,1,0,1,11,11,6,6,1,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+6,PR Stirling,JA Duffy,A Balbirnie,1,0,1,12,12,7,1,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+7,A Balbirnie,JA Duffy,PR Stirling,1,0,1,13,1,1,2,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+8,PR Stirling,JA Duffy,A Balbirnie,4,0,4,17,16,8,3,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+9,PR Stirling,JA Duffy,A Balbirnie,1,0,1,18,17,9,4,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+10,A Balbirnie,JA Duffy,PR Stirling,0,0,0,18,1,2,5,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+11,A Balbirnie,JA Duffy,PR Stirling,0,0,0,18,1,3,6,2,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+12,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,18,17,10,1,3,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+13,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,18,17,11,2,3,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+14,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,18,17,12,3,3,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+15,PR Stirling,LH Ferguson,A Balbirnie,4,0,4,22,21,13,4,3,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+16,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,22,21,14,5,3,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+17,PR Stirling,LH Ferguson,A Balbirnie,0,1,1,23,21,15,6,3,{'wides': 1},wides,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+18,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,23,21,16,7,3,,-,caught,PR Stirling,MJ Santner,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+19,A Balbirnie,JA Duffy,GJ Delany,1,0,1,24,2,4,1,4,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+20,GJ Delany,JA Duffy,A Balbirnie,0,0,0,24,0,1,2,4,,-,bowled,GJ Delany,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+21,HT Tector,JA Duffy,A Balbirnie,1,0,1,25,1,1,3,4,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+22,A Balbirnie,JA Duffy,HT Tector,1,0,1,26,3,5,4,4,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+23,HT Tector,JA Duffy,A Balbirnie,1,0,1,27,2,2,5,4,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+24,A Balbirnie,JA Duffy,HT Tector,0,0,0,27,3,6,6,4,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+25,HT Tector,LH Ferguson,A Balbirnie,0,0,0,27,2,3,1,5,,-,run out,HT Tector,GD Phillips,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+26,A Balbirnie,LH Ferguson,C Campher,2,0,2,29,5,7,2,5,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+27,A Balbirnie,LH Ferguson,C Campher,1,0,1,30,6,8,3,5,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+28,C Campher,LH Ferguson,A Balbirnie,0,1,1,31,0,1,4,5,{'wides': 1},wides,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+29,C Campher,LH Ferguson,A Balbirnie,0,0,0,31,0,2,5,5,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+30,C Campher,LH Ferguson,A Balbirnie,0,0,0,31,0,3,6,5,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+31,C Campher,LH Ferguson,A Balbirnie,1,0,1,32,1,4,7,5,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+32,C Campher,JA Duffy,A Balbirnie,4,0,4,36,5,5,1,6,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+33,C Campher,JA Duffy,A Balbirnie,1,0,1,37,6,6,2,6,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+34,A Balbirnie,JA Duffy,C Campher,0,0,0,37,6,9,3,6,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+35,A Balbirnie,JA Duffy,C Campher,4,0,4,41,10,10,4,6,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+36,A Balbirnie,JA Duffy,C Campher,0,0,0,41,10,11,5,6,,-,caught,A Balbirnie,D Cleaver,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+37,L Tucker,JA Duffy,C Campher,0,0,0,41,0,1,6,6,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+38,C Campher,MJ Santner,L Tucker,0,0,0,41,6,7,1,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+39,C Campher,MJ Santner,L Tucker,0,0,0,41,6,8,2,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+40,C Campher,MJ Santner,L Tucker,0,0,0,41,6,9,3,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+41,C Campher,MJ Santner,L Tucker,1,0,1,42,7,10,4,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+42,L Tucker,MJ Santner,C Campher,0,0,0,42,0,2,5,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+43,L Tucker,MJ Santner,C Campher,1,0,1,43,1,3,6,7,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+44,L Tucker,IS Sodhi,C Campher,0,0,0,43,1,4,1,8,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+45,L Tucker,IS Sodhi,C Campher,1,0,1,44,2,5,2,8,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+46,C Campher,IS Sodhi,L Tucker,1,0,1,45,8,11,3,8,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+47,L Tucker,IS Sodhi,C Campher,0,0,0,45,2,6,4,8,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+48,L Tucker,IS Sodhi,C Campher,0,0,0,45,2,7,5,8,,-,stumped,L Tucker,D Cleaver,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+49,GH Dockrell,IS Sodhi,C Campher,0,0,0,45,0,1,6,8,,-,caught,GH Dockrell,JDS Neesham,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+50,C Campher,MJ Santner,MR Adair,4,0,4,49,12,12,1,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+51,C Campher,MJ Santner,MR Adair,1,0,1,50,13,13,2,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+52,MR Adair,MJ Santner,C Campher,0,1,1,51,0,1,3,9,{'wides': 1},wides,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+53,MR Adair,MJ Santner,C Campher,0,1,1,52,0,2,4,9,{'wides': 1},wides,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+54,MR Adair,MJ Santner,C Campher,0,0,0,52,0,3,5,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+55,MR Adair,MJ Santner,C Campher,0,0,0,52,0,4,6,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+56,MR Adair,MJ Santner,C Campher,0,0,0,52,0,5,7,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+57,MR Adair,MJ Santner,C Campher,0,0,0,52,0,6,8,9,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+58,C Campher,IS Sodhi,MR Adair,1,0,1,53,14,14,1,10,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+59,MR Adair,IS Sodhi,C Campher,0,0,0,53,0,7,2,10,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+60,MR Adair,IS Sodhi,C Campher,1,0,1,54,1,8,3,10,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+61,C Campher,IS Sodhi,MR Adair,0,0,0,54,14,15,4,10,,-,caught,C Campher,JDS Neesham,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+62,BJ McCarthy,IS Sodhi,MR Adair,1,0,1,55,1,1,5,10,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+63,MR Adair,IS Sodhi,BJ McCarthy,1,0,1,56,2,9,6,10,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+64,MR Adair,MJ Santner,BJ McCarthy,4,0,4,60,6,10,1,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+65,MR Adair,MJ Santner,BJ McCarthy,0,0,0,60,6,11,2,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+66,MR Adair,MJ Santner,BJ McCarthy,0,0,0,60,6,12,3,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+67,MR Adair,MJ Santner,BJ McCarthy,1,0,1,61,7,13,4,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+68,BJ McCarthy,MJ Santner,MR Adair,0,0,0,61,1,2,5,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+69,BJ McCarthy,MJ Santner,MR Adair,0,0,0,61,1,3,6,11,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+70,MR Adair,IS Sodhi,BJ McCarthy,0,0,0,61,7,14,1,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+71,MR Adair,IS Sodhi,BJ McCarthy,4,0,4,65,11,15,2,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+72,MR Adair,IS Sodhi,BJ McCarthy,4,0,4,69,15,16,3,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+73,MR Adair,IS Sodhi,BJ McCarthy,6,0,6,75,21,17,4,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+74,MR Adair,IS Sodhi,BJ McCarthy,0,0,0,75,21,18,5,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+75,MR Adair,IS Sodhi,BJ McCarthy,1,0,1,76,22,19,6,12,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+76,MR Adair,JDS Neesham,BJ McCarthy,1,0,1,77,23,20,1,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+77,BJ McCarthy,JDS Neesham,MR Adair,4,0,4,81,5,4,2,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+78,BJ McCarthy,JDS Neesham,MR Adair,1,0,1,82,6,5,3,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+79,MR Adair,JDS Neesham,BJ McCarthy,0,0,0,82,23,21,4,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+80,MR Adair,JDS Neesham,BJ McCarthy,0,0,0,82,23,22,5,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+81,MR Adair,JDS Neesham,BJ McCarthy,4,0,4,86,27,23,6,13,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+82,BJ McCarthy,MG Bracewell,MR Adair,4,0,4,90,10,6,1,14,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+83,BJ McCarthy,MG Bracewell,MR Adair,1,0,1,91,11,7,2,14,,-,0,,,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+84,MR Adair,MG Bracewell,BJ McCarthy,0,0,0,91,27,24,3,14,,-,caught,MR Adair,GD Phillips,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+85,BJ McCarthy,MG Bracewell,CA Young,0,0,0,91,11,8,4,14,,-,caught,BJ McCarthy,GD Phillips,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand
+86,CA Young,MG Bracewell,J Little,0,0,0,91,0,1,5,14,,-,caught,CA Young,IS Sodhi,field,Ireland,2,"Civil Service Cricket Club, Stormont, Belfast",2022-07-20,Ireland,New Zealand

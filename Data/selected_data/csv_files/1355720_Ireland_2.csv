@@ -1,0 +1,52 @@
+,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,Nasum Ahmed,GR Adair,,4,0,4,4,4,1,1,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+1,PR Stirling,Nasum Ahmed,GR Adair,{'wides': 1},0,1,1,5,4,2,2,wides,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+2,PR Stirling,Nasum Ahmed,GR Adair,,0,0,0,5,4,3,3,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+3,PR Stirling,Nasum Ahmed,GR Adair,,4,0,4,9,8,4,4,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+4,PR Stirling,Nasum Ahmed,GR Adair,,4,0,4,13,12,5,5,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+5,PR Stirling,Nasum Ahmed,GR Adair,,1,0,1,14,13,6,6,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+6,GR Adair,Nasum Ahmed,PR Stirling,,4,0,4,18,4,1,7,-,1,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+7,PR Stirling,Mustafizur Rahman,GR Adair,{'legbyes': 1},0,1,1,19,13,7,1,legbyes,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+8,GR Adair,Mustafizur Rahman,PR Stirling,,4,0,4,23,8,2,2,-,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+9,GR Adair,Mustafizur Rahman,PR Stirling,,0,0,0,23,8,3,3,-,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+10,GR Adair,Mustafizur Rahman,PR Stirling,{'legbyes': 4},0,4,4,27,8,4,4,legbyes,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+11,GR Adair,Mustafizur Rahman,PR Stirling,,4,0,4,31,12,5,5,-,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+12,GR Adair,Mustafizur Rahman,PR Stirling,,1,0,1,32,13,6,6,-,2,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+13,GR Adair,Hasan Mahmud,PR Stirling,,0,0,0,32,13,7,1,-,3,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+14,GR Adair,Hasan Mahmud,PR Stirling,,0,0,0,32,13,8,2,-,3,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+15,GR Adair,Hasan Mahmud,PR Stirling,,0,0,0,32,13,9,3,-,3,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+16,GR Adair,Hasan Mahmud,PR Stirling,,0,0,0,32,13,10,4,-,3,bowled,GR Adair,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+17,L Tucker,Hasan Mahmud,PR Stirling,,1,0,1,33,1,1,5,-,3,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+18,PR Stirling,Hasan Mahmud,L Tucker,,4,0,4,37,17,8,6,-,3,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+19,L Tucker,Taskin Ahmed,PR Stirling,,0,0,0,37,1,2,1,-,4,bowled,L Tucker,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+20,HT Tector,Taskin Ahmed,PR Stirling,,2,0,2,39,2,1,2,-,4,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+21,HT Tector,Taskin Ahmed,PR Stirling,,1,0,1,40,3,2,3,-,4,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+22,PR Stirling,Taskin Ahmed,HT Tector,,0,0,0,40,17,9,4,-,4,bowled,PR Stirling,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+23,GH Dockrell,Taskin Ahmed,HT Tector,,0,0,0,40,0,1,5,-,4,caught,GH Dockrell,Shamim Hossain,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+24,GJ Delany,Taskin Ahmed,HT Tector,,4,0,4,44,4,1,6,-,4,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+25,HT Tector,Hasan Mahmud,GJ Delany,,4,0,4,48,7,3,1,-,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+26,HT Tector,Hasan Mahmud,GJ Delany,{'wides': 1},0,1,1,49,7,4,2,wides,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+27,HT Tector,Hasan Mahmud,GJ Delany,,4,0,4,53,11,5,3,-,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+28,HT Tector,Hasan Mahmud,GJ Delany,,1,0,1,54,12,6,4,-,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+29,GJ Delany,Hasan Mahmud,HT Tector,,1,0,1,55,5,2,5,-,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+30,HT Tector,Hasan Mahmud,GJ Delany,,4,0,4,59,16,7,6,-,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+31,HT Tector,Hasan Mahmud,GJ Delany,{'legbyes': 1},0,1,1,60,16,8,7,legbyes,5,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+32,HT Tector,Shakib Al Hasan,GJ Delany,,1,0,1,61,17,9,1,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+33,GJ Delany,Shakib Al Hasan,HT Tector,,0,0,0,61,5,3,2,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+34,GJ Delany,Shakib Al Hasan,HT Tector,,0,0,0,61,5,4,3,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+35,GJ Delany,Shakib Al Hasan,HT Tector,,0,0,0,61,5,5,4,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+36,GJ Delany,Shakib Al Hasan,HT Tector,,4,0,4,65,9,6,5,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+37,GJ Delany,Shakib Al Hasan,HT Tector,,0,0,0,65,9,7,6,-,6,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+38,HT Tector,Mustafizur Rahman,GJ Delany,,1,0,1,66,18,10,1,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+39,GJ Delany,Mustafizur Rahman,HT Tector,,2,0,2,68,11,8,2,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+40,GJ Delany,Mustafizur Rahman,HT Tector,,2,0,2,70,13,9,3,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+41,GJ Delany,Mustafizur Rahman,HT Tector,,1,0,1,71,14,10,4,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+42,HT Tector,Mustafizur Rahman,GJ Delany,,0,0,0,71,18,11,5,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+43,HT Tector,Mustafizur Rahman,GJ Delany,,1,0,1,72,19,12,6,-,7,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+44,HT Tector,Taskin Ahmed,GJ Delany,,0,0,0,72,19,13,1,-,8,caught,HT Tector,Mehedi Hasan Miraz,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+45,C Campher,Taskin Ahmed,GJ Delany,,0,0,0,72,0,1,2,-,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+46,C Campher,Taskin Ahmed,GJ Delany,,1,0,1,73,1,2,3,-,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+47,GJ Delany,Taskin Ahmed,C Campher,,2,0,2,75,16,11,4,-,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+48,GJ Delany,Taskin Ahmed,C Campher,{'noballs': 1},0,1,1,76,16,12,5,noballs,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+49,GJ Delany,Taskin Ahmed,C Campher,,4,0,4,80,20,13,6,-,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
+50,GJ Delany,Taskin Ahmed,C Campher,,1,0,1,81,21,14,7,-,8,0,,,field,Ireland,2,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-03-27,Ireland,Bangladesh
