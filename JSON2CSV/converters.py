@@ -101,21 +101,18 @@ def json_to_csv(match_file, output_file=False):
         "West Indies",
         "Bangladesh",
         "Zimbabwe",
+        "Ireland",
+        "Afghanistan",
     ]
     # Filter based on Associate countries
     date = info["dates"][0]
 
-    asc_teams = [
-        "Ireland",
-    ]
-    if info["teams"][0] in asc_teams and datetime.strptime(date, "%Y-%m-%d") > datetime(
-        2016, 9, 4
-    ):
-        print(f"Found{match_file}")
-
     if info["teams"][0] not in teams or info["teams"][1] not in teams:
-        # print("Teams are not top 10")
         return
+    else:
+        if info["teams"][0] == "Afghanistan" or info["teams"][1] == "Afghanistan":
+            if datetime.strptime(date, "%Y-%m-%d") < datetime(2017, 6, 22):
+                return
 
     # Added toss decision and toss winner
     toss_decision = info["toss"]["decision"]
