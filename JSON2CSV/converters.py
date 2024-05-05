@@ -157,6 +157,8 @@ def json_to_csv(match_file, output_file=False):
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
 
+        # drop extras column
+
         # No outcome error handle
 
         if len(innings) > 1:
@@ -168,6 +170,9 @@ def json_to_csv(match_file, output_file=False):
             df["bowling_team"] = None
 
         team_innings = f"{inning['team']}_{idx+1}"
+
+        if "extras" in df.columns:
+            df.drop(columns=["extras"], inplace=True)
         if output_file:
 
             file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
