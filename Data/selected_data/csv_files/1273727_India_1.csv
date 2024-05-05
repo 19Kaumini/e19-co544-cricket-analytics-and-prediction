@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,0,1,1,0,,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-1,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,0,2,2,0,,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-2,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,1,1,3,3,0,,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-3,RG Sharma,Shaheen Shah Afridi,KL Rahul,0,0,0,1,0,1,4,lbw,RG Sharma,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-4,V Kohli,Shaheen Shah Afridi,KL Rahul,0,0,0,1,0,1,5,0,,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-5,V Kohli,Shaheen Shah Afridi,KL Rahul,1,0,1,2,1,2,6,0,,,1,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-6,V Kohli,Imad Wasim,KL Rahul,1,0,1,3,2,3,1,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-7,KL Rahul,Imad Wasim,V Kohli,0,0,0,3,1,4,2,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-8,KL Rahul,Imad Wasim,V Kohli,1,0,1,4,2,5,3,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-9,V Kohli,Imad Wasim,KL Rahul,1,0,1,5,3,4,4,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-10,KL Rahul,Imad Wasim,V Kohli,0,0,0,5,2,6,5,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-11,KL Rahul,Imad Wasim,V Kohli,1,0,1,6,3,7,6,0,,,2,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-12,KL Rahul,Shaheen Shah Afridi,V Kohli,0,0,0,6,3,8,1,bowled,KL Rahul,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-13,SA Yadav,Shaheen Shah Afridi,V Kohli,0,0,0,6,0,1,2,0,,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-14,SA Yadav,Shaheen Shah Afridi,V Kohli,0,0,0,6,0,2,3,0,,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-15,SA Yadav,Shaheen Shah Afridi,V Kohli,1,0,1,7,1,3,4,0,,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-16,V Kohli,Shaheen Shah Afridi,SA Yadav,1,0,1,8,4,5,5,0,,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-17,SA Yadav,Shaheen Shah Afridi,V Kohli,6,0,6,14,7,4,6,0,,,3,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-18,V Kohli,Imad Wasim,SA Yadav,0,0,0,14,4,6,1,0,,,4,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-19,V Kohli,Imad Wasim,SA Yadav,0,0,0,14,4,7,2,0,,,4,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-20,V Kohli,Imad Wasim,SA Yadav,1,0,1,15,5,8,3,0,,,4,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-21,SA Yadav,Imad Wasim,V Kohli,0,1,1,16,7,5,4,0,,,4,{'legbyes': 1},legbyes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-22,V Kohli,Imad Wasim,SA Yadav,1,0,1,17,6,9,5,0,,,4,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-23,SA Yadav,Imad Wasim,V Kohli,4,0,4,21,11,6,6,0,,,4,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-24,V Kohli,Shaheen Shah Afridi,SA Yadav,2,0,2,23,8,10,1,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-25,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,11,2,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-26,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,12,3,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-27,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,13,4,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-28,V Kohli,Shaheen Shah Afridi,SA Yadav,6,0,6,29,14,14,5,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-29,V Kohli,Shaheen Shah Afridi,SA Yadav,1,0,1,30,15,15,6,0,,,5,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-30,V Kohli,Hasan Ali,SA Yadav,0,0,0,30,15,16,1,0,,,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-31,V Kohli,Hasan Ali,SA Yadav,1,0,1,31,16,17,2,0,,,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-32,SA Yadav,Hasan Ali,V Kohli,0,0,0,31,11,7,3,0,,,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-33,SA Yadav,Hasan Ali,V Kohli,0,0,0,31,11,8,4,caught,SA Yadav,Mohammad Rizwan,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-34,RR Pant,Hasan Ali,V Kohli,1,0,1,32,1,1,5,0,,,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-35,V Kohli,Hasan Ali,RR Pant,4,0,4,36,20,18,6,0,,,6,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-36,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,2,1,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-37,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,3,2,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-38,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,4,3,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-39,RR Pant,Shadab Khan,V Kohli,2,0,2,38,3,5,4,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-40,RR Pant,Shadab Khan,V Kohli,0,0,0,38,3,6,5,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-41,RR Pant,Shadab Khan,V Kohli,1,0,1,39,4,7,6,0,,,7,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-42,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,39,4,8,1,0,,,8,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-43,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,40,5,9,2,0,,,8,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-44,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,41,21,19,3,0,,,8,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-45,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,41,5,10,4,0,,,8,,-,"{'by': 'Pakistan', 'umpire': 'M Erasmus', 'batter': 'RR Pant', 'decision': 'struck down'}",field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-46,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,42,6,11,5,0,,,8,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-47,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,43,22,20,6,0,,,8,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-48,V Kohli,Shadab Khan,RR Pant,1,0,1,44,23,21,1,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-49,RR Pant,Shadab Khan,V Kohli,0,0,0,44,6,12,2,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-50,RR Pant,Shadab Khan,V Kohli,2,0,2,46,8,13,3,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-51,RR Pant,Shadab Khan,V Kohli,1,0,1,47,9,14,4,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-52,V Kohli,Shadab Khan,RR Pant,1,0,1,48,24,22,5,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-53,RR Pant,Shadab Khan,V Kohli,4,0,4,52,13,15,6,0,,,9,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-54,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,53,25,23,1,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-55,RR Pant,Mohammad Hafeez,V Kohli,4,0,4,57,17,16,2,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-56,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,58,18,17,3,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-57,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,59,26,24,4,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-58,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,59,18,18,5,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-59,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,60,19,19,6,0,,,10,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-60,RR Pant,Haris Rauf,V Kohli,1,0,1,61,20,20,1,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-61,V Kohli,Haris Rauf,RR Pant,0,1,1,62,26,25,2,0,,,11,{'wides': 1},wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-62,V Kohli,Haris Rauf,RR Pant,1,0,1,63,27,26,3,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-63,RR Pant,Haris Rauf,V Kohli,1,0,1,64,21,21,4,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-64,V Kohli,Haris Rauf,RR Pant,1,0,1,65,28,27,5,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-65,RR Pant,Haris Rauf,V Kohli,0,0,0,65,21,22,6,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-66,RR Pant,Haris Rauf,V Kohli,1,0,1,66,22,23,7,0,,,11,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-67,RR Pant,Hasan Ali,V Kohli,0,0,0,66,22,24,1,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-68,RR Pant,Hasan Ali,V Kohli,6,0,6,72,28,25,2,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-69,RR Pant,Hasan Ali,V Kohli,6,0,6,78,34,26,3,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-70,RR Pant,Hasan Ali,V Kohli,2,0,2,80,36,27,4,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-71,RR Pant,Hasan Ali,V Kohli,1,0,1,81,37,28,5,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-72,V Kohli,Hasan Ali,RR Pant,0,0,0,81,28,28,6,0,,,12,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-73,RR Pant,Shadab Khan,V Kohli,2,0,2,83,39,29,1,0,,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-74,RR Pant,Shadab Khan,V Kohli,0,1,1,84,39,30,2,0,,,13,{'wides': 1},wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-75,RR Pant,Shadab Khan,V Kohli,0,0,0,84,39,31,3,caught and bowled,RR Pant,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-76,V Kohli,Shadab Khan,RA Jadeja,0,0,0,84,28,29,4,0,,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-77,V Kohli,Shadab Khan,RA Jadeja,1,0,1,85,29,30,5,0,,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-78,RA Jadeja,Shadab Khan,V Kohli,1,0,1,86,1,1,6,0,,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-79,V Kohli,Shadab Khan,RA Jadeja,1,0,1,87,30,31,7,0,,,13,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-80,V Kohli,Haris Rauf,RA Jadeja,1,0,1,88,31,32,1,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-81,RA Jadeja,Haris Rauf,V Kohli,0,0,0,88,1,2,2,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-82,RA Jadeja,Haris Rauf,V Kohli,2,0,2,90,3,3,3,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-83,RA Jadeja,Haris Rauf,V Kohli,1,0,1,91,4,4,4,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-84,V Kohli,Haris Rauf,RA Jadeja,0,1,1,92,31,33,5,0,,,14,{'wides': 1},wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-85,V Kohli,Haris Rauf,RA Jadeja,4,0,4,96,35,34,6,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-86,V Kohli,Haris Rauf,RA Jadeja,0,0,0,96,35,35,7,0,,,14,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-87,RA Jadeja,Shadab Khan,V Kohli,0,0,0,96,4,5,1,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-88,RA Jadeja,Shadab Khan,V Kohli,0,0,0,96,4,6,2,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-89,RA Jadeja,Shadab Khan,V Kohli,1,0,1,97,5,7,3,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-90,V Kohli,Shadab Khan,RA Jadeja,1,0,1,98,36,36,4,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-91,RA Jadeja,Shadab Khan,V Kohli,1,0,1,99,6,8,5,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-92,V Kohli,Shadab Khan,RA Jadeja,1,0,1,100,37,37,6,0,,,15,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-93,V Kohli,Hasan Ali,RA Jadeja,0,0,0,100,37,38,1,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-94,V Kohli,Hasan Ali,RA Jadeja,4,0,4,104,41,39,2,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-95,V Kohli,Hasan Ali,RA Jadeja,0,0,0,104,41,40,3,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-96,V Kohli,Hasan Ali,RA Jadeja,4,0,4,108,45,41,4,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-97,V Kohli,Hasan Ali,RA Jadeja,1,0,1,109,46,42,5,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-98,RA Jadeja,Hasan Ali,V Kohli,1,0,1,110,7,9,6,0,,,16,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-99,RA Jadeja,Haris Rauf,V Kohli,1,0,1,111,8,10,1,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-100,V Kohli,Haris Rauf,RA Jadeja,1,0,1,112,47,43,2,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-101,RA Jadeja,Haris Rauf,V Kohli,1,0,1,113,9,11,3,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-102,V Kohli,Haris Rauf,RA Jadeja,0,0,0,113,47,44,4,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-103,V Kohli,Haris Rauf,RA Jadeja,0,0,0,113,47,45,5,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-104,V Kohli,Haris Rauf,RA Jadeja,1,0,1,114,48,46,6,0,,,17,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-105,V Kohli,Hasan Ali,RA Jadeja,2,0,2,116,50,47,1,0,,,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-106,V Kohli,Hasan Ali,RA Jadeja,4,0,4,120,54,48,2,0,,,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-107,V Kohli,Hasan Ali,RA Jadeja,1,0,1,121,55,49,3,0,,,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-108,RA Jadeja,Hasan Ali,V Kohli,4,0,4,125,13,12,4,0,,,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-109,RA Jadeja,Hasan Ali,V Kohli,0,0,0,125,13,13,5,caught,RA Jadeja,Mohammad Nawaz,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-110,V Kohli,Hasan Ali,HH Pandya,2,0,2,127,57,50,6,0,,,18,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-111,HH Pandya,Shaheen Shah Afridi,V Kohli,0,1,1,128,0,1,1,0,,,19,{'wides': 1},wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-112,HH Pandya,Shaheen Shah Afridi,V Kohli,0,0,0,128,0,2,2,0,,,19,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-113,HH Pandya,Shaheen Shah Afridi,V Kohli,4,0,4,132,4,3,3,0,,,19,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-114,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,133,5,4,4,0,,,19,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-115,V Kohli,Shaheen Shah Afridi,HH Pandya,0,0,0,133,57,51,5,caught,V Kohli,Mohammad Rizwan,19,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-116,B Kumar,Shaheen Shah Afridi,HH Pandya,1,0,1,134,1,1,6,0,,,19,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-117,HH Pandya,Shaheen Shah Afridi,B Kumar,4,1,5,139,9,5,7,0,,,19,{'noballs': 1},noballs,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-118,HH Pandya,Shaheen Shah Afridi,B Kumar,0,5,5,144,9,6,8,0,,,19,{'byes': 5},byes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-119,HH Pandya,Haris Rauf,B Kumar,0,0,0,144,9,7,1,0,,,20,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-120,HH Pandya,Haris Rauf,B Kumar,2,0,2,146,11,8,2,0,,,20,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-121,HH Pandya,Haris Rauf,B Kumar,0,0,0,146,11,9,3,caught,HH Pandya,Babar Azam,20,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-122,B Kumar,Haris Rauf,Mohammed Shami,2,0,2,148,3,2,4,0,,,20,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-123,B Kumar,Haris Rauf,Mohammed Shami,2,0,2,150,5,3,5,0,,,20,,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
-124,B Kumar,Haris Rauf,Mohammed Shami,0,1,1,151,5,4,6,0,,,20,{'byes': 1},byes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,0,1,1,0,,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+1,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,0,2,2,0,,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+2,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,1,1,3,3,0,,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+3,RG Sharma,Shaheen Shah Afridi,KL Rahul,0,0,0,1,0,1,4,lbw,RG Sharma,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+4,V Kohli,Shaheen Shah Afridi,KL Rahul,0,0,0,1,0,1,5,0,,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+5,V Kohli,Shaheen Shah Afridi,KL Rahul,1,0,1,2,1,2,6,0,,,1,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+6,V Kohli,Imad Wasim,KL Rahul,1,0,1,3,2,3,1,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+7,KL Rahul,Imad Wasim,V Kohli,0,0,0,3,1,4,2,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+8,KL Rahul,Imad Wasim,V Kohli,1,0,1,4,2,5,3,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+9,V Kohli,Imad Wasim,KL Rahul,1,0,1,5,3,4,4,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+10,KL Rahul,Imad Wasim,V Kohli,0,0,0,5,2,6,5,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+11,KL Rahul,Imad Wasim,V Kohli,1,0,1,6,3,7,6,0,,,2,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+12,KL Rahul,Shaheen Shah Afridi,V Kohli,0,0,0,6,3,8,1,bowled,KL Rahul,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+13,SA Yadav,Shaheen Shah Afridi,V Kohli,0,0,0,6,0,1,2,0,,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+14,SA Yadav,Shaheen Shah Afridi,V Kohli,0,0,0,6,0,2,3,0,,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+15,SA Yadav,Shaheen Shah Afridi,V Kohli,1,0,1,7,1,3,4,0,,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+16,V Kohli,Shaheen Shah Afridi,SA Yadav,1,0,1,8,4,5,5,0,,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+17,SA Yadav,Shaheen Shah Afridi,V Kohli,6,0,6,14,7,4,6,0,,,3,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+18,V Kohli,Imad Wasim,SA Yadav,0,0,0,14,4,6,1,0,,,4,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+19,V Kohli,Imad Wasim,SA Yadav,0,0,0,14,4,7,2,0,,,4,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+20,V Kohli,Imad Wasim,SA Yadav,1,0,1,15,5,8,3,0,,,4,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+21,SA Yadav,Imad Wasim,V Kohli,0,1,1,16,7,5,4,0,,,4,legbyes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+22,V Kohli,Imad Wasim,SA Yadav,1,0,1,17,6,9,5,0,,,4,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+23,SA Yadav,Imad Wasim,V Kohli,4,0,4,21,11,6,6,0,,,4,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+24,V Kohli,Shaheen Shah Afridi,SA Yadav,2,0,2,23,8,10,1,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+25,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,11,2,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+26,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,12,3,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+27,V Kohli,Shaheen Shah Afridi,SA Yadav,0,0,0,23,8,13,4,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+28,V Kohli,Shaheen Shah Afridi,SA Yadav,6,0,6,29,14,14,5,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+29,V Kohli,Shaheen Shah Afridi,SA Yadav,1,0,1,30,15,15,6,0,,,5,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+30,V Kohli,Hasan Ali,SA Yadav,0,0,0,30,15,16,1,0,,,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+31,V Kohli,Hasan Ali,SA Yadav,1,0,1,31,16,17,2,0,,,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+32,SA Yadav,Hasan Ali,V Kohli,0,0,0,31,11,7,3,0,,,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+33,SA Yadav,Hasan Ali,V Kohli,0,0,0,31,11,8,4,caught,SA Yadav,Mohammad Rizwan,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+34,RR Pant,Hasan Ali,V Kohli,1,0,1,32,1,1,5,0,,,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+35,V Kohli,Hasan Ali,RR Pant,4,0,4,36,20,18,6,0,,,6,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+36,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,2,1,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+37,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,3,2,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+38,RR Pant,Shadab Khan,V Kohli,0,0,0,36,1,4,3,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+39,RR Pant,Shadab Khan,V Kohli,2,0,2,38,3,5,4,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+40,RR Pant,Shadab Khan,V Kohli,0,0,0,38,3,6,5,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+41,RR Pant,Shadab Khan,V Kohli,1,0,1,39,4,7,6,0,,,7,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+42,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,39,4,8,1,0,,,8,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+43,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,40,5,9,2,0,,,8,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+44,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,41,21,19,3,0,,,8,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+45,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,41,5,10,4,0,,,8,-,"{'by': 'Pakistan', 'umpire': 'M Erasmus', 'batter': 'RR Pant', 'decision': 'struck down'}",field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+46,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,42,6,11,5,0,,,8,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+47,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,43,22,20,6,0,,,8,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+48,V Kohli,Shadab Khan,RR Pant,1,0,1,44,23,21,1,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+49,RR Pant,Shadab Khan,V Kohli,0,0,0,44,6,12,2,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+50,RR Pant,Shadab Khan,V Kohli,2,0,2,46,8,13,3,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+51,RR Pant,Shadab Khan,V Kohli,1,0,1,47,9,14,4,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+52,V Kohli,Shadab Khan,RR Pant,1,0,1,48,24,22,5,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+53,RR Pant,Shadab Khan,V Kohli,4,0,4,52,13,15,6,0,,,9,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+54,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,53,25,23,1,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+55,RR Pant,Mohammad Hafeez,V Kohli,4,0,4,57,17,16,2,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+56,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,58,18,17,3,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+57,V Kohli,Mohammad Hafeez,RR Pant,1,0,1,59,26,24,4,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+58,RR Pant,Mohammad Hafeez,V Kohli,0,0,0,59,18,18,5,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+59,RR Pant,Mohammad Hafeez,V Kohli,1,0,1,60,19,19,6,0,,,10,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+60,RR Pant,Haris Rauf,V Kohli,1,0,1,61,20,20,1,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+61,V Kohli,Haris Rauf,RR Pant,0,1,1,62,26,25,2,0,,,11,wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+62,V Kohli,Haris Rauf,RR Pant,1,0,1,63,27,26,3,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+63,RR Pant,Haris Rauf,V Kohli,1,0,1,64,21,21,4,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+64,V Kohli,Haris Rauf,RR Pant,1,0,1,65,28,27,5,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+65,RR Pant,Haris Rauf,V Kohli,0,0,0,65,21,22,6,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+66,RR Pant,Haris Rauf,V Kohli,1,0,1,66,22,23,7,0,,,11,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+67,RR Pant,Hasan Ali,V Kohli,0,0,0,66,22,24,1,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+68,RR Pant,Hasan Ali,V Kohli,6,0,6,72,28,25,2,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+69,RR Pant,Hasan Ali,V Kohli,6,0,6,78,34,26,3,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+70,RR Pant,Hasan Ali,V Kohli,2,0,2,80,36,27,4,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+71,RR Pant,Hasan Ali,V Kohli,1,0,1,81,37,28,5,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+72,V Kohli,Hasan Ali,RR Pant,0,0,0,81,28,28,6,0,,,12,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+73,RR Pant,Shadab Khan,V Kohli,2,0,2,83,39,29,1,0,,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+74,RR Pant,Shadab Khan,V Kohli,0,1,1,84,39,30,2,0,,,13,wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+75,RR Pant,Shadab Khan,V Kohli,0,0,0,84,39,31,3,caught and bowled,RR Pant,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+76,V Kohli,Shadab Khan,RA Jadeja,0,0,0,84,28,29,4,0,,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+77,V Kohli,Shadab Khan,RA Jadeja,1,0,1,85,29,30,5,0,,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+78,RA Jadeja,Shadab Khan,V Kohli,1,0,1,86,1,1,6,0,,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+79,V Kohli,Shadab Khan,RA Jadeja,1,0,1,87,30,31,7,0,,,13,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+80,V Kohli,Haris Rauf,RA Jadeja,1,0,1,88,31,32,1,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+81,RA Jadeja,Haris Rauf,V Kohli,0,0,0,88,1,2,2,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+82,RA Jadeja,Haris Rauf,V Kohli,2,0,2,90,3,3,3,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+83,RA Jadeja,Haris Rauf,V Kohli,1,0,1,91,4,4,4,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+84,V Kohli,Haris Rauf,RA Jadeja,0,1,1,92,31,33,5,0,,,14,wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+85,V Kohli,Haris Rauf,RA Jadeja,4,0,4,96,35,34,6,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+86,V Kohli,Haris Rauf,RA Jadeja,0,0,0,96,35,35,7,0,,,14,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+87,RA Jadeja,Shadab Khan,V Kohli,0,0,0,96,4,5,1,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+88,RA Jadeja,Shadab Khan,V Kohli,0,0,0,96,4,6,2,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+89,RA Jadeja,Shadab Khan,V Kohli,1,0,1,97,5,7,3,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+90,V Kohli,Shadab Khan,RA Jadeja,1,0,1,98,36,36,4,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+91,RA Jadeja,Shadab Khan,V Kohli,1,0,1,99,6,8,5,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+92,V Kohli,Shadab Khan,RA Jadeja,1,0,1,100,37,37,6,0,,,15,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+93,V Kohli,Hasan Ali,RA Jadeja,0,0,0,100,37,38,1,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+94,V Kohli,Hasan Ali,RA Jadeja,4,0,4,104,41,39,2,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+95,V Kohli,Hasan Ali,RA Jadeja,0,0,0,104,41,40,3,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+96,V Kohli,Hasan Ali,RA Jadeja,4,0,4,108,45,41,4,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+97,V Kohli,Hasan Ali,RA Jadeja,1,0,1,109,46,42,5,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+98,RA Jadeja,Hasan Ali,V Kohli,1,0,1,110,7,9,6,0,,,16,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+99,RA Jadeja,Haris Rauf,V Kohli,1,0,1,111,8,10,1,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+100,V Kohli,Haris Rauf,RA Jadeja,1,0,1,112,47,43,2,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+101,RA Jadeja,Haris Rauf,V Kohli,1,0,1,113,9,11,3,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+102,V Kohli,Haris Rauf,RA Jadeja,0,0,0,113,47,44,4,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+103,V Kohli,Haris Rauf,RA Jadeja,0,0,0,113,47,45,5,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+104,V Kohli,Haris Rauf,RA Jadeja,1,0,1,114,48,46,6,0,,,17,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+105,V Kohli,Hasan Ali,RA Jadeja,2,0,2,116,50,47,1,0,,,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+106,V Kohli,Hasan Ali,RA Jadeja,4,0,4,120,54,48,2,0,,,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+107,V Kohli,Hasan Ali,RA Jadeja,1,0,1,121,55,49,3,0,,,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+108,RA Jadeja,Hasan Ali,V Kohli,4,0,4,125,13,12,4,0,,,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+109,RA Jadeja,Hasan Ali,V Kohli,0,0,0,125,13,13,5,caught,RA Jadeja,Mohammad Nawaz,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+110,V Kohli,Hasan Ali,HH Pandya,2,0,2,127,57,50,6,0,,,18,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+111,HH Pandya,Shaheen Shah Afridi,V Kohli,0,1,1,128,0,1,1,0,,,19,wides,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+112,HH Pandya,Shaheen Shah Afridi,V Kohli,0,0,0,128,0,2,2,0,,,19,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+113,HH Pandya,Shaheen Shah Afridi,V Kohli,4,0,4,132,4,3,3,0,,,19,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+114,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,133,5,4,4,0,,,19,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+115,V Kohli,Shaheen Shah Afridi,HH Pandya,0,0,0,133,57,51,5,caught,V Kohli,Mohammad Rizwan,19,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+116,B Kumar,Shaheen Shah Afridi,HH Pandya,1,0,1,134,1,1,6,0,,,19,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+117,HH Pandya,Shaheen Shah Afridi,B Kumar,4,1,5,139,9,5,7,0,,,19,noballs,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+118,HH Pandya,Shaheen Shah Afridi,B Kumar,0,5,5,144,9,6,8,0,,,19,byes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+119,HH Pandya,Haris Rauf,B Kumar,0,0,0,144,9,7,1,0,,,20,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+120,HH Pandya,Haris Rauf,B Kumar,2,0,2,146,11,8,2,0,,,20,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+121,HH Pandya,Haris Rauf,B Kumar,0,0,0,146,11,9,3,caught,HH Pandya,Babar Azam,20,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+122,B Kumar,Haris Rauf,Mohammed Shami,2,0,2,148,3,2,4,0,,,20,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+123,B Kumar,Haris Rauf,Mohammed Shami,2,0,2,150,5,3,5,0,,,20,-,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan
+124,B Kumar,Haris Rauf,Mohammed Shami,0,1,1,151,5,4,6,0,,,20,byes,,field,Pakistan,1,Dubai International Cricket Stadium,2021-10-24,India,Pakistan

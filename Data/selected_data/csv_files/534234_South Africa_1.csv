@@ -1,56 +1,56 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,RE Levi,ST Finn,HM Amla,,0,0,0,0,0,1,1,-,caught,RE Levi,C Kieswetter,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-1,AB de Villiers,ST Finn,HM Amla,,1,0,1,1,1,1,2,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-2,HM Amla,ST Finn,AB de Villiers,,4,0,4,5,4,1,3,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-3,HM Amla,ST Finn,AB de Villiers,{'legbyes': 4},0,4,4,9,4,2,4,legbyes,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-4,HM Amla,ST Finn,AB de Villiers,{'legbyes': 1},0,1,1,10,4,3,5,legbyes,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-5,AB de Villiers,ST Finn,HM Amla,,0,0,0,10,1,2,6,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
-6,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,10,4,4,1,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-7,HM Amla,SCJ Broad,AB de Villiers,,4,0,4,14,8,5,2,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-8,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,14,8,6,3,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-9,HM Amla,SCJ Broad,AB de Villiers,,3,0,3,17,11,7,4,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-10,AB de Villiers,SCJ Broad,HM Amla,{'legbyes': 1},0,1,1,18,1,3,5,legbyes,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-11,HM Amla,SCJ Broad,AB de Villiers,,2,0,2,20,13,8,6,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
-12,AB de Villiers,ST Finn,HM Amla,,0,0,0,20,1,4,1,-,caught,AB de Villiers,JW Dernbach,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-13,HM Amla,ST Finn,JA Morkel,,4,0,4,24,17,9,2,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-14,HM Amla,ST Finn,JA Morkel,,0,0,0,24,17,10,3,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-15,HM Amla,ST Finn,JA Morkel,,4,0,4,28,21,11,4,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-16,HM Amla,ST Finn,JA Morkel,,0,0,0,28,21,12,5,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-17,HM Amla,ST Finn,JA Morkel,,4,0,4,32,25,13,6,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
-18,JA Morkel,GP Swann,HM Amla,,1,0,1,33,1,1,1,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-19,HM Amla,GP Swann,JA Morkel,,1,0,1,34,26,14,2,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-20,JA Morkel,GP Swann,HM Amla,,1,0,1,35,2,2,3,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-21,HM Amla,GP Swann,JA Morkel,,1,0,1,36,27,15,4,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-22,JA Morkel,GP Swann,HM Amla,,1,0,1,37,3,3,5,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-23,HM Amla,GP Swann,JA Morkel,,0,0,0,37,27,16,6,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
-24,JA Morkel,LJ Wright,HM Amla,,0,0,0,37,3,4,1,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-25,JA Morkel,LJ Wright,HM Amla,,0,0,0,37,3,5,2,-,caught,JA Morkel,JM Bairstow,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-26,HM Amla,LJ Wright,JP Duminy,,1,0,1,38,28,17,3,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-27,JP Duminy,LJ Wright,HM Amla,,0,0,0,38,0,1,4,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-28,JP Duminy,LJ Wright,HM Amla,,2,0,2,40,2,2,5,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-29,JP Duminy,LJ Wright,HM Amla,,1,0,1,41,3,3,6,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
-30,JP Duminy,GP Swann,HM Amla,,1,0,1,42,4,4,1,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-31,HM Amla,GP Swann,JP Duminy,,3,0,3,45,31,18,2,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-32,JP Duminy,GP Swann,HM Amla,,1,0,1,46,5,5,3,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-33,HM Amla,GP Swann,JP Duminy,,1,0,1,47,32,19,4,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-34,JP Duminy,GP Swann,HM Amla,,0,0,0,47,5,6,5,-,caught and bowled,JP Duminy,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-35,HM Amla,GP Swann,JL Ontong,,0,0,0,47,32,20,6,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
-36,JL Ontong,JW Dernbach,HM Amla,,1,0,1,48,1,1,1,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-37,HM Amla,JW Dernbach,JL Ontong,,1,0,1,49,33,21,2,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-38,JL Ontong,JW Dernbach,HM Amla,,0,0,0,49,1,2,3,-,caught,JL Ontong,C Kieswetter,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-39,HM Amla,JW Dernbach,JH Kallis,,0,0,0,49,33,22,4,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-40,HM Amla,JW Dernbach,JH Kallis,,1,0,1,50,34,23,5,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-41,JH Kallis,JW Dernbach,HM Amla,,0,0,0,50,0,1,6,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
-42,HM Amla,SCJ Broad,JH Kallis,,4,0,4,54,38,24,1,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-43,HM Amla,SCJ Broad,JH Kallis,,0,0,0,54,38,25,2,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-44,HM Amla,SCJ Broad,JH Kallis,,4,0,4,58,42,26,3,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-45,HM Amla,SCJ Broad,JH Kallis,{'noballs': 1},1,1,2,60,43,27,4,noballs,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-46,JH Kallis,SCJ Broad,HM Amla,,2,0,2,62,2,2,5,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-47,JH Kallis,SCJ Broad,HM Amla,,4,0,4,66,6,3,6,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-48,JH Kallis,SCJ Broad,HM Amla,,2,0,2,68,8,4,7,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
-49,HM Amla,JW Dernbach,JH Kallis,,1,0,1,69,44,28,1,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
-50,JH Kallis,JW Dernbach,HM Amla,,0,0,0,69,8,5,2,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
-51,JH Kallis,JW Dernbach,HM Amla,,4,0,4,73,12,6,3,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
-52,JH Kallis,JW Dernbach,HM Amla,,1,0,1,74,13,7,4,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
-53,HM Amla,JW Dernbach,JH Kallis,,2,0,2,76,46,29,5,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
-54,HM Amla,JW Dernbach,JH Kallis,,1,0,1,77,47,30,6,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,RE Levi,ST Finn,HM Amla,0,0,0,0,0,1,1,-,caught,RE Levi,C Kieswetter,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+1,AB de Villiers,ST Finn,HM Amla,1,0,1,1,1,1,2,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+2,HM Amla,ST Finn,AB de Villiers,4,0,4,5,4,1,3,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+3,HM Amla,ST Finn,AB de Villiers,0,4,4,9,4,2,4,legbyes,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+4,HM Amla,ST Finn,AB de Villiers,0,1,1,10,4,3,5,legbyes,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+5,AB de Villiers,ST Finn,HM Amla,0,0,0,10,1,2,6,-,0,,,1,field,England,1,Old Trafford,2012-09-10,South Africa,England
+6,HM Amla,SCJ Broad,AB de Villiers,0,0,0,10,4,4,1,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+7,HM Amla,SCJ Broad,AB de Villiers,4,0,4,14,8,5,2,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+8,HM Amla,SCJ Broad,AB de Villiers,0,0,0,14,8,6,3,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+9,HM Amla,SCJ Broad,AB de Villiers,3,0,3,17,11,7,4,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+10,AB de Villiers,SCJ Broad,HM Amla,0,1,1,18,1,3,5,legbyes,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+11,HM Amla,SCJ Broad,AB de Villiers,2,0,2,20,13,8,6,-,0,,,2,field,England,1,Old Trafford,2012-09-10,South Africa,England
+12,AB de Villiers,ST Finn,HM Amla,0,0,0,20,1,4,1,-,caught,AB de Villiers,JW Dernbach,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+13,HM Amla,ST Finn,JA Morkel,4,0,4,24,17,9,2,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+14,HM Amla,ST Finn,JA Morkel,0,0,0,24,17,10,3,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+15,HM Amla,ST Finn,JA Morkel,4,0,4,28,21,11,4,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+16,HM Amla,ST Finn,JA Morkel,0,0,0,28,21,12,5,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+17,HM Amla,ST Finn,JA Morkel,4,0,4,32,25,13,6,-,0,,,3,field,England,1,Old Trafford,2012-09-10,South Africa,England
+18,JA Morkel,GP Swann,HM Amla,1,0,1,33,1,1,1,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+19,HM Amla,GP Swann,JA Morkel,1,0,1,34,26,14,2,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+20,JA Morkel,GP Swann,HM Amla,1,0,1,35,2,2,3,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+21,HM Amla,GP Swann,JA Morkel,1,0,1,36,27,15,4,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+22,JA Morkel,GP Swann,HM Amla,1,0,1,37,3,3,5,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+23,HM Amla,GP Swann,JA Morkel,0,0,0,37,27,16,6,-,0,,,4,field,England,1,Old Trafford,2012-09-10,South Africa,England
+24,JA Morkel,LJ Wright,HM Amla,0,0,0,37,3,4,1,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+25,JA Morkel,LJ Wright,HM Amla,0,0,0,37,3,5,2,-,caught,JA Morkel,JM Bairstow,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+26,HM Amla,LJ Wright,JP Duminy,1,0,1,38,28,17,3,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+27,JP Duminy,LJ Wright,HM Amla,0,0,0,38,0,1,4,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+28,JP Duminy,LJ Wright,HM Amla,2,0,2,40,2,2,5,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+29,JP Duminy,LJ Wright,HM Amla,1,0,1,41,3,3,6,-,0,,,5,field,England,1,Old Trafford,2012-09-10,South Africa,England
+30,JP Duminy,GP Swann,HM Amla,1,0,1,42,4,4,1,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+31,HM Amla,GP Swann,JP Duminy,3,0,3,45,31,18,2,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+32,JP Duminy,GP Swann,HM Amla,1,0,1,46,5,5,3,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+33,HM Amla,GP Swann,JP Duminy,1,0,1,47,32,19,4,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+34,JP Duminy,GP Swann,HM Amla,0,0,0,47,5,6,5,-,caught and bowled,JP Duminy,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+35,HM Amla,GP Swann,JL Ontong,0,0,0,47,32,20,6,-,0,,,6,field,England,1,Old Trafford,2012-09-10,South Africa,England
+36,JL Ontong,JW Dernbach,HM Amla,1,0,1,48,1,1,1,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+37,HM Amla,JW Dernbach,JL Ontong,1,0,1,49,33,21,2,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+38,JL Ontong,JW Dernbach,HM Amla,0,0,0,49,1,2,3,-,caught,JL Ontong,C Kieswetter,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+39,HM Amla,JW Dernbach,JH Kallis,0,0,0,49,33,22,4,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+40,HM Amla,JW Dernbach,JH Kallis,1,0,1,50,34,23,5,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+41,JH Kallis,JW Dernbach,HM Amla,0,0,0,50,0,1,6,-,0,,,7,field,England,1,Old Trafford,2012-09-10,South Africa,England
+42,HM Amla,SCJ Broad,JH Kallis,4,0,4,54,38,24,1,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+43,HM Amla,SCJ Broad,JH Kallis,0,0,0,54,38,25,2,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+44,HM Amla,SCJ Broad,JH Kallis,4,0,4,58,42,26,3,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+45,HM Amla,SCJ Broad,JH Kallis,1,1,2,60,43,27,4,noballs,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+46,JH Kallis,SCJ Broad,HM Amla,2,0,2,62,2,2,5,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+47,JH Kallis,SCJ Broad,HM Amla,4,0,4,66,6,3,6,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+48,JH Kallis,SCJ Broad,HM Amla,2,0,2,68,8,4,7,-,0,,,8,field,England,1,Old Trafford,2012-09-10,South Africa,England
+49,HM Amla,JW Dernbach,JH Kallis,1,0,1,69,44,28,1,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+50,JH Kallis,JW Dernbach,HM Amla,0,0,0,69,8,5,2,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+51,JH Kallis,JW Dernbach,HM Amla,4,0,4,73,12,6,3,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+52,JH Kallis,JW Dernbach,HM Amla,1,0,1,74,13,7,4,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+53,HM Amla,JW Dernbach,JH Kallis,2,0,2,76,46,29,5,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England
+54,HM Amla,JW Dernbach,JH Kallis,1,0,1,77,47,30,6,-,0,,,9,field,England,1,Old Trafford,2012-09-10,South Africa,England

@@ -1,127 +1,127 @@
-,batter,bowler,extras,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,MJ Guptill,KW Richardson,{'wides': 1},C Munro,0,1,1,1,0,1,1,wides,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-1,MJ Guptill,KW Richardson,,C Munro,0,0,0,1,0,2,2,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-2,MJ Guptill,KW Richardson,,C Munro,4,0,4,5,4,3,3,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-3,MJ Guptill,KW Richardson,{'legbyes': 1},C Munro,0,1,1,6,4,4,4,legbyes,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-4,C Munro,KW Richardson,{'legbyes': 1},MJ Guptill,0,1,1,7,0,1,5,legbyes,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-5,MJ Guptill,KW Richardson,,C Munro,1,0,1,8,5,5,6,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-6,C Munro,KW Richardson,,MJ Guptill,3,0,3,11,3,2,7,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-7,C Munro,B Stanlake,,MJ Guptill,0,0,0,11,3,3,1,-,2,caught,C Munro,AT Carey,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-8,MJ Guptill,B Stanlake,,KS Williamson,0,0,0,11,5,6,2,-,2,bowled,MJ Guptill,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-9,TC Bruce,B Stanlake,,KS Williamson,3,0,3,14,3,1,3,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-10,KS Williamson,B Stanlake,,TC Bruce,0,0,0,14,0,1,4,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-11,KS Williamson,B Stanlake,,TC Bruce,0,0,0,14,0,2,5,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-12,KS Williamson,B Stanlake,,TC Bruce,1,0,1,15,1,3,6,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-13,KS Williamson,KW Richardson,{'wides': 1},TC Bruce,0,1,1,16,1,4,1,wides,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-14,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,5,2,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-15,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,6,3,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-16,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,7,4,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-17,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,8,5,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-18,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,9,6,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-19,KS Williamson,KW Richardson,,TC Bruce,0,0,0,16,1,10,7,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-20,TC Bruce,B Stanlake,,KS Williamson,0,0,0,16,3,2,1,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-21,TC Bruce,B Stanlake,,KS Williamson,0,0,0,16,3,3,2,-,4,caught,TC Bruce,KW Richardson,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-22,KS Williamson,B Stanlake,,LRPL Taylor,0,0,0,16,1,11,3,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-23,KS Williamson,B Stanlake,,LRPL Taylor,0,0,0,16,1,12,4,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-24,KS Williamson,B Stanlake,,LRPL Taylor,0,0,0,16,1,13,5,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-25,KS Williamson,B Stanlake,,LRPL Taylor,1,0,1,17,2,14,6,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-26,KS Williamson,KW Richardson,,LRPL Taylor,1,0,1,18,3,15,1,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-27,LRPL Taylor,KW Richardson,,KS Williamson,0,0,0,18,0,1,2,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-28,LRPL Taylor,KW Richardson,,KS Williamson,0,0,0,18,0,2,3,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-29,LRPL Taylor,KW Richardson,,KS Williamson,4,0,4,22,4,3,4,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-30,LRPL Taylor,KW Richardson,,KS Williamson,1,0,1,23,5,4,5,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-31,KS Williamson,KW Richardson,,LRPL Taylor,2,0,2,25,5,16,6,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-32,LRPL Taylor,B Stanlake,,KS Williamson,1,0,1,26,6,5,1,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-33,KS Williamson,B Stanlake,,LRPL Taylor,1,0,1,27,6,17,2,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-34,LRPL Taylor,B Stanlake,,KS Williamson,2,0,2,29,8,6,3,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-35,LRPL Taylor,B Stanlake,,KS Williamson,0,0,0,29,8,7,4,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-36,LRPL Taylor,B Stanlake,,KS Williamson,0,0,0,29,8,8,5,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-37,LRPL Taylor,B Stanlake,,KS Williamson,0,0,0,29,8,9,6,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-38,KS Williamson,AC Agar,,LRPL Taylor,1,0,1,30,7,18,1,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-39,LRPL Taylor,AC Agar,,KS Williamson,0,0,0,30,8,10,2,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-40,LRPL Taylor,AC Agar,,KS Williamson,2,0,2,32,10,11,3,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-41,LRPL Taylor,AC Agar,,KS Williamson,1,0,1,33,11,12,4,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-42,KS Williamson,AC Agar,,LRPL Taylor,0,0,0,33,7,19,5,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-43,KS Williamson,AC Agar,,LRPL Taylor,1,0,1,34,8,20,6,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-44,KS Williamson,AJ Tye,,LRPL Taylor,0,0,0,34,8,21,1,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-45,KS Williamson,AJ Tye,,LRPL Taylor,0,0,0,34,8,22,2,-,8,caught,KS Williamson,DA Warner,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-46,LRPL Taylor,AJ Tye,,TA Blundell,1,0,1,35,12,13,3,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-47,TA Blundell,AJ Tye,{'wides': 1},LRPL Taylor,0,1,1,36,0,1,4,wides,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-48,TA Blundell,AJ Tye,,LRPL Taylor,1,0,1,37,1,2,5,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-49,LRPL Taylor,AJ Tye,,TA Blundell,1,0,1,38,13,14,6,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-50,TA Blundell,AJ Tye,,LRPL Taylor,2,0,2,40,3,3,7,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-51,LRPL Taylor,AC Agar,,TA Blundell,0,0,0,40,13,15,1,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-52,LRPL Taylor,AC Agar,,TA Blundell,0,0,0,40,13,16,2,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-53,LRPL Taylor,AC Agar,,TA Blundell,1,0,1,41,14,17,3,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-54,TA Blundell,AC Agar,,LRPL Taylor,3,0,3,44,6,4,4,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-55,LRPL Taylor,AC Agar,,TA Blundell,1,0,1,45,15,18,5,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-56,TA Blundell,AC Agar,,LRPL Taylor,0,0,0,45,6,5,6,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-57,LRPL Taylor,AJ Tye,,TA Blundell,1,0,1,46,16,19,1,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-58,TA Blundell,AJ Tye,,LRPL Taylor,2,0,2,48,8,6,2,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-59,TA Blundell,AJ Tye,,LRPL Taylor,0,0,0,48,8,7,3,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-60,TA Blundell,AJ Tye,,LRPL Taylor,0,0,0,48,8,8,4,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-61,TA Blundell,AJ Tye,,LRPL Taylor,1,0,1,49,9,9,5,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-62,LRPL Taylor,AJ Tye,,TA Blundell,0,0,0,49,16,20,6,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-63,TA Blundell,A Zampa,,LRPL Taylor,1,0,1,50,10,10,1,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-64,LRPL Taylor,A Zampa,{'legbyes': 1},TA Blundell,0,1,1,51,16,21,2,legbyes,11,0,,,"{'by': 'Australia', 'batter': 'LRPL Taylor', 'decision': 'struck down'}",field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-65,TA Blundell,A Zampa,,LRPL Taylor,0,0,0,51,10,11,3,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-66,TA Blundell,A Zampa,,LRPL Taylor,1,0,1,52,11,12,4,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-67,LRPL Taylor,A Zampa,,TA Blundell,1,0,1,53,17,22,5,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-68,TA Blundell,A Zampa,,LRPL Taylor,1,0,1,54,12,13,6,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-69,TA Blundell,AC Agar,,LRPL Taylor,1,0,1,55,13,14,1,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-70,LRPL Taylor,AC Agar,,TA Blundell,0,0,0,55,17,23,2,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-71,LRPL Taylor,AC Agar,,TA Blundell,2,0,2,57,19,24,3,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-72,LRPL Taylor,AC Agar,{'wides': 1},TA Blundell,0,1,1,58,19,25,4,wides,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-73,LRPL Taylor,AC Agar,,TA Blundell,1,0,1,59,20,26,5,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-74,TA Blundell,AC Agar,,LRPL Taylor,0,0,0,59,13,15,6,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-75,TA Blundell,AC Agar,,LRPL Taylor,1,0,1,60,14,16,7,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-76,TA Blundell,A Zampa,,LRPL Taylor,0,0,0,60,14,17,1,-,13,caught,TA Blundell,KW Richardson,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-77,LRPL Taylor,A Zampa,,C de Grandhomme,0,0,0,60,20,27,2,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-78,LRPL Taylor,A Zampa,{'wides': 1},C de Grandhomme,0,1,1,61,20,28,3,wides,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-79,LRPL Taylor,A Zampa,,C de Grandhomme,0,0,0,61,20,29,4,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-80,LRPL Taylor,A Zampa,,C de Grandhomme,1,0,1,62,21,30,5,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-81,C de Grandhomme,A Zampa,,LRPL Taylor,0,0,0,62,0,1,6,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-82,C de Grandhomme,A Zampa,,LRPL Taylor,1,0,1,63,1,2,7,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-83,C de Grandhomme,B Stanlake,,LRPL Taylor,0,0,0,63,1,3,1,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-84,C de Grandhomme,B Stanlake,,LRPL Taylor,4,0,4,67,5,4,2,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-85,C de Grandhomme,B Stanlake,,LRPL Taylor,0,0,0,67,5,5,3,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-86,C de Grandhomme,B Stanlake,,LRPL Taylor,1,0,1,68,6,6,4,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-87,LRPL Taylor,B Stanlake,,C de Grandhomme,0,0,0,68,21,31,5,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-88,LRPL Taylor,B Stanlake,,C de Grandhomme,1,0,1,69,22,32,6,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-89,LRPL Taylor,A Zampa,,C de Grandhomme,1,0,1,70,23,33,1,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-90,C de Grandhomme,A Zampa,,LRPL Taylor,6,0,6,76,12,7,2,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-91,C de Grandhomme,A Zampa,,LRPL Taylor,0,0,0,76,12,8,3,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-92,C de Grandhomme,A Zampa,,LRPL Taylor,6,0,6,82,18,9,4,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-93,C de Grandhomme,A Zampa,,LRPL Taylor,1,0,1,83,19,10,5,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-94,LRPL Taylor,A Zampa,,C de Grandhomme,0,0,0,83,23,34,6,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-95,C de Grandhomme,AC Agar,,LRPL Taylor,1,0,1,84,20,11,1,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-96,LRPL Taylor,AC Agar,{'legbyes': 1},C de Grandhomme,0,1,1,85,23,35,2,legbyes,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-97,C de Grandhomme,AC Agar,,LRPL Taylor,3,0,3,88,23,12,3,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-98,LRPL Taylor,AC Agar,,C de Grandhomme,1,0,1,89,24,36,4,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-99,C de Grandhomme,AC Agar,,LRPL Taylor,1,0,1,90,24,13,5,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-100,LRPL Taylor,AC Agar,,C de Grandhomme,0,0,0,90,24,37,6,-,16,caught,LRPL Taylor,AT Carey,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-101,C de Grandhomme,MP Stoinis,,MJ Santner,0,0,0,90,24,14,1,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-102,C de Grandhomme,MP Stoinis,,MJ Santner,0,0,0,90,24,15,2,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-103,C de Grandhomme,MP Stoinis,,MJ Santner,1,0,1,91,25,16,3,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-104,MJ Santner,MP Stoinis,,C de Grandhomme,0,0,0,91,0,1,4,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-105,MJ Santner,MP Stoinis,,C de Grandhomme,1,0,1,92,1,2,5,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-106,C de Grandhomme,MP Stoinis,,MJ Santner,0,0,0,92,25,17,6,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-107,MJ Santner,AJ Tye,,C de Grandhomme,0,0,0,92,1,3,1,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-108,MJ Santner,AJ Tye,,C de Grandhomme,0,0,0,92,1,4,2,-,18,caught,MJ Santner,DA Warner,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-109,C de Grandhomme,AJ Tye,,TG Southee,1,0,1,93,26,18,3,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-110,TG Southee,AJ Tye,,C de Grandhomme,1,0,1,94,1,1,4,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-111,C de Grandhomme,AJ Tye,,TG Southee,2,0,2,96,28,19,5,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-112,C de Grandhomme,AJ Tye,{'wides': 1},TG Southee,0,1,1,97,28,20,6,wides,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-113,C de Grandhomme,AJ Tye,,TG Southee,6,0,6,103,34,21,7,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-114,TG Southee,KW Richardson,,C de Grandhomme,1,0,1,104,2,2,1,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-115,C de Grandhomme,KW Richardson,,TG Southee,1,0,1,105,35,22,2,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-116,TG Southee,KW Richardson,,C de Grandhomme,1,0,1,106,3,3,3,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-117,C de Grandhomme,KW Richardson,,TG Southee,1,0,1,107,36,23,4,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-118,TG Southee,KW Richardson,,C de Grandhomme,0,0,0,107,3,4,5,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-119,TG Southee,KW Richardson,,C de Grandhomme,6,0,6,113,9,5,6,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-120,C de Grandhomme,AJ Tye,,TG Southee,1,0,1,114,37,24,1,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-121,TG Southee,AJ Tye,,C de Grandhomme,0,0,0,114,9,6,2,-,20,caught,TG Southee,MP Stoinis,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-122,C de Grandhomme,AJ Tye,,IS Sodhi,1,0,1,115,38,25,3,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-123,IS Sodhi,AJ Tye,{'byes': 2},C de Grandhomme,0,2,2,117,0,1,4,byes,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-124,IS Sodhi,AJ Tye,,C de Grandhomme,0,0,0,117,0,2,5,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
-125,IS Sodhi,AJ Tye,,C de Grandhomme,0,0,0,117,0,3,6,-,20,bowled,IS Sodhi,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MJ Guptill,KW Richardson,C Munro,0,1,1,1,0,1,1,wides,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+1,MJ Guptill,KW Richardson,C Munro,0,0,0,1,0,2,2,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+2,MJ Guptill,KW Richardson,C Munro,4,0,4,5,4,3,3,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+3,MJ Guptill,KW Richardson,C Munro,0,1,1,6,4,4,4,legbyes,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+4,C Munro,KW Richardson,MJ Guptill,0,1,1,7,0,1,5,legbyes,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+5,MJ Guptill,KW Richardson,C Munro,1,0,1,8,5,5,6,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+6,C Munro,KW Richardson,MJ Guptill,3,0,3,11,3,2,7,-,1,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+7,C Munro,B Stanlake,MJ Guptill,0,0,0,11,3,3,1,-,2,caught,C Munro,AT Carey,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+8,MJ Guptill,B Stanlake,KS Williamson,0,0,0,11,5,6,2,-,2,bowled,MJ Guptill,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+9,TC Bruce,B Stanlake,KS Williamson,3,0,3,14,3,1,3,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+10,KS Williamson,B Stanlake,TC Bruce,0,0,0,14,0,1,4,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+11,KS Williamson,B Stanlake,TC Bruce,0,0,0,14,0,2,5,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+12,KS Williamson,B Stanlake,TC Bruce,1,0,1,15,1,3,6,-,2,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+13,KS Williamson,KW Richardson,TC Bruce,0,1,1,16,1,4,1,wides,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+14,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,5,2,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+15,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,6,3,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+16,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,7,4,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+17,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,8,5,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+18,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,9,6,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+19,KS Williamson,KW Richardson,TC Bruce,0,0,0,16,1,10,7,-,3,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+20,TC Bruce,B Stanlake,KS Williamson,0,0,0,16,3,2,1,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+21,TC Bruce,B Stanlake,KS Williamson,0,0,0,16,3,3,2,-,4,caught,TC Bruce,KW Richardson,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+22,KS Williamson,B Stanlake,LRPL Taylor,0,0,0,16,1,11,3,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+23,KS Williamson,B Stanlake,LRPL Taylor,0,0,0,16,1,12,4,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+24,KS Williamson,B Stanlake,LRPL Taylor,0,0,0,16,1,13,5,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+25,KS Williamson,B Stanlake,LRPL Taylor,1,0,1,17,2,14,6,-,4,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+26,KS Williamson,KW Richardson,LRPL Taylor,1,0,1,18,3,15,1,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+27,LRPL Taylor,KW Richardson,KS Williamson,0,0,0,18,0,1,2,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+28,LRPL Taylor,KW Richardson,KS Williamson,0,0,0,18,0,2,3,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+29,LRPL Taylor,KW Richardson,KS Williamson,4,0,4,22,4,3,4,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+30,LRPL Taylor,KW Richardson,KS Williamson,1,0,1,23,5,4,5,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+31,KS Williamson,KW Richardson,LRPL Taylor,2,0,2,25,5,16,6,-,5,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+32,LRPL Taylor,B Stanlake,KS Williamson,1,0,1,26,6,5,1,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+33,KS Williamson,B Stanlake,LRPL Taylor,1,0,1,27,6,17,2,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+34,LRPL Taylor,B Stanlake,KS Williamson,2,0,2,29,8,6,3,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+35,LRPL Taylor,B Stanlake,KS Williamson,0,0,0,29,8,7,4,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+36,LRPL Taylor,B Stanlake,KS Williamson,0,0,0,29,8,8,5,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+37,LRPL Taylor,B Stanlake,KS Williamson,0,0,0,29,8,9,6,-,6,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+38,KS Williamson,AC Agar,LRPL Taylor,1,0,1,30,7,18,1,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+39,LRPL Taylor,AC Agar,KS Williamson,0,0,0,30,8,10,2,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+40,LRPL Taylor,AC Agar,KS Williamson,2,0,2,32,10,11,3,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+41,LRPL Taylor,AC Agar,KS Williamson,1,0,1,33,11,12,4,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+42,KS Williamson,AC Agar,LRPL Taylor,0,0,0,33,7,19,5,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+43,KS Williamson,AC Agar,LRPL Taylor,1,0,1,34,8,20,6,-,7,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+44,KS Williamson,AJ Tye,LRPL Taylor,0,0,0,34,8,21,1,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+45,KS Williamson,AJ Tye,LRPL Taylor,0,0,0,34,8,22,2,-,8,caught,KS Williamson,DA Warner,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+46,LRPL Taylor,AJ Tye,TA Blundell,1,0,1,35,12,13,3,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+47,TA Blundell,AJ Tye,LRPL Taylor,0,1,1,36,0,1,4,wides,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+48,TA Blundell,AJ Tye,LRPL Taylor,1,0,1,37,1,2,5,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+49,LRPL Taylor,AJ Tye,TA Blundell,1,0,1,38,13,14,6,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+50,TA Blundell,AJ Tye,LRPL Taylor,2,0,2,40,3,3,7,-,8,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+51,LRPL Taylor,AC Agar,TA Blundell,0,0,0,40,13,15,1,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+52,LRPL Taylor,AC Agar,TA Blundell,0,0,0,40,13,16,2,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+53,LRPL Taylor,AC Agar,TA Blundell,1,0,1,41,14,17,3,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+54,TA Blundell,AC Agar,LRPL Taylor,3,0,3,44,6,4,4,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+55,LRPL Taylor,AC Agar,TA Blundell,1,0,1,45,15,18,5,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+56,TA Blundell,AC Agar,LRPL Taylor,0,0,0,45,6,5,6,-,9,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+57,LRPL Taylor,AJ Tye,TA Blundell,1,0,1,46,16,19,1,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+58,TA Blundell,AJ Tye,LRPL Taylor,2,0,2,48,8,6,2,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+59,TA Blundell,AJ Tye,LRPL Taylor,0,0,0,48,8,7,3,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+60,TA Blundell,AJ Tye,LRPL Taylor,0,0,0,48,8,8,4,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+61,TA Blundell,AJ Tye,LRPL Taylor,1,0,1,49,9,9,5,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+62,LRPL Taylor,AJ Tye,TA Blundell,0,0,0,49,16,20,6,-,10,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+63,TA Blundell,A Zampa,LRPL Taylor,1,0,1,50,10,10,1,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+64,LRPL Taylor,A Zampa,TA Blundell,0,1,1,51,16,21,2,legbyes,11,0,,,"{'by': 'Australia', 'batter': 'LRPL Taylor', 'decision': 'struck down'}",field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+65,TA Blundell,A Zampa,LRPL Taylor,0,0,0,51,10,11,3,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+66,TA Blundell,A Zampa,LRPL Taylor,1,0,1,52,11,12,4,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+67,LRPL Taylor,A Zampa,TA Blundell,1,0,1,53,17,22,5,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+68,TA Blundell,A Zampa,LRPL Taylor,1,0,1,54,12,13,6,-,11,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+69,TA Blundell,AC Agar,LRPL Taylor,1,0,1,55,13,14,1,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+70,LRPL Taylor,AC Agar,TA Blundell,0,0,0,55,17,23,2,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+71,LRPL Taylor,AC Agar,TA Blundell,2,0,2,57,19,24,3,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+72,LRPL Taylor,AC Agar,TA Blundell,0,1,1,58,19,25,4,wides,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+73,LRPL Taylor,AC Agar,TA Blundell,1,0,1,59,20,26,5,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+74,TA Blundell,AC Agar,LRPL Taylor,0,0,0,59,13,15,6,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+75,TA Blundell,AC Agar,LRPL Taylor,1,0,1,60,14,16,7,-,12,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+76,TA Blundell,A Zampa,LRPL Taylor,0,0,0,60,14,17,1,-,13,caught,TA Blundell,KW Richardson,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+77,LRPL Taylor,A Zampa,C de Grandhomme,0,0,0,60,20,27,2,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+78,LRPL Taylor,A Zampa,C de Grandhomme,0,1,1,61,20,28,3,wides,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+79,LRPL Taylor,A Zampa,C de Grandhomme,0,0,0,61,20,29,4,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+80,LRPL Taylor,A Zampa,C de Grandhomme,1,0,1,62,21,30,5,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+81,C de Grandhomme,A Zampa,LRPL Taylor,0,0,0,62,0,1,6,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+82,C de Grandhomme,A Zampa,LRPL Taylor,1,0,1,63,1,2,7,-,13,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+83,C de Grandhomme,B Stanlake,LRPL Taylor,0,0,0,63,1,3,1,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+84,C de Grandhomme,B Stanlake,LRPL Taylor,4,0,4,67,5,4,2,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+85,C de Grandhomme,B Stanlake,LRPL Taylor,0,0,0,67,5,5,3,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+86,C de Grandhomme,B Stanlake,LRPL Taylor,1,0,1,68,6,6,4,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+87,LRPL Taylor,B Stanlake,C de Grandhomme,0,0,0,68,21,31,5,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+88,LRPL Taylor,B Stanlake,C de Grandhomme,1,0,1,69,22,32,6,-,14,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+89,LRPL Taylor,A Zampa,C de Grandhomme,1,0,1,70,23,33,1,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+90,C de Grandhomme,A Zampa,LRPL Taylor,6,0,6,76,12,7,2,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+91,C de Grandhomme,A Zampa,LRPL Taylor,0,0,0,76,12,8,3,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+92,C de Grandhomme,A Zampa,LRPL Taylor,6,0,6,82,18,9,4,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+93,C de Grandhomme,A Zampa,LRPL Taylor,1,0,1,83,19,10,5,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+94,LRPL Taylor,A Zampa,C de Grandhomme,0,0,0,83,23,34,6,-,15,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+95,C de Grandhomme,AC Agar,LRPL Taylor,1,0,1,84,20,11,1,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+96,LRPL Taylor,AC Agar,C de Grandhomme,0,1,1,85,23,35,2,legbyes,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+97,C de Grandhomme,AC Agar,LRPL Taylor,3,0,3,88,23,12,3,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+98,LRPL Taylor,AC Agar,C de Grandhomme,1,0,1,89,24,36,4,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+99,C de Grandhomme,AC Agar,LRPL Taylor,1,0,1,90,24,13,5,-,16,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+100,LRPL Taylor,AC Agar,C de Grandhomme,0,0,0,90,24,37,6,-,16,caught,LRPL Taylor,AT Carey,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+101,C de Grandhomme,MP Stoinis,MJ Santner,0,0,0,90,24,14,1,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+102,C de Grandhomme,MP Stoinis,MJ Santner,0,0,0,90,24,15,2,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+103,C de Grandhomme,MP Stoinis,MJ Santner,1,0,1,91,25,16,3,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+104,MJ Santner,MP Stoinis,C de Grandhomme,0,0,0,91,0,1,4,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+105,MJ Santner,MP Stoinis,C de Grandhomme,1,0,1,92,1,2,5,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+106,C de Grandhomme,MP Stoinis,MJ Santner,0,0,0,92,25,17,6,-,17,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+107,MJ Santner,AJ Tye,C de Grandhomme,0,0,0,92,1,3,1,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+108,MJ Santner,AJ Tye,C de Grandhomme,0,0,0,92,1,4,2,-,18,caught,MJ Santner,DA Warner,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+109,C de Grandhomme,AJ Tye,TG Southee,1,0,1,93,26,18,3,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+110,TG Southee,AJ Tye,C de Grandhomme,1,0,1,94,1,1,4,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+111,C de Grandhomme,AJ Tye,TG Southee,2,0,2,96,28,19,5,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+112,C de Grandhomme,AJ Tye,TG Southee,0,1,1,97,28,20,6,wides,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+113,C de Grandhomme,AJ Tye,TG Southee,6,0,6,103,34,21,7,-,18,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+114,TG Southee,KW Richardson,C de Grandhomme,1,0,1,104,2,2,1,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+115,C de Grandhomme,KW Richardson,TG Southee,1,0,1,105,35,22,2,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+116,TG Southee,KW Richardson,C de Grandhomme,1,0,1,106,3,3,3,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+117,C de Grandhomme,KW Richardson,TG Southee,1,0,1,107,36,23,4,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+118,TG Southee,KW Richardson,C de Grandhomme,0,0,0,107,3,4,5,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+119,TG Southee,KW Richardson,C de Grandhomme,6,0,6,113,9,5,6,-,19,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+120,C de Grandhomme,AJ Tye,TG Southee,1,0,1,114,37,24,1,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+121,TG Southee,AJ Tye,C de Grandhomme,0,0,0,114,9,6,2,-,20,caught,TG Southee,MP Stoinis,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+122,C de Grandhomme,AJ Tye,IS Sodhi,1,0,1,115,38,25,3,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+123,IS Sodhi,AJ Tye,C de Grandhomme,0,2,2,117,0,1,4,byes,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+124,IS Sodhi,AJ Tye,C de Grandhomme,0,0,0,117,0,2,5,-,20,0,,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia
+125,IS Sodhi,AJ Tye,C de Grandhomme,0,0,0,117,0,3,6,-,20,bowled,IS Sodhi,,,field,Australia,1,Sydney Cricket Ground,2018-02-03,New Zealand,Australia

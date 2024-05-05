@@ -1,121 +1,121 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,PR Stirling,BA Stokes,A Balbirnie,0,0,0,0,0,1,1,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-1,PR Stirling,BA Stokes,A Balbirnie,1,0,1,1,1,2,2,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-2,A Balbirnie,BA Stokes,PR Stirling,2,0,2,3,2,1,3,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-3,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,2,4,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-4,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,3,5,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-5,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,4,6,1,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-6,PR Stirling,CR Woakes,A Balbirnie,4,0,4,7,5,3,1,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-7,PR Stirling,CR Woakes,A Balbirnie,0,1,1,8,5,4,2,2,{'wides': 1},wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-8,PR Stirling,CR Woakes,A Balbirnie,0,0,0,8,5,5,3,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-9,PR Stirling,CR Woakes,A Balbirnie,3,0,3,11,8,6,4,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-10,A Balbirnie,CR Woakes,PR Stirling,0,0,0,11,2,5,5,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-11,A Balbirnie,CR Woakes,PR Stirling,0,0,0,11,2,6,6,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-12,A Balbirnie,CR Woakes,PR Stirling,4,0,4,15,6,7,7,2,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-13,PR Stirling,MA Wood,A Balbirnie,6,0,6,21,14,7,1,3,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-14,PR Stirling,MA Wood,A Balbirnie,0,0,0,21,14,8,2,3,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-15,PR Stirling,MA Wood,A Balbirnie,0,0,0,21,14,9,3,3,,-,caught,PR Stirling,SM Curran,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-16,L Tucker,MA Wood,A Balbirnie,1,0,1,22,1,1,4,3,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-17,A Balbirnie,MA Wood,L Tucker,0,0,0,22,6,8,5,3,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-18,A Balbirnie,MA Wood,L Tucker,0,4,4,26,6,9,6,3,{'wides': 4},wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-19,L Tucker,MA Wood,A Balbirnie,0,0,0,26,1,2,7,3,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-20,A Balbirnie,CR Woakes,L Tucker,1,0,1,27,7,10,1,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-21,L Tucker,CR Woakes,A Balbirnie,4,0,4,31,5,3,2,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-22,L Tucker,CR Woakes,A Balbirnie,1,0,1,32,6,4,3,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-23,A Balbirnie,CR Woakes,L Tucker,1,0,1,33,8,11,4,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-24,L Tucker,CR Woakes,A Balbirnie,0,0,0,33,6,5,5,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-25,L Tucker,CR Woakes,A Balbirnie,4,0,4,37,10,6,6,4,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-26,A Balbirnie,MA Wood,L Tucker,0,0,0,37,8,12,1,5,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-27,A Balbirnie,MA Wood,L Tucker,4,0,4,41,12,13,2,5,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-28,A Balbirnie,MA Wood,L Tucker,0,0,0,41,12,14,3,5,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-29,A Balbirnie,MA Wood,L Tucker,0,1,1,42,12,15,4,5,{'legbyes': 1},legbyes,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-30,L Tucker,MA Wood,A Balbirnie,1,0,1,43,11,7,5,5,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-31,A Balbirnie,MA Wood,L Tucker,2,0,2,45,14,16,6,5,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-32,L Tucker,SM Curran,A Balbirnie,2,0,2,47,13,8,1,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-33,L Tucker,SM Curran,A Balbirnie,4,0,4,51,17,9,2,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-34,L Tucker,SM Curran,A Balbirnie,0,0,0,51,17,10,3,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-35,L Tucker,SM Curran,A Balbirnie,2,0,2,53,19,11,4,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-36,L Tucker,SM Curran,A Balbirnie,0,0,0,53,19,12,5,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-37,L Tucker,SM Curran,A Balbirnie,6,0,6,59,25,13,6,6,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-38,A Balbirnie,AU Rashid,L Tucker,4,0,4,63,18,17,1,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-39,A Balbirnie,AU Rashid,L Tucker,1,0,1,64,19,18,2,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-40,L Tucker,AU Rashid,A Balbirnie,0,0,0,64,25,14,3,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-41,L Tucker,AU Rashid,A Balbirnie,0,0,0,64,25,15,4,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-42,L Tucker,AU Rashid,A Balbirnie,1,0,1,65,26,16,5,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-43,A Balbirnie,AU Rashid,L Tucker,0,0,0,65,19,19,6,7,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-44,L Tucker,BA Stokes,A Balbirnie,0,0,0,65,26,17,1,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-45,L Tucker,BA Stokes,A Balbirnie,0,0,0,65,26,18,2,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-46,L Tucker,BA Stokes,A Balbirnie,1,0,1,66,27,19,3,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-47,A Balbirnie,BA Stokes,L Tucker,1,0,1,67,20,20,4,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-48,L Tucker,BA Stokes,A Balbirnie,1,0,1,68,28,20,5,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-49,A Balbirnie,BA Stokes,L Tucker,1,0,1,69,21,21,6,8,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-50,A Balbirnie,AU Rashid,L Tucker,1,0,1,70,22,22,1,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-51,L Tucker,AU Rashid,A Balbirnie,0,0,0,70,28,21,2,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-52,L Tucker,AU Rashid,A Balbirnie,1,0,1,71,29,22,3,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-53,A Balbirnie,AU Rashid,L Tucker,0,0,0,71,22,23,4,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-54,A Balbirnie,AU Rashid,L Tucker,2,0,2,73,24,24,5,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-55,A Balbirnie,AU Rashid,L Tucker,1,0,1,74,25,25,6,9,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-56,A Balbirnie,CR Woakes,L Tucker,0,1,1,75,25,26,1,10,{'wides': 1},wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-57,A Balbirnie,CR Woakes,L Tucker,4,0,4,79,29,27,2,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-58,A Balbirnie,CR Woakes,L Tucker,1,0,1,80,30,28,3,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-59,L Tucker,CR Woakes,A Balbirnie,1,0,1,81,30,23,4,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-60,A Balbirnie,CR Woakes,L Tucker,4,0,4,85,34,29,5,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-61,A Balbirnie,CR Woakes,L Tucker,6,0,6,91,40,30,6,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-62,A Balbirnie,CR Woakes,L Tucker,1,0,1,92,41,31,7,10,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-63,A Balbirnie,LS Livingstone,L Tucker,1,0,1,93,42,32,1,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-64,L Tucker,LS Livingstone,A Balbirnie,1,0,1,94,31,24,2,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-65,A Balbirnie,LS Livingstone,L Tucker,1,0,1,95,43,33,3,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-66,L Tucker,LS Livingstone,A Balbirnie,1,0,1,96,32,25,4,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-67,A Balbirnie,LS Livingstone,L Tucker,0,0,0,96,43,34,5,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-68,A Balbirnie,LS Livingstone,L Tucker,1,0,1,97,44,35,6,11,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-69,A Balbirnie,AU Rashid,L Tucker,2,0,2,99,46,36,1,12,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-70,A Balbirnie,AU Rashid,L Tucker,1,0,1,100,47,37,2,12,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-71,L Tucker,AU Rashid,A Balbirnie,1,0,1,101,33,26,3,12,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-72,A Balbirnie,AU Rashid,L Tucker,1,0,1,102,48,38,4,12,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-73,L Tucker,AU Rashid,A Balbirnie,1,0,1,103,34,27,5,12,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-74,A Balbirnie,AU Rashid,L Tucker,0,0,0,103,48,39,6,12,,-,run out,L Tucker,AU Rashid,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-75,HT Tector,MA Wood,A Balbirnie,0,0,0,103,0,1,1,13,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-76,HT Tector,MA Wood,A Balbirnie,0,0,0,103,0,2,2,13,,-,caught,HT Tector,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-77,C Campher,MA Wood,A Balbirnie,0,1,1,104,0,1,3,13,{'wides': 1},wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-78,C Campher,MA Wood,A Balbirnie,4,0,4,108,4,2,4,13,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-79,C Campher,MA Wood,A Balbirnie,0,0,0,108,4,3,5,13,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-80,C Campher,MA Wood,A Balbirnie,1,0,1,109,5,4,6,13,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-81,A Balbirnie,MA Wood,C Campher,0,0,0,109,48,40,7,13,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-82,C Campher,AU Rashid,A Balbirnie,1,0,1,110,6,5,1,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-83,A Balbirnie,AU Rashid,C Campher,1,0,1,111,49,41,2,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-84,C Campher,AU Rashid,A Balbirnie,1,0,1,112,7,6,3,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-85,A Balbirnie,AU Rashid,C Campher,1,0,1,113,50,42,4,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-86,C Campher,AU Rashid,A Balbirnie,1,0,1,114,8,7,5,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-87,A Balbirnie,AU Rashid,C Campher,2,0,2,116,52,43,6,14,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-88,C Campher,SM Curran,A Balbirnie,1,0,1,117,9,8,1,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-89,A Balbirnie,SM Curran,C Campher,2,0,2,119,54,44,2,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-90,A Balbirnie,SM Curran,C Campher,6,0,6,125,60,45,3,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-91,A Balbirnie,SM Curran,C Campher,0,0,0,125,60,46,4,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-92,A Balbirnie,SM Curran,C Campher,2,0,2,127,62,47,5,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-93,A Balbirnie,SM Curran,C Campher,0,0,0,127,62,48,6,15,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-94,C Campher,LS Livingstone,A Balbirnie,4,0,4,131,13,9,1,16,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-95,C Campher,LS Livingstone,A Balbirnie,1,0,1,132,14,10,2,16,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-96,A Balbirnie,LS Livingstone,C Campher,0,0,0,132,62,49,3,16,,-,caught,A Balbirnie,AD Hales,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-97,GH Dockrell,LS Livingstone,C Campher,0,0,0,132,0,1,4,16,,-,bowled,GH Dockrell,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-98,GJ Delany,LS Livingstone,C Campher,0,0,0,132,0,1,5,16,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-99,GJ Delany,LS Livingstone,C Campher,1,0,1,133,1,2,6,16,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-100,GJ Delany,MA Wood,C Campher,1,0,1,134,2,3,1,17,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-101,C Campher,MA Wood,GJ Delany,4,0,4,138,18,11,2,17,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-102,C Campher,MA Wood,GJ Delany,0,0,0,138,18,12,3,17,,-,caught,C Campher,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-103,MR Adair,MA Wood,GJ Delany,1,0,1,139,1,1,4,17,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-104,GJ Delany,MA Wood,MR Adair,4,0,4,143,6,4,5,17,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-105,GJ Delany,MA Wood,MR Adair,0,1,1,144,6,5,6,17,{'legbyes': 1},legbyes,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-106,GJ Delany,LS Livingstone,MR Adair,1,0,1,145,7,6,1,18,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-107,MR Adair,LS Livingstone,GJ Delany,1,0,1,146,2,2,2,18,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-108,GJ Delany,LS Livingstone,MR Adair,1,0,1,147,8,7,3,18,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-109,MR Adair,LS Livingstone,GJ Delany,2,0,2,149,4,3,4,18,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-110,MR Adair,LS Livingstone,GJ Delany,0,0,0,149,4,4,5,18,,-,caught,MR Adair,SM Curran,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-111,BJ McCarthy,LS Livingstone,GJ Delany,1,0,1,150,1,1,6,18,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-112,BJ McCarthy,SM Curran,GJ Delany,2,0,2,152,3,2,1,19,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-113,BJ McCarthy,SM Curran,GJ Delany,0,0,0,152,3,3,2,19,,-,bowled,BJ McCarthy,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-114,F Hand,SM Curran,GJ Delany,1,0,1,153,1,1,3,19,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-115,GJ Delany,SM Curran,F Hand,0,0,0,153,8,8,4,19,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-116,GJ Delany,SM Curran,F Hand,3,0,3,156,11,9,5,19,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-117,F Hand,SM Curran,GJ Delany,0,0,0,156,1,2,6,19,,-,bowled,F Hand,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-118,GJ Delany,BA Stokes,J Little,1,0,1,157,12,10,1,20,,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
-119,J Little,BA Stokes,GJ Delany,0,0,0,157,0,1,2,20,,-,caught,J Little,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,BA Stokes,A Balbirnie,0,0,0,0,0,1,1,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+1,PR Stirling,BA Stokes,A Balbirnie,1,0,1,1,1,2,2,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+2,A Balbirnie,BA Stokes,PR Stirling,2,0,2,3,2,1,3,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+3,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,2,4,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+4,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,3,5,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+5,A Balbirnie,BA Stokes,PR Stirling,0,0,0,3,2,4,6,1,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+6,PR Stirling,CR Woakes,A Balbirnie,4,0,4,7,5,3,1,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+7,PR Stirling,CR Woakes,A Balbirnie,0,1,1,8,5,4,2,2,wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+8,PR Stirling,CR Woakes,A Balbirnie,0,0,0,8,5,5,3,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+9,PR Stirling,CR Woakes,A Balbirnie,3,0,3,11,8,6,4,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+10,A Balbirnie,CR Woakes,PR Stirling,0,0,0,11,2,5,5,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+11,A Balbirnie,CR Woakes,PR Stirling,0,0,0,11,2,6,6,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+12,A Balbirnie,CR Woakes,PR Stirling,4,0,4,15,6,7,7,2,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+13,PR Stirling,MA Wood,A Balbirnie,6,0,6,21,14,7,1,3,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+14,PR Stirling,MA Wood,A Balbirnie,0,0,0,21,14,8,2,3,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+15,PR Stirling,MA Wood,A Balbirnie,0,0,0,21,14,9,3,3,-,caught,PR Stirling,SM Curran,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+16,L Tucker,MA Wood,A Balbirnie,1,0,1,22,1,1,4,3,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+17,A Balbirnie,MA Wood,L Tucker,0,0,0,22,6,8,5,3,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+18,A Balbirnie,MA Wood,L Tucker,0,4,4,26,6,9,6,3,wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+19,L Tucker,MA Wood,A Balbirnie,0,0,0,26,1,2,7,3,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+20,A Balbirnie,CR Woakes,L Tucker,1,0,1,27,7,10,1,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+21,L Tucker,CR Woakes,A Balbirnie,4,0,4,31,5,3,2,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+22,L Tucker,CR Woakes,A Balbirnie,1,0,1,32,6,4,3,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+23,A Balbirnie,CR Woakes,L Tucker,1,0,1,33,8,11,4,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+24,L Tucker,CR Woakes,A Balbirnie,0,0,0,33,6,5,5,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+25,L Tucker,CR Woakes,A Balbirnie,4,0,4,37,10,6,6,4,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+26,A Balbirnie,MA Wood,L Tucker,0,0,0,37,8,12,1,5,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+27,A Balbirnie,MA Wood,L Tucker,4,0,4,41,12,13,2,5,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+28,A Balbirnie,MA Wood,L Tucker,0,0,0,41,12,14,3,5,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+29,A Balbirnie,MA Wood,L Tucker,0,1,1,42,12,15,4,5,legbyes,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+30,L Tucker,MA Wood,A Balbirnie,1,0,1,43,11,7,5,5,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+31,A Balbirnie,MA Wood,L Tucker,2,0,2,45,14,16,6,5,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+32,L Tucker,SM Curran,A Balbirnie,2,0,2,47,13,8,1,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+33,L Tucker,SM Curran,A Balbirnie,4,0,4,51,17,9,2,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+34,L Tucker,SM Curran,A Balbirnie,0,0,0,51,17,10,3,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+35,L Tucker,SM Curran,A Balbirnie,2,0,2,53,19,11,4,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+36,L Tucker,SM Curran,A Balbirnie,0,0,0,53,19,12,5,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+37,L Tucker,SM Curran,A Balbirnie,6,0,6,59,25,13,6,6,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+38,A Balbirnie,AU Rashid,L Tucker,4,0,4,63,18,17,1,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+39,A Balbirnie,AU Rashid,L Tucker,1,0,1,64,19,18,2,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+40,L Tucker,AU Rashid,A Balbirnie,0,0,0,64,25,14,3,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+41,L Tucker,AU Rashid,A Balbirnie,0,0,0,64,25,15,4,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+42,L Tucker,AU Rashid,A Balbirnie,1,0,1,65,26,16,5,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+43,A Balbirnie,AU Rashid,L Tucker,0,0,0,65,19,19,6,7,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+44,L Tucker,BA Stokes,A Balbirnie,0,0,0,65,26,17,1,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+45,L Tucker,BA Stokes,A Balbirnie,0,0,0,65,26,18,2,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+46,L Tucker,BA Stokes,A Balbirnie,1,0,1,66,27,19,3,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+47,A Balbirnie,BA Stokes,L Tucker,1,0,1,67,20,20,4,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+48,L Tucker,BA Stokes,A Balbirnie,1,0,1,68,28,20,5,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+49,A Balbirnie,BA Stokes,L Tucker,1,0,1,69,21,21,6,8,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+50,A Balbirnie,AU Rashid,L Tucker,1,0,1,70,22,22,1,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+51,L Tucker,AU Rashid,A Balbirnie,0,0,0,70,28,21,2,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+52,L Tucker,AU Rashid,A Balbirnie,1,0,1,71,29,22,3,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+53,A Balbirnie,AU Rashid,L Tucker,0,0,0,71,22,23,4,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+54,A Balbirnie,AU Rashid,L Tucker,2,0,2,73,24,24,5,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+55,A Balbirnie,AU Rashid,L Tucker,1,0,1,74,25,25,6,9,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+56,A Balbirnie,CR Woakes,L Tucker,0,1,1,75,25,26,1,10,wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+57,A Balbirnie,CR Woakes,L Tucker,4,0,4,79,29,27,2,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+58,A Balbirnie,CR Woakes,L Tucker,1,0,1,80,30,28,3,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+59,L Tucker,CR Woakes,A Balbirnie,1,0,1,81,30,23,4,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+60,A Balbirnie,CR Woakes,L Tucker,4,0,4,85,34,29,5,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+61,A Balbirnie,CR Woakes,L Tucker,6,0,6,91,40,30,6,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+62,A Balbirnie,CR Woakes,L Tucker,1,0,1,92,41,31,7,10,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+63,A Balbirnie,LS Livingstone,L Tucker,1,0,1,93,42,32,1,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+64,L Tucker,LS Livingstone,A Balbirnie,1,0,1,94,31,24,2,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+65,A Balbirnie,LS Livingstone,L Tucker,1,0,1,95,43,33,3,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+66,L Tucker,LS Livingstone,A Balbirnie,1,0,1,96,32,25,4,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+67,A Balbirnie,LS Livingstone,L Tucker,0,0,0,96,43,34,5,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+68,A Balbirnie,LS Livingstone,L Tucker,1,0,1,97,44,35,6,11,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+69,A Balbirnie,AU Rashid,L Tucker,2,0,2,99,46,36,1,12,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+70,A Balbirnie,AU Rashid,L Tucker,1,0,1,100,47,37,2,12,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+71,L Tucker,AU Rashid,A Balbirnie,1,0,1,101,33,26,3,12,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+72,A Balbirnie,AU Rashid,L Tucker,1,0,1,102,48,38,4,12,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+73,L Tucker,AU Rashid,A Balbirnie,1,0,1,103,34,27,5,12,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+74,A Balbirnie,AU Rashid,L Tucker,0,0,0,103,48,39,6,12,-,run out,L Tucker,AU Rashid,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+75,HT Tector,MA Wood,A Balbirnie,0,0,0,103,0,1,1,13,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+76,HT Tector,MA Wood,A Balbirnie,0,0,0,103,0,2,2,13,-,caught,HT Tector,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+77,C Campher,MA Wood,A Balbirnie,0,1,1,104,0,1,3,13,wides,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+78,C Campher,MA Wood,A Balbirnie,4,0,4,108,4,2,4,13,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+79,C Campher,MA Wood,A Balbirnie,0,0,0,108,4,3,5,13,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+80,C Campher,MA Wood,A Balbirnie,1,0,1,109,5,4,6,13,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+81,A Balbirnie,MA Wood,C Campher,0,0,0,109,48,40,7,13,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+82,C Campher,AU Rashid,A Balbirnie,1,0,1,110,6,5,1,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+83,A Balbirnie,AU Rashid,C Campher,1,0,1,111,49,41,2,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+84,C Campher,AU Rashid,A Balbirnie,1,0,1,112,7,6,3,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+85,A Balbirnie,AU Rashid,C Campher,1,0,1,113,50,42,4,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+86,C Campher,AU Rashid,A Balbirnie,1,0,1,114,8,7,5,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+87,A Balbirnie,AU Rashid,C Campher,2,0,2,116,52,43,6,14,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+88,C Campher,SM Curran,A Balbirnie,1,0,1,117,9,8,1,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+89,A Balbirnie,SM Curran,C Campher,2,0,2,119,54,44,2,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+90,A Balbirnie,SM Curran,C Campher,6,0,6,125,60,45,3,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+91,A Balbirnie,SM Curran,C Campher,0,0,0,125,60,46,4,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+92,A Balbirnie,SM Curran,C Campher,2,0,2,127,62,47,5,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+93,A Balbirnie,SM Curran,C Campher,0,0,0,127,62,48,6,15,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+94,C Campher,LS Livingstone,A Balbirnie,4,0,4,131,13,9,1,16,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+95,C Campher,LS Livingstone,A Balbirnie,1,0,1,132,14,10,2,16,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+96,A Balbirnie,LS Livingstone,C Campher,0,0,0,132,62,49,3,16,-,caught,A Balbirnie,AD Hales,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+97,GH Dockrell,LS Livingstone,C Campher,0,0,0,132,0,1,4,16,-,bowled,GH Dockrell,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+98,GJ Delany,LS Livingstone,C Campher,0,0,0,132,0,1,5,16,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+99,GJ Delany,LS Livingstone,C Campher,1,0,1,133,1,2,6,16,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+100,GJ Delany,MA Wood,C Campher,1,0,1,134,2,3,1,17,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+101,C Campher,MA Wood,GJ Delany,4,0,4,138,18,11,2,17,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+102,C Campher,MA Wood,GJ Delany,0,0,0,138,18,12,3,17,-,caught,C Campher,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+103,MR Adair,MA Wood,GJ Delany,1,0,1,139,1,1,4,17,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+104,GJ Delany,MA Wood,MR Adair,4,0,4,143,6,4,5,17,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+105,GJ Delany,MA Wood,MR Adair,0,1,1,144,6,5,6,17,legbyes,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+106,GJ Delany,LS Livingstone,MR Adair,1,0,1,145,7,6,1,18,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+107,MR Adair,LS Livingstone,GJ Delany,1,0,1,146,2,2,2,18,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+108,GJ Delany,LS Livingstone,MR Adair,1,0,1,147,8,7,3,18,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+109,MR Adair,LS Livingstone,GJ Delany,2,0,2,149,4,3,4,18,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+110,MR Adair,LS Livingstone,GJ Delany,0,0,0,149,4,4,5,18,-,caught,MR Adair,SM Curran,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+111,BJ McCarthy,LS Livingstone,GJ Delany,1,0,1,150,1,1,6,18,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+112,BJ McCarthy,SM Curran,GJ Delany,2,0,2,152,3,2,1,19,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+113,BJ McCarthy,SM Curran,GJ Delany,0,0,0,152,3,3,2,19,-,bowled,BJ McCarthy,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+114,F Hand,SM Curran,GJ Delany,1,0,1,153,1,1,3,19,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+115,GJ Delany,SM Curran,F Hand,0,0,0,153,8,8,4,19,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+116,GJ Delany,SM Curran,F Hand,3,0,3,156,11,9,5,19,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+117,F Hand,SM Curran,GJ Delany,0,0,0,156,1,2,6,19,-,bowled,F Hand,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+118,GJ Delany,BA Stokes,J Little,1,0,1,157,12,10,1,20,-,0,,,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England
+119,J Little,BA Stokes,GJ Delany,0,0,0,157,0,1,2,20,-,caught,J Little,JC Buttler,field,England,1,Melbourne Cricket Ground,2022-10-26,Ireland,England

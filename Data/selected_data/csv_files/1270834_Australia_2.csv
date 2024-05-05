@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,AT Carey,Mahedi Hasan,JR Philippe,0,0,0,0,0,1,1,bowled,AT Carey,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-1,MR Marsh,Mahedi Hasan,JR Philippe,1,0,1,1,1,1,2,0,,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-2,JR Philippe,Mahedi Hasan,MR Marsh,1,0,1,2,1,1,3,0,,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-3,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,2,4,0,,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-4,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,3,5,0,,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-5,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,4,6,0,,,1,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-6,JR Philippe,Nasum Ahmed,MR Marsh,0,0,0,2,1,2,1,0,,,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-7,JR Philippe,Nasum Ahmed,MR Marsh,6,0,6,8,7,3,2,0,,,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-8,JR Philippe,Nasum Ahmed,MR Marsh,2,0,2,10,9,4,3,0,,,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-9,JR Philippe,Nasum Ahmed,MR Marsh,0,0,0,10,9,5,4,stumped,JR Philippe,Nurul Hasan,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-10,MC Henriques,Nasum Ahmed,MR Marsh,1,0,1,11,1,1,5,0,,,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-11,MR Marsh,Nasum Ahmed,MC Henriques,0,0,0,11,1,5,6,0,,,2,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-12,MC Henriques,Shakib Al Hasan,MR Marsh,0,0,0,11,1,2,1,bowled,MC Henriques,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-13,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,11,0,1,2,0,,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-14,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,11,0,2,3,0,,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-15,MS Wade,Shakib Al Hasan,MR Marsh,0,1,1,12,0,3,4,0,,,3,{'wides': 1},wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-16,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,12,0,4,5,0,,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-17,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,12,0,5,6,0,,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-18,MS Wade,Shakib Al Hasan,MR Marsh,1,0,1,13,1,6,7,0,,,3,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-19,MS Wade,Mahedi Hasan,MR Marsh,0,0,0,13,1,7,1,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-20,MS Wade,Mahedi Hasan,MR Marsh,2,0,2,15,3,8,2,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-21,MS Wade,Mahedi Hasan,MR Marsh,0,0,0,15,3,9,3,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-22,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,16,4,10,4,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-23,MR Marsh,Mahedi Hasan,MS Wade,4,0,4,20,5,6,5,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-24,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,21,6,7,6,0,,,4,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-25,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,21,6,8,1,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-26,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,21,6,9,2,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-27,MR Marsh,Shakib Al Hasan,MS Wade,4,0,4,25,10,10,3,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-28,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,25,10,11,4,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-29,MR Marsh,Shakib Al Hasan,MS Wade,1,0,1,26,11,12,5,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-30,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,26,4,11,6,0,,,5,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-31,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,26,11,13,1,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-32,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,26,11,14,2,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-33,MR Marsh,Mustafizur Rahman,MS Wade,1,0,1,27,12,15,3,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-34,MS Wade,Mustafizur Rahman,MR Marsh,0,0,0,27,4,12,4,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-35,MS Wade,Mustafizur Rahman,MR Marsh,1,0,1,28,5,13,5,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-36,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,28,12,16,6,0,,,6,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-37,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,29,6,14,1,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-38,MR Marsh,Mahedi Hasan,MS Wade,2,0,2,31,14,17,2,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-39,MR Marsh,Mahedi Hasan,MS Wade,0,0,0,31,14,18,3,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-40,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,32,15,19,4,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-41,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,33,7,15,5,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-42,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,34,16,20,6,0,,,7,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-43,MR Marsh,Shoriful Islam,MS Wade,4,0,4,38,20,21,1,0,,,8,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-44,MR Marsh,Shoriful Islam,MS Wade,0,0,0,38,20,22,2,0,,,8,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-45,MR Marsh,Shoriful Islam,MS Wade,1,0,1,39,21,23,3,0,,,8,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-46,MS Wade,Shoriful Islam,MR Marsh,1,0,1,40,8,16,4,0,,,8,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-47,MR Marsh,Shoriful Islam,MS Wade,0,1,1,41,21,24,5,0,,,8,{'legbyes': 1},legbyes,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-48,MS Wade,Shoriful Islam,MR Marsh,1,0,1,42,9,17,6,0,,,8,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-49,MS Wade,Mahmudullah,MR Marsh,0,0,0,42,9,18,1,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-50,MS Wade,Mahmudullah,MR Marsh,2,0,2,44,11,19,2,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-51,MS Wade,Mahmudullah,MR Marsh,1,0,1,45,12,20,3,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-52,MR Marsh,Mahmudullah,MS Wade,1,0,1,46,22,25,4,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-53,MS Wade,Mahmudullah,MR Marsh,1,0,1,47,13,21,5,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-54,MR Marsh,Mahmudullah,MS Wade,1,0,1,48,23,26,6,0,,,9,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-55,MR Marsh,Nasum Ahmed,MS Wade,1,0,1,49,24,27,1,0,,,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-56,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,22,2,0,,,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-57,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,23,3,0,,,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-58,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,24,4,caught,MS Wade,Mustafizur Rahman,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-59,AC Agar,Nasum Ahmed,MR Marsh,0,1,1,50,0,1,5,0,,,10,{'wides': 1},wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-60,AC Agar,Nasum Ahmed,MR Marsh,1,0,1,51,1,2,6,0,,,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-61,MR Marsh,Nasum Ahmed,AC Agar,1,0,1,52,25,28,7,0,,,10,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-62,MR Marsh,Mahedi Hasan,AC Agar,1,0,1,53,26,29,1,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-63,AC Agar,Mahedi Hasan,MR Marsh,1,0,1,54,2,3,2,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-64,MR Marsh,Mahedi Hasan,AC Agar,0,3,3,57,26,30,3,0,,,11,{'wides': 3},wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-65,MR Marsh,Mahedi Hasan,AC Agar,0,0,0,57,26,31,4,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-66,MR Marsh,Mahedi Hasan,AC Agar,1,0,1,58,27,32,5,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-67,AC Agar,Mahedi Hasan,MR Marsh,0,0,0,58,2,4,6,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-68,AC Agar,Mahedi Hasan,MR Marsh,0,0,0,58,2,5,7,0,,,11,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-69,MR Marsh,Shakib Al Hasan,AC Agar,4,0,4,62,31,33,1,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-70,MR Marsh,Shakib Al Hasan,AC Agar,1,0,1,63,32,34,2,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-71,AC Agar,Shakib Al Hasan,MR Marsh,1,0,1,64,3,6,3,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-72,MR Marsh,Shakib Al Hasan,AC Agar,1,0,1,65,33,35,4,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-73,AC Agar,Shakib Al Hasan,MR Marsh,2,0,2,67,5,7,5,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-74,AC Agar,Shakib Al Hasan,MR Marsh,0,0,0,67,5,8,6,0,,,12,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-75,MR Marsh,Mustafizur Rahman,AC Agar,1,0,1,68,34,36,1,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-76,AC Agar,Mustafizur Rahman,MR Marsh,0,0,0,68,5,9,2,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-77,AC Agar,Mustafizur Rahman,MR Marsh,1,0,1,69,6,10,3,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-78,MR Marsh,Mustafizur Rahman,AC Agar,0,0,0,69,34,37,4,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-79,MR Marsh,Mustafizur Rahman,AC Agar,1,0,1,70,35,38,5,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-80,AC Agar,Mustafizur Rahman,MR Marsh,1,0,1,71,7,11,6,0,,,13,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-81,AC Agar,Nasum Ahmed,MR Marsh,0,0,0,71,7,12,1,0,,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-82,AC Agar,Nasum Ahmed,MR Marsh,0,0,0,71,7,13,2,hit wicket,AC Agar,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-83,AJ Turner,Nasum Ahmed,MR Marsh,0,0,0,71,0,1,3,0,,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-84,AJ Turner,Nasum Ahmed,MR Marsh,1,0,1,72,1,2,4,0,,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-85,MR Marsh,Nasum Ahmed,AJ Turner,1,0,1,73,36,39,5,0,,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-86,AJ Turner,Nasum Ahmed,MR Marsh,0,0,0,73,1,3,6,0,,,14,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-87,MR Marsh,Shakib Al Hasan,AJ Turner,6,0,6,79,42,40,1,0,,,15,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-88,MR Marsh,Shakib Al Hasan,AJ Turner,1,0,1,80,43,41,2,0,,,15,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-89,AJ Turner,Shakib Al Hasan,MR Marsh,0,1,1,81,1,4,3,0,,,15,{'legbyes': 1},legbyes,"{'by': 'Bangladesh', 'umpire': 'Masudur Rahman', 'batter': 'AJ Turner', 'decision': 'struck down'}",field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-90,MR Marsh,Shakib Al Hasan,AJ Turner,0,0,0,81,43,42,4,0,,,15,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-91,MR Marsh,Shakib Al Hasan,AJ Turner,0,0,0,81,43,43,5,0,,,15,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-92,MR Marsh,Shakib Al Hasan,AJ Turner,1,0,1,82,44,44,6,0,,,15,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-93,MR Marsh,Nasum Ahmed,AJ Turner,1,0,1,83,45,45,1,0,,,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-94,AJ Turner,Nasum Ahmed,MR Marsh,1,0,1,84,2,5,2,0,,,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-95,MR Marsh,Nasum Ahmed,AJ Turner,0,0,0,84,45,46,3,caught,MR Marsh,Shoriful Islam,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-96,AJ Turner,Nasum Ahmed,MA Starc,1,0,1,85,3,6,4,0,,,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-97,MA Starc,Nasum Ahmed,AJ Turner,1,0,1,86,1,1,5,0,,,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-98,AJ Turner,Nasum Ahmed,MA Starc,0,0,0,86,3,7,6,0,,,16,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-99,MA Starc,Shoriful Islam,AJ Turner,0,0,0,86,1,2,1,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-100,MA Starc,Shoriful Islam,AJ Turner,4,0,4,90,5,3,2,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-101,MA Starc,Shoriful Islam,AJ Turner,0,0,0,90,5,4,3,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-102,MA Starc,Shoriful Islam,AJ Turner,1,0,1,91,6,5,4,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-103,AJ Turner,Shoriful Islam,MA Starc,1,0,1,92,4,8,5,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-104,MA Starc,Shoriful Islam,AJ Turner,3,0,3,95,9,6,6,0,,,17,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-105,MA Starc,Mustafizur Rahman,AJ Turner,1,0,1,96,10,7,1,0,,,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-106,AJ Turner,Mustafizur Rahman,MA Starc,4,0,4,100,8,9,2,0,,,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-107,AJ Turner,Mustafizur Rahman,MA Starc,0,0,0,100,8,10,3,caught,AJ Turner,Mahmudullah,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-108,MA Starc,Mustafizur Rahman,AJ Tye,1,0,1,101,11,8,4,0,,,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-109,AJ Tye,Mustafizur Rahman,MA Starc,0,0,0,101,0,1,5,0,,,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-110,AJ Tye,Mustafizur Rahman,MA Starc,0,0,0,101,0,2,6,0,,,18,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-111,MA Starc,Shoriful Islam,AJ Tye,1,0,1,102,12,9,1,0,,,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-112,AJ Tye,Shoriful Islam,MA Starc,0,0,0,102,0,3,2,caught,AJ Tye,Mohammad Naim,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-113,MA Starc,Shoriful Islam,A Zampa,0,1,1,103,12,10,3,0,,,19,{'wides': 1},wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-114,MA Starc,Shoriful Islam,A Zampa,1,0,1,104,13,11,4,0,,,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-115,A Zampa,Shoriful Islam,MA Starc,0,0,0,104,0,1,5,0,,,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-116,A Zampa,Shoriful Islam,MA Starc,0,0,0,104,0,2,6,caught,A Zampa,Afif Hossain,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-117,MA Starc,Shoriful Islam,JR Hazlewood,0,0,0,104,13,12,7,0,,,19,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-118,JR Hazlewood,Mustafizur Rahman,MA Starc,0,0,0,104,0,1,1,0,,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-119,JR Hazlewood,Mustafizur Rahman,MA Starc,0,1,1,105,0,2,2,0,,,20,{'wides': 1},wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-120,JR Hazlewood,Mustafizur Rahman,MA Starc,1,0,1,106,1,3,3,0,,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-121,MA Starc,Mustafizur Rahman,JR Hazlewood,0,0,0,106,13,13,4,0,,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-122,MA Starc,Mustafizur Rahman,JR Hazlewood,1,0,1,107,14,14,5,0,,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-123,JR Hazlewood,Mustafizur Rahman,MA Starc,1,0,1,108,2,4,6,0,,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
-124,MA Starc,Mustafizur Rahman,JR Hazlewood,0,0,0,108,14,15,7,bowled,MA Starc,,20,,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,AT Carey,Mahedi Hasan,JR Philippe,0,0,0,0,0,1,1,bowled,AT Carey,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+1,MR Marsh,Mahedi Hasan,JR Philippe,1,0,1,1,1,1,2,0,,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+2,JR Philippe,Mahedi Hasan,MR Marsh,1,0,1,2,1,1,3,0,,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+3,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,2,4,0,,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+4,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,3,5,0,,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+5,MR Marsh,Mahedi Hasan,JR Philippe,0,0,0,2,1,4,6,0,,,1,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+6,JR Philippe,Nasum Ahmed,MR Marsh,0,0,0,2,1,2,1,0,,,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+7,JR Philippe,Nasum Ahmed,MR Marsh,6,0,6,8,7,3,2,0,,,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+8,JR Philippe,Nasum Ahmed,MR Marsh,2,0,2,10,9,4,3,0,,,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+9,JR Philippe,Nasum Ahmed,MR Marsh,0,0,0,10,9,5,4,stumped,JR Philippe,Nurul Hasan,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+10,MC Henriques,Nasum Ahmed,MR Marsh,1,0,1,11,1,1,5,0,,,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+11,MR Marsh,Nasum Ahmed,MC Henriques,0,0,0,11,1,5,6,0,,,2,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+12,MC Henriques,Shakib Al Hasan,MR Marsh,0,0,0,11,1,2,1,bowled,MC Henriques,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+13,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,11,0,1,2,0,,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+14,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,11,0,2,3,0,,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+15,MS Wade,Shakib Al Hasan,MR Marsh,0,1,1,12,0,3,4,0,,,3,wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+16,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,12,0,4,5,0,,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+17,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,12,0,5,6,0,,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+18,MS Wade,Shakib Al Hasan,MR Marsh,1,0,1,13,1,6,7,0,,,3,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+19,MS Wade,Mahedi Hasan,MR Marsh,0,0,0,13,1,7,1,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+20,MS Wade,Mahedi Hasan,MR Marsh,2,0,2,15,3,8,2,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+21,MS Wade,Mahedi Hasan,MR Marsh,0,0,0,15,3,9,3,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+22,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,16,4,10,4,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+23,MR Marsh,Mahedi Hasan,MS Wade,4,0,4,20,5,6,5,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+24,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,21,6,7,6,0,,,4,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+25,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,21,6,8,1,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+26,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,21,6,9,2,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+27,MR Marsh,Shakib Al Hasan,MS Wade,4,0,4,25,10,10,3,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+28,MR Marsh,Shakib Al Hasan,MS Wade,0,0,0,25,10,11,4,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+29,MR Marsh,Shakib Al Hasan,MS Wade,1,0,1,26,11,12,5,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+30,MS Wade,Shakib Al Hasan,MR Marsh,0,0,0,26,4,11,6,0,,,5,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+31,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,26,11,13,1,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+32,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,26,11,14,2,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+33,MR Marsh,Mustafizur Rahman,MS Wade,1,0,1,27,12,15,3,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+34,MS Wade,Mustafizur Rahman,MR Marsh,0,0,0,27,4,12,4,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+35,MS Wade,Mustafizur Rahman,MR Marsh,1,0,1,28,5,13,5,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+36,MR Marsh,Mustafizur Rahman,MS Wade,0,0,0,28,12,16,6,0,,,6,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+37,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,29,6,14,1,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+38,MR Marsh,Mahedi Hasan,MS Wade,2,0,2,31,14,17,2,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+39,MR Marsh,Mahedi Hasan,MS Wade,0,0,0,31,14,18,3,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+40,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,32,15,19,4,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+41,MS Wade,Mahedi Hasan,MR Marsh,1,0,1,33,7,15,5,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+42,MR Marsh,Mahedi Hasan,MS Wade,1,0,1,34,16,20,6,0,,,7,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+43,MR Marsh,Shoriful Islam,MS Wade,4,0,4,38,20,21,1,0,,,8,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+44,MR Marsh,Shoriful Islam,MS Wade,0,0,0,38,20,22,2,0,,,8,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+45,MR Marsh,Shoriful Islam,MS Wade,1,0,1,39,21,23,3,0,,,8,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+46,MS Wade,Shoriful Islam,MR Marsh,1,0,1,40,8,16,4,0,,,8,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+47,MR Marsh,Shoriful Islam,MS Wade,0,1,1,41,21,24,5,0,,,8,legbyes,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+48,MS Wade,Shoriful Islam,MR Marsh,1,0,1,42,9,17,6,0,,,8,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+49,MS Wade,Mahmudullah,MR Marsh,0,0,0,42,9,18,1,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+50,MS Wade,Mahmudullah,MR Marsh,2,0,2,44,11,19,2,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+51,MS Wade,Mahmudullah,MR Marsh,1,0,1,45,12,20,3,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+52,MR Marsh,Mahmudullah,MS Wade,1,0,1,46,22,25,4,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+53,MS Wade,Mahmudullah,MR Marsh,1,0,1,47,13,21,5,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+54,MR Marsh,Mahmudullah,MS Wade,1,0,1,48,23,26,6,0,,,9,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+55,MR Marsh,Nasum Ahmed,MS Wade,1,0,1,49,24,27,1,0,,,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+56,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,22,2,0,,,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+57,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,23,3,0,,,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+58,MS Wade,Nasum Ahmed,MR Marsh,0,0,0,49,13,24,4,caught,MS Wade,Mustafizur Rahman,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+59,AC Agar,Nasum Ahmed,MR Marsh,0,1,1,50,0,1,5,0,,,10,wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+60,AC Agar,Nasum Ahmed,MR Marsh,1,0,1,51,1,2,6,0,,,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+61,MR Marsh,Nasum Ahmed,AC Agar,1,0,1,52,25,28,7,0,,,10,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+62,MR Marsh,Mahedi Hasan,AC Agar,1,0,1,53,26,29,1,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+63,AC Agar,Mahedi Hasan,MR Marsh,1,0,1,54,2,3,2,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+64,MR Marsh,Mahedi Hasan,AC Agar,0,3,3,57,26,30,3,0,,,11,wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+65,MR Marsh,Mahedi Hasan,AC Agar,0,0,0,57,26,31,4,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+66,MR Marsh,Mahedi Hasan,AC Agar,1,0,1,58,27,32,5,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+67,AC Agar,Mahedi Hasan,MR Marsh,0,0,0,58,2,4,6,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+68,AC Agar,Mahedi Hasan,MR Marsh,0,0,0,58,2,5,7,0,,,11,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+69,MR Marsh,Shakib Al Hasan,AC Agar,4,0,4,62,31,33,1,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+70,MR Marsh,Shakib Al Hasan,AC Agar,1,0,1,63,32,34,2,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+71,AC Agar,Shakib Al Hasan,MR Marsh,1,0,1,64,3,6,3,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+72,MR Marsh,Shakib Al Hasan,AC Agar,1,0,1,65,33,35,4,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+73,AC Agar,Shakib Al Hasan,MR Marsh,2,0,2,67,5,7,5,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+74,AC Agar,Shakib Al Hasan,MR Marsh,0,0,0,67,5,8,6,0,,,12,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+75,MR Marsh,Mustafizur Rahman,AC Agar,1,0,1,68,34,36,1,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+76,AC Agar,Mustafizur Rahman,MR Marsh,0,0,0,68,5,9,2,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+77,AC Agar,Mustafizur Rahman,MR Marsh,1,0,1,69,6,10,3,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+78,MR Marsh,Mustafizur Rahman,AC Agar,0,0,0,69,34,37,4,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+79,MR Marsh,Mustafizur Rahman,AC Agar,1,0,1,70,35,38,5,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+80,AC Agar,Mustafizur Rahman,MR Marsh,1,0,1,71,7,11,6,0,,,13,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+81,AC Agar,Nasum Ahmed,MR Marsh,0,0,0,71,7,12,1,0,,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+82,AC Agar,Nasum Ahmed,MR Marsh,0,0,0,71,7,13,2,hit wicket,AC Agar,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+83,AJ Turner,Nasum Ahmed,MR Marsh,0,0,0,71,0,1,3,0,,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+84,AJ Turner,Nasum Ahmed,MR Marsh,1,0,1,72,1,2,4,0,,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+85,MR Marsh,Nasum Ahmed,AJ Turner,1,0,1,73,36,39,5,0,,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+86,AJ Turner,Nasum Ahmed,MR Marsh,0,0,0,73,1,3,6,0,,,14,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+87,MR Marsh,Shakib Al Hasan,AJ Turner,6,0,6,79,42,40,1,0,,,15,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+88,MR Marsh,Shakib Al Hasan,AJ Turner,1,0,1,80,43,41,2,0,,,15,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+89,AJ Turner,Shakib Al Hasan,MR Marsh,0,1,1,81,1,4,3,0,,,15,legbyes,"{'by': 'Bangladesh', 'umpire': 'Masudur Rahman', 'batter': 'AJ Turner', 'decision': 'struck down'}",field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+90,MR Marsh,Shakib Al Hasan,AJ Turner,0,0,0,81,43,42,4,0,,,15,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+91,MR Marsh,Shakib Al Hasan,AJ Turner,0,0,0,81,43,43,5,0,,,15,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+92,MR Marsh,Shakib Al Hasan,AJ Turner,1,0,1,82,44,44,6,0,,,15,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+93,MR Marsh,Nasum Ahmed,AJ Turner,1,0,1,83,45,45,1,0,,,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+94,AJ Turner,Nasum Ahmed,MR Marsh,1,0,1,84,2,5,2,0,,,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+95,MR Marsh,Nasum Ahmed,AJ Turner,0,0,0,84,45,46,3,caught,MR Marsh,Shoriful Islam,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+96,AJ Turner,Nasum Ahmed,MA Starc,1,0,1,85,3,6,4,0,,,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+97,MA Starc,Nasum Ahmed,AJ Turner,1,0,1,86,1,1,5,0,,,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+98,AJ Turner,Nasum Ahmed,MA Starc,0,0,0,86,3,7,6,0,,,16,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+99,MA Starc,Shoriful Islam,AJ Turner,0,0,0,86,1,2,1,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+100,MA Starc,Shoriful Islam,AJ Turner,4,0,4,90,5,3,2,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+101,MA Starc,Shoriful Islam,AJ Turner,0,0,0,90,5,4,3,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+102,MA Starc,Shoriful Islam,AJ Turner,1,0,1,91,6,5,4,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+103,AJ Turner,Shoriful Islam,MA Starc,1,0,1,92,4,8,5,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+104,MA Starc,Shoriful Islam,AJ Turner,3,0,3,95,9,6,6,0,,,17,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+105,MA Starc,Mustafizur Rahman,AJ Turner,1,0,1,96,10,7,1,0,,,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+106,AJ Turner,Mustafizur Rahman,MA Starc,4,0,4,100,8,9,2,0,,,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+107,AJ Turner,Mustafizur Rahman,MA Starc,0,0,0,100,8,10,3,caught,AJ Turner,Mahmudullah,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+108,MA Starc,Mustafizur Rahman,AJ Tye,1,0,1,101,11,8,4,0,,,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+109,AJ Tye,Mustafizur Rahman,MA Starc,0,0,0,101,0,1,5,0,,,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+110,AJ Tye,Mustafizur Rahman,MA Starc,0,0,0,101,0,2,6,0,,,18,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+111,MA Starc,Shoriful Islam,AJ Tye,1,0,1,102,12,9,1,0,,,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+112,AJ Tye,Shoriful Islam,MA Starc,0,0,0,102,0,3,2,caught,AJ Tye,Mohammad Naim,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+113,MA Starc,Shoriful Islam,A Zampa,0,1,1,103,12,10,3,0,,,19,wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+114,MA Starc,Shoriful Islam,A Zampa,1,0,1,104,13,11,4,0,,,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+115,A Zampa,Shoriful Islam,MA Starc,0,0,0,104,0,1,5,0,,,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+116,A Zampa,Shoriful Islam,MA Starc,0,0,0,104,0,2,6,caught,A Zampa,Afif Hossain,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+117,MA Starc,Shoriful Islam,JR Hazlewood,0,0,0,104,13,12,7,0,,,19,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+118,JR Hazlewood,Mustafizur Rahman,MA Starc,0,0,0,104,0,1,1,0,,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+119,JR Hazlewood,Mustafizur Rahman,MA Starc,0,1,1,105,0,2,2,0,,,20,wides,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+120,JR Hazlewood,Mustafizur Rahman,MA Starc,1,0,1,106,1,3,3,0,,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+121,MA Starc,Mustafizur Rahman,JR Hazlewood,0,0,0,106,13,13,4,0,,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+122,MA Starc,Mustafizur Rahman,JR Hazlewood,1,0,1,107,14,14,5,0,,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+123,JR Hazlewood,Mustafizur Rahman,MA Starc,1,0,1,108,2,4,6,0,,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh
+124,MA Starc,Mustafizur Rahman,JR Hazlewood,0,0,0,108,14,15,7,bowled,MA Starc,,20,-,,field,Australia,2,"Shere Bangla National Stadium, Mirpur",2021-08-03,Australia,Bangladesh

@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,SE Marsh,M Ntini,DA Warner,0,0,0,0,0,1,1,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-1,SE Marsh,M Ntini,DA Warner,1,0,1,1,1,2,2,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-2,DA Warner,M Ntini,SE Marsh,1,0,1,2,1,1,3,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-3,SE Marsh,M Ntini,DA Warner,1,0,1,3,2,3,4,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-4,DA Warner,M Ntini,SE Marsh,4,0,4,7,5,2,5,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-5,DA Warner,M Ntini,SE Marsh,1,0,1,8,6,3,6,1,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-6,DA Warner,LL Tsotsobe,SE Marsh,0,0,0,8,6,4,1,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-7,DA Warner,LL Tsotsobe,SE Marsh,4,0,4,12,10,5,2,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-8,DA Warner,LL Tsotsobe,SE Marsh,1,0,1,13,11,6,3,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-9,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,13,2,4,4,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-10,SE Marsh,LL Tsotsobe,DA Warner,4,0,4,17,6,5,5,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-11,SE Marsh,LL Tsotsobe,DA Warner,2,0,2,19,8,6,6,2,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-12,DA Warner,M Ntini,SE Marsh,0,0,0,19,11,7,1,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-13,DA Warner,M Ntini,SE Marsh,1,0,1,20,12,8,2,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-14,SE Marsh,M Ntini,DA Warner,1,0,1,21,9,7,3,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-15,DA Warner,M Ntini,SE Marsh,6,0,6,27,18,9,4,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-16,DA Warner,M Ntini,SE Marsh,6,0,6,33,24,10,5,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-17,DA Warner,M Ntini,SE Marsh,4,0,4,37,28,11,6,3,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-18,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,37,9,8,1,4,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-19,SE Marsh,LL Tsotsobe,DA Warner,0,1,1,38,9,9,2,4,{'wides': 1},wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-20,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,38,9,10,3,4,,-,caught,SE Marsh,JA Morkel,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-21,RT Ponting,LL Tsotsobe,DA Warner,1,0,1,39,1,1,4,4,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-22,DA Warner,LL Tsotsobe,RT Ponting,0,0,0,39,28,12,5,4,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-23,DA Warner,LL Tsotsobe,RT Ponting,3,0,3,42,31,13,6,4,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-24,RT Ponting,LL Tsotsobe,DA Warner,0,0,0,42,1,2,7,4,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-25,DA Warner,JH Kallis,RT Ponting,4,0,4,46,35,14,1,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-26,DA Warner,JH Kallis,RT Ponting,0,0,0,46,35,15,2,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-27,DA Warner,JH Kallis,RT Ponting,4,0,4,50,39,16,3,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-28,DA Warner,JH Kallis,RT Ponting,1,0,1,51,40,17,4,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-29,RT Ponting,JH Kallis,DA Warner,2,0,2,53,3,3,5,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-30,RT Ponting,JH Kallis,DA Warner,1,0,1,54,4,4,6,5,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-31,RT Ponting,DW Steyn,DA Warner,1,0,1,55,5,5,1,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-32,DA Warner,DW Steyn,RT Ponting,6,0,6,61,46,18,2,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-33,DA Warner,DW Steyn,RT Ponting,6,0,6,67,52,19,3,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-34,DA Warner,DW Steyn,RT Ponting,1,0,1,68,53,20,4,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-35,RT Ponting,DW Steyn,DA Warner,1,0,1,69,6,6,5,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-36,DA Warner,DW Steyn,RT Ponting,0,0,0,69,53,21,6,6,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-37,RT Ponting,J Botha,DA Warner,1,0,1,70,7,7,1,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-38,DA Warner,J Botha,RT Ponting,1,0,1,71,54,22,2,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-39,RT Ponting,J Botha,DA Warner,2,0,2,73,9,8,3,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-40,RT Ponting,J Botha,DA Warner,1,0,1,74,10,9,4,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-41,DA Warner,J Botha,RT Ponting,0,0,0,74,54,23,5,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-42,DA Warner,J Botha,RT Ponting,0,0,0,74,54,24,6,7,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-43,RT Ponting,DW Steyn,DA Warner,2,0,2,76,12,10,1,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-44,RT Ponting,DW Steyn,DA Warner,0,1,1,77,12,11,2,8,{'wides': 1},wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-45,RT Ponting,DW Steyn,DA Warner,0,0,0,77,12,12,3,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-46,RT Ponting,DW Steyn,DA Warner,3,0,3,80,15,13,4,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-47,DA Warner,DW Steyn,RT Ponting,1,0,1,81,55,25,5,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-48,RT Ponting,DW Steyn,DA Warner,1,0,1,82,16,14,6,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-49,DA Warner,DW Steyn,RT Ponting,4,0,4,86,59,26,7,8,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-50,RT Ponting,J Botha,DA Warner,0,0,0,86,16,15,1,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-51,RT Ponting,J Botha,DA Warner,0,0,0,86,16,16,2,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-52,RT Ponting,J Botha,DA Warner,1,0,1,87,17,17,3,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-53,DA Warner,J Botha,RT Ponting,6,0,6,93,65,27,4,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-54,DA Warner,J Botha,RT Ponting,0,0,0,93,65,28,5,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-55,DA Warner,J Botha,RT Ponting,0,0,0,93,65,29,6,9,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-56,RT Ponting,JA Morkel,DA Warner,4,0,4,97,21,18,1,10,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-57,RT Ponting,JA Morkel,DA Warner,0,0,0,97,21,19,2,10,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-58,RT Ponting,JA Morkel,DA Warner,0,0,0,97,21,20,3,10,,-,caught,RT Ponting,DW Steyn,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-59,DA Warner,JA Morkel,DJ Hussey,1,0,1,98,66,30,4,10,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-60,DJ Hussey,JA Morkel,DA Warner,1,0,1,99,1,1,5,10,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-61,DA Warner,JA Morkel,DJ Hussey,2,0,2,101,68,31,6,10,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-62,DJ Hussey,JH Kallis,DA Warner,1,0,1,102,2,2,1,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-63,DA Warner,JH Kallis,DJ Hussey,2,0,2,104,70,32,2,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-64,DA Warner,JH Kallis,DJ Hussey,0,0,0,104,70,33,3,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-65,DA Warner,JH Kallis,DJ Hussey,6,0,6,110,76,34,4,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-66,DA Warner,JH Kallis,DJ Hussey,2,0,2,112,78,35,5,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-67,DA Warner,JH Kallis,DJ Hussey,2,0,2,114,80,36,6,11,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-68,DJ Hussey,JA Morkel,DA Warner,1,0,1,115,3,3,1,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-69,DA Warner,JA Morkel,DJ Hussey,0,0,0,115,80,37,2,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-70,DA Warner,JA Morkel,DJ Hussey,1,0,1,116,81,38,3,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-71,DJ Hussey,JA Morkel,DA Warner,0,0,0,116,3,4,4,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-72,DJ Hussey,JA Morkel,DA Warner,2,0,2,118,5,5,5,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-73,DJ Hussey,JA Morkel,DA Warner,1,0,1,119,6,6,6,12,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-74,DJ Hussey,J Botha,DA Warner,0,0,0,119,6,7,1,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-75,DJ Hussey,J Botha,DA Warner,6,0,6,125,12,8,2,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-76,DJ Hussey,J Botha,DA Warner,1,0,1,126,13,9,3,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-77,DA Warner,J Botha,DJ Hussey,1,0,1,127,82,39,4,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-78,DJ Hussey,J Botha,DA Warner,4,0,4,131,17,10,5,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-79,DJ Hussey,J Botha,DA Warner,2,0,2,133,19,11,6,13,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-80,DA Warner,M Ntini,DJ Hussey,4,0,4,137,86,40,1,14,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-81,DA Warner,M Ntini,DJ Hussey,2,0,2,139,88,41,2,14,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-82,DA Warner,M Ntini,DJ Hussey,1,0,1,140,89,42,3,14,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-83,DJ Hussey,M Ntini,DA Warner,0,0,0,140,19,12,4,14,,-,caught,DJ Hussey,AB de Villiers,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-84,DA Warner,M Ntini,CL White,0,0,0,140,89,43,5,14,,-,caught,DA Warner,AB de Villiers,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-85,CL White,M Ntini,MEK Hussey,0,0,0,140,0,1,6,14,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-86,MEK Hussey,J Botha,CL White,2,0,2,142,2,1,1,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-87,MEK Hussey,J Botha,CL White,0,0,0,142,2,2,2,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-88,MEK Hussey,J Botha,CL White,1,0,1,143,3,3,3,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-89,CL White,J Botha,MEK Hussey,1,0,1,144,1,2,4,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-90,MEK Hussey,J Botha,CL White,1,0,1,145,4,4,5,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-91,CL White,J Botha,MEK Hussey,0,0,0,145,1,3,6,15,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-92,MEK Hussey,JA Morkel,CL White,2,0,2,147,6,5,1,16,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-93,MEK Hussey,JA Morkel,CL White,1,0,1,148,7,6,2,16,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-94,CL White,JA Morkel,MEK Hussey,6,0,6,154,7,4,3,16,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-95,CL White,JA Morkel,MEK Hussey,0,0,0,154,7,5,4,16,,-,caught,CL White,JH Kallis,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-96,MEK Hussey,JA Morkel,L Ronchi,0,0,0,154,7,7,5,16,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-97,MEK Hussey,JA Morkel,L Ronchi,0,0,0,154,7,8,6,16,,-,run out,MEK Hussey,HH Gibbs,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-98,JR Hopes,M Ntini,L Ronchi,0,0,0,154,0,1,1,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-99,JR Hopes,M Ntini,L Ronchi,0,0,0,154,0,2,2,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-100,JR Hopes,M Ntini,L Ronchi,1,0,1,155,1,3,3,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-101,L Ronchi,M Ntini,JR Hopes,1,0,1,156,1,1,4,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-102,JR Hopes,M Ntini,L Ronchi,1,0,1,157,2,4,5,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-103,L Ronchi,M Ntini,JR Hopes,4,0,4,161,5,2,6,17,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-104,JR Hopes,DW Steyn,L Ronchi,1,0,1,162,3,5,1,18,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-105,L Ronchi,DW Steyn,JR Hopes,4,0,4,166,9,3,2,18,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-106,L Ronchi,DW Steyn,JR Hopes,2,0,2,168,11,4,3,18,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-107,L Ronchi,DW Steyn,JR Hopes,0,0,0,168,11,5,4,18,,-,caught,L Ronchi,M Ntini,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-108,JR Hopes,DW Steyn,NW Bracken,2,0,2,170,5,6,5,18,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-109,JR Hopes,DW Steyn,NW Bracken,0,0,0,170,5,7,6,18,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-110,NW Bracken,JA Morkel,JR Hopes,1,0,1,171,1,1,1,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-111,JR Hopes,JA Morkel,NW Bracken,2,0,2,173,7,8,2,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-112,JR Hopes,JA Morkel,NW Bracken,2,0,2,175,9,9,3,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-113,JR Hopes,JA Morkel,NW Bracken,2,0,2,177,11,10,4,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-114,JR Hopes,JA Morkel,NW Bracken,0,0,0,177,11,11,5,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-115,JR Hopes,JA Morkel,NW Bracken,1,0,1,178,12,12,6,19,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-116,JR Hopes,DW Steyn,NW Bracken,1,0,1,179,13,13,1,20,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-117,NW Bracken,DW Steyn,JR Hopes,0,1,1,180,1,2,2,20,{'byes': 1},byes,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-118,JR Hopes,DW Steyn,NW Bracken,0,0,0,180,13,14,3,20,,-,caught,JR Hopes,J Botha,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-119,BW Hilfenhaus,DW Steyn,NW Bracken,0,1,1,181,0,1,4,20,{'byes': 1},byes,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-120,NW Bracken,DW Steyn,BW Hilfenhaus,0,0,0,181,1,3,5,20,,-,bowled,NW Bracken,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
-121,SW Tait,DW Steyn,BW Hilfenhaus,1,0,1,182,1,1,6,20,,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,SE Marsh,M Ntini,DA Warner,0,0,0,0,0,1,1,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+1,SE Marsh,M Ntini,DA Warner,1,0,1,1,1,2,2,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+2,DA Warner,M Ntini,SE Marsh,1,0,1,2,1,1,3,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+3,SE Marsh,M Ntini,DA Warner,1,0,1,3,2,3,4,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+4,DA Warner,M Ntini,SE Marsh,4,0,4,7,5,2,5,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+5,DA Warner,M Ntini,SE Marsh,1,0,1,8,6,3,6,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+6,DA Warner,LL Tsotsobe,SE Marsh,0,0,0,8,6,4,1,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+7,DA Warner,LL Tsotsobe,SE Marsh,4,0,4,12,10,5,2,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+8,DA Warner,LL Tsotsobe,SE Marsh,1,0,1,13,11,6,3,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+9,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,13,2,4,4,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+10,SE Marsh,LL Tsotsobe,DA Warner,4,0,4,17,6,5,5,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+11,SE Marsh,LL Tsotsobe,DA Warner,2,0,2,19,8,6,6,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+12,DA Warner,M Ntini,SE Marsh,0,0,0,19,11,7,1,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+13,DA Warner,M Ntini,SE Marsh,1,0,1,20,12,8,2,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+14,SE Marsh,M Ntini,DA Warner,1,0,1,21,9,7,3,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+15,DA Warner,M Ntini,SE Marsh,6,0,6,27,18,9,4,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+16,DA Warner,M Ntini,SE Marsh,6,0,6,33,24,10,5,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+17,DA Warner,M Ntini,SE Marsh,4,0,4,37,28,11,6,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+18,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,37,9,8,1,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+19,SE Marsh,LL Tsotsobe,DA Warner,0,1,1,38,9,9,2,4,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+20,SE Marsh,LL Tsotsobe,DA Warner,0,0,0,38,9,10,3,4,-,caught,SE Marsh,JA Morkel,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+21,RT Ponting,LL Tsotsobe,DA Warner,1,0,1,39,1,1,4,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+22,DA Warner,LL Tsotsobe,RT Ponting,0,0,0,39,28,12,5,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+23,DA Warner,LL Tsotsobe,RT Ponting,3,0,3,42,31,13,6,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+24,RT Ponting,LL Tsotsobe,DA Warner,0,0,0,42,1,2,7,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+25,DA Warner,JH Kallis,RT Ponting,4,0,4,46,35,14,1,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+26,DA Warner,JH Kallis,RT Ponting,0,0,0,46,35,15,2,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+27,DA Warner,JH Kallis,RT Ponting,4,0,4,50,39,16,3,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+28,DA Warner,JH Kallis,RT Ponting,1,0,1,51,40,17,4,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+29,RT Ponting,JH Kallis,DA Warner,2,0,2,53,3,3,5,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+30,RT Ponting,JH Kallis,DA Warner,1,0,1,54,4,4,6,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+31,RT Ponting,DW Steyn,DA Warner,1,0,1,55,5,5,1,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+32,DA Warner,DW Steyn,RT Ponting,6,0,6,61,46,18,2,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+33,DA Warner,DW Steyn,RT Ponting,6,0,6,67,52,19,3,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+34,DA Warner,DW Steyn,RT Ponting,1,0,1,68,53,20,4,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+35,RT Ponting,DW Steyn,DA Warner,1,0,1,69,6,6,5,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+36,DA Warner,DW Steyn,RT Ponting,0,0,0,69,53,21,6,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+37,RT Ponting,J Botha,DA Warner,1,0,1,70,7,7,1,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+38,DA Warner,J Botha,RT Ponting,1,0,1,71,54,22,2,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+39,RT Ponting,J Botha,DA Warner,2,0,2,73,9,8,3,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+40,RT Ponting,J Botha,DA Warner,1,0,1,74,10,9,4,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+41,DA Warner,J Botha,RT Ponting,0,0,0,74,54,23,5,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+42,DA Warner,J Botha,RT Ponting,0,0,0,74,54,24,6,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+43,RT Ponting,DW Steyn,DA Warner,2,0,2,76,12,10,1,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+44,RT Ponting,DW Steyn,DA Warner,0,1,1,77,12,11,2,8,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+45,RT Ponting,DW Steyn,DA Warner,0,0,0,77,12,12,3,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+46,RT Ponting,DW Steyn,DA Warner,3,0,3,80,15,13,4,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+47,DA Warner,DW Steyn,RT Ponting,1,0,1,81,55,25,5,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+48,RT Ponting,DW Steyn,DA Warner,1,0,1,82,16,14,6,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+49,DA Warner,DW Steyn,RT Ponting,4,0,4,86,59,26,7,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+50,RT Ponting,J Botha,DA Warner,0,0,0,86,16,15,1,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+51,RT Ponting,J Botha,DA Warner,0,0,0,86,16,16,2,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+52,RT Ponting,J Botha,DA Warner,1,0,1,87,17,17,3,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+53,DA Warner,J Botha,RT Ponting,6,0,6,93,65,27,4,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+54,DA Warner,J Botha,RT Ponting,0,0,0,93,65,28,5,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+55,DA Warner,J Botha,RT Ponting,0,0,0,93,65,29,6,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+56,RT Ponting,JA Morkel,DA Warner,4,0,4,97,21,18,1,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+57,RT Ponting,JA Morkel,DA Warner,0,0,0,97,21,19,2,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+58,RT Ponting,JA Morkel,DA Warner,0,0,0,97,21,20,3,10,-,caught,RT Ponting,DW Steyn,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+59,DA Warner,JA Morkel,DJ Hussey,1,0,1,98,66,30,4,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+60,DJ Hussey,JA Morkel,DA Warner,1,0,1,99,1,1,5,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+61,DA Warner,JA Morkel,DJ Hussey,2,0,2,101,68,31,6,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+62,DJ Hussey,JH Kallis,DA Warner,1,0,1,102,2,2,1,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+63,DA Warner,JH Kallis,DJ Hussey,2,0,2,104,70,32,2,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+64,DA Warner,JH Kallis,DJ Hussey,0,0,0,104,70,33,3,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+65,DA Warner,JH Kallis,DJ Hussey,6,0,6,110,76,34,4,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+66,DA Warner,JH Kallis,DJ Hussey,2,0,2,112,78,35,5,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+67,DA Warner,JH Kallis,DJ Hussey,2,0,2,114,80,36,6,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+68,DJ Hussey,JA Morkel,DA Warner,1,0,1,115,3,3,1,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+69,DA Warner,JA Morkel,DJ Hussey,0,0,0,115,80,37,2,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+70,DA Warner,JA Morkel,DJ Hussey,1,0,1,116,81,38,3,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+71,DJ Hussey,JA Morkel,DA Warner,0,0,0,116,3,4,4,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+72,DJ Hussey,JA Morkel,DA Warner,2,0,2,118,5,5,5,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+73,DJ Hussey,JA Morkel,DA Warner,1,0,1,119,6,6,6,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+74,DJ Hussey,J Botha,DA Warner,0,0,0,119,6,7,1,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+75,DJ Hussey,J Botha,DA Warner,6,0,6,125,12,8,2,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+76,DJ Hussey,J Botha,DA Warner,1,0,1,126,13,9,3,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+77,DA Warner,J Botha,DJ Hussey,1,0,1,127,82,39,4,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+78,DJ Hussey,J Botha,DA Warner,4,0,4,131,17,10,5,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+79,DJ Hussey,J Botha,DA Warner,2,0,2,133,19,11,6,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+80,DA Warner,M Ntini,DJ Hussey,4,0,4,137,86,40,1,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+81,DA Warner,M Ntini,DJ Hussey,2,0,2,139,88,41,2,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+82,DA Warner,M Ntini,DJ Hussey,1,0,1,140,89,42,3,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+83,DJ Hussey,M Ntini,DA Warner,0,0,0,140,19,12,4,14,-,caught,DJ Hussey,AB de Villiers,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+84,DA Warner,M Ntini,CL White,0,0,0,140,89,43,5,14,-,caught,DA Warner,AB de Villiers,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+85,CL White,M Ntini,MEK Hussey,0,0,0,140,0,1,6,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+86,MEK Hussey,J Botha,CL White,2,0,2,142,2,1,1,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+87,MEK Hussey,J Botha,CL White,0,0,0,142,2,2,2,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+88,MEK Hussey,J Botha,CL White,1,0,1,143,3,3,3,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+89,CL White,J Botha,MEK Hussey,1,0,1,144,1,2,4,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+90,MEK Hussey,J Botha,CL White,1,0,1,145,4,4,5,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+91,CL White,J Botha,MEK Hussey,0,0,0,145,1,3,6,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+92,MEK Hussey,JA Morkel,CL White,2,0,2,147,6,5,1,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+93,MEK Hussey,JA Morkel,CL White,1,0,1,148,7,6,2,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+94,CL White,JA Morkel,MEK Hussey,6,0,6,154,7,4,3,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+95,CL White,JA Morkel,MEK Hussey,0,0,0,154,7,5,4,16,-,caught,CL White,JH Kallis,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+96,MEK Hussey,JA Morkel,L Ronchi,0,0,0,154,7,7,5,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+97,MEK Hussey,JA Morkel,L Ronchi,0,0,0,154,7,8,6,16,-,run out,MEK Hussey,HH Gibbs,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+98,JR Hopes,M Ntini,L Ronchi,0,0,0,154,0,1,1,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+99,JR Hopes,M Ntini,L Ronchi,0,0,0,154,0,2,2,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+100,JR Hopes,M Ntini,L Ronchi,1,0,1,155,1,3,3,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+101,L Ronchi,M Ntini,JR Hopes,1,0,1,156,1,1,4,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+102,JR Hopes,M Ntini,L Ronchi,1,0,1,157,2,4,5,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+103,L Ronchi,M Ntini,JR Hopes,4,0,4,161,5,2,6,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+104,JR Hopes,DW Steyn,L Ronchi,1,0,1,162,3,5,1,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+105,L Ronchi,DW Steyn,JR Hopes,4,0,4,166,9,3,2,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+106,L Ronchi,DW Steyn,JR Hopes,2,0,2,168,11,4,3,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+107,L Ronchi,DW Steyn,JR Hopes,0,0,0,168,11,5,4,18,-,caught,L Ronchi,M Ntini,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+108,JR Hopes,DW Steyn,NW Bracken,2,0,2,170,5,6,5,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+109,JR Hopes,DW Steyn,NW Bracken,0,0,0,170,5,7,6,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+110,NW Bracken,JA Morkel,JR Hopes,1,0,1,171,1,1,1,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+111,JR Hopes,JA Morkel,NW Bracken,2,0,2,173,7,8,2,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+112,JR Hopes,JA Morkel,NW Bracken,2,0,2,175,9,9,3,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+113,JR Hopes,JA Morkel,NW Bracken,2,0,2,177,11,10,4,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+114,JR Hopes,JA Morkel,NW Bracken,0,0,0,177,11,11,5,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+115,JR Hopes,JA Morkel,NW Bracken,1,0,1,178,12,12,6,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+116,JR Hopes,DW Steyn,NW Bracken,1,0,1,179,13,13,1,20,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+117,NW Bracken,DW Steyn,JR Hopes,0,1,1,180,1,2,2,20,byes,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+118,JR Hopes,DW Steyn,NW Bracken,0,0,0,180,13,14,3,20,-,caught,JR Hopes,J Botha,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+119,BW Hilfenhaus,DW Steyn,NW Bracken,0,1,1,181,0,1,4,20,byes,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+120,NW Bracken,DW Steyn,BW Hilfenhaus,0,0,0,181,1,3,5,20,-,bowled,NW Bracken,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa
+121,SW Tait,DW Steyn,BW Hilfenhaus,1,0,1,182,1,1,6,20,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2009-01-11,Australia,South Africa

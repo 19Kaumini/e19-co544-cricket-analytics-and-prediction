@@ -1,130 +1,130 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,1,1,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-1,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,2,2,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-2,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,3,3,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-3,ADS Fletcher,TG Southee,BA King,6,0,6,6,6,4,4,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-4,ADS Fletcher,TG Southee,BA King,2,0,2,8,8,5,5,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-5,ADS Fletcher,TG Southee,BA King,2,0,2,10,10,6,6,1,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-6,BA King,KA Jamieson,ADS Fletcher,0,0,0,10,0,1,1,2,bowled,BA King,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-7,SO Hetmyer,KA Jamieson,ADS Fletcher,1,0,1,11,1,1,2,2,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-8,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,7,3,2,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-9,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,8,4,2,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-10,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,9,5,2,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-11,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,10,6,2,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-12,SO Hetmyer,TG Southee,ADS Fletcher,0,0,0,11,1,2,1,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-13,SO Hetmyer,TG Southee,ADS Fletcher,1,0,1,12,2,3,2,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-14,ADS Fletcher,TG Southee,SO Hetmyer,6,0,6,18,16,11,3,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-15,ADS Fletcher,TG Southee,SO Hetmyer,0,0,0,18,16,12,4,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-16,ADS Fletcher,TG Southee,SO Hetmyer,3,0,3,21,19,13,5,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-17,SO Hetmyer,TG Southee,ADS Fletcher,0,1,1,22,2,4,6,3,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-18,SO Hetmyer,TG Southee,ADS Fletcher,4,0,4,26,6,5,7,3,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-19,ADS Fletcher,KA Jamieson,SO Hetmyer,1,0,1,27,20,14,1,4,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-20,SO Hetmyer,KA Jamieson,ADS Fletcher,0,1,1,28,6,6,2,4,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-21,SO Hetmyer,KA Jamieson,ADS Fletcher,0,0,0,28,6,7,3,4,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-22,SO Hetmyer,KA Jamieson,ADS Fletcher,0,0,0,28,6,8,4,4,run out,ADS Fletcher,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-23,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,28,0,1,5,4,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-24,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,28,0,2,6,4,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-25,KR Mayers,KA Jamieson,SO Hetmyer,0,1,1,29,0,3,7,4,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-26,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,29,0,4,8,4,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-27,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,29,6,9,1,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-28,SO Hetmyer,LH Ferguson,KR Mayers,1,0,1,30,7,10,2,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-29,KR Mayers,LH Ferguson,SO Hetmyer,1,0,1,31,1,5,3,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-30,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,11,4,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-31,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,12,5,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-32,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,13,6,5,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-33,KR Mayers,MJ Santner,SO Hetmyer,1,0,1,32,2,6,1,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-34,SO Hetmyer,MJ Santner,KR Mayers,0,0,0,32,7,14,2,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-35,SO Hetmyer,MJ Santner,KR Mayers,0,2,2,34,7,15,3,6,0,,,{'wides': 2},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-36,KR Mayers,MJ Santner,SO Hetmyer,2,0,2,36,4,7,4,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-37,KR Mayers,MJ Santner,SO Hetmyer,6,0,6,42,10,8,5,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-38,KR Mayers,MJ Santner,SO Hetmyer,1,0,1,43,11,9,6,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-39,SO Hetmyer,MJ Santner,KR Mayers,1,0,1,44,8,16,7,6,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-40,SO Hetmyer,LH Ferguson,KR Mayers,0,1,1,45,8,17,1,7,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-41,SO Hetmyer,LH Ferguson,KR Mayers,1,0,1,46,9,18,2,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-42,KR Mayers,LH Ferguson,SO Hetmyer,0,0,0,46,11,10,3,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-43,KR Mayers,LH Ferguson,SO Hetmyer,1,0,1,47,12,11,4,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-44,SO Hetmyer,LH Ferguson,KR Mayers,4,0,4,51,13,19,5,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-45,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,51,13,20,6,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-46,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,51,13,21,7,7,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-47,KR Mayers,IS Sodhi,SO Hetmyer,1,0,1,52,13,12,1,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-48,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,52,13,22,2,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-49,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,52,13,23,3,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-50,SO Hetmyer,IS Sodhi,KR Mayers,1,0,1,53,14,24,4,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-51,KR Mayers,IS Sodhi,SO Hetmyer,1,0,1,54,14,13,5,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-52,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,54,14,25,6,8,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-53,KR Mayers,JDS Neesham,SO Hetmyer,6,0,6,60,20,14,1,9,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-54,KR Mayers,JDS Neesham,SO Hetmyer,0,0,0,60,20,15,2,9,caught,KR Mayers,GD Phillips,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-55,SO Hetmyer,JDS Neesham,N Pooran,2,0,2,62,16,26,3,9,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-56,SO Hetmyer,JDS Neesham,N Pooran,2,0,2,64,18,27,4,9,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-57,SO Hetmyer,JDS Neesham,N Pooran,1,0,1,65,19,28,5,9,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-58,N Pooran,JDS Neesham,SO Hetmyer,1,0,1,66,1,1,6,9,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-59,N Pooran,MJ Santner,SO Hetmyer,6,0,6,72,7,2,1,10,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-60,N Pooran,MJ Santner,SO Hetmyer,0,0,0,72,7,3,2,10,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-61,N Pooran,MJ Santner,SO Hetmyer,0,0,0,72,7,4,3,10,caught and bowled,N Pooran,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-62,SO Hetmyer,MJ Santner,KA Pollard,1,0,1,73,20,29,4,10,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-63,KA Pollard,MJ Santner,SO Hetmyer,1,0,1,74,1,1,5,10,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-64,SO Hetmyer,MJ Santner,KA Pollard,0,0,0,74,20,30,6,10,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-65,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,74,1,2,1,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-66,KA Pollard,LH Ferguson,SO Hetmyer,1,0,1,75,2,3,2,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-67,SO Hetmyer,LH Ferguson,KA Pollard,1,0,1,76,21,31,3,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-68,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,76,2,4,4,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-69,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,76,2,5,5,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-70,KA Pollard,LH Ferguson,SO Hetmyer,1,0,1,77,3,6,6,11,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-71,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,78,3,7,1,12,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-72,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,8,2,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-73,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,9,3,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-74,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,10,4,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-75,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,79,3,11,5,12,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-76,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,80,3,12,6,12,0,,,{'wides': 1},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-77,KA Pollard,IS Sodhi,SO Hetmyer,6,0,6,86,9,13,7,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-78,KA Pollard,IS Sodhi,SO Hetmyer,1,0,1,87,10,14,8,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-79,SO Hetmyer,IS Sodhi,KA Pollard,1,0,1,88,22,32,9,12,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-80,SO Hetmyer,MJ Santner,KA Pollard,1,0,1,89,23,33,1,13,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-81,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,95,16,15,2,13,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-82,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,101,22,16,3,13,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-83,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,107,28,17,4,13,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-84,KA Pollard,MJ Santner,SO Hetmyer,0,0,0,107,28,18,5,13,caught,KA Pollard,TG Southee,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-85,R Powell,MJ Santner,SO Hetmyer,1,0,1,108,1,1,6,13,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-86,R Powell,IS Sodhi,SO Hetmyer,1,0,1,109,2,2,1,14,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-87,SO Hetmyer,IS Sodhi,R Powell,1,0,1,110,24,34,2,14,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-88,R Powell,IS Sodhi,SO Hetmyer,1,0,1,111,3,3,3,14,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-89,SO Hetmyer,IS Sodhi,R Powell,1,0,1,112,25,35,4,14,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-90,R Powell,IS Sodhi,SO Hetmyer,1,0,1,113,4,4,5,14,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-91,SO Hetmyer,IS Sodhi,R Powell,0,0,0,113,25,36,6,14,caught,SO Hetmyer,MJ Santner,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-92,FA Allen,KA Jamieson,R Powell,0,0,0,113,0,1,1,15,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-93,FA Allen,KA Jamieson,R Powell,0,0,0,113,0,2,2,15,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-94,FA Allen,KA Jamieson,R Powell,6,0,6,119,6,3,3,15,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-95,FA Allen,KA Jamieson,R Powell,1,0,1,120,7,4,4,15,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-96,R Powell,KA Jamieson,FA Allen,1,0,1,121,5,5,5,15,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-97,FA Allen,KA Jamieson,R Powell,0,1,1,122,7,5,6,15,0,,,{'legbyes': 1},legbyes,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-98,FA Allen,LH Ferguson,R Powell,0,0,0,122,7,6,1,16,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-99,FA Allen,LH Ferguson,R Powell,0,0,0,122,7,7,2,16,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-100,FA Allen,LH Ferguson,R Powell,1,0,1,123,8,8,3,16,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-101,R Powell,LH Ferguson,FA Allen,0,5,5,128,5,6,4,16,0,,,{'wides': 5},wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-102,R Powell,LH Ferguson,FA Allen,4,0,4,132,9,7,5,16,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-103,R Powell,LH Ferguson,FA Allen,0,0,0,132,9,8,6,16,bowled,R Powell,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-104,KMA Paul,LH Ferguson,FA Allen,0,0,0,132,0,1,7,16,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-105,FA Allen,TG Southee,KMA Paul,6,0,6,138,14,9,1,17,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-106,FA Allen,TG Southee,KMA Paul,1,0,1,139,15,10,2,17,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-107,KMA Paul,TG Southee,FA Allen,1,0,1,140,1,2,3,17,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-108,FA Allen,TG Southee,KMA Paul,0,0,0,140,15,11,4,17,caught,FA Allen,GD Phillips,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-109,KMA Paul,TG Southee,SS Cottrell,0,0,0,140,1,3,5,17,0,,,,-,"{'by': 'New Zealand', 'umpire': 'CM Brown', 'batter': 'KMA Paul', 'decision': 'struck down'}",field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-110,KMA Paul,TG Southee,SS Cottrell,1,0,1,141,2,4,6,17,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-111,KMA Paul,KA Jamieson,SS Cottrell,1,0,1,142,3,5,1,18,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-112,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,142,0,1,2,18,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-113,SS Cottrell,KA Jamieson,KMA Paul,1,0,1,143,1,2,3,18,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-114,KMA Paul,KA Jamieson,SS Cottrell,1,0,1,144,4,6,4,18,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-115,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,144,1,3,5,18,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-116,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,144,1,4,6,18,caught,SS Cottrell,TL Seifert,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-117,KMA Paul,TG Southee,O Thomas,0,0,0,144,4,7,1,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-118,KMA Paul,TG Southee,O Thomas,6,0,6,150,10,8,2,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-119,KMA Paul,TG Southee,O Thomas,2,0,2,152,12,9,3,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-120,KMA Paul,TG Southee,O Thomas,0,0,0,152,12,10,4,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-121,KMA Paul,TG Southee,O Thomas,6,0,6,158,18,11,5,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-122,KMA Paul,TG Southee,O Thomas,1,0,1,159,19,12,6,19,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-123,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,13,1,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-124,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,14,2,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-125,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,15,3,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-126,KMA Paul,IS Sodhi,O Thomas,6,0,6,165,25,16,4,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-127,KMA Paul,IS Sodhi,O Thomas,0,0,0,165,25,17,5,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
-128,KMA Paul,IS Sodhi,O Thomas,1,0,1,166,26,18,6,20,0,,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,1,1,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+1,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,2,2,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+2,ADS Fletcher,TG Southee,BA King,0,0,0,0,0,3,3,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+3,ADS Fletcher,TG Southee,BA King,6,0,6,6,6,4,4,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+4,ADS Fletcher,TG Southee,BA King,2,0,2,8,8,5,5,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+5,ADS Fletcher,TG Southee,BA King,2,0,2,10,10,6,6,1,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+6,BA King,KA Jamieson,ADS Fletcher,0,0,0,10,0,1,1,2,bowled,BA King,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+7,SO Hetmyer,KA Jamieson,ADS Fletcher,1,0,1,11,1,1,2,2,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+8,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,7,3,2,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+9,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,8,4,2,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+10,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,9,5,2,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+11,ADS Fletcher,KA Jamieson,SO Hetmyer,0,0,0,11,10,10,6,2,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+12,SO Hetmyer,TG Southee,ADS Fletcher,0,0,0,11,1,2,1,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+13,SO Hetmyer,TG Southee,ADS Fletcher,1,0,1,12,2,3,2,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+14,ADS Fletcher,TG Southee,SO Hetmyer,6,0,6,18,16,11,3,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+15,ADS Fletcher,TG Southee,SO Hetmyer,0,0,0,18,16,12,4,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+16,ADS Fletcher,TG Southee,SO Hetmyer,3,0,3,21,19,13,5,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+17,SO Hetmyer,TG Southee,ADS Fletcher,0,1,1,22,2,4,6,3,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+18,SO Hetmyer,TG Southee,ADS Fletcher,4,0,4,26,6,5,7,3,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+19,ADS Fletcher,KA Jamieson,SO Hetmyer,1,0,1,27,20,14,1,4,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+20,SO Hetmyer,KA Jamieson,ADS Fletcher,0,1,1,28,6,6,2,4,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+21,SO Hetmyer,KA Jamieson,ADS Fletcher,0,0,0,28,6,7,3,4,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+22,SO Hetmyer,KA Jamieson,ADS Fletcher,0,0,0,28,6,8,4,4,run out,ADS Fletcher,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+23,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,28,0,1,5,4,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+24,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,28,0,2,6,4,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+25,KR Mayers,KA Jamieson,SO Hetmyer,0,1,1,29,0,3,7,4,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+26,KR Mayers,KA Jamieson,SO Hetmyer,0,0,0,29,0,4,8,4,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+27,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,29,6,9,1,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+28,SO Hetmyer,LH Ferguson,KR Mayers,1,0,1,30,7,10,2,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+29,KR Mayers,LH Ferguson,SO Hetmyer,1,0,1,31,1,5,3,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+30,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,11,4,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+31,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,12,5,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+32,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,31,7,13,6,5,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+33,KR Mayers,MJ Santner,SO Hetmyer,1,0,1,32,2,6,1,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+34,SO Hetmyer,MJ Santner,KR Mayers,0,0,0,32,7,14,2,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+35,SO Hetmyer,MJ Santner,KR Mayers,0,2,2,34,7,15,3,6,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+36,KR Mayers,MJ Santner,SO Hetmyer,2,0,2,36,4,7,4,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+37,KR Mayers,MJ Santner,SO Hetmyer,6,0,6,42,10,8,5,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+38,KR Mayers,MJ Santner,SO Hetmyer,1,0,1,43,11,9,6,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+39,SO Hetmyer,MJ Santner,KR Mayers,1,0,1,44,8,16,7,6,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+40,SO Hetmyer,LH Ferguson,KR Mayers,0,1,1,45,8,17,1,7,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+41,SO Hetmyer,LH Ferguson,KR Mayers,1,0,1,46,9,18,2,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+42,KR Mayers,LH Ferguson,SO Hetmyer,0,0,0,46,11,10,3,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+43,KR Mayers,LH Ferguson,SO Hetmyer,1,0,1,47,12,11,4,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+44,SO Hetmyer,LH Ferguson,KR Mayers,4,0,4,51,13,19,5,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+45,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,51,13,20,6,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+46,SO Hetmyer,LH Ferguson,KR Mayers,0,0,0,51,13,21,7,7,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+47,KR Mayers,IS Sodhi,SO Hetmyer,1,0,1,52,13,12,1,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+48,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,52,13,22,2,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+49,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,52,13,23,3,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+50,SO Hetmyer,IS Sodhi,KR Mayers,1,0,1,53,14,24,4,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+51,KR Mayers,IS Sodhi,SO Hetmyer,1,0,1,54,14,13,5,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+52,SO Hetmyer,IS Sodhi,KR Mayers,0,0,0,54,14,25,6,8,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+53,KR Mayers,JDS Neesham,SO Hetmyer,6,0,6,60,20,14,1,9,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+54,KR Mayers,JDS Neesham,SO Hetmyer,0,0,0,60,20,15,2,9,caught,KR Mayers,GD Phillips,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+55,SO Hetmyer,JDS Neesham,N Pooran,2,0,2,62,16,26,3,9,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+56,SO Hetmyer,JDS Neesham,N Pooran,2,0,2,64,18,27,4,9,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+57,SO Hetmyer,JDS Neesham,N Pooran,1,0,1,65,19,28,5,9,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+58,N Pooran,JDS Neesham,SO Hetmyer,1,0,1,66,1,1,6,9,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+59,N Pooran,MJ Santner,SO Hetmyer,6,0,6,72,7,2,1,10,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+60,N Pooran,MJ Santner,SO Hetmyer,0,0,0,72,7,3,2,10,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+61,N Pooran,MJ Santner,SO Hetmyer,0,0,0,72,7,4,3,10,caught and bowled,N Pooran,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+62,SO Hetmyer,MJ Santner,KA Pollard,1,0,1,73,20,29,4,10,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+63,KA Pollard,MJ Santner,SO Hetmyer,1,0,1,74,1,1,5,10,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+64,SO Hetmyer,MJ Santner,KA Pollard,0,0,0,74,20,30,6,10,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+65,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,74,1,2,1,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+66,KA Pollard,LH Ferguson,SO Hetmyer,1,0,1,75,2,3,2,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+67,SO Hetmyer,LH Ferguson,KA Pollard,1,0,1,76,21,31,3,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+68,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,76,2,4,4,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+69,KA Pollard,LH Ferguson,SO Hetmyer,0,0,0,76,2,5,5,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+70,KA Pollard,LH Ferguson,SO Hetmyer,1,0,1,77,3,6,6,11,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+71,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,78,3,7,1,12,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+72,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,8,2,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+73,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,9,3,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+74,KA Pollard,IS Sodhi,SO Hetmyer,0,0,0,78,3,10,4,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+75,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,79,3,11,5,12,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+76,KA Pollard,IS Sodhi,SO Hetmyer,0,1,1,80,3,12,6,12,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+77,KA Pollard,IS Sodhi,SO Hetmyer,6,0,6,86,9,13,7,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+78,KA Pollard,IS Sodhi,SO Hetmyer,1,0,1,87,10,14,8,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+79,SO Hetmyer,IS Sodhi,KA Pollard,1,0,1,88,22,32,9,12,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+80,SO Hetmyer,MJ Santner,KA Pollard,1,0,1,89,23,33,1,13,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+81,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,95,16,15,2,13,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+82,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,101,22,16,3,13,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+83,KA Pollard,MJ Santner,SO Hetmyer,6,0,6,107,28,17,4,13,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+84,KA Pollard,MJ Santner,SO Hetmyer,0,0,0,107,28,18,5,13,caught,KA Pollard,TG Southee,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+85,R Powell,MJ Santner,SO Hetmyer,1,0,1,108,1,1,6,13,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+86,R Powell,IS Sodhi,SO Hetmyer,1,0,1,109,2,2,1,14,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+87,SO Hetmyer,IS Sodhi,R Powell,1,0,1,110,24,34,2,14,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+88,R Powell,IS Sodhi,SO Hetmyer,1,0,1,111,3,3,3,14,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+89,SO Hetmyer,IS Sodhi,R Powell,1,0,1,112,25,35,4,14,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+90,R Powell,IS Sodhi,SO Hetmyer,1,0,1,113,4,4,5,14,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+91,SO Hetmyer,IS Sodhi,R Powell,0,0,0,113,25,36,6,14,caught,SO Hetmyer,MJ Santner,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+92,FA Allen,KA Jamieson,R Powell,0,0,0,113,0,1,1,15,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+93,FA Allen,KA Jamieson,R Powell,0,0,0,113,0,2,2,15,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+94,FA Allen,KA Jamieson,R Powell,6,0,6,119,6,3,3,15,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+95,FA Allen,KA Jamieson,R Powell,1,0,1,120,7,4,4,15,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+96,R Powell,KA Jamieson,FA Allen,1,0,1,121,5,5,5,15,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+97,FA Allen,KA Jamieson,R Powell,0,1,1,122,7,5,6,15,0,,,legbyes,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+98,FA Allen,LH Ferguson,R Powell,0,0,0,122,7,6,1,16,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+99,FA Allen,LH Ferguson,R Powell,0,0,0,122,7,7,2,16,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+100,FA Allen,LH Ferguson,R Powell,1,0,1,123,8,8,3,16,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+101,R Powell,LH Ferguson,FA Allen,0,5,5,128,5,6,4,16,0,,,wides,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+102,R Powell,LH Ferguson,FA Allen,4,0,4,132,9,7,5,16,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+103,R Powell,LH Ferguson,FA Allen,0,0,0,132,9,8,6,16,bowled,R Powell,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+104,KMA Paul,LH Ferguson,FA Allen,0,0,0,132,0,1,7,16,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+105,FA Allen,TG Southee,KMA Paul,6,0,6,138,14,9,1,17,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+106,FA Allen,TG Southee,KMA Paul,1,0,1,139,15,10,2,17,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+107,KMA Paul,TG Southee,FA Allen,1,0,1,140,1,2,3,17,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+108,FA Allen,TG Southee,KMA Paul,0,0,0,140,15,11,4,17,caught,FA Allen,GD Phillips,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+109,KMA Paul,TG Southee,SS Cottrell,0,0,0,140,1,3,5,17,0,,,-,"{'by': 'New Zealand', 'umpire': 'CM Brown', 'batter': 'KMA Paul', 'decision': 'struck down'}",field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+110,KMA Paul,TG Southee,SS Cottrell,1,0,1,141,2,4,6,17,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+111,KMA Paul,KA Jamieson,SS Cottrell,1,0,1,142,3,5,1,18,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+112,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,142,0,1,2,18,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+113,SS Cottrell,KA Jamieson,KMA Paul,1,0,1,143,1,2,3,18,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+114,KMA Paul,KA Jamieson,SS Cottrell,1,0,1,144,4,6,4,18,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+115,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,144,1,3,5,18,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+116,SS Cottrell,KA Jamieson,KMA Paul,0,0,0,144,1,4,6,18,caught,SS Cottrell,TL Seifert,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+117,KMA Paul,TG Southee,O Thomas,0,0,0,144,4,7,1,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+118,KMA Paul,TG Southee,O Thomas,6,0,6,150,10,8,2,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+119,KMA Paul,TG Southee,O Thomas,2,0,2,152,12,9,3,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+120,KMA Paul,TG Southee,O Thomas,0,0,0,152,12,10,4,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+121,KMA Paul,TG Southee,O Thomas,6,0,6,158,18,11,5,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+122,KMA Paul,TG Southee,O Thomas,1,0,1,159,19,12,6,19,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+123,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,13,1,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+124,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,14,2,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+125,KMA Paul,IS Sodhi,O Thomas,0,0,0,159,19,15,3,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+126,KMA Paul,IS Sodhi,O Thomas,6,0,6,165,25,16,4,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+127,KMA Paul,IS Sodhi,O Thomas,0,0,0,165,25,17,5,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand
+128,KMA Paul,IS Sodhi,O Thomas,1,0,1,166,26,18,6,20,0,,,-,,field,West Indies,2,Bay Oval,2020-11-29,West Indies,New Zealand

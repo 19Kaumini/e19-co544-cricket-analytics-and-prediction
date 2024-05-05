@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,RG Sharma,AU Rashid,KL Rahul,6,0,6,6,6,1,1,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-1,RG Sharma,AU Rashid,KL Rahul,0,0,0,6,6,2,2,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-2,RG Sharma,AU Rashid,KL Rahul,4,0,4,10,10,3,3,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-3,RG Sharma,AU Rashid,KL Rahul,0,0,0,10,10,4,4,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-4,RG Sharma,AU Rashid,KL Rahul,1,0,1,11,11,5,5,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-5,KL Rahul,AU Rashid,RG Sharma,1,0,1,12,1,1,6,1,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-6,KL Rahul,JC Archer,RG Sharma,0,0,0,12,1,2,1,2,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-7,KL Rahul,JC Archer,RG Sharma,0,0,0,12,1,3,2,2,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-8,KL Rahul,JC Archer,RG Sharma,1,0,1,13,2,4,3,2,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-9,RG Sharma,JC Archer,KL Rahul,0,1,1,14,11,6,4,2,{'legbyes': 1},legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-10,KL Rahul,JC Archer,RG Sharma,0,0,0,14,2,5,5,2,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-11,KL Rahul,JC Archer,RG Sharma,4,0,4,18,6,6,6,2,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-12,RG Sharma,MA Wood,KL Rahul,0,0,0,18,11,7,1,3,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-13,RG Sharma,MA Wood,KL Rahul,0,0,0,18,11,8,2,3,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-14,RG Sharma,MA Wood,KL Rahul,0,1,1,19,11,9,3,3,{'legbyes': 1},legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-15,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,7,4,3,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-16,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,8,5,3,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-17,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,9,6,3,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-18,RG Sharma,JC Archer,KL Rahul,0,0,0,19,11,10,1,4,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-19,RG Sharma,JC Archer,KL Rahul,1,0,1,20,12,11,2,4,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-20,KL Rahul,JC Archer,RG Sharma,1,0,1,21,7,10,3,4,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-21,RG Sharma,JC Archer,KL Rahul,0,0,0,21,12,12,4,4,,-,caught and bowled,RG Sharma,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-22,SA Yadav,JC Archer,KL Rahul,6,0,6,27,6,1,5,4,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-23,SA Yadav,JC Archer,KL Rahul,0,0,0,27,6,2,6,4,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-24,KL Rahul,MA Wood,SA Yadav,0,1,1,28,7,11,1,5,{'legbyes': 1},legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-25,SA Yadav,MA Wood,KL Rahul,0,0,0,28,6,3,2,5,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-26,SA Yadav,MA Wood,KL Rahul,4,0,4,32,10,4,3,5,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-27,SA Yadav,MA Wood,KL Rahul,0,1,1,33,10,5,4,5,{'wides': 1},wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-28,SA Yadav,MA Wood,KL Rahul,0,0,0,33,10,6,5,5,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-29,SA Yadav,MA Wood,KL Rahul,0,0,0,33,10,7,6,5,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-30,SA Yadav,MA Wood,KL Rahul,1,0,1,34,11,8,7,5,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-31,SA Yadav,CJ Jordan,KL Rahul,1,0,1,35,12,9,1,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-32,KL Rahul,CJ Jordan,SA Yadav,0,1,1,36,7,12,2,6,{'wides': 1},wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-33,KL Rahul,CJ Jordan,SA Yadav,4,0,4,40,11,13,3,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-34,KL Rahul,CJ Jordan,SA Yadav,1,0,1,41,12,14,4,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-35,SA Yadav,CJ Jordan,KL Rahul,4,0,4,45,16,10,5,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-36,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,16,11,6,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-37,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,16,12,7,6,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-38,KL Rahul,AU Rashid,SA Yadav,1,0,1,46,13,15,1,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-39,SA Yadav,AU Rashid,KL Rahul,1,0,1,47,17,13,2,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-40,KL Rahul,AU Rashid,SA Yadav,1,0,1,48,14,16,3,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-41,SA Yadav,AU Rashid,KL Rahul,4,0,4,52,21,14,4,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-42,SA Yadav,AU Rashid,KL Rahul,6,0,6,58,27,15,5,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-43,SA Yadav,AU Rashid,KL Rahul,1,0,1,59,28,16,6,7,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-44,SA Yadav,BA Stokes,KL Rahul,0,1,1,60,28,17,1,8,{'wides': 1},wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-45,SA Yadav,BA Stokes,KL Rahul,2,0,2,62,30,18,2,8,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-46,SA Yadav,BA Stokes,KL Rahul,1,0,1,63,31,19,3,8,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-47,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,14,17,4,8,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-48,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,14,18,5,8,,-,caught,KL Rahul,JC Archer,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-49,V Kohli,BA Stokes,SA Yadav,1,0,1,64,1,1,6,8,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-50,SA Yadav,BA Stokes,V Kohli,4,0,4,68,35,20,7,8,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-51,V Kohli,AU Rashid,SA Yadav,0,0,0,68,1,2,1,9,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-52,V Kohli,AU Rashid,SA Yadav,0,2,2,70,1,3,2,9,{'legbyes': 2},legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-53,V Kohli,AU Rashid,SA Yadav,0,0,0,70,1,4,3,9,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-54,V Kohli,AU Rashid,SA Yadav,0,0,0,70,1,5,4,9,,-,stumped,V Kohli,JC Buttler,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-55,RR Pant,AU Rashid,SA Yadav,0,0,0,70,0,1,5,9,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-56,RR Pant,AU Rashid,SA Yadav,0,0,0,70,0,2,6,9,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-57,SA Yadav,BA Stokes,RR Pant,1,0,1,71,36,21,1,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-58,RR Pant,BA Stokes,SA Yadav,0,0,0,71,0,3,2,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-59,RR Pant,BA Stokes,SA Yadav,1,0,1,72,1,4,3,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-60,SA Yadav,BA Stokes,RR Pant,0,0,0,72,36,22,4,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-61,SA Yadav,BA Stokes,RR Pant,1,0,1,73,37,23,5,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-62,RR Pant,BA Stokes,SA Yadav,2,0,2,75,3,5,6,10,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-63,SA Yadav,CJ Jordan,RR Pant,1,0,1,76,38,24,1,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-64,RR Pant,CJ Jordan,SA Yadav,1,0,1,77,4,6,2,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-65,SA Yadav,CJ Jordan,RR Pant,0,0,0,77,38,25,3,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-66,SA Yadav,CJ Jordan,RR Pant,1,0,1,78,39,26,4,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-67,RR Pant,CJ Jordan,SA Yadav,0,0,0,78,4,7,5,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-68,RR Pant,CJ Jordan,SA Yadav,1,0,1,79,5,8,6,11,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-69,RR Pant,AU Rashid,SA Yadav,1,0,1,80,6,9,1,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-70,SA Yadav,AU Rashid,RR Pant,4,0,4,84,43,27,2,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-71,SA Yadav,AU Rashid,RR Pant,2,0,2,86,45,28,3,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-72,SA Yadav,AU Rashid,RR Pant,1,0,1,87,46,29,4,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-73,RR Pant,AU Rashid,SA Yadav,1,0,1,88,7,10,5,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-74,SA Yadav,AU Rashid,RR Pant,4,0,4,92,50,30,6,12,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-75,RR Pant,BA Stokes,SA Yadav,4,0,4,96,11,11,1,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-76,RR Pant,BA Stokes,SA Yadav,1,0,1,97,12,12,2,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-77,SA Yadav,BA Stokes,RR Pant,1,0,1,98,51,31,3,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-78,RR Pant,BA Stokes,SA Yadav,4,0,4,102,16,13,4,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-79,RR Pant,BA Stokes,SA Yadav,0,0,0,102,16,14,5,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-80,RR Pant,BA Stokes,SA Yadav,2,0,2,104,18,15,6,13,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-81,SA Yadav,SM Curran,RR Pant,6,0,6,110,57,32,1,14,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-82,SA Yadav,SM Curran,RR Pant,0,0,0,110,57,33,2,14,,-,caught,SA Yadav,DJ Malan,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-83,SS Iyer,SM Curran,RR Pant,4,0,4,114,4,1,3,14,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-84,SS Iyer,SM Curran,RR Pant,1,0,1,115,5,2,4,14,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-85,RR Pant,SM Curran,SS Iyer,1,0,1,116,19,16,5,14,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-86,SS Iyer,SM Curran,RR Pant,4,0,4,120,9,3,6,14,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-87,RR Pant,CJ Jordan,SS Iyer,0,0,0,120,19,17,1,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-88,RR Pant,CJ Jordan,SS Iyer,1,0,1,121,20,18,2,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-89,SS Iyer,CJ Jordan,RR Pant,1,0,1,122,10,4,3,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-90,RR Pant,CJ Jordan,SS Iyer,4,0,4,126,24,19,4,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-91,RR Pant,CJ Jordan,SS Iyer,1,0,1,127,25,20,5,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-92,SS Iyer,CJ Jordan,RR Pant,1,0,1,128,11,5,6,15,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-93,SS Iyer,MA Wood,RR Pant,0,0,0,128,11,6,1,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-94,SS Iyer,MA Wood,RR Pant,2,0,2,130,13,7,2,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-95,SS Iyer,MA Wood,RR Pant,4,0,4,134,17,8,3,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-96,SS Iyer,MA Wood,RR Pant,1,0,1,135,18,9,4,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-97,RR Pant,MA Wood,SS Iyer,1,0,1,136,26,21,5,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-98,SS Iyer,MA Wood,RR Pant,4,0,4,140,22,10,6,16,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-99,RR Pant,JC Archer,SS Iyer,4,0,4,144,30,22,1,17,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-100,RR Pant,JC Archer,SS Iyer,0,0,0,144,30,23,2,17,,-,bowled,RR Pant,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-101,HH Pandya,JC Archer,SS Iyer,1,0,1,145,1,1,3,17,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-102,SS Iyer,JC Archer,HH Pandya,2,0,2,147,24,11,4,17,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-103,SS Iyer,JC Archer,HH Pandya,1,0,1,148,25,12,5,17,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-104,HH Pandya,JC Archer,SS Iyer,1,0,1,149,2,2,6,17,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-105,HH Pandya,CJ Jordan,SS Iyer,6,0,6,155,8,3,1,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-106,HH Pandya,CJ Jordan,SS Iyer,1,0,1,156,9,4,2,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-107,SS Iyer,CJ Jordan,HH Pandya,0,0,0,156,25,13,3,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-108,SS Iyer,CJ Jordan,HH Pandya,4,0,4,160,29,14,4,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-109,SS Iyer,CJ Jordan,HH Pandya,6,0,6,166,35,15,5,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-110,SS Iyer,CJ Jordan,HH Pandya,1,0,1,167,36,16,6,18,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-111,SS Iyer,MA Wood,HH Pandya,1,0,1,168,37,17,1,19,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-112,HH Pandya,MA Wood,SS Iyer,2,0,2,170,11,5,2,19,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-113,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,6,3,19,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-114,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,7,4,19,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-115,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,8,5,19,,-,caught,HH Pandya,BA Stokes,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-116,SN Thakur,MA Wood,SS Iyer,4,0,4,174,4,1,6,19,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-117,SS Iyer,JC Archer,SN Thakur,0,0,0,174,37,18,1,20,,-,caught,SS Iyer,DJ Malan,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-118,SN Thakur,JC Archer,Washington Sundar,1,0,1,175,5,2,2,20,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-119,Washington Sundar,JC Archer,SN Thakur,4,0,4,179,4,1,3,20,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-120,Washington Sundar,JC Archer,SN Thakur,0,0,0,179,4,2,4,20,,-,caught,Washington Sundar,AU Rashid,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-121,SN Thakur,JC Archer,B Kumar,0,1,1,180,5,3,5,20,{'wides': 1},wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-122,SN Thakur,JC Archer,B Kumar,4,0,4,184,9,4,6,20,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
-123,SN Thakur,JC Archer,B Kumar,1,0,1,185,10,5,7,20,,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,RG Sharma,AU Rashid,KL Rahul,6,0,6,6,6,1,1,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+1,RG Sharma,AU Rashid,KL Rahul,0,0,0,6,6,2,2,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+2,RG Sharma,AU Rashid,KL Rahul,4,0,4,10,10,3,3,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+3,RG Sharma,AU Rashid,KL Rahul,0,0,0,10,10,4,4,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+4,RG Sharma,AU Rashid,KL Rahul,1,0,1,11,11,5,5,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+5,KL Rahul,AU Rashid,RG Sharma,1,0,1,12,1,1,6,1,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+6,KL Rahul,JC Archer,RG Sharma,0,0,0,12,1,2,1,2,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+7,KL Rahul,JC Archer,RG Sharma,0,0,0,12,1,3,2,2,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+8,KL Rahul,JC Archer,RG Sharma,1,0,1,13,2,4,3,2,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+9,RG Sharma,JC Archer,KL Rahul,0,1,1,14,11,6,4,2,legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+10,KL Rahul,JC Archer,RG Sharma,0,0,0,14,2,5,5,2,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+11,KL Rahul,JC Archer,RG Sharma,4,0,4,18,6,6,6,2,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+12,RG Sharma,MA Wood,KL Rahul,0,0,0,18,11,7,1,3,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+13,RG Sharma,MA Wood,KL Rahul,0,0,0,18,11,8,2,3,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+14,RG Sharma,MA Wood,KL Rahul,0,1,1,19,11,9,3,3,legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+15,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,7,4,3,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+16,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,8,5,3,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+17,KL Rahul,MA Wood,RG Sharma,0,0,0,19,6,9,6,3,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+18,RG Sharma,JC Archer,KL Rahul,0,0,0,19,11,10,1,4,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+19,RG Sharma,JC Archer,KL Rahul,1,0,1,20,12,11,2,4,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+20,KL Rahul,JC Archer,RG Sharma,1,0,1,21,7,10,3,4,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+21,RG Sharma,JC Archer,KL Rahul,0,0,0,21,12,12,4,4,-,caught and bowled,RG Sharma,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+22,SA Yadav,JC Archer,KL Rahul,6,0,6,27,6,1,5,4,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+23,SA Yadav,JC Archer,KL Rahul,0,0,0,27,6,2,6,4,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+24,KL Rahul,MA Wood,SA Yadav,0,1,1,28,7,11,1,5,legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+25,SA Yadav,MA Wood,KL Rahul,0,0,0,28,6,3,2,5,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+26,SA Yadav,MA Wood,KL Rahul,4,0,4,32,10,4,3,5,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+27,SA Yadav,MA Wood,KL Rahul,0,1,1,33,10,5,4,5,wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+28,SA Yadav,MA Wood,KL Rahul,0,0,0,33,10,6,5,5,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+29,SA Yadav,MA Wood,KL Rahul,0,0,0,33,10,7,6,5,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+30,SA Yadav,MA Wood,KL Rahul,1,0,1,34,11,8,7,5,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+31,SA Yadav,CJ Jordan,KL Rahul,1,0,1,35,12,9,1,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+32,KL Rahul,CJ Jordan,SA Yadav,0,1,1,36,7,12,2,6,wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+33,KL Rahul,CJ Jordan,SA Yadav,4,0,4,40,11,13,3,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+34,KL Rahul,CJ Jordan,SA Yadav,1,0,1,41,12,14,4,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+35,SA Yadav,CJ Jordan,KL Rahul,4,0,4,45,16,10,5,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+36,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,16,11,6,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+37,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,16,12,7,6,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+38,KL Rahul,AU Rashid,SA Yadav,1,0,1,46,13,15,1,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+39,SA Yadav,AU Rashid,KL Rahul,1,0,1,47,17,13,2,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+40,KL Rahul,AU Rashid,SA Yadav,1,0,1,48,14,16,3,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+41,SA Yadav,AU Rashid,KL Rahul,4,0,4,52,21,14,4,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+42,SA Yadav,AU Rashid,KL Rahul,6,0,6,58,27,15,5,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+43,SA Yadav,AU Rashid,KL Rahul,1,0,1,59,28,16,6,7,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+44,SA Yadav,BA Stokes,KL Rahul,0,1,1,60,28,17,1,8,wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+45,SA Yadav,BA Stokes,KL Rahul,2,0,2,62,30,18,2,8,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+46,SA Yadav,BA Stokes,KL Rahul,1,0,1,63,31,19,3,8,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+47,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,14,17,4,8,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+48,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,14,18,5,8,-,caught,KL Rahul,JC Archer,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+49,V Kohli,BA Stokes,SA Yadav,1,0,1,64,1,1,6,8,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+50,SA Yadav,BA Stokes,V Kohli,4,0,4,68,35,20,7,8,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+51,V Kohli,AU Rashid,SA Yadav,0,0,0,68,1,2,1,9,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+52,V Kohli,AU Rashid,SA Yadav,0,2,2,70,1,3,2,9,legbyes,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+53,V Kohli,AU Rashid,SA Yadav,0,0,0,70,1,4,3,9,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+54,V Kohli,AU Rashid,SA Yadav,0,0,0,70,1,5,4,9,-,stumped,V Kohli,JC Buttler,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+55,RR Pant,AU Rashid,SA Yadav,0,0,0,70,0,1,5,9,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+56,RR Pant,AU Rashid,SA Yadav,0,0,0,70,0,2,6,9,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+57,SA Yadav,BA Stokes,RR Pant,1,0,1,71,36,21,1,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+58,RR Pant,BA Stokes,SA Yadav,0,0,0,71,0,3,2,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+59,RR Pant,BA Stokes,SA Yadav,1,0,1,72,1,4,3,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+60,SA Yadav,BA Stokes,RR Pant,0,0,0,72,36,22,4,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+61,SA Yadav,BA Stokes,RR Pant,1,0,1,73,37,23,5,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+62,RR Pant,BA Stokes,SA Yadav,2,0,2,75,3,5,6,10,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+63,SA Yadav,CJ Jordan,RR Pant,1,0,1,76,38,24,1,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+64,RR Pant,CJ Jordan,SA Yadav,1,0,1,77,4,6,2,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+65,SA Yadav,CJ Jordan,RR Pant,0,0,0,77,38,25,3,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+66,SA Yadav,CJ Jordan,RR Pant,1,0,1,78,39,26,4,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+67,RR Pant,CJ Jordan,SA Yadav,0,0,0,78,4,7,5,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+68,RR Pant,CJ Jordan,SA Yadav,1,0,1,79,5,8,6,11,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+69,RR Pant,AU Rashid,SA Yadav,1,0,1,80,6,9,1,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+70,SA Yadav,AU Rashid,RR Pant,4,0,4,84,43,27,2,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+71,SA Yadav,AU Rashid,RR Pant,2,0,2,86,45,28,3,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+72,SA Yadav,AU Rashid,RR Pant,1,0,1,87,46,29,4,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+73,RR Pant,AU Rashid,SA Yadav,1,0,1,88,7,10,5,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+74,SA Yadav,AU Rashid,RR Pant,4,0,4,92,50,30,6,12,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+75,RR Pant,BA Stokes,SA Yadav,4,0,4,96,11,11,1,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+76,RR Pant,BA Stokes,SA Yadav,1,0,1,97,12,12,2,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+77,SA Yadav,BA Stokes,RR Pant,1,0,1,98,51,31,3,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+78,RR Pant,BA Stokes,SA Yadav,4,0,4,102,16,13,4,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+79,RR Pant,BA Stokes,SA Yadav,0,0,0,102,16,14,5,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+80,RR Pant,BA Stokes,SA Yadav,2,0,2,104,18,15,6,13,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+81,SA Yadav,SM Curran,RR Pant,6,0,6,110,57,32,1,14,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+82,SA Yadav,SM Curran,RR Pant,0,0,0,110,57,33,2,14,-,caught,SA Yadav,DJ Malan,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+83,SS Iyer,SM Curran,RR Pant,4,0,4,114,4,1,3,14,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+84,SS Iyer,SM Curran,RR Pant,1,0,1,115,5,2,4,14,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+85,RR Pant,SM Curran,SS Iyer,1,0,1,116,19,16,5,14,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+86,SS Iyer,SM Curran,RR Pant,4,0,4,120,9,3,6,14,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+87,RR Pant,CJ Jordan,SS Iyer,0,0,0,120,19,17,1,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+88,RR Pant,CJ Jordan,SS Iyer,1,0,1,121,20,18,2,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+89,SS Iyer,CJ Jordan,RR Pant,1,0,1,122,10,4,3,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+90,RR Pant,CJ Jordan,SS Iyer,4,0,4,126,24,19,4,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+91,RR Pant,CJ Jordan,SS Iyer,1,0,1,127,25,20,5,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+92,SS Iyer,CJ Jordan,RR Pant,1,0,1,128,11,5,6,15,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+93,SS Iyer,MA Wood,RR Pant,0,0,0,128,11,6,1,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+94,SS Iyer,MA Wood,RR Pant,2,0,2,130,13,7,2,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+95,SS Iyer,MA Wood,RR Pant,4,0,4,134,17,8,3,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+96,SS Iyer,MA Wood,RR Pant,1,0,1,135,18,9,4,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+97,RR Pant,MA Wood,SS Iyer,1,0,1,136,26,21,5,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+98,SS Iyer,MA Wood,RR Pant,4,0,4,140,22,10,6,16,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+99,RR Pant,JC Archer,SS Iyer,4,0,4,144,30,22,1,17,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+100,RR Pant,JC Archer,SS Iyer,0,0,0,144,30,23,2,17,-,bowled,RR Pant,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+101,HH Pandya,JC Archer,SS Iyer,1,0,1,145,1,1,3,17,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+102,SS Iyer,JC Archer,HH Pandya,2,0,2,147,24,11,4,17,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+103,SS Iyer,JC Archer,HH Pandya,1,0,1,148,25,12,5,17,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+104,HH Pandya,JC Archer,SS Iyer,1,0,1,149,2,2,6,17,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+105,HH Pandya,CJ Jordan,SS Iyer,6,0,6,155,8,3,1,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+106,HH Pandya,CJ Jordan,SS Iyer,1,0,1,156,9,4,2,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+107,SS Iyer,CJ Jordan,HH Pandya,0,0,0,156,25,13,3,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+108,SS Iyer,CJ Jordan,HH Pandya,4,0,4,160,29,14,4,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+109,SS Iyer,CJ Jordan,HH Pandya,6,0,6,166,35,15,5,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+110,SS Iyer,CJ Jordan,HH Pandya,1,0,1,167,36,16,6,18,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+111,SS Iyer,MA Wood,HH Pandya,1,0,1,168,37,17,1,19,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+112,HH Pandya,MA Wood,SS Iyer,2,0,2,170,11,5,2,19,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+113,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,6,3,19,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+114,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,7,4,19,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+115,HH Pandya,MA Wood,SS Iyer,0,0,0,170,11,8,5,19,-,caught,HH Pandya,BA Stokes,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+116,SN Thakur,MA Wood,SS Iyer,4,0,4,174,4,1,6,19,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+117,SS Iyer,JC Archer,SN Thakur,0,0,0,174,37,18,1,20,-,caught,SS Iyer,DJ Malan,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+118,SN Thakur,JC Archer,Washington Sundar,1,0,1,175,5,2,2,20,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+119,Washington Sundar,JC Archer,SN Thakur,4,0,4,179,4,1,3,20,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+120,Washington Sundar,JC Archer,SN Thakur,0,0,0,179,4,2,4,20,-,caught,Washington Sundar,AU Rashid,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+121,SN Thakur,JC Archer,B Kumar,0,1,1,180,5,3,5,20,wides,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+122,SN Thakur,JC Archer,B Kumar,4,0,4,184,9,4,6,20,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England
+123,SN Thakur,JC Archer,B Kumar,1,0,1,185,10,5,7,20,-,0,,,field,England,1,Narendra Modi Stadium,2021-03-18,India,England

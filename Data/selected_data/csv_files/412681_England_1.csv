@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,MJ Lumb,WB Rankin,C Kieswetter,,4,0,4,4,4,1,1,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-1,MJ Lumb,WB Rankin,C Kieswetter,{'legbyes': 1},0,1,1,5,4,2,2,legbyes,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-2,C Kieswetter,WB Rankin,MJ Lumb,,0,0,0,5,0,1,3,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-3,C Kieswetter,WB Rankin,MJ Lumb,,0,0,0,5,0,2,4,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-4,C Kieswetter,WB Rankin,MJ Lumb,,0,0,0,5,0,3,5,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-5,C Kieswetter,WB Rankin,MJ Lumb,,1,0,1,6,1,4,6,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-6,C Kieswetter,DT Johnston,MJ Lumb,,0,0,0,6,1,5,1,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-7,C Kieswetter,DT Johnston,MJ Lumb,,1,0,1,7,2,6,2,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-8,MJ Lumb,DT Johnston,C Kieswetter,,0,0,0,7,4,3,3,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-9,MJ Lumb,DT Johnston,C Kieswetter,,4,0,4,11,8,4,4,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-10,MJ Lumb,DT Johnston,C Kieswetter,,1,0,1,12,9,5,5,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-11,C Kieswetter,DT Johnston,MJ Lumb,,0,0,0,12,2,7,6,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-12,MJ Lumb,WB Rankin,C Kieswetter,,4,0,4,16,13,6,1,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-13,MJ Lumb,WB Rankin,C Kieswetter,{'legbyes': 1},0,1,1,17,13,7,2,legbyes,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-14,C Kieswetter,WB Rankin,MJ Lumb,,0,0,0,17,2,8,3,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-15,C Kieswetter,WB Rankin,MJ Lumb,,2,0,2,19,4,9,4,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-16,C Kieswetter,WB Rankin,MJ Lumb,,0,0,0,19,4,10,5,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-17,C Kieswetter,WB Rankin,MJ Lumb,,2,0,2,21,6,11,6,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-18,MJ Lumb,DT Johnston,C Kieswetter,,0,0,0,21,13,8,1,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-19,MJ Lumb,DT Johnston,C Kieswetter,,0,0,0,21,13,9,2,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-20,MJ Lumb,DT Johnston,C Kieswetter,,1,0,1,22,14,10,3,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-21,C Kieswetter,DT Johnston,MJ Lumb,,0,0,0,22,6,12,4,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-22,C Kieswetter,DT Johnston,MJ Lumb,,0,0,0,22,6,13,5,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-23,C Kieswetter,DT Johnston,MJ Lumb,,2,0,2,24,8,14,6,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-24,MJ Lumb,KJ O'Brien,C Kieswetter,,0,0,0,24,14,11,1,-,5,caught,MJ Lumb,WB Rankin,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-25,KP Pietersen,KJ O'Brien,C Kieswetter,,0,0,0,24,0,1,2,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-26,KP Pietersen,KJ O'Brien,C Kieswetter,,0,0,0,24,0,2,3,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-27,KP Pietersen,KJ O'Brien,C Kieswetter,,1,0,1,25,1,3,4,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-28,C Kieswetter,KJ O'Brien,KP Pietersen,,3,0,3,28,11,15,5,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-29,KP Pietersen,KJ O'Brien,C Kieswetter,,1,0,1,29,2,4,6,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-30,KP Pietersen,DT Johnston,C Kieswetter,,1,0,1,30,3,5,1,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-31,C Kieswetter,DT Johnston,KP Pietersen,,2,0,2,32,13,16,2,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-32,C Kieswetter,DT Johnston,KP Pietersen,,0,0,0,32,13,17,3,-,6,run out,C Kieswetter,JF Mooney;NJ O'Brien,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-33,PD Collingwood,DT Johnston,KP Pietersen,,0,0,0,32,0,1,4,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-34,PD Collingwood,DT Johnston,KP Pietersen,,0,0,0,32,0,2,5,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-35,PD Collingwood,DT Johnston,KP Pietersen,,0,0,0,32,0,3,6,-,6,caught,PD Collingwood,AC Botha,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-36,KP Pietersen,GH Dockrell,EJG Morgan,,1,0,1,33,4,6,1,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-37,EJG Morgan,GH Dockrell,KP Pietersen,,1,0,1,34,1,1,2,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-38,KP Pietersen,GH Dockrell,EJG Morgan,,0,0,0,34,4,7,3,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-39,KP Pietersen,GH Dockrell,EJG Morgan,,0,0,0,34,4,8,4,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-40,KP Pietersen,GH Dockrell,EJG Morgan,,1,0,1,35,5,9,5,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-41,EJG Morgan,GH Dockrell,KP Pietersen,,0,0,0,35,1,2,6,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-42,KP Pietersen,DT Johnston,EJG Morgan,,0,0,0,35,5,10,1,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-43,KP Pietersen,DT Johnston,EJG Morgan,{'legbyes': 1},0,1,1,36,5,11,2,legbyes,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-44,EJG Morgan,DT Johnston,KP Pietersen,,0,0,0,36,1,3,3,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-45,EJG Morgan,DT Johnston,KP Pietersen,,1,0,1,37,2,4,4,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-46,KP Pietersen,DT Johnston,EJG Morgan,,0,0,0,37,5,12,5,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-47,KP Pietersen,DT Johnston,EJG Morgan,,1,0,1,38,6,13,6,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-48,KP Pietersen,GH Dockrell,EJG Morgan,,1,0,1,39,7,14,1,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-49,EJG Morgan,GH Dockrell,KP Pietersen,,4,0,4,43,6,5,2,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-50,EJG Morgan,GH Dockrell,KP Pietersen,,0,0,0,43,6,6,3,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-51,EJG Morgan,GH Dockrell,KP Pietersen,,1,0,1,44,7,7,4,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-52,KP Pietersen,GH Dockrell,EJG Morgan,,1,0,1,45,8,15,5,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-53,EJG Morgan,GH Dockrell,KP Pietersen,,0,0,0,45,7,8,6,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-54,KP Pietersen,KJ O'Brien,EJG Morgan,,1,0,1,46,9,16,1,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-55,EJG Morgan,KJ O'Brien,KP Pietersen,,3,0,3,49,10,9,2,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-56,KP Pietersen,KJ O'Brien,EJG Morgan,,0,0,0,49,9,17,3,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-57,KP Pietersen,KJ O'Brien,EJG Morgan,,0,0,0,49,9,18,4,-,10,caught,KP Pietersen,JF Mooney,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-58,LJ Wright,KJ O'Brien,EJG Morgan,,0,0,0,49,0,1,5,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-59,LJ Wright,KJ O'Brien,EJG Morgan,,0,0,0,49,0,2,6,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-60,EJG Morgan,AC Botha,LJ Wright,,0,0,0,49,10,10,1,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-61,EJG Morgan,AC Botha,LJ Wright,,1,0,1,50,11,11,2,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-62,LJ Wright,AC Botha,EJG Morgan,,0,0,0,50,0,3,3,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-63,LJ Wright,AC Botha,EJG Morgan,,1,0,1,51,1,4,4,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-64,EJG Morgan,AC Botha,LJ Wright,,1,0,1,52,12,12,5,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-65,LJ Wright,AC Botha,EJG Morgan,,0,0,0,52,1,5,6,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-66,EJG Morgan,AR Cusack,LJ Wright,,1,0,1,53,13,13,1,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-67,LJ Wright,AR Cusack,EJG Morgan,,1,0,1,54,2,6,2,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-68,EJG Morgan,AR Cusack,LJ Wright,,4,0,4,58,17,14,3,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-69,EJG Morgan,AR Cusack,LJ Wright,,0,0,0,58,17,15,4,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-70,EJG Morgan,AR Cusack,LJ Wright,,0,0,0,58,17,16,5,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-71,EJG Morgan,AR Cusack,LJ Wright,,1,0,1,59,18,17,6,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-72,EJG Morgan,GH Dockrell,LJ Wright,,0,0,0,59,18,18,1,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-73,EJG Morgan,GH Dockrell,LJ Wright,,0,0,0,59,18,19,2,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-74,EJG Morgan,GH Dockrell,LJ Wright,,1,0,1,60,19,20,3,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-75,LJ Wright,GH Dockrell,EJG Morgan,,1,0,1,61,3,7,4,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-76,EJG Morgan,GH Dockrell,LJ Wright,,4,0,4,65,23,21,5,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-77,EJG Morgan,GH Dockrell,LJ Wright,,2,0,2,67,25,22,6,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-78,LJ Wright,AC Botha,EJG Morgan,,1,0,1,68,4,8,1,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-79,EJG Morgan,AC Botha,LJ Wright,,1,0,1,69,26,23,2,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-80,LJ Wright,AC Botha,EJG Morgan,,0,0,0,69,4,9,3,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-81,LJ Wright,AC Botha,EJG Morgan,,2,0,2,71,6,10,4,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-82,LJ Wright,AC Botha,EJG Morgan,{'wides': 1},0,1,1,72,6,11,5,wides,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-83,LJ Wright,AC Botha,EJG Morgan,,0,0,0,72,6,12,6,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-84,LJ Wright,AC Botha,EJG Morgan,,3,0,3,75,9,13,7,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-85,LJ Wright,GH Dockrell,EJG Morgan,,0,0,0,75,9,14,1,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-86,LJ Wright,GH Dockrell,EJG Morgan,,0,0,0,75,9,15,2,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-87,LJ Wright,GH Dockrell,EJG Morgan,,0,0,0,75,9,16,3,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-88,LJ Wright,GH Dockrell,EJG Morgan,,0,0,0,75,9,17,4,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-89,LJ Wright,GH Dockrell,EJG Morgan,,0,0,0,75,9,18,5,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-90,LJ Wright,GH Dockrell,EJG Morgan,,1,0,1,76,10,19,6,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-91,LJ Wright,KJ O'Brien,EJG Morgan,,2,0,2,78,12,20,1,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-92,LJ Wright,KJ O'Brien,EJG Morgan,,0,0,0,78,12,21,2,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-93,LJ Wright,KJ O'Brien,EJG Morgan,,1,0,1,79,13,22,3,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-94,EJG Morgan,KJ O'Brien,LJ Wright,{'noballs': 1},1,1,2,81,27,24,4,noballs,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-95,LJ Wright,KJ O'Brien,EJG Morgan,,1,0,1,82,14,23,5,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-96,EJG Morgan,KJ O'Brien,LJ Wright,,1,0,1,83,28,25,6,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-97,LJ Wright,KJ O'Brien,EJG Morgan,,6,0,6,89,20,24,7,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-98,EJG Morgan,WB Rankin,LJ Wright,,1,0,1,90,29,26,1,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-99,LJ Wright,WB Rankin,EJG Morgan,,0,0,0,90,20,25,2,-,17,caught,LJ Wright,WTS Porterfield,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-100,EJG Morgan,WB Rankin,TT Bresnan,,2,0,2,92,31,27,3,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-101,EJG Morgan,WB Rankin,TT Bresnan,,2,0,2,94,33,28,4,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-102,EJG Morgan,WB Rankin,TT Bresnan,,0,0,0,94,33,29,5,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-103,EJG Morgan,WB Rankin,TT Bresnan,,0,0,0,94,33,30,6,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-104,TT Bresnan,AC Botha,EJG Morgan,,1,0,1,95,1,1,1,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-105,EJG Morgan,AC Botha,TT Bresnan,,4,0,4,99,37,31,2,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-106,EJG Morgan,AC Botha,TT Bresnan,,1,0,1,100,38,32,3,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-107,TT Bresnan,AC Botha,EJG Morgan,,0,0,0,100,1,2,4,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-108,TT Bresnan,AC Botha,EJG Morgan,,0,0,0,100,1,3,5,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-109,TT Bresnan,AC Botha,EJG Morgan,,4,0,4,104,5,4,6,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-110,EJG Morgan,WB Rankin,TT Bresnan,,4,0,4,108,42,33,1,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-111,EJG Morgan,WB Rankin,TT Bresnan,{'legbyes': 1},0,1,1,109,42,34,2,legbyes,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-112,TT Bresnan,WB Rankin,EJG Morgan,,0,0,0,109,5,5,3,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-113,TT Bresnan,WB Rankin,EJG Morgan,,0,0,0,109,5,6,4,-,19,caught,TT Bresnan,JF Mooney,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-114,EJG Morgan,WB Rankin,GP Swann,,1,0,1,110,43,35,5,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-115,GP Swann,WB Rankin,EJG Morgan,{'wides': 1},0,1,1,111,0,1,6,wides,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-116,GP Swann,WB Rankin,EJG Morgan,,1,0,1,112,1,2,7,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-117,GP Swann,AC Botha,EJG Morgan,,1,0,1,113,2,3,1,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-118,EJG Morgan,AC Botha,GP Swann,,2,0,2,115,45,36,2,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-119,EJG Morgan,AC Botha,GP Swann,,0,0,0,115,45,37,3,-,20,caught,EJG Morgan,GC Wilson,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-120,GP Swann,AC Botha,MH Yardy,,2,0,2,117,4,4,4,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-121,GP Swann,AC Botha,MH Yardy,,1,0,1,118,5,5,5,-,20,run out,MH Yardy,DT Johnston,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
-122,GP Swann,AC Botha,SCJ Broad,,2,0,2,120,7,6,6,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MJ Lumb,WB Rankin,C Kieswetter,4,0,4,4,4,1,1,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+1,MJ Lumb,WB Rankin,C Kieswetter,0,1,1,5,4,2,2,legbyes,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+2,C Kieswetter,WB Rankin,MJ Lumb,0,0,0,5,0,1,3,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+3,C Kieswetter,WB Rankin,MJ Lumb,0,0,0,5,0,2,4,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+4,C Kieswetter,WB Rankin,MJ Lumb,0,0,0,5,0,3,5,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+5,C Kieswetter,WB Rankin,MJ Lumb,1,0,1,6,1,4,6,-,1,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+6,C Kieswetter,DT Johnston,MJ Lumb,0,0,0,6,1,5,1,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+7,C Kieswetter,DT Johnston,MJ Lumb,1,0,1,7,2,6,2,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+8,MJ Lumb,DT Johnston,C Kieswetter,0,0,0,7,4,3,3,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+9,MJ Lumb,DT Johnston,C Kieswetter,4,0,4,11,8,4,4,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+10,MJ Lumb,DT Johnston,C Kieswetter,1,0,1,12,9,5,5,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+11,C Kieswetter,DT Johnston,MJ Lumb,0,0,0,12,2,7,6,-,2,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+12,MJ Lumb,WB Rankin,C Kieswetter,4,0,4,16,13,6,1,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+13,MJ Lumb,WB Rankin,C Kieswetter,0,1,1,17,13,7,2,legbyes,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+14,C Kieswetter,WB Rankin,MJ Lumb,0,0,0,17,2,8,3,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+15,C Kieswetter,WB Rankin,MJ Lumb,2,0,2,19,4,9,4,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+16,C Kieswetter,WB Rankin,MJ Lumb,0,0,0,19,4,10,5,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+17,C Kieswetter,WB Rankin,MJ Lumb,2,0,2,21,6,11,6,-,3,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+18,MJ Lumb,DT Johnston,C Kieswetter,0,0,0,21,13,8,1,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+19,MJ Lumb,DT Johnston,C Kieswetter,0,0,0,21,13,9,2,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+20,MJ Lumb,DT Johnston,C Kieswetter,1,0,1,22,14,10,3,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+21,C Kieswetter,DT Johnston,MJ Lumb,0,0,0,22,6,12,4,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+22,C Kieswetter,DT Johnston,MJ Lumb,0,0,0,22,6,13,5,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+23,C Kieswetter,DT Johnston,MJ Lumb,2,0,2,24,8,14,6,-,4,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+24,MJ Lumb,KJ O'Brien,C Kieswetter,0,0,0,24,14,11,1,-,5,caught,MJ Lumb,WB Rankin,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+25,KP Pietersen,KJ O'Brien,C Kieswetter,0,0,0,24,0,1,2,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+26,KP Pietersen,KJ O'Brien,C Kieswetter,0,0,0,24,0,2,3,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+27,KP Pietersen,KJ O'Brien,C Kieswetter,1,0,1,25,1,3,4,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+28,C Kieswetter,KJ O'Brien,KP Pietersen,3,0,3,28,11,15,5,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+29,KP Pietersen,KJ O'Brien,C Kieswetter,1,0,1,29,2,4,6,-,5,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+30,KP Pietersen,DT Johnston,C Kieswetter,1,0,1,30,3,5,1,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+31,C Kieswetter,DT Johnston,KP Pietersen,2,0,2,32,13,16,2,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+32,C Kieswetter,DT Johnston,KP Pietersen,0,0,0,32,13,17,3,-,6,run out,C Kieswetter,JF Mooney;NJ O'Brien,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+33,PD Collingwood,DT Johnston,KP Pietersen,0,0,0,32,0,1,4,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+34,PD Collingwood,DT Johnston,KP Pietersen,0,0,0,32,0,2,5,-,6,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+35,PD Collingwood,DT Johnston,KP Pietersen,0,0,0,32,0,3,6,-,6,caught,PD Collingwood,AC Botha,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+36,KP Pietersen,GH Dockrell,EJG Morgan,1,0,1,33,4,6,1,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+37,EJG Morgan,GH Dockrell,KP Pietersen,1,0,1,34,1,1,2,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+38,KP Pietersen,GH Dockrell,EJG Morgan,0,0,0,34,4,7,3,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+39,KP Pietersen,GH Dockrell,EJG Morgan,0,0,0,34,4,8,4,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+40,KP Pietersen,GH Dockrell,EJG Morgan,1,0,1,35,5,9,5,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+41,EJG Morgan,GH Dockrell,KP Pietersen,0,0,0,35,1,2,6,-,7,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+42,KP Pietersen,DT Johnston,EJG Morgan,0,0,0,35,5,10,1,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+43,KP Pietersen,DT Johnston,EJG Morgan,0,1,1,36,5,11,2,legbyes,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+44,EJG Morgan,DT Johnston,KP Pietersen,0,0,0,36,1,3,3,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+45,EJG Morgan,DT Johnston,KP Pietersen,1,0,1,37,2,4,4,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+46,KP Pietersen,DT Johnston,EJG Morgan,0,0,0,37,5,12,5,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+47,KP Pietersen,DT Johnston,EJG Morgan,1,0,1,38,6,13,6,-,8,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+48,KP Pietersen,GH Dockrell,EJG Morgan,1,0,1,39,7,14,1,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+49,EJG Morgan,GH Dockrell,KP Pietersen,4,0,4,43,6,5,2,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+50,EJG Morgan,GH Dockrell,KP Pietersen,0,0,0,43,6,6,3,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+51,EJG Morgan,GH Dockrell,KP Pietersen,1,0,1,44,7,7,4,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+52,KP Pietersen,GH Dockrell,EJG Morgan,1,0,1,45,8,15,5,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+53,EJG Morgan,GH Dockrell,KP Pietersen,0,0,0,45,7,8,6,-,9,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+54,KP Pietersen,KJ O'Brien,EJG Morgan,1,0,1,46,9,16,1,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+55,EJG Morgan,KJ O'Brien,KP Pietersen,3,0,3,49,10,9,2,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+56,KP Pietersen,KJ O'Brien,EJG Morgan,0,0,0,49,9,17,3,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+57,KP Pietersen,KJ O'Brien,EJG Morgan,0,0,0,49,9,18,4,-,10,caught,KP Pietersen,JF Mooney,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+58,LJ Wright,KJ O'Brien,EJG Morgan,0,0,0,49,0,1,5,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+59,LJ Wright,KJ O'Brien,EJG Morgan,0,0,0,49,0,2,6,-,10,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+60,EJG Morgan,AC Botha,LJ Wright,0,0,0,49,10,10,1,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+61,EJG Morgan,AC Botha,LJ Wright,1,0,1,50,11,11,2,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+62,LJ Wright,AC Botha,EJG Morgan,0,0,0,50,0,3,3,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+63,LJ Wright,AC Botha,EJG Morgan,1,0,1,51,1,4,4,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+64,EJG Morgan,AC Botha,LJ Wright,1,0,1,52,12,12,5,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+65,LJ Wright,AC Botha,EJG Morgan,0,0,0,52,1,5,6,-,11,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+66,EJG Morgan,AR Cusack,LJ Wright,1,0,1,53,13,13,1,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+67,LJ Wright,AR Cusack,EJG Morgan,1,0,1,54,2,6,2,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+68,EJG Morgan,AR Cusack,LJ Wright,4,0,4,58,17,14,3,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+69,EJG Morgan,AR Cusack,LJ Wright,0,0,0,58,17,15,4,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+70,EJG Morgan,AR Cusack,LJ Wright,0,0,0,58,17,16,5,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+71,EJG Morgan,AR Cusack,LJ Wright,1,0,1,59,18,17,6,-,12,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+72,EJG Morgan,GH Dockrell,LJ Wright,0,0,0,59,18,18,1,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+73,EJG Morgan,GH Dockrell,LJ Wright,0,0,0,59,18,19,2,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+74,EJG Morgan,GH Dockrell,LJ Wright,1,0,1,60,19,20,3,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+75,LJ Wright,GH Dockrell,EJG Morgan,1,0,1,61,3,7,4,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+76,EJG Morgan,GH Dockrell,LJ Wright,4,0,4,65,23,21,5,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+77,EJG Morgan,GH Dockrell,LJ Wright,2,0,2,67,25,22,6,-,13,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+78,LJ Wright,AC Botha,EJG Morgan,1,0,1,68,4,8,1,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+79,EJG Morgan,AC Botha,LJ Wright,1,0,1,69,26,23,2,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+80,LJ Wright,AC Botha,EJG Morgan,0,0,0,69,4,9,3,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+81,LJ Wright,AC Botha,EJG Morgan,2,0,2,71,6,10,4,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+82,LJ Wright,AC Botha,EJG Morgan,0,1,1,72,6,11,5,wides,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+83,LJ Wright,AC Botha,EJG Morgan,0,0,0,72,6,12,6,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+84,LJ Wright,AC Botha,EJG Morgan,3,0,3,75,9,13,7,-,14,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+85,LJ Wright,GH Dockrell,EJG Morgan,0,0,0,75,9,14,1,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+86,LJ Wright,GH Dockrell,EJG Morgan,0,0,0,75,9,15,2,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+87,LJ Wright,GH Dockrell,EJG Morgan,0,0,0,75,9,16,3,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+88,LJ Wright,GH Dockrell,EJG Morgan,0,0,0,75,9,17,4,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+89,LJ Wright,GH Dockrell,EJG Morgan,0,0,0,75,9,18,5,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+90,LJ Wright,GH Dockrell,EJG Morgan,1,0,1,76,10,19,6,-,15,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+91,LJ Wright,KJ O'Brien,EJG Morgan,2,0,2,78,12,20,1,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+92,LJ Wright,KJ O'Brien,EJG Morgan,0,0,0,78,12,21,2,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+93,LJ Wright,KJ O'Brien,EJG Morgan,1,0,1,79,13,22,3,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+94,EJG Morgan,KJ O'Brien,LJ Wright,1,1,2,81,27,24,4,noballs,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+95,LJ Wright,KJ O'Brien,EJG Morgan,1,0,1,82,14,23,5,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+96,EJG Morgan,KJ O'Brien,LJ Wright,1,0,1,83,28,25,6,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+97,LJ Wright,KJ O'Brien,EJG Morgan,6,0,6,89,20,24,7,-,16,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+98,EJG Morgan,WB Rankin,LJ Wright,1,0,1,90,29,26,1,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+99,LJ Wright,WB Rankin,EJG Morgan,0,0,0,90,20,25,2,-,17,caught,LJ Wright,WTS Porterfield,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+100,EJG Morgan,WB Rankin,TT Bresnan,2,0,2,92,31,27,3,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+101,EJG Morgan,WB Rankin,TT Bresnan,2,0,2,94,33,28,4,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+102,EJG Morgan,WB Rankin,TT Bresnan,0,0,0,94,33,29,5,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+103,EJG Morgan,WB Rankin,TT Bresnan,0,0,0,94,33,30,6,-,17,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+104,TT Bresnan,AC Botha,EJG Morgan,1,0,1,95,1,1,1,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+105,EJG Morgan,AC Botha,TT Bresnan,4,0,4,99,37,31,2,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+106,EJG Morgan,AC Botha,TT Bresnan,1,0,1,100,38,32,3,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+107,TT Bresnan,AC Botha,EJG Morgan,0,0,0,100,1,2,4,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+108,TT Bresnan,AC Botha,EJG Morgan,0,0,0,100,1,3,5,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+109,TT Bresnan,AC Botha,EJG Morgan,4,0,4,104,5,4,6,-,18,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+110,EJG Morgan,WB Rankin,TT Bresnan,4,0,4,108,42,33,1,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+111,EJG Morgan,WB Rankin,TT Bresnan,0,1,1,109,42,34,2,legbyes,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+112,TT Bresnan,WB Rankin,EJG Morgan,0,0,0,109,5,5,3,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+113,TT Bresnan,WB Rankin,EJG Morgan,0,0,0,109,5,6,4,-,19,caught,TT Bresnan,JF Mooney,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+114,EJG Morgan,WB Rankin,GP Swann,1,0,1,110,43,35,5,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+115,GP Swann,WB Rankin,EJG Morgan,0,1,1,111,0,1,6,wides,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+116,GP Swann,WB Rankin,EJG Morgan,1,0,1,112,1,2,7,-,19,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+117,GP Swann,AC Botha,EJG Morgan,1,0,1,113,2,3,1,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+118,EJG Morgan,AC Botha,GP Swann,2,0,2,115,45,36,2,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+119,EJG Morgan,AC Botha,GP Swann,0,0,0,115,45,37,3,-,20,caught,EJG Morgan,GC Wilson,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+120,GP Swann,AC Botha,MH Yardy,2,0,2,117,4,4,4,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+121,GP Swann,AC Botha,MH Yardy,1,0,1,118,5,5,5,-,20,run out,MH Yardy,DT Johnston,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland
+122,GP Swann,AC Botha,SCJ Broad,2,0,2,120,7,6,6,-,20,0,,,field,Ireland,1,Providence Stadium,2010-05-04,England,Ireland

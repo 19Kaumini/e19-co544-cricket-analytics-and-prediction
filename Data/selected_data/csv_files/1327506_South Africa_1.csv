@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Q de Kock,DL Chahar,T Bavuma,0,0,0,0,0,1,1,0,,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-1,Q de Kock,DL Chahar,T Bavuma,1,0,1,1,1,2,2,0,,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-2,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,1,3,0,,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-3,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,2,4,0,,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-4,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,3,5,0,,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-5,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,4,6,bowled,T Bavuma,,1,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-6,Q de Kock,Arshdeep Singh,RR Rossouw,0,0,0,1,1,3,1,0,,,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-7,Q de Kock,Arshdeep Singh,RR Rossouw,0,0,0,1,1,4,2,bowled,Q de Kock,,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-8,AK Markram,Arshdeep Singh,RR Rossouw,0,0,0,1,0,1,3,0,,,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-9,AK Markram,Arshdeep Singh,RR Rossouw,4,0,4,5,4,2,4,0,,,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-10,AK Markram,Arshdeep Singh,RR Rossouw,0,1,1,6,4,3,5,0,,,2,{'wides': 1},wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-11,AK Markram,Arshdeep Singh,RR Rossouw,0,2,2,8,4,4,6,0,,,2,{'wides': 2},wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-12,RR Rossouw,Arshdeep Singh,AK Markram,0,0,0,8,0,1,7,caught,RR Rossouw,RR Pant,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-13,DA Miller,Arshdeep Singh,AK Markram,0,0,0,8,0,1,8,bowled,DA Miller,,2,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-14,AK Markram,DL Chahar,T Stubbs,0,0,0,8,4,5,1,0,,,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-15,AK Markram,DL Chahar,T Stubbs,1,0,1,9,5,6,2,0,,,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-16,T Stubbs,DL Chahar,AK Markram,0,0,0,9,0,1,3,caught,T Stubbs,Arshdeep Singh,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-17,AK Markram,DL Chahar,WD Parnell,4,0,4,13,9,7,4,0,,,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-18,AK Markram,DL Chahar,WD Parnell,1,0,1,14,10,8,5,0,,,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-19,WD Parnell,DL Chahar,AK Markram,0,0,0,14,0,1,6,0,,,3,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-20,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,14,10,9,1,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-21,AK Markram,Arshdeep Singh,WD Parnell,4,0,4,18,14,10,2,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-22,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,11,3,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-23,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,12,4,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-24,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,13,5,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-25,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,14,6,0,,,4,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-26,WD Parnell,DL Chahar,AK Markram,2,0,2,20,2,2,1,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-27,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,3,2,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-28,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,4,3,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-29,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,5,4,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-30,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,6,5,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-31,WD Parnell,DL Chahar,AK Markram,6,0,6,26,8,7,6,0,,,5,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-32,AK Markram,Arshdeep Singh,WD Parnell,3,0,3,29,17,15,1,0,,,6,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-33,WD Parnell,Arshdeep Singh,AK Markram,1,0,1,30,9,8,2,0,,,6,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-34,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,16,3,0,,,6,,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'AK Markram', 'decision': 'struck down'}",field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-35,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,17,4,0,,,6,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-36,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,18,5,0,,,6,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-37,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,19,6,0,,,6,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-38,WD Parnell,R Ashwin,AK Markram,1,0,1,31,10,9,1,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-39,AK Markram,R Ashwin,WD Parnell,1,0,1,32,18,20,2,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-40,WD Parnell,R Ashwin,AK Markram,1,0,1,33,11,10,3,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-41,AK Markram,R Ashwin,WD Parnell,1,0,1,34,19,21,4,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-42,WD Parnell,R Ashwin,AK Markram,0,0,0,34,11,11,5,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-43,WD Parnell,R Ashwin,AK Markram,1,0,1,35,12,12,6,0,,,7,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-44,WD Parnell,HV Patel,AK Markram,1,0,1,36,13,13,1,0,,,8,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-45,AK Markram,HV Patel,WD Parnell,0,0,0,36,19,22,2,0,,,8,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-46,AK Markram,HV Patel,WD Parnell,0,0,0,36,19,23,3,0,,,8,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-47,AK Markram,HV Patel,WD Parnell,6,0,6,42,25,24,4,0,,,8,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-48,AK Markram,HV Patel,WD Parnell,0,0,0,42,25,25,5,0,,,8,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-49,AK Markram,HV Patel,WD Parnell,0,0,0,42,25,26,6,lbw,AK Markram,,8,,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'AK Markram', 'decision': 'upheld'}",field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-50,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,14,1,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-51,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,15,2,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-52,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,16,3,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-53,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,17,4,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-54,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,18,5,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-55,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,19,6,0,,,9,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-56,KA Maharaj,HV Patel,WD Parnell,0,0,0,42,0,1,1,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-57,KA Maharaj,HV Patel,WD Parnell,4,0,4,46,4,2,2,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-58,KA Maharaj,HV Patel,WD Parnell,0,0,0,46,4,3,3,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-59,KA Maharaj,HV Patel,WD Parnell,0,0,0,46,4,4,4,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-60,KA Maharaj,HV Patel,WD Parnell,1,0,1,47,5,5,5,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-61,WD Parnell,HV Patel,KA Maharaj,1,0,1,48,14,20,6,0,,,10,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-62,WD Parnell,R Ashwin,KA Maharaj,1,0,1,49,15,21,1,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-63,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,6,2,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-64,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,7,3,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-65,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,8,4,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-66,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,9,5,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-67,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,10,6,0,,,11,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-68,WD Parnell,AR Patel,KA Maharaj,1,0,1,50,16,22,1,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-69,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,11,2,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-70,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,12,3,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-71,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,13,4,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-72,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,14,5,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-73,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,15,6,0,,,12,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-74,WD Parnell,DL Chahar,KA Maharaj,1,0,1,51,17,23,1,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-75,KA Maharaj,DL Chahar,WD Parnell,0,0,0,51,5,16,2,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-76,KA Maharaj,DL Chahar,WD Parnell,6,0,6,57,11,17,3,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-77,KA Maharaj,DL Chahar,WD Parnell,1,0,1,58,12,18,4,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-78,WD Parnell,DL Chahar,KA Maharaj,1,0,1,59,18,24,5,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-79,KA Maharaj,DL Chahar,WD Parnell,0,0,0,59,12,19,6,0,,,13,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-80,WD Parnell,AR Patel,KA Maharaj,1,0,1,60,19,25,1,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-81,KA Maharaj,AR Patel,WD Parnell,1,0,1,61,13,20,2,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-82,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,26,3,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-83,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,27,4,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-84,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,28,5,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-85,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,29,6,0,,,14,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-86,KA Maharaj,R Ashwin,WD Parnell,0,0,0,61,13,21,1,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-87,KA Maharaj,R Ashwin,WD Parnell,0,0,0,61,13,22,2,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-88,KA Maharaj,R Ashwin,WD Parnell,1,0,1,62,14,23,3,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-89,WD Parnell,R Ashwin,KA Maharaj,0,0,0,62,19,30,4,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-90,WD Parnell,R Ashwin,KA Maharaj,0,0,0,62,19,31,5,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-91,WD Parnell,R Ashwin,KA Maharaj,1,0,1,63,20,32,6,0,,,15,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-92,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,33,1,0,,,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-93,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,34,2,0,,,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-94,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,35,3,0,,,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-95,WD Parnell,AR Patel,KA Maharaj,4,0,4,67,24,36,4,0,,,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-96,WD Parnell,AR Patel,KA Maharaj,0,1,1,68,24,37,5,0,,,16,{'wides': 1},wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-97,WD Parnell,AR Patel,KA Maharaj,0,0,0,68,24,38,6,caught,WD Parnell,SA Yadav,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-98,KA Maharaj,AR Patel,K Rabada,4,0,4,72,18,24,7,0,,,16,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-99,K Rabada,HV Patel,KA Maharaj,1,0,1,73,1,1,1,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-100,KA Maharaj,HV Patel,K Rabada,1,0,1,74,19,25,2,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-101,K Rabada,HV Patel,KA Maharaj,0,0,0,74,1,2,3,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-102,K Rabada,HV Patel,KA Maharaj,1,0,1,75,2,3,4,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-103,KA Maharaj,HV Patel,K Rabada,4,0,4,79,23,26,5,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-104,KA Maharaj,HV Patel,K Rabada,0,0,0,79,23,27,6,0,,,17,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-105,K Rabada,AR Patel,KA Maharaj,1,0,1,80,3,4,1,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-106,KA Maharaj,AR Patel,K Rabada,1,0,1,81,24,28,2,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-107,K Rabada,AR Patel,KA Maharaj,0,0,0,81,3,5,3,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-108,K Rabada,AR Patel,KA Maharaj,1,0,1,82,4,6,4,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-109,KA Maharaj,AR Patel,K Rabada,1,0,1,83,25,29,5,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-110,K Rabada,AR Patel,KA Maharaj,0,0,0,83,4,7,6,0,,,18,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-111,KA Maharaj,Arshdeep Singh,K Rabada,4,0,4,87,29,30,1,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-112,KA Maharaj,Arshdeep Singh,K Rabada,6,0,6,93,35,31,2,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-113,KA Maharaj,Arshdeep Singh,K Rabada,1,0,1,94,36,32,3,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-114,K Rabada,Arshdeep Singh,KA Maharaj,1,0,1,95,5,8,4,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-115,KA Maharaj,Arshdeep Singh,K Rabada,4,0,4,99,40,33,5,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-116,KA Maharaj,Arshdeep Singh,K Rabada,1,0,1,100,41,34,6,0,,,19,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-117,KA Maharaj,HV Patel,K Rabada,0,1,1,101,41,35,1,0,,,20,{'wides': 1},wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-118,KA Maharaj,HV Patel,K Rabada,0,0,0,101,41,36,2,bowled,KA Maharaj,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-119,A Nortje,HV Patel,K Rabada,1,0,1,102,1,1,3,0,,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-120,K Rabada,HV Patel,A Nortje,0,1,1,103,5,9,4,0,,,20,{'wides': 1},wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-121,K Rabada,HV Patel,A Nortje,0,0,0,103,5,10,5,0,,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-122,K Rabada,HV Patel,A Nortje,1,0,1,104,6,11,6,0,,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-123,A Nortje,HV Patel,K Rabada,1,0,1,105,2,2,7,0,,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
-124,K Rabada,HV Patel,A Nortje,1,0,1,106,7,12,8,0,,,20,,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Q de Kock,DL Chahar,T Bavuma,0,0,0,0,0,1,1,0,,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+1,Q de Kock,DL Chahar,T Bavuma,1,0,1,1,1,2,2,0,,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+2,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,1,3,0,,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+3,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,2,4,0,,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+4,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,3,5,0,,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+5,T Bavuma,DL Chahar,Q de Kock,0,0,0,1,0,4,6,bowled,T Bavuma,,1,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+6,Q de Kock,Arshdeep Singh,RR Rossouw,0,0,0,1,1,3,1,0,,,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+7,Q de Kock,Arshdeep Singh,RR Rossouw,0,0,0,1,1,4,2,bowled,Q de Kock,,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+8,AK Markram,Arshdeep Singh,RR Rossouw,0,0,0,1,0,1,3,0,,,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+9,AK Markram,Arshdeep Singh,RR Rossouw,4,0,4,5,4,2,4,0,,,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+10,AK Markram,Arshdeep Singh,RR Rossouw,0,1,1,6,4,3,5,0,,,2,wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+11,AK Markram,Arshdeep Singh,RR Rossouw,0,2,2,8,4,4,6,0,,,2,wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+12,RR Rossouw,Arshdeep Singh,AK Markram,0,0,0,8,0,1,7,caught,RR Rossouw,RR Pant,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+13,DA Miller,Arshdeep Singh,AK Markram,0,0,0,8,0,1,8,bowled,DA Miller,,2,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+14,AK Markram,DL Chahar,T Stubbs,0,0,0,8,4,5,1,0,,,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+15,AK Markram,DL Chahar,T Stubbs,1,0,1,9,5,6,2,0,,,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+16,T Stubbs,DL Chahar,AK Markram,0,0,0,9,0,1,3,caught,T Stubbs,Arshdeep Singh,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+17,AK Markram,DL Chahar,WD Parnell,4,0,4,13,9,7,4,0,,,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+18,AK Markram,DL Chahar,WD Parnell,1,0,1,14,10,8,5,0,,,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+19,WD Parnell,DL Chahar,AK Markram,0,0,0,14,0,1,6,0,,,3,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+20,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,14,10,9,1,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+21,AK Markram,Arshdeep Singh,WD Parnell,4,0,4,18,14,10,2,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+22,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,11,3,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+23,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,12,4,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+24,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,13,5,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+25,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,18,14,14,6,0,,,4,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+26,WD Parnell,DL Chahar,AK Markram,2,0,2,20,2,2,1,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+27,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,3,2,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+28,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,4,3,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+29,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,5,4,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+30,WD Parnell,DL Chahar,AK Markram,0,0,0,20,2,6,5,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+31,WD Parnell,DL Chahar,AK Markram,6,0,6,26,8,7,6,0,,,5,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+32,AK Markram,Arshdeep Singh,WD Parnell,3,0,3,29,17,15,1,0,,,6,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+33,WD Parnell,Arshdeep Singh,AK Markram,1,0,1,30,9,8,2,0,,,6,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+34,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,16,3,0,,,6,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'AK Markram', 'decision': 'struck down'}",field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+35,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,17,4,0,,,6,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+36,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,18,5,0,,,6,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+37,AK Markram,Arshdeep Singh,WD Parnell,0,0,0,30,17,19,6,0,,,6,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+38,WD Parnell,R Ashwin,AK Markram,1,0,1,31,10,9,1,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+39,AK Markram,R Ashwin,WD Parnell,1,0,1,32,18,20,2,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+40,WD Parnell,R Ashwin,AK Markram,1,0,1,33,11,10,3,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+41,AK Markram,R Ashwin,WD Parnell,1,0,1,34,19,21,4,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+42,WD Parnell,R Ashwin,AK Markram,0,0,0,34,11,11,5,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+43,WD Parnell,R Ashwin,AK Markram,1,0,1,35,12,12,6,0,,,7,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+44,WD Parnell,HV Patel,AK Markram,1,0,1,36,13,13,1,0,,,8,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+45,AK Markram,HV Patel,WD Parnell,0,0,0,36,19,22,2,0,,,8,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+46,AK Markram,HV Patel,WD Parnell,0,0,0,36,19,23,3,0,,,8,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+47,AK Markram,HV Patel,WD Parnell,6,0,6,42,25,24,4,0,,,8,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+48,AK Markram,HV Patel,WD Parnell,0,0,0,42,25,25,5,0,,,8,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+49,AK Markram,HV Patel,WD Parnell,0,0,0,42,25,26,6,lbw,AK Markram,,8,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'AK Markram', 'decision': 'upheld'}",field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+50,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,14,1,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+51,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,15,2,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+52,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,16,3,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+53,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,17,4,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+54,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,18,5,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+55,WD Parnell,R Ashwin,KA Maharaj,0,0,0,42,13,19,6,0,,,9,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+56,KA Maharaj,HV Patel,WD Parnell,0,0,0,42,0,1,1,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+57,KA Maharaj,HV Patel,WD Parnell,4,0,4,46,4,2,2,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+58,KA Maharaj,HV Patel,WD Parnell,0,0,0,46,4,3,3,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+59,KA Maharaj,HV Patel,WD Parnell,0,0,0,46,4,4,4,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+60,KA Maharaj,HV Patel,WD Parnell,1,0,1,47,5,5,5,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+61,WD Parnell,HV Patel,KA Maharaj,1,0,1,48,14,20,6,0,,,10,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+62,WD Parnell,R Ashwin,KA Maharaj,1,0,1,49,15,21,1,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+63,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,6,2,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+64,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,7,3,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+65,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,8,4,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+66,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,9,5,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+67,KA Maharaj,R Ashwin,WD Parnell,0,0,0,49,5,10,6,0,,,11,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+68,WD Parnell,AR Patel,KA Maharaj,1,0,1,50,16,22,1,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+69,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,11,2,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+70,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,12,3,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+71,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,13,4,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+72,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,14,5,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+73,KA Maharaj,AR Patel,WD Parnell,0,0,0,50,5,15,6,0,,,12,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+74,WD Parnell,DL Chahar,KA Maharaj,1,0,1,51,17,23,1,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+75,KA Maharaj,DL Chahar,WD Parnell,0,0,0,51,5,16,2,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+76,KA Maharaj,DL Chahar,WD Parnell,6,0,6,57,11,17,3,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+77,KA Maharaj,DL Chahar,WD Parnell,1,0,1,58,12,18,4,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+78,WD Parnell,DL Chahar,KA Maharaj,1,0,1,59,18,24,5,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+79,KA Maharaj,DL Chahar,WD Parnell,0,0,0,59,12,19,6,0,,,13,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+80,WD Parnell,AR Patel,KA Maharaj,1,0,1,60,19,25,1,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+81,KA Maharaj,AR Patel,WD Parnell,1,0,1,61,13,20,2,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+82,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,26,3,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+83,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,27,4,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+84,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,28,5,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+85,WD Parnell,AR Patel,KA Maharaj,0,0,0,61,19,29,6,0,,,14,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+86,KA Maharaj,R Ashwin,WD Parnell,0,0,0,61,13,21,1,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+87,KA Maharaj,R Ashwin,WD Parnell,0,0,0,61,13,22,2,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+88,KA Maharaj,R Ashwin,WD Parnell,1,0,1,62,14,23,3,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+89,WD Parnell,R Ashwin,KA Maharaj,0,0,0,62,19,30,4,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+90,WD Parnell,R Ashwin,KA Maharaj,0,0,0,62,19,31,5,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+91,WD Parnell,R Ashwin,KA Maharaj,1,0,1,63,20,32,6,0,,,15,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+92,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,33,1,0,,,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+93,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,34,2,0,,,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+94,WD Parnell,AR Patel,KA Maharaj,0,0,0,63,20,35,3,0,,,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+95,WD Parnell,AR Patel,KA Maharaj,4,0,4,67,24,36,4,0,,,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+96,WD Parnell,AR Patel,KA Maharaj,0,1,1,68,24,37,5,0,,,16,wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+97,WD Parnell,AR Patel,KA Maharaj,0,0,0,68,24,38,6,caught,WD Parnell,SA Yadav,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+98,KA Maharaj,AR Patel,K Rabada,4,0,4,72,18,24,7,0,,,16,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+99,K Rabada,HV Patel,KA Maharaj,1,0,1,73,1,1,1,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+100,KA Maharaj,HV Patel,K Rabada,1,0,1,74,19,25,2,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+101,K Rabada,HV Patel,KA Maharaj,0,0,0,74,1,2,3,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+102,K Rabada,HV Patel,KA Maharaj,1,0,1,75,2,3,4,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+103,KA Maharaj,HV Patel,K Rabada,4,0,4,79,23,26,5,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+104,KA Maharaj,HV Patel,K Rabada,0,0,0,79,23,27,6,0,,,17,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+105,K Rabada,AR Patel,KA Maharaj,1,0,1,80,3,4,1,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+106,KA Maharaj,AR Patel,K Rabada,1,0,1,81,24,28,2,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+107,K Rabada,AR Patel,KA Maharaj,0,0,0,81,3,5,3,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+108,K Rabada,AR Patel,KA Maharaj,1,0,1,82,4,6,4,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+109,KA Maharaj,AR Patel,K Rabada,1,0,1,83,25,29,5,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+110,K Rabada,AR Patel,KA Maharaj,0,0,0,83,4,7,6,0,,,18,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+111,KA Maharaj,Arshdeep Singh,K Rabada,4,0,4,87,29,30,1,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+112,KA Maharaj,Arshdeep Singh,K Rabada,6,0,6,93,35,31,2,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+113,KA Maharaj,Arshdeep Singh,K Rabada,1,0,1,94,36,32,3,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+114,K Rabada,Arshdeep Singh,KA Maharaj,1,0,1,95,5,8,4,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+115,KA Maharaj,Arshdeep Singh,K Rabada,4,0,4,99,40,33,5,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+116,KA Maharaj,Arshdeep Singh,K Rabada,1,0,1,100,41,34,6,0,,,19,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+117,KA Maharaj,HV Patel,K Rabada,0,1,1,101,41,35,1,0,,,20,wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+118,KA Maharaj,HV Patel,K Rabada,0,0,0,101,41,36,2,bowled,KA Maharaj,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+119,A Nortje,HV Patel,K Rabada,1,0,1,102,1,1,3,0,,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+120,K Rabada,HV Patel,A Nortje,0,1,1,103,5,9,4,0,,,20,wides,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+121,K Rabada,HV Patel,A Nortje,0,0,0,103,5,10,5,0,,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+122,K Rabada,HV Patel,A Nortje,1,0,1,104,6,11,6,0,,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+123,A Nortje,HV Patel,K Rabada,1,0,1,105,2,2,7,0,,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India
+124,K Rabada,HV Patel,A Nortje,1,0,1,106,7,12,8,0,,,20,-,,field,India,1,"Greenfield International Stadium, Thiruvananthapuram",2022-09-28,South Africa,India

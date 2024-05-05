@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,A Balbirnie,W Madhevere,GR Adair,1,0,1,1,1,1,1,0,,,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-1,GR Adair,W Madhevere,A Balbirnie,0,0,0,1,0,1,2,0,,,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-2,GR Adair,W Madhevere,A Balbirnie,1,0,1,2,1,2,3,0,,,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-3,A Balbirnie,W Madhevere,GR Adair,1,0,1,3,2,2,4,0,,,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-4,GR Adair,W Madhevere,A Balbirnie,0,0,0,3,1,3,5,caught,GR Adair,CR Ervine,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-5,ST Doheny,W Madhevere,A Balbirnie,1,0,1,4,1,1,6,0,,,1,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-6,ST Doheny,R Ngarava,A Balbirnie,1,0,1,5,2,2,1,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-7,A Balbirnie,R Ngarava,ST Doheny,0,0,0,5,2,3,2,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-8,A Balbirnie,R Ngarava,ST Doheny,0,0,0,5,2,4,3,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-9,A Balbirnie,R Ngarava,ST Doheny,4,0,4,9,6,5,4,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-10,A Balbirnie,R Ngarava,ST Doheny,2,0,2,11,8,6,5,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-11,A Balbirnie,R Ngarava,ST Doheny,0,0,0,11,8,7,6,0,,,2,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-12,ST Doheny,TL Chatara,A Balbirnie,0,0,0,11,2,3,1,0,,,3,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-13,ST Doheny,TL Chatara,A Balbirnie,0,0,0,11,2,4,2,caught,ST Doheny,WP Masakadza,3,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-14,HT Tector,TL Chatara,A Balbirnie,1,0,1,12,1,1,3,0,,,3,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-15,A Balbirnie,TL Chatara,HT Tector,0,1,1,13,8,8,4,0,,,3,{'legbyes': 1},legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-16,HT Tector,TL Chatara,A Balbirnie,1,0,1,14,2,2,5,0,,,3,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-17,A Balbirnie,TL Chatara,HT Tector,0,0,0,14,8,9,6,0,,,3,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-18,HT Tector,WP Masakadza,A Balbirnie,0,0,0,14,2,3,1,0,,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-19,HT Tector,WP Masakadza,A Balbirnie,1,0,1,15,3,4,2,0,,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-20,A Balbirnie,WP Masakadza,HT Tector,1,0,1,16,9,10,3,0,,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-21,HT Tector,WP Masakadza,A Balbirnie,3,0,3,19,6,5,4,0,,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-22,A Balbirnie,WP Masakadza,HT Tector,0,0,0,19,9,11,5,bowled,A Balbirnie,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-23,C Campher,WP Masakadza,HT Tector,4,0,4,23,4,1,6,0,,,4,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-24,HT Tector,TL Chatara,C Campher,2,0,2,25,8,6,1,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-25,HT Tector,TL Chatara,C Campher,1,0,1,26,9,7,2,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-26,C Campher,TL Chatara,HT Tector,0,1,1,27,4,2,3,0,,,5,{'wides': 1},wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-27,C Campher,TL Chatara,HT Tector,2,0,2,29,6,3,4,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-28,C Campher,TL Chatara,HT Tector,0,0,0,29,6,4,5,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-29,C Campher,TL Chatara,HT Tector,1,0,1,30,7,5,6,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-30,HT Tector,TL Chatara,C Campher,2,0,2,32,11,8,7,0,,,5,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-31,C Campher,R Ngarava,HT Tector,1,0,1,33,8,6,1,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-32,HT Tector,R Ngarava,C Campher,0,0,0,33,11,9,2,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-33,HT Tector,R Ngarava,C Campher,4,0,4,37,15,10,3,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-34,HT Tector,R Ngarava,C Campher,0,0,0,37,15,11,4,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-35,HT Tector,R Ngarava,C Campher,0,1,1,38,15,12,5,0,,,6,{'wides': 1},wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-36,HT Tector,R Ngarava,C Campher,1,0,1,39,16,13,6,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-37,C Campher,R Ngarava,HT Tector,0,0,0,39,8,7,7,0,,,6,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-38,HT Tector,WP Masakadza,C Campher,2,0,2,41,18,14,1,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-39,HT Tector,WP Masakadza,C Campher,1,0,1,42,19,15,2,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-40,C Campher,WP Masakadza,HT Tector,1,0,1,43,9,8,3,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-41,HT Tector,WP Masakadza,C Campher,1,0,1,44,20,16,4,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-42,C Campher,WP Masakadza,HT Tector,1,0,1,45,10,9,5,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-43,HT Tector,WP Masakadza,C Campher,1,0,1,46,21,17,6,0,,,7,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-44,HT Tector,LM Jongwe,C Campher,4,0,4,50,25,18,1,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-45,HT Tector,LM Jongwe,C Campher,1,0,1,51,26,19,2,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-46,C Campher,LM Jongwe,HT Tector,1,0,1,52,11,10,3,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-47,HT Tector,LM Jongwe,C Campher,1,0,1,53,27,20,4,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-48,C Campher,LM Jongwe,HT Tector,0,0,0,53,11,11,5,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-49,C Campher,LM Jongwe,HT Tector,1,0,1,54,12,12,6,0,,,8,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-50,C Campher,RP Burl,HT Tector,4,0,4,58,16,13,1,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-51,C Campher,RP Burl,HT Tector,0,1,1,59,16,14,2,0,,,9,{'wides': 1},wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-52,C Campher,RP Burl,HT Tector,1,0,1,60,17,15,3,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-53,HT Tector,RP Burl,C Campher,1,0,1,61,28,21,4,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-54,C Campher,RP Burl,HT Tector,1,0,1,62,18,16,5,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-55,HT Tector,RP Burl,C Campher,1,0,1,63,29,22,6,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-56,C Campher,RP Burl,HT Tector,0,0,0,63,18,17,7,0,,,9,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-57,HT Tector,I Kaia,C Campher,1,0,1,64,30,23,1,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-58,C Campher,I Kaia,HT Tector,0,0,0,64,18,18,2,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-59,C Campher,I Kaia,HT Tector,0,0,0,64,18,19,3,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-60,C Campher,I Kaia,HT Tector,1,0,1,65,19,20,4,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-61,HT Tector,I Kaia,C Campher,2,0,2,67,32,24,5,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-62,HT Tector,I Kaia,C Campher,0,0,0,67,32,25,6,0,,,10,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-63,C Campher,RP Burl,HT Tector,0,0,0,67,19,21,1,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-64,C Campher,RP Burl,HT Tector,0,0,0,67,19,22,2,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-65,C Campher,RP Burl,HT Tector,1,0,1,68,20,23,3,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-66,HT Tector,RP Burl,C Campher,1,0,1,69,33,26,4,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-67,C Campher,RP Burl,HT Tector,2,0,2,71,22,24,5,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-68,C Campher,RP Burl,HT Tector,1,0,1,72,23,25,6,0,,,11,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-69,C Campher,WP Masakadza,HT Tector,0,1,1,73,23,26,1,0,,,12,{'wides': 1},wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-70,C Campher,WP Masakadza,HT Tector,1,0,1,74,24,27,2,0,,,12,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-71,HT Tector,WP Masakadza,C Campher,0,0,0,74,33,27,3,0,,,12,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-72,HT Tector,WP Masakadza,C Campher,2,0,2,76,35,28,4,0,,,12,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-73,HT Tector,WP Masakadza,C Campher,1,0,1,77,36,29,5,0,,,12,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-74,C Campher,WP Masakadza,HT Tector,1,0,1,78,25,28,6,0,,,12,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-75,HT Tector,WP Masakadza,C Campher,0,1,1,79,36,30,7,0,,,12,{'legbyes': 1},legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-76,HT Tector,TL Chatara,C Campher,4,0,4,83,40,31,1,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-77,HT Tector,TL Chatara,C Campher,1,0,1,84,41,32,2,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-78,C Campher,TL Chatara,HT Tector,1,0,1,85,26,29,3,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-79,HT Tector,TL Chatara,C Campher,1,0,1,86,42,33,4,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-80,C Campher,TL Chatara,HT Tector,1,0,1,87,27,30,5,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-81,HT Tector,TL Chatara,C Campher,1,0,1,88,43,34,6,0,,,13,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-82,HT Tector,RP Burl,C Campher,1,0,1,89,44,35,1,0,,,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-83,C Campher,RP Burl,HT Tector,0,0,0,89,27,31,2,caught,C Campher,C Madande,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-84,GH Dockrell,RP Burl,HT Tector,1,0,1,90,1,1,3,0,,,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-85,HT Tector,RP Burl,GH Dockrell,1,0,1,91,45,36,4,0,,,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-86,GH Dockrell,RP Burl,HT Tector,1,0,1,92,2,2,5,0,,,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-87,HT Tector,RP Burl,GH Dockrell,1,0,1,93,46,37,6,0,,,14,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-88,HT Tector,W Madhevere,GH Dockrell,1,0,1,94,47,38,1,0,,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-89,GH Dockrell,W Madhevere,HT Tector,1,0,1,95,3,3,2,0,,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-90,HT Tector,W Madhevere,GH Dockrell,0,0,0,95,47,39,3,bowled,HT Tector,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-91,NA Rock,W Madhevere,GH Dockrell,1,0,1,96,1,1,4,0,,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-92,GH Dockrell,W Madhevere,NA Rock,1,0,1,97,4,4,5,0,,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-93,NA Rock,W Madhevere,GH Dockrell,0,0,0,97,1,2,6,0,,,15,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-94,GH Dockrell,RP Burl,NA Rock,1,0,1,98,5,5,1,0,,,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-95,NA Rock,RP Burl,GH Dockrell,1,0,1,99,2,3,2,0,,,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-96,GH Dockrell,RP Burl,NA Rock,1,0,1,100,6,6,3,0,,,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-97,NA Rock,RP Burl,GH Dockrell,0,0,0,100,2,4,4,caught,NA Rock,CR Ervine,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-98,MR Adair,RP Burl,GH Dockrell,2,0,2,102,2,1,5,0,,,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-99,MR Adair,RP Burl,GH Dockrell,4,0,4,106,6,2,6,0,,,16,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-100,GH Dockrell,WP Masakadza,MR Adair,2,0,2,108,8,7,1,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-101,GH Dockrell,WP Masakadza,MR Adair,4,0,4,112,12,8,2,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-102,GH Dockrell,WP Masakadza,MR Adair,1,0,1,113,13,9,3,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-103,MR Adair,WP Masakadza,GH Dockrell,1,0,1,114,7,3,4,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-104,GH Dockrell,WP Masakadza,MR Adair,1,0,1,115,14,10,5,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-105,MR Adair,WP Masakadza,GH Dockrell,2,0,2,117,9,4,6,0,,,17,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-106,GH Dockrell,LM Jongwe,MR Adair,1,0,1,118,15,11,1,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-107,MR Adair,LM Jongwe,GH Dockrell,2,0,2,120,11,5,2,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-108,MR Adair,LM Jongwe,GH Dockrell,1,0,1,121,12,6,3,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-109,GH Dockrell,LM Jongwe,MR Adair,1,0,1,122,16,12,4,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-110,MR Adair,LM Jongwe,GH Dockrell,1,0,1,123,13,7,5,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-111,GH Dockrell,LM Jongwe,MR Adair,2,0,2,125,18,13,6,0,,,18,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-112,MR Adair,TL Chatara,GH Dockrell,0,0,0,125,13,8,1,0,,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-113,MR Adair,TL Chatara,GH Dockrell,1,0,1,126,14,9,2,0,,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-114,GH Dockrell,TL Chatara,MR Adair,2,0,2,128,20,14,3,0,,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-115,GH Dockrell,TL Chatara,MR Adair,2,0,2,130,22,15,4,0,,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-116,GH Dockrell,TL Chatara,MR Adair,1,0,1,131,23,16,5,0,,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-117,MR Adair,TL Chatara,GH Dockrell,0,0,0,131,14,10,6,bowled,MR Adair,,19,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-118,GH Dockrell,LM Jongwe,F Hand,0,0,0,131,23,17,1,caught,GH Dockrell,W Madhevere,20,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-119,BJ McCarthy,LM Jongwe,F Hand,6,0,6,137,6,1,2,0,,,20,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-120,BJ McCarthy,LM Jongwe,F Hand,0,0,0,137,6,2,3,caught,BJ McCarthy,WP Masakadza,20,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-121,B White,LM Jongwe,F Hand,1,0,1,138,1,1,4,0,,,20,,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-122,F Hand,LM Jongwe,B White,0,2,2,140,0,1,5,0,,,20,{'legbyes': 2},legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
-123,F Hand,LM Jongwe,B White,0,1,1,141,0,2,6,0,,,20,{'byes': 1},byes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,A Balbirnie,W Madhevere,GR Adair,1,0,1,1,1,1,1,0,,,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+1,GR Adair,W Madhevere,A Balbirnie,0,0,0,1,0,1,2,0,,,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+2,GR Adair,W Madhevere,A Balbirnie,1,0,1,2,1,2,3,0,,,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+3,A Balbirnie,W Madhevere,GR Adair,1,0,1,3,2,2,4,0,,,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+4,GR Adair,W Madhevere,A Balbirnie,0,0,0,3,1,3,5,caught,GR Adair,CR Ervine,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+5,ST Doheny,W Madhevere,A Balbirnie,1,0,1,4,1,1,6,0,,,1,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+6,ST Doheny,R Ngarava,A Balbirnie,1,0,1,5,2,2,1,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+7,A Balbirnie,R Ngarava,ST Doheny,0,0,0,5,2,3,2,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+8,A Balbirnie,R Ngarava,ST Doheny,0,0,0,5,2,4,3,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+9,A Balbirnie,R Ngarava,ST Doheny,4,0,4,9,6,5,4,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+10,A Balbirnie,R Ngarava,ST Doheny,2,0,2,11,8,6,5,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+11,A Balbirnie,R Ngarava,ST Doheny,0,0,0,11,8,7,6,0,,,2,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+12,ST Doheny,TL Chatara,A Balbirnie,0,0,0,11,2,3,1,0,,,3,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+13,ST Doheny,TL Chatara,A Balbirnie,0,0,0,11,2,4,2,caught,ST Doheny,WP Masakadza,3,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+14,HT Tector,TL Chatara,A Balbirnie,1,0,1,12,1,1,3,0,,,3,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+15,A Balbirnie,TL Chatara,HT Tector,0,1,1,13,8,8,4,0,,,3,legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+16,HT Tector,TL Chatara,A Balbirnie,1,0,1,14,2,2,5,0,,,3,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+17,A Balbirnie,TL Chatara,HT Tector,0,0,0,14,8,9,6,0,,,3,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+18,HT Tector,WP Masakadza,A Balbirnie,0,0,0,14,2,3,1,0,,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+19,HT Tector,WP Masakadza,A Balbirnie,1,0,1,15,3,4,2,0,,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+20,A Balbirnie,WP Masakadza,HT Tector,1,0,1,16,9,10,3,0,,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+21,HT Tector,WP Masakadza,A Balbirnie,3,0,3,19,6,5,4,0,,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+22,A Balbirnie,WP Masakadza,HT Tector,0,0,0,19,9,11,5,bowled,A Balbirnie,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+23,C Campher,WP Masakadza,HT Tector,4,0,4,23,4,1,6,0,,,4,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+24,HT Tector,TL Chatara,C Campher,2,0,2,25,8,6,1,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+25,HT Tector,TL Chatara,C Campher,1,0,1,26,9,7,2,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+26,C Campher,TL Chatara,HT Tector,0,1,1,27,4,2,3,0,,,5,wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+27,C Campher,TL Chatara,HT Tector,2,0,2,29,6,3,4,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+28,C Campher,TL Chatara,HT Tector,0,0,0,29,6,4,5,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+29,C Campher,TL Chatara,HT Tector,1,0,1,30,7,5,6,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+30,HT Tector,TL Chatara,C Campher,2,0,2,32,11,8,7,0,,,5,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+31,C Campher,R Ngarava,HT Tector,1,0,1,33,8,6,1,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+32,HT Tector,R Ngarava,C Campher,0,0,0,33,11,9,2,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+33,HT Tector,R Ngarava,C Campher,4,0,4,37,15,10,3,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+34,HT Tector,R Ngarava,C Campher,0,0,0,37,15,11,4,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+35,HT Tector,R Ngarava,C Campher,0,1,1,38,15,12,5,0,,,6,wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+36,HT Tector,R Ngarava,C Campher,1,0,1,39,16,13,6,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+37,C Campher,R Ngarava,HT Tector,0,0,0,39,8,7,7,0,,,6,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+38,HT Tector,WP Masakadza,C Campher,2,0,2,41,18,14,1,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+39,HT Tector,WP Masakadza,C Campher,1,0,1,42,19,15,2,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+40,C Campher,WP Masakadza,HT Tector,1,0,1,43,9,8,3,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+41,HT Tector,WP Masakadza,C Campher,1,0,1,44,20,16,4,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+42,C Campher,WP Masakadza,HT Tector,1,0,1,45,10,9,5,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+43,HT Tector,WP Masakadza,C Campher,1,0,1,46,21,17,6,0,,,7,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+44,HT Tector,LM Jongwe,C Campher,4,0,4,50,25,18,1,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+45,HT Tector,LM Jongwe,C Campher,1,0,1,51,26,19,2,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+46,C Campher,LM Jongwe,HT Tector,1,0,1,52,11,10,3,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+47,HT Tector,LM Jongwe,C Campher,1,0,1,53,27,20,4,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+48,C Campher,LM Jongwe,HT Tector,0,0,0,53,11,11,5,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+49,C Campher,LM Jongwe,HT Tector,1,0,1,54,12,12,6,0,,,8,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+50,C Campher,RP Burl,HT Tector,4,0,4,58,16,13,1,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+51,C Campher,RP Burl,HT Tector,0,1,1,59,16,14,2,0,,,9,wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+52,C Campher,RP Burl,HT Tector,1,0,1,60,17,15,3,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+53,HT Tector,RP Burl,C Campher,1,0,1,61,28,21,4,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+54,C Campher,RP Burl,HT Tector,1,0,1,62,18,16,5,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+55,HT Tector,RP Burl,C Campher,1,0,1,63,29,22,6,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+56,C Campher,RP Burl,HT Tector,0,0,0,63,18,17,7,0,,,9,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+57,HT Tector,I Kaia,C Campher,1,0,1,64,30,23,1,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+58,C Campher,I Kaia,HT Tector,0,0,0,64,18,18,2,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+59,C Campher,I Kaia,HT Tector,0,0,0,64,18,19,3,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+60,C Campher,I Kaia,HT Tector,1,0,1,65,19,20,4,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+61,HT Tector,I Kaia,C Campher,2,0,2,67,32,24,5,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+62,HT Tector,I Kaia,C Campher,0,0,0,67,32,25,6,0,,,10,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+63,C Campher,RP Burl,HT Tector,0,0,0,67,19,21,1,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+64,C Campher,RP Burl,HT Tector,0,0,0,67,19,22,2,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+65,C Campher,RP Burl,HT Tector,1,0,1,68,20,23,3,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+66,HT Tector,RP Burl,C Campher,1,0,1,69,33,26,4,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+67,C Campher,RP Burl,HT Tector,2,0,2,71,22,24,5,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+68,C Campher,RP Burl,HT Tector,1,0,1,72,23,25,6,0,,,11,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+69,C Campher,WP Masakadza,HT Tector,0,1,1,73,23,26,1,0,,,12,wides,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+70,C Campher,WP Masakadza,HT Tector,1,0,1,74,24,27,2,0,,,12,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+71,HT Tector,WP Masakadza,C Campher,0,0,0,74,33,27,3,0,,,12,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+72,HT Tector,WP Masakadza,C Campher,2,0,2,76,35,28,4,0,,,12,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+73,HT Tector,WP Masakadza,C Campher,1,0,1,77,36,29,5,0,,,12,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+74,C Campher,WP Masakadza,HT Tector,1,0,1,78,25,28,6,0,,,12,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+75,HT Tector,WP Masakadza,C Campher,0,1,1,79,36,30,7,0,,,12,legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+76,HT Tector,TL Chatara,C Campher,4,0,4,83,40,31,1,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+77,HT Tector,TL Chatara,C Campher,1,0,1,84,41,32,2,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+78,C Campher,TL Chatara,HT Tector,1,0,1,85,26,29,3,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+79,HT Tector,TL Chatara,C Campher,1,0,1,86,42,33,4,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+80,C Campher,TL Chatara,HT Tector,1,0,1,87,27,30,5,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+81,HT Tector,TL Chatara,C Campher,1,0,1,88,43,34,6,0,,,13,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+82,HT Tector,RP Burl,C Campher,1,0,1,89,44,35,1,0,,,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+83,C Campher,RP Burl,HT Tector,0,0,0,89,27,31,2,caught,C Campher,C Madande,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+84,GH Dockrell,RP Burl,HT Tector,1,0,1,90,1,1,3,0,,,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+85,HT Tector,RP Burl,GH Dockrell,1,0,1,91,45,36,4,0,,,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+86,GH Dockrell,RP Burl,HT Tector,1,0,1,92,2,2,5,0,,,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+87,HT Tector,RP Burl,GH Dockrell,1,0,1,93,46,37,6,0,,,14,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+88,HT Tector,W Madhevere,GH Dockrell,1,0,1,94,47,38,1,0,,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+89,GH Dockrell,W Madhevere,HT Tector,1,0,1,95,3,3,2,0,,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+90,HT Tector,W Madhevere,GH Dockrell,0,0,0,95,47,39,3,bowled,HT Tector,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+91,NA Rock,W Madhevere,GH Dockrell,1,0,1,96,1,1,4,0,,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+92,GH Dockrell,W Madhevere,NA Rock,1,0,1,97,4,4,5,0,,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+93,NA Rock,W Madhevere,GH Dockrell,0,0,0,97,1,2,6,0,,,15,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+94,GH Dockrell,RP Burl,NA Rock,1,0,1,98,5,5,1,0,,,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+95,NA Rock,RP Burl,GH Dockrell,1,0,1,99,2,3,2,0,,,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+96,GH Dockrell,RP Burl,NA Rock,1,0,1,100,6,6,3,0,,,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+97,NA Rock,RP Burl,GH Dockrell,0,0,0,100,2,4,4,caught,NA Rock,CR Ervine,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+98,MR Adair,RP Burl,GH Dockrell,2,0,2,102,2,1,5,0,,,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+99,MR Adair,RP Burl,GH Dockrell,4,0,4,106,6,2,6,0,,,16,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+100,GH Dockrell,WP Masakadza,MR Adair,2,0,2,108,8,7,1,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+101,GH Dockrell,WP Masakadza,MR Adair,4,0,4,112,12,8,2,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+102,GH Dockrell,WP Masakadza,MR Adair,1,0,1,113,13,9,3,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+103,MR Adair,WP Masakadza,GH Dockrell,1,0,1,114,7,3,4,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+104,GH Dockrell,WP Masakadza,MR Adair,1,0,1,115,14,10,5,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+105,MR Adair,WP Masakadza,GH Dockrell,2,0,2,117,9,4,6,0,,,17,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+106,GH Dockrell,LM Jongwe,MR Adair,1,0,1,118,15,11,1,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+107,MR Adair,LM Jongwe,GH Dockrell,2,0,2,120,11,5,2,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+108,MR Adair,LM Jongwe,GH Dockrell,1,0,1,121,12,6,3,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+109,GH Dockrell,LM Jongwe,MR Adair,1,0,1,122,16,12,4,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+110,MR Adair,LM Jongwe,GH Dockrell,1,0,1,123,13,7,5,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+111,GH Dockrell,LM Jongwe,MR Adair,2,0,2,125,18,13,6,0,,,18,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+112,MR Adair,TL Chatara,GH Dockrell,0,0,0,125,13,8,1,0,,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+113,MR Adair,TL Chatara,GH Dockrell,1,0,1,126,14,9,2,0,,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+114,GH Dockrell,TL Chatara,MR Adair,2,0,2,128,20,14,3,0,,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+115,GH Dockrell,TL Chatara,MR Adair,2,0,2,130,22,15,4,0,,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+116,GH Dockrell,TL Chatara,MR Adair,1,0,1,131,23,16,5,0,,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+117,MR Adair,TL Chatara,GH Dockrell,0,0,0,131,14,10,6,bowled,MR Adair,,19,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+118,GH Dockrell,LM Jongwe,F Hand,0,0,0,131,23,17,1,caught,GH Dockrell,W Madhevere,20,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+119,BJ McCarthy,LM Jongwe,F Hand,6,0,6,137,6,1,2,0,,,20,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+120,BJ McCarthy,LM Jongwe,F Hand,0,0,0,137,6,2,3,caught,BJ McCarthy,WP Masakadza,20,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+121,B White,LM Jongwe,F Hand,1,0,1,138,1,1,4,0,,,20,-,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+122,F Hand,LM Jongwe,B White,0,2,2,140,0,1,5,0,,,20,legbyes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe
+123,F Hand,LM Jongwe,B White,0,1,1,141,0,2,6,0,,,20,byes,field,Zimbabwe,1,Harare Sports Club,2023-01-15,Ireland,Zimbabwe

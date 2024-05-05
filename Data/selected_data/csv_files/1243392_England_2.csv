@@ -1,132 +1,132 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JJ Roy,B Kumar,JC Buttler,0,0,0,0,0,1,1,0,,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-1,JJ Roy,B Kumar,JC Buttler,0,0,0,0,0,2,2,bowled,JJ Roy,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-2,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,1,3,0,,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-3,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,2,4,0,,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-4,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,3,5,0,,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-5,DJ Malan,B Kumar,JC Buttler,1,0,1,1,1,4,6,0,,,1,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-6,DJ Malan,HH Pandya,JC Buttler,0,0,0,1,1,5,1,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-7,DJ Malan,HH Pandya,JC Buttler,0,1,1,2,1,6,2,0,,,2,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-8,DJ Malan,HH Pandya,JC Buttler,4,0,4,6,5,7,3,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-9,DJ Malan,HH Pandya,JC Buttler,6,0,6,12,11,8,4,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-10,DJ Malan,HH Pandya,JC Buttler,4,0,4,16,15,9,5,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-11,DJ Malan,HH Pandya,JC Buttler,2,0,2,18,17,10,6,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-12,DJ Malan,HH Pandya,JC Buttler,0,1,1,19,17,11,7,0,,,2,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-13,DJ Malan,HH Pandya,JC Buttler,0,0,0,19,17,12,8,0,,,2,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-14,JC Buttler,B Kumar,DJ Malan,0,0,0,19,0,1,1,0,,,3,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-15,JC Buttler,B Kumar,DJ Malan,0,0,0,19,0,2,2,0,,,3,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-16,JC Buttler,B Kumar,DJ Malan,1,0,1,20,1,3,3,0,,,3,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-17,DJ Malan,B Kumar,JC Buttler,0,0,0,20,17,13,4,0,,,3,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-18,DJ Malan,B Kumar,JC Buttler,4,0,4,24,21,14,5,0,,,3,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-19,DJ Malan,B Kumar,JC Buttler,0,4,4,28,21,15,6,0,,,3,{'legbyes': 4},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-20,JC Buttler,Washington Sundar,DJ Malan,1,0,1,29,2,4,1,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-21,DJ Malan,Washington Sundar,JC Buttler,1,0,1,30,22,16,2,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-22,JC Buttler,Washington Sundar,DJ Malan,4,0,4,34,6,5,3,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-23,JC Buttler,Washington Sundar,DJ Malan,4,0,4,38,10,6,4,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-24,JC Buttler,Washington Sundar,DJ Malan,2,0,2,40,12,7,5,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-25,JC Buttler,Washington Sundar,DJ Malan,1,0,1,41,13,8,6,0,,,4,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-26,JC Buttler,SN Thakur,DJ Malan,6,0,6,47,19,9,1,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-27,JC Buttler,SN Thakur,DJ Malan,1,0,1,48,20,10,2,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-28,DJ Malan,SN Thakur,JC Buttler,4,0,4,52,26,17,3,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-29,DJ Malan,SN Thakur,JC Buttler,1,0,1,53,27,18,4,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-30,JC Buttler,SN Thakur,DJ Malan,0,0,0,53,20,11,5,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-31,JC Buttler,SN Thakur,DJ Malan,2,0,2,55,22,12,6,0,,,5,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-32,DJ Malan,T Natarajan,JC Buttler,0,0,0,55,27,19,1,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-33,DJ Malan,T Natarajan,JC Buttler,4,0,4,59,31,20,2,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-34,DJ Malan,T Natarajan,JC Buttler,1,0,1,60,32,21,3,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-35,JC Buttler,T Natarajan,DJ Malan,0,0,0,60,22,13,4,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-36,JC Buttler,T Natarajan,DJ Malan,1,0,1,61,23,14,5,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-37,DJ Malan,T Natarajan,JC Buttler,1,0,1,62,33,22,6,0,,,6,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-38,DJ Malan,SN Thakur,JC Buttler,0,0,0,62,33,23,1,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-39,DJ Malan,SN Thakur,JC Buttler,0,0,0,62,33,24,2,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-40,DJ Malan,SN Thakur,JC Buttler,4,0,4,66,37,25,3,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-41,DJ Malan,SN Thakur,JC Buttler,1,0,1,67,38,26,4,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-42,JC Buttler,SN Thakur,DJ Malan,0,0,0,67,23,15,5,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-43,JC Buttler,SN Thakur,DJ Malan,0,0,0,67,23,16,6,0,,,7,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-44,DJ Malan,RD Chahar,JC Buttler,1,0,1,68,39,27,1,0,,,8,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-45,JC Buttler,RD Chahar,DJ Malan,6,0,6,74,29,17,2,0,,,8,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-46,JC Buttler,RD Chahar,DJ Malan,0,1,1,75,29,18,3,0,,,8,{'legbyes': 1},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-47,DJ Malan,RD Chahar,JC Buttler,1,0,1,76,40,28,4,0,,,8,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-48,JC Buttler,RD Chahar,DJ Malan,0,0,0,76,29,19,5,0,,,8,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-49,JC Buttler,RD Chahar,DJ Malan,6,0,6,82,35,20,6,0,,,8,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-50,DJ Malan,HH Pandya,JC Buttler,1,0,1,83,41,29,1,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-51,JC Buttler,HH Pandya,DJ Malan,1,0,1,84,36,21,2,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-52,DJ Malan,HH Pandya,JC Buttler,0,0,0,84,41,30,3,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-53,DJ Malan,HH Pandya,JC Buttler,0,1,1,85,41,31,4,0,,,9,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-54,DJ Malan,HH Pandya,JC Buttler,4,0,4,89,45,32,5,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-55,DJ Malan,HH Pandya,JC Buttler,1,0,1,90,46,33,6,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-56,JC Buttler,HH Pandya,DJ Malan,1,0,1,91,37,22,7,0,,,9,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-57,JC Buttler,RD Chahar,DJ Malan,6,0,6,97,43,23,1,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-58,JC Buttler,RD Chahar,DJ Malan,0,1,1,98,43,24,2,0,,,10,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-59,JC Buttler,RD Chahar,DJ Malan,2,0,2,100,45,25,3,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-60,JC Buttler,RD Chahar,DJ Malan,1,0,1,101,46,26,4,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-61,DJ Malan,RD Chahar,JC Buttler,1,0,1,102,47,34,5,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-62,JC Buttler,RD Chahar,DJ Malan,1,0,1,103,47,27,6,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-63,DJ Malan,RD Chahar,JC Buttler,1,0,1,104,48,35,7,0,,,10,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-64,DJ Malan,T Natarajan,JC Buttler,4,0,4,108,52,36,1,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-65,DJ Malan,T Natarajan,JC Buttler,0,0,0,108,52,37,2,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-66,DJ Malan,T Natarajan,JC Buttler,6,0,6,114,58,38,3,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-67,DJ Malan,T Natarajan,JC Buttler,4,0,4,118,62,39,4,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-68,DJ Malan,T Natarajan,JC Buttler,1,0,1,119,63,40,5,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-69,JC Buttler,T Natarajan,DJ Malan,1,0,1,120,48,28,6,0,,,11,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-70,JC Buttler,RD Chahar,DJ Malan,0,1,1,121,48,29,1,0,,,12,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-71,JC Buttler,RD Chahar,DJ Malan,1,0,1,122,49,30,2,0,,,12,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-72,DJ Malan,RD Chahar,JC Buttler,0,1,1,123,63,41,3,0,,,12,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-73,DJ Malan,RD Chahar,JC Buttler,1,0,1,124,64,42,4,0,,,12,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-74,JC Buttler,RD Chahar,DJ Malan,0,0,0,124,49,31,5,0,,,12,,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'JC Buttler', 'decision': 'struck down'}",field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-75,JC Buttler,RD Chahar,DJ Malan,1,0,1,125,50,32,6,0,,,12,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-76,DJ Malan,RD Chahar,JC Buttler,0,1,1,126,64,43,7,0,,,12,{'legbyes': 1},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-77,JC Buttler,RD Chahar,DJ Malan,1,0,1,127,51,33,8,0,,,12,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-78,JC Buttler,B Kumar,DJ Malan,0,1,1,128,51,34,1,0,,,13,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-79,JC Buttler,B Kumar,DJ Malan,1,0,1,129,52,35,2,0,,,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-80,DJ Malan,B Kumar,JC Buttler,0,0,0,129,64,44,3,0,,,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-81,DJ Malan,B Kumar,JC Buttler,1,0,1,130,65,45,4,0,,,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-82,JC Buttler,B Kumar,DJ Malan,0,0,0,130,52,36,5,0,,,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-83,JC Buttler,B Kumar,DJ Malan,0,0,0,130,52,37,6,caught,JC Buttler,HH Pandya,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-84,JM Bairstow,B Kumar,DJ Malan,0,0,0,130,0,1,7,0,,,13,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-85,DJ Malan,HH Pandya,JM Bairstow,1,0,1,131,66,46,1,0,,,14,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-86,JM Bairstow,HH Pandya,DJ Malan,1,0,1,132,1,2,2,0,,,14,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-87,DJ Malan,HH Pandya,JM Bairstow,1,0,1,133,67,47,3,0,,,14,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-88,JM Bairstow,HH Pandya,DJ Malan,1,0,1,134,2,3,4,0,,,14,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-89,DJ Malan,HH Pandya,JM Bairstow,0,1,1,135,67,48,5,0,,,14,{'legbyes': 1},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-90,JM Bairstow,HH Pandya,DJ Malan,1,0,1,136,3,4,6,0,,,14,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-91,JM Bairstow,SN Thakur,DJ Malan,0,0,0,136,3,5,1,0,,,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-92,JM Bairstow,SN Thakur,DJ Malan,4,0,4,140,7,6,2,0,,,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-93,JM Bairstow,SN Thakur,DJ Malan,0,0,0,140,7,7,3,caught,JM Bairstow,SA Yadav,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-94,DJ Malan,SN Thakur,EJG Morgan,1,0,1,141,68,49,4,0,,,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-95,EJG Morgan,SN Thakur,DJ Malan,1,0,1,142,1,1,5,0,,,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-96,DJ Malan,SN Thakur,EJG Morgan,0,0,0,142,68,50,6,bowled,DJ Malan,,15,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-97,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,2,1,0,,,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-98,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,3,2,0,,,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-99,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,4,3,caught,EJG Morgan,KL Rahul,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-100,BA Stokes,HH Pandya,CJ Jordan,1,0,1,143,1,1,4,0,,,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-101,CJ Jordan,HH Pandya,BA Stokes,0,0,0,143,0,1,5,0,,,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-102,CJ Jordan,HH Pandya,BA Stokes,0,1,1,144,0,2,6,0,,,16,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-103,CJ Jordan,HH Pandya,BA Stokes,0,0,0,144,0,3,7,0,,,16,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-104,BA Stokes,T Natarajan,CJ Jordan,1,0,1,145,2,2,1,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-105,CJ Jordan,T Natarajan,BA Stokes,1,0,1,146,1,4,2,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-106,BA Stokes,T Natarajan,CJ Jordan,4,0,4,150,6,3,3,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-107,BA Stokes,T Natarajan,CJ Jordan,4,0,4,154,10,4,4,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-108,BA Stokes,T Natarajan,CJ Jordan,2,0,2,156,12,5,5,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-109,BA Stokes,T Natarajan,CJ Jordan,0,0,0,156,12,6,6,0,,,17,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-110,CJ Jordan,B Kumar,BA Stokes,2,0,2,158,3,5,1,0,,,18,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-111,CJ Jordan,B Kumar,BA Stokes,1,0,1,159,4,6,2,0,,,18,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-112,BA Stokes,B Kumar,CJ Jordan,0,0,0,159,12,7,3,0,,,18,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-113,BA Stokes,B Kumar,CJ Jordan,0,1,1,160,12,8,4,0,,,18,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-114,BA Stokes,B Kumar,CJ Jordan,0,0,0,160,12,9,5,0,,,18,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-115,BA Stokes,B Kumar,CJ Jordan,0,1,1,161,12,10,6,0,,,18,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-116,BA Stokes,B Kumar,CJ Jordan,0,1,1,162,12,11,7,0,,,18,{'wides': 1},wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-117,BA Stokes,B Kumar,CJ Jordan,0,1,1,163,12,12,8,0,,,18,{'legbyes': 1},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-118,CJ Jordan,B Kumar,BA Stokes,0,0,0,163,4,7,9,0,,,18,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-119,BA Stokes,T Natarajan,CJ Jordan,0,0,0,163,12,13,1,0,,,19,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-120,BA Stokes,T Natarajan,CJ Jordan,2,0,2,165,14,14,2,0,,,19,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-121,BA Stokes,T Natarajan,CJ Jordan,0,0,0,165,14,15,3,caught,BA Stokes,RR Pant,19,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-122,JC Archer,T Natarajan,CJ Jordan,0,1,1,166,0,1,4,0,,,19,{'legbyes': 1},legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-123,CJ Jordan,T Natarajan,JC Archer,1,0,1,167,5,8,5,0,,,19,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-124,JC Archer,T Natarajan,CJ Jordan,1,0,1,168,1,2,6,run out,JC Archer,,19,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-125,CJ Jordan,SN Thakur,SM Curran,0,0,0,168,5,9,1,0,,,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-126,CJ Jordan,SN Thakur,SM Curran,6,0,6,174,11,10,2,0,,,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-127,CJ Jordan,SN Thakur,SM Curran,0,0,0,174,11,11,3,caught,CJ Jordan,SA Yadav,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-128,SM Curran,SN Thakur,AU Rashid,6,0,6,180,6,1,4,0,,,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-129,SM Curran,SN Thakur,AU Rashid,2,0,2,182,8,2,5,0,,,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
-130,SM Curran,SN Thakur,AU Rashid,6,0,6,188,14,3,6,0,,,20,,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JJ Roy,B Kumar,JC Buttler,0,0,0,0,0,1,1,0,,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+1,JJ Roy,B Kumar,JC Buttler,0,0,0,0,0,2,2,bowled,JJ Roy,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+2,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,1,3,0,,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+3,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,2,4,0,,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+4,DJ Malan,B Kumar,JC Buttler,0,0,0,0,0,3,5,0,,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+5,DJ Malan,B Kumar,JC Buttler,1,0,1,1,1,4,6,0,,,1,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+6,DJ Malan,HH Pandya,JC Buttler,0,0,0,1,1,5,1,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+7,DJ Malan,HH Pandya,JC Buttler,0,1,1,2,1,6,2,0,,,2,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+8,DJ Malan,HH Pandya,JC Buttler,4,0,4,6,5,7,3,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+9,DJ Malan,HH Pandya,JC Buttler,6,0,6,12,11,8,4,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+10,DJ Malan,HH Pandya,JC Buttler,4,0,4,16,15,9,5,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+11,DJ Malan,HH Pandya,JC Buttler,2,0,2,18,17,10,6,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+12,DJ Malan,HH Pandya,JC Buttler,0,1,1,19,17,11,7,0,,,2,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+13,DJ Malan,HH Pandya,JC Buttler,0,0,0,19,17,12,8,0,,,2,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+14,JC Buttler,B Kumar,DJ Malan,0,0,0,19,0,1,1,0,,,3,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+15,JC Buttler,B Kumar,DJ Malan,0,0,0,19,0,2,2,0,,,3,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+16,JC Buttler,B Kumar,DJ Malan,1,0,1,20,1,3,3,0,,,3,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+17,DJ Malan,B Kumar,JC Buttler,0,0,0,20,17,13,4,0,,,3,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+18,DJ Malan,B Kumar,JC Buttler,4,0,4,24,21,14,5,0,,,3,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+19,DJ Malan,B Kumar,JC Buttler,0,4,4,28,21,15,6,0,,,3,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+20,JC Buttler,Washington Sundar,DJ Malan,1,0,1,29,2,4,1,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+21,DJ Malan,Washington Sundar,JC Buttler,1,0,1,30,22,16,2,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+22,JC Buttler,Washington Sundar,DJ Malan,4,0,4,34,6,5,3,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+23,JC Buttler,Washington Sundar,DJ Malan,4,0,4,38,10,6,4,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+24,JC Buttler,Washington Sundar,DJ Malan,2,0,2,40,12,7,5,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+25,JC Buttler,Washington Sundar,DJ Malan,1,0,1,41,13,8,6,0,,,4,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+26,JC Buttler,SN Thakur,DJ Malan,6,0,6,47,19,9,1,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+27,JC Buttler,SN Thakur,DJ Malan,1,0,1,48,20,10,2,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+28,DJ Malan,SN Thakur,JC Buttler,4,0,4,52,26,17,3,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+29,DJ Malan,SN Thakur,JC Buttler,1,0,1,53,27,18,4,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+30,JC Buttler,SN Thakur,DJ Malan,0,0,0,53,20,11,5,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+31,JC Buttler,SN Thakur,DJ Malan,2,0,2,55,22,12,6,0,,,5,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+32,DJ Malan,T Natarajan,JC Buttler,0,0,0,55,27,19,1,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+33,DJ Malan,T Natarajan,JC Buttler,4,0,4,59,31,20,2,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+34,DJ Malan,T Natarajan,JC Buttler,1,0,1,60,32,21,3,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+35,JC Buttler,T Natarajan,DJ Malan,0,0,0,60,22,13,4,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+36,JC Buttler,T Natarajan,DJ Malan,1,0,1,61,23,14,5,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+37,DJ Malan,T Natarajan,JC Buttler,1,0,1,62,33,22,6,0,,,6,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+38,DJ Malan,SN Thakur,JC Buttler,0,0,0,62,33,23,1,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+39,DJ Malan,SN Thakur,JC Buttler,0,0,0,62,33,24,2,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+40,DJ Malan,SN Thakur,JC Buttler,4,0,4,66,37,25,3,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+41,DJ Malan,SN Thakur,JC Buttler,1,0,1,67,38,26,4,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+42,JC Buttler,SN Thakur,DJ Malan,0,0,0,67,23,15,5,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+43,JC Buttler,SN Thakur,DJ Malan,0,0,0,67,23,16,6,0,,,7,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+44,DJ Malan,RD Chahar,JC Buttler,1,0,1,68,39,27,1,0,,,8,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+45,JC Buttler,RD Chahar,DJ Malan,6,0,6,74,29,17,2,0,,,8,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+46,JC Buttler,RD Chahar,DJ Malan,0,1,1,75,29,18,3,0,,,8,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+47,DJ Malan,RD Chahar,JC Buttler,1,0,1,76,40,28,4,0,,,8,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+48,JC Buttler,RD Chahar,DJ Malan,0,0,0,76,29,19,5,0,,,8,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+49,JC Buttler,RD Chahar,DJ Malan,6,0,6,82,35,20,6,0,,,8,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+50,DJ Malan,HH Pandya,JC Buttler,1,0,1,83,41,29,1,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+51,JC Buttler,HH Pandya,DJ Malan,1,0,1,84,36,21,2,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+52,DJ Malan,HH Pandya,JC Buttler,0,0,0,84,41,30,3,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+53,DJ Malan,HH Pandya,JC Buttler,0,1,1,85,41,31,4,0,,,9,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+54,DJ Malan,HH Pandya,JC Buttler,4,0,4,89,45,32,5,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+55,DJ Malan,HH Pandya,JC Buttler,1,0,1,90,46,33,6,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+56,JC Buttler,HH Pandya,DJ Malan,1,0,1,91,37,22,7,0,,,9,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+57,JC Buttler,RD Chahar,DJ Malan,6,0,6,97,43,23,1,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+58,JC Buttler,RD Chahar,DJ Malan,0,1,1,98,43,24,2,0,,,10,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+59,JC Buttler,RD Chahar,DJ Malan,2,0,2,100,45,25,3,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+60,JC Buttler,RD Chahar,DJ Malan,1,0,1,101,46,26,4,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+61,DJ Malan,RD Chahar,JC Buttler,1,0,1,102,47,34,5,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+62,JC Buttler,RD Chahar,DJ Malan,1,0,1,103,47,27,6,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+63,DJ Malan,RD Chahar,JC Buttler,1,0,1,104,48,35,7,0,,,10,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+64,DJ Malan,T Natarajan,JC Buttler,4,0,4,108,52,36,1,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+65,DJ Malan,T Natarajan,JC Buttler,0,0,0,108,52,37,2,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+66,DJ Malan,T Natarajan,JC Buttler,6,0,6,114,58,38,3,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+67,DJ Malan,T Natarajan,JC Buttler,4,0,4,118,62,39,4,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+68,DJ Malan,T Natarajan,JC Buttler,1,0,1,119,63,40,5,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+69,JC Buttler,T Natarajan,DJ Malan,1,0,1,120,48,28,6,0,,,11,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+70,JC Buttler,RD Chahar,DJ Malan,0,1,1,121,48,29,1,0,,,12,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+71,JC Buttler,RD Chahar,DJ Malan,1,0,1,122,49,30,2,0,,,12,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+72,DJ Malan,RD Chahar,JC Buttler,0,1,1,123,63,41,3,0,,,12,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+73,DJ Malan,RD Chahar,JC Buttler,1,0,1,124,64,42,4,0,,,12,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+74,JC Buttler,RD Chahar,DJ Malan,0,0,0,124,49,31,5,0,,,12,-,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'JC Buttler', 'decision': 'struck down'}",field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+75,JC Buttler,RD Chahar,DJ Malan,1,0,1,125,50,32,6,0,,,12,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+76,DJ Malan,RD Chahar,JC Buttler,0,1,1,126,64,43,7,0,,,12,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+77,JC Buttler,RD Chahar,DJ Malan,1,0,1,127,51,33,8,0,,,12,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+78,JC Buttler,B Kumar,DJ Malan,0,1,1,128,51,34,1,0,,,13,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+79,JC Buttler,B Kumar,DJ Malan,1,0,1,129,52,35,2,0,,,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+80,DJ Malan,B Kumar,JC Buttler,0,0,0,129,64,44,3,0,,,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+81,DJ Malan,B Kumar,JC Buttler,1,0,1,130,65,45,4,0,,,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+82,JC Buttler,B Kumar,DJ Malan,0,0,0,130,52,36,5,0,,,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+83,JC Buttler,B Kumar,DJ Malan,0,0,0,130,52,37,6,caught,JC Buttler,HH Pandya,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+84,JM Bairstow,B Kumar,DJ Malan,0,0,0,130,0,1,7,0,,,13,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+85,DJ Malan,HH Pandya,JM Bairstow,1,0,1,131,66,46,1,0,,,14,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+86,JM Bairstow,HH Pandya,DJ Malan,1,0,1,132,1,2,2,0,,,14,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+87,DJ Malan,HH Pandya,JM Bairstow,1,0,1,133,67,47,3,0,,,14,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+88,JM Bairstow,HH Pandya,DJ Malan,1,0,1,134,2,3,4,0,,,14,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+89,DJ Malan,HH Pandya,JM Bairstow,0,1,1,135,67,48,5,0,,,14,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+90,JM Bairstow,HH Pandya,DJ Malan,1,0,1,136,3,4,6,0,,,14,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+91,JM Bairstow,SN Thakur,DJ Malan,0,0,0,136,3,5,1,0,,,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+92,JM Bairstow,SN Thakur,DJ Malan,4,0,4,140,7,6,2,0,,,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+93,JM Bairstow,SN Thakur,DJ Malan,0,0,0,140,7,7,3,caught,JM Bairstow,SA Yadav,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+94,DJ Malan,SN Thakur,EJG Morgan,1,0,1,141,68,49,4,0,,,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+95,EJG Morgan,SN Thakur,DJ Malan,1,0,1,142,1,1,5,0,,,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+96,DJ Malan,SN Thakur,EJG Morgan,0,0,0,142,68,50,6,bowled,DJ Malan,,15,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+97,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,2,1,0,,,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+98,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,3,2,0,,,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+99,EJG Morgan,HH Pandya,BA Stokes,0,0,0,142,1,4,3,caught,EJG Morgan,KL Rahul,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+100,BA Stokes,HH Pandya,CJ Jordan,1,0,1,143,1,1,4,0,,,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+101,CJ Jordan,HH Pandya,BA Stokes,0,0,0,143,0,1,5,0,,,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+102,CJ Jordan,HH Pandya,BA Stokes,0,1,1,144,0,2,6,0,,,16,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+103,CJ Jordan,HH Pandya,BA Stokes,0,0,0,144,0,3,7,0,,,16,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+104,BA Stokes,T Natarajan,CJ Jordan,1,0,1,145,2,2,1,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+105,CJ Jordan,T Natarajan,BA Stokes,1,0,1,146,1,4,2,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+106,BA Stokes,T Natarajan,CJ Jordan,4,0,4,150,6,3,3,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+107,BA Stokes,T Natarajan,CJ Jordan,4,0,4,154,10,4,4,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+108,BA Stokes,T Natarajan,CJ Jordan,2,0,2,156,12,5,5,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+109,BA Stokes,T Natarajan,CJ Jordan,0,0,0,156,12,6,6,0,,,17,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+110,CJ Jordan,B Kumar,BA Stokes,2,0,2,158,3,5,1,0,,,18,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+111,CJ Jordan,B Kumar,BA Stokes,1,0,1,159,4,6,2,0,,,18,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+112,BA Stokes,B Kumar,CJ Jordan,0,0,0,159,12,7,3,0,,,18,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+113,BA Stokes,B Kumar,CJ Jordan,0,1,1,160,12,8,4,0,,,18,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+114,BA Stokes,B Kumar,CJ Jordan,0,0,0,160,12,9,5,0,,,18,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+115,BA Stokes,B Kumar,CJ Jordan,0,1,1,161,12,10,6,0,,,18,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+116,BA Stokes,B Kumar,CJ Jordan,0,1,1,162,12,11,7,0,,,18,wides,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+117,BA Stokes,B Kumar,CJ Jordan,0,1,1,163,12,12,8,0,,,18,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+118,CJ Jordan,B Kumar,BA Stokes,0,0,0,163,4,7,9,0,,,18,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+119,BA Stokes,T Natarajan,CJ Jordan,0,0,0,163,12,13,1,0,,,19,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+120,BA Stokes,T Natarajan,CJ Jordan,2,0,2,165,14,14,2,0,,,19,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+121,BA Stokes,T Natarajan,CJ Jordan,0,0,0,165,14,15,3,caught,BA Stokes,RR Pant,19,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+122,JC Archer,T Natarajan,CJ Jordan,0,1,1,166,0,1,4,0,,,19,legbyes,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+123,CJ Jordan,T Natarajan,JC Archer,1,0,1,167,5,8,5,0,,,19,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+124,JC Archer,T Natarajan,CJ Jordan,1,0,1,168,1,2,6,run out,JC Archer,,19,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+125,CJ Jordan,SN Thakur,SM Curran,0,0,0,168,5,9,1,0,,,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+126,CJ Jordan,SN Thakur,SM Curran,6,0,6,174,11,10,2,0,,,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+127,CJ Jordan,SN Thakur,SM Curran,0,0,0,174,11,11,3,caught,CJ Jordan,SA Yadav,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+128,SM Curran,SN Thakur,AU Rashid,6,0,6,180,6,1,4,0,,,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+129,SM Curran,SN Thakur,AU Rashid,2,0,2,182,8,2,5,0,,,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India
+130,SM Curran,SN Thakur,AU Rashid,6,0,6,188,14,3,6,0,,,20,-,,field,England,2,Narendra Modi Stadium,2021-03-20,England,India

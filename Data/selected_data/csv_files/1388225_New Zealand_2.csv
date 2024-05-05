@@ -1,64 +1,64 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,FH Allen,MA Starc,WA Young,,0,0,0,0,0,1,1,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-1,FH Allen,MA Starc,WA Young,,3,0,3,3,3,2,2,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-2,WA Young,MA Starc,FH Allen,,0,0,0,3,0,1,3,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-3,WA Young,MA Starc,FH Allen,,4,0,4,7,4,2,4,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-4,WA Young,MA Starc,FH Allen,{'legbyes': 1},0,1,1,8,4,3,5,legbyes,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-5,FH Allen,MA Starc,WA Young,,0,0,0,8,3,3,6,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-6,WA Young,MW Short,FH Allen,,6,0,6,14,10,4,1,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-7,WA Young,MW Short,FH Allen,,0,0,0,14,10,5,2,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-8,WA Young,MW Short,FH Allen,,4,0,4,18,14,6,3,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-9,WA Young,MW Short,FH Allen,{'wides': 1},0,1,1,19,14,7,4,wides,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-10,WA Young,MW Short,FH Allen,,0,0,0,19,14,8,5,-,2,caught,WA Young,A Zampa,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-11,TL Seifert,MW Short,FH Allen,,1,0,1,20,1,1,6,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-12,FH Allen,MW Short,TL Seifert,,6,0,6,26,9,4,7,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-13,TL Seifert,SH Johnson,FH Allen,,0,0,0,26,1,2,1,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-14,TL Seifert,SH Johnson,FH Allen,,1,0,1,27,2,3,2,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-15,FH Allen,SH Johnson,TL Seifert,,1,0,1,28,10,5,3,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-16,TL Seifert,SH Johnson,FH Allen,,0,0,0,28,2,4,4,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-17,TL Seifert,SH Johnson,FH Allen,{'wides': 1},0,1,1,29,2,5,5,wides,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-18,TL Seifert,SH Johnson,FH Allen,,0,0,0,29,2,6,6,-,3,caught,TL Seifert,JP Inglis,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-19,GD Phillips,SH Johnson,FH Allen,{'byes': 4},0,4,4,33,0,1,7,byes,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-20,FH Allen,A Zampa,GD Phillips,,1,0,1,34,11,6,1,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-21,GD Phillips,A Zampa,FH Allen,,4,0,4,38,4,2,2,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-22,GD Phillips,A Zampa,FH Allen,,1,0,1,39,5,3,3,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-23,FH Allen,A Zampa,GD Phillips,,1,0,1,40,12,7,4,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-24,GD Phillips,A Zampa,FH Allen,,6,0,6,46,11,4,5,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-25,GD Phillips,A Zampa,FH Allen,,0,0,0,46,11,5,6,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-26,FH Allen,NT Ellis,GD Phillips,,1,0,1,47,13,8,1,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-27,GD Phillips,NT Ellis,FH Allen,,0,0,0,47,11,6,2,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-28,GD Phillips,NT Ellis,FH Allen,,0,0,0,47,11,7,3,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-29,GD Phillips,NT Ellis,FH Allen,,0,0,0,47,11,8,4,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-30,GD Phillips,NT Ellis,FH Allen,,0,0,0,47,11,9,5,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-31,GD Phillips,NT Ellis,FH Allen,,4,0,4,51,15,10,6,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-32,FH Allen,A Zampa,GD Phillips,,0,0,0,51,13,9,1,-,6,caught,FH Allen,MA Starc,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-33,MS Chapman,A Zampa,GD Phillips,,1,0,1,52,1,1,2,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-34,GD Phillips,A Zampa,MS Chapman,,1,0,1,53,16,11,3,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-35,MS Chapman,A Zampa,GD Phillips,,1,0,1,54,2,2,4,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-36,GD Phillips,A Zampa,MS Chapman,,0,0,0,54,16,12,5,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-37,GD Phillips,A Zampa,MS Chapman,,4,0,4,58,20,13,6,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-38,MS Chapman,SH Johnson,GD Phillips,{'legbyes': 1},0,1,1,59,2,3,1,legbyes,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-39,GD Phillips,SH Johnson,MS Chapman,,1,0,1,60,21,14,2,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-40,MS Chapman,SH Johnson,GD Phillips,,2,0,2,62,4,4,3,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-41,MS Chapman,SH Johnson,GD Phillips,{'wides': 1},0,1,1,63,4,5,4,wides,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-42,MS Chapman,SH Johnson,GD Phillips,,1,0,1,64,5,6,5,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-43,GD Phillips,SH Johnson,MS Chapman,,1,0,1,65,22,15,6,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-44,MS Chapman,SH Johnson,GD Phillips,,1,0,1,66,6,7,7,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-45,MS Chapman,MA Starc,GD Phillips,,4,0,4,70,10,8,1,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-46,MS Chapman,MA Starc,GD Phillips,,0,0,0,70,10,9,2,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-47,MS Chapman,MA Starc,GD Phillips,{'legbyes': 1},0,1,1,71,10,10,3,legbyes,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-48,GD Phillips,MA Starc,MS Chapman,,0,0,0,71,22,16,4,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-49,GD Phillips,MA Starc,MS Chapman,,0,0,0,71,22,17,5,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-50,GD Phillips,MA Starc,MS Chapman,,4,0,4,75,26,18,6,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-51,MS Chapman,NT Ellis,GD Phillips,,0,0,0,75,10,11,1,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-52,MS Chapman,NT Ellis,GD Phillips,{'byes': 1},0,1,1,76,10,12,2,byes,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-53,GD Phillips,NT Ellis,MS Chapman,,1,0,1,77,27,19,3,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-54,MS Chapman,NT Ellis,GD Phillips,{'byes': 1},0,1,1,78,10,13,4,byes,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-55,GD Phillips,NT Ellis,MS Chapman,,4,0,4,82,31,20,5,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-56,GD Phillips,NT Ellis,MS Chapman,,1,0,1,83,32,21,6,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-57,GD Phillips,MW Short,MS Chapman,,6,0,6,89,38,22,1,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-58,GD Phillips,MW Short,MS Chapman,,1,0,1,90,39,23,2,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-59,MS Chapman,MW Short,GD Phillips,,1,0,1,91,11,14,3,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-60,GD Phillips,MW Short,MS Chapman,,1,0,1,92,40,24,4,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-61,MS Chapman,MW Short,GD Phillips,,2,0,2,94,13,15,5,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
-62,MS Chapman,MW Short,GD Phillips,,4,0,4,98,17,16,6,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,FH Allen,MA Starc,WA Young,0,0,0,0,0,1,1,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+1,FH Allen,MA Starc,WA Young,3,0,3,3,3,2,2,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+2,WA Young,MA Starc,FH Allen,0,0,0,3,0,1,3,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+3,WA Young,MA Starc,FH Allen,4,0,4,7,4,2,4,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+4,WA Young,MA Starc,FH Allen,0,1,1,8,4,3,5,legbyes,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+5,FH Allen,MA Starc,WA Young,0,0,0,8,3,3,6,-,1,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+6,WA Young,MW Short,FH Allen,6,0,6,14,10,4,1,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+7,WA Young,MW Short,FH Allen,0,0,0,14,10,5,2,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+8,WA Young,MW Short,FH Allen,4,0,4,18,14,6,3,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+9,WA Young,MW Short,FH Allen,0,1,1,19,14,7,4,wides,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+10,WA Young,MW Short,FH Allen,0,0,0,19,14,8,5,-,2,caught,WA Young,A Zampa,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+11,TL Seifert,MW Short,FH Allen,1,0,1,20,1,1,6,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+12,FH Allen,MW Short,TL Seifert,6,0,6,26,9,4,7,-,2,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+13,TL Seifert,SH Johnson,FH Allen,0,0,0,26,1,2,1,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+14,TL Seifert,SH Johnson,FH Allen,1,0,1,27,2,3,2,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+15,FH Allen,SH Johnson,TL Seifert,1,0,1,28,10,5,3,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+16,TL Seifert,SH Johnson,FH Allen,0,0,0,28,2,4,4,-,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+17,TL Seifert,SH Johnson,FH Allen,0,1,1,29,2,5,5,wides,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+18,TL Seifert,SH Johnson,FH Allen,0,0,0,29,2,6,6,-,3,caught,TL Seifert,JP Inglis,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+19,GD Phillips,SH Johnson,FH Allen,0,4,4,33,0,1,7,byes,3,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+20,FH Allen,A Zampa,GD Phillips,1,0,1,34,11,6,1,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+21,GD Phillips,A Zampa,FH Allen,4,0,4,38,4,2,2,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+22,GD Phillips,A Zampa,FH Allen,1,0,1,39,5,3,3,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+23,FH Allen,A Zampa,GD Phillips,1,0,1,40,12,7,4,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+24,GD Phillips,A Zampa,FH Allen,6,0,6,46,11,4,5,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+25,GD Phillips,A Zampa,FH Allen,0,0,0,46,11,5,6,-,4,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+26,FH Allen,NT Ellis,GD Phillips,1,0,1,47,13,8,1,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+27,GD Phillips,NT Ellis,FH Allen,0,0,0,47,11,6,2,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+28,GD Phillips,NT Ellis,FH Allen,0,0,0,47,11,7,3,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+29,GD Phillips,NT Ellis,FH Allen,0,0,0,47,11,8,4,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+30,GD Phillips,NT Ellis,FH Allen,0,0,0,47,11,9,5,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+31,GD Phillips,NT Ellis,FH Allen,4,0,4,51,15,10,6,-,5,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+32,FH Allen,A Zampa,GD Phillips,0,0,0,51,13,9,1,-,6,caught,FH Allen,MA Starc,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+33,MS Chapman,A Zampa,GD Phillips,1,0,1,52,1,1,2,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+34,GD Phillips,A Zampa,MS Chapman,1,0,1,53,16,11,3,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+35,MS Chapman,A Zampa,GD Phillips,1,0,1,54,2,2,4,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+36,GD Phillips,A Zampa,MS Chapman,0,0,0,54,16,12,5,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+37,GD Phillips,A Zampa,MS Chapman,4,0,4,58,20,13,6,-,6,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+38,MS Chapman,SH Johnson,GD Phillips,0,1,1,59,2,3,1,legbyes,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+39,GD Phillips,SH Johnson,MS Chapman,1,0,1,60,21,14,2,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+40,MS Chapman,SH Johnson,GD Phillips,2,0,2,62,4,4,3,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+41,MS Chapman,SH Johnson,GD Phillips,0,1,1,63,4,5,4,wides,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+42,MS Chapman,SH Johnson,GD Phillips,1,0,1,64,5,6,5,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+43,GD Phillips,SH Johnson,MS Chapman,1,0,1,65,22,15,6,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+44,MS Chapman,SH Johnson,GD Phillips,1,0,1,66,6,7,7,-,7,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+45,MS Chapman,MA Starc,GD Phillips,4,0,4,70,10,8,1,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+46,MS Chapman,MA Starc,GD Phillips,0,0,0,70,10,9,2,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+47,MS Chapman,MA Starc,GD Phillips,0,1,1,71,10,10,3,legbyes,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+48,GD Phillips,MA Starc,MS Chapman,0,0,0,71,22,16,4,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+49,GD Phillips,MA Starc,MS Chapman,0,0,0,71,22,17,5,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+50,GD Phillips,MA Starc,MS Chapman,4,0,4,75,26,18,6,-,8,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+51,MS Chapman,NT Ellis,GD Phillips,0,0,0,75,10,11,1,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+52,MS Chapman,NT Ellis,GD Phillips,0,1,1,76,10,12,2,byes,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+53,GD Phillips,NT Ellis,MS Chapman,1,0,1,77,27,19,3,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+54,MS Chapman,NT Ellis,GD Phillips,0,1,1,78,10,13,4,byes,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+55,GD Phillips,NT Ellis,MS Chapman,4,0,4,82,31,20,5,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+56,GD Phillips,NT Ellis,MS Chapman,1,0,1,83,32,21,6,-,9,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+57,GD Phillips,MW Short,MS Chapman,6,0,6,89,38,22,1,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+58,GD Phillips,MW Short,MS Chapman,1,0,1,90,39,23,2,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+59,MS Chapman,MW Short,GD Phillips,1,0,1,91,11,14,3,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+60,GD Phillips,MW Short,MS Chapman,1,0,1,92,40,24,4,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+61,MS Chapman,MW Short,GD Phillips,2,0,2,94,13,15,5,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia
+62,MS Chapman,MW Short,GD Phillips,4,0,4,98,17,16,6,-,10,0,,,field,New Zealand,2,"Eden Park, Auckland",2024-02-25,New Zealand,Australia

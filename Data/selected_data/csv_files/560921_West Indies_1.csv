@@ -1,135 +1,135 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,replacements,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,DR Smith,NL McCullum,CH Gayle,6,0,6,6,6,1,1,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-1,DR Smith,NL McCullum,CH Gayle,0,0,0,6,6,2,2,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-2,DR Smith,NL McCullum,CH Gayle,0,0,0,6,6,3,3,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-3,DR Smith,NL McCullum,CH Gayle,6,0,6,12,12,4,4,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-4,DR Smith,NL McCullum,CH Gayle,0,0,0,12,12,5,5,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-5,DR Smith,NL McCullum,CH Gayle,0,0,0,12,12,6,6,1,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-6,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,1,1,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-7,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,2,2,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-8,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,3,3,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-9,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,4,4,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-10,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,5,5,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-11,CH Gayle,DAJ Bracewell,DR Smith,2,0,2,14,2,6,6,2,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-12,DR Smith,TG Southee,CH Gayle,0,0,0,14,12,7,1,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-13,DR Smith,TG Southee,CH Gayle,1,0,1,15,13,8,2,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-14,CH Gayle,TG Southee,DR Smith,0,1,1,16,2,7,3,3,{'noballs': 1},noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-15,CH Gayle,TG Southee,DR Smith,0,0,0,16,2,8,4,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-16,CH Gayle,TG Southee,DR Smith,4,0,4,20,6,9,5,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-17,CH Gayle,TG Southee,DR Smith,0,0,0,20,6,10,6,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-18,CH Gayle,TG Southee,DR Smith,0,0,0,20,6,11,7,3,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-19,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,20,13,9,1,4,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-20,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,20,13,10,2,4,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-21,DR Smith,DAJ Bracewell,CH Gayle,4,0,4,24,17,11,3,4,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-22,DR Smith,DAJ Bracewell,CH Gayle,0,1,1,25,17,12,4,4,{'legbyes': 1},legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-23,CH Gayle,DAJ Bracewell,DR Smith,0,1,1,26,6,12,5,4,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-24,CH Gayle,DAJ Bracewell,DR Smith,1,0,1,27,7,13,6,4,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-25,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,27,17,13,7,4,,-,bowled,DR Smith,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-26,CH Gayle,TG Southee,J Charles,1,0,1,28,8,14,1,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-27,J Charles,TG Southee,CH Gayle,0,0,0,28,0,1,2,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-28,J Charles,TG Southee,CH Gayle,0,0,0,28,0,2,3,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-29,J Charles,TG Southee,CH Gayle,0,0,0,28,0,3,4,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-30,J Charles,TG Southee,CH Gayle,4,0,4,32,4,4,5,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-31,J Charles,TG Southee,CH Gayle,0,0,0,32,4,5,6,5,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-32,CH Gayle,JDP Oram,J Charles,0,0,0,32,8,15,1,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-33,CH Gayle,JDP Oram,J Charles,0,1,1,33,8,16,2,6,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-34,CH Gayle,JDP Oram,J Charles,0,1,1,34,8,17,3,6,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-35,CH Gayle,JDP Oram,J Charles,1,0,1,35,9,18,4,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-36,J Charles,JDP Oram,CH Gayle,4,0,4,39,8,6,5,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-37,J Charles,JDP Oram,CH Gayle,0,0,0,39,8,7,6,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-38,J Charles,JDP Oram,CH Gayle,0,0,0,39,8,8,7,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-39,J Charles,JDP Oram,CH Gayle,4,0,4,43,12,9,8,6,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-40,CH Gayle,NL McCullum,J Charles,1,0,1,44,10,19,1,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-41,J Charles,NL McCullum,CH Gayle,1,0,1,45,13,10,2,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-42,CH Gayle,NL McCullum,J Charles,0,0,0,45,10,20,3,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-43,CH Gayle,NL McCullum,J Charles,0,0,0,45,10,21,4,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-44,CH Gayle,NL McCullum,J Charles,1,0,1,46,11,22,5,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-45,J Charles,NL McCullum,CH Gayle,0,0,0,46,13,11,6,7,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-46,CH Gayle,RM Hira,J Charles,0,1,1,47,11,23,1,8,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-47,CH Gayle,RM Hira,J Charles,1,0,1,48,12,24,2,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-48,J Charles,RM Hira,CH Gayle,0,0,0,48,13,12,3,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-49,J Charles,RM Hira,CH Gayle,1,0,1,49,14,13,4,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-50,CH Gayle,RM Hira,J Charles,1,0,1,50,13,25,5,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-51,J Charles,RM Hira,CH Gayle,1,0,1,51,15,14,6,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-52,CH Gayle,RM Hira,J Charles,2,0,2,53,15,26,7,8,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-53,J Charles,NL McCullum,CH Gayle,0,1,1,54,15,15,1,9,{'legbyes': 1},legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-54,CH Gayle,NL McCullum,J Charles,1,0,1,55,16,27,2,9,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-55,J Charles,NL McCullum,CH Gayle,2,0,2,57,17,16,3,9,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-56,J Charles,NL McCullum,CH Gayle,0,0,0,57,17,17,4,9,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-57,J Charles,NL McCullum,CH Gayle,1,0,1,58,18,18,5,9,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-58,CH Gayle,NL McCullum,J Charles,1,0,1,59,17,28,6,9,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-59,CH Gayle,RM Hira,J Charles,4,0,4,63,21,29,1,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-60,CH Gayle,RM Hira,J Charles,0,0,0,63,21,30,2,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-61,CH Gayle,RM Hira,J Charles,1,0,1,64,22,31,3,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-62,J Charles,RM Hira,CH Gayle,1,0,1,65,19,19,4,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-63,CH Gayle,RM Hira,J Charles,0,0,0,65,22,32,5,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-64,CH Gayle,RM Hira,J Charles,0,2,2,67,22,33,6,10,{'wides': 2},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-65,J Charles,RM Hira,CH Gayle,0,0,0,67,19,20,7,10,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-66,CH Gayle,NL McCullum,J Charles,4,0,4,71,26,34,1,11,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-67,CH Gayle,NL McCullum,J Charles,4,0,4,75,30,35,2,11,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-68,CH Gayle,NL McCullum,J Charles,1,0,1,76,31,36,3,11,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-69,J Charles,NL McCullum,CH Gayle,0,1,1,77,19,21,4,11,{'byes': 1},byes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-70,CH Gayle,NL McCullum,J Charles,1,0,1,78,32,37,5,11,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-71,J Charles,NL McCullum,CH Gayle,0,0,0,78,19,22,6,11,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-72,CH Gayle,RM Hira,J Charles,6,0,6,84,38,38,1,12,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-73,CH Gayle,RM Hira,J Charles,1,0,1,85,39,39,2,12,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-74,J Charles,KS Williamson,CH Gayle,0,0,0,85,19,23,3,12,,-,0,,,"{'role': [{'in': 'KS Williamson', 'reason': 'injury', 'role': 'bowler'}]}",field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-75,J Charles,KS Williamson,CH Gayle,0,0,0,85,19,24,4,12,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-76,J Charles,KS Williamson,CH Gayle,1,0,1,86,20,25,5,12,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-77,CH Gayle,KS Williamson,J Charles,0,2,2,88,39,40,6,12,{'wides': 2},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-78,J Charles,KS Williamson,CH Gayle,2,0,2,90,22,26,7,12,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-79,CH Gayle,RJ Nicol,J Charles,0,1,1,91,39,41,1,13,{'legbyes': 1},legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-80,J Charles,RJ Nicol,CH Gayle,1,0,1,92,23,27,2,13,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-81,CH Gayle,RJ Nicol,J Charles,6,0,6,98,45,42,3,13,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-82,CH Gayle,RJ Nicol,J Charles,1,0,1,99,46,43,4,13,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-83,J Charles,RJ Nicol,CH Gayle,1,0,1,100,24,28,5,13,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-84,CH Gayle,RJ Nicol,J Charles,0,1,1,101,46,44,6,13,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-85,CH Gayle,RJ Nicol,J Charles,0,0,0,101,46,45,7,13,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-86,J Charles,KS Williamson,CH Gayle,0,0,0,101,24,29,1,14,,-,caught,J Charles,JDP Oram,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-87,CH Gayle,KS Williamson,KA Pollard,1,0,1,102,47,46,2,14,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-88,KA Pollard,KS Williamson,CH Gayle,6,0,6,108,6,1,3,14,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-89,KA Pollard,KS Williamson,CH Gayle,2,0,2,110,8,2,4,14,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-90,KA Pollard,KS Williamson,CH Gayle,6,0,6,116,14,3,5,14,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-91,KA Pollard,KS Williamson,CH Gayle,1,0,1,117,15,4,6,14,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-92,KA Pollard,RJ Nicol,CH Gayle,0,1,1,118,15,5,1,15,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-93,KA Pollard,RJ Nicol,CH Gayle,1,0,1,119,16,6,2,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-94,CH Gayle,RJ Nicol,KA Pollard,0,1,1,120,47,47,3,15,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-95,CH Gayle,RJ Nicol,KA Pollard,1,0,1,121,48,48,4,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-96,KA Pollard,RJ Nicol,CH Gayle,6,0,6,127,22,7,5,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-97,KA Pollard,RJ Nicol,CH Gayle,0,0,0,127,22,8,6,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-98,KA Pollard,RJ Nicol,CH Gayle,0,0,0,127,22,9,7,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-99,KA Pollard,RJ Nicol,CH Gayle,4,0,4,131,26,10,8,15,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-100,CH Gayle,DAJ Bracewell,KA Pollard,1,0,1,132,49,49,1,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-101,KA Pollard,DAJ Bracewell,CH Gayle,2,0,2,134,28,11,2,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-102,KA Pollard,DAJ Bracewell,CH Gayle,1,0,1,135,29,12,3,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-103,CH Gayle,DAJ Bracewell,KA Pollard,1,0,1,136,50,50,4,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-104,KA Pollard,DAJ Bracewell,CH Gayle,4,0,4,140,33,13,5,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-105,KA Pollard,DAJ Bracewell,CH Gayle,4,0,4,144,37,14,6,16,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-106,CH Gayle,JDP Oram,KA Pollard,4,0,4,148,54,51,1,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-107,CH Gayle,JDP Oram,KA Pollard,1,0,1,149,55,52,2,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-108,KA Pollard,JDP Oram,CH Gayle,0,1,1,150,37,15,3,17,{'noballs': 1},noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-109,KA Pollard,JDP Oram,CH Gayle,1,0,1,151,38,16,4,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-110,CH Gayle,JDP Oram,KA Pollard,0,1,1,152,55,53,5,17,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-111,CH Gayle,JDP Oram,KA Pollard,4,0,4,156,59,54,6,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-112,CH Gayle,JDP Oram,KA Pollard,1,1,2,158,60,55,7,17,{'noballs': 1},noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-113,KA Pollard,JDP Oram,CH Gayle,0,0,0,158,38,17,8,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-114,KA Pollard,JDP Oram,CH Gayle,1,0,1,159,39,18,9,17,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-115,KA Pollard,TG Southee,CH Gayle,6,0,6,165,45,19,1,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-116,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,20,2,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-117,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,21,3,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-118,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,22,4,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-119,KA Pollard,TG Southee,CH Gayle,1,0,1,166,46,23,5,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-120,CH Gayle,TG Southee,KA Pollard,2,0,2,168,62,56,6,18,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-121,KA Pollard,DAJ Bracewell,CH Gayle,0,0,0,168,46,24,1,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-122,KA Pollard,DAJ Bracewell,CH Gayle,6,0,6,174,52,25,2,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-123,KA Pollard,DAJ Bracewell,CH Gayle,1,0,1,175,53,26,3,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-124,CH Gayle,DAJ Bracewell,KA Pollard,0,1,1,176,62,57,4,19,{'wides': 1},wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-125,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,182,68,58,5,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-126,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,188,74,59,6,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-127,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,194,80,60,7,19,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-128,KA Pollard,TG Southee,CH Gayle,4,0,4,198,57,27,1,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-129,KA Pollard,TG Southee,CH Gayle,4,0,4,202,61,28,2,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-130,KA Pollard,TG Southee,CH Gayle,1,0,1,203,62,29,3,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-131,CH Gayle,TG Southee,KA Pollard,4,0,4,207,84,61,4,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-132,CH Gayle,TG Southee,KA Pollard,1,0,1,208,85,62,5,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
-133,KA Pollard,TG Southee,CH Gayle,1,0,1,209,63,30,6,20,,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,replacements,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,DR Smith,NL McCullum,CH Gayle,6,0,6,6,6,1,1,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+1,DR Smith,NL McCullum,CH Gayle,0,0,0,6,6,2,2,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+2,DR Smith,NL McCullum,CH Gayle,0,0,0,6,6,3,3,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+3,DR Smith,NL McCullum,CH Gayle,6,0,6,12,12,4,4,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+4,DR Smith,NL McCullum,CH Gayle,0,0,0,12,12,5,5,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+5,DR Smith,NL McCullum,CH Gayle,0,0,0,12,12,6,6,1,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+6,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,1,1,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+7,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,2,2,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+8,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,3,3,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+9,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,4,4,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+10,CH Gayle,DAJ Bracewell,DR Smith,0,0,0,12,0,5,5,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+11,CH Gayle,DAJ Bracewell,DR Smith,2,0,2,14,2,6,6,2,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+12,DR Smith,TG Southee,CH Gayle,0,0,0,14,12,7,1,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+13,DR Smith,TG Southee,CH Gayle,1,0,1,15,13,8,2,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+14,CH Gayle,TG Southee,DR Smith,0,1,1,16,2,7,3,3,noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+15,CH Gayle,TG Southee,DR Smith,0,0,0,16,2,8,4,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+16,CH Gayle,TG Southee,DR Smith,4,0,4,20,6,9,5,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+17,CH Gayle,TG Southee,DR Smith,0,0,0,20,6,10,6,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+18,CH Gayle,TG Southee,DR Smith,0,0,0,20,6,11,7,3,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+19,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,20,13,9,1,4,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+20,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,20,13,10,2,4,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+21,DR Smith,DAJ Bracewell,CH Gayle,4,0,4,24,17,11,3,4,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+22,DR Smith,DAJ Bracewell,CH Gayle,0,1,1,25,17,12,4,4,legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+23,CH Gayle,DAJ Bracewell,DR Smith,0,1,1,26,6,12,5,4,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+24,CH Gayle,DAJ Bracewell,DR Smith,1,0,1,27,7,13,6,4,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+25,DR Smith,DAJ Bracewell,CH Gayle,0,0,0,27,17,13,7,4,-,bowled,DR Smith,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+26,CH Gayle,TG Southee,J Charles,1,0,1,28,8,14,1,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+27,J Charles,TG Southee,CH Gayle,0,0,0,28,0,1,2,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+28,J Charles,TG Southee,CH Gayle,0,0,0,28,0,2,3,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+29,J Charles,TG Southee,CH Gayle,0,0,0,28,0,3,4,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+30,J Charles,TG Southee,CH Gayle,4,0,4,32,4,4,5,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+31,J Charles,TG Southee,CH Gayle,0,0,0,32,4,5,6,5,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+32,CH Gayle,JDP Oram,J Charles,0,0,0,32,8,15,1,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+33,CH Gayle,JDP Oram,J Charles,0,1,1,33,8,16,2,6,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+34,CH Gayle,JDP Oram,J Charles,0,1,1,34,8,17,3,6,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+35,CH Gayle,JDP Oram,J Charles,1,0,1,35,9,18,4,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+36,J Charles,JDP Oram,CH Gayle,4,0,4,39,8,6,5,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+37,J Charles,JDP Oram,CH Gayle,0,0,0,39,8,7,6,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+38,J Charles,JDP Oram,CH Gayle,0,0,0,39,8,8,7,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+39,J Charles,JDP Oram,CH Gayle,4,0,4,43,12,9,8,6,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+40,CH Gayle,NL McCullum,J Charles,1,0,1,44,10,19,1,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+41,J Charles,NL McCullum,CH Gayle,1,0,1,45,13,10,2,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+42,CH Gayle,NL McCullum,J Charles,0,0,0,45,10,20,3,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+43,CH Gayle,NL McCullum,J Charles,0,0,0,45,10,21,4,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+44,CH Gayle,NL McCullum,J Charles,1,0,1,46,11,22,5,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+45,J Charles,NL McCullum,CH Gayle,0,0,0,46,13,11,6,7,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+46,CH Gayle,RM Hira,J Charles,0,1,1,47,11,23,1,8,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+47,CH Gayle,RM Hira,J Charles,1,0,1,48,12,24,2,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+48,J Charles,RM Hira,CH Gayle,0,0,0,48,13,12,3,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+49,J Charles,RM Hira,CH Gayle,1,0,1,49,14,13,4,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+50,CH Gayle,RM Hira,J Charles,1,0,1,50,13,25,5,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+51,J Charles,RM Hira,CH Gayle,1,0,1,51,15,14,6,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+52,CH Gayle,RM Hira,J Charles,2,0,2,53,15,26,7,8,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+53,J Charles,NL McCullum,CH Gayle,0,1,1,54,15,15,1,9,legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+54,CH Gayle,NL McCullum,J Charles,1,0,1,55,16,27,2,9,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+55,J Charles,NL McCullum,CH Gayle,2,0,2,57,17,16,3,9,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+56,J Charles,NL McCullum,CH Gayle,0,0,0,57,17,17,4,9,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+57,J Charles,NL McCullum,CH Gayle,1,0,1,58,18,18,5,9,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+58,CH Gayle,NL McCullum,J Charles,1,0,1,59,17,28,6,9,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+59,CH Gayle,RM Hira,J Charles,4,0,4,63,21,29,1,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+60,CH Gayle,RM Hira,J Charles,0,0,0,63,21,30,2,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+61,CH Gayle,RM Hira,J Charles,1,0,1,64,22,31,3,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+62,J Charles,RM Hira,CH Gayle,1,0,1,65,19,19,4,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+63,CH Gayle,RM Hira,J Charles,0,0,0,65,22,32,5,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+64,CH Gayle,RM Hira,J Charles,0,2,2,67,22,33,6,10,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+65,J Charles,RM Hira,CH Gayle,0,0,0,67,19,20,7,10,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+66,CH Gayle,NL McCullum,J Charles,4,0,4,71,26,34,1,11,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+67,CH Gayle,NL McCullum,J Charles,4,0,4,75,30,35,2,11,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+68,CH Gayle,NL McCullum,J Charles,1,0,1,76,31,36,3,11,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+69,J Charles,NL McCullum,CH Gayle,0,1,1,77,19,21,4,11,byes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+70,CH Gayle,NL McCullum,J Charles,1,0,1,78,32,37,5,11,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+71,J Charles,NL McCullum,CH Gayle,0,0,0,78,19,22,6,11,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+72,CH Gayle,RM Hira,J Charles,6,0,6,84,38,38,1,12,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+73,CH Gayle,RM Hira,J Charles,1,0,1,85,39,39,2,12,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+74,J Charles,KS Williamson,CH Gayle,0,0,0,85,19,23,3,12,-,0,,,"{'role': [{'in': 'KS Williamson', 'reason': 'injury', 'role': 'bowler'}]}",field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+75,J Charles,KS Williamson,CH Gayle,0,0,0,85,19,24,4,12,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+76,J Charles,KS Williamson,CH Gayle,1,0,1,86,20,25,5,12,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+77,CH Gayle,KS Williamson,J Charles,0,2,2,88,39,40,6,12,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+78,J Charles,KS Williamson,CH Gayle,2,0,2,90,22,26,7,12,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+79,CH Gayle,RJ Nicol,J Charles,0,1,1,91,39,41,1,13,legbyes,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+80,J Charles,RJ Nicol,CH Gayle,1,0,1,92,23,27,2,13,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+81,CH Gayle,RJ Nicol,J Charles,6,0,6,98,45,42,3,13,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+82,CH Gayle,RJ Nicol,J Charles,1,0,1,99,46,43,4,13,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+83,J Charles,RJ Nicol,CH Gayle,1,0,1,100,24,28,5,13,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+84,CH Gayle,RJ Nicol,J Charles,0,1,1,101,46,44,6,13,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+85,CH Gayle,RJ Nicol,J Charles,0,0,0,101,46,45,7,13,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+86,J Charles,KS Williamson,CH Gayle,0,0,0,101,24,29,1,14,-,caught,J Charles,JDP Oram,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+87,CH Gayle,KS Williamson,KA Pollard,1,0,1,102,47,46,2,14,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+88,KA Pollard,KS Williamson,CH Gayle,6,0,6,108,6,1,3,14,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+89,KA Pollard,KS Williamson,CH Gayle,2,0,2,110,8,2,4,14,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+90,KA Pollard,KS Williamson,CH Gayle,6,0,6,116,14,3,5,14,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+91,KA Pollard,KS Williamson,CH Gayle,1,0,1,117,15,4,6,14,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+92,KA Pollard,RJ Nicol,CH Gayle,0,1,1,118,15,5,1,15,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+93,KA Pollard,RJ Nicol,CH Gayle,1,0,1,119,16,6,2,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+94,CH Gayle,RJ Nicol,KA Pollard,0,1,1,120,47,47,3,15,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+95,CH Gayle,RJ Nicol,KA Pollard,1,0,1,121,48,48,4,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+96,KA Pollard,RJ Nicol,CH Gayle,6,0,6,127,22,7,5,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+97,KA Pollard,RJ Nicol,CH Gayle,0,0,0,127,22,8,6,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+98,KA Pollard,RJ Nicol,CH Gayle,0,0,0,127,22,9,7,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+99,KA Pollard,RJ Nicol,CH Gayle,4,0,4,131,26,10,8,15,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+100,CH Gayle,DAJ Bracewell,KA Pollard,1,0,1,132,49,49,1,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+101,KA Pollard,DAJ Bracewell,CH Gayle,2,0,2,134,28,11,2,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+102,KA Pollard,DAJ Bracewell,CH Gayle,1,0,1,135,29,12,3,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+103,CH Gayle,DAJ Bracewell,KA Pollard,1,0,1,136,50,50,4,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+104,KA Pollard,DAJ Bracewell,CH Gayle,4,0,4,140,33,13,5,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+105,KA Pollard,DAJ Bracewell,CH Gayle,4,0,4,144,37,14,6,16,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+106,CH Gayle,JDP Oram,KA Pollard,4,0,4,148,54,51,1,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+107,CH Gayle,JDP Oram,KA Pollard,1,0,1,149,55,52,2,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+108,KA Pollard,JDP Oram,CH Gayle,0,1,1,150,37,15,3,17,noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+109,KA Pollard,JDP Oram,CH Gayle,1,0,1,151,38,16,4,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+110,CH Gayle,JDP Oram,KA Pollard,0,1,1,152,55,53,5,17,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+111,CH Gayle,JDP Oram,KA Pollard,4,0,4,156,59,54,6,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+112,CH Gayle,JDP Oram,KA Pollard,1,1,2,158,60,55,7,17,noballs,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+113,KA Pollard,JDP Oram,CH Gayle,0,0,0,158,38,17,8,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+114,KA Pollard,JDP Oram,CH Gayle,1,0,1,159,39,18,9,17,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+115,KA Pollard,TG Southee,CH Gayle,6,0,6,165,45,19,1,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+116,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,20,2,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+117,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,21,3,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+118,KA Pollard,TG Southee,CH Gayle,0,0,0,165,45,22,4,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+119,KA Pollard,TG Southee,CH Gayle,1,0,1,166,46,23,5,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+120,CH Gayle,TG Southee,KA Pollard,2,0,2,168,62,56,6,18,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+121,KA Pollard,DAJ Bracewell,CH Gayle,0,0,0,168,46,24,1,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+122,KA Pollard,DAJ Bracewell,CH Gayle,6,0,6,174,52,25,2,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+123,KA Pollard,DAJ Bracewell,CH Gayle,1,0,1,175,53,26,3,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+124,CH Gayle,DAJ Bracewell,KA Pollard,0,1,1,176,62,57,4,19,wides,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+125,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,182,68,58,5,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+126,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,188,74,59,6,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+127,CH Gayle,DAJ Bracewell,KA Pollard,6,0,6,194,80,60,7,19,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+128,KA Pollard,TG Southee,CH Gayle,4,0,4,198,57,27,1,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+129,KA Pollard,TG Southee,CH Gayle,4,0,4,202,61,28,2,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+130,KA Pollard,TG Southee,CH Gayle,1,0,1,203,62,29,3,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+131,CH Gayle,TG Southee,KA Pollard,4,0,4,207,84,61,4,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+132,CH Gayle,TG Southee,KA Pollard,1,0,1,208,85,62,5,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand
+133,KA Pollard,TG Southee,CH Gayle,1,0,1,209,63,30,6,20,-,0,,,,field,New Zealand,1,Central Broward Regional Park Stadium Turf Ground,2012-06-30,West Indies,New Zealand

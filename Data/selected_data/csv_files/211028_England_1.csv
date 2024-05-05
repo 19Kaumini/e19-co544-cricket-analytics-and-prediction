@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,ME Trescothick,B Lee,GO Jones,,0,0,0,0,0,1,1,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-1,ME Trescothick,B Lee,GO Jones,,1,0,1,1,1,2,2,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-2,GO Jones,B Lee,ME Trescothick,,0,0,0,1,0,1,3,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-3,GO Jones,B Lee,ME Trescothick,,0,0,0,1,0,2,4,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-4,GO Jones,B Lee,ME Trescothick,,0,0,0,1,0,3,5,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-5,GO Jones,B Lee,ME Trescothick,{'noballs': 1},0,1,1,2,0,4,6,noballs,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-6,GO Jones,B Lee,ME Trescothick,,2,0,2,4,2,5,7,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-7,ME Trescothick,GD McGrath,GO Jones,,0,0,0,4,1,3,1,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-8,ME Trescothick,GD McGrath,GO Jones,,0,0,0,4,1,4,2,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-9,ME Trescothick,GD McGrath,GO Jones,{'wides': 1},0,1,1,5,1,5,3,wides,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-10,ME Trescothick,GD McGrath,GO Jones,,0,0,0,5,1,6,4,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-11,ME Trescothick,GD McGrath,GO Jones,,0,0,0,5,1,7,5,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-12,ME Trescothick,GD McGrath,GO Jones,,0,0,0,5,1,8,6,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-13,ME Trescothick,GD McGrath,GO Jones,,1,0,1,6,2,9,7,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-14,ME Trescothick,B Lee,GO Jones,,4,0,4,10,6,10,1,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-15,ME Trescothick,B Lee,GO Jones,,1,0,1,11,7,11,2,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-16,GO Jones,B Lee,ME Trescothick,,0,0,0,11,2,6,3,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-17,GO Jones,B Lee,ME Trescothick,,4,0,4,15,6,7,4,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-18,GO Jones,B Lee,ME Trescothick,,4,0,4,19,10,8,5,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-19,GO Jones,B Lee,ME Trescothick,,1,0,1,20,11,9,6,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-20,GO Jones,GD McGrath,ME Trescothick,,0,0,0,20,11,10,1,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-21,GO Jones,GD McGrath,ME Trescothick,,4,0,4,24,15,11,2,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-22,GO Jones,GD McGrath,ME Trescothick,,4,0,4,28,19,12,3,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-23,GO Jones,GD McGrath,ME Trescothick,,0,0,0,28,19,13,4,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-24,GO Jones,GD McGrath,ME Trescothick,,0,0,0,28,19,14,5,-,4,caught,GO Jones,MS Kasprowicz,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-25,ME Trescothick,GD McGrath,A Flintoff,,1,0,1,29,8,12,6,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-26,ME Trescothick,B Lee,A Flintoff,,1,0,1,30,9,13,1,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-27,A Flintoff,B Lee,ME Trescothick,{'noballs': 1},1,1,2,32,1,1,2,noballs,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-28,ME Trescothick,B Lee,A Flintoff,,4,0,4,36,13,14,3,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-29,ME Trescothick,B Lee,A Flintoff,,1,0,1,37,14,15,4,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-30,A Flintoff,B Lee,ME Trescothick,{'wides': 1},0,1,1,38,1,2,5,wides,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-31,A Flintoff,B Lee,ME Trescothick,,1,0,1,39,2,3,6,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-32,ME Trescothick,B Lee,A Flintoff,{'legbyes': 1},0,1,1,40,14,16,7,legbyes,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-33,A Flintoff,B Lee,ME Trescothick,,3,0,3,43,5,4,8,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-34,A Flintoff,MS Kasprowicz,ME Trescothick,,1,0,1,44,6,5,1,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-35,ME Trescothick,MS Kasprowicz,A Flintoff,,0,0,0,44,14,17,2,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-36,ME Trescothick,MS Kasprowicz,A Flintoff,,4,0,4,48,18,18,3,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-37,ME Trescothick,MS Kasprowicz,A Flintoff,,1,0,1,49,19,19,4,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-38,A Flintoff,MS Kasprowicz,ME Trescothick,,0,0,0,49,6,6,5,-,6,caught,A Flintoff,A Symonds,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-39,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,50,1,1,6,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-40,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,51,2,2,1,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-41,ME Trescothick,JN Gillespie,KP Pietersen,,0,0,0,51,19,20,2,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-42,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,52,20,21,3,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-43,KP Pietersen,JN Gillespie,ME Trescothick,,0,0,0,52,2,3,4,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-44,KP Pietersen,JN Gillespie,ME Trescothick,,4,0,4,56,6,4,5,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-45,KP Pietersen,JN Gillespie,ME Trescothick,,2,0,2,58,8,5,6,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-46,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,59,21,22,1,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-47,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,63,12,6,2,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-48,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,65,14,7,3,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-49,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,66,15,8,4,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-50,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,67,22,23,5,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-51,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,68,16,9,6,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-52,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,69,17,10,1,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-53,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,70,23,24,2,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-54,KP Pietersen,JN Gillespie,ME Trescothick,,1,0,1,71,18,11,3,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-55,ME Trescothick,JN Gillespie,KP Pietersen,,4,0,4,75,27,25,4,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-56,ME Trescothick,JN Gillespie,KP Pietersen,,1,0,1,76,28,26,5,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-57,KP Pietersen,JN Gillespie,ME Trescothick,,6,0,6,82,24,12,6,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-58,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,83,29,27,1,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-59,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,85,26,13,2,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-60,KP Pietersen,MS Kasprowicz,ME Trescothick,,4,0,4,89,30,14,3,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-61,KP Pietersen,MS Kasprowicz,ME Trescothick,,1,0,1,90,31,15,4,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-62,ME Trescothick,MS Kasprowicz,KP Pietersen,,1,0,1,91,30,28,5,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-63,KP Pietersen,MS Kasprowicz,ME Trescothick,,2,0,2,93,33,16,6,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-64,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,94,31,29,1,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-65,KP Pietersen,MJ Clarke,ME Trescothick,,1,0,1,95,34,17,2,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-66,ME Trescothick,MJ Clarke,KP Pietersen,,4,0,4,99,35,30,3,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-67,ME Trescothick,MJ Clarke,KP Pietersen,,1,0,1,100,36,31,4,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-68,KP Pietersen,MJ Clarke,ME Trescothick,,0,0,0,100,34,18,5,-,11,caught,KP Pietersen,ML Hayden,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-69,ME Trescothick,MJ Clarke,MP Vaughan,,1,0,1,101,37,32,6,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-70,ME Trescothick,A Symonds,MP Vaughan,,1,0,1,102,38,33,1,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-71,MP Vaughan,A Symonds,ME Trescothick,,0,0,0,102,0,1,2,-,12,caught,MP Vaughan,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-72,PD Collingwood,A Symonds,ME Trescothick,,0,0,0,102,0,1,3,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-73,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,103,1,2,4,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-74,ME Trescothick,A Symonds,PD Collingwood,,1,0,1,104,39,34,5,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-75,PD Collingwood,A Symonds,ME Trescothick,,1,0,1,105,2,3,6,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-76,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,106,3,4,1,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-77,ME Trescothick,MJ Clarke,PD Collingwood,,0,0,0,106,39,35,2,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-78,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,107,40,36,3,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-79,PD Collingwood,MJ Clarke,ME Trescothick,,0,0,0,107,3,5,4,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-80,PD Collingwood,MJ Clarke,ME Trescothick,,1,0,1,108,4,6,5,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-81,ME Trescothick,MJ Clarke,PD Collingwood,,1,0,1,109,41,37,6,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-82,ME Trescothick,A Symonds,PD Collingwood,,0,0,0,109,41,38,1,-,14,caught,ME Trescothick,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-83,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,109,4,7,2,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-84,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,110,5,8,3,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-85,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,110,0,1,4,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-86,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,111,1,2,5,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-87,PD Collingwood,A Symonds,AJ Strauss,,0,0,0,111,5,9,6,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-88,AJ Strauss,MJ Clarke,PD Collingwood,,3,0,3,114,4,3,1,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-89,PD Collingwood,MJ Clarke,AJ Strauss,,2,0,2,116,7,10,2,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-90,PD Collingwood,MJ Clarke,AJ Strauss,,1,0,1,117,8,11,3,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-91,AJ Strauss,MJ Clarke,PD Collingwood,,0,0,0,117,4,4,4,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-92,AJ Strauss,MJ Clarke,PD Collingwood,,1,0,1,118,5,5,5,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-93,PD Collingwood,MJ Clarke,AJ Strauss,,6,0,6,124,14,12,6,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-94,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,125,6,6,1,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-95,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,126,15,13,2,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-96,AJ Strauss,A Symonds,PD Collingwood,,0,0,0,126,6,7,3,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-97,AJ Strauss,A Symonds,PD Collingwood,,1,0,1,127,7,8,4,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-98,PD Collingwood,A Symonds,AJ Strauss,,4,0,4,131,19,14,5,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-99,PD Collingwood,A Symonds,AJ Strauss,,1,0,1,132,20,15,6,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-100,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,133,21,16,1,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-101,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,133,7,9,2,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-102,AJ Strauss,JN Gillespie,PD Collingwood,,4,0,4,137,11,10,3,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-103,AJ Strauss,JN Gillespie,PD Collingwood,{'wides': 1},0,1,1,138,11,11,4,wides,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-104,AJ Strauss,JN Gillespie,PD Collingwood,,1,0,1,139,12,12,5,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-105,PD Collingwood,JN Gillespie,AJ Strauss,,4,0,4,143,25,17,6,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-106,PD Collingwood,JN Gillespie,AJ Strauss,,6,0,6,149,31,18,7,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-107,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,151,14,13,1,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-108,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,152,15,14,2,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-109,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,153,32,19,3,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-110,AJ Strauss,GD McGrath,PD Collingwood,,2,0,2,155,17,15,4,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-111,AJ Strauss,GD McGrath,PD Collingwood,,1,0,1,156,18,16,5,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-112,PD Collingwood,GD McGrath,AJ Strauss,,1,0,1,157,33,20,6,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-113,PD Collingwood,JN Gillespie,AJ Strauss,,1,0,1,158,34,21,1,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-114,AJ Strauss,JN Gillespie,PD Collingwood,,0,0,0,158,18,17,2,-,19,bowled,AJ Strauss,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-115,VS Solanki,JN Gillespie,PD Collingwood,,1,0,1,159,1,1,3,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-116,PD Collingwood,JN Gillespie,VS Solanki,,0,0,0,159,34,22,4,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-117,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,163,38,23,5,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-118,PD Collingwood,JN Gillespie,VS Solanki,,4,0,4,167,42,24,6,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-119,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,169,3,2,1,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-120,VS Solanki,GD McGrath,PD Collingwood,,4,0,4,173,7,3,2,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-121,VS Solanki,GD McGrath,PD Collingwood,,2,0,2,175,9,4,3,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-122,VS Solanki,GD McGrath,PD Collingwood,,0,0,0,175,9,5,4,-,20,caught,VS Solanki,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-123,PD Collingwood,GD McGrath,J Lewis,,4,0,4,179,46,25,5,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
-124,PD Collingwood,GD McGrath,J Lewis,,0,0,0,179,46,26,6,-,20,caught,PD Collingwood,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,ME Trescothick,B Lee,GO Jones,0,0,0,0,0,1,1,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+1,ME Trescothick,B Lee,GO Jones,1,0,1,1,1,2,2,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+2,GO Jones,B Lee,ME Trescothick,0,0,0,1,0,1,3,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+3,GO Jones,B Lee,ME Trescothick,0,0,0,1,0,2,4,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+4,GO Jones,B Lee,ME Trescothick,0,0,0,1,0,3,5,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+5,GO Jones,B Lee,ME Trescothick,0,1,1,2,0,4,6,noballs,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+6,GO Jones,B Lee,ME Trescothick,2,0,2,4,2,5,7,-,1,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+7,ME Trescothick,GD McGrath,GO Jones,0,0,0,4,1,3,1,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+8,ME Trescothick,GD McGrath,GO Jones,0,0,0,4,1,4,2,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+9,ME Trescothick,GD McGrath,GO Jones,0,1,1,5,1,5,3,wides,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+10,ME Trescothick,GD McGrath,GO Jones,0,0,0,5,1,6,4,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+11,ME Trescothick,GD McGrath,GO Jones,0,0,0,5,1,7,5,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+12,ME Trescothick,GD McGrath,GO Jones,0,0,0,5,1,8,6,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+13,ME Trescothick,GD McGrath,GO Jones,1,0,1,6,2,9,7,-,2,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+14,ME Trescothick,B Lee,GO Jones,4,0,4,10,6,10,1,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+15,ME Trescothick,B Lee,GO Jones,1,0,1,11,7,11,2,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+16,GO Jones,B Lee,ME Trescothick,0,0,0,11,2,6,3,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+17,GO Jones,B Lee,ME Trescothick,4,0,4,15,6,7,4,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+18,GO Jones,B Lee,ME Trescothick,4,0,4,19,10,8,5,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+19,GO Jones,B Lee,ME Trescothick,1,0,1,20,11,9,6,-,3,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+20,GO Jones,GD McGrath,ME Trescothick,0,0,0,20,11,10,1,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+21,GO Jones,GD McGrath,ME Trescothick,4,0,4,24,15,11,2,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+22,GO Jones,GD McGrath,ME Trescothick,4,0,4,28,19,12,3,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+23,GO Jones,GD McGrath,ME Trescothick,0,0,0,28,19,13,4,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+24,GO Jones,GD McGrath,ME Trescothick,0,0,0,28,19,14,5,-,4,caught,GO Jones,MS Kasprowicz,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+25,ME Trescothick,GD McGrath,A Flintoff,1,0,1,29,8,12,6,-,4,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+26,ME Trescothick,B Lee,A Flintoff,1,0,1,30,9,13,1,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+27,A Flintoff,B Lee,ME Trescothick,1,1,2,32,1,1,2,noballs,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+28,ME Trescothick,B Lee,A Flintoff,4,0,4,36,13,14,3,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+29,ME Trescothick,B Lee,A Flintoff,1,0,1,37,14,15,4,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+30,A Flintoff,B Lee,ME Trescothick,0,1,1,38,1,2,5,wides,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+31,A Flintoff,B Lee,ME Trescothick,1,0,1,39,2,3,6,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+32,ME Trescothick,B Lee,A Flintoff,0,1,1,40,14,16,7,legbyes,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+33,A Flintoff,B Lee,ME Trescothick,3,0,3,43,5,4,8,-,5,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+34,A Flintoff,MS Kasprowicz,ME Trescothick,1,0,1,44,6,5,1,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+35,ME Trescothick,MS Kasprowicz,A Flintoff,0,0,0,44,14,17,2,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+36,ME Trescothick,MS Kasprowicz,A Flintoff,4,0,4,48,18,18,3,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+37,ME Trescothick,MS Kasprowicz,A Flintoff,1,0,1,49,19,19,4,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+38,A Flintoff,MS Kasprowicz,ME Trescothick,0,0,0,49,6,6,5,-,6,caught,A Flintoff,A Symonds,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+39,KP Pietersen,MS Kasprowicz,ME Trescothick,1,0,1,50,1,1,6,-,6,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+40,KP Pietersen,JN Gillespie,ME Trescothick,1,0,1,51,2,2,1,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+41,ME Trescothick,JN Gillespie,KP Pietersen,0,0,0,51,19,20,2,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+42,ME Trescothick,JN Gillespie,KP Pietersen,1,0,1,52,20,21,3,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+43,KP Pietersen,JN Gillespie,ME Trescothick,0,0,0,52,2,3,4,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+44,KP Pietersen,JN Gillespie,ME Trescothick,4,0,4,56,6,4,5,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+45,KP Pietersen,JN Gillespie,ME Trescothick,2,0,2,58,8,5,6,-,7,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+46,ME Trescothick,MS Kasprowicz,KP Pietersen,1,0,1,59,21,22,1,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+47,KP Pietersen,MS Kasprowicz,ME Trescothick,4,0,4,63,12,6,2,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+48,KP Pietersen,MS Kasprowicz,ME Trescothick,2,0,2,65,14,7,3,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+49,KP Pietersen,MS Kasprowicz,ME Trescothick,1,0,1,66,15,8,4,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+50,ME Trescothick,MS Kasprowicz,KP Pietersen,1,0,1,67,22,23,5,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+51,KP Pietersen,MS Kasprowicz,ME Trescothick,1,0,1,68,16,9,6,-,8,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+52,KP Pietersen,JN Gillespie,ME Trescothick,1,0,1,69,17,10,1,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+53,ME Trescothick,JN Gillespie,KP Pietersen,1,0,1,70,23,24,2,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+54,KP Pietersen,JN Gillespie,ME Trescothick,1,0,1,71,18,11,3,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+55,ME Trescothick,JN Gillespie,KP Pietersen,4,0,4,75,27,25,4,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+56,ME Trescothick,JN Gillespie,KP Pietersen,1,0,1,76,28,26,5,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+57,KP Pietersen,JN Gillespie,ME Trescothick,6,0,6,82,24,12,6,-,9,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+58,ME Trescothick,MS Kasprowicz,KP Pietersen,1,0,1,83,29,27,1,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+59,KP Pietersen,MS Kasprowicz,ME Trescothick,2,0,2,85,26,13,2,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+60,KP Pietersen,MS Kasprowicz,ME Trescothick,4,0,4,89,30,14,3,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+61,KP Pietersen,MS Kasprowicz,ME Trescothick,1,0,1,90,31,15,4,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+62,ME Trescothick,MS Kasprowicz,KP Pietersen,1,0,1,91,30,28,5,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+63,KP Pietersen,MS Kasprowicz,ME Trescothick,2,0,2,93,33,16,6,-,10,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+64,ME Trescothick,MJ Clarke,KP Pietersen,1,0,1,94,31,29,1,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+65,KP Pietersen,MJ Clarke,ME Trescothick,1,0,1,95,34,17,2,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+66,ME Trescothick,MJ Clarke,KP Pietersen,4,0,4,99,35,30,3,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+67,ME Trescothick,MJ Clarke,KP Pietersen,1,0,1,100,36,31,4,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+68,KP Pietersen,MJ Clarke,ME Trescothick,0,0,0,100,34,18,5,-,11,caught,KP Pietersen,ML Hayden,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+69,ME Trescothick,MJ Clarke,MP Vaughan,1,0,1,101,37,32,6,-,11,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+70,ME Trescothick,A Symonds,MP Vaughan,1,0,1,102,38,33,1,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+71,MP Vaughan,A Symonds,ME Trescothick,0,0,0,102,0,1,2,-,12,caught,MP Vaughan,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+72,PD Collingwood,A Symonds,ME Trescothick,0,0,0,102,0,1,3,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+73,PD Collingwood,A Symonds,ME Trescothick,1,0,1,103,1,2,4,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+74,ME Trescothick,A Symonds,PD Collingwood,1,0,1,104,39,34,5,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+75,PD Collingwood,A Symonds,ME Trescothick,1,0,1,105,2,3,6,-,12,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+76,PD Collingwood,MJ Clarke,ME Trescothick,1,0,1,106,3,4,1,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+77,ME Trescothick,MJ Clarke,PD Collingwood,0,0,0,106,39,35,2,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+78,ME Trescothick,MJ Clarke,PD Collingwood,1,0,1,107,40,36,3,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+79,PD Collingwood,MJ Clarke,ME Trescothick,0,0,0,107,3,5,4,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+80,PD Collingwood,MJ Clarke,ME Trescothick,1,0,1,108,4,6,5,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+81,ME Trescothick,MJ Clarke,PD Collingwood,1,0,1,109,41,37,6,-,13,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+82,ME Trescothick,A Symonds,PD Collingwood,0,0,0,109,41,38,1,-,14,caught,ME Trescothick,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+83,PD Collingwood,A Symonds,AJ Strauss,0,0,0,109,4,7,2,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+84,PD Collingwood,A Symonds,AJ Strauss,1,0,1,110,5,8,3,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+85,AJ Strauss,A Symonds,PD Collingwood,0,0,0,110,0,1,4,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+86,AJ Strauss,A Symonds,PD Collingwood,1,0,1,111,1,2,5,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+87,PD Collingwood,A Symonds,AJ Strauss,0,0,0,111,5,9,6,-,14,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+88,AJ Strauss,MJ Clarke,PD Collingwood,3,0,3,114,4,3,1,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+89,PD Collingwood,MJ Clarke,AJ Strauss,2,0,2,116,7,10,2,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+90,PD Collingwood,MJ Clarke,AJ Strauss,1,0,1,117,8,11,3,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+91,AJ Strauss,MJ Clarke,PD Collingwood,0,0,0,117,4,4,4,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+92,AJ Strauss,MJ Clarke,PD Collingwood,1,0,1,118,5,5,5,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+93,PD Collingwood,MJ Clarke,AJ Strauss,6,0,6,124,14,12,6,-,15,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+94,AJ Strauss,A Symonds,PD Collingwood,1,0,1,125,6,6,1,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+95,PD Collingwood,A Symonds,AJ Strauss,1,0,1,126,15,13,2,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+96,AJ Strauss,A Symonds,PD Collingwood,0,0,0,126,6,7,3,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+97,AJ Strauss,A Symonds,PD Collingwood,1,0,1,127,7,8,4,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+98,PD Collingwood,A Symonds,AJ Strauss,4,0,4,131,19,14,5,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+99,PD Collingwood,A Symonds,AJ Strauss,1,0,1,132,20,15,6,-,16,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+100,PD Collingwood,JN Gillespie,AJ Strauss,1,0,1,133,21,16,1,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+101,AJ Strauss,JN Gillespie,PD Collingwood,0,0,0,133,7,9,2,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+102,AJ Strauss,JN Gillespie,PD Collingwood,4,0,4,137,11,10,3,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+103,AJ Strauss,JN Gillespie,PD Collingwood,0,1,1,138,11,11,4,wides,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+104,AJ Strauss,JN Gillespie,PD Collingwood,1,0,1,139,12,12,5,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+105,PD Collingwood,JN Gillespie,AJ Strauss,4,0,4,143,25,17,6,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+106,PD Collingwood,JN Gillespie,AJ Strauss,6,0,6,149,31,18,7,-,17,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+107,AJ Strauss,GD McGrath,PD Collingwood,2,0,2,151,14,13,1,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+108,AJ Strauss,GD McGrath,PD Collingwood,1,0,1,152,15,14,2,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+109,PD Collingwood,GD McGrath,AJ Strauss,1,0,1,153,32,19,3,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+110,AJ Strauss,GD McGrath,PD Collingwood,2,0,2,155,17,15,4,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+111,AJ Strauss,GD McGrath,PD Collingwood,1,0,1,156,18,16,5,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+112,PD Collingwood,GD McGrath,AJ Strauss,1,0,1,157,33,20,6,-,18,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+113,PD Collingwood,JN Gillespie,AJ Strauss,1,0,1,158,34,21,1,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+114,AJ Strauss,JN Gillespie,PD Collingwood,0,0,0,158,18,17,2,-,19,bowled,AJ Strauss,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+115,VS Solanki,JN Gillespie,PD Collingwood,1,0,1,159,1,1,3,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+116,PD Collingwood,JN Gillespie,VS Solanki,0,0,0,159,34,22,4,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+117,PD Collingwood,JN Gillespie,VS Solanki,4,0,4,163,38,23,5,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+118,PD Collingwood,JN Gillespie,VS Solanki,4,0,4,167,42,24,6,-,19,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+119,VS Solanki,GD McGrath,PD Collingwood,2,0,2,169,3,2,1,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+120,VS Solanki,GD McGrath,PD Collingwood,4,0,4,173,7,3,2,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+121,VS Solanki,GD McGrath,PD Collingwood,2,0,2,175,9,4,3,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+122,VS Solanki,GD McGrath,PD Collingwood,0,0,0,175,9,5,4,-,20,caught,VS Solanki,MEK Hussey,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+123,PD Collingwood,GD McGrath,J Lewis,4,0,4,179,46,25,5,-,20,0,,,bat,England,1,The Rose Bowl,2005-06-13,England,Australia
+124,PD Collingwood,GD McGrath,J Lewis,0,0,0,179,46,26,6,-,20,caught,PD Collingwood,RT Ponting,bat,England,1,The Rose Bowl,2005-06-13,England,Australia

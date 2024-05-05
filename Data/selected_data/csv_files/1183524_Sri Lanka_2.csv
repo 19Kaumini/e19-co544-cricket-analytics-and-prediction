@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,MD Gunathilaka,MA Starc,BKG Mendis,0,0,0,0,0,1,1,0,,,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-1,MD Gunathilaka,MA Starc,BKG Mendis,1,0,1,1,1,2,2,0,,,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-2,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,1,3,0,,,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-3,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,2,4,0,,,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-4,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,3,5,caught,BKG Mendis,AJ Turner,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-5,PBB Rajapaksa,MA Starc,MD Gunathilaka,0,0,0,1,0,1,6,0,,,1,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-6,MD Gunathilaka,KW Richardson,PBB Rajapaksa,1,0,1,2,2,3,1,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-7,PBB Rajapaksa,KW Richardson,MD Gunathilaka,0,0,0,2,0,2,2,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-8,PBB Rajapaksa,KW Richardson,MD Gunathilaka,1,0,1,3,1,3,3,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-9,MD Gunathilaka,KW Richardson,PBB Rajapaksa,0,0,0,3,2,4,4,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-10,MD Gunathilaka,KW Richardson,PBB Rajapaksa,0,0,0,3,2,5,5,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-11,MD Gunathilaka,KW Richardson,PBB Rajapaksa,1,0,1,4,3,6,6,0,,,2,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-12,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,4,3,7,1,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-13,MD Gunathilaka,MA Starc,PBB Rajapaksa,4,0,4,8,7,8,2,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-14,MD Gunathilaka,MA Starc,PBB Rajapaksa,4,0,4,12,11,9,3,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-15,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,10,4,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-16,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,11,5,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-17,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,12,6,0,,,3,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-18,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,0,0,0,12,1,4,1,0,,,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-19,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,1,0,1,13,2,5,2,0,,,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-20,MD Gunathilaka,PJ Cummins,PBB Rajapaksa,0,0,0,13,11,13,3,caught,MD Gunathilaka,DA Warner,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-21,PBB Rajapaksa,PJ Cummins,MDKJ Perera,0,0,0,13,2,6,4,bowled,PBB Rajapaksa,,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-22,BOP Fernando,PJ Cummins,MDKJ Perera,1,0,1,14,1,1,5,0,,,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-23,MDKJ Perera,PJ Cummins,BOP Fernando,0,0,0,14,0,1,6,0,,,4,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-24,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,2,1,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-25,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,3,2,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-26,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,4,3,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-27,BOP Fernando,KW Richardson,MDKJ Perera,0,1,1,15,1,5,4,0,,,5,{'wides': 1},wides,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-28,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,15,1,6,5,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-29,BOP Fernando,KW Richardson,MDKJ Perera,2,0,2,17,3,7,6,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-30,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,17,3,8,7,0,,,5,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-31,MDKJ Perera,PJ Cummins,BOP Fernando,1,0,1,18,1,2,1,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-32,BOP Fernando,PJ Cummins,MDKJ Perera,4,0,4,22,7,9,2,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-33,BOP Fernando,PJ Cummins,MDKJ Perera,2,0,2,24,9,10,3,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-34,BOP Fernando,PJ Cummins,MDKJ Perera,0,0,0,24,9,11,4,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-35,BOP Fernando,PJ Cummins,MDKJ Perera,1,0,1,25,10,12,5,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-36,MDKJ Perera,PJ Cummins,BOP Fernando,4,0,4,29,5,3,6,0,,,6,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-37,BOP Fernando,A Zampa,MDKJ Perera,0,1,1,30,10,13,1,0,,,7,{'legbyes': 1},legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-38,MDKJ Perera,A Zampa,BOP Fernando,2,0,2,32,7,4,2,0,,,7,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-39,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,33,8,5,3,0,,,7,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-40,BOP Fernando,A Zampa,MDKJ Perera,1,0,1,34,11,14,4,0,,,7,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-41,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,35,9,6,5,0,,,7,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-42,BOP Fernando,A Zampa,MDKJ Perera,0,3,3,38,11,15,6,0,,,7,{'legbyes': 3},legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-43,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,38,11,16,1,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-44,BOP Fernando,AC Agar,MDKJ Perera,1,0,1,39,12,17,2,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-45,MDKJ Perera,AC Agar,BOP Fernando,1,0,1,40,10,7,3,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-46,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,18,4,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-47,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,19,5,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-48,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,20,6,0,,,8,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-49,MDKJ Perera,A Zampa,BOP Fernando,0,0,0,40,10,8,1,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-50,MDKJ Perera,A Zampa,BOP Fernando,2,0,2,42,12,9,2,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-51,MDKJ Perera,A Zampa,BOP Fernando,0,0,0,42,12,10,3,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-52,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,43,13,11,4,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-53,BOP Fernando,A Zampa,MDKJ Perera,1,0,1,44,13,21,5,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-54,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,45,14,12,6,0,,,9,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-55,MDKJ Perera,AC Agar,BOP Fernando,1,0,1,46,15,13,1,0,,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-56,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,46,13,22,2,bowled,BOP Fernando,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-57,MD Shanaka,AC Agar,MDKJ Perera,1,0,1,47,1,1,3,0,,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-58,MDKJ Perera,AC Agar,MD Shanaka,0,0,0,47,15,14,4,0,,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-59,MDKJ Perera,AC Agar,MD Shanaka,1,0,1,48,16,15,5,0,,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-60,MD Shanaka,AC Agar,MDKJ Perera,1,0,1,49,2,2,6,0,,,10,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-61,MD Shanaka,MA Starc,MDKJ Perera,0,0,0,49,2,3,1,0,,,11,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-62,MD Shanaka,MA Starc,MDKJ Perera,0,1,1,50,2,4,2,0,,,11,{'legbyes': 1},legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-63,MDKJ Perera,MA Starc,MD Shanaka,0,0,0,50,16,16,3,bowled,MDKJ Perera,,11,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-64,PWH de Silva,MA Starc,MD Shanaka,1,0,1,51,1,1,4,0,,,11,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-65,MD Shanaka,MA Starc,PWH de Silva,4,0,4,55,6,5,5,0,,,11,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-66,MD Shanaka,MA Starc,PWH de Silva,0,0,0,55,6,6,6,0,,,11,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-67,PWH de Silva,AC Agar,MD Shanaka,1,0,1,56,2,2,1,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-68,MD Shanaka,AC Agar,PWH de Silva,1,0,1,57,7,7,2,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-69,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,3,3,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-70,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,4,4,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-71,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,5,5,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-72,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,6,6,0,,,12,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-73,MD Shanaka,KW Richardson,PWH de Silva,2,0,2,59,9,8,1,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-74,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,59,9,9,2,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-75,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,59,9,10,3,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-76,MD Shanaka,KW Richardson,PWH de Silva,6,1,7,66,15,11,4,0,,,13,{'noballs': 1},noballs,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-77,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,12,5,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-78,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,13,6,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-79,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,14,7,0,,,13,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-80,PWH de Silva,AC Agar,MD Shanaka,1,0,1,67,3,7,1,0,,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-81,MD Shanaka,AC Agar,PWH de Silva,1,0,1,68,16,15,2,0,,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-82,PWH de Silva,AC Agar,MD Shanaka,1,0,1,69,4,8,3,0,,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-83,MD Shanaka,AC Agar,PWH de Silva,1,0,1,70,17,16,4,0,,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-84,PWH de Silva,AC Agar,MD Shanaka,0,0,0,70,4,9,5,0,,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-85,PWH de Silva,AC Agar,MD Shanaka,1,0,1,71,5,10,6,run out,PWH de Silva,,14,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-86,MD Shanaka,A Zampa,PADLR Sandakan,0,0,0,71,17,17,1,0,,,15,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-87,MD Shanaka,A Zampa,PADLR Sandakan,0,0,0,71,17,18,2,caught,MD Shanaka,KW Richardson,15,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-88,SL Malinga,A Zampa,PADLR Sandakan,0,1,1,72,0,1,3,0,,,15,{'legbyes': 1},legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-89,PADLR Sandakan,A Zampa,SL Malinga,0,0,0,72,0,1,4,0,,,15,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-90,PADLR Sandakan,A Zampa,SL Malinga,1,0,1,73,1,2,5,0,,,15,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-91,SL Malinga,A Zampa,PADLR Sandakan,1,0,1,74,1,2,6,0,,,15,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-92,SL Malinga,PJ Cummins,PADLR Sandakan,1,0,1,75,2,3,1,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-93,PADLR Sandakan,PJ Cummins,SL Malinga,4,0,4,79,5,3,2,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-94,PADLR Sandakan,PJ Cummins,SL Malinga,1,0,1,80,6,4,3,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-95,SL Malinga,PJ Cummins,PADLR Sandakan,1,0,1,81,3,4,4,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-96,PADLR Sandakan,PJ Cummins,SL Malinga,0,0,0,81,6,5,5,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-97,PADLR Sandakan,PJ Cummins,SL Malinga,0,0,0,81,6,6,6,0,,,16,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-98,SL Malinga,A Zampa,PADLR Sandakan,0,0,0,81,3,5,1,0,,,17,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-99,SL Malinga,A Zampa,PADLR Sandakan,1,0,1,82,4,6,2,0,,,17,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-100,PADLR Sandakan,A Zampa,SL Malinga,0,0,0,82,6,7,3,caught,PADLR Sandakan,AC Agar,17,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-101,SL Malinga,A Zampa,CAK Rajitha,1,0,1,83,5,7,4,0,,,17,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-102,CAK Rajitha,A Zampa,SL Malinga,0,0,0,83,0,1,5,0,,,17,,-,"{'by': 'Sri Lanka', 'umpire': 'P Wilson', 'batter': 'CAK Rajitha', 'decision': 'upheld'}",field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-103,CAK Rajitha,A Zampa,SL Malinga,0,0,0,83,0,2,6,stumped,CAK Rajitha,AT Carey,17,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-104,SL Malinga,MA Starc,N Pradeep,1,0,1,84,6,8,1,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-105,N Pradeep,MA Starc,SL Malinga,2,0,2,86,2,1,2,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-106,N Pradeep,MA Starc,SL Malinga,0,0,0,86,2,2,3,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-107,N Pradeep,MA Starc,SL Malinga,1,0,1,87,3,3,4,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-108,SL Malinga,MA Starc,N Pradeep,0,0,0,87,6,9,5,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-109,SL Malinga,MA Starc,N Pradeep,0,0,0,87,6,10,6,0,,,18,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-110,N Pradeep,KW Richardson,SL Malinga,0,0,0,87,3,4,1,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-111,N Pradeep,KW Richardson,SL Malinga,4,0,4,91,7,5,2,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-112,N Pradeep,KW Richardson,SL Malinga,1,0,1,92,8,6,3,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-113,SL Malinga,KW Richardson,N Pradeep,0,0,0,92,6,11,4,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-114,SL Malinga,KW Richardson,N Pradeep,0,0,0,92,6,12,5,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-115,SL Malinga,KW Richardson,N Pradeep,1,0,1,93,7,13,6,0,,,19,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-116,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,14,1,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-117,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,15,2,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-118,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,16,3,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-119,SL Malinga,PJ Cummins,N Pradeep,4,0,4,97,11,17,4,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-120,SL Malinga,PJ Cummins,N Pradeep,0,0,0,97,11,18,5,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
-121,SL Malinga,PJ Cummins,N Pradeep,2,0,2,99,13,19,6,0,,,20,,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MD Gunathilaka,MA Starc,BKG Mendis,0,0,0,0,0,1,1,0,,,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+1,MD Gunathilaka,MA Starc,BKG Mendis,1,0,1,1,1,2,2,0,,,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+2,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,1,3,0,,,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+3,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,2,4,0,,,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+4,BKG Mendis,MA Starc,MD Gunathilaka,0,0,0,1,0,3,5,caught,BKG Mendis,AJ Turner,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+5,PBB Rajapaksa,MA Starc,MD Gunathilaka,0,0,0,1,0,1,6,0,,,1,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+6,MD Gunathilaka,KW Richardson,PBB Rajapaksa,1,0,1,2,2,3,1,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+7,PBB Rajapaksa,KW Richardson,MD Gunathilaka,0,0,0,2,0,2,2,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+8,PBB Rajapaksa,KW Richardson,MD Gunathilaka,1,0,1,3,1,3,3,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+9,MD Gunathilaka,KW Richardson,PBB Rajapaksa,0,0,0,3,2,4,4,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+10,MD Gunathilaka,KW Richardson,PBB Rajapaksa,0,0,0,3,2,5,5,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+11,MD Gunathilaka,KW Richardson,PBB Rajapaksa,1,0,1,4,3,6,6,0,,,2,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+12,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,4,3,7,1,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+13,MD Gunathilaka,MA Starc,PBB Rajapaksa,4,0,4,8,7,8,2,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+14,MD Gunathilaka,MA Starc,PBB Rajapaksa,4,0,4,12,11,9,3,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+15,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,10,4,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+16,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,11,5,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+17,MD Gunathilaka,MA Starc,PBB Rajapaksa,0,0,0,12,11,12,6,0,,,3,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+18,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,0,0,0,12,1,4,1,0,,,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+19,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,1,0,1,13,2,5,2,0,,,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+20,MD Gunathilaka,PJ Cummins,PBB Rajapaksa,0,0,0,13,11,13,3,caught,MD Gunathilaka,DA Warner,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+21,PBB Rajapaksa,PJ Cummins,MDKJ Perera,0,0,0,13,2,6,4,bowled,PBB Rajapaksa,,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+22,BOP Fernando,PJ Cummins,MDKJ Perera,1,0,1,14,1,1,5,0,,,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+23,MDKJ Perera,PJ Cummins,BOP Fernando,0,0,0,14,0,1,6,0,,,4,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+24,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,2,1,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+25,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,3,2,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+26,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,14,1,4,3,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+27,BOP Fernando,KW Richardson,MDKJ Perera,0,1,1,15,1,5,4,0,,,5,wides,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+28,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,15,1,6,5,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+29,BOP Fernando,KW Richardson,MDKJ Perera,2,0,2,17,3,7,6,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+30,BOP Fernando,KW Richardson,MDKJ Perera,0,0,0,17,3,8,7,0,,,5,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+31,MDKJ Perera,PJ Cummins,BOP Fernando,1,0,1,18,1,2,1,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+32,BOP Fernando,PJ Cummins,MDKJ Perera,4,0,4,22,7,9,2,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+33,BOP Fernando,PJ Cummins,MDKJ Perera,2,0,2,24,9,10,3,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+34,BOP Fernando,PJ Cummins,MDKJ Perera,0,0,0,24,9,11,4,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+35,BOP Fernando,PJ Cummins,MDKJ Perera,1,0,1,25,10,12,5,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+36,MDKJ Perera,PJ Cummins,BOP Fernando,4,0,4,29,5,3,6,0,,,6,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+37,BOP Fernando,A Zampa,MDKJ Perera,0,1,1,30,10,13,1,0,,,7,legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+38,MDKJ Perera,A Zampa,BOP Fernando,2,0,2,32,7,4,2,0,,,7,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+39,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,33,8,5,3,0,,,7,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+40,BOP Fernando,A Zampa,MDKJ Perera,1,0,1,34,11,14,4,0,,,7,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+41,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,35,9,6,5,0,,,7,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+42,BOP Fernando,A Zampa,MDKJ Perera,0,3,3,38,11,15,6,0,,,7,legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+43,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,38,11,16,1,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+44,BOP Fernando,AC Agar,MDKJ Perera,1,0,1,39,12,17,2,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+45,MDKJ Perera,AC Agar,BOP Fernando,1,0,1,40,10,7,3,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+46,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,18,4,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+47,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,19,5,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+48,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,40,12,20,6,0,,,8,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+49,MDKJ Perera,A Zampa,BOP Fernando,0,0,0,40,10,8,1,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+50,MDKJ Perera,A Zampa,BOP Fernando,2,0,2,42,12,9,2,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+51,MDKJ Perera,A Zampa,BOP Fernando,0,0,0,42,12,10,3,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+52,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,43,13,11,4,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+53,BOP Fernando,A Zampa,MDKJ Perera,1,0,1,44,13,21,5,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+54,MDKJ Perera,A Zampa,BOP Fernando,1,0,1,45,14,12,6,0,,,9,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+55,MDKJ Perera,AC Agar,BOP Fernando,1,0,1,46,15,13,1,0,,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+56,BOP Fernando,AC Agar,MDKJ Perera,0,0,0,46,13,22,2,bowled,BOP Fernando,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+57,MD Shanaka,AC Agar,MDKJ Perera,1,0,1,47,1,1,3,0,,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+58,MDKJ Perera,AC Agar,MD Shanaka,0,0,0,47,15,14,4,0,,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+59,MDKJ Perera,AC Agar,MD Shanaka,1,0,1,48,16,15,5,0,,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+60,MD Shanaka,AC Agar,MDKJ Perera,1,0,1,49,2,2,6,0,,,10,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+61,MD Shanaka,MA Starc,MDKJ Perera,0,0,0,49,2,3,1,0,,,11,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+62,MD Shanaka,MA Starc,MDKJ Perera,0,1,1,50,2,4,2,0,,,11,legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+63,MDKJ Perera,MA Starc,MD Shanaka,0,0,0,50,16,16,3,bowled,MDKJ Perera,,11,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+64,PWH de Silva,MA Starc,MD Shanaka,1,0,1,51,1,1,4,0,,,11,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+65,MD Shanaka,MA Starc,PWH de Silva,4,0,4,55,6,5,5,0,,,11,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+66,MD Shanaka,MA Starc,PWH de Silva,0,0,0,55,6,6,6,0,,,11,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+67,PWH de Silva,AC Agar,MD Shanaka,1,0,1,56,2,2,1,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+68,MD Shanaka,AC Agar,PWH de Silva,1,0,1,57,7,7,2,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+69,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,3,3,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+70,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,4,4,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+71,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,5,5,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+72,PWH de Silva,AC Agar,MD Shanaka,0,0,0,57,2,6,6,0,,,12,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+73,MD Shanaka,KW Richardson,PWH de Silva,2,0,2,59,9,8,1,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+74,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,59,9,9,2,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+75,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,59,9,10,3,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+76,MD Shanaka,KW Richardson,PWH de Silva,6,1,7,66,15,11,4,0,,,13,noballs,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+77,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,12,5,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+78,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,13,6,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+79,MD Shanaka,KW Richardson,PWH de Silva,0,0,0,66,15,14,7,0,,,13,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+80,PWH de Silva,AC Agar,MD Shanaka,1,0,1,67,3,7,1,0,,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+81,MD Shanaka,AC Agar,PWH de Silva,1,0,1,68,16,15,2,0,,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+82,PWH de Silva,AC Agar,MD Shanaka,1,0,1,69,4,8,3,0,,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+83,MD Shanaka,AC Agar,PWH de Silva,1,0,1,70,17,16,4,0,,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+84,PWH de Silva,AC Agar,MD Shanaka,0,0,0,70,4,9,5,0,,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+85,PWH de Silva,AC Agar,MD Shanaka,1,0,1,71,5,10,6,run out,PWH de Silva,,14,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+86,MD Shanaka,A Zampa,PADLR Sandakan,0,0,0,71,17,17,1,0,,,15,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+87,MD Shanaka,A Zampa,PADLR Sandakan,0,0,0,71,17,18,2,caught,MD Shanaka,KW Richardson,15,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+88,SL Malinga,A Zampa,PADLR Sandakan,0,1,1,72,0,1,3,0,,,15,legbyes,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+89,PADLR Sandakan,A Zampa,SL Malinga,0,0,0,72,0,1,4,0,,,15,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+90,PADLR Sandakan,A Zampa,SL Malinga,1,0,1,73,1,2,5,0,,,15,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+91,SL Malinga,A Zampa,PADLR Sandakan,1,0,1,74,1,2,6,0,,,15,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+92,SL Malinga,PJ Cummins,PADLR Sandakan,1,0,1,75,2,3,1,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+93,PADLR Sandakan,PJ Cummins,SL Malinga,4,0,4,79,5,3,2,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+94,PADLR Sandakan,PJ Cummins,SL Malinga,1,0,1,80,6,4,3,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+95,SL Malinga,PJ Cummins,PADLR Sandakan,1,0,1,81,3,4,4,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+96,PADLR Sandakan,PJ Cummins,SL Malinga,0,0,0,81,6,5,5,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+97,PADLR Sandakan,PJ Cummins,SL Malinga,0,0,0,81,6,6,6,0,,,16,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+98,SL Malinga,A Zampa,PADLR Sandakan,0,0,0,81,3,5,1,0,,,17,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+99,SL Malinga,A Zampa,PADLR Sandakan,1,0,1,82,4,6,2,0,,,17,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+100,PADLR Sandakan,A Zampa,SL Malinga,0,0,0,82,6,7,3,caught,PADLR Sandakan,AC Agar,17,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+101,SL Malinga,A Zampa,CAK Rajitha,1,0,1,83,5,7,4,0,,,17,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+102,CAK Rajitha,A Zampa,SL Malinga,0,0,0,83,0,1,5,0,,,17,-,"{'by': 'Sri Lanka', 'umpire': 'P Wilson', 'batter': 'CAK Rajitha', 'decision': 'upheld'}",field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+103,CAK Rajitha,A Zampa,SL Malinga,0,0,0,83,0,2,6,stumped,CAK Rajitha,AT Carey,17,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+104,SL Malinga,MA Starc,N Pradeep,1,0,1,84,6,8,1,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+105,N Pradeep,MA Starc,SL Malinga,2,0,2,86,2,1,2,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+106,N Pradeep,MA Starc,SL Malinga,0,0,0,86,2,2,3,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+107,N Pradeep,MA Starc,SL Malinga,1,0,1,87,3,3,4,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+108,SL Malinga,MA Starc,N Pradeep,0,0,0,87,6,9,5,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+109,SL Malinga,MA Starc,N Pradeep,0,0,0,87,6,10,6,0,,,18,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+110,N Pradeep,KW Richardson,SL Malinga,0,0,0,87,3,4,1,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+111,N Pradeep,KW Richardson,SL Malinga,4,0,4,91,7,5,2,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+112,N Pradeep,KW Richardson,SL Malinga,1,0,1,92,8,6,3,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+113,SL Malinga,KW Richardson,N Pradeep,0,0,0,92,6,11,4,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+114,SL Malinga,KW Richardson,N Pradeep,0,0,0,92,6,12,5,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+115,SL Malinga,KW Richardson,N Pradeep,1,0,1,93,7,13,6,0,,,19,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+116,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,14,1,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+117,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,15,2,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+118,SL Malinga,PJ Cummins,N Pradeep,0,0,0,93,7,16,3,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+119,SL Malinga,PJ Cummins,N Pradeep,4,0,4,97,11,17,4,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+120,SL Malinga,PJ Cummins,N Pradeep,0,0,0,97,11,18,5,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia
+121,SL Malinga,PJ Cummins,N Pradeep,2,0,2,99,13,19,6,0,,,20,-,,field,Sri Lanka,2,Adelaide Oval,2019-10-27,Sri Lanka,Australia

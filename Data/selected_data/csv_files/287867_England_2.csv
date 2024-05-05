@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,1,1,0,,,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-1,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,2,2,0,,,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-2,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,3,3,0,,,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-3,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,4,4,caught,LJ Wright,AB de Villiers,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-4,KP Pietersen,SM Pollock,MJ Prior,0,0,0,0,0,1,5,0,,,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-5,KP Pietersen,SM Pollock,MJ Prior,0,0,0,0,0,2,6,0,,,1,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-6,MJ Prior,M Ntini,KP Pietersen,1,0,1,1,1,1,1,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-7,KP Pietersen,M Ntini,MJ Prior,4,0,4,5,4,3,2,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-8,KP Pietersen,M Ntini,MJ Prior,0,0,0,5,4,4,3,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-9,KP Pietersen,M Ntini,MJ Prior,0,0,0,5,4,5,4,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-10,KP Pietersen,M Ntini,MJ Prior,1,0,1,6,5,6,5,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-11,MJ Prior,M Ntini,KP Pietersen,1,0,1,7,2,2,6,0,,,2,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-12,MJ Prior,SM Pollock,KP Pietersen,1,0,1,8,3,3,1,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-13,KP Pietersen,SM Pollock,MJ Prior,4,0,4,12,9,7,2,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-14,KP Pietersen,SM Pollock,MJ Prior,0,0,0,12,9,8,3,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-15,KP Pietersen,SM Pollock,MJ Prior,1,0,1,13,10,9,4,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-16,MJ Prior,SM Pollock,KP Pietersen,0,0,0,13,3,4,5,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-17,MJ Prior,SM Pollock,KP Pietersen,1,0,1,14,4,5,6,0,,,3,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-18,MJ Prior,M Ntini,KP Pietersen,0,0,0,14,4,6,1,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-19,MJ Prior,M Ntini,KP Pietersen,1,0,1,15,5,7,2,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-20,KP Pietersen,M Ntini,MJ Prior,1,0,1,16,11,10,3,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-21,MJ Prior,M Ntini,KP Pietersen,3,0,3,19,8,8,4,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-22,KP Pietersen,M Ntini,MJ Prior,0,0,0,19,11,11,5,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-23,KP Pietersen,M Ntini,MJ Prior,4,0,4,23,15,12,6,0,,,4,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-24,MJ Prior,SM Pollock,KP Pietersen,1,0,1,24,9,9,1,0,,,5,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-25,KP Pietersen,SM Pollock,MJ Prior,0,0,0,24,15,13,2,0,,,5,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-26,KP Pietersen,SM Pollock,MJ Prior,0,0,0,24,15,14,3,run out,KP Pietersen,M Ntini,5,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-27,MJ Prior,SM Pollock,PD Collingwood,3,0,3,27,12,10,4,0,,,5,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-28,PD Collingwood,SM Pollock,MJ Prior,0,0,0,27,0,1,5,caught,PD Collingwood,JM Kemp,5,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-29,OA Shah,SM Pollock,MJ Prior,0,1,1,28,0,1,6,0,,,5,{'legbyes': 1},legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
-30,OA Shah,M Ntini,MJ Prior,0,1,1,29,0,2,1,0,,,6,{'wides': 1},wides,field,England,2,Newlands,2007-09-16,England,South Africa
-31,OA Shah,M Ntini,MJ Prior,0,0,0,29,0,3,2,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-32,OA Shah,M Ntini,MJ Prior,0,0,0,29,0,4,3,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-33,OA Shah,M Ntini,MJ Prior,1,0,1,30,1,5,4,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-34,MJ Prior,M Ntini,OA Shah,1,0,1,31,13,11,5,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-35,OA Shah,M Ntini,MJ Prior,0,0,0,31,1,6,6,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-36,OA Shah,M Ntini,MJ Prior,0,0,0,31,1,7,7,0,,,6,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-37,MJ Prior,SM Pollock,OA Shah,0,0,0,31,13,12,1,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-38,MJ Prior,SM Pollock,OA Shah,0,0,0,31,13,13,2,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-39,MJ Prior,SM Pollock,OA Shah,1,0,1,32,14,14,3,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-40,OA Shah,SM Pollock,MJ Prior,1,0,1,33,2,8,4,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-41,MJ Prior,SM Pollock,OA Shah,1,0,1,34,15,15,5,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-42,OA Shah,SM Pollock,MJ Prior,3,0,3,37,5,9,6,0,,,7,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-43,OA Shah,M Morkel,MJ Prior,0,0,0,37,5,10,1,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-44,OA Shah,M Morkel,MJ Prior,0,0,0,37,5,11,2,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-45,OA Shah,M Morkel,MJ Prior,1,0,1,38,6,12,3,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-46,MJ Prior,M Morkel,OA Shah,0,0,0,38,15,16,4,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-47,MJ Prior,M Morkel,OA Shah,4,0,4,42,19,17,5,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-48,MJ Prior,M Morkel,OA Shah,0,0,0,42,19,18,6,0,,,8,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-49,OA Shah,JJ van der Wath,MJ Prior,1,0,1,43,7,13,1,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-50,MJ Prior,JJ van der Wath,OA Shah,0,0,0,43,19,19,2,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-51,MJ Prior,JJ van der Wath,OA Shah,3,0,3,46,22,20,3,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-52,OA Shah,JJ van der Wath,MJ Prior,1,0,1,47,8,14,4,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-53,MJ Prior,JJ van der Wath,OA Shah,6,0,6,53,28,21,5,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-54,MJ Prior,JJ van der Wath,OA Shah,0,0,0,53,28,22,6,0,,,9,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-55,OA Shah,M Morkel,MJ Prior,2,0,2,55,10,15,1,0,,,10,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-56,OA Shah,M Morkel,MJ Prior,0,0,0,55,10,16,2,0,,,10,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-57,OA Shah,M Morkel,MJ Prior,0,2,2,57,10,17,3,0,,,10,{'legbyes': 2},legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
-58,OA Shah,M Morkel,MJ Prior,1,0,1,58,11,18,4,0,,,10,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-59,MJ Prior,M Morkel,OA Shah,0,0,0,58,28,23,5,0,,,10,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-60,MJ Prior,M Morkel,OA Shah,1,0,1,59,29,24,6,0,,,10,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-61,MJ Prior,JJ van der Wath,OA Shah,0,0,0,59,29,25,1,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-62,MJ Prior,JJ van der Wath,OA Shah,1,0,1,60,30,26,2,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-63,OA Shah,JJ van der Wath,MJ Prior,1,0,1,61,12,19,3,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-64,MJ Prior,JJ van der Wath,OA Shah,0,0,0,61,30,27,4,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-65,MJ Prior,JJ van der Wath,OA Shah,1,0,1,62,31,28,5,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-66,OA Shah,JJ van der Wath,MJ Prior,1,0,1,63,13,20,6,0,,,11,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-67,OA Shah,VD Philander,MJ Prior,2,0,2,65,15,21,1,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-68,OA Shah,VD Philander,MJ Prior,2,0,2,67,17,22,2,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-69,OA Shah,VD Philander,MJ Prior,6,0,6,73,23,23,3,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-70,OA Shah,VD Philander,MJ Prior,0,0,0,73,23,24,4,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-71,OA Shah,VD Philander,MJ Prior,0,0,0,73,23,25,5,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-72,OA Shah,VD Philander,MJ Prior,6,0,6,79,29,26,6,0,,,12,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-73,MJ Prior,JA Morkel,OA Shah,0,0,0,79,31,29,1,0,,,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-74,MJ Prior,JA Morkel,OA Shah,1,0,1,80,32,30,2,0,,,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-75,OA Shah,JA Morkel,MJ Prior,1,0,1,81,30,27,3,0,,,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-76,MJ Prior,JA Morkel,OA Shah,0,1,1,82,32,31,4,0,,,13,{'wides': 1},wides,field,England,2,Newlands,2007-09-16,England,South Africa
-77,MJ Prior,JA Morkel,OA Shah,0,0,0,82,32,32,5,caught,MJ Prior,VD Philander,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-78,OA Shah,JA Morkel,A Flintoff,1,0,1,83,31,28,6,0,,,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-79,A Flintoff,JA Morkel,OA Shah,0,0,0,83,0,1,7,0,,,13,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-80,OA Shah,M Ntini,A Flintoff,1,0,1,84,32,29,1,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-81,A Flintoff,M Ntini,OA Shah,4,0,4,88,4,2,2,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-82,A Flintoff,M Ntini,OA Shah,4,0,4,92,8,3,3,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-83,A Flintoff,M Ntini,OA Shah,0,0,0,92,8,4,4,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-84,A Flintoff,M Ntini,OA Shah,1,0,1,93,9,5,5,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-85,OA Shah,M Ntini,A Flintoff,0,0,0,93,32,30,6,0,,,14,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-86,A Flintoff,JA Morkel,OA Shah,1,0,1,94,10,6,1,0,,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-87,OA Shah,JA Morkel,A Flintoff,4,0,4,98,36,31,2,0,,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-88,OA Shah,JA Morkel,A Flintoff,0,0,0,98,36,32,3,bowled,OA Shah,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-89,JN Snape,JA Morkel,A Flintoff,1,0,1,99,1,1,4,0,,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-90,A Flintoff,JA Morkel,JN Snape,1,0,1,100,11,7,5,0,,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-91,JN Snape,JA Morkel,A Flintoff,1,0,1,101,2,2,6,0,,,15,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-92,JN Snape,VD Philander,A Flintoff,1,0,1,102,3,3,1,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-93,A Flintoff,VD Philander,JN Snape,1,0,1,103,12,8,2,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-94,JN Snape,VD Philander,A Flintoff,0,0,0,103,3,4,3,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-95,JN Snape,VD Philander,A Flintoff,2,0,2,105,5,5,4,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-96,JN Snape,VD Philander,A Flintoff,1,0,1,106,6,6,5,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-97,A Flintoff,VD Philander,JN Snape,1,0,1,107,13,9,6,0,,,16,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-98,A Flintoff,JJ van der Wath,JN Snape,1,0,1,108,14,10,1,0,,,17,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-99,JN Snape,JJ van der Wath,A Flintoff,0,0,0,108,6,7,2,0,,,17,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-100,JN Snape,JJ van der Wath,A Flintoff,1,0,1,109,7,8,3,0,,,17,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-101,A Flintoff,JJ van der Wath,JN Snape,2,0,2,111,16,11,4,0,,,17,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-102,A Flintoff,JJ van der Wath,JN Snape,0,0,0,111,16,12,5,0,,,17,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-103,A Flintoff,JJ van der Wath,JN Snape,0,1,1,112,16,13,6,0,,,17,{'legbyes': 1},legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
-104,A Flintoff,M Morkel,JN Snape,0,1,1,113,16,14,1,0,,,18,{'legbyes': 1},legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
-105,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,9,2,0,,,18,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-106,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,10,3,0,,,18,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-107,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,11,4,caught,JN Snape,AB de Villiers,18,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-108,A Flintoff,M Morkel,AD Mascarenhas,1,0,1,114,17,15,5,0,,,18,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-109,AD Mascarenhas,M Morkel,A Flintoff,1,0,1,115,1,1,6,0,,,18,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-110,AD Mascarenhas,JJ van der Wath,A Flintoff,4,0,4,119,5,2,1,0,,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-111,AD Mascarenhas,JJ van der Wath,A Flintoff,1,0,1,120,6,3,2,0,,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-112,A Flintoff,JJ van der Wath,AD Mascarenhas,0,0,0,120,17,16,3,bowled,A Flintoff,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-113,CP Schofield,JJ van der Wath,AD Mascarenhas,4,0,4,124,4,1,4,0,,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-114,CP Schofield,JJ van der Wath,AD Mascarenhas,1,0,1,125,5,2,5,0,,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-115,AD Mascarenhas,JJ van der Wath,CP Schofield,1,0,1,126,7,4,6,0,,,19,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-116,AD Mascarenhas,M Morkel,CP Schofield,2,0,2,128,9,5,1,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-117,AD Mascarenhas,M Morkel,CP Schofield,4,0,4,132,13,6,2,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-118,AD Mascarenhas,M Morkel,CP Schofield,0,0,0,132,13,7,3,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-119,AD Mascarenhas,M Morkel,CP Schofield,1,0,1,133,14,8,4,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-120,CP Schofield,M Morkel,AD Mascarenhas,1,0,1,134,6,3,5,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
-121,AD Mascarenhas,M Morkel,CP Schofield,1,0,1,135,15,9,6,0,,,20,,-,field,England,2,Newlands,2007-09-16,England,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,1,1,0,,,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+1,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,2,2,0,,,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+2,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,3,3,0,,,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+3,LJ Wright,SM Pollock,MJ Prior,0,0,0,0,0,4,4,caught,LJ Wright,AB de Villiers,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+4,KP Pietersen,SM Pollock,MJ Prior,0,0,0,0,0,1,5,0,,,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+5,KP Pietersen,SM Pollock,MJ Prior,0,0,0,0,0,2,6,0,,,1,-,field,England,2,Newlands,2007-09-16,England,South Africa
+6,MJ Prior,M Ntini,KP Pietersen,1,0,1,1,1,1,1,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+7,KP Pietersen,M Ntini,MJ Prior,4,0,4,5,4,3,2,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+8,KP Pietersen,M Ntini,MJ Prior,0,0,0,5,4,4,3,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+9,KP Pietersen,M Ntini,MJ Prior,0,0,0,5,4,5,4,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+10,KP Pietersen,M Ntini,MJ Prior,1,0,1,6,5,6,5,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+11,MJ Prior,M Ntini,KP Pietersen,1,0,1,7,2,2,6,0,,,2,-,field,England,2,Newlands,2007-09-16,England,South Africa
+12,MJ Prior,SM Pollock,KP Pietersen,1,0,1,8,3,3,1,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+13,KP Pietersen,SM Pollock,MJ Prior,4,0,4,12,9,7,2,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+14,KP Pietersen,SM Pollock,MJ Prior,0,0,0,12,9,8,3,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+15,KP Pietersen,SM Pollock,MJ Prior,1,0,1,13,10,9,4,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+16,MJ Prior,SM Pollock,KP Pietersen,0,0,0,13,3,4,5,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+17,MJ Prior,SM Pollock,KP Pietersen,1,0,1,14,4,5,6,0,,,3,-,field,England,2,Newlands,2007-09-16,England,South Africa
+18,MJ Prior,M Ntini,KP Pietersen,0,0,0,14,4,6,1,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+19,MJ Prior,M Ntini,KP Pietersen,1,0,1,15,5,7,2,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+20,KP Pietersen,M Ntini,MJ Prior,1,0,1,16,11,10,3,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+21,MJ Prior,M Ntini,KP Pietersen,3,0,3,19,8,8,4,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+22,KP Pietersen,M Ntini,MJ Prior,0,0,0,19,11,11,5,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+23,KP Pietersen,M Ntini,MJ Prior,4,0,4,23,15,12,6,0,,,4,-,field,England,2,Newlands,2007-09-16,England,South Africa
+24,MJ Prior,SM Pollock,KP Pietersen,1,0,1,24,9,9,1,0,,,5,-,field,England,2,Newlands,2007-09-16,England,South Africa
+25,KP Pietersen,SM Pollock,MJ Prior,0,0,0,24,15,13,2,0,,,5,-,field,England,2,Newlands,2007-09-16,England,South Africa
+26,KP Pietersen,SM Pollock,MJ Prior,0,0,0,24,15,14,3,run out,KP Pietersen,M Ntini,5,-,field,England,2,Newlands,2007-09-16,England,South Africa
+27,MJ Prior,SM Pollock,PD Collingwood,3,0,3,27,12,10,4,0,,,5,-,field,England,2,Newlands,2007-09-16,England,South Africa
+28,PD Collingwood,SM Pollock,MJ Prior,0,0,0,27,0,1,5,caught,PD Collingwood,JM Kemp,5,-,field,England,2,Newlands,2007-09-16,England,South Africa
+29,OA Shah,SM Pollock,MJ Prior,0,1,1,28,0,1,6,0,,,5,legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
+30,OA Shah,M Ntini,MJ Prior,0,1,1,29,0,2,1,0,,,6,wides,field,England,2,Newlands,2007-09-16,England,South Africa
+31,OA Shah,M Ntini,MJ Prior,0,0,0,29,0,3,2,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+32,OA Shah,M Ntini,MJ Prior,0,0,0,29,0,4,3,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+33,OA Shah,M Ntini,MJ Prior,1,0,1,30,1,5,4,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+34,MJ Prior,M Ntini,OA Shah,1,0,1,31,13,11,5,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+35,OA Shah,M Ntini,MJ Prior,0,0,0,31,1,6,6,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+36,OA Shah,M Ntini,MJ Prior,0,0,0,31,1,7,7,0,,,6,-,field,England,2,Newlands,2007-09-16,England,South Africa
+37,MJ Prior,SM Pollock,OA Shah,0,0,0,31,13,12,1,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+38,MJ Prior,SM Pollock,OA Shah,0,0,0,31,13,13,2,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+39,MJ Prior,SM Pollock,OA Shah,1,0,1,32,14,14,3,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+40,OA Shah,SM Pollock,MJ Prior,1,0,1,33,2,8,4,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+41,MJ Prior,SM Pollock,OA Shah,1,0,1,34,15,15,5,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+42,OA Shah,SM Pollock,MJ Prior,3,0,3,37,5,9,6,0,,,7,-,field,England,2,Newlands,2007-09-16,England,South Africa
+43,OA Shah,M Morkel,MJ Prior,0,0,0,37,5,10,1,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+44,OA Shah,M Morkel,MJ Prior,0,0,0,37,5,11,2,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+45,OA Shah,M Morkel,MJ Prior,1,0,1,38,6,12,3,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+46,MJ Prior,M Morkel,OA Shah,0,0,0,38,15,16,4,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+47,MJ Prior,M Morkel,OA Shah,4,0,4,42,19,17,5,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+48,MJ Prior,M Morkel,OA Shah,0,0,0,42,19,18,6,0,,,8,-,field,England,2,Newlands,2007-09-16,England,South Africa
+49,OA Shah,JJ van der Wath,MJ Prior,1,0,1,43,7,13,1,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+50,MJ Prior,JJ van der Wath,OA Shah,0,0,0,43,19,19,2,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+51,MJ Prior,JJ van der Wath,OA Shah,3,0,3,46,22,20,3,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+52,OA Shah,JJ van der Wath,MJ Prior,1,0,1,47,8,14,4,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+53,MJ Prior,JJ van der Wath,OA Shah,6,0,6,53,28,21,5,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+54,MJ Prior,JJ van der Wath,OA Shah,0,0,0,53,28,22,6,0,,,9,-,field,England,2,Newlands,2007-09-16,England,South Africa
+55,OA Shah,M Morkel,MJ Prior,2,0,2,55,10,15,1,0,,,10,-,field,England,2,Newlands,2007-09-16,England,South Africa
+56,OA Shah,M Morkel,MJ Prior,0,0,0,55,10,16,2,0,,,10,-,field,England,2,Newlands,2007-09-16,England,South Africa
+57,OA Shah,M Morkel,MJ Prior,0,2,2,57,10,17,3,0,,,10,legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
+58,OA Shah,M Morkel,MJ Prior,1,0,1,58,11,18,4,0,,,10,-,field,England,2,Newlands,2007-09-16,England,South Africa
+59,MJ Prior,M Morkel,OA Shah,0,0,0,58,28,23,5,0,,,10,-,field,England,2,Newlands,2007-09-16,England,South Africa
+60,MJ Prior,M Morkel,OA Shah,1,0,1,59,29,24,6,0,,,10,-,field,England,2,Newlands,2007-09-16,England,South Africa
+61,MJ Prior,JJ van der Wath,OA Shah,0,0,0,59,29,25,1,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+62,MJ Prior,JJ van der Wath,OA Shah,1,0,1,60,30,26,2,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+63,OA Shah,JJ van der Wath,MJ Prior,1,0,1,61,12,19,3,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+64,MJ Prior,JJ van der Wath,OA Shah,0,0,0,61,30,27,4,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+65,MJ Prior,JJ van der Wath,OA Shah,1,0,1,62,31,28,5,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+66,OA Shah,JJ van der Wath,MJ Prior,1,0,1,63,13,20,6,0,,,11,-,field,England,2,Newlands,2007-09-16,England,South Africa
+67,OA Shah,VD Philander,MJ Prior,2,0,2,65,15,21,1,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+68,OA Shah,VD Philander,MJ Prior,2,0,2,67,17,22,2,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+69,OA Shah,VD Philander,MJ Prior,6,0,6,73,23,23,3,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+70,OA Shah,VD Philander,MJ Prior,0,0,0,73,23,24,4,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+71,OA Shah,VD Philander,MJ Prior,0,0,0,73,23,25,5,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+72,OA Shah,VD Philander,MJ Prior,6,0,6,79,29,26,6,0,,,12,-,field,England,2,Newlands,2007-09-16,England,South Africa
+73,MJ Prior,JA Morkel,OA Shah,0,0,0,79,31,29,1,0,,,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+74,MJ Prior,JA Morkel,OA Shah,1,0,1,80,32,30,2,0,,,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+75,OA Shah,JA Morkel,MJ Prior,1,0,1,81,30,27,3,0,,,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+76,MJ Prior,JA Morkel,OA Shah,0,1,1,82,32,31,4,0,,,13,wides,field,England,2,Newlands,2007-09-16,England,South Africa
+77,MJ Prior,JA Morkel,OA Shah,0,0,0,82,32,32,5,caught,MJ Prior,VD Philander,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+78,OA Shah,JA Morkel,A Flintoff,1,0,1,83,31,28,6,0,,,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+79,A Flintoff,JA Morkel,OA Shah,0,0,0,83,0,1,7,0,,,13,-,field,England,2,Newlands,2007-09-16,England,South Africa
+80,OA Shah,M Ntini,A Flintoff,1,0,1,84,32,29,1,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+81,A Flintoff,M Ntini,OA Shah,4,0,4,88,4,2,2,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+82,A Flintoff,M Ntini,OA Shah,4,0,4,92,8,3,3,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+83,A Flintoff,M Ntini,OA Shah,0,0,0,92,8,4,4,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+84,A Flintoff,M Ntini,OA Shah,1,0,1,93,9,5,5,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+85,OA Shah,M Ntini,A Flintoff,0,0,0,93,32,30,6,0,,,14,-,field,England,2,Newlands,2007-09-16,England,South Africa
+86,A Flintoff,JA Morkel,OA Shah,1,0,1,94,10,6,1,0,,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+87,OA Shah,JA Morkel,A Flintoff,4,0,4,98,36,31,2,0,,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+88,OA Shah,JA Morkel,A Flintoff,0,0,0,98,36,32,3,bowled,OA Shah,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+89,JN Snape,JA Morkel,A Flintoff,1,0,1,99,1,1,4,0,,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+90,A Flintoff,JA Morkel,JN Snape,1,0,1,100,11,7,5,0,,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+91,JN Snape,JA Morkel,A Flintoff,1,0,1,101,2,2,6,0,,,15,-,field,England,2,Newlands,2007-09-16,England,South Africa
+92,JN Snape,VD Philander,A Flintoff,1,0,1,102,3,3,1,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+93,A Flintoff,VD Philander,JN Snape,1,0,1,103,12,8,2,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+94,JN Snape,VD Philander,A Flintoff,0,0,0,103,3,4,3,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+95,JN Snape,VD Philander,A Flintoff,2,0,2,105,5,5,4,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+96,JN Snape,VD Philander,A Flintoff,1,0,1,106,6,6,5,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+97,A Flintoff,VD Philander,JN Snape,1,0,1,107,13,9,6,0,,,16,-,field,England,2,Newlands,2007-09-16,England,South Africa
+98,A Flintoff,JJ van der Wath,JN Snape,1,0,1,108,14,10,1,0,,,17,-,field,England,2,Newlands,2007-09-16,England,South Africa
+99,JN Snape,JJ van der Wath,A Flintoff,0,0,0,108,6,7,2,0,,,17,-,field,England,2,Newlands,2007-09-16,England,South Africa
+100,JN Snape,JJ van der Wath,A Flintoff,1,0,1,109,7,8,3,0,,,17,-,field,England,2,Newlands,2007-09-16,England,South Africa
+101,A Flintoff,JJ van der Wath,JN Snape,2,0,2,111,16,11,4,0,,,17,-,field,England,2,Newlands,2007-09-16,England,South Africa
+102,A Flintoff,JJ van der Wath,JN Snape,0,0,0,111,16,12,5,0,,,17,-,field,England,2,Newlands,2007-09-16,England,South Africa
+103,A Flintoff,JJ van der Wath,JN Snape,0,1,1,112,16,13,6,0,,,17,legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
+104,A Flintoff,M Morkel,JN Snape,0,1,1,113,16,14,1,0,,,18,legbyes,field,England,2,Newlands,2007-09-16,England,South Africa
+105,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,9,2,0,,,18,-,field,England,2,Newlands,2007-09-16,England,South Africa
+106,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,10,3,0,,,18,-,field,England,2,Newlands,2007-09-16,England,South Africa
+107,JN Snape,M Morkel,A Flintoff,0,0,0,113,7,11,4,caught,JN Snape,AB de Villiers,18,-,field,England,2,Newlands,2007-09-16,England,South Africa
+108,A Flintoff,M Morkel,AD Mascarenhas,1,0,1,114,17,15,5,0,,,18,-,field,England,2,Newlands,2007-09-16,England,South Africa
+109,AD Mascarenhas,M Morkel,A Flintoff,1,0,1,115,1,1,6,0,,,18,-,field,England,2,Newlands,2007-09-16,England,South Africa
+110,AD Mascarenhas,JJ van der Wath,A Flintoff,4,0,4,119,5,2,1,0,,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+111,AD Mascarenhas,JJ van der Wath,A Flintoff,1,0,1,120,6,3,2,0,,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+112,A Flintoff,JJ van der Wath,AD Mascarenhas,0,0,0,120,17,16,3,bowled,A Flintoff,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+113,CP Schofield,JJ van der Wath,AD Mascarenhas,4,0,4,124,4,1,4,0,,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+114,CP Schofield,JJ van der Wath,AD Mascarenhas,1,0,1,125,5,2,5,0,,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+115,AD Mascarenhas,JJ van der Wath,CP Schofield,1,0,1,126,7,4,6,0,,,19,-,field,England,2,Newlands,2007-09-16,England,South Africa
+116,AD Mascarenhas,M Morkel,CP Schofield,2,0,2,128,9,5,1,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa
+117,AD Mascarenhas,M Morkel,CP Schofield,4,0,4,132,13,6,2,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa
+118,AD Mascarenhas,M Morkel,CP Schofield,0,0,0,132,13,7,3,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa
+119,AD Mascarenhas,M Morkel,CP Schofield,1,0,1,133,14,8,4,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa
+120,CP Schofield,M Morkel,AD Mascarenhas,1,0,1,134,6,3,5,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa
+121,AD Mascarenhas,M Morkel,CP Schofield,1,0,1,135,15,9,6,0,,,20,-,field,England,2,Newlands,2007-09-16,England,South Africa

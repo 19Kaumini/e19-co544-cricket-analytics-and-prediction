@@ -1,45 +1,45 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,AJ Finch,LL Tsotsobe,DA Warner,4,0,4,4,4,1,1,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-1,AJ Finch,LL Tsotsobe,DA Warner,1,0,1,5,5,2,2,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-2,DA Warner,LL Tsotsobe,AJ Finch,4,0,4,9,4,1,3,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-3,DA Warner,LL Tsotsobe,AJ Finch,2,0,2,11,6,2,4,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-4,DA Warner,LL Tsotsobe,AJ Finch,6,0,6,17,12,3,5,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-5,DA Warner,LL Tsotsobe,AJ Finch,4,0,4,21,16,4,6,1,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-6,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,3,1,2,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-7,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,4,2,2,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-8,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,5,3,2,caught,AJ Finch,HM Amla,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-9,DA Warner,KJ Abbott,SR Watson,4,0,4,25,20,5,4,2,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-10,DA Warner,KJ Abbott,SR Watson,0,0,0,25,20,6,5,2,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-11,DA Warner,KJ Abbott,SR Watson,1,0,1,26,21,7,6,2,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-12,DA Warner,BE Hendricks,SR Watson,1,0,1,27,22,8,1,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-13,SR Watson,BE Hendricks,DA Warner,1,0,1,28,1,1,2,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-14,DA Warner,BE Hendricks,SR Watson,6,0,6,34,28,9,3,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-15,DA Warner,BE Hendricks,SR Watson,4,0,4,38,32,10,4,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-16,DA Warner,BE Hendricks,SR Watson,4,0,4,42,36,11,5,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-17,DA Warner,BE Hendricks,SR Watson,2,0,2,44,38,12,6,3,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-18,SR Watson,WD Parnell,DA Warner,1,0,1,45,2,2,1,4,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-19,DA Warner,WD Parnell,SR Watson,1,0,1,46,39,13,2,4,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-20,SR Watson,WD Parnell,DA Warner,0,0,0,46,2,3,3,4,caught,SR Watson,KJ Abbott,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-21,GJ Maxwell,WD Parnell,DA Warner,0,1,1,47,0,1,4,4,0,,,{'legbyes': 1},legbyes,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-22,DA Warner,WD Parnell,GJ Maxwell,0,0,0,47,39,14,5,4,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-23,DA Warner,WD Parnell,GJ Maxwell,1,0,1,48,40,15,6,4,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-24,DA Warner,JP Duminy,GJ Maxwell,0,0,0,48,40,16,1,5,lbw,DA Warner,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-25,GJ Bailey,JP Duminy,GJ Maxwell,1,0,1,49,1,1,2,5,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-26,GJ Maxwell,JP Duminy,GJ Bailey,0,1,1,50,0,2,3,5,0,,,{'wides': 1},wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-27,GJ Maxwell,JP Duminy,GJ Bailey,1,0,1,51,1,3,4,5,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-28,GJ Bailey,JP Duminy,GJ Maxwell,1,0,1,52,2,2,5,5,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-29,GJ Maxwell,JP Duminy,GJ Bailey,0,0,0,52,1,4,6,5,caught,GJ Maxwell,F du Plessis,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-30,BJ Hodge,JP Duminy,GJ Bailey,1,0,1,53,1,1,7,5,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-31,BJ Hodge,BE Hendricks,GJ Bailey,4,1,5,58,5,2,1,6,0,,,{'noballs': 1},noballs,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-32,BJ Hodge,BE Hendricks,GJ Bailey,0,1,1,59,5,3,2,6,0,,,{'wides': 1},wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-33,BJ Hodge,BE Hendricks,GJ Bailey,1,0,1,60,6,4,3,6,run out,GJ Bailey,DA Miller;Q de Kock,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-34,BJ Haddin,BE Hendricks,BJ Hodge,1,0,1,61,1,1,4,6,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-35,BJ Hodge,BE Hendricks,BJ Haddin,1,0,1,62,7,5,5,6,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-36,BJ Haddin,BE Hendricks,BJ Hodge,2,0,2,64,3,2,6,6,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-37,BJ Haddin,BE Hendricks,BJ Hodge,1,0,1,65,4,3,7,6,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-38,BJ Hodge,BE Hendricks,BJ Haddin,1,0,1,66,8,6,8,6,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-39,BJ Hodge,WD Parnell,BJ Haddin,1,0,1,67,9,7,1,7,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-40,BJ Haddin,WD Parnell,BJ Hodge,0,1,1,68,4,4,2,7,0,,,{'legbyes': 1},legbyes,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-41,BJ Hodge,WD Parnell,BJ Haddin,6,0,6,74,15,8,3,7,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-42,BJ Hodge,WD Parnell,BJ Haddin,6,0,6,80,21,9,4,7,0,,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
-43,BJ Hodge,WD Parnell,BJ Haddin,0,1,1,81,21,10,5,7,0,,,{'wides': 1},wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,AJ Finch,LL Tsotsobe,DA Warner,4,0,4,4,4,1,1,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+1,AJ Finch,LL Tsotsobe,DA Warner,1,0,1,5,5,2,2,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+2,DA Warner,LL Tsotsobe,AJ Finch,4,0,4,9,4,1,3,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+3,DA Warner,LL Tsotsobe,AJ Finch,2,0,2,11,6,2,4,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+4,DA Warner,LL Tsotsobe,AJ Finch,6,0,6,17,12,3,5,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+5,DA Warner,LL Tsotsobe,AJ Finch,4,0,4,21,16,4,6,1,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+6,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,3,1,2,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+7,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,4,2,2,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+8,AJ Finch,KJ Abbott,DA Warner,0,0,0,21,5,5,3,2,caught,AJ Finch,HM Amla,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+9,DA Warner,KJ Abbott,SR Watson,4,0,4,25,20,5,4,2,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+10,DA Warner,KJ Abbott,SR Watson,0,0,0,25,20,6,5,2,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+11,DA Warner,KJ Abbott,SR Watson,1,0,1,26,21,7,6,2,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+12,DA Warner,BE Hendricks,SR Watson,1,0,1,27,22,8,1,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+13,SR Watson,BE Hendricks,DA Warner,1,0,1,28,1,1,2,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+14,DA Warner,BE Hendricks,SR Watson,6,0,6,34,28,9,3,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+15,DA Warner,BE Hendricks,SR Watson,4,0,4,38,32,10,4,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+16,DA Warner,BE Hendricks,SR Watson,4,0,4,42,36,11,5,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+17,DA Warner,BE Hendricks,SR Watson,2,0,2,44,38,12,6,3,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+18,SR Watson,WD Parnell,DA Warner,1,0,1,45,2,2,1,4,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+19,DA Warner,WD Parnell,SR Watson,1,0,1,46,39,13,2,4,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+20,SR Watson,WD Parnell,DA Warner,0,0,0,46,2,3,3,4,caught,SR Watson,KJ Abbott,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+21,GJ Maxwell,WD Parnell,DA Warner,0,1,1,47,0,1,4,4,0,,,legbyes,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+22,DA Warner,WD Parnell,GJ Maxwell,0,0,0,47,39,14,5,4,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+23,DA Warner,WD Parnell,GJ Maxwell,1,0,1,48,40,15,6,4,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+24,DA Warner,JP Duminy,GJ Maxwell,0,0,0,48,40,16,1,5,lbw,DA Warner,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+25,GJ Bailey,JP Duminy,GJ Maxwell,1,0,1,49,1,1,2,5,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+26,GJ Maxwell,JP Duminy,GJ Bailey,0,1,1,50,0,2,3,5,0,,,wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+27,GJ Maxwell,JP Duminy,GJ Bailey,1,0,1,51,1,3,4,5,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+28,GJ Bailey,JP Duminy,GJ Maxwell,1,0,1,52,2,2,5,5,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+29,GJ Maxwell,JP Duminy,GJ Bailey,0,0,0,52,1,4,6,5,caught,GJ Maxwell,F du Plessis,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+30,BJ Hodge,JP Duminy,GJ Bailey,1,0,1,53,1,1,7,5,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+31,BJ Hodge,BE Hendricks,GJ Bailey,4,1,5,58,5,2,1,6,0,,,noballs,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+32,BJ Hodge,BE Hendricks,GJ Bailey,0,1,1,59,5,3,2,6,0,,,wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+33,BJ Hodge,BE Hendricks,GJ Bailey,1,0,1,60,6,4,3,6,run out,GJ Bailey,DA Miller;Q de Kock,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+34,BJ Haddin,BE Hendricks,BJ Hodge,1,0,1,61,1,1,4,6,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+35,BJ Hodge,BE Hendricks,BJ Haddin,1,0,1,62,7,5,5,6,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+36,BJ Haddin,BE Hendricks,BJ Hodge,2,0,2,64,3,2,6,6,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+37,BJ Haddin,BE Hendricks,BJ Hodge,1,0,1,65,4,3,7,6,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+38,BJ Hodge,BE Hendricks,BJ Haddin,1,0,1,66,8,6,8,6,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+39,BJ Hodge,WD Parnell,BJ Haddin,1,0,1,67,9,7,1,7,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+40,BJ Haddin,WD Parnell,BJ Hodge,0,1,1,68,4,4,2,7,0,,,legbyes,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+41,BJ Hodge,WD Parnell,BJ Haddin,6,0,6,74,15,8,3,7,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+42,BJ Hodge,WD Parnell,BJ Haddin,6,0,6,80,21,9,4,7,0,,,-,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa
+43,BJ Hodge,WD Parnell,BJ Haddin,0,1,1,81,21,10,5,7,0,,,wides,field,Australia,2,Kingsmead,2014-03-12,Australia,South Africa

@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Mohammad Naim,AJ Turner,Soumya Sarkar,1,0,1,1,1,1,1,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-1,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,1,2,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-2,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,2,3,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-3,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,3,4,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-4,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,4,5,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-5,Soumya Sarkar,AJ Turner,Mohammad Naim,1,0,1,2,1,5,6,1,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-6,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,6,1,2,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-7,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,7,2,2,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-8,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,8,3,2,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-9,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,9,4,2,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-10,Soumya Sarkar,JR Hazlewood,Mohammad Naim,1,0,1,3,2,10,5,2,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-11,Mohammad Naim,JR Hazlewood,Soumya Sarkar,0,0,0,3,1,2,6,2,caught,Mohammad Naim,MS Wade,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-12,Soumya Sarkar,A Zampa,Shakib Al Hasan,0,0,0,3,2,11,1,3,lbw,Soumya Sarkar,,"{'by': 'Bangladesh', 'umpire': 'Sharfuddoula', 'batter': 'Soumya Sarkar', 'decision': 'struck down', 'umpires_call': True}",,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-13,Mahmudullah,A Zampa,Shakib Al Hasan,0,0,0,3,0,1,2,3,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-14,Mahmudullah,A Zampa,Shakib Al Hasan,2,0,2,5,2,2,3,3,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-15,Mahmudullah,A Zampa,Shakib Al Hasan,0,1,1,6,2,3,4,3,0,,,,{'wides': 1},wides,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-16,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,7,3,4,5,3,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-17,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,8,1,1,6,3,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-18,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,9,4,5,7,3,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-19,Mahmudullah,JR Hazlewood,Shakib Al Hasan,1,0,1,10,5,6,1,4,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-20,Shakib Al Hasan,JR Hazlewood,Mahmudullah,0,1,1,11,1,2,2,4,0,,,,{'legbyes': 1},legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-21,Mahmudullah,JR Hazlewood,Shakib Al Hasan,1,0,1,12,6,7,3,4,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-22,Shakib Al Hasan,JR Hazlewood,Mahmudullah,0,0,0,12,1,3,4,4,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-23,Shakib Al Hasan,JR Hazlewood,Mahmudullah,1,0,1,13,2,4,5,4,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-24,Mahmudullah,JR Hazlewood,Shakib Al Hasan,2,0,2,15,8,8,6,4,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-25,Shakib Al Hasan,AC Agar,Mahmudullah,4,0,4,19,6,5,1,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-26,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,20,7,6,2,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-27,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,9,3,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-28,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,10,4,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-29,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,11,5,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-30,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,12,6,5,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-31,Shakib Al Hasan,NT Ellis,Mahmudullah,1,0,1,21,8,7,1,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-32,Mahmudullah,NT Ellis,Shakib Al Hasan,0,0,0,21,8,13,2,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-33,Mahmudullah,NT Ellis,Shakib Al Hasan,1,0,1,22,9,14,3,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-34,Shakib Al Hasan,NT Ellis,Mahmudullah,2,0,2,24,10,8,4,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-35,Shakib Al Hasan,NT Ellis,Mahmudullah,0,0,0,24,10,9,5,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-36,Shakib Al Hasan,NT Ellis,Mahmudullah,4,0,4,28,14,10,6,6,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-37,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,28,9,15,1,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-38,Mahmudullah,AC Agar,Shakib Al Hasan,1,0,1,29,10,16,2,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-39,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,30,15,11,3,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-40,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,30,10,17,4,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-41,Mahmudullah,AC Agar,Shakib Al Hasan,1,0,1,31,11,18,5,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-42,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,32,16,12,6,7,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-43,Shakib Al Hasan,MR Marsh,Mahmudullah,1,0,1,33,17,13,1,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-44,Mahmudullah,MR Marsh,Shakib Al Hasan,4,0,4,37,15,19,2,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-45,Mahmudullah,MR Marsh,Shakib Al Hasan,1,0,1,38,16,20,3,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-46,Shakib Al Hasan,MR Marsh,Mahmudullah,4,0,4,42,21,14,4,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-47,Shakib Al Hasan,MR Marsh,Mahmudullah,4,0,4,46,25,15,5,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-48,Shakib Al Hasan,MR Marsh,Mahmudullah,1,0,1,47,26,16,6,8,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-49,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,47,26,17,1,9,caught,Shakib Al Hasan,AC Agar,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-50,Mahmudullah,A Zampa,Afif Hossain,1,0,1,48,17,21,2,9,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-51,Afif Hossain,A Zampa,Mahmudullah,1,0,1,49,1,1,3,9,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-52,Mahmudullah,A Zampa,Afif Hossain,0,0,0,49,17,22,4,9,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-53,Mahmudullah,A Zampa,Afif Hossain,1,0,1,50,18,23,5,9,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-54,Afif Hossain,A Zampa,Mahmudullah,0,0,0,50,1,2,6,9,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-55,Mahmudullah,AC Agar,Afif Hossain,0,1,1,51,18,24,1,10,0,,,,{'legbyes': 1},legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-56,Afif Hossain,AC Agar,Mahmudullah,0,0,0,51,1,3,2,10,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-57,Afif Hossain,AC Agar,Mahmudullah,6,0,6,57,7,4,3,10,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-58,Afif Hossain,AC Agar,Mahmudullah,0,1,1,58,7,5,4,10,0,,,,{'wides': 1},wides,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-59,Afif Hossain,AC Agar,Mahmudullah,0,0,0,58,7,6,5,10,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-60,Afif Hossain,AC Agar,Mahmudullah,2,0,2,60,9,7,6,10,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-61,Afif Hossain,AC Agar,Mahmudullah,0,0,0,60,9,8,7,10,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-62,Mahmudullah,NT Ellis,Afif Hossain,1,0,1,61,19,25,1,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-63,Afif Hossain,NT Ellis,Mahmudullah,1,0,1,62,10,9,2,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-64,Mahmudullah,NT Ellis,Afif Hossain,1,0,1,63,20,26,3,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-65,Afif Hossain,NT Ellis,Mahmudullah,2,0,2,65,12,10,4,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-66,Afif Hossain,NT Ellis,Mahmudullah,4,0,4,69,16,11,5,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-67,Afif Hossain,NT Ellis,Mahmudullah,2,0,2,71,18,12,6,11,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-68,Mahmudullah,DT Christian,Afif Hossain,0,0,0,71,20,27,1,12,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-69,Mahmudullah,DT Christian,Afif Hossain,2,0,2,73,22,28,2,12,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-70,Mahmudullah,DT Christian,Afif Hossain,1,0,1,74,23,29,3,12,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-71,Afif Hossain,DT Christian,Mahmudullah,1,0,1,75,19,13,4,12,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-72,Mahmudullah,DT Christian,Afif Hossain,0,1,1,76,23,30,5,12,0,,,"{'by': 'Australia', 'umpire': 'Gazi Sohel', 'batter': 'Mahmudullah', 'decision': 'struck down', 'umpires_call': True}",{'legbyes': 1},legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-73,Afif Hossain,DT Christian,Mahmudullah,0,0,0,76,19,14,6,12,run out,Afif Hossain,AT Carey,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-74,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,76,0,1,1,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-75,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,76,0,2,2,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-76,Shamim Hossain,A Zampa,Mahmudullah,1,0,1,77,1,3,3,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-77,Mahmudullah,A Zampa,Shamim Hossain,1,0,1,78,24,31,4,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-78,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,78,1,4,5,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-79,Shamim Hossain,A Zampa,Mahmudullah,1,0,1,79,2,5,6,13,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-80,Shamim Hossain,JR Hazlewood,Mahmudullah,1,0,1,80,3,6,1,14,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-81,Mahmudullah,JR Hazlewood,Shamim Hossain,1,0,1,81,25,32,2,14,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-82,Shamim Hossain,JR Hazlewood,Mahmudullah,0,0,0,81,3,7,3,14,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-83,Shamim Hossain,JR Hazlewood,Mahmudullah,0,0,0,81,3,8,4,14,caught,Shamim Hossain,BR McDermott,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-84,Mahmudullah,JR Hazlewood,Nurul Hasan,0,0,0,81,25,33,5,14,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-85,Mahmudullah,JR Hazlewood,Nurul Hasan,0,0,0,81,25,34,6,14,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-86,Nurul Hasan,A Zampa,Mahmudullah,1,0,1,82,1,1,1,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-87,Mahmudullah,A Zampa,Nurul Hasan,1,0,1,83,26,35,2,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-88,Nurul Hasan,A Zampa,Mahmudullah,3,0,3,86,4,2,3,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-89,Mahmudullah,A Zampa,Nurul Hasan,1,0,1,87,27,36,4,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-90,Nurul Hasan,A Zampa,Mahmudullah,6,0,6,93,10,3,5,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-91,Nurul Hasan,A Zampa,Mahmudullah,0,0,0,93,10,4,6,15,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-92,Mahmudullah,DT Christian,Nurul Hasan,1,0,1,94,28,37,1,16,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-93,Nurul Hasan,DT Christian,Mahmudullah,1,0,1,95,11,5,2,16,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-94,Mahmudullah,DT Christian,Nurul Hasan,2,0,2,97,30,38,3,16,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-95,Mahmudullah,DT Christian,Nurul Hasan,0,0,0,97,30,39,4,16,run out,Nurul Hasan,MC Henriques,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-96,Mahedi Hasan,DT Christian,Mahmudullah,0,0,0,97,0,1,5,16,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-97,Mahedi Hasan,DT Christian,Mahmudullah,1,0,1,98,1,2,6,16,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-98,Mahedi Hasan,AC Agar,Mahmudullah,1,0,1,99,2,3,1,17,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-99,Mahmudullah,AC Agar,Mahedi Hasan,2,0,2,101,32,40,2,17,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-100,Mahmudullah,AC Agar,Mahedi Hasan,1,0,1,102,33,41,3,17,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-101,Mahedi Hasan,AC Agar,Mahmudullah,0,1,1,103,2,4,4,17,0,,,,{'legbyes': 1},legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-102,Mahmudullah,AC Agar,Mahedi Hasan,1,0,1,104,34,42,5,17,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-103,Mahedi Hasan,AC Agar,Mahmudullah,0,0,0,104,2,5,6,17,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-104,Mahmudullah,NT Ellis,Mahedi Hasan,2,0,2,106,36,43,1,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-105,Mahmudullah,NT Ellis,Mahedi Hasan,0,0,0,106,36,44,2,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-106,Mahmudullah,NT Ellis,Mahedi Hasan,1,0,1,107,37,45,3,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-107,Mahedi Hasan,NT Ellis,Mahmudullah,1,0,1,108,3,6,4,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-108,Mahmudullah,NT Ellis,Mahedi Hasan,2,0,2,110,39,46,5,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-109,Mahmudullah,NT Ellis,Mahedi Hasan,4,0,4,114,43,47,6,18,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-110,Mahedi Hasan,JR Hazlewood,Mahmudullah,1,0,1,115,4,7,1,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-111,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,1,1,116,43,48,2,19,0,,,,{'noballs': 1},noballs,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-112,Mahmudullah,JR Hazlewood,Mahedi Hasan,1,0,1,117,44,49,3,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-113,Mahedi Hasan,JR Hazlewood,Mahmudullah,1,0,1,118,5,8,4,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-114,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,0,0,118,44,50,5,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-115,Mahmudullah,JR Hazlewood,Mahedi Hasan,4,0,4,122,48,51,6,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-116,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,0,0,122,48,52,7,19,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-117,Mahedi Hasan,NT Ellis,Mahmudullah,0,0,0,122,5,9,1,20,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-118,Mahedi Hasan,NT Ellis,Mahmudullah,1,0,1,123,6,10,2,20,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-119,Mahmudullah,NT Ellis,Mahedi Hasan,4,0,4,127,52,53,3,20,0,,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-120,Mahmudullah,NT Ellis,Mahedi Hasan,0,0,0,127,52,54,4,20,bowled,Mahmudullah,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-121,Mustafizur Rahman,NT Ellis,Mahedi Hasan,0,0,0,127,0,1,5,20,caught,Mustafizur Rahman,MR Marsh,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
-122,Mahedi Hasan,NT Ellis,Shoriful Islam,0,0,0,127,6,11,6,20,caught,Mahedi Hasan,AC Agar,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Mohammad Naim,AJ Turner,Soumya Sarkar,1,0,1,1,1,1,1,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+1,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,1,2,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+2,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,2,3,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+3,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,3,4,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+4,Soumya Sarkar,AJ Turner,Mohammad Naim,0,0,0,1,0,4,5,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+5,Soumya Sarkar,AJ Turner,Mohammad Naim,1,0,1,2,1,5,6,1,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+6,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,6,1,2,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+7,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,7,2,2,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+8,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,8,3,2,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+9,Soumya Sarkar,JR Hazlewood,Mohammad Naim,0,0,0,2,1,9,4,2,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+10,Soumya Sarkar,JR Hazlewood,Mohammad Naim,1,0,1,3,2,10,5,2,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+11,Mohammad Naim,JR Hazlewood,Soumya Sarkar,0,0,0,3,1,2,6,2,caught,Mohammad Naim,MS Wade,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+12,Soumya Sarkar,A Zampa,Shakib Al Hasan,0,0,0,3,2,11,1,3,lbw,Soumya Sarkar,,"{'by': 'Bangladesh', 'umpire': 'Sharfuddoula', 'batter': 'Soumya Sarkar', 'decision': 'struck down', 'umpires_call': True}",-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+13,Mahmudullah,A Zampa,Shakib Al Hasan,0,0,0,3,0,1,2,3,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+14,Mahmudullah,A Zampa,Shakib Al Hasan,2,0,2,5,2,2,3,3,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+15,Mahmudullah,A Zampa,Shakib Al Hasan,0,1,1,6,2,3,4,3,0,,,,wides,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+16,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,7,3,4,5,3,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+17,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,8,1,1,6,3,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+18,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,9,4,5,7,3,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+19,Mahmudullah,JR Hazlewood,Shakib Al Hasan,1,0,1,10,5,6,1,4,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+20,Shakib Al Hasan,JR Hazlewood,Mahmudullah,0,1,1,11,1,2,2,4,0,,,,legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+21,Mahmudullah,JR Hazlewood,Shakib Al Hasan,1,0,1,12,6,7,3,4,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+22,Shakib Al Hasan,JR Hazlewood,Mahmudullah,0,0,0,12,1,3,4,4,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+23,Shakib Al Hasan,JR Hazlewood,Mahmudullah,1,0,1,13,2,4,5,4,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+24,Mahmudullah,JR Hazlewood,Shakib Al Hasan,2,0,2,15,8,8,6,4,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+25,Shakib Al Hasan,AC Agar,Mahmudullah,4,0,4,19,6,5,1,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+26,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,20,7,6,2,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+27,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,9,3,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+28,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,10,4,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+29,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,11,5,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+30,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,20,8,12,6,5,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+31,Shakib Al Hasan,NT Ellis,Mahmudullah,1,0,1,21,8,7,1,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+32,Mahmudullah,NT Ellis,Shakib Al Hasan,0,0,0,21,8,13,2,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+33,Mahmudullah,NT Ellis,Shakib Al Hasan,1,0,1,22,9,14,3,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+34,Shakib Al Hasan,NT Ellis,Mahmudullah,2,0,2,24,10,8,4,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+35,Shakib Al Hasan,NT Ellis,Mahmudullah,0,0,0,24,10,9,5,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+36,Shakib Al Hasan,NT Ellis,Mahmudullah,4,0,4,28,14,10,6,6,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+37,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,28,9,15,1,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+38,Mahmudullah,AC Agar,Shakib Al Hasan,1,0,1,29,10,16,2,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+39,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,30,15,11,3,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+40,Mahmudullah,AC Agar,Shakib Al Hasan,0,0,0,30,10,17,4,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+41,Mahmudullah,AC Agar,Shakib Al Hasan,1,0,1,31,11,18,5,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+42,Shakib Al Hasan,AC Agar,Mahmudullah,1,0,1,32,16,12,6,7,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+43,Shakib Al Hasan,MR Marsh,Mahmudullah,1,0,1,33,17,13,1,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+44,Mahmudullah,MR Marsh,Shakib Al Hasan,4,0,4,37,15,19,2,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+45,Mahmudullah,MR Marsh,Shakib Al Hasan,1,0,1,38,16,20,3,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+46,Shakib Al Hasan,MR Marsh,Mahmudullah,4,0,4,42,21,14,4,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+47,Shakib Al Hasan,MR Marsh,Mahmudullah,4,0,4,46,25,15,5,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+48,Shakib Al Hasan,MR Marsh,Mahmudullah,1,0,1,47,26,16,6,8,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+49,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,47,26,17,1,9,caught,Shakib Al Hasan,AC Agar,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+50,Mahmudullah,A Zampa,Afif Hossain,1,0,1,48,17,21,2,9,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+51,Afif Hossain,A Zampa,Mahmudullah,1,0,1,49,1,1,3,9,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+52,Mahmudullah,A Zampa,Afif Hossain,0,0,0,49,17,22,4,9,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+53,Mahmudullah,A Zampa,Afif Hossain,1,0,1,50,18,23,5,9,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+54,Afif Hossain,A Zampa,Mahmudullah,0,0,0,50,1,2,6,9,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+55,Mahmudullah,AC Agar,Afif Hossain,0,1,1,51,18,24,1,10,0,,,,legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+56,Afif Hossain,AC Agar,Mahmudullah,0,0,0,51,1,3,2,10,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+57,Afif Hossain,AC Agar,Mahmudullah,6,0,6,57,7,4,3,10,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+58,Afif Hossain,AC Agar,Mahmudullah,0,1,1,58,7,5,4,10,0,,,,wides,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+59,Afif Hossain,AC Agar,Mahmudullah,0,0,0,58,7,6,5,10,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+60,Afif Hossain,AC Agar,Mahmudullah,2,0,2,60,9,7,6,10,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+61,Afif Hossain,AC Agar,Mahmudullah,0,0,0,60,9,8,7,10,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+62,Mahmudullah,NT Ellis,Afif Hossain,1,0,1,61,19,25,1,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+63,Afif Hossain,NT Ellis,Mahmudullah,1,0,1,62,10,9,2,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+64,Mahmudullah,NT Ellis,Afif Hossain,1,0,1,63,20,26,3,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+65,Afif Hossain,NT Ellis,Mahmudullah,2,0,2,65,12,10,4,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+66,Afif Hossain,NT Ellis,Mahmudullah,4,0,4,69,16,11,5,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+67,Afif Hossain,NT Ellis,Mahmudullah,2,0,2,71,18,12,6,11,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+68,Mahmudullah,DT Christian,Afif Hossain,0,0,0,71,20,27,1,12,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+69,Mahmudullah,DT Christian,Afif Hossain,2,0,2,73,22,28,2,12,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+70,Mahmudullah,DT Christian,Afif Hossain,1,0,1,74,23,29,3,12,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+71,Afif Hossain,DT Christian,Mahmudullah,1,0,1,75,19,13,4,12,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+72,Mahmudullah,DT Christian,Afif Hossain,0,1,1,76,23,30,5,12,0,,,"{'by': 'Australia', 'umpire': 'Gazi Sohel', 'batter': 'Mahmudullah', 'decision': 'struck down', 'umpires_call': True}",legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+73,Afif Hossain,DT Christian,Mahmudullah,0,0,0,76,19,14,6,12,run out,Afif Hossain,AT Carey,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+74,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,76,0,1,1,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+75,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,76,0,2,2,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+76,Shamim Hossain,A Zampa,Mahmudullah,1,0,1,77,1,3,3,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+77,Mahmudullah,A Zampa,Shamim Hossain,1,0,1,78,24,31,4,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+78,Shamim Hossain,A Zampa,Mahmudullah,0,0,0,78,1,4,5,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+79,Shamim Hossain,A Zampa,Mahmudullah,1,0,1,79,2,5,6,13,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+80,Shamim Hossain,JR Hazlewood,Mahmudullah,1,0,1,80,3,6,1,14,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+81,Mahmudullah,JR Hazlewood,Shamim Hossain,1,0,1,81,25,32,2,14,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+82,Shamim Hossain,JR Hazlewood,Mahmudullah,0,0,0,81,3,7,3,14,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+83,Shamim Hossain,JR Hazlewood,Mahmudullah,0,0,0,81,3,8,4,14,caught,Shamim Hossain,BR McDermott,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+84,Mahmudullah,JR Hazlewood,Nurul Hasan,0,0,0,81,25,33,5,14,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+85,Mahmudullah,JR Hazlewood,Nurul Hasan,0,0,0,81,25,34,6,14,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+86,Nurul Hasan,A Zampa,Mahmudullah,1,0,1,82,1,1,1,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+87,Mahmudullah,A Zampa,Nurul Hasan,1,0,1,83,26,35,2,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+88,Nurul Hasan,A Zampa,Mahmudullah,3,0,3,86,4,2,3,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+89,Mahmudullah,A Zampa,Nurul Hasan,1,0,1,87,27,36,4,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+90,Nurul Hasan,A Zampa,Mahmudullah,6,0,6,93,10,3,5,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+91,Nurul Hasan,A Zampa,Mahmudullah,0,0,0,93,10,4,6,15,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+92,Mahmudullah,DT Christian,Nurul Hasan,1,0,1,94,28,37,1,16,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+93,Nurul Hasan,DT Christian,Mahmudullah,1,0,1,95,11,5,2,16,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+94,Mahmudullah,DT Christian,Nurul Hasan,2,0,2,97,30,38,3,16,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+95,Mahmudullah,DT Christian,Nurul Hasan,0,0,0,97,30,39,4,16,run out,Nurul Hasan,MC Henriques,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+96,Mahedi Hasan,DT Christian,Mahmudullah,0,0,0,97,0,1,5,16,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+97,Mahedi Hasan,DT Christian,Mahmudullah,1,0,1,98,1,2,6,16,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+98,Mahedi Hasan,AC Agar,Mahmudullah,1,0,1,99,2,3,1,17,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+99,Mahmudullah,AC Agar,Mahedi Hasan,2,0,2,101,32,40,2,17,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+100,Mahmudullah,AC Agar,Mahedi Hasan,1,0,1,102,33,41,3,17,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+101,Mahedi Hasan,AC Agar,Mahmudullah,0,1,1,103,2,4,4,17,0,,,,legbyes,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+102,Mahmudullah,AC Agar,Mahedi Hasan,1,0,1,104,34,42,5,17,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+103,Mahedi Hasan,AC Agar,Mahmudullah,0,0,0,104,2,5,6,17,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+104,Mahmudullah,NT Ellis,Mahedi Hasan,2,0,2,106,36,43,1,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+105,Mahmudullah,NT Ellis,Mahedi Hasan,0,0,0,106,36,44,2,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+106,Mahmudullah,NT Ellis,Mahedi Hasan,1,0,1,107,37,45,3,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+107,Mahedi Hasan,NT Ellis,Mahmudullah,1,0,1,108,3,6,4,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+108,Mahmudullah,NT Ellis,Mahedi Hasan,2,0,2,110,39,46,5,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+109,Mahmudullah,NT Ellis,Mahedi Hasan,4,0,4,114,43,47,6,18,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+110,Mahedi Hasan,JR Hazlewood,Mahmudullah,1,0,1,115,4,7,1,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+111,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,1,1,116,43,48,2,19,0,,,,noballs,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+112,Mahmudullah,JR Hazlewood,Mahedi Hasan,1,0,1,117,44,49,3,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+113,Mahedi Hasan,JR Hazlewood,Mahmudullah,1,0,1,118,5,8,4,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+114,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,0,0,118,44,50,5,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+115,Mahmudullah,JR Hazlewood,Mahedi Hasan,4,0,4,122,48,51,6,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+116,Mahmudullah,JR Hazlewood,Mahedi Hasan,0,0,0,122,48,52,7,19,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+117,Mahedi Hasan,NT Ellis,Mahmudullah,0,0,0,122,5,9,1,20,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+118,Mahedi Hasan,NT Ellis,Mahmudullah,1,0,1,123,6,10,2,20,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+119,Mahmudullah,NT Ellis,Mahedi Hasan,4,0,4,127,52,53,3,20,0,,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+120,Mahmudullah,NT Ellis,Mahedi Hasan,0,0,0,127,52,54,4,20,bowled,Mahmudullah,,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+121,Mustafizur Rahman,NT Ellis,Mahedi Hasan,0,0,0,127,0,1,5,20,caught,Mustafizur Rahman,MR Marsh,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia
+122,Mahedi Hasan,NT Ellis,Shoriful Islam,0,0,0,127,6,11,6,20,caught,Mahedi Hasan,AC Agar,,-,bat,Bangladesh,1,"Shere Bangla National Stadium, Mirpur",2021-08-06,Bangladesh,Australia

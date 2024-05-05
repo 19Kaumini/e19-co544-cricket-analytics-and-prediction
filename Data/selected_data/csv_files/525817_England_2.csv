@@ -1,102 +1,102 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,AD Hales,K Santokie,C Kieswetter,0,0,0,0,0,1,1,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-1,AD Hales,K Santokie,C Kieswetter,0,0,0,0,0,2,2,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-2,AD Hales,K Santokie,C Kieswetter,1,0,1,1,1,3,3,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-3,C Kieswetter,K Santokie,AD Hales,4,0,4,5,4,1,4,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-4,C Kieswetter,K Santokie,AD Hales,0,0,0,5,4,2,5,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-5,C Kieswetter,K Santokie,AD Hales,0,0,0,5,4,3,6,1,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-6,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,4,1,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-7,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,5,2,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-8,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,6,3,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-9,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,7,4,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-10,AD Hales,GE Mathurin,C Kieswetter,1,0,1,6,2,8,5,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-11,C Kieswetter,GE Mathurin,AD Hales,1,0,1,7,5,4,6,2,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-12,C Kieswetter,K Santokie,AD Hales,0,0,0,7,5,5,1,3,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-13,C Kieswetter,K Santokie,AD Hales,4,0,4,11,9,6,2,3,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-14,C Kieswetter,K Santokie,AD Hales,1,0,1,12,10,7,3,3,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-15,AD Hales,K Santokie,C Kieswetter,0,0,0,12,2,9,4,3,bowled,AD Hales,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-16,BA Stokes,K Santokie,C Kieswetter,1,0,1,13,1,1,5,3,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-17,C Kieswetter,K Santokie,BA Stokes,0,0,0,13,10,8,6,3,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-18,BA Stokes,GE Mathurin,C Kieswetter,0,1,1,14,1,2,1,4,0,,,{'legbyes': 1},legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-19,C Kieswetter,GE Mathurin,BA Stokes,0,0,0,14,10,9,2,4,bowled,C Kieswetter,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-20,RS Bopara,GE Mathurin,BA Stokes,0,0,0,14,0,1,3,4,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-21,RS Bopara,GE Mathurin,BA Stokes,0,1,1,15,0,2,4,4,0,,,{'legbyes': 1},legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-22,BA Stokes,GE Mathurin,RS Bopara,1,0,1,16,2,3,5,4,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-23,RS Bopara,GE Mathurin,BA Stokes,0,0,0,16,0,3,6,4,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-24,BA Stokes,K Santokie,RS Bopara,1,0,1,17,3,4,1,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-25,RS Bopara,K Santokie,BA Stokes,0,0,0,17,0,4,2,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-26,RS Bopara,K Santokie,BA Stokes,2,0,2,19,2,5,3,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-27,RS Bopara,K Santokie,BA Stokes,1,0,1,20,3,6,4,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-28,BA Stokes,K Santokie,RS Bopara,0,0,0,20,3,5,5,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-29,BA Stokes,K Santokie,RS Bopara,2,0,2,22,5,6,6,5,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-30,RS Bopara,GE Mathurin,BA Stokes,0,0,0,22,3,7,1,6,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-31,RS Bopara,GE Mathurin,BA Stokes,0,1,1,23,3,8,2,6,0,,,{'legbyes': 1},legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-32,BA Stokes,GE Mathurin,RS Bopara,1,0,1,24,6,7,3,6,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-33,RS Bopara,GE Mathurin,BA Stokes,0,0,0,24,3,9,4,6,bowled,RS Bopara,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-34,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,24,0,1,5,6,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-35,JM Bairstow,GE Mathurin,BA Stokes,2,0,2,26,2,2,6,6,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-36,BA Stokes,D Bishoo,JM Bairstow,2,0,2,28,8,8,1,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-37,BA Stokes,D Bishoo,JM Bairstow,0,0,0,28,8,9,2,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-38,BA Stokes,D Bishoo,JM Bairstow,6,0,6,34,14,10,3,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-39,BA Stokes,D Bishoo,JM Bairstow,4,0,4,38,18,11,4,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-40,BA Stokes,D Bishoo,JM Bairstow,0,0,0,38,18,12,5,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-41,BA Stokes,D Bishoo,JM Bairstow,4,0,4,42,22,13,6,7,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-42,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,42,2,3,1,8,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-43,JM Bairstow,GE Mathurin,BA Stokes,2,0,2,44,4,4,2,8,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-44,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,44,4,5,3,8,bowled,JM Bairstow,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-45,SR Patel,GE Mathurin,BA Stokes,0,0,0,44,0,1,4,8,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-46,SR Patel,GE Mathurin,BA Stokes,1,0,1,45,1,2,5,8,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-47,BA Stokes,GE Mathurin,SR Patel,0,0,0,45,22,14,6,8,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-48,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,3,1,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-49,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,4,2,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-50,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,5,3,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-51,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,6,4,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-52,SR Patel,D Bishoo,BA Stokes,1,0,1,46,2,7,5,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-53,BA Stokes,D Bishoo,SR Patel,1,0,1,47,23,15,6,9,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-54,BA Stokes,DJG Sammy,SR Patel,0,0,0,47,23,16,1,10,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-55,BA Stokes,DJG Sammy,SR Patel,4,0,4,51,27,17,2,10,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-56,BA Stokes,DJG Sammy,SR Patel,1,0,1,52,28,18,3,10,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-57,SR Patel,DJG Sammy,BA Stokes,0,0,0,52,2,8,4,10,run out,SR Patel,D Bishoo,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-58,BA Stokes,DJG Sammy,JC Buttler,3,0,3,55,31,19,5,10,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-59,JC Buttler,DJG Sammy,BA Stokes,0,0,0,55,0,1,6,10,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-60,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,20,1,11,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-61,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,21,2,11,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-62,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,22,3,11,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-63,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,23,4,11,lbw,BA Stokes,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-64,TT Bresnan,D Bishoo,JC Buttler,1,0,1,56,1,1,5,11,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-65,JC Buttler,D Bishoo,TT Bresnan,0,0,0,56,0,2,6,11,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-66,TT Bresnan,AD Russell,JC Buttler,1,0,1,57,2,2,1,12,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-67,JC Buttler,AD Russell,TT Bresnan,2,0,2,59,2,3,2,12,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-68,JC Buttler,AD Russell,TT Bresnan,0,0,0,59,2,4,3,12,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-69,JC Buttler,AD Russell,TT Bresnan,1,0,1,60,3,5,4,12,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-70,TT Bresnan,AD Russell,JC Buttler,0,0,0,60,2,3,5,12,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-71,TT Bresnan,AD Russell,JC Buttler,0,0,0,60,2,4,6,12,caught,TT Bresnan,GE Mathurin,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-72,SG Borthwick,DR Smith,JC Buttler,1,0,1,61,1,1,1,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-73,JC Buttler,DR Smith,SG Borthwick,1,0,1,62,4,6,2,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-74,SG Borthwick,DR Smith,JC Buttler,0,0,0,62,1,2,3,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-75,SG Borthwick,DR Smith,JC Buttler,4,0,4,66,5,3,4,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-76,SG Borthwick,DR Smith,JC Buttler,0,0,0,66,5,4,5,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-77,SG Borthwick,DR Smith,JC Buttler,1,0,1,67,6,5,6,13,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-78,SG Borthwick,AD Russell,JC Buttler,0,0,0,67,6,6,1,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-79,SG Borthwick,AD Russell,JC Buttler,1,0,1,68,7,7,2,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-80,JC Buttler,AD Russell,SG Borthwick,0,1,1,69,4,7,3,14,0,,,{'wides': 1},wides,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-81,JC Buttler,AD Russell,SG Borthwick,0,0,0,69,4,8,4,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-82,JC Buttler,AD Russell,SG Borthwick,4,0,4,73,8,9,5,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-83,JC Buttler,AD Russell,SG Borthwick,2,0,2,75,10,10,6,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-84,JC Buttler,AD Russell,SG Borthwick,2,0,2,77,12,11,7,14,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-85,SG Borthwick,DR Smith,JC Buttler,4,0,4,81,11,8,1,15,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-86,SG Borthwick,DR Smith,JC Buttler,0,0,0,81,11,9,2,15,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-87,SG Borthwick,DR Smith,JC Buttler,1,0,1,82,12,10,3,15,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-88,JC Buttler,DR Smith,SG Borthwick,1,0,1,83,13,12,4,15,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-89,SG Borthwick,DR Smith,JC Buttler,0,0,0,83,12,11,5,15,run out,JC Buttler,DJG Sammy,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-90,SG Borthwick,DR Smith,GP Swann,1,0,1,84,13,12,6,15,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-91,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,13,1,16,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-92,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,14,2,16,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-93,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,15,3,16,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-94,SG Borthwick,DJG Sammy,GP Swann,1,0,1,85,14,16,4,16,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-95,GP Swann,DJG Sammy,SG Borthwick,0,0,0,85,0,1,5,16,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-96,GP Swann,DJG Sammy,SG Borthwick,0,0,0,85,0,2,6,16,run out,SG Borthwick,MN Samuels;DJG Sammy,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-97,JW Dernbach,D Bishoo,GP Swann,0,0,0,85,0,1,1,17,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-98,JW Dernbach,D Bishoo,GP Swann,2,0,2,87,2,2,2,17,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-99,JW Dernbach,D Bishoo,GP Swann,0,0,0,87,2,3,3,17,0,,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
-100,JW Dernbach,D Bishoo,GP Swann,1,0,1,88,3,4,4,17,run out,JW Dernbach,DO Christian;CD Barnwell,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,AD Hales,K Santokie,C Kieswetter,0,0,0,0,0,1,1,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+1,AD Hales,K Santokie,C Kieswetter,0,0,0,0,0,2,2,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+2,AD Hales,K Santokie,C Kieswetter,1,0,1,1,1,3,3,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+3,C Kieswetter,K Santokie,AD Hales,4,0,4,5,4,1,4,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+4,C Kieswetter,K Santokie,AD Hales,0,0,0,5,4,2,5,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+5,C Kieswetter,K Santokie,AD Hales,0,0,0,5,4,3,6,1,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+6,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,4,1,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+7,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,5,2,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+8,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,6,3,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+9,AD Hales,GE Mathurin,C Kieswetter,0,0,0,5,1,7,4,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+10,AD Hales,GE Mathurin,C Kieswetter,1,0,1,6,2,8,5,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+11,C Kieswetter,GE Mathurin,AD Hales,1,0,1,7,5,4,6,2,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+12,C Kieswetter,K Santokie,AD Hales,0,0,0,7,5,5,1,3,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+13,C Kieswetter,K Santokie,AD Hales,4,0,4,11,9,6,2,3,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+14,C Kieswetter,K Santokie,AD Hales,1,0,1,12,10,7,3,3,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+15,AD Hales,K Santokie,C Kieswetter,0,0,0,12,2,9,4,3,bowled,AD Hales,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+16,BA Stokes,K Santokie,C Kieswetter,1,0,1,13,1,1,5,3,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+17,C Kieswetter,K Santokie,BA Stokes,0,0,0,13,10,8,6,3,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+18,BA Stokes,GE Mathurin,C Kieswetter,0,1,1,14,1,2,1,4,0,,,legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+19,C Kieswetter,GE Mathurin,BA Stokes,0,0,0,14,10,9,2,4,bowled,C Kieswetter,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+20,RS Bopara,GE Mathurin,BA Stokes,0,0,0,14,0,1,3,4,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+21,RS Bopara,GE Mathurin,BA Stokes,0,1,1,15,0,2,4,4,0,,,legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+22,BA Stokes,GE Mathurin,RS Bopara,1,0,1,16,2,3,5,4,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+23,RS Bopara,GE Mathurin,BA Stokes,0,0,0,16,0,3,6,4,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+24,BA Stokes,K Santokie,RS Bopara,1,0,1,17,3,4,1,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+25,RS Bopara,K Santokie,BA Stokes,0,0,0,17,0,4,2,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+26,RS Bopara,K Santokie,BA Stokes,2,0,2,19,2,5,3,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+27,RS Bopara,K Santokie,BA Stokes,1,0,1,20,3,6,4,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+28,BA Stokes,K Santokie,RS Bopara,0,0,0,20,3,5,5,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+29,BA Stokes,K Santokie,RS Bopara,2,0,2,22,5,6,6,5,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+30,RS Bopara,GE Mathurin,BA Stokes,0,0,0,22,3,7,1,6,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+31,RS Bopara,GE Mathurin,BA Stokes,0,1,1,23,3,8,2,6,0,,,legbyes,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+32,BA Stokes,GE Mathurin,RS Bopara,1,0,1,24,6,7,3,6,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+33,RS Bopara,GE Mathurin,BA Stokes,0,0,0,24,3,9,4,6,bowled,RS Bopara,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+34,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,24,0,1,5,6,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+35,JM Bairstow,GE Mathurin,BA Stokes,2,0,2,26,2,2,6,6,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+36,BA Stokes,D Bishoo,JM Bairstow,2,0,2,28,8,8,1,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+37,BA Stokes,D Bishoo,JM Bairstow,0,0,0,28,8,9,2,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+38,BA Stokes,D Bishoo,JM Bairstow,6,0,6,34,14,10,3,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+39,BA Stokes,D Bishoo,JM Bairstow,4,0,4,38,18,11,4,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+40,BA Stokes,D Bishoo,JM Bairstow,0,0,0,38,18,12,5,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+41,BA Stokes,D Bishoo,JM Bairstow,4,0,4,42,22,13,6,7,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+42,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,42,2,3,1,8,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+43,JM Bairstow,GE Mathurin,BA Stokes,2,0,2,44,4,4,2,8,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+44,JM Bairstow,GE Mathurin,BA Stokes,0,0,0,44,4,5,3,8,bowled,JM Bairstow,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+45,SR Patel,GE Mathurin,BA Stokes,0,0,0,44,0,1,4,8,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+46,SR Patel,GE Mathurin,BA Stokes,1,0,1,45,1,2,5,8,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+47,BA Stokes,GE Mathurin,SR Patel,0,0,0,45,22,14,6,8,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+48,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,3,1,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+49,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,4,2,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+50,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,5,3,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+51,SR Patel,D Bishoo,BA Stokes,0,0,0,45,1,6,4,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+52,SR Patel,D Bishoo,BA Stokes,1,0,1,46,2,7,5,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+53,BA Stokes,D Bishoo,SR Patel,1,0,1,47,23,15,6,9,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+54,BA Stokes,DJG Sammy,SR Patel,0,0,0,47,23,16,1,10,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+55,BA Stokes,DJG Sammy,SR Patel,4,0,4,51,27,17,2,10,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+56,BA Stokes,DJG Sammy,SR Patel,1,0,1,52,28,18,3,10,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+57,SR Patel,DJG Sammy,BA Stokes,0,0,0,52,2,8,4,10,run out,SR Patel,D Bishoo,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+58,BA Stokes,DJG Sammy,JC Buttler,3,0,3,55,31,19,5,10,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+59,JC Buttler,DJG Sammy,BA Stokes,0,0,0,55,0,1,6,10,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+60,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,20,1,11,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+61,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,21,2,11,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+62,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,22,3,11,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+63,BA Stokes,D Bishoo,JC Buttler,0,0,0,55,31,23,4,11,lbw,BA Stokes,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+64,TT Bresnan,D Bishoo,JC Buttler,1,0,1,56,1,1,5,11,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+65,JC Buttler,D Bishoo,TT Bresnan,0,0,0,56,0,2,6,11,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+66,TT Bresnan,AD Russell,JC Buttler,1,0,1,57,2,2,1,12,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+67,JC Buttler,AD Russell,TT Bresnan,2,0,2,59,2,3,2,12,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+68,JC Buttler,AD Russell,TT Bresnan,0,0,0,59,2,4,3,12,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+69,JC Buttler,AD Russell,TT Bresnan,1,0,1,60,3,5,4,12,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+70,TT Bresnan,AD Russell,JC Buttler,0,0,0,60,2,3,5,12,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+71,TT Bresnan,AD Russell,JC Buttler,0,0,0,60,2,4,6,12,caught,TT Bresnan,GE Mathurin,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+72,SG Borthwick,DR Smith,JC Buttler,1,0,1,61,1,1,1,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+73,JC Buttler,DR Smith,SG Borthwick,1,0,1,62,4,6,2,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+74,SG Borthwick,DR Smith,JC Buttler,0,0,0,62,1,2,3,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+75,SG Borthwick,DR Smith,JC Buttler,4,0,4,66,5,3,4,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+76,SG Borthwick,DR Smith,JC Buttler,0,0,0,66,5,4,5,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+77,SG Borthwick,DR Smith,JC Buttler,1,0,1,67,6,5,6,13,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+78,SG Borthwick,AD Russell,JC Buttler,0,0,0,67,6,6,1,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+79,SG Borthwick,AD Russell,JC Buttler,1,0,1,68,7,7,2,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+80,JC Buttler,AD Russell,SG Borthwick,0,1,1,69,4,7,3,14,0,,,wides,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+81,JC Buttler,AD Russell,SG Borthwick,0,0,0,69,4,8,4,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+82,JC Buttler,AD Russell,SG Borthwick,4,0,4,73,8,9,5,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+83,JC Buttler,AD Russell,SG Borthwick,2,0,2,75,10,10,6,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+84,JC Buttler,AD Russell,SG Borthwick,2,0,2,77,12,11,7,14,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+85,SG Borthwick,DR Smith,JC Buttler,4,0,4,81,11,8,1,15,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+86,SG Borthwick,DR Smith,JC Buttler,0,0,0,81,11,9,2,15,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+87,SG Borthwick,DR Smith,JC Buttler,1,0,1,82,12,10,3,15,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+88,JC Buttler,DR Smith,SG Borthwick,1,0,1,83,13,12,4,15,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+89,SG Borthwick,DR Smith,JC Buttler,0,0,0,83,12,11,5,15,run out,JC Buttler,DJG Sammy,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+90,SG Borthwick,DR Smith,GP Swann,1,0,1,84,13,12,6,15,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+91,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,13,1,16,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+92,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,14,2,16,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+93,SG Borthwick,DJG Sammy,GP Swann,0,0,0,84,13,15,3,16,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+94,SG Borthwick,DJG Sammy,GP Swann,1,0,1,85,14,16,4,16,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+95,GP Swann,DJG Sammy,SG Borthwick,0,0,0,85,0,1,5,16,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+96,GP Swann,DJG Sammy,SG Borthwick,0,0,0,85,0,2,6,16,run out,SG Borthwick,MN Samuels;DJG Sammy,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+97,JW Dernbach,D Bishoo,GP Swann,0,0,0,85,0,1,1,17,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+98,JW Dernbach,D Bishoo,GP Swann,2,0,2,87,2,2,2,17,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+99,JW Dernbach,D Bishoo,GP Swann,0,0,0,87,2,3,3,17,0,,,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies
+100,JW Dernbach,D Bishoo,GP Swann,1,0,1,88,3,4,4,17,run out,JW Dernbach,DO Christian;CD Barnwell,-,field,England,2,Kennington Oval,2011-09-25,England,West Indies

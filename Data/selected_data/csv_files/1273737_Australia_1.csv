@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,DA Warner,AU Rashid,AJ Finch,1,0,1,1,1,1,1,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-1,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,1,2,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-2,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,2,3,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-3,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,3,4,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-4,AJ Finch,AU Rashid,DA Warner,4,0,4,5,4,4,5,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-5,AJ Finch,AU Rashid,DA Warner,1,0,1,6,5,5,6,1,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-6,AJ Finch,CR Woakes,DA Warner,1,0,1,7,6,6,1,2,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-7,DA Warner,CR Woakes,AJ Finch,0,0,0,7,1,2,2,2,caught,DA Warner,JC Buttler,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-8,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,1,3,2,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-9,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,2,4,2,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-10,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,3,5,2,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-11,SPD Smith,CR Woakes,AJ Finch,1,0,1,8,1,4,6,2,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-12,SPD Smith,CJ Jordan,AJ Finch,0,0,0,8,1,5,1,3,caught,SPD Smith,CR Woakes,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-13,GJ Maxwell,CJ Jordan,AJ Finch,0,0,0,8,0,1,2,3,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-14,GJ Maxwell,CJ Jordan,AJ Finch,1,0,1,9,1,2,3,3,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-15,AJ Finch,CJ Jordan,GJ Maxwell,1,0,1,10,7,7,4,3,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-16,GJ Maxwell,CJ Jordan,AJ Finch,0,0,0,10,1,3,5,3,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-17,GJ Maxwell,CJ Jordan,AJ Finch,1,0,1,11,2,4,6,3,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-18,GJ Maxwell,CR Woakes,AJ Finch,2,0,2,13,4,5,1,4,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-19,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,13,4,6,2,4,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-20,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,13,4,7,3,4,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-21,GJ Maxwell,CR Woakes,AJ Finch,2,0,2,15,6,8,4,4,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-22,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,15,6,9,5,4,lbw,GJ Maxwell,,"{'by': 'Australia', 'umpire': 'M Erasmus', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-23,MP Stoinis,CR Woakes,AJ Finch,0,0,0,15,0,1,6,4,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-24,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,15,7,8,1,5,0,,,"{'by': 'England', 'umpire': 'Nitin Menon', 'batter': 'AJ Finch', 'decision': 'struck down', 'umpires_call': True}",,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-25,AJ Finch,CJ Jordan,MP Stoinis,2,0,2,17,9,9,2,5,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-26,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,10,3,5,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-27,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,11,4,5,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-28,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,12,5,5,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-29,AJ Finch,CJ Jordan,MP Stoinis,2,0,2,19,11,13,6,5,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-30,MP Stoinis,CR Woakes,AJ Finch,0,0,0,19,0,2,1,6,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-31,MP Stoinis,CR Woakes,AJ Finch,0,1,1,20,0,3,2,6,0,,,,{'wides': 1},wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-32,MP Stoinis,CR Woakes,AJ Finch,0,1,1,21,0,4,3,6,0,,,,{'legbyes': 1},legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-33,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,14,4,6,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-34,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,15,5,6,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-35,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,16,6,6,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-36,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,17,7,6,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-37,MP Stoinis,AU Rashid,AJ Finch,0,0,0,21,0,5,1,7,lbw,MP Stoinis,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-38,MS Wade,AU Rashid,AJ Finch,0,0,0,21,0,1,2,7,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-39,MS Wade,AU Rashid,AJ Finch,1,0,1,22,1,2,3,7,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-40,AJ Finch,AU Rashid,MS Wade,1,0,1,23,12,18,4,7,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-41,MS Wade,AU Rashid,AJ Finch,4,0,4,27,5,3,5,7,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-42,MS Wade,AU Rashid,AJ Finch,0,0,0,27,5,4,6,7,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-43,AJ Finch,LS Livingstone,MS Wade,1,0,1,28,13,19,1,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-44,MS Wade,LS Livingstone,AJ Finch,1,0,1,29,6,5,2,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-45,AJ Finch,LS Livingstone,MS Wade,2,0,2,31,15,20,3,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-46,AJ Finch,LS Livingstone,MS Wade,0,0,0,31,15,21,4,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-47,AJ Finch,LS Livingstone,MS Wade,1,0,1,32,16,22,5,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-48,MS Wade,LS Livingstone,AJ Finch,0,0,0,32,6,6,6,8,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-49,AJ Finch,AU Rashid,MS Wade,1,0,1,33,17,23,1,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-50,MS Wade,AU Rashid,AJ Finch,0,0,0,33,6,7,2,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-51,MS Wade,AU Rashid,AJ Finch,2,0,2,35,8,8,3,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-52,MS Wade,AU Rashid,AJ Finch,1,0,1,36,9,9,4,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-53,AJ Finch,AU Rashid,MS Wade,0,0,0,36,17,24,5,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-54,AJ Finch,AU Rashid,MS Wade,1,0,1,37,18,25,6,9,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-55,AJ Finch,LS Livingstone,MS Wade,0,0,0,37,18,26,1,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-56,AJ Finch,LS Livingstone,MS Wade,1,0,1,38,19,27,2,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-57,MS Wade,LS Livingstone,AJ Finch,1,0,1,39,10,10,3,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-58,AJ Finch,LS Livingstone,MS Wade,0,0,0,39,19,28,4,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-59,AJ Finch,LS Livingstone,MS Wade,1,0,1,40,20,29,5,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-60,MS Wade,LS Livingstone,AJ Finch,1,0,1,41,11,11,6,10,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-61,MS Wade,TS Mills,AJ Finch,1,0,1,42,12,12,1,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-62,AJ Finch,TS Mills,MS Wade,1,0,1,43,21,30,2,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-63,MS Wade,TS Mills,AJ Finch,0,0,0,43,12,13,3,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-64,MS Wade,TS Mills,AJ Finch,4,0,4,47,16,14,4,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-65,MS Wade,TS Mills,AJ Finch,1,0,1,48,17,15,5,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-66,AJ Finch,TS Mills,MS Wade,0,1,1,49,21,31,6,11,0,,,,{'wides': 1},wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-67,AJ Finch,TS Mills,MS Wade,0,0,0,49,21,32,7,11,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-68,MS Wade,LS Livingstone,AJ Finch,1,0,1,50,18,16,1,12,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-69,AJ Finch,LS Livingstone,MS Wade,1,0,1,51,22,33,2,12,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-70,MS Wade,LS Livingstone,AJ Finch,0,0,0,51,18,17,3,12,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-71,MS Wade,LS Livingstone,AJ Finch,0,0,0,51,18,18,4,12,caught,MS Wade,JJ Roy,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-72,AC Agar,LS Livingstone,AJ Finch,0,0,0,51,0,1,5,12,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-73,AC Agar,LS Livingstone,AJ Finch,0,0,0,51,0,2,6,12,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-74,AJ Finch,AU Rashid,AC Agar,1,0,1,52,23,34,1,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-75,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,3,2,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-76,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,4,3,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-77,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,5,4,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-78,AC Agar,AU Rashid,AJ Finch,1,0,1,53,1,6,5,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-79,AJ Finch,AU Rashid,AC Agar,0,0,0,53,23,35,6,13,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-80,AC Agar,LS Livingstone,AJ Finch,0,0,0,53,1,7,1,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-81,AC Agar,LS Livingstone,AJ Finch,1,0,1,54,2,8,2,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-82,AJ Finch,LS Livingstone,AC Agar,1,0,1,55,24,36,3,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-83,AC Agar,LS Livingstone,AJ Finch,1,0,1,56,3,9,4,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-84,AJ Finch,LS Livingstone,AC Agar,1,0,1,57,25,37,5,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-85,AC Agar,LS Livingstone,AJ Finch,0,0,0,57,3,10,6,14,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-86,AJ Finch,TS Mills,AC Agar,4,0,4,61,29,38,1,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-87,AJ Finch,TS Mills,AC Agar,4,0,4,65,33,39,2,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-88,AJ Finch,TS Mills,AC Agar,0,0,0,65,33,40,3,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-89,AJ Finch,TS Mills,AC Agar,1,0,1,66,34,41,4,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-90,AC Agar,TS Mills,AJ Finch,1,0,1,67,4,11,5,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-91,AJ Finch,TS Mills,AC Agar,0,0,0,67,34,42,6,15,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-92,AC Agar,CJ Jordan,AJ Finch,0,0,0,67,4,12,1,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-93,AC Agar,CJ Jordan,AJ Finch,1,0,1,68,5,13,2,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-94,AJ Finch,CJ Jordan,AC Agar,1,0,1,69,35,43,3,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-95,AC Agar,CJ Jordan,AJ Finch,1,0,1,70,6,14,4,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-96,AJ Finch,CJ Jordan,AC Agar,4,0,4,74,39,44,5,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-97,AJ Finch,CJ Jordan,AC Agar,1,0,1,75,40,45,6,16,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-98,AJ Finch,CR Woakes,AC Agar,1,0,1,76,41,46,1,17,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-99,AC Agar,CR Woakes,AJ Finch,0,1,1,77,6,15,2,17,0,,,,{'wides': 1},wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-100,AC Agar,CR Woakes,AJ Finch,6,0,6,83,12,16,3,17,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-101,AC Agar,CR Woakes,AJ Finch,6,0,6,89,18,17,4,17,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-102,AC Agar,CR Woakes,AJ Finch,1,0,1,90,19,18,5,17,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-103,AJ Finch,CR Woakes,AC Agar,1,0,1,91,42,47,6,17,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-104,AC Agar,CR Woakes,AJ Finch,0,4,4,95,19,19,7,17,0,,,"{'by': 'England', 'umpire': 'Nitin Menon', 'batter': 'AC Agar', 'decision': 'struck down'}",{'legbyes': 4},legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-105,AJ Finch,TS Mills,AC Agar,1,0,1,96,43,48,1,18,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-106,AC Agar,TS Mills,AJ Finch,1,0,1,97,20,20,2,18,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-107,AJ Finch,TS Mills,AC Agar,1,0,1,98,44,49,3,18,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-108,AC Agar,TS Mills,AJ Finch,0,0,0,98,20,21,4,18,caught,AC Agar,LS Livingstone,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-109,PJ Cummins,TS Mills,AJ Finch,6,0,6,104,6,1,5,18,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-110,PJ Cummins,TS Mills,AJ Finch,6,0,6,110,12,2,6,18,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-111,AJ Finch,CJ Jordan,PJ Cummins,0,0,0,110,44,50,1,19,caught,AJ Finch,JM Bairstow,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-112,PJ Cummins,CJ Jordan,MA Starc,0,0,0,110,12,3,2,19,bowled,PJ Cummins,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-113,A Zampa,CJ Jordan,MA Starc,1,0,1,111,1,1,3,19,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-114,MA Starc,CJ Jordan,A Zampa,1,0,1,112,1,1,4,19,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-115,A Zampa,CJ Jordan,MA Starc,0,0,0,112,1,2,5,19,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-116,A Zampa,CJ Jordan,MA Starc,0,0,0,112,1,3,6,19,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-117,MA Starc,TS Mills,A Zampa,4,0,4,116,5,2,1,20,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-118,MA Starc,TS Mills,A Zampa,2,0,2,118,7,3,2,20,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-119,MA Starc,TS Mills,A Zampa,0,1,1,119,7,4,3,20,0,,,,{'legbyes': 1},legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-120,A Zampa,TS Mills,MA Starc,0,0,0,119,1,4,4,20,run out,A Zampa,JC Buttler;TS Mills,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-121,MA Starc,TS Mills,JR Hazlewood,6,0,6,125,13,5,5,20,0,,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
-122,MA Starc,TS Mills,JR Hazlewood,0,0,0,125,13,6,6,20,caught,MA Starc,JC Buttler,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,DA Warner,AU Rashid,AJ Finch,1,0,1,1,1,1,1,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+1,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,1,2,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+2,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,2,3,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+3,AJ Finch,AU Rashid,DA Warner,0,0,0,1,0,3,4,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+4,AJ Finch,AU Rashid,DA Warner,4,0,4,5,4,4,5,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+5,AJ Finch,AU Rashid,DA Warner,1,0,1,6,5,5,6,1,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+6,AJ Finch,CR Woakes,DA Warner,1,0,1,7,6,6,1,2,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+7,DA Warner,CR Woakes,AJ Finch,0,0,0,7,1,2,2,2,caught,DA Warner,JC Buttler,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+8,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,1,3,2,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+9,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,2,4,2,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+10,SPD Smith,CR Woakes,AJ Finch,0,0,0,7,0,3,5,2,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+11,SPD Smith,CR Woakes,AJ Finch,1,0,1,8,1,4,6,2,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+12,SPD Smith,CJ Jordan,AJ Finch,0,0,0,8,1,5,1,3,caught,SPD Smith,CR Woakes,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+13,GJ Maxwell,CJ Jordan,AJ Finch,0,0,0,8,0,1,2,3,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+14,GJ Maxwell,CJ Jordan,AJ Finch,1,0,1,9,1,2,3,3,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+15,AJ Finch,CJ Jordan,GJ Maxwell,1,0,1,10,7,7,4,3,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+16,GJ Maxwell,CJ Jordan,AJ Finch,0,0,0,10,1,3,5,3,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+17,GJ Maxwell,CJ Jordan,AJ Finch,1,0,1,11,2,4,6,3,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+18,GJ Maxwell,CR Woakes,AJ Finch,2,0,2,13,4,5,1,4,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+19,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,13,4,6,2,4,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+20,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,13,4,7,3,4,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+21,GJ Maxwell,CR Woakes,AJ Finch,2,0,2,15,6,8,4,4,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+22,GJ Maxwell,CR Woakes,AJ Finch,0,0,0,15,6,9,5,4,lbw,GJ Maxwell,,"{'by': 'Australia', 'umpire': 'M Erasmus', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+23,MP Stoinis,CR Woakes,AJ Finch,0,0,0,15,0,1,6,4,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+24,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,15,7,8,1,5,0,,,"{'by': 'England', 'umpire': 'Nitin Menon', 'batter': 'AJ Finch', 'decision': 'struck down', 'umpires_call': True}",-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+25,AJ Finch,CJ Jordan,MP Stoinis,2,0,2,17,9,9,2,5,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+26,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,10,3,5,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+27,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,11,4,5,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+28,AJ Finch,CJ Jordan,MP Stoinis,0,0,0,17,9,12,5,5,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+29,AJ Finch,CJ Jordan,MP Stoinis,2,0,2,19,11,13,6,5,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+30,MP Stoinis,CR Woakes,AJ Finch,0,0,0,19,0,2,1,6,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+31,MP Stoinis,CR Woakes,AJ Finch,0,1,1,20,0,3,2,6,0,,,,wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+32,MP Stoinis,CR Woakes,AJ Finch,0,1,1,21,0,4,3,6,0,,,,legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+33,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,14,4,6,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+34,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,15,5,6,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+35,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,16,6,6,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+36,AJ Finch,CR Woakes,MP Stoinis,0,0,0,21,11,17,7,6,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+37,MP Stoinis,AU Rashid,AJ Finch,0,0,0,21,0,5,1,7,lbw,MP Stoinis,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+38,MS Wade,AU Rashid,AJ Finch,0,0,0,21,0,1,2,7,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+39,MS Wade,AU Rashid,AJ Finch,1,0,1,22,1,2,3,7,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+40,AJ Finch,AU Rashid,MS Wade,1,0,1,23,12,18,4,7,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+41,MS Wade,AU Rashid,AJ Finch,4,0,4,27,5,3,5,7,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+42,MS Wade,AU Rashid,AJ Finch,0,0,0,27,5,4,6,7,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+43,AJ Finch,LS Livingstone,MS Wade,1,0,1,28,13,19,1,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+44,MS Wade,LS Livingstone,AJ Finch,1,0,1,29,6,5,2,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+45,AJ Finch,LS Livingstone,MS Wade,2,0,2,31,15,20,3,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+46,AJ Finch,LS Livingstone,MS Wade,0,0,0,31,15,21,4,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+47,AJ Finch,LS Livingstone,MS Wade,1,0,1,32,16,22,5,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+48,MS Wade,LS Livingstone,AJ Finch,0,0,0,32,6,6,6,8,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+49,AJ Finch,AU Rashid,MS Wade,1,0,1,33,17,23,1,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+50,MS Wade,AU Rashid,AJ Finch,0,0,0,33,6,7,2,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+51,MS Wade,AU Rashid,AJ Finch,2,0,2,35,8,8,3,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+52,MS Wade,AU Rashid,AJ Finch,1,0,1,36,9,9,4,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+53,AJ Finch,AU Rashid,MS Wade,0,0,0,36,17,24,5,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+54,AJ Finch,AU Rashid,MS Wade,1,0,1,37,18,25,6,9,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+55,AJ Finch,LS Livingstone,MS Wade,0,0,0,37,18,26,1,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+56,AJ Finch,LS Livingstone,MS Wade,1,0,1,38,19,27,2,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+57,MS Wade,LS Livingstone,AJ Finch,1,0,1,39,10,10,3,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+58,AJ Finch,LS Livingstone,MS Wade,0,0,0,39,19,28,4,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+59,AJ Finch,LS Livingstone,MS Wade,1,0,1,40,20,29,5,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+60,MS Wade,LS Livingstone,AJ Finch,1,0,1,41,11,11,6,10,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+61,MS Wade,TS Mills,AJ Finch,1,0,1,42,12,12,1,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+62,AJ Finch,TS Mills,MS Wade,1,0,1,43,21,30,2,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+63,MS Wade,TS Mills,AJ Finch,0,0,0,43,12,13,3,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+64,MS Wade,TS Mills,AJ Finch,4,0,4,47,16,14,4,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+65,MS Wade,TS Mills,AJ Finch,1,0,1,48,17,15,5,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+66,AJ Finch,TS Mills,MS Wade,0,1,1,49,21,31,6,11,0,,,,wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+67,AJ Finch,TS Mills,MS Wade,0,0,0,49,21,32,7,11,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+68,MS Wade,LS Livingstone,AJ Finch,1,0,1,50,18,16,1,12,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+69,AJ Finch,LS Livingstone,MS Wade,1,0,1,51,22,33,2,12,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+70,MS Wade,LS Livingstone,AJ Finch,0,0,0,51,18,17,3,12,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+71,MS Wade,LS Livingstone,AJ Finch,0,0,0,51,18,18,4,12,caught,MS Wade,JJ Roy,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+72,AC Agar,LS Livingstone,AJ Finch,0,0,0,51,0,1,5,12,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+73,AC Agar,LS Livingstone,AJ Finch,0,0,0,51,0,2,6,12,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+74,AJ Finch,AU Rashid,AC Agar,1,0,1,52,23,34,1,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+75,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,3,2,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+76,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,4,3,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+77,AC Agar,AU Rashid,AJ Finch,0,0,0,52,0,5,4,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+78,AC Agar,AU Rashid,AJ Finch,1,0,1,53,1,6,5,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+79,AJ Finch,AU Rashid,AC Agar,0,0,0,53,23,35,6,13,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+80,AC Agar,LS Livingstone,AJ Finch,0,0,0,53,1,7,1,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+81,AC Agar,LS Livingstone,AJ Finch,1,0,1,54,2,8,2,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+82,AJ Finch,LS Livingstone,AC Agar,1,0,1,55,24,36,3,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+83,AC Agar,LS Livingstone,AJ Finch,1,0,1,56,3,9,4,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+84,AJ Finch,LS Livingstone,AC Agar,1,0,1,57,25,37,5,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+85,AC Agar,LS Livingstone,AJ Finch,0,0,0,57,3,10,6,14,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+86,AJ Finch,TS Mills,AC Agar,4,0,4,61,29,38,1,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+87,AJ Finch,TS Mills,AC Agar,4,0,4,65,33,39,2,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+88,AJ Finch,TS Mills,AC Agar,0,0,0,65,33,40,3,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+89,AJ Finch,TS Mills,AC Agar,1,0,1,66,34,41,4,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+90,AC Agar,TS Mills,AJ Finch,1,0,1,67,4,11,5,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+91,AJ Finch,TS Mills,AC Agar,0,0,0,67,34,42,6,15,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+92,AC Agar,CJ Jordan,AJ Finch,0,0,0,67,4,12,1,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+93,AC Agar,CJ Jordan,AJ Finch,1,0,1,68,5,13,2,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+94,AJ Finch,CJ Jordan,AC Agar,1,0,1,69,35,43,3,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+95,AC Agar,CJ Jordan,AJ Finch,1,0,1,70,6,14,4,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+96,AJ Finch,CJ Jordan,AC Agar,4,0,4,74,39,44,5,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+97,AJ Finch,CJ Jordan,AC Agar,1,0,1,75,40,45,6,16,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+98,AJ Finch,CR Woakes,AC Agar,1,0,1,76,41,46,1,17,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+99,AC Agar,CR Woakes,AJ Finch,0,1,1,77,6,15,2,17,0,,,,wides,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+100,AC Agar,CR Woakes,AJ Finch,6,0,6,83,12,16,3,17,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+101,AC Agar,CR Woakes,AJ Finch,6,0,6,89,18,17,4,17,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+102,AC Agar,CR Woakes,AJ Finch,1,0,1,90,19,18,5,17,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+103,AJ Finch,CR Woakes,AC Agar,1,0,1,91,42,47,6,17,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+104,AC Agar,CR Woakes,AJ Finch,0,4,4,95,19,19,7,17,0,,,"{'by': 'England', 'umpire': 'Nitin Menon', 'batter': 'AC Agar', 'decision': 'struck down'}",legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+105,AJ Finch,TS Mills,AC Agar,1,0,1,96,43,48,1,18,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+106,AC Agar,TS Mills,AJ Finch,1,0,1,97,20,20,2,18,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+107,AJ Finch,TS Mills,AC Agar,1,0,1,98,44,49,3,18,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+108,AC Agar,TS Mills,AJ Finch,0,0,0,98,20,21,4,18,caught,AC Agar,LS Livingstone,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+109,PJ Cummins,TS Mills,AJ Finch,6,0,6,104,6,1,5,18,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+110,PJ Cummins,TS Mills,AJ Finch,6,0,6,110,12,2,6,18,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+111,AJ Finch,CJ Jordan,PJ Cummins,0,0,0,110,44,50,1,19,caught,AJ Finch,JM Bairstow,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+112,PJ Cummins,CJ Jordan,MA Starc,0,0,0,110,12,3,2,19,bowled,PJ Cummins,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+113,A Zampa,CJ Jordan,MA Starc,1,0,1,111,1,1,3,19,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+114,MA Starc,CJ Jordan,A Zampa,1,0,1,112,1,1,4,19,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+115,A Zampa,CJ Jordan,MA Starc,0,0,0,112,1,2,5,19,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+116,A Zampa,CJ Jordan,MA Starc,0,0,0,112,1,3,6,19,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+117,MA Starc,TS Mills,A Zampa,4,0,4,116,5,2,1,20,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+118,MA Starc,TS Mills,A Zampa,2,0,2,118,7,3,2,20,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+119,MA Starc,TS Mills,A Zampa,0,1,1,119,7,4,3,20,0,,,,legbyes,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+120,A Zampa,TS Mills,MA Starc,0,0,0,119,1,4,4,20,run out,A Zampa,JC Buttler;TS Mills,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+121,MA Starc,TS Mills,JR Hazlewood,6,0,6,125,13,5,5,20,0,,,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England
+122,MA Starc,TS Mills,JR Hazlewood,0,0,0,125,13,6,6,20,caught,MA Starc,JC Buttler,,-,field,England,1,Dubai International Cricket Stadium,2021-10-30,Australia,England

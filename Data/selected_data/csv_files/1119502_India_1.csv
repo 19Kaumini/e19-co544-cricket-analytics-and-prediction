@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,RG Sharma,JP Behrendorff,S Dhawan,4,0,4,4,4,1,1,0,,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-1,RG Sharma,JP Behrendorff,S Dhawan,0,0,0,4,4,2,2,0,,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-2,RG Sharma,JP Behrendorff,S Dhawan,4,0,4,8,8,3,3,0,,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-3,RG Sharma,JP Behrendorff,S Dhawan,0,0,0,8,8,4,4,lbw,RG Sharma,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-4,V Kohli,JP Behrendorff,S Dhawan,0,0,0,8,0,1,5,0,,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-5,V Kohli,JP Behrendorff,S Dhawan,0,0,0,8,0,2,6,caught and bowled,V Kohli,,1,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-6,S Dhawan,NM Coulter-Nile,MK Pandey,1,0,1,9,1,1,1,0,,,2,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-7,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,9,0,1,2,0,,,2,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-8,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,9,0,2,3,0,,,2,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-9,MK Pandey,NM Coulter-Nile,S Dhawan,2,0,2,11,2,3,4,0,,,2,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-10,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,11,2,4,5,0,,,2,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-11,MK Pandey,NM Coulter-Nile,S Dhawan,0,1,1,12,2,5,6,0,,,2,{'legbyes': 1},legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-12,MK Pandey,JP Behrendorff,S Dhawan,4,0,4,16,6,6,1,0,,,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-13,MK Pandey,JP Behrendorff,S Dhawan,0,0,0,16,6,7,2,caught,MK Pandey,TD Paine,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-14,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,1,3,0,,,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-15,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,2,4,0,,,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-16,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,3,5,0,,,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-17,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,4,6,0,,,3,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-18,S Dhawan,NM Coulter-Nile,KM Jadhav,1,0,1,17,2,2,1,0,,,4,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-19,KM Jadhav,NM Coulter-Nile,S Dhawan,1,0,1,18,1,5,2,0,,,4,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-20,S Dhawan,NM Coulter-Nile,KM Jadhav,0,3,3,21,2,3,3,0,,,4,{'legbyes': 3},legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-21,KM Jadhav,NM Coulter-Nile,S Dhawan,0,0,0,21,1,6,4,0,,,4,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-22,KM Jadhav,NM Coulter-Nile,S Dhawan,6,0,6,27,7,7,5,0,,,4,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-23,KM Jadhav,NM Coulter-Nile,S Dhawan,0,0,0,27,7,8,6,0,,,4,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-24,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,4,1,0,,,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-25,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,5,2,0,,,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-26,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,6,3,caught,S Dhawan,DA Warner,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-27,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,27,7,9,4,0,,,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-28,KM Jadhav,JP Behrendorff,MS Dhoni,4,0,4,31,11,10,5,0,,,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-29,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,31,11,11,6,0,,,5,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-30,MS Dhoni,AJ Tye,KM Jadhav,1,0,1,32,1,1,1,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-31,KM Jadhav,AJ Tye,MS Dhoni,0,0,0,32,11,12,2,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-32,KM Jadhav,AJ Tye,MS Dhoni,4,0,4,36,15,13,3,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-33,KM Jadhav,AJ Tye,MS Dhoni,1,0,1,37,16,14,4,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-34,MS Dhoni,AJ Tye,KM Jadhav,0,0,0,37,1,2,5,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-35,MS Dhoni,AJ Tye,KM Jadhav,1,0,1,38,2,3,6,0,,,6,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-36,MS Dhoni,JP Behrendorff,KM Jadhav,2,0,2,40,4,4,1,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-37,MS Dhoni,JP Behrendorff,KM Jadhav,0,0,0,40,4,5,2,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-38,MS Dhoni,JP Behrendorff,KM Jadhav,2,0,2,42,6,6,3,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-39,MS Dhoni,JP Behrendorff,KM Jadhav,1,0,1,43,7,7,4,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-40,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,43,16,15,5,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-41,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,43,16,16,6,0,,,7,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-42,MS Dhoni,A Zampa,KM Jadhav,0,0,0,43,7,8,1,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-43,MS Dhoni,A Zampa,KM Jadhav,1,0,1,44,8,9,2,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-44,KM Jadhav,A Zampa,MS Dhoni,2,0,2,46,18,17,3,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-45,KM Jadhav,A Zampa,MS Dhoni,0,0,0,46,18,18,4,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-46,KM Jadhav,A Zampa,MS Dhoni,1,0,1,47,19,19,5,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-47,MS Dhoni,A Zampa,KM Jadhav,0,0,0,47,8,10,6,0,,,8,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-48,KM Jadhav,MP Stoinis,MS Dhoni,4,0,4,51,23,20,1,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-49,KM Jadhav,MP Stoinis,MS Dhoni,1,0,1,52,24,21,2,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-50,MS Dhoni,MP Stoinis,KM Jadhav,0,0,0,52,8,11,3,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-51,MS Dhoni,MP Stoinis,KM Jadhav,1,0,1,53,9,12,4,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-52,KM Jadhav,MP Stoinis,MS Dhoni,0,0,0,53,24,22,5,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-53,KM Jadhav,MP Stoinis,MS Dhoni,1,0,1,54,25,23,6,0,,,9,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-54,KM Jadhav,A Zampa,MS Dhoni,1,0,1,55,26,24,1,0,,,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-55,MS Dhoni,A Zampa,KM Jadhav,0,0,0,55,9,13,2,0,,,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-56,MS Dhoni,A Zampa,KM Jadhav,4,0,4,59,13,14,3,0,,,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-57,MS Dhoni,A Zampa,KM Jadhav,0,0,0,59,13,15,4,0,,,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-58,MS Dhoni,A Zampa,KM Jadhav,0,1,1,60,13,16,5,0,,,10,{'wides': 1},wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-59,MS Dhoni,A Zampa,KM Jadhav,0,0,0,60,13,17,6,stumped,MS Dhoni,TD Paine,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-60,HH Pandya,A Zampa,KM Jadhav,1,0,1,61,1,1,7,0,,,10,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-61,HH Pandya,MP Stoinis,KM Jadhav,0,0,0,61,1,2,1,0,,,11,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-62,HH Pandya,MP Stoinis,KM Jadhav,1,0,1,62,2,3,2,0,,,11,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-63,KM Jadhav,MP Stoinis,HH Pandya,1,0,1,63,27,25,3,0,,,11,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-64,HH Pandya,MP Stoinis,KM Jadhav,0,0,0,63,2,4,4,0,,,11,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-65,HH Pandya,MP Stoinis,KM Jadhav,3,0,3,66,5,5,5,0,,,11,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-66,KM Jadhav,MP Stoinis,HH Pandya,0,1,1,67,27,26,6,0,,,11,{'legbyes': 1},legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-67,KM Jadhav,A Zampa,HH Pandya,0,0,0,67,27,27,1,bowled,KM Jadhav,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-68,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,1,2,0,,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-69,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,2,3,0,,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-70,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,3,4,0,,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-71,B Kumar,A Zampa,HH Pandya,1,0,1,68,1,4,5,0,,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-72,HH Pandya,A Zampa,B Kumar,1,0,1,69,6,6,6,0,,,12,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-73,HH Pandya,NM Coulter-Nile,B Kumar,0,0,0,69,6,7,1,0,,,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-74,HH Pandya,NM Coulter-Nile,B Kumar,1,0,1,70,7,8,2,0,,,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-75,B Kumar,NM Coulter-Nile,HH Pandya,0,0,0,70,1,5,3,0,,,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-76,B Kumar,NM Coulter-Nile,HH Pandya,0,0,0,70,1,6,4,caught,B Kumar,MC Henriques,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-77,Kuldeep Yadav,NM Coulter-Nile,HH Pandya,0,0,0,70,0,1,5,0,,,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-78,Kuldeep Yadav,NM Coulter-Nile,HH Pandya,1,0,1,71,1,2,6,0,,,13,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-79,Kuldeep Yadav,A Zampa,HH Pandya,1,0,1,72,2,3,1,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-80,HH Pandya,A Zampa,Kuldeep Yadav,1,0,1,73,8,9,2,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-81,Kuldeep Yadav,A Zampa,HH Pandya,1,0,1,74,3,4,3,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-82,HH Pandya,A Zampa,Kuldeep Yadav,1,0,1,75,9,10,4,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-83,Kuldeep Yadav,A Zampa,HH Pandya,2,0,2,77,5,5,5,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-84,Kuldeep Yadav,A Zampa,HH Pandya,0,0,0,77,5,6,6,0,,,14,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-85,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,78,10,11,1,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-86,Kuldeep Yadav,AJ Tye,HH Pandya,0,0,0,78,5,7,2,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-87,Kuldeep Yadav,AJ Tye,HH Pandya,0,0,0,78,5,8,3,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-88,Kuldeep Yadav,AJ Tye,HH Pandya,1,0,1,79,6,9,4,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-89,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,80,11,12,5,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-90,Kuldeep Yadav,AJ Tye,HH Pandya,0,1,1,81,6,10,6,0,,,15,{'noballs': 1},noballs,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-91,Kuldeep Yadav,AJ Tye,HH Pandya,4,0,4,85,10,11,7,0,,,15,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-92,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,86,12,13,1,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-93,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,87,11,12,2,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-94,HH Pandya,MP Stoinis,Kuldeep Yadav,0,0,0,87,12,14,3,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-95,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,88,13,15,4,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-96,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,89,12,13,5,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-97,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,90,14,16,6,0,,,16,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-98,HH Pandya,AJ Tye,Kuldeep Yadav,6,0,6,96,20,17,1,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-99,HH Pandya,AJ Tye,Kuldeep Yadav,0,0,0,96,20,18,2,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-100,HH Pandya,AJ Tye,Kuldeep Yadav,2,0,2,98,22,19,3,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-101,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,99,23,20,4,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-102,Kuldeep Yadav,AJ Tye,HH Pandya,1,0,1,100,13,14,5,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-103,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,101,24,21,6,0,,,17,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-104,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,102,25,22,1,0,,,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-105,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,103,14,15,2,0,,,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-106,HH Pandya,MP Stoinis,Kuldeep Yadav,0,0,0,103,25,23,3,caught,HH Pandya,DT Christian,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-107,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,1,1,104,0,1,4,0,,,18,{'wides': 1},wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-108,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,2,5,0,,,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-109,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,3,6,0,,,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-110,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,4,7,0,,,18,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-111,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,0,1,1,105,14,16,1,0,,,19,{'wides': 1},wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-112,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,0,1,1,106,14,17,2,0,,,19,{'wides': 1},wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-113,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,1,0,1,107,15,18,3,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-114,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,0,0,0,107,0,5,4,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-115,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,4,0,4,111,4,6,5,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-116,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,1,0,1,112,5,7,6,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-117,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,1,0,1,113,16,19,7,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-118,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,1,0,1,114,6,8,8,0,,,19,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-119,JJ Bumrah,AJ Tye,Kuldeep Yadav,0,0,0,114,6,9,1,0,,,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-120,JJ Bumrah,AJ Tye,Kuldeep Yadav,1,0,1,115,7,10,2,0,,,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-121,Kuldeep Yadav,AJ Tye,JJ Bumrah,0,0,0,115,16,20,3,run out,JJ Bumrah,,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-122,YS Chahal,AJ Tye,Kuldeep Yadav,0,0,0,115,0,1,4,0,,,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-123,YS Chahal,AJ Tye,Kuldeep Yadav,3,0,3,118,3,2,5,0,,,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
-124,Kuldeep Yadav,AJ Tye,YS Chahal,0,0,0,118,16,21,6,caught,Kuldeep Yadav,TD Paine,20,,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,RG Sharma,JP Behrendorff,S Dhawan,4,0,4,4,4,1,1,0,,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+1,RG Sharma,JP Behrendorff,S Dhawan,0,0,0,4,4,2,2,0,,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+2,RG Sharma,JP Behrendorff,S Dhawan,4,0,4,8,8,3,3,0,,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+3,RG Sharma,JP Behrendorff,S Dhawan,0,0,0,8,8,4,4,lbw,RG Sharma,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+4,V Kohli,JP Behrendorff,S Dhawan,0,0,0,8,0,1,5,0,,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+5,V Kohli,JP Behrendorff,S Dhawan,0,0,0,8,0,2,6,caught and bowled,V Kohli,,1,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+6,S Dhawan,NM Coulter-Nile,MK Pandey,1,0,1,9,1,1,1,0,,,2,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+7,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,9,0,1,2,0,,,2,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+8,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,9,0,2,3,0,,,2,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+9,MK Pandey,NM Coulter-Nile,S Dhawan,2,0,2,11,2,3,4,0,,,2,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+10,MK Pandey,NM Coulter-Nile,S Dhawan,0,0,0,11,2,4,5,0,,,2,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+11,MK Pandey,NM Coulter-Nile,S Dhawan,0,1,1,12,2,5,6,0,,,2,legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+12,MK Pandey,JP Behrendorff,S Dhawan,4,0,4,16,6,6,1,0,,,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+13,MK Pandey,JP Behrendorff,S Dhawan,0,0,0,16,6,7,2,caught,MK Pandey,TD Paine,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+14,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,1,3,0,,,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+15,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,2,4,0,,,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+16,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,3,5,0,,,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+17,KM Jadhav,JP Behrendorff,S Dhawan,0,0,0,16,0,4,6,0,,,3,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+18,S Dhawan,NM Coulter-Nile,KM Jadhav,1,0,1,17,2,2,1,0,,,4,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+19,KM Jadhav,NM Coulter-Nile,S Dhawan,1,0,1,18,1,5,2,0,,,4,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+20,S Dhawan,NM Coulter-Nile,KM Jadhav,0,3,3,21,2,3,3,0,,,4,legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+21,KM Jadhav,NM Coulter-Nile,S Dhawan,0,0,0,21,1,6,4,0,,,4,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+22,KM Jadhav,NM Coulter-Nile,S Dhawan,6,0,6,27,7,7,5,0,,,4,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+23,KM Jadhav,NM Coulter-Nile,S Dhawan,0,0,0,27,7,8,6,0,,,4,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+24,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,4,1,0,,,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+25,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,5,2,0,,,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+26,S Dhawan,JP Behrendorff,KM Jadhav,0,0,0,27,2,6,3,caught,S Dhawan,DA Warner,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+27,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,27,7,9,4,0,,,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+28,KM Jadhav,JP Behrendorff,MS Dhoni,4,0,4,31,11,10,5,0,,,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+29,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,31,11,11,6,0,,,5,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+30,MS Dhoni,AJ Tye,KM Jadhav,1,0,1,32,1,1,1,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+31,KM Jadhav,AJ Tye,MS Dhoni,0,0,0,32,11,12,2,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+32,KM Jadhav,AJ Tye,MS Dhoni,4,0,4,36,15,13,3,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+33,KM Jadhav,AJ Tye,MS Dhoni,1,0,1,37,16,14,4,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+34,MS Dhoni,AJ Tye,KM Jadhav,0,0,0,37,1,2,5,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+35,MS Dhoni,AJ Tye,KM Jadhav,1,0,1,38,2,3,6,0,,,6,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+36,MS Dhoni,JP Behrendorff,KM Jadhav,2,0,2,40,4,4,1,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+37,MS Dhoni,JP Behrendorff,KM Jadhav,0,0,0,40,4,5,2,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+38,MS Dhoni,JP Behrendorff,KM Jadhav,2,0,2,42,6,6,3,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+39,MS Dhoni,JP Behrendorff,KM Jadhav,1,0,1,43,7,7,4,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+40,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,43,16,15,5,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+41,KM Jadhav,JP Behrendorff,MS Dhoni,0,0,0,43,16,16,6,0,,,7,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+42,MS Dhoni,A Zampa,KM Jadhav,0,0,0,43,7,8,1,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+43,MS Dhoni,A Zampa,KM Jadhav,1,0,1,44,8,9,2,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+44,KM Jadhav,A Zampa,MS Dhoni,2,0,2,46,18,17,3,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+45,KM Jadhav,A Zampa,MS Dhoni,0,0,0,46,18,18,4,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+46,KM Jadhav,A Zampa,MS Dhoni,1,0,1,47,19,19,5,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+47,MS Dhoni,A Zampa,KM Jadhav,0,0,0,47,8,10,6,0,,,8,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+48,KM Jadhav,MP Stoinis,MS Dhoni,4,0,4,51,23,20,1,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+49,KM Jadhav,MP Stoinis,MS Dhoni,1,0,1,52,24,21,2,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+50,MS Dhoni,MP Stoinis,KM Jadhav,0,0,0,52,8,11,3,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+51,MS Dhoni,MP Stoinis,KM Jadhav,1,0,1,53,9,12,4,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+52,KM Jadhav,MP Stoinis,MS Dhoni,0,0,0,53,24,22,5,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+53,KM Jadhav,MP Stoinis,MS Dhoni,1,0,1,54,25,23,6,0,,,9,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+54,KM Jadhav,A Zampa,MS Dhoni,1,0,1,55,26,24,1,0,,,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+55,MS Dhoni,A Zampa,KM Jadhav,0,0,0,55,9,13,2,0,,,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+56,MS Dhoni,A Zampa,KM Jadhav,4,0,4,59,13,14,3,0,,,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+57,MS Dhoni,A Zampa,KM Jadhav,0,0,0,59,13,15,4,0,,,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+58,MS Dhoni,A Zampa,KM Jadhav,0,1,1,60,13,16,5,0,,,10,wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+59,MS Dhoni,A Zampa,KM Jadhav,0,0,0,60,13,17,6,stumped,MS Dhoni,TD Paine,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+60,HH Pandya,A Zampa,KM Jadhav,1,0,1,61,1,1,7,0,,,10,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+61,HH Pandya,MP Stoinis,KM Jadhav,0,0,0,61,1,2,1,0,,,11,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+62,HH Pandya,MP Stoinis,KM Jadhav,1,0,1,62,2,3,2,0,,,11,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+63,KM Jadhav,MP Stoinis,HH Pandya,1,0,1,63,27,25,3,0,,,11,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+64,HH Pandya,MP Stoinis,KM Jadhav,0,0,0,63,2,4,4,0,,,11,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+65,HH Pandya,MP Stoinis,KM Jadhav,3,0,3,66,5,5,5,0,,,11,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+66,KM Jadhav,MP Stoinis,HH Pandya,0,1,1,67,27,26,6,0,,,11,legbyes,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+67,KM Jadhav,A Zampa,HH Pandya,0,0,0,67,27,27,1,bowled,KM Jadhav,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+68,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,1,2,0,,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+69,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,2,3,0,,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+70,B Kumar,A Zampa,HH Pandya,0,0,0,67,0,3,4,0,,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+71,B Kumar,A Zampa,HH Pandya,1,0,1,68,1,4,5,0,,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+72,HH Pandya,A Zampa,B Kumar,1,0,1,69,6,6,6,0,,,12,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+73,HH Pandya,NM Coulter-Nile,B Kumar,0,0,0,69,6,7,1,0,,,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+74,HH Pandya,NM Coulter-Nile,B Kumar,1,0,1,70,7,8,2,0,,,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+75,B Kumar,NM Coulter-Nile,HH Pandya,0,0,0,70,1,5,3,0,,,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+76,B Kumar,NM Coulter-Nile,HH Pandya,0,0,0,70,1,6,4,caught,B Kumar,MC Henriques,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+77,Kuldeep Yadav,NM Coulter-Nile,HH Pandya,0,0,0,70,0,1,5,0,,,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+78,Kuldeep Yadav,NM Coulter-Nile,HH Pandya,1,0,1,71,1,2,6,0,,,13,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+79,Kuldeep Yadav,A Zampa,HH Pandya,1,0,1,72,2,3,1,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+80,HH Pandya,A Zampa,Kuldeep Yadav,1,0,1,73,8,9,2,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+81,Kuldeep Yadav,A Zampa,HH Pandya,1,0,1,74,3,4,3,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+82,HH Pandya,A Zampa,Kuldeep Yadav,1,0,1,75,9,10,4,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+83,Kuldeep Yadav,A Zampa,HH Pandya,2,0,2,77,5,5,5,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+84,Kuldeep Yadav,A Zampa,HH Pandya,0,0,0,77,5,6,6,0,,,14,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+85,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,78,10,11,1,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+86,Kuldeep Yadav,AJ Tye,HH Pandya,0,0,0,78,5,7,2,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+87,Kuldeep Yadav,AJ Tye,HH Pandya,0,0,0,78,5,8,3,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+88,Kuldeep Yadav,AJ Tye,HH Pandya,1,0,1,79,6,9,4,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+89,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,80,11,12,5,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+90,Kuldeep Yadav,AJ Tye,HH Pandya,0,1,1,81,6,10,6,0,,,15,noballs,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+91,Kuldeep Yadav,AJ Tye,HH Pandya,4,0,4,85,10,11,7,0,,,15,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+92,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,86,12,13,1,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+93,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,87,11,12,2,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+94,HH Pandya,MP Stoinis,Kuldeep Yadav,0,0,0,87,12,14,3,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+95,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,88,13,15,4,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+96,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,89,12,13,5,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+97,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,90,14,16,6,0,,,16,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+98,HH Pandya,AJ Tye,Kuldeep Yadav,6,0,6,96,20,17,1,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+99,HH Pandya,AJ Tye,Kuldeep Yadav,0,0,0,96,20,18,2,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+100,HH Pandya,AJ Tye,Kuldeep Yadav,2,0,2,98,22,19,3,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+101,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,99,23,20,4,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+102,Kuldeep Yadav,AJ Tye,HH Pandya,1,0,1,100,13,14,5,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+103,HH Pandya,AJ Tye,Kuldeep Yadav,1,0,1,101,24,21,6,0,,,17,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+104,HH Pandya,MP Stoinis,Kuldeep Yadav,1,0,1,102,25,22,1,0,,,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+105,Kuldeep Yadav,MP Stoinis,HH Pandya,1,0,1,103,14,15,2,0,,,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+106,HH Pandya,MP Stoinis,Kuldeep Yadav,0,0,0,103,25,23,3,caught,HH Pandya,DT Christian,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+107,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,1,1,104,0,1,4,0,,,18,wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+108,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,2,5,0,,,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+109,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,3,6,0,,,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+110,JJ Bumrah,MP Stoinis,Kuldeep Yadav,0,0,0,104,0,4,7,0,,,18,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+111,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,0,1,1,105,14,16,1,0,,,19,wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+112,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,0,1,1,106,14,17,2,0,,,19,wides,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+113,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,1,0,1,107,15,18,3,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+114,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,0,0,0,107,0,5,4,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+115,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,4,0,4,111,4,6,5,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+116,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,1,0,1,112,5,7,6,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+117,Kuldeep Yadav,NM Coulter-Nile,JJ Bumrah,1,0,1,113,16,19,7,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+118,JJ Bumrah,NM Coulter-Nile,Kuldeep Yadav,1,0,1,114,6,8,8,0,,,19,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+119,JJ Bumrah,AJ Tye,Kuldeep Yadav,0,0,0,114,6,9,1,0,,,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+120,JJ Bumrah,AJ Tye,Kuldeep Yadav,1,0,1,115,7,10,2,0,,,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+121,Kuldeep Yadav,AJ Tye,JJ Bumrah,0,0,0,115,16,20,3,run out,JJ Bumrah,,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+122,YS Chahal,AJ Tye,Kuldeep Yadav,0,0,0,115,0,1,4,0,,,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+123,YS Chahal,AJ Tye,Kuldeep Yadav,3,0,3,118,3,2,5,0,,,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia
+124,Kuldeep Yadav,AJ Tye,YS Chahal,0,0,0,118,16,21,6,caught,Kuldeep Yadav,TD Paine,20,-,field,Australia,1,Barsapara Cricket Stadium,2017-10-10,India,Australia

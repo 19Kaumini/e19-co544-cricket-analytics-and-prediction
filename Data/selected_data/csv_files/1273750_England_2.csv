@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,0,0,1,1,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-1,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,0,0,2,2,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-2,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,0,0,3,3,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-3,JJ Roy,KA Maharaj,JC Buttler,,1,0,1,1,1,4,4,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-4,JC Buttler,KA Maharaj,JJ Roy,,0,0,0,1,0,1,5,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-5,JC Buttler,KA Maharaj,JJ Roy,{'legbyes': 1},0,1,1,2,0,2,6,legbyes,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-6,JC Buttler,A Nortje,JJ Roy,,1,0,1,3,1,3,1,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-7,JJ Roy,A Nortje,JC Buttler,,0,0,0,3,1,5,2,-,2,"{'by': 'South Africa', 'umpire': 'JS Wilson', 'batter': 'JJ Roy', 'decision': 'struck down'}",0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-8,JJ Roy,A Nortje,JC Buttler,,0,0,0,3,1,6,3,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-9,JJ Roy,A Nortje,JC Buttler,,4,0,4,7,5,7,4,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-10,JJ Roy,A Nortje,JC Buttler,,1,0,1,8,6,8,5,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-11,JC Buttler,A Nortje,JJ Roy,,4,0,4,12,5,4,6,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-12,JJ Roy,KA Maharaj,JC Buttler,,4,0,4,16,10,9,1,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-13,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,16,10,10,2,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-14,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,16,10,11,3,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-15,JJ Roy,KA Maharaj,JC Buttler,,4,0,4,20,14,12,4,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-16,JJ Roy,KA Maharaj,JC Buttler,,1,0,1,21,15,13,5,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-17,JC Buttler,KA Maharaj,JJ Roy,,1,0,1,22,6,5,6,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-18,JC Buttler,K Rabada,JJ Roy,,4,0,4,26,10,6,1,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-19,JC Buttler,K Rabada,JJ Roy,,4,0,4,30,14,7,2,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-20,JC Buttler,K Rabada,JJ Roy,,1,0,1,31,15,8,3,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-21,JJ Roy,K Rabada,JC Buttler,,4,0,4,35,19,14,4,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-22,JJ Roy,K Rabada,JC Buttler,,1,0,1,36,20,15,5,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-23,JC Buttler,K Rabada,JJ Roy,,1,0,1,37,16,9,6,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-24,JC Buttler,KA Maharaj,JJ Roy,,1,0,1,38,17,10,1,-,5,,retired hurt,JJ Roy,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-25,MM Ali,KA Maharaj,JC Buttler,,1,0,1,39,1,1,2,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-26,JC Buttler,KA Maharaj,MM Ali,{'legbyes': 1},0,1,1,40,17,11,3,legbyes,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-27,MM Ali,KA Maharaj,JC Buttler,{'wides': 1},0,1,1,41,1,2,4,wides,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-28,MM Ali,KA Maharaj,JC Buttler,,1,0,1,42,2,3,5,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-29,JC Buttler,KA Maharaj,MM Ali,,1,0,1,43,18,12,6,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-30,MM Ali,KA Maharaj,JC Buttler,{'noballs': 1},4,1,5,48,6,4,7,noballs,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-31,MM Ali,KA Maharaj,JC Buttler,,2,0,2,50,8,5,8,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-32,JC Buttler,A Nortje,MM Ali,,6,0,6,56,24,13,1,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-33,JC Buttler,A Nortje,MM Ali,,2,0,2,58,26,14,2,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-34,JC Buttler,A Nortje,MM Ali,,0,0,0,58,26,15,3,-,6,,caught,JC Buttler,T Bavuma,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-35,JM Bairstow,A Nortje,MM Ali,,1,0,1,59,1,1,4,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-36,MM Ali,A Nortje,JM Bairstow,,0,0,0,59,8,6,5,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-37,MM Ali,A Nortje,JM Bairstow,,0,0,0,59,8,7,6,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-38,JM Bairstow,T Shamsi,MM Ali,,0,0,0,59,1,2,1,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-39,JM Bairstow,T Shamsi,MM Ali,,0,0,0,59,1,3,2,-,7,"{'by': 'England', 'umpire': 'CM Brown', 'batter': 'JM Bairstow', 'decision': 'struck down'}",lbw,JM Bairstow,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-40,DJ Malan,T Shamsi,MM Ali,,1,0,1,60,1,1,3,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-41,MM Ali,T Shamsi,DJ Malan,,0,0,0,60,8,8,4,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-42,MM Ali,T Shamsi,DJ Malan,,1,0,1,61,9,9,5,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-43,DJ Malan,T Shamsi,MM Ali,,0,0,0,61,1,2,6,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-44,MM Ali,AK Markram,DJ Malan,,0,0,0,61,9,10,1,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-45,MM Ali,AK Markram,DJ Malan,,1,0,1,62,10,11,2,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-46,DJ Malan,AK Markram,MM Ali,,0,0,0,62,1,3,3,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-47,DJ Malan,AK Markram,MM Ali,,1,0,1,63,2,4,4,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-48,MM Ali,AK Markram,DJ Malan,,1,0,1,64,11,12,5,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-49,DJ Malan,AK Markram,MM Ali,,0,0,0,64,2,5,6,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-50,MM Ali,T Shamsi,DJ Malan,,0,0,0,64,11,13,1,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-51,MM Ali,T Shamsi,DJ Malan,,4,0,4,68,15,14,2,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-52,MM Ali,T Shamsi,DJ Malan,,0,0,0,68,15,15,3,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-53,MM Ali,T Shamsi,DJ Malan,,2,0,2,70,17,16,4,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-54,MM Ali,T Shamsi,DJ Malan,,0,0,0,70,17,17,5,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-55,MM Ali,T Shamsi,DJ Malan,,0,0,0,70,17,18,6,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-56,DJ Malan,K Rabada,MM Ali,,1,0,1,71,3,6,1,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-57,MM Ali,K Rabada,DJ Malan,,1,0,1,72,18,19,2,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-58,DJ Malan,K Rabada,MM Ali,,4,0,4,76,7,7,3,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-59,DJ Malan,K Rabada,MM Ali,,4,0,4,80,11,8,4,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-60,DJ Malan,K Rabada,MM Ali,,0,0,0,80,11,9,5,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-61,DJ Malan,K Rabada,MM Ali,,1,0,1,81,12,10,6,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-62,DJ Malan,T Shamsi,MM Ali,,2,0,2,83,14,11,1,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-63,DJ Malan,T Shamsi,MM Ali,,3,0,3,86,17,12,2,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-64,MM Ali,T Shamsi,DJ Malan,,0,0,0,86,18,20,3,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-65,MM Ali,T Shamsi,DJ Malan,,1,0,1,87,19,21,4,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-66,DJ Malan,T Shamsi,MM Ali,,0,0,0,87,17,13,5,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-67,DJ Malan,T Shamsi,MM Ali,,2,0,2,89,19,14,6,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-68,MM Ali,AK Markram,DJ Malan,,0,0,0,89,19,22,1,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-69,MM Ali,AK Markram,DJ Malan,,6,0,6,95,25,23,2,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-70,MM Ali,AK Markram,DJ Malan,,4,0,4,99,29,24,3,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-71,MM Ali,AK Markram,DJ Malan,{'wides': 1},0,1,1,100,29,25,4,wides,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-72,MM Ali,AK Markram,DJ Malan,{'wides': 1},0,1,1,101,29,26,5,wides,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-73,MM Ali,AK Markram,DJ Malan,,1,0,1,102,30,27,6,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-74,DJ Malan,AK Markram,MM Ali,,1,0,1,103,20,15,7,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-75,MM Ali,AK Markram,DJ Malan,,1,0,1,104,31,28,8,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-76,MM Ali,T Shamsi,DJ Malan,,6,0,6,110,37,29,1,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-77,MM Ali,T Shamsi,DJ Malan,,0,0,0,110,37,30,2,-,13,,caught,MM Ali,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-78,LS Livingstone,T Shamsi,DJ Malan,,0,0,0,110,0,1,3,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-79,LS Livingstone,T Shamsi,DJ Malan,,0,0,0,110,0,2,4,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-80,LS Livingstone,T Shamsi,DJ Malan,,1,0,1,111,1,3,5,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-81,DJ Malan,T Shamsi,LS Livingstone,,1,0,1,112,21,16,6,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-82,DJ Malan,A Nortje,LS Livingstone,,0,0,0,112,21,17,1,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-83,DJ Malan,A Nortje,LS Livingstone,,0,0,0,112,21,18,2,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-84,DJ Malan,A Nortje,LS Livingstone,,4,0,4,116,25,19,3,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-85,DJ Malan,A Nortje,LS Livingstone,,0,0,0,116,25,20,4,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-86,DJ Malan,A Nortje,LS Livingstone,,1,0,1,117,26,21,5,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-87,LS Livingstone,A Nortje,DJ Malan,,0,0,0,117,1,4,6,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-88,DJ Malan,D Pretorius,LS Livingstone,,0,0,0,117,26,22,1,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-89,DJ Malan,D Pretorius,LS Livingstone,,0,0,0,117,26,23,2,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-90,DJ Malan,D Pretorius,LS Livingstone,,1,0,1,118,27,24,3,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-91,LS Livingstone,D Pretorius,DJ Malan,,0,0,0,118,1,5,4,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-92,LS Livingstone,D Pretorius,DJ Malan,,1,0,1,119,2,6,5,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-93,DJ Malan,D Pretorius,LS Livingstone,,6,0,6,125,33,25,6,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-94,LS Livingstone,K Rabada,DJ Malan,,6,0,6,131,8,7,1,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-95,LS Livingstone,K Rabada,DJ Malan,,6,0,6,137,14,8,2,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-96,LS Livingstone,K Rabada,DJ Malan,,6,0,6,143,20,9,3,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-97,LS Livingstone,K Rabada,DJ Malan,,0,0,0,143,20,10,4,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-98,LS Livingstone,K Rabada,DJ Malan,,0,0,0,143,20,11,5,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-99,LS Livingstone,K Rabada,DJ Malan,,1,0,1,144,21,12,6,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-100,LS Livingstone,D Pretorius,DJ Malan,,1,0,1,145,22,13,1,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-101,DJ Malan,D Pretorius,LS Livingstone,,0,0,0,145,33,26,2,-,17,,caught,DJ Malan,K Rabada,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-102,LS Livingstone,D Pretorius,EJG Morgan,,1,0,1,146,23,14,3,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-103,EJG Morgan,D Pretorius,LS Livingstone,,4,0,4,150,4,1,4,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-104,EJG Morgan,D Pretorius,LS Livingstone,,1,0,1,151,5,2,5,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-105,LS Livingstone,D Pretorius,EJG Morgan,,4,0,4,155,27,15,6,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-106,EJG Morgan,A Nortje,LS Livingstone,,1,0,1,156,6,3,1,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-107,LS Livingstone,A Nortje,EJG Morgan,,1,0,1,157,28,16,2,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-108,EJG Morgan,A Nortje,LS Livingstone,,4,0,4,161,10,4,3,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-109,EJG Morgan,A Nortje,LS Livingstone,,0,0,0,161,10,5,4,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-110,EJG Morgan,A Nortje,LS Livingstone,,4,0,4,165,14,6,5,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-111,EJG Morgan,A Nortje,LS Livingstone,,0,0,0,165,14,7,6,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-112,LS Livingstone,D Pretorius,EJG Morgan,,0,0,0,165,28,17,1,-,19,,caught,LS Livingstone,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-113,EJG Morgan,D Pretorius,CR Woakes,,0,0,0,165,14,8,2,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-114,EJG Morgan,D Pretorius,CR Woakes,{'noballs': 1},1,1,2,167,15,9,3,noballs,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-115,CR Woakes,D Pretorius,EJG Morgan,,6,0,6,173,6,1,4,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-116,CR Woakes,D Pretorius,EJG Morgan,,1,0,1,174,7,2,5,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-117,EJG Morgan,D Pretorius,CR Woakes,,0,0,0,174,15,10,6,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-118,EJG Morgan,D Pretorius,CR Woakes,,2,0,2,176,17,11,7,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-119,CR Woakes,K Rabada,EJG Morgan,,0,0,0,176,7,3,1,-,20,,caught,CR Woakes,A Nortje,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-120,EJG Morgan,K Rabada,CJ Jordan,,0,0,0,176,17,12,2,-,20,,caught,EJG Morgan,KA Maharaj,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-121,CJ Jordan,K Rabada,AU Rashid,,0,0,0,176,0,1,3,-,20,,caught,CJ Jordan,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-122,AU Rashid,K Rabada,MA Wood,,1,0,1,177,1,1,4,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-123,MA Wood,K Rabada,AU Rashid,,1,0,1,178,1,1,5,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
-124,AU Rashid,K Rabada,MA Wood,,1,0,1,179,2,2,6,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JJ Roy,KA Maharaj,JC Buttler,0,0,0,0,0,1,1,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+1,JJ Roy,KA Maharaj,JC Buttler,0,0,0,0,0,2,2,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+2,JJ Roy,KA Maharaj,JC Buttler,0,0,0,0,0,3,3,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+3,JJ Roy,KA Maharaj,JC Buttler,1,0,1,1,1,4,4,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+4,JC Buttler,KA Maharaj,JJ Roy,0,0,0,1,0,1,5,-,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+5,JC Buttler,KA Maharaj,JJ Roy,0,1,1,2,0,2,6,legbyes,1,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+6,JC Buttler,A Nortje,JJ Roy,1,0,1,3,1,3,1,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+7,JJ Roy,A Nortje,JC Buttler,0,0,0,3,1,5,2,-,2,"{'by': 'South Africa', 'umpire': 'JS Wilson', 'batter': 'JJ Roy', 'decision': 'struck down'}",0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+8,JJ Roy,A Nortje,JC Buttler,0,0,0,3,1,6,3,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+9,JJ Roy,A Nortje,JC Buttler,4,0,4,7,5,7,4,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+10,JJ Roy,A Nortje,JC Buttler,1,0,1,8,6,8,5,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+11,JC Buttler,A Nortje,JJ Roy,4,0,4,12,5,4,6,-,2,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+12,JJ Roy,KA Maharaj,JC Buttler,4,0,4,16,10,9,1,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+13,JJ Roy,KA Maharaj,JC Buttler,0,0,0,16,10,10,2,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+14,JJ Roy,KA Maharaj,JC Buttler,0,0,0,16,10,11,3,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+15,JJ Roy,KA Maharaj,JC Buttler,4,0,4,20,14,12,4,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+16,JJ Roy,KA Maharaj,JC Buttler,1,0,1,21,15,13,5,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+17,JC Buttler,KA Maharaj,JJ Roy,1,0,1,22,6,5,6,-,3,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+18,JC Buttler,K Rabada,JJ Roy,4,0,4,26,10,6,1,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+19,JC Buttler,K Rabada,JJ Roy,4,0,4,30,14,7,2,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+20,JC Buttler,K Rabada,JJ Roy,1,0,1,31,15,8,3,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+21,JJ Roy,K Rabada,JC Buttler,4,0,4,35,19,14,4,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+22,JJ Roy,K Rabada,JC Buttler,1,0,1,36,20,15,5,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+23,JC Buttler,K Rabada,JJ Roy,1,0,1,37,16,9,6,-,4,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+24,JC Buttler,KA Maharaj,JJ Roy,1,0,1,38,17,10,1,-,5,,retired hurt,JJ Roy,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+25,MM Ali,KA Maharaj,JC Buttler,1,0,1,39,1,1,2,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+26,JC Buttler,KA Maharaj,MM Ali,0,1,1,40,17,11,3,legbyes,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+27,MM Ali,KA Maharaj,JC Buttler,0,1,1,41,1,2,4,wides,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+28,MM Ali,KA Maharaj,JC Buttler,1,0,1,42,2,3,5,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+29,JC Buttler,KA Maharaj,MM Ali,1,0,1,43,18,12,6,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+30,MM Ali,KA Maharaj,JC Buttler,4,1,5,48,6,4,7,noballs,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+31,MM Ali,KA Maharaj,JC Buttler,2,0,2,50,8,5,8,-,5,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+32,JC Buttler,A Nortje,MM Ali,6,0,6,56,24,13,1,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+33,JC Buttler,A Nortje,MM Ali,2,0,2,58,26,14,2,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+34,JC Buttler,A Nortje,MM Ali,0,0,0,58,26,15,3,-,6,,caught,JC Buttler,T Bavuma,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+35,JM Bairstow,A Nortje,MM Ali,1,0,1,59,1,1,4,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+36,MM Ali,A Nortje,JM Bairstow,0,0,0,59,8,6,5,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+37,MM Ali,A Nortje,JM Bairstow,0,0,0,59,8,7,6,-,6,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+38,JM Bairstow,T Shamsi,MM Ali,0,0,0,59,1,2,1,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+39,JM Bairstow,T Shamsi,MM Ali,0,0,0,59,1,3,2,-,7,"{'by': 'England', 'umpire': 'CM Brown', 'batter': 'JM Bairstow', 'decision': 'struck down'}",lbw,JM Bairstow,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+40,DJ Malan,T Shamsi,MM Ali,1,0,1,60,1,1,3,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+41,MM Ali,T Shamsi,DJ Malan,0,0,0,60,8,8,4,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+42,MM Ali,T Shamsi,DJ Malan,1,0,1,61,9,9,5,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+43,DJ Malan,T Shamsi,MM Ali,0,0,0,61,1,2,6,-,7,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+44,MM Ali,AK Markram,DJ Malan,0,0,0,61,9,10,1,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+45,MM Ali,AK Markram,DJ Malan,1,0,1,62,10,11,2,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+46,DJ Malan,AK Markram,MM Ali,0,0,0,62,1,3,3,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+47,DJ Malan,AK Markram,MM Ali,1,0,1,63,2,4,4,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+48,MM Ali,AK Markram,DJ Malan,1,0,1,64,11,12,5,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+49,DJ Malan,AK Markram,MM Ali,0,0,0,64,2,5,6,-,8,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+50,MM Ali,T Shamsi,DJ Malan,0,0,0,64,11,13,1,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+51,MM Ali,T Shamsi,DJ Malan,4,0,4,68,15,14,2,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+52,MM Ali,T Shamsi,DJ Malan,0,0,0,68,15,15,3,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+53,MM Ali,T Shamsi,DJ Malan,2,0,2,70,17,16,4,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+54,MM Ali,T Shamsi,DJ Malan,0,0,0,70,17,17,5,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+55,MM Ali,T Shamsi,DJ Malan,0,0,0,70,17,18,6,-,9,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+56,DJ Malan,K Rabada,MM Ali,1,0,1,71,3,6,1,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+57,MM Ali,K Rabada,DJ Malan,1,0,1,72,18,19,2,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+58,DJ Malan,K Rabada,MM Ali,4,0,4,76,7,7,3,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+59,DJ Malan,K Rabada,MM Ali,4,0,4,80,11,8,4,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+60,DJ Malan,K Rabada,MM Ali,0,0,0,80,11,9,5,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+61,DJ Malan,K Rabada,MM Ali,1,0,1,81,12,10,6,-,10,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+62,DJ Malan,T Shamsi,MM Ali,2,0,2,83,14,11,1,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+63,DJ Malan,T Shamsi,MM Ali,3,0,3,86,17,12,2,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+64,MM Ali,T Shamsi,DJ Malan,0,0,0,86,18,20,3,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+65,MM Ali,T Shamsi,DJ Malan,1,0,1,87,19,21,4,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+66,DJ Malan,T Shamsi,MM Ali,0,0,0,87,17,13,5,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+67,DJ Malan,T Shamsi,MM Ali,2,0,2,89,19,14,6,-,11,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+68,MM Ali,AK Markram,DJ Malan,0,0,0,89,19,22,1,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+69,MM Ali,AK Markram,DJ Malan,6,0,6,95,25,23,2,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+70,MM Ali,AK Markram,DJ Malan,4,0,4,99,29,24,3,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+71,MM Ali,AK Markram,DJ Malan,0,1,1,100,29,25,4,wides,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+72,MM Ali,AK Markram,DJ Malan,0,1,1,101,29,26,5,wides,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+73,MM Ali,AK Markram,DJ Malan,1,0,1,102,30,27,6,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+74,DJ Malan,AK Markram,MM Ali,1,0,1,103,20,15,7,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+75,MM Ali,AK Markram,DJ Malan,1,0,1,104,31,28,8,-,12,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+76,MM Ali,T Shamsi,DJ Malan,6,0,6,110,37,29,1,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+77,MM Ali,T Shamsi,DJ Malan,0,0,0,110,37,30,2,-,13,,caught,MM Ali,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+78,LS Livingstone,T Shamsi,DJ Malan,0,0,0,110,0,1,3,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+79,LS Livingstone,T Shamsi,DJ Malan,0,0,0,110,0,2,4,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+80,LS Livingstone,T Shamsi,DJ Malan,1,0,1,111,1,3,5,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+81,DJ Malan,T Shamsi,LS Livingstone,1,0,1,112,21,16,6,-,13,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+82,DJ Malan,A Nortje,LS Livingstone,0,0,0,112,21,17,1,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+83,DJ Malan,A Nortje,LS Livingstone,0,0,0,112,21,18,2,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+84,DJ Malan,A Nortje,LS Livingstone,4,0,4,116,25,19,3,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+85,DJ Malan,A Nortje,LS Livingstone,0,0,0,116,25,20,4,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+86,DJ Malan,A Nortje,LS Livingstone,1,0,1,117,26,21,5,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+87,LS Livingstone,A Nortje,DJ Malan,0,0,0,117,1,4,6,-,14,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+88,DJ Malan,D Pretorius,LS Livingstone,0,0,0,117,26,22,1,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+89,DJ Malan,D Pretorius,LS Livingstone,0,0,0,117,26,23,2,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+90,DJ Malan,D Pretorius,LS Livingstone,1,0,1,118,27,24,3,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+91,LS Livingstone,D Pretorius,DJ Malan,0,0,0,118,1,5,4,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+92,LS Livingstone,D Pretorius,DJ Malan,1,0,1,119,2,6,5,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+93,DJ Malan,D Pretorius,LS Livingstone,6,0,6,125,33,25,6,-,15,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+94,LS Livingstone,K Rabada,DJ Malan,6,0,6,131,8,7,1,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+95,LS Livingstone,K Rabada,DJ Malan,6,0,6,137,14,8,2,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+96,LS Livingstone,K Rabada,DJ Malan,6,0,6,143,20,9,3,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+97,LS Livingstone,K Rabada,DJ Malan,0,0,0,143,20,10,4,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+98,LS Livingstone,K Rabada,DJ Malan,0,0,0,143,20,11,5,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+99,LS Livingstone,K Rabada,DJ Malan,1,0,1,144,21,12,6,-,16,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+100,LS Livingstone,D Pretorius,DJ Malan,1,0,1,145,22,13,1,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+101,DJ Malan,D Pretorius,LS Livingstone,0,0,0,145,33,26,2,-,17,,caught,DJ Malan,K Rabada,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+102,LS Livingstone,D Pretorius,EJG Morgan,1,0,1,146,23,14,3,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+103,EJG Morgan,D Pretorius,LS Livingstone,4,0,4,150,4,1,4,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+104,EJG Morgan,D Pretorius,LS Livingstone,1,0,1,151,5,2,5,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+105,LS Livingstone,D Pretorius,EJG Morgan,4,0,4,155,27,15,6,-,17,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+106,EJG Morgan,A Nortje,LS Livingstone,1,0,1,156,6,3,1,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+107,LS Livingstone,A Nortje,EJG Morgan,1,0,1,157,28,16,2,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+108,EJG Morgan,A Nortje,LS Livingstone,4,0,4,161,10,4,3,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+109,EJG Morgan,A Nortje,LS Livingstone,0,0,0,161,10,5,4,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+110,EJG Morgan,A Nortje,LS Livingstone,4,0,4,165,14,6,5,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+111,EJG Morgan,A Nortje,LS Livingstone,0,0,0,165,14,7,6,-,18,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+112,LS Livingstone,D Pretorius,EJG Morgan,0,0,0,165,28,17,1,-,19,,caught,LS Livingstone,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+113,EJG Morgan,D Pretorius,CR Woakes,0,0,0,165,14,8,2,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+114,EJG Morgan,D Pretorius,CR Woakes,1,1,2,167,15,9,3,noballs,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+115,CR Woakes,D Pretorius,EJG Morgan,6,0,6,173,6,1,4,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+116,CR Woakes,D Pretorius,EJG Morgan,1,0,1,174,7,2,5,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+117,EJG Morgan,D Pretorius,CR Woakes,0,0,0,174,15,10,6,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+118,EJG Morgan,D Pretorius,CR Woakes,2,0,2,176,17,11,7,-,19,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+119,CR Woakes,K Rabada,EJG Morgan,0,0,0,176,7,3,1,-,20,,caught,CR Woakes,A Nortje,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+120,EJG Morgan,K Rabada,CJ Jordan,0,0,0,176,17,12,2,-,20,,caught,EJG Morgan,KA Maharaj,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+121,CJ Jordan,K Rabada,AU Rashid,0,0,0,176,0,1,3,-,20,,caught,CJ Jordan,DA Miller,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+122,AU Rashid,K Rabada,MA Wood,1,0,1,177,1,1,4,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+123,MA Wood,K Rabada,AU Rashid,1,0,1,178,1,1,5,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa
+124,AU Rashid,K Rabada,MA Wood,1,0,1,179,2,2,6,-,20,,0,,,field,England,2,Sharjah Cricket Stadium,2021-11-06,England,South Africa

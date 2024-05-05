@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Mohammad Mithun,NM Coulter-Nile,Soumya Sarkar,1,0,1,1,1,1,1,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-1,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,1,2,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-2,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,2,3,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-3,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,3,4,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-4,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,1,0,1,2,1,4,5,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-5,Mohammad Mithun,NM Coulter-Nile,Soumya Sarkar,0,0,0,2,1,2,6,1,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-6,Soumya Sarkar,SR Watson,Mohammad Mithun,0,0,0,2,1,5,1,2,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-7,Soumya Sarkar,SR Watson,Mohammad Mithun,0,0,0,2,1,6,2,2,,-,caught,Soumya Sarkar,GJ Maxwell,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-8,Sabbir Rahman,SR Watson,Mohammad Mithun,0,1,1,3,0,1,3,2,{'wides': 1},wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-9,Sabbir Rahman,SR Watson,Mohammad Mithun,0,1,1,4,0,2,4,2,{'legbyes': 1},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-10,Mohammad Mithun,SR Watson,Sabbir Rahman,1,0,1,5,2,3,5,2,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-11,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,5,0,3,6,2,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-12,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,5,0,4,7,2,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-13,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,0,1,1,6,2,4,1,3,{'legbyes': 1},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-14,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,6,0,5,2,3,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-15,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,6,0,6,3,3,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-16,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,2,2,8,0,7,4,3,{'legbyes': 2},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-17,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,1,1,9,0,8,5,3,{'legbyes': 1},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-18,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,10,3,5,6,3,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-19,Mohammad Mithun,JW Hastings,Sabbir Rahman,1,0,1,11,4,6,1,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-20,Sabbir Rahman,JW Hastings,Mohammad Mithun,4,0,4,15,4,9,2,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-21,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,15,4,10,3,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-22,Sabbir Rahman,JW Hastings,Mohammad Mithun,4,0,4,19,8,11,4,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-23,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,19,8,12,5,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-24,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,19,8,13,6,4,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-25,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,20,5,7,1,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-26,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,20,8,14,2,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-27,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,1,0,1,21,9,15,3,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-28,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,22,6,8,4,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-29,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,2,0,2,24,11,16,5,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-30,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,1,0,1,25,12,17,6,5,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-31,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,25,12,18,1,6,,-,caught,Sabbir Rahman,JP Faulkner,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-32,Mohammad Mithun,SR Watson,Shakib Al Hasan,0,0,0,25,6,9,2,6,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-33,Mohammad Mithun,SR Watson,Shakib Al Hasan,0,1,1,26,6,10,3,6,{'wides': 1},wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-34,Mohammad Mithun,SR Watson,Shakib Al Hasan,1,0,1,27,7,11,4,6,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-35,Shakib Al Hasan,SR Watson,Mohammad Mithun,4,0,4,31,4,1,5,6,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-36,Shakib Al Hasan,SR Watson,Mohammad Mithun,1,0,1,32,5,2,6,6,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-37,Mohammad Mithun,SR Watson,Shakib Al Hasan,1,0,1,33,8,12,7,6,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-38,Mohammad Mithun,MR Marsh,Shakib Al Hasan,4,0,4,37,12,13,1,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-39,Mohammad Mithun,MR Marsh,Shakib Al Hasan,0,0,0,37,12,14,2,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-40,Mohammad Mithun,MR Marsh,Shakib Al Hasan,0,0,0,37,12,15,3,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-41,Mohammad Mithun,MR Marsh,Shakib Al Hasan,1,0,1,38,13,16,4,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-42,Shakib Al Hasan,MR Marsh,Mohammad Mithun,1,0,1,39,6,3,5,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-43,Mohammad Mithun,MR Marsh,Shakib Al Hasan,6,0,6,45,19,17,6,7,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-44,Shakib Al Hasan,JW Hastings,Mohammad Mithun,0,0,0,45,6,4,1,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-45,Shakib Al Hasan,JW Hastings,Mohammad Mithun,1,0,1,46,7,5,2,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-46,Mohammad Mithun,JW Hastings,Shakib Al Hasan,0,0,0,46,19,18,3,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-47,Mohammad Mithun,JW Hastings,Shakib Al Hasan,0,0,0,46,19,19,4,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-48,Mohammad Mithun,JW Hastings,Shakib Al Hasan,2,0,2,48,21,20,5,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-49,Mohammad Mithun,JW Hastings,Shakib Al Hasan,1,0,1,49,22,21,6,8,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-50,Mohammad Mithun,GJ Maxwell,Shakib Al Hasan,1,0,1,50,23,22,1,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-51,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,0,0,0,50,7,6,2,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-52,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,0,0,0,50,7,7,3,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-53,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,4,0,4,54,11,8,4,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-54,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,6,0,6,60,17,9,5,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-55,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,1,0,1,61,18,10,6,9,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-56,Shakib Al Hasan,A Zampa,Mohammad Mithun,1,0,1,62,19,11,1,10,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-57,Mohammad Mithun,A Zampa,Shakib Al Hasan,0,0,0,62,23,23,2,10,,-,caught,Mohammad Mithun,SR Watson,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-58,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,62,0,1,3,10,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-59,Shuvagata Hom,A Zampa,Shakib Al Hasan,1,0,1,63,1,2,4,10,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-60,Shakib Al Hasan,A Zampa,Shuvagata Hom,1,0,1,64,20,12,5,10,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-61,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,64,1,3,6,10,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-62,Shakib Al Hasan,JP Faulkner,Shuvagata Hom,1,0,1,65,21,13,1,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-63,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,0,0,0,65,1,4,2,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-64,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,0,0,0,65,1,5,3,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-65,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,1,0,1,66,2,6,4,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-66,Shakib Al Hasan,JP Faulkner,Shuvagata Hom,1,0,1,67,22,14,5,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-67,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,1,0,1,68,3,7,6,11,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-68,Shuvagata Hom,A Zampa,Shakib Al Hasan,6,0,6,74,9,8,1,12,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-69,Shuvagata Hom,A Zampa,Shakib Al Hasan,4,0,4,78,13,9,2,12,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-70,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,78,13,10,3,12,,-,lbw,Shuvagata Hom,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-71,Mahmudullah,A Zampa,Shakib Al Hasan,0,1,1,79,0,1,4,12,{'legbyes': 1},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-72,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,80,23,15,5,12,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-73,Mahmudullah,A Zampa,Shakib Al Hasan,0,0,0,80,0,2,6,12,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-74,Shakib Al Hasan,JW Hastings,Mahmudullah,1,0,1,81,24,16,1,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-75,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,81,0,3,2,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-76,Mahmudullah,JW Hastings,Shakib Al Hasan,4,0,4,85,4,4,3,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-77,Mahmudullah,JW Hastings,Shakib Al Hasan,6,0,6,91,10,5,4,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-78,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,91,10,6,5,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-79,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,91,10,7,6,13,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-80,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,92,25,17,1,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-81,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,93,11,8,2,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-82,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,94,26,18,3,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-83,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,95,12,9,4,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-84,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,95,26,19,5,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-85,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,96,27,20,6,14,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-86,Shakib Al Hasan,JP Faulkner,Mahmudullah,1,0,1,97,28,21,1,15,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-87,Mahmudullah,JP Faulkner,Shakib Al Hasan,1,0,1,98,13,10,2,15,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-88,Shakib Al Hasan,JP Faulkner,Mahmudullah,4,0,4,102,32,22,3,15,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-89,Shakib Al Hasan,JP Faulkner,Mahmudullah,0,0,0,102,32,23,4,15,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-90,Shakib Al Hasan,JP Faulkner,Mahmudullah,1,0,1,103,33,24,5,15,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-91,Mahmudullah,JP Faulkner,Shakib Al Hasan,0,1,1,104,13,11,6,15,{'legbyes': 1},legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-92,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,105,14,12,1,16,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-93,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,105,33,25,2,16,,-,caught,Shakib Al Hasan,NM Coulter-Nile,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-94,Mushfiqur Rahim,A Zampa,Mahmudullah,1,0,1,106,1,1,3,16,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-95,Mahmudullah,A Zampa,Mushfiqur Rahim,1,0,1,107,15,13,4,16,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-96,Mushfiqur Rahim,A Zampa,Mahmudullah,0,0,0,107,1,2,5,16,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-97,Mushfiqur Rahim,A Zampa,Mahmudullah,1,0,1,108,2,3,6,16,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-98,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,109,3,4,1,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-99,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,110,16,14,2,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-100,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,111,4,5,3,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-101,Mahmudullah,SR Watson,Mushfiqur Rahim,0,0,0,111,16,15,4,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-102,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,112,17,16,5,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-103,Mushfiqur Rahim,SR Watson,Mahmudullah,0,0,0,112,4,6,6,17,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-104,Mahmudullah,JP Faulkner,Mushfiqur Rahim,4,0,4,116,21,17,1,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-105,Mahmudullah,JP Faulkner,Mushfiqur Rahim,4,0,4,120,25,18,2,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-106,Mahmudullah,JP Faulkner,Mushfiqur Rahim,1,0,1,121,26,19,3,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-107,Mushfiqur Rahim,JP Faulkner,Mahmudullah,4,0,4,125,8,7,4,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-108,Mushfiqur Rahim,JP Faulkner,Mahmudullah,1,0,1,126,9,8,5,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-109,Mahmudullah,JP Faulkner,Mushfiqur Rahim,1,0,1,127,27,20,6,18,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-110,Mahmudullah,SR Watson,Mushfiqur Rahim,2,0,2,129,29,21,1,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-111,Mahmudullah,SR Watson,Mushfiqur Rahim,0,1,1,130,29,22,2,19,{'wides': 1},wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-112,Mahmudullah,SR Watson,Mushfiqur Rahim,4,0,4,134,33,23,3,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-113,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,135,34,24,4,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-114,Mushfiqur Rahim,SR Watson,Mahmudullah,4,0,4,139,13,9,5,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-115,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,140,14,10,6,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-116,Mahmudullah,SR Watson,Mushfiqur Rahim,4,0,4,144,38,25,7,19,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-117,Mushfiqur Rahim,NM Coulter-Nile,Mahmudullah,1,0,1,145,15,11,1,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-118,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,4,0,4,149,42,26,2,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-119,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,4,0,4,153,46,27,3,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-120,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,2,0,2,155,48,28,4,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-121,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,0,0,0,155,48,29,5,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
-122,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,1,0,1,156,49,30,6,20,,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Mohammad Mithun,NM Coulter-Nile,Soumya Sarkar,1,0,1,1,1,1,1,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+1,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,1,2,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+2,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,2,3,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+3,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,0,0,0,1,0,3,4,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+4,Soumya Sarkar,NM Coulter-Nile,Mohammad Mithun,1,0,1,2,1,4,5,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+5,Mohammad Mithun,NM Coulter-Nile,Soumya Sarkar,0,0,0,2,1,2,6,1,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+6,Soumya Sarkar,SR Watson,Mohammad Mithun,0,0,0,2,1,5,1,2,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+7,Soumya Sarkar,SR Watson,Mohammad Mithun,0,0,0,2,1,6,2,2,-,caught,Soumya Sarkar,GJ Maxwell,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+8,Sabbir Rahman,SR Watson,Mohammad Mithun,0,1,1,3,0,1,3,2,wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+9,Sabbir Rahman,SR Watson,Mohammad Mithun,0,1,1,4,0,2,4,2,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+10,Mohammad Mithun,SR Watson,Sabbir Rahman,1,0,1,5,2,3,5,2,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+11,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,5,0,3,6,2,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+12,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,5,0,4,7,2,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+13,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,0,1,1,6,2,4,1,3,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+14,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,6,0,5,2,3,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+15,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,6,0,6,3,3,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+16,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,2,2,8,0,7,4,3,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+17,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,1,1,9,0,8,5,3,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+18,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,10,3,5,6,3,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+19,Mohammad Mithun,JW Hastings,Sabbir Rahman,1,0,1,11,4,6,1,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+20,Sabbir Rahman,JW Hastings,Mohammad Mithun,4,0,4,15,4,9,2,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+21,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,15,4,10,3,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+22,Sabbir Rahman,JW Hastings,Mohammad Mithun,4,0,4,19,8,11,4,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+23,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,19,8,12,5,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+24,Sabbir Rahman,JW Hastings,Mohammad Mithun,0,0,0,19,8,13,6,4,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+25,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,20,5,7,1,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+26,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,0,0,0,20,8,14,2,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+27,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,1,0,1,21,9,15,3,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+28,Mohammad Mithun,NM Coulter-Nile,Sabbir Rahman,1,0,1,22,6,8,4,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+29,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,2,0,2,24,11,16,5,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+30,Sabbir Rahman,NM Coulter-Nile,Mohammad Mithun,1,0,1,25,12,17,6,5,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+31,Sabbir Rahman,SR Watson,Mohammad Mithun,0,0,0,25,12,18,1,6,-,caught,Sabbir Rahman,JP Faulkner,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+32,Mohammad Mithun,SR Watson,Shakib Al Hasan,0,0,0,25,6,9,2,6,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+33,Mohammad Mithun,SR Watson,Shakib Al Hasan,0,1,1,26,6,10,3,6,wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+34,Mohammad Mithun,SR Watson,Shakib Al Hasan,1,0,1,27,7,11,4,6,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+35,Shakib Al Hasan,SR Watson,Mohammad Mithun,4,0,4,31,4,1,5,6,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+36,Shakib Al Hasan,SR Watson,Mohammad Mithun,1,0,1,32,5,2,6,6,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+37,Mohammad Mithun,SR Watson,Shakib Al Hasan,1,0,1,33,8,12,7,6,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+38,Mohammad Mithun,MR Marsh,Shakib Al Hasan,4,0,4,37,12,13,1,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+39,Mohammad Mithun,MR Marsh,Shakib Al Hasan,0,0,0,37,12,14,2,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+40,Mohammad Mithun,MR Marsh,Shakib Al Hasan,0,0,0,37,12,15,3,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+41,Mohammad Mithun,MR Marsh,Shakib Al Hasan,1,0,1,38,13,16,4,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+42,Shakib Al Hasan,MR Marsh,Mohammad Mithun,1,0,1,39,6,3,5,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+43,Mohammad Mithun,MR Marsh,Shakib Al Hasan,6,0,6,45,19,17,6,7,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+44,Shakib Al Hasan,JW Hastings,Mohammad Mithun,0,0,0,45,6,4,1,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+45,Shakib Al Hasan,JW Hastings,Mohammad Mithun,1,0,1,46,7,5,2,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+46,Mohammad Mithun,JW Hastings,Shakib Al Hasan,0,0,0,46,19,18,3,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+47,Mohammad Mithun,JW Hastings,Shakib Al Hasan,0,0,0,46,19,19,4,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+48,Mohammad Mithun,JW Hastings,Shakib Al Hasan,2,0,2,48,21,20,5,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+49,Mohammad Mithun,JW Hastings,Shakib Al Hasan,1,0,1,49,22,21,6,8,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+50,Mohammad Mithun,GJ Maxwell,Shakib Al Hasan,1,0,1,50,23,22,1,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+51,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,0,0,0,50,7,6,2,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+52,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,0,0,0,50,7,7,3,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+53,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,4,0,4,54,11,8,4,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+54,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,6,0,6,60,17,9,5,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+55,Shakib Al Hasan,GJ Maxwell,Mohammad Mithun,1,0,1,61,18,10,6,9,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+56,Shakib Al Hasan,A Zampa,Mohammad Mithun,1,0,1,62,19,11,1,10,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+57,Mohammad Mithun,A Zampa,Shakib Al Hasan,0,0,0,62,23,23,2,10,-,caught,Mohammad Mithun,SR Watson,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+58,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,62,0,1,3,10,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+59,Shuvagata Hom,A Zampa,Shakib Al Hasan,1,0,1,63,1,2,4,10,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+60,Shakib Al Hasan,A Zampa,Shuvagata Hom,1,0,1,64,20,12,5,10,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+61,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,64,1,3,6,10,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+62,Shakib Al Hasan,JP Faulkner,Shuvagata Hom,1,0,1,65,21,13,1,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+63,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,0,0,0,65,1,4,2,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+64,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,0,0,0,65,1,5,3,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+65,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,1,0,1,66,2,6,4,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+66,Shakib Al Hasan,JP Faulkner,Shuvagata Hom,1,0,1,67,22,14,5,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+67,Shuvagata Hom,JP Faulkner,Shakib Al Hasan,1,0,1,68,3,7,6,11,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+68,Shuvagata Hom,A Zampa,Shakib Al Hasan,6,0,6,74,9,8,1,12,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+69,Shuvagata Hom,A Zampa,Shakib Al Hasan,4,0,4,78,13,9,2,12,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+70,Shuvagata Hom,A Zampa,Shakib Al Hasan,0,0,0,78,13,10,3,12,-,lbw,Shuvagata Hom,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+71,Mahmudullah,A Zampa,Shakib Al Hasan,0,1,1,79,0,1,4,12,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+72,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,80,23,15,5,12,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+73,Mahmudullah,A Zampa,Shakib Al Hasan,0,0,0,80,0,2,6,12,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+74,Shakib Al Hasan,JW Hastings,Mahmudullah,1,0,1,81,24,16,1,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+75,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,81,0,3,2,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+76,Mahmudullah,JW Hastings,Shakib Al Hasan,4,0,4,85,4,4,3,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+77,Mahmudullah,JW Hastings,Shakib Al Hasan,6,0,6,91,10,5,4,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+78,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,91,10,6,5,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+79,Mahmudullah,JW Hastings,Shakib Al Hasan,0,0,0,91,10,7,6,13,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+80,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,92,25,17,1,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+81,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,93,11,8,2,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+82,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,94,26,18,3,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+83,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,95,12,9,4,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+84,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,95,26,19,5,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+85,Shakib Al Hasan,A Zampa,Mahmudullah,1,0,1,96,27,20,6,14,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+86,Shakib Al Hasan,JP Faulkner,Mahmudullah,1,0,1,97,28,21,1,15,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+87,Mahmudullah,JP Faulkner,Shakib Al Hasan,1,0,1,98,13,10,2,15,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+88,Shakib Al Hasan,JP Faulkner,Mahmudullah,4,0,4,102,32,22,3,15,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+89,Shakib Al Hasan,JP Faulkner,Mahmudullah,0,0,0,102,32,23,4,15,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+90,Shakib Al Hasan,JP Faulkner,Mahmudullah,1,0,1,103,33,24,5,15,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+91,Mahmudullah,JP Faulkner,Shakib Al Hasan,0,1,1,104,13,11,6,15,legbyes,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+92,Mahmudullah,A Zampa,Shakib Al Hasan,1,0,1,105,14,12,1,16,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+93,Shakib Al Hasan,A Zampa,Mahmudullah,0,0,0,105,33,25,2,16,-,caught,Shakib Al Hasan,NM Coulter-Nile,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+94,Mushfiqur Rahim,A Zampa,Mahmudullah,1,0,1,106,1,1,3,16,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+95,Mahmudullah,A Zampa,Mushfiqur Rahim,1,0,1,107,15,13,4,16,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+96,Mushfiqur Rahim,A Zampa,Mahmudullah,0,0,0,107,1,2,5,16,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+97,Mushfiqur Rahim,A Zampa,Mahmudullah,1,0,1,108,2,3,6,16,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+98,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,109,3,4,1,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+99,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,110,16,14,2,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+100,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,111,4,5,3,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+101,Mahmudullah,SR Watson,Mushfiqur Rahim,0,0,0,111,16,15,4,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+102,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,112,17,16,5,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+103,Mushfiqur Rahim,SR Watson,Mahmudullah,0,0,0,112,4,6,6,17,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+104,Mahmudullah,JP Faulkner,Mushfiqur Rahim,4,0,4,116,21,17,1,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+105,Mahmudullah,JP Faulkner,Mushfiqur Rahim,4,0,4,120,25,18,2,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+106,Mahmudullah,JP Faulkner,Mushfiqur Rahim,1,0,1,121,26,19,3,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+107,Mushfiqur Rahim,JP Faulkner,Mahmudullah,4,0,4,125,8,7,4,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+108,Mushfiqur Rahim,JP Faulkner,Mahmudullah,1,0,1,126,9,8,5,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+109,Mahmudullah,JP Faulkner,Mushfiqur Rahim,1,0,1,127,27,20,6,18,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+110,Mahmudullah,SR Watson,Mushfiqur Rahim,2,0,2,129,29,21,1,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+111,Mahmudullah,SR Watson,Mushfiqur Rahim,0,1,1,130,29,22,2,19,wides,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+112,Mahmudullah,SR Watson,Mushfiqur Rahim,4,0,4,134,33,23,3,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+113,Mahmudullah,SR Watson,Mushfiqur Rahim,1,0,1,135,34,24,4,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+114,Mushfiqur Rahim,SR Watson,Mahmudullah,4,0,4,139,13,9,5,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+115,Mushfiqur Rahim,SR Watson,Mahmudullah,1,0,1,140,14,10,6,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+116,Mahmudullah,SR Watson,Mushfiqur Rahim,4,0,4,144,38,25,7,19,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+117,Mushfiqur Rahim,NM Coulter-Nile,Mahmudullah,1,0,1,145,15,11,1,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+118,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,4,0,4,149,42,26,2,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+119,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,4,0,4,153,46,27,3,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+120,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,2,0,2,155,48,28,4,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+121,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,0,0,0,155,48,29,5,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia
+122,Mahmudullah,NM Coulter-Nile,Mushfiqur Rahim,1,0,1,156,49,30,6,20,-,0,,,field,Australia,1,M Chinnaswamy Stadium,2016-03-21,Bangladesh,Australia

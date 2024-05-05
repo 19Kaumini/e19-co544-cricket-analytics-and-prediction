@@ -1,121 +1,121 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,HH Gibbs,JE Taylor,GC Smith,,0,0,0,0,0,1,1,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-1,HH Gibbs,JE Taylor,GC Smith,,0,0,0,0,0,2,2,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-2,HH Gibbs,JE Taylor,GC Smith,,0,0,0,0,0,3,3,-,bowled,HH Gibbs,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-3,AB de Villiers,JE Taylor,GC Smith,,4,0,4,4,4,1,4,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-4,AB de Villiers,JE Taylor,GC Smith,,4,0,4,8,8,2,5,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-5,AB de Villiers,JE Taylor,GC Smith,{'wides': 1},0,1,1,9,8,3,6,wides,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-6,AB de Villiers,JE Taylor,GC Smith,,1,0,1,10,9,4,7,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-7,AB de Villiers,FH Edwards,GC Smith,,0,0,0,10,9,5,1,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-8,AB de Villiers,FH Edwards,GC Smith,{'legbyes': 1},0,1,1,11,9,6,2,legbyes,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-9,GC Smith,FH Edwards,AB de Villiers,{'wides': 1},0,1,1,12,0,1,3,wides,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-10,GC Smith,FH Edwards,AB de Villiers,,1,0,1,13,1,2,4,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-11,AB de Villiers,FH Edwards,GC Smith,,0,0,0,13,9,7,5,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-12,AB de Villiers,FH Edwards,GC Smith,,1,0,1,14,10,8,6,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-13,GC Smith,FH Edwards,AB de Villiers,,1,0,1,15,2,3,7,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-14,GC Smith,JE Taylor,AB de Villiers,,2,0,2,17,4,4,1,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-15,GC Smith,JE Taylor,AB de Villiers,,0,0,0,17,4,5,2,-,bowled,GC Smith,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-16,JP Duminy,JE Taylor,AB de Villiers,,1,0,1,18,1,1,3,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-17,AB de Villiers,JE Taylor,JP Duminy,,2,0,2,20,12,9,4,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-18,AB de Villiers,JE Taylor,JP Duminy,{'wides': 1},0,1,1,21,12,10,5,wides,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-19,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,21,12,11,6,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-20,AB de Villiers,JE Taylor,JP Duminy,,1,0,1,22,13,12,7,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-21,AB de Villiers,FH Edwards,JP Duminy,,1,0,1,23,14,13,1,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-22,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,23,1,2,2,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-23,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,23,1,3,3,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-24,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,23,1,4,4,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-25,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,23,1,5,5,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-26,JP Duminy,FH Edwards,AB de Villiers,,4,0,4,27,5,6,6,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-27,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,27,14,14,1,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-28,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,27,14,15,2,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-29,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,27,14,16,3,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-30,AB de Villiers,JE Taylor,JP Duminy,,1,0,1,28,15,17,4,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-31,JP Duminy,JE Taylor,AB de Villiers,{'wides': 1},0,1,1,29,5,7,5,wides,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-32,JP Duminy,JE Taylor,AB de Villiers,,0,0,0,29,5,8,6,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-33,JP Duminy,JE Taylor,AB de Villiers,,0,0,0,29,5,9,7,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-34,AB de Villiers,DJG Sammy,JP Duminy,,1,0,1,30,16,18,1,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-35,JP Duminy,DJG Sammy,AB de Villiers,,2,0,2,32,7,10,2,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-36,JP Duminy,DJG Sammy,AB de Villiers,,4,0,4,36,11,11,3,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-37,JP Duminy,DJG Sammy,AB de Villiers,,0,0,0,36,11,12,4,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-38,JP Duminy,DJG Sammy,AB de Villiers,,2,0,2,38,13,13,5,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-39,JP Duminy,DJG Sammy,AB de Villiers,,0,0,0,38,13,14,6,-,caught,JP Duminy,S Chanderpaul,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-40,AB de Villiers,JE Taylor,JL Ontong,,1,0,1,39,17,19,1,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-41,JL Ontong,JE Taylor,AB de Villiers,,0,0,0,39,0,1,2,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-42,JL Ontong,JE Taylor,AB de Villiers,,1,0,1,40,1,2,3,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-43,AB de Villiers,JE Taylor,JL Ontong,,4,0,4,44,21,20,4,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-44,AB de Villiers,JE Taylor,JL Ontong,,0,0,0,44,21,21,5,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-45,AB de Villiers,JE Taylor,JL Ontong,,4,0,4,48,25,22,6,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-46,JL Ontong,DJG Sammy,AB de Villiers,,3,0,3,51,4,3,1,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-47,AB de Villiers,DJG Sammy,JL Ontong,,0,0,0,51,25,23,2,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-48,AB de Villiers,DJG Sammy,JL Ontong,,0,0,0,51,25,24,3,-,caught,AB de Villiers,D Ramdin,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-49,MV Boucher,DJG Sammy,JL Ontong,,1,0,1,52,1,1,4,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-50,JL Ontong,DJG Sammy,MV Boucher,,0,0,0,52,4,4,5,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-51,JL Ontong,DJG Sammy,MV Boucher,,2,0,2,54,6,5,6,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-52,MV Boucher,R Rampaul,JL Ontong,,0,0,0,54,1,2,1,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-53,MV Boucher,R Rampaul,JL Ontong,{'legbyes': 1},0,1,1,55,1,3,2,legbyes,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-54,JL Ontong,R Rampaul,MV Boucher,,0,0,0,55,6,6,3,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-55,JL Ontong,R Rampaul,MV Boucher,,1,0,1,56,7,7,4,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-56,MV Boucher,R Rampaul,JL Ontong,,0,0,0,56,1,4,5,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-57,MV Boucher,R Rampaul,JL Ontong,,0,0,0,56,1,5,6,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-58,JL Ontong,DJG Sammy,MV Boucher,,1,0,1,57,8,8,1,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-59,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,57,1,6,2,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-60,MV Boucher,DJG Sammy,JL Ontong,,1,0,1,58,2,7,3,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-61,JL Ontong,DJG Sammy,MV Boucher,,1,0,1,59,9,9,4,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-62,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,59,2,8,5,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-63,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,59,2,9,6,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-64,JL Ontong,R Rampaul,MV Boucher,,1,0,1,60,10,10,1,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-65,MV Boucher,R Rampaul,JL Ontong,{'legbyes': 1},0,1,1,61,2,10,2,legbyes,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-66,JL Ontong,R Rampaul,MV Boucher,,0,0,0,61,10,11,3,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-67,JL Ontong,R Rampaul,MV Boucher,,0,0,0,61,10,12,4,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-68,JL Ontong,R Rampaul,MV Boucher,,2,0,2,63,12,13,5,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-69,JL Ontong,R Rampaul,MV Boucher,,0,0,0,63,12,14,6,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-70,MV Boucher,DJG Sammy,JL Ontong,,1,0,1,64,3,11,1,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-71,JL Ontong,DJG Sammy,MV Boucher,,2,0,2,66,14,15,2,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-72,JL Ontong,DJG Sammy,MV Boucher,,0,0,0,66,14,16,3,-,caught,JL Ontong,DJ Bravo,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-73,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,66,0,1,4,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-74,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,66,0,2,5,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-75,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,66,0,3,6,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-76,MV Boucher,RN Lewis,SM Pollock,,1,0,1,67,4,12,1,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-77,SM Pollock,RN Lewis,MV Boucher,,4,0,4,71,4,4,2,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-78,SM Pollock,RN Lewis,MV Boucher,,0,0,0,71,4,5,3,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-79,SM Pollock,RN Lewis,MV Boucher,,2,0,2,73,6,6,4,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-80,SM Pollock,RN Lewis,MV Boucher,,2,0,2,75,8,7,5,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-81,SM Pollock,RN Lewis,MV Boucher,,0,0,0,75,8,8,6,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-82,MV Boucher,MN Samuels,SM Pollock,,2,0,2,77,6,13,1,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-83,MV Boucher,MN Samuels,SM Pollock,,0,0,0,77,6,14,2,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-84,MV Boucher,MN Samuels,SM Pollock,,0,0,0,77,6,15,3,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-85,MV Boucher,MN Samuels,SM Pollock,,0,0,0,77,6,16,4,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-86,MV Boucher,MN Samuels,SM Pollock,,0,0,0,77,6,17,5,-,caught,MV Boucher,RN Lewis,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-87,SM Pollock,MN Samuels,JA Morkel,,0,0,0,77,8,9,6,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-88,JA Morkel,R Rampaul,SM Pollock,,1,0,1,78,1,1,1,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-89,SM Pollock,R Rampaul,JA Morkel,,0,0,0,78,8,10,2,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-90,SM Pollock,R Rampaul,JA Morkel,,2,0,2,80,10,11,3,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-91,SM Pollock,R Rampaul,JA Morkel,,4,0,4,84,14,12,4,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-92,SM Pollock,R Rampaul,JA Morkel,,0,0,0,84,14,13,5,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-93,SM Pollock,R Rampaul,JA Morkel,,1,0,1,85,15,14,6,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-94,SM Pollock,MN Samuels,JA Morkel,,1,0,1,86,16,15,1,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-95,JA Morkel,MN Samuels,SM Pollock,,1,0,1,87,2,2,2,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-96,SM Pollock,MN Samuels,JA Morkel,,1,0,1,88,17,16,3,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-97,JA Morkel,MN Samuels,SM Pollock,,0,0,0,88,2,3,4,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-98,JA Morkel,MN Samuels,SM Pollock,,1,0,1,89,3,4,5,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-99,SM Pollock,MN Samuels,JA Morkel,,0,0,0,89,17,17,6,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-100,JA Morkel,R Rampaul,SM Pollock,,1,0,1,90,4,5,1,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-101,SM Pollock,R Rampaul,JA Morkel,,1,0,1,91,18,18,2,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-102,JA Morkel,R Rampaul,SM Pollock,,6,0,6,97,10,6,3,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-103,JA Morkel,R Rampaul,SM Pollock,,1,0,1,98,11,7,4,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-104,SM Pollock,R Rampaul,JA Morkel,,2,0,2,100,20,19,5,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-105,SM Pollock,R Rampaul,JA Morkel,,2,0,2,102,22,20,6,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-106,JA Morkel,FH Edwards,SM Pollock,,1,0,1,103,12,8,1,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-107,SM Pollock,FH Edwards,JA Morkel,,1,0,1,104,23,21,2,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-108,JA Morkel,FH Edwards,SM Pollock,,1,0,1,105,13,9,3,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-109,SM Pollock,FH Edwards,JA Morkel,{'legbyes': 1},0,1,1,106,23,22,4,legbyes,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-110,JA Morkel,FH Edwards,SM Pollock,,6,0,6,112,19,10,5,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-111,JA Morkel,FH Edwards,SM Pollock,,0,0,0,112,19,11,6,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-112,SM Pollock,MN Samuels,JA Morkel,,6,0,6,118,29,23,1,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-113,SM Pollock,MN Samuels,JA Morkel,,6,0,6,124,35,24,2,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-114,SM Pollock,MN Samuels,JA Morkel,,1,0,1,125,36,25,3,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-115,JA Morkel,MN Samuels,SM Pollock,,0,0,0,125,19,12,4,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-116,JA Morkel,MN Samuels,SM Pollock,,4,0,4,129,23,13,5,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-117,JA Morkel,MN Samuels,SM Pollock,,1,0,1,130,24,14,6,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-118,JA Morkel,FH Edwards,SM Pollock,,0,0,0,130,24,15,1,-,0,,,20,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
-119,JA Morkel,FH Edwards,SM Pollock,,4,0,4,134,28,16,2,-,0,,,20,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,HH Gibbs,JE Taylor,GC Smith,0,0,0,0,0,1,1,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+1,HH Gibbs,JE Taylor,GC Smith,0,0,0,0,0,2,2,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+2,HH Gibbs,JE Taylor,GC Smith,0,0,0,0,0,3,3,-,bowled,HH Gibbs,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+3,AB de Villiers,JE Taylor,GC Smith,4,0,4,4,4,1,4,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+4,AB de Villiers,JE Taylor,GC Smith,4,0,4,8,8,2,5,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+5,AB de Villiers,JE Taylor,GC Smith,0,1,1,9,8,3,6,wides,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+6,AB de Villiers,JE Taylor,GC Smith,1,0,1,10,9,4,7,-,0,,,1,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+7,AB de Villiers,FH Edwards,GC Smith,0,0,0,10,9,5,1,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+8,AB de Villiers,FH Edwards,GC Smith,0,1,1,11,9,6,2,legbyes,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+9,GC Smith,FH Edwards,AB de Villiers,0,1,1,12,0,1,3,wides,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+10,GC Smith,FH Edwards,AB de Villiers,1,0,1,13,1,2,4,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+11,AB de Villiers,FH Edwards,GC Smith,0,0,0,13,9,7,5,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+12,AB de Villiers,FH Edwards,GC Smith,1,0,1,14,10,8,6,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+13,GC Smith,FH Edwards,AB de Villiers,1,0,1,15,2,3,7,-,0,,,2,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+14,GC Smith,JE Taylor,AB de Villiers,2,0,2,17,4,4,1,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+15,GC Smith,JE Taylor,AB de Villiers,0,0,0,17,4,5,2,-,bowled,GC Smith,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+16,JP Duminy,JE Taylor,AB de Villiers,1,0,1,18,1,1,3,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+17,AB de Villiers,JE Taylor,JP Duminy,2,0,2,20,12,9,4,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+18,AB de Villiers,JE Taylor,JP Duminy,0,1,1,21,12,10,5,wides,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+19,AB de Villiers,JE Taylor,JP Duminy,0,0,0,21,12,11,6,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+20,AB de Villiers,JE Taylor,JP Duminy,1,0,1,22,13,12,7,-,0,,,3,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+21,AB de Villiers,FH Edwards,JP Duminy,1,0,1,23,14,13,1,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+22,JP Duminy,FH Edwards,AB de Villiers,0,0,0,23,1,2,2,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+23,JP Duminy,FH Edwards,AB de Villiers,0,0,0,23,1,3,3,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+24,JP Duminy,FH Edwards,AB de Villiers,0,0,0,23,1,4,4,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+25,JP Duminy,FH Edwards,AB de Villiers,0,0,0,23,1,5,5,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+26,JP Duminy,FH Edwards,AB de Villiers,4,0,4,27,5,6,6,-,0,,,4,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+27,AB de Villiers,JE Taylor,JP Duminy,0,0,0,27,14,14,1,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+28,AB de Villiers,JE Taylor,JP Duminy,0,0,0,27,14,15,2,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+29,AB de Villiers,JE Taylor,JP Duminy,0,0,0,27,14,16,3,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+30,AB de Villiers,JE Taylor,JP Duminy,1,0,1,28,15,17,4,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+31,JP Duminy,JE Taylor,AB de Villiers,0,1,1,29,5,7,5,wides,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+32,JP Duminy,JE Taylor,AB de Villiers,0,0,0,29,5,8,6,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+33,JP Duminy,JE Taylor,AB de Villiers,0,0,0,29,5,9,7,-,0,,,5,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+34,AB de Villiers,DJG Sammy,JP Duminy,1,0,1,30,16,18,1,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+35,JP Duminy,DJG Sammy,AB de Villiers,2,0,2,32,7,10,2,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+36,JP Duminy,DJG Sammy,AB de Villiers,4,0,4,36,11,11,3,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+37,JP Duminy,DJG Sammy,AB de Villiers,0,0,0,36,11,12,4,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+38,JP Duminy,DJG Sammy,AB de Villiers,2,0,2,38,13,13,5,-,0,,,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+39,JP Duminy,DJG Sammy,AB de Villiers,0,0,0,38,13,14,6,-,caught,JP Duminy,S Chanderpaul,6,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+40,AB de Villiers,JE Taylor,JL Ontong,1,0,1,39,17,19,1,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+41,JL Ontong,JE Taylor,AB de Villiers,0,0,0,39,0,1,2,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+42,JL Ontong,JE Taylor,AB de Villiers,1,0,1,40,1,2,3,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+43,AB de Villiers,JE Taylor,JL Ontong,4,0,4,44,21,20,4,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+44,AB de Villiers,JE Taylor,JL Ontong,0,0,0,44,21,21,5,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+45,AB de Villiers,JE Taylor,JL Ontong,4,0,4,48,25,22,6,-,0,,,7,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+46,JL Ontong,DJG Sammy,AB de Villiers,3,0,3,51,4,3,1,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+47,AB de Villiers,DJG Sammy,JL Ontong,0,0,0,51,25,23,2,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+48,AB de Villiers,DJG Sammy,JL Ontong,0,0,0,51,25,24,3,-,caught,AB de Villiers,D Ramdin,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+49,MV Boucher,DJG Sammy,JL Ontong,1,0,1,52,1,1,4,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+50,JL Ontong,DJG Sammy,MV Boucher,0,0,0,52,4,4,5,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+51,JL Ontong,DJG Sammy,MV Boucher,2,0,2,54,6,5,6,-,0,,,8,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+52,MV Boucher,R Rampaul,JL Ontong,0,0,0,54,1,2,1,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+53,MV Boucher,R Rampaul,JL Ontong,0,1,1,55,1,3,2,legbyes,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+54,JL Ontong,R Rampaul,MV Boucher,0,0,0,55,6,6,3,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+55,JL Ontong,R Rampaul,MV Boucher,1,0,1,56,7,7,4,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+56,MV Boucher,R Rampaul,JL Ontong,0,0,0,56,1,4,5,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+57,MV Boucher,R Rampaul,JL Ontong,0,0,0,56,1,5,6,-,0,,,9,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+58,JL Ontong,DJG Sammy,MV Boucher,1,0,1,57,8,8,1,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+59,MV Boucher,DJG Sammy,JL Ontong,0,0,0,57,1,6,2,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+60,MV Boucher,DJG Sammy,JL Ontong,1,0,1,58,2,7,3,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+61,JL Ontong,DJG Sammy,MV Boucher,1,0,1,59,9,9,4,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+62,MV Boucher,DJG Sammy,JL Ontong,0,0,0,59,2,8,5,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+63,MV Boucher,DJG Sammy,JL Ontong,0,0,0,59,2,9,6,-,0,,,10,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+64,JL Ontong,R Rampaul,MV Boucher,1,0,1,60,10,10,1,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+65,MV Boucher,R Rampaul,JL Ontong,0,1,1,61,2,10,2,legbyes,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+66,JL Ontong,R Rampaul,MV Boucher,0,0,0,61,10,11,3,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+67,JL Ontong,R Rampaul,MV Boucher,0,0,0,61,10,12,4,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+68,JL Ontong,R Rampaul,MV Boucher,2,0,2,63,12,13,5,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+69,JL Ontong,R Rampaul,MV Boucher,0,0,0,63,12,14,6,-,0,,,11,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+70,MV Boucher,DJG Sammy,JL Ontong,1,0,1,64,3,11,1,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+71,JL Ontong,DJG Sammy,MV Boucher,2,0,2,66,14,15,2,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+72,JL Ontong,DJG Sammy,MV Boucher,0,0,0,66,14,16,3,-,caught,JL Ontong,DJ Bravo,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+73,SM Pollock,DJG Sammy,MV Boucher,0,0,0,66,0,1,4,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+74,SM Pollock,DJG Sammy,MV Boucher,0,0,0,66,0,2,5,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+75,SM Pollock,DJG Sammy,MV Boucher,0,0,0,66,0,3,6,-,0,,,12,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+76,MV Boucher,RN Lewis,SM Pollock,1,0,1,67,4,12,1,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+77,SM Pollock,RN Lewis,MV Boucher,4,0,4,71,4,4,2,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+78,SM Pollock,RN Lewis,MV Boucher,0,0,0,71,4,5,3,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+79,SM Pollock,RN Lewis,MV Boucher,2,0,2,73,6,6,4,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+80,SM Pollock,RN Lewis,MV Boucher,2,0,2,75,8,7,5,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+81,SM Pollock,RN Lewis,MV Boucher,0,0,0,75,8,8,6,-,0,,,13,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+82,MV Boucher,MN Samuels,SM Pollock,2,0,2,77,6,13,1,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+83,MV Boucher,MN Samuels,SM Pollock,0,0,0,77,6,14,2,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+84,MV Boucher,MN Samuels,SM Pollock,0,0,0,77,6,15,3,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+85,MV Boucher,MN Samuels,SM Pollock,0,0,0,77,6,16,4,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+86,MV Boucher,MN Samuels,SM Pollock,0,0,0,77,6,17,5,-,caught,MV Boucher,RN Lewis,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+87,SM Pollock,MN Samuels,JA Morkel,0,0,0,77,8,9,6,-,0,,,14,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+88,JA Morkel,R Rampaul,SM Pollock,1,0,1,78,1,1,1,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+89,SM Pollock,R Rampaul,JA Morkel,0,0,0,78,8,10,2,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+90,SM Pollock,R Rampaul,JA Morkel,2,0,2,80,10,11,3,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+91,SM Pollock,R Rampaul,JA Morkel,4,0,4,84,14,12,4,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+92,SM Pollock,R Rampaul,JA Morkel,0,0,0,84,14,13,5,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+93,SM Pollock,R Rampaul,JA Morkel,1,0,1,85,15,14,6,-,0,,,15,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+94,SM Pollock,MN Samuels,JA Morkel,1,0,1,86,16,15,1,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+95,JA Morkel,MN Samuels,SM Pollock,1,0,1,87,2,2,2,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+96,SM Pollock,MN Samuels,JA Morkel,1,0,1,88,17,16,3,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+97,JA Morkel,MN Samuels,SM Pollock,0,0,0,88,2,3,4,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+98,JA Morkel,MN Samuels,SM Pollock,1,0,1,89,3,4,5,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+99,SM Pollock,MN Samuels,JA Morkel,0,0,0,89,17,17,6,-,0,,,16,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+100,JA Morkel,R Rampaul,SM Pollock,1,0,1,90,4,5,1,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+101,SM Pollock,R Rampaul,JA Morkel,1,0,1,91,18,18,2,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+102,JA Morkel,R Rampaul,SM Pollock,6,0,6,97,10,6,3,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+103,JA Morkel,R Rampaul,SM Pollock,1,0,1,98,11,7,4,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+104,SM Pollock,R Rampaul,JA Morkel,2,0,2,100,20,19,5,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+105,SM Pollock,R Rampaul,JA Morkel,2,0,2,102,22,20,6,-,0,,,17,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+106,JA Morkel,FH Edwards,SM Pollock,1,0,1,103,12,8,1,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+107,SM Pollock,FH Edwards,JA Morkel,1,0,1,104,23,21,2,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+108,JA Morkel,FH Edwards,SM Pollock,1,0,1,105,13,9,3,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+109,SM Pollock,FH Edwards,JA Morkel,0,1,1,106,23,22,4,legbyes,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+110,JA Morkel,FH Edwards,SM Pollock,6,0,6,112,19,10,5,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+111,JA Morkel,FH Edwards,SM Pollock,0,0,0,112,19,11,6,-,0,,,18,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+112,SM Pollock,MN Samuels,JA Morkel,6,0,6,118,29,23,1,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+113,SM Pollock,MN Samuels,JA Morkel,6,0,6,124,35,24,2,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+114,SM Pollock,MN Samuels,JA Morkel,1,0,1,125,36,25,3,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+115,JA Morkel,MN Samuels,SM Pollock,0,0,0,125,19,12,4,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+116,JA Morkel,MN Samuels,SM Pollock,4,0,4,129,23,13,5,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+117,JA Morkel,MN Samuels,SM Pollock,1,0,1,130,24,14,6,-,0,,,19,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+118,JA Morkel,FH Edwards,SM Pollock,0,0,0,130,24,15,1,-,0,,,20,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies
+119,JA Morkel,FH Edwards,SM Pollock,4,0,4,134,28,16,2,-,0,,,20,field,South Africa,2,New Wanderers Stadium,2008-01-18,South Africa,West Indies

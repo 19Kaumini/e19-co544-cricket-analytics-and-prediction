@@ -1,133 +1,133 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,PR Stirling,B Kumar,A Balbirnie,0,0,0,0,0,1,1,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-1,PR Stirling,B Kumar,A Balbirnie,0,0,0,0,0,2,2,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-2,PR Stirling,B Kumar,A Balbirnie,6,0,6,6,6,3,3,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-3,PR Stirling,B Kumar,A Balbirnie,4,0,4,10,10,4,4,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-4,PR Stirling,B Kumar,A Balbirnie,4,0,4,14,14,5,5,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-5,PR Stirling,B Kumar,A Balbirnie,4,0,4,18,18,6,6,1,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-6,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,1,1,2,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-7,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,2,2,2,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-8,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,3,3,2,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-9,A Balbirnie,HH Pandya,PR Stirling,0,1,1,19,0,4,4,2,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-10,PR Stirling,HH Pandya,A Balbirnie,6,0,6,25,24,7,5,2,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-11,PR Stirling,HH Pandya,A Balbirnie,0,1,1,26,24,8,6,2,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-12,PR Stirling,B Kumar,A Balbirnie,4,0,4,30,28,9,1,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-13,PR Stirling,B Kumar,A Balbirnie,1,0,1,31,29,10,2,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-14,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,5,3,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-15,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,6,4,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-16,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,7,5,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-17,A Balbirnie,B Kumar,PR Stirling,6,0,6,37,6,8,6,3,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-18,PR Stirling,HH Pandya,A Balbirnie,0,1,1,38,29,11,1,4,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-19,A Balbirnie,HH Pandya,PR Stirling,0,0,0,38,6,9,2,4,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-20,A Balbirnie,HH Pandya,PR Stirling,6,0,6,44,12,10,3,4,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-21,A Balbirnie,HH Pandya,PR Stirling,1,0,1,45,13,11,4,4,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-22,PR Stirling,HH Pandya,A Balbirnie,4,0,4,49,33,12,5,4,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-23,PR Stirling,HH Pandya,A Balbirnie,0,1,1,50,33,13,6,4,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-24,PR Stirling,HH Pandya,A Balbirnie,0,0,0,50,33,14,7,4,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-25,A Balbirnie,HV Patel,PR Stirling,0,0,0,50,13,12,1,5,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-26,A Balbirnie,HV Patel,PR Stirling,0,0,0,50,13,13,2,5,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-27,A Balbirnie,HV Patel,PR Stirling,0,1,1,51,13,14,3,5,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-28,PR Stirling,HV Patel,A Balbirnie,1,0,1,52,34,15,4,5,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-29,A Balbirnie,HV Patel,PR Stirling,0,0,0,52,13,15,5,5,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-30,A Balbirnie,HV Patel,PR Stirling,6,1,7,59,19,16,6,5,{'noballs': 1},noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-31,A Balbirnie,HV Patel,PR Stirling,6,0,6,65,25,17,7,5,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-32,PR Stirling,Ravi Bishnoi,A Balbirnie,6,0,6,71,40,16,1,6,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-33,PR Stirling,Ravi Bishnoi,A Balbirnie,0,1,1,72,40,17,2,6,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-34,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,18,3,6,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-35,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,19,4,6,,-,"{'by': 'India', 'umpire': 'Jareth McCready', 'batter': 'PR Stirling', 'decision': 'struck down'}",0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-36,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,20,5,6,,-,,bowled,PR Stirling,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-37,GJ Delany,Ravi Bishnoi,A Balbirnie,0,1,1,73,0,1,6,6,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-38,A Balbirnie,Ravi Bishnoi,GJ Delany,0,0,0,73,25,18,7,6,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-39,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,2,1,7,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-40,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,3,2,7,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-41,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,4,3,7,,-,,run out,GJ Delany,HH Pandya,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-42,A Balbirnie,Umran Malik,HT Tector,6,0,6,79,31,19,4,7,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-43,A Balbirnie,Umran Malik,HT Tector,0,0,0,79,31,20,5,7,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-44,A Balbirnie,Umran Malik,HT Tector,0,0,0,79,31,21,6,7,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-45,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,80,1,1,1,8,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-46,A Balbirnie,Ravi Bishnoi,HT Tector,1,0,1,81,32,22,2,8,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-47,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,82,2,2,3,8,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-48,A Balbirnie,Ravi Bishnoi,HT Tector,0,1,1,83,32,23,4,8,{'noballs': 1},noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-49,A Balbirnie,Ravi Bishnoi,HT Tector,0,1,1,84,32,24,5,8,{'legbyes': 1},legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-50,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,85,3,3,6,8,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-51,A Balbirnie,Ravi Bishnoi,HT Tector,1,0,1,86,33,25,7,8,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-52,A Balbirnie,Umran Malik,HT Tector,0,0,0,86,33,26,1,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-53,A Balbirnie,Umran Malik,HT Tector,6,0,6,92,39,27,2,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-54,A Balbirnie,Umran Malik,HT Tector,4,0,4,96,43,28,3,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-55,A Balbirnie,Umran Malik,HT Tector,1,0,1,97,44,29,4,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-56,HT Tector,Umran Malik,A Balbirnie,0,1,1,98,3,4,5,9,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-57,HT Tector,Umran Malik,A Balbirnie,0,0,0,98,3,5,6,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-58,HT Tector,Umran Malik,A Balbirnie,2,0,2,100,5,6,7,9,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-59,A Balbirnie,AR Patel,HT Tector,4,0,4,104,48,30,1,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-60,A Balbirnie,AR Patel,HT Tector,0,0,0,104,48,31,2,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-61,A Balbirnie,AR Patel,HT Tector,0,0,0,104,48,32,3,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-62,A Balbirnie,AR Patel,HT Tector,1,0,1,105,49,33,4,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-63,HT Tector,AR Patel,A Balbirnie,1,0,1,106,6,7,5,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-64,A Balbirnie,AR Patel,HT Tector,1,0,1,107,50,34,6,10,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-65,A Balbirnie,HV Patel,HT Tector,4,0,4,111,54,35,1,11,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-66,A Balbirnie,HV Patel,HT Tector,6,0,6,117,60,36,2,11,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-67,A Balbirnie,HV Patel,HT Tector,0,0,0,117,60,37,3,11,,-,,caught,A Balbirnie,Ravi Bishnoi,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-68,L Tucker,HV Patel,HT Tector,1,0,1,118,1,1,4,11,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-69,HT Tector,HV Patel,L Tucker,1,0,1,119,7,8,5,11,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-70,L Tucker,HV Patel,HT Tector,0,0,0,119,1,2,6,11,,-,"{'by': 'India', 'umpire': 'R Black', 'batter': 'L Tucker', 'decision': 'struck down'}",0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-71,HT Tector,AR Patel,L Tucker,1,0,1,120,8,9,1,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-72,L Tucker,AR Patel,HT Tector,1,0,1,121,2,3,2,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-73,HT Tector,AR Patel,L Tucker,1,0,1,122,9,10,3,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-74,L Tucker,AR Patel,HT Tector,1,0,1,123,3,4,4,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-75,HT Tector,AR Patel,L Tucker,1,0,1,124,10,11,5,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-76,L Tucker,AR Patel,HT Tector,0,0,0,124,3,5,6,12,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-77,HT Tector,Ravi Bishnoi,L Tucker,4,0,4,128,14,12,1,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-78,HT Tector,Ravi Bishnoi,L Tucker,0,0,0,128,14,13,2,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-79,HT Tector,Ravi Bishnoi,L Tucker,4,0,4,132,18,14,3,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-80,HT Tector,Ravi Bishnoi,L Tucker,1,0,1,133,19,15,4,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-81,L Tucker,Ravi Bishnoi,HT Tector,1,0,1,134,4,6,5,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-82,HT Tector,Ravi Bishnoi,L Tucker,0,1,1,135,19,16,6,13,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-83,HT Tector,Ravi Bishnoi,L Tucker,0,0,0,135,19,17,7,13,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-84,L Tucker,Umran Malik,HT Tector,1,0,1,136,5,7,1,14,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-85,HT Tector,Umran Malik,L Tucker,1,0,1,137,20,18,2,14,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-86,L Tucker,Umran Malik,HT Tector,0,1,1,138,5,8,3,14,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-87,L Tucker,Umran Malik,HT Tector,0,2,2,140,5,9,4,14,"{'legbyes': 1, 'noballs': 1}",legbyesnoballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-88,HT Tector,Umran Malik,L Tucker,1,0,1,141,21,19,5,14,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-89,L Tucker,Umran Malik,HT Tector,0,1,1,142,5,10,6,14,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-90,L Tucker,Umran Malik,HT Tector,0,0,0,142,5,11,7,14,,-,,caught,L Tucker,YS Chahal,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-91,HT Tector,Umran Malik,GH Dockrell,4,0,4,146,25,20,8,14,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-92,HT Tector,Umran Malik,GH Dockrell,1,0,1,147,26,21,9,14,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-93,HT Tector,Ravi Bishnoi,GH Dockrell,2,0,2,149,28,22,1,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-94,HT Tector,Ravi Bishnoi,GH Dockrell,1,0,1,150,29,23,2,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-95,GH Dockrell,Ravi Bishnoi,HT Tector,6,0,6,156,6,1,3,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-96,GH Dockrell,Ravi Bishnoi,HT Tector,0,0,0,156,6,2,4,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-97,GH Dockrell,Ravi Bishnoi,HT Tector,4,0,4,160,10,3,5,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-98,GH Dockrell,Ravi Bishnoi,HT Tector,4,0,4,164,14,4,6,15,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-99,HT Tector,B Kumar,GH Dockrell,1,0,1,165,30,24,1,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-100,GH Dockrell,B Kumar,HT Tector,1,0,1,166,15,5,2,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-101,HT Tector,B Kumar,GH Dockrell,4,0,4,170,34,25,3,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-102,HT Tector,B Kumar,GH Dockrell,0,0,0,170,34,26,4,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-103,HT Tector,B Kumar,GH Dockrell,0,0,0,170,34,27,5,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-104,HT Tector,B Kumar,GH Dockrell,4,0,4,174,38,28,6,16,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-105,GH Dockrell,HV Patel,HT Tector,0,0,0,174,15,6,1,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-106,GH Dockrell,HV Patel,HT Tector,6,0,6,180,21,7,2,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-107,GH Dockrell,HV Patel,HT Tector,1,0,1,181,22,8,3,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-108,HT Tector,HV Patel,GH Dockrell,1,0,1,182,39,29,4,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-109,GH Dockrell,HV Patel,HT Tector,0,0,0,182,22,9,5,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-110,GH Dockrell,HV Patel,HT Tector,6,0,6,188,28,10,6,17,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-111,HT Tector,B Kumar,GH Dockrell,0,1,1,189,39,30,1,18,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-112,HT Tector,B Kumar,GH Dockrell,0,0,0,189,39,31,2,18,,-,,caught,HT Tector,DJ Hooda,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-113,GH Dockrell,B Kumar,MR Adair,0,0,0,189,28,11,3,18,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-114,GH Dockrell,B Kumar,MR Adair,1,0,1,190,29,12,4,18,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-115,MR Adair,B Kumar,GH Dockrell,0,0,0,190,0,1,5,18,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-116,MR Adair,B Kumar,GH Dockrell,1,0,1,191,1,2,6,18,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-117,GH Dockrell,B Kumar,MR Adair,4,0,4,195,33,13,7,18,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-118,MR Adair,HV Patel,GH Dockrell,0,1,1,196,1,3,1,19,{'wides': 1},wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-119,MR Adair,HV Patel,GH Dockrell,1,0,1,197,2,4,2,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-120,GH Dockrell,HV Patel,MR Adair,1,0,1,198,34,14,3,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-121,MR Adair,HV Patel,GH Dockrell,4,0,4,202,6,5,4,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-122,MR Adair,HV Patel,GH Dockrell,6,0,6,208,12,6,5,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-123,MR Adair,HV Patel,GH Dockrell,1,0,1,209,13,7,6,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-124,GH Dockrell,HV Patel,MR Adair,0,0,0,209,34,15,7,19,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-125,MR Adair,Umran Malik,GH Dockrell,0,0,0,209,13,8,1,20,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-126,MR Adair,Umran Malik,GH Dockrell,0,1,1,210,13,9,2,20,{'noballs': 1},noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-127,MR Adair,Umran Malik,GH Dockrell,4,0,4,214,17,10,3,20,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-128,MR Adair,Umran Malik,GH Dockrell,4,0,4,218,21,11,4,20,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-129,MR Adair,Umran Malik,GH Dockrell,1,0,1,219,22,12,5,20,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-130,GH Dockrell,Umran Malik,MR Adair,0,1,1,220,34,16,6,20,{'byes': 1},byes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
-131,MR Adair,Umran Malik,GH Dockrell,1,0,1,221,23,13,7,20,,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,B Kumar,A Balbirnie,0,0,0,0,0,1,1,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+1,PR Stirling,B Kumar,A Balbirnie,0,0,0,0,0,2,2,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+2,PR Stirling,B Kumar,A Balbirnie,6,0,6,6,6,3,3,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+3,PR Stirling,B Kumar,A Balbirnie,4,0,4,10,10,4,4,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+4,PR Stirling,B Kumar,A Balbirnie,4,0,4,14,14,5,5,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+5,PR Stirling,B Kumar,A Balbirnie,4,0,4,18,18,6,6,1,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+6,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,1,1,2,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+7,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,2,2,2,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+8,A Balbirnie,HH Pandya,PR Stirling,0,0,0,18,0,3,3,2,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+9,A Balbirnie,HH Pandya,PR Stirling,0,1,1,19,0,4,4,2,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+10,PR Stirling,HH Pandya,A Balbirnie,6,0,6,25,24,7,5,2,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+11,PR Stirling,HH Pandya,A Balbirnie,0,1,1,26,24,8,6,2,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+12,PR Stirling,B Kumar,A Balbirnie,4,0,4,30,28,9,1,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+13,PR Stirling,B Kumar,A Balbirnie,1,0,1,31,29,10,2,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+14,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,5,3,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+15,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,6,4,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+16,A Balbirnie,B Kumar,PR Stirling,0,0,0,31,0,7,5,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+17,A Balbirnie,B Kumar,PR Stirling,6,0,6,37,6,8,6,3,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+18,PR Stirling,HH Pandya,A Balbirnie,0,1,1,38,29,11,1,4,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+19,A Balbirnie,HH Pandya,PR Stirling,0,0,0,38,6,9,2,4,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+20,A Balbirnie,HH Pandya,PR Stirling,6,0,6,44,12,10,3,4,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+21,A Balbirnie,HH Pandya,PR Stirling,1,0,1,45,13,11,4,4,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+22,PR Stirling,HH Pandya,A Balbirnie,4,0,4,49,33,12,5,4,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+23,PR Stirling,HH Pandya,A Balbirnie,0,1,1,50,33,13,6,4,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+24,PR Stirling,HH Pandya,A Balbirnie,0,0,0,50,33,14,7,4,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+25,A Balbirnie,HV Patel,PR Stirling,0,0,0,50,13,12,1,5,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+26,A Balbirnie,HV Patel,PR Stirling,0,0,0,50,13,13,2,5,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+27,A Balbirnie,HV Patel,PR Stirling,0,1,1,51,13,14,3,5,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+28,PR Stirling,HV Patel,A Balbirnie,1,0,1,52,34,15,4,5,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+29,A Balbirnie,HV Patel,PR Stirling,0,0,0,52,13,15,5,5,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+30,A Balbirnie,HV Patel,PR Stirling,6,1,7,59,19,16,6,5,noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+31,A Balbirnie,HV Patel,PR Stirling,6,0,6,65,25,17,7,5,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+32,PR Stirling,Ravi Bishnoi,A Balbirnie,6,0,6,71,40,16,1,6,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+33,PR Stirling,Ravi Bishnoi,A Balbirnie,0,1,1,72,40,17,2,6,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+34,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,18,3,6,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+35,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,19,4,6,-,"{'by': 'India', 'umpire': 'Jareth McCready', 'batter': 'PR Stirling', 'decision': 'struck down'}",0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+36,PR Stirling,Ravi Bishnoi,A Balbirnie,0,0,0,72,40,20,5,6,-,,bowled,PR Stirling,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+37,GJ Delany,Ravi Bishnoi,A Balbirnie,0,1,1,73,0,1,6,6,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+38,A Balbirnie,Ravi Bishnoi,GJ Delany,0,0,0,73,25,18,7,6,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+39,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,2,1,7,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+40,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,3,2,7,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+41,GJ Delany,Umran Malik,A Balbirnie,0,0,0,73,0,4,3,7,-,,run out,GJ Delany,HH Pandya,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+42,A Balbirnie,Umran Malik,HT Tector,6,0,6,79,31,19,4,7,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+43,A Balbirnie,Umran Malik,HT Tector,0,0,0,79,31,20,5,7,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+44,A Balbirnie,Umran Malik,HT Tector,0,0,0,79,31,21,6,7,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+45,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,80,1,1,1,8,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+46,A Balbirnie,Ravi Bishnoi,HT Tector,1,0,1,81,32,22,2,8,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+47,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,82,2,2,3,8,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+48,A Balbirnie,Ravi Bishnoi,HT Tector,0,1,1,83,32,23,4,8,noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+49,A Balbirnie,Ravi Bishnoi,HT Tector,0,1,1,84,32,24,5,8,legbyes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+50,HT Tector,Ravi Bishnoi,A Balbirnie,1,0,1,85,3,3,6,8,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+51,A Balbirnie,Ravi Bishnoi,HT Tector,1,0,1,86,33,25,7,8,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+52,A Balbirnie,Umran Malik,HT Tector,0,0,0,86,33,26,1,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+53,A Balbirnie,Umran Malik,HT Tector,6,0,6,92,39,27,2,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+54,A Balbirnie,Umran Malik,HT Tector,4,0,4,96,43,28,3,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+55,A Balbirnie,Umran Malik,HT Tector,1,0,1,97,44,29,4,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+56,HT Tector,Umran Malik,A Balbirnie,0,1,1,98,3,4,5,9,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+57,HT Tector,Umran Malik,A Balbirnie,0,0,0,98,3,5,6,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+58,HT Tector,Umran Malik,A Balbirnie,2,0,2,100,5,6,7,9,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+59,A Balbirnie,AR Patel,HT Tector,4,0,4,104,48,30,1,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+60,A Balbirnie,AR Patel,HT Tector,0,0,0,104,48,31,2,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+61,A Balbirnie,AR Patel,HT Tector,0,0,0,104,48,32,3,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+62,A Balbirnie,AR Patel,HT Tector,1,0,1,105,49,33,4,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+63,HT Tector,AR Patel,A Balbirnie,1,0,1,106,6,7,5,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+64,A Balbirnie,AR Patel,HT Tector,1,0,1,107,50,34,6,10,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+65,A Balbirnie,HV Patel,HT Tector,4,0,4,111,54,35,1,11,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+66,A Balbirnie,HV Patel,HT Tector,6,0,6,117,60,36,2,11,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+67,A Balbirnie,HV Patel,HT Tector,0,0,0,117,60,37,3,11,-,,caught,A Balbirnie,Ravi Bishnoi,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+68,L Tucker,HV Patel,HT Tector,1,0,1,118,1,1,4,11,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+69,HT Tector,HV Patel,L Tucker,1,0,1,119,7,8,5,11,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+70,L Tucker,HV Patel,HT Tector,0,0,0,119,1,2,6,11,-,"{'by': 'India', 'umpire': 'R Black', 'batter': 'L Tucker', 'decision': 'struck down'}",0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+71,HT Tector,AR Patel,L Tucker,1,0,1,120,8,9,1,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+72,L Tucker,AR Patel,HT Tector,1,0,1,121,2,3,2,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+73,HT Tector,AR Patel,L Tucker,1,0,1,122,9,10,3,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+74,L Tucker,AR Patel,HT Tector,1,0,1,123,3,4,4,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+75,HT Tector,AR Patel,L Tucker,1,0,1,124,10,11,5,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+76,L Tucker,AR Patel,HT Tector,0,0,0,124,3,5,6,12,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+77,HT Tector,Ravi Bishnoi,L Tucker,4,0,4,128,14,12,1,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+78,HT Tector,Ravi Bishnoi,L Tucker,0,0,0,128,14,13,2,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+79,HT Tector,Ravi Bishnoi,L Tucker,4,0,4,132,18,14,3,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+80,HT Tector,Ravi Bishnoi,L Tucker,1,0,1,133,19,15,4,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+81,L Tucker,Ravi Bishnoi,HT Tector,1,0,1,134,4,6,5,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+82,HT Tector,Ravi Bishnoi,L Tucker,0,1,1,135,19,16,6,13,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+83,HT Tector,Ravi Bishnoi,L Tucker,0,0,0,135,19,17,7,13,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+84,L Tucker,Umran Malik,HT Tector,1,0,1,136,5,7,1,14,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+85,HT Tector,Umran Malik,L Tucker,1,0,1,137,20,18,2,14,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+86,L Tucker,Umran Malik,HT Tector,0,1,1,138,5,8,3,14,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+87,L Tucker,Umran Malik,HT Tector,0,2,2,140,5,9,4,14,legbyesnoballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+88,HT Tector,Umran Malik,L Tucker,1,0,1,141,21,19,5,14,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+89,L Tucker,Umran Malik,HT Tector,0,1,1,142,5,10,6,14,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+90,L Tucker,Umran Malik,HT Tector,0,0,0,142,5,11,7,14,-,,caught,L Tucker,YS Chahal,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+91,HT Tector,Umran Malik,GH Dockrell,4,0,4,146,25,20,8,14,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+92,HT Tector,Umran Malik,GH Dockrell,1,0,1,147,26,21,9,14,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+93,HT Tector,Ravi Bishnoi,GH Dockrell,2,0,2,149,28,22,1,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+94,HT Tector,Ravi Bishnoi,GH Dockrell,1,0,1,150,29,23,2,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+95,GH Dockrell,Ravi Bishnoi,HT Tector,6,0,6,156,6,1,3,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+96,GH Dockrell,Ravi Bishnoi,HT Tector,0,0,0,156,6,2,4,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+97,GH Dockrell,Ravi Bishnoi,HT Tector,4,0,4,160,10,3,5,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+98,GH Dockrell,Ravi Bishnoi,HT Tector,4,0,4,164,14,4,6,15,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+99,HT Tector,B Kumar,GH Dockrell,1,0,1,165,30,24,1,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+100,GH Dockrell,B Kumar,HT Tector,1,0,1,166,15,5,2,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+101,HT Tector,B Kumar,GH Dockrell,4,0,4,170,34,25,3,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+102,HT Tector,B Kumar,GH Dockrell,0,0,0,170,34,26,4,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+103,HT Tector,B Kumar,GH Dockrell,0,0,0,170,34,27,5,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+104,HT Tector,B Kumar,GH Dockrell,4,0,4,174,38,28,6,16,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+105,GH Dockrell,HV Patel,HT Tector,0,0,0,174,15,6,1,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+106,GH Dockrell,HV Patel,HT Tector,6,0,6,180,21,7,2,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+107,GH Dockrell,HV Patel,HT Tector,1,0,1,181,22,8,3,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+108,HT Tector,HV Patel,GH Dockrell,1,0,1,182,39,29,4,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+109,GH Dockrell,HV Patel,HT Tector,0,0,0,182,22,9,5,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+110,GH Dockrell,HV Patel,HT Tector,6,0,6,188,28,10,6,17,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+111,HT Tector,B Kumar,GH Dockrell,0,1,1,189,39,30,1,18,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+112,HT Tector,B Kumar,GH Dockrell,0,0,0,189,39,31,2,18,-,,caught,HT Tector,DJ Hooda,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+113,GH Dockrell,B Kumar,MR Adair,0,0,0,189,28,11,3,18,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+114,GH Dockrell,B Kumar,MR Adair,1,0,1,190,29,12,4,18,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+115,MR Adair,B Kumar,GH Dockrell,0,0,0,190,0,1,5,18,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+116,MR Adair,B Kumar,GH Dockrell,1,0,1,191,1,2,6,18,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+117,GH Dockrell,B Kumar,MR Adair,4,0,4,195,33,13,7,18,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+118,MR Adair,HV Patel,GH Dockrell,0,1,1,196,1,3,1,19,wides,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+119,MR Adair,HV Patel,GH Dockrell,1,0,1,197,2,4,2,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+120,GH Dockrell,HV Patel,MR Adair,1,0,1,198,34,14,3,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+121,MR Adair,HV Patel,GH Dockrell,4,0,4,202,6,5,4,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+122,MR Adair,HV Patel,GH Dockrell,6,0,6,208,12,6,5,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+123,MR Adair,HV Patel,GH Dockrell,1,0,1,209,13,7,6,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+124,GH Dockrell,HV Patel,MR Adair,0,0,0,209,34,15,7,19,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+125,MR Adair,Umran Malik,GH Dockrell,0,0,0,209,13,8,1,20,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+126,MR Adair,Umran Malik,GH Dockrell,0,1,1,210,13,9,2,20,noballs,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+127,MR Adair,Umran Malik,GH Dockrell,4,0,4,214,17,10,3,20,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+128,MR Adair,Umran Malik,GH Dockrell,4,0,4,218,21,11,4,20,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+129,MR Adair,Umran Malik,GH Dockrell,1,0,1,219,22,12,5,20,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+130,GH Dockrell,Umran Malik,MR Adair,0,1,1,220,34,16,6,20,byes,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India
+131,MR Adair,Umran Malik,GH Dockrell,1,0,1,221,23,13,7,20,-,,0,,,bat,India,2,"The Village, Malahide, Dublin",2022-06-28,Ireland,India

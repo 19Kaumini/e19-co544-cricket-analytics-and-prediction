@@ -1,111 +1,111 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,WTS Porterfield,KAJ Roach,PR Stirling,4,0,4,4,4,1,1,0,,,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-1,WTS Porterfield,KAJ Roach,PR Stirling,0,0,0,4,4,2,2,caught,WTS Porterfield,DJG Sammy,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-2,NJ O'Brien,KAJ Roach,PR Stirling,0,0,0,4,0,1,3,0,,,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-3,NJ O'Brien,KAJ Roach,PR Stirling,1,0,1,5,1,2,4,0,,,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-4,PR Stirling,KAJ Roach,NJ O'Brien,0,0,0,5,0,1,5,0,,,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-5,PR Stirling,KAJ Roach,NJ O'Brien,0,0,0,5,0,2,6,0,,,1,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-6,NJ O'Brien,R Rampaul,PR Stirling,1,0,1,6,2,3,1,0,,,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-7,PR Stirling,R Rampaul,NJ O'Brien,0,1,1,7,0,3,2,0,,,2,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-8,PR Stirling,R Rampaul,NJ O'Brien,0,0,0,7,0,4,3,0,,,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-9,PR Stirling,R Rampaul,NJ O'Brien,0,0,0,7,0,5,4,caught,PR Stirling,DJG Sammy,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-10,NJ O'Brien,R Rampaul,AR Cusack,4,0,4,11,6,4,5,0,,,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-11,NJ O'Brien,R Rampaul,AR Cusack,0,0,0,11,6,5,6,caught,NJ O'Brien,D Ramdin,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-12,GC Wilson,R Rampaul,AR Cusack,0,0,0,11,0,1,7,0,,,2,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-13,AR Cusack,KAJ Roach,GC Wilson,0,0,0,11,0,1,1,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-14,AR Cusack,KAJ Roach,GC Wilson,1,0,1,12,1,2,2,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-15,GC Wilson,KAJ Roach,AR Cusack,0,0,0,12,0,2,3,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-16,GC Wilson,KAJ Roach,AR Cusack,0,1,1,13,0,3,4,0,,,3,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-17,GC Wilson,KAJ Roach,AR Cusack,0,1,1,14,0,4,5,0,,,3,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-18,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,5,6,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-19,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,6,7,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-20,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,7,8,0,,,3,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-21,AR Cusack,R Rampaul,GC Wilson,1,0,1,15,2,3,1,0,,,4,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-22,GC Wilson,R Rampaul,AR Cusack,0,1,1,16,0,8,2,0,,,4,{'legbyes': 1},legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-23,AR Cusack,R Rampaul,GC Wilson,0,0,0,16,2,4,3,caught,AR Cusack,DJG Sammy,4,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-24,KJ O'Brien,R Rampaul,GC Wilson,1,0,1,17,1,1,4,0,,,4,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-25,GC Wilson,R Rampaul,KJ O'Brien,0,1,1,18,0,9,5,0,,,4,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-26,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,18,0,10,6,0,,,4,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-27,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,18,0,11,7,0,,,4,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-28,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,18,1,2,1,0,,,5,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-29,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,18,1,3,2,0,,,5,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-30,KJ O'Brien,KAJ Roach,GC Wilson,0,1,1,19,1,4,3,0,,,5,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-31,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,19,1,5,4,0,,,5,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-32,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,19,1,6,5,0,,,5,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-33,KJ O'Brien,KAJ Roach,GC Wilson,0,4,4,23,1,7,6,0,,,5,{'legbyes': 4},legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-34,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,23,1,8,7,0,,,5,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-35,GC Wilson,R Rampaul,KJ O'Brien,1,0,1,24,1,12,1,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-36,KJ O'Brien,R Rampaul,GC Wilson,4,0,4,28,5,9,2,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-37,KJ O'Brien,R Rampaul,GC Wilson,0,0,0,28,5,10,3,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-38,KJ O'Brien,R Rampaul,GC Wilson,0,1,1,29,5,11,4,0,,,6,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-39,KJ O'Brien,R Rampaul,GC Wilson,1,0,1,30,6,12,5,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-40,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,30,1,13,6,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-41,GC Wilson,R Rampaul,KJ O'Brien,1,0,1,31,2,14,7,0,,,6,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-42,GC Wilson,DJ Bravo,KJ O'Brien,1,0,1,32,3,15,1,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-43,KJ O'Brien,DJ Bravo,GC Wilson,0,1,1,33,6,13,2,0,,,7,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-44,KJ O'Brien,DJ Bravo,GC Wilson,1,0,1,34,7,14,3,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-45,GC Wilson,DJ Bravo,KJ O'Brien,0,0,0,34,3,16,4,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-46,GC Wilson,DJ Bravo,KJ O'Brien,0,0,0,34,3,17,5,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-47,GC Wilson,DJ Bravo,KJ O'Brien,1,0,1,35,4,18,6,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-48,KJ O'Brien,DJ Bravo,GC Wilson,0,0,0,35,7,15,7,0,,,7,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-49,GC Wilson,NO Miller,KJ O'Brien,0,0,0,35,4,19,1,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-50,GC Wilson,NO Miller,KJ O'Brien,1,0,1,36,5,20,2,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-51,KJ O'Brien,NO Miller,GC Wilson,0,0,0,36,7,16,3,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-52,KJ O'Brien,NO Miller,GC Wilson,1,0,1,37,8,17,4,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-53,GC Wilson,NO Miller,KJ O'Brien,1,0,1,38,6,21,5,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-54,KJ O'Brien,NO Miller,GC Wilson,1,0,1,39,9,18,6,0,,,8,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-55,KJ O'Brien,DJG Sammy,GC Wilson,0,0,0,39,9,19,1,caught,KJ O'Brien,ADS Fletcher,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-56,GC Wilson,DJG Sammy,DT Johnston,0,0,0,39,6,22,2,0,,,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-57,GC Wilson,DJG Sammy,DT Johnston,1,0,1,40,7,23,3,0,,,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-58,DT Johnston,DJG Sammy,GC Wilson,0,0,0,40,0,1,4,0,,,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-59,DT Johnston,DJG Sammy,GC Wilson,0,0,0,40,0,2,5,0,,,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-60,DT Johnston,DJG Sammy,GC Wilson,1,0,1,41,1,3,6,0,,,9,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-61,DT Johnston,NO Miller,GC Wilson,0,0,0,41,1,4,1,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-62,DT Johnston,NO Miller,GC Wilson,1,0,1,42,2,5,2,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-63,GC Wilson,NO Miller,DT Johnston,1,0,1,43,8,24,3,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-64,DT Johnston,NO Miller,GC Wilson,1,0,1,44,3,6,4,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-65,GC Wilson,NO Miller,DT Johnston,2,0,2,46,10,25,5,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-66,GC Wilson,NO Miller,DT Johnston,1,0,1,47,11,26,6,0,,,10,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-67,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,27,1,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-68,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,28,2,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-69,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,29,3,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-70,GC Wilson,DJG Sammy,DT Johnston,2,0,2,49,13,30,4,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-71,GC Wilson,DJG Sammy,DT Johnston,0,0,0,49,13,31,5,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-72,GC Wilson,DJG Sammy,DT Johnston,2,0,2,51,15,32,6,0,,,11,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-73,DT Johnston,NO Miller,GC Wilson,1,0,1,52,4,7,1,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-74,GC Wilson,NO Miller,DT Johnston,0,0,0,52,15,33,2,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-75,GC Wilson,NO Miller,DT Johnston,0,0,0,52,15,34,3,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-76,GC Wilson,NO Miller,DT Johnston,1,0,1,53,16,35,4,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-77,DT Johnston,NO Miller,GC Wilson,1,0,1,54,5,8,5,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-78,GC Wilson,NO Miller,DT Johnston,1,0,1,55,17,36,6,0,,,12,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-79,GC Wilson,DJ Bravo,DT Johnston,0,0,0,55,17,37,1,caught,GC Wilson,DJG Sammy,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-80,JF Mooney,DJ Bravo,DT Johnston,1,0,1,56,1,1,2,0,,,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-81,DT Johnston,DJ Bravo,JF Mooney,0,0,0,56,5,9,3,0,,,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-82,DT Johnston,DJ Bravo,JF Mooney,0,0,0,56,5,10,4,bowled,DT Johnston,,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-83,AC Botha,DJ Bravo,JF Mooney,0,0,0,56,0,1,5,0,,,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-84,AC Botha,DJ Bravo,JF Mooney,0,0,0,56,0,2,6,0,,,13,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-85,JF Mooney,NO Miller,AC Botha,0,2,2,58,1,2,1,0,,,14,{'legbyes': 2},legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-86,JF Mooney,NO Miller,AC Botha,0,2,2,60,1,3,2,0,,,14,{'wides': 2},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-87,AC Botha,NO Miller,JF Mooney,0,0,0,60,0,3,3,0,,,14,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-88,AC Botha,NO Miller,JF Mooney,1,0,1,61,1,4,4,0,,,14,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-89,JF Mooney,NO Miller,AC Botha,0,0,0,61,1,4,5,lbw,JF Mooney,,14,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-90,WB Rankin,NO Miller,AC Botha,0,0,0,61,0,1,6,0,,,14,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-91,WB Rankin,NO Miller,AC Botha,1,0,1,62,1,2,7,0,,,14,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-92,WB Rankin,DJG Sammy,AC Botha,0,0,0,62,1,3,1,0,,,15,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-93,WB Rankin,DJG Sammy,AC Botha,0,1,1,63,1,4,2,0,,,15,{'legbyes': 1},legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-94,AC Botha,DJG Sammy,WB Rankin,0,0,0,63,1,5,3,0,,,15,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-95,AC Botha,DJG Sammy,WB Rankin,1,0,1,64,2,6,4,0,,,15,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-96,WB Rankin,DJG Sammy,AC Botha,0,0,0,64,1,5,5,caught,WB Rankin,D Ramdin,15,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-97,GH Dockrell,DJG Sammy,AC Botha,0,0,0,64,0,1,6,0,,,15,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-98,AC Botha,KAJ Roach,GH Dockrell,0,0,0,64,2,7,1,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-99,AC Botha,KAJ Roach,GH Dockrell,0,0,0,64,2,8,2,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-100,AC Botha,KAJ Roach,GH Dockrell,1,0,1,65,3,9,3,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-101,GH Dockrell,KAJ Roach,AC Botha,0,1,1,66,0,2,4,0,,,16,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-102,GH Dockrell,KAJ Roach,AC Botha,0,1,1,67,0,3,5,0,,,16,{'wides': 1},wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-103,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,4,6,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-104,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,5,7,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-105,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,6,8,0,,,16,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-106,AC Botha,DJG Sammy,GH Dockrell,0,0,0,67,3,10,1,0,,,17,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-107,AC Botha,DJG Sammy,GH Dockrell,1,0,1,68,4,11,2,0,,,17,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-108,GH Dockrell,DJG Sammy,AC Botha,0,0,0,68,0,7,3,0,,,17,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
-109,GH Dockrell,DJG Sammy,AC Botha,0,0,0,68,0,8,4,caught,GH Dockrell,D Ramdin,17,,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,WTS Porterfield,KAJ Roach,PR Stirling,4,0,4,4,4,1,1,0,,,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+1,WTS Porterfield,KAJ Roach,PR Stirling,0,0,0,4,4,2,2,caught,WTS Porterfield,DJG Sammy,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+2,NJ O'Brien,KAJ Roach,PR Stirling,0,0,0,4,0,1,3,0,,,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+3,NJ O'Brien,KAJ Roach,PR Stirling,1,0,1,5,1,2,4,0,,,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+4,PR Stirling,KAJ Roach,NJ O'Brien,0,0,0,5,0,1,5,0,,,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+5,PR Stirling,KAJ Roach,NJ O'Brien,0,0,0,5,0,2,6,0,,,1,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+6,NJ O'Brien,R Rampaul,PR Stirling,1,0,1,6,2,3,1,0,,,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+7,PR Stirling,R Rampaul,NJ O'Brien,0,1,1,7,0,3,2,0,,,2,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+8,PR Stirling,R Rampaul,NJ O'Brien,0,0,0,7,0,4,3,0,,,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+9,PR Stirling,R Rampaul,NJ O'Brien,0,0,0,7,0,5,4,caught,PR Stirling,DJG Sammy,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+10,NJ O'Brien,R Rampaul,AR Cusack,4,0,4,11,6,4,5,0,,,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+11,NJ O'Brien,R Rampaul,AR Cusack,0,0,0,11,6,5,6,caught,NJ O'Brien,D Ramdin,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+12,GC Wilson,R Rampaul,AR Cusack,0,0,0,11,0,1,7,0,,,2,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+13,AR Cusack,KAJ Roach,GC Wilson,0,0,0,11,0,1,1,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+14,AR Cusack,KAJ Roach,GC Wilson,1,0,1,12,1,2,2,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+15,GC Wilson,KAJ Roach,AR Cusack,0,0,0,12,0,2,3,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+16,GC Wilson,KAJ Roach,AR Cusack,0,1,1,13,0,3,4,0,,,3,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+17,GC Wilson,KAJ Roach,AR Cusack,0,1,1,14,0,4,5,0,,,3,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+18,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,5,6,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+19,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,6,7,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+20,GC Wilson,KAJ Roach,AR Cusack,0,0,0,14,0,7,8,0,,,3,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+21,AR Cusack,R Rampaul,GC Wilson,1,0,1,15,2,3,1,0,,,4,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+22,GC Wilson,R Rampaul,AR Cusack,0,1,1,16,0,8,2,0,,,4,legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+23,AR Cusack,R Rampaul,GC Wilson,0,0,0,16,2,4,3,caught,AR Cusack,DJG Sammy,4,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+24,KJ O'Brien,R Rampaul,GC Wilson,1,0,1,17,1,1,4,0,,,4,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+25,GC Wilson,R Rampaul,KJ O'Brien,0,1,1,18,0,9,5,0,,,4,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+26,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,18,0,10,6,0,,,4,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+27,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,18,0,11,7,0,,,4,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+28,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,18,1,2,1,0,,,5,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+29,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,18,1,3,2,0,,,5,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+30,KJ O'Brien,KAJ Roach,GC Wilson,0,1,1,19,1,4,3,0,,,5,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+31,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,19,1,5,4,0,,,5,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+32,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,19,1,6,5,0,,,5,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+33,KJ O'Brien,KAJ Roach,GC Wilson,0,4,4,23,1,7,6,0,,,5,legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+34,KJ O'Brien,KAJ Roach,GC Wilson,0,0,0,23,1,8,7,0,,,5,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+35,GC Wilson,R Rampaul,KJ O'Brien,1,0,1,24,1,12,1,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+36,KJ O'Brien,R Rampaul,GC Wilson,4,0,4,28,5,9,2,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+37,KJ O'Brien,R Rampaul,GC Wilson,0,0,0,28,5,10,3,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+38,KJ O'Brien,R Rampaul,GC Wilson,0,1,1,29,5,11,4,0,,,6,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+39,KJ O'Brien,R Rampaul,GC Wilson,1,0,1,30,6,12,5,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+40,GC Wilson,R Rampaul,KJ O'Brien,0,0,0,30,1,13,6,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+41,GC Wilson,R Rampaul,KJ O'Brien,1,0,1,31,2,14,7,0,,,6,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+42,GC Wilson,DJ Bravo,KJ O'Brien,1,0,1,32,3,15,1,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+43,KJ O'Brien,DJ Bravo,GC Wilson,0,1,1,33,6,13,2,0,,,7,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+44,KJ O'Brien,DJ Bravo,GC Wilson,1,0,1,34,7,14,3,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+45,GC Wilson,DJ Bravo,KJ O'Brien,0,0,0,34,3,16,4,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+46,GC Wilson,DJ Bravo,KJ O'Brien,0,0,0,34,3,17,5,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+47,GC Wilson,DJ Bravo,KJ O'Brien,1,0,1,35,4,18,6,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+48,KJ O'Brien,DJ Bravo,GC Wilson,0,0,0,35,7,15,7,0,,,7,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+49,GC Wilson,NO Miller,KJ O'Brien,0,0,0,35,4,19,1,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+50,GC Wilson,NO Miller,KJ O'Brien,1,0,1,36,5,20,2,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+51,KJ O'Brien,NO Miller,GC Wilson,0,0,0,36,7,16,3,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+52,KJ O'Brien,NO Miller,GC Wilson,1,0,1,37,8,17,4,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+53,GC Wilson,NO Miller,KJ O'Brien,1,0,1,38,6,21,5,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+54,KJ O'Brien,NO Miller,GC Wilson,1,0,1,39,9,18,6,0,,,8,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+55,KJ O'Brien,DJG Sammy,GC Wilson,0,0,0,39,9,19,1,caught,KJ O'Brien,ADS Fletcher,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+56,GC Wilson,DJG Sammy,DT Johnston,0,0,0,39,6,22,2,0,,,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+57,GC Wilson,DJG Sammy,DT Johnston,1,0,1,40,7,23,3,0,,,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+58,DT Johnston,DJG Sammy,GC Wilson,0,0,0,40,0,1,4,0,,,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+59,DT Johnston,DJG Sammy,GC Wilson,0,0,0,40,0,2,5,0,,,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+60,DT Johnston,DJG Sammy,GC Wilson,1,0,1,41,1,3,6,0,,,9,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+61,DT Johnston,NO Miller,GC Wilson,0,0,0,41,1,4,1,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+62,DT Johnston,NO Miller,GC Wilson,1,0,1,42,2,5,2,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+63,GC Wilson,NO Miller,DT Johnston,1,0,1,43,8,24,3,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+64,DT Johnston,NO Miller,GC Wilson,1,0,1,44,3,6,4,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+65,GC Wilson,NO Miller,DT Johnston,2,0,2,46,10,25,5,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+66,GC Wilson,NO Miller,DT Johnston,1,0,1,47,11,26,6,0,,,10,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+67,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,27,1,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+68,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,28,2,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+69,GC Wilson,DJG Sammy,DT Johnston,0,0,0,47,11,29,3,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+70,GC Wilson,DJG Sammy,DT Johnston,2,0,2,49,13,30,4,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+71,GC Wilson,DJG Sammy,DT Johnston,0,0,0,49,13,31,5,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+72,GC Wilson,DJG Sammy,DT Johnston,2,0,2,51,15,32,6,0,,,11,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+73,DT Johnston,NO Miller,GC Wilson,1,0,1,52,4,7,1,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+74,GC Wilson,NO Miller,DT Johnston,0,0,0,52,15,33,2,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+75,GC Wilson,NO Miller,DT Johnston,0,0,0,52,15,34,3,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+76,GC Wilson,NO Miller,DT Johnston,1,0,1,53,16,35,4,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+77,DT Johnston,NO Miller,GC Wilson,1,0,1,54,5,8,5,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+78,GC Wilson,NO Miller,DT Johnston,1,0,1,55,17,36,6,0,,,12,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+79,GC Wilson,DJ Bravo,DT Johnston,0,0,0,55,17,37,1,caught,GC Wilson,DJG Sammy,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+80,JF Mooney,DJ Bravo,DT Johnston,1,0,1,56,1,1,2,0,,,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+81,DT Johnston,DJ Bravo,JF Mooney,0,0,0,56,5,9,3,0,,,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+82,DT Johnston,DJ Bravo,JF Mooney,0,0,0,56,5,10,4,bowled,DT Johnston,,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+83,AC Botha,DJ Bravo,JF Mooney,0,0,0,56,0,1,5,0,,,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+84,AC Botha,DJ Bravo,JF Mooney,0,0,0,56,0,2,6,0,,,13,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+85,JF Mooney,NO Miller,AC Botha,0,2,2,58,1,2,1,0,,,14,legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+86,JF Mooney,NO Miller,AC Botha,0,2,2,60,1,3,2,0,,,14,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+87,AC Botha,NO Miller,JF Mooney,0,0,0,60,0,3,3,0,,,14,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+88,AC Botha,NO Miller,JF Mooney,1,0,1,61,1,4,4,0,,,14,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+89,JF Mooney,NO Miller,AC Botha,0,0,0,61,1,4,5,lbw,JF Mooney,,14,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+90,WB Rankin,NO Miller,AC Botha,0,0,0,61,0,1,6,0,,,14,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+91,WB Rankin,NO Miller,AC Botha,1,0,1,62,1,2,7,0,,,14,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+92,WB Rankin,DJG Sammy,AC Botha,0,0,0,62,1,3,1,0,,,15,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+93,WB Rankin,DJG Sammy,AC Botha,0,1,1,63,1,4,2,0,,,15,legbyes,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+94,AC Botha,DJG Sammy,WB Rankin,0,0,0,63,1,5,3,0,,,15,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+95,AC Botha,DJG Sammy,WB Rankin,1,0,1,64,2,6,4,0,,,15,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+96,WB Rankin,DJG Sammy,AC Botha,0,0,0,64,1,5,5,caught,WB Rankin,D Ramdin,15,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+97,GH Dockrell,DJG Sammy,AC Botha,0,0,0,64,0,1,6,0,,,15,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+98,AC Botha,KAJ Roach,GH Dockrell,0,0,0,64,2,7,1,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+99,AC Botha,KAJ Roach,GH Dockrell,0,0,0,64,2,8,2,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+100,AC Botha,KAJ Roach,GH Dockrell,1,0,1,65,3,9,3,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+101,GH Dockrell,KAJ Roach,AC Botha,0,1,1,66,0,2,4,0,,,16,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+102,GH Dockrell,KAJ Roach,AC Botha,0,1,1,67,0,3,5,0,,,16,wides,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+103,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,4,6,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+104,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,5,7,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+105,GH Dockrell,KAJ Roach,AC Botha,0,0,0,67,0,6,8,0,,,16,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+106,AC Botha,DJG Sammy,GH Dockrell,0,0,0,67,3,10,1,0,,,17,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+107,AC Botha,DJG Sammy,GH Dockrell,1,0,1,68,4,11,2,0,,,17,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+108,GH Dockrell,DJG Sammy,AC Botha,0,0,0,68,0,7,3,0,,,17,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies
+109,GH Dockrell,DJG Sammy,AC Botha,0,0,0,68,0,8,4,caught,GH Dockrell,D Ramdin,17,-,bat,West Indies,2,Providence Stadium,2010-04-30,Ireland,West Indies

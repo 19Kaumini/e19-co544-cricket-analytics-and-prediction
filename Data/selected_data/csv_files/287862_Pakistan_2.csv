@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Salman Butt,RP Singh,Imran Nazir,,0,0,0,0,0,1,1,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-1,Salman Butt,RP Singh,Imran Nazir,{'wides': 1},0,1,1,1,0,2,2,wides,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-2,Salman Butt,RP Singh,Imran Nazir,,1,0,1,2,1,3,3,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-3,Imran Nazir,RP Singh,Salman Butt,,0,0,0,2,0,1,4,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-4,Imran Nazir,RP Singh,Salman Butt,,0,0,0,2,0,2,5,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-5,Imran Nazir,RP Singh,Salman Butt,{'wides': 1},0,1,1,3,0,3,6,wides,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-6,Imran Nazir,RP Singh,Salman Butt,,0,0,0,3,0,4,7,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-7,Imran Nazir,RP Singh,Salman Butt,,4,0,4,7,4,5,8,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-8,Salman Butt,S Sreesanth,Imran Nazir,,1,0,1,8,2,4,1,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-9,Imran Nazir,S Sreesanth,Salman Butt,,0,0,0,8,4,6,2,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-10,Imran Nazir,S Sreesanth,Salman Butt,{'noballs': 1},0,1,1,9,4,7,3,noballs,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-11,Imran Nazir,S Sreesanth,Salman Butt,,3,0,3,12,7,8,4,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-12,Salman Butt,S Sreesanth,Imran Nazir,,0,0,0,12,2,5,5,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-13,Salman Butt,S Sreesanth,Imran Nazir,,0,0,0,12,2,6,6,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-14,Salman Butt,S Sreesanth,Imran Nazir,,0,0,0,12,2,7,7,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-15,Imran Nazir,RP Singh,Salman Butt,,0,0,0,12,7,9,1,-,3,bowled,Imran Nazir,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-16,Kamran Akmal,RP Singh,Salman Butt,,0,0,0,12,0,1,2,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-17,Kamran Akmal,RP Singh,Salman Butt,,0,0,0,12,0,2,3,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-18,Kamran Akmal,RP Singh,Salman Butt,,4,0,4,16,4,3,4,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-19,Kamran Akmal,RP Singh,Salman Butt,,0,0,0,16,4,4,5,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-20,Kamran Akmal,RP Singh,Salman Butt,,6,0,6,22,10,5,6,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-21,Salman Butt,S Sreesanth,Kamran Akmal,,1,0,1,23,3,8,1,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-22,Kamran Akmal,S Sreesanth,Salman Butt,,0,0,0,23,10,6,2,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-23,Kamran Akmal,S Sreesanth,Salman Butt,,1,0,1,24,11,7,3,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-24,Salman Butt,S Sreesanth,Kamran Akmal,{'wides': 1},0,1,1,25,3,9,4,wides,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-25,Salman Butt,S Sreesanth,Kamran Akmal,,0,0,0,25,3,10,5,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-26,Salman Butt,S Sreesanth,Kamran Akmal,,4,0,4,29,7,11,6,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-27,Salman Butt,S Sreesanth,Kamran Akmal,,0,0,0,29,7,12,7,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-28,Kamran Akmal,RP Singh,Salman Butt,,0,0,0,29,11,8,1,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-29,Kamran Akmal,RP Singh,Salman Butt,,1,0,1,30,12,9,2,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-30,Salman Butt,RP Singh,Kamran Akmal,,1,0,1,31,8,13,3,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-31,Kamran Akmal,RP Singh,Salman Butt,{'legbyes': 1},0,1,1,32,12,10,4,legbyes,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-32,Salman Butt,RP Singh,Kamran Akmal,{'wides': 1},0,1,1,33,8,14,5,wides,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-33,Salman Butt,RP Singh,Kamran Akmal,,0,0,0,33,8,15,6,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-34,Salman Butt,RP Singh,Kamran Akmal,,0,0,0,33,8,16,7,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-35,Kamran Akmal,S Sreesanth,Salman Butt,,1,0,1,34,13,11,1,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-36,Salman Butt,S Sreesanth,Kamran Akmal,,4,0,4,38,12,17,2,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-37,Salman Butt,S Sreesanth,Kamran Akmal,,0,0,0,38,12,18,3,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-38,Salman Butt,S Sreesanth,Kamran Akmal,,0,0,0,38,12,19,4,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-39,Salman Butt,S Sreesanth,Kamran Akmal,,0,0,0,38,12,20,5,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-40,Salman Butt,S Sreesanth,Kamran Akmal,,1,0,1,39,13,21,6,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-41,Salman Butt,RP Singh,Kamran Akmal,,0,0,0,39,13,22,1,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-42,Salman Butt,RP Singh,Kamran Akmal,,1,0,1,40,14,23,2,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-43,Kamran Akmal,RP Singh,Salman Butt,,1,0,1,41,14,12,3,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-44,Salman Butt,RP Singh,Kamran Akmal,,0,0,0,41,14,24,4,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-45,Salman Butt,RP Singh,Kamran Akmal,,0,0,0,41,14,25,5,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-46,Salman Butt,RP Singh,Kamran Akmal,,1,0,1,42,15,26,6,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-47,Salman Butt,AB Agarkar,Kamran Akmal,,2,0,2,44,17,27,1,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-48,Salman Butt,AB Agarkar,Kamran Akmal,,0,0,0,44,17,28,2,-,8,caught,Salman Butt,MS Dhoni,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-49,Younis Khan,AB Agarkar,Kamran Akmal,,1,0,1,45,1,1,3,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-50,Kamran Akmal,AB Agarkar,Younis Khan,,1,0,1,46,15,13,4,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-51,Younis Khan,AB Agarkar,Kamran Akmal,,0,0,0,46,1,2,5,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-52,Younis Khan,AB Agarkar,Kamran Akmal,,1,0,1,47,2,3,6,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-53,Younis Khan,IK Pathan,Kamran Akmal,,0,0,0,47,2,4,1,-,9,run out,Kamran Akmal,Yuvraj Singh,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-54,Younis Khan,IK Pathan,Shoaib Malik,,0,0,0,47,2,5,2,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-55,Younis Khan,IK Pathan,Shoaib Malik,,0,0,0,47,2,6,3,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-56,Younis Khan,IK Pathan,Shoaib Malik,,0,0,0,47,2,7,4,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-57,Younis Khan,IK Pathan,Shoaib Malik,,0,0,0,47,2,8,5,-,9,bowled,Younis Khan,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-58,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,47,0,1,6,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-59,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,,4,0,4,51,4,1,1,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-60,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,,0,0,0,51,4,2,2,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-61,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,,0,0,0,51,4,3,3,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-62,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,,1,0,1,52,5,4,4,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-63,Misbah-ul-Haq,AB Agarkar,Shoaib Malik,,1,0,1,53,1,2,5,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-64,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,,0,0,0,53,5,5,6,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-65,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,53,1,3,1,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-66,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,4,0,4,57,5,4,2,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-67,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,57,5,5,3,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-68,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,57,5,6,4,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-69,Misbah-ul-Haq,IK Pathan,Shoaib Malik,{'wides': 1},0,1,1,58,5,7,5,wides,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-70,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,59,6,8,6,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-71,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,60,6,6,7,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-72,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,61,7,7,1,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-73,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,1,0,1,62,7,9,2,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-74,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,63,8,8,3,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-75,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,2,0,2,65,9,10,4,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-76,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,0,0,0,65,9,11,5,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-77,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,4,0,4,69,13,12,6,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-78,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,69,8,9,1,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-79,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,4,0,4,73,12,10,2,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-80,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,73,12,11,3,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-81,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,74,13,12,4,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-82,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,74,13,13,5,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-83,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,75,14,14,6,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-84,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,1,0,1,76,15,15,1,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-85,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,77,14,13,2,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-86,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,0,0,0,77,15,16,3,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-87,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,1,0,1,78,16,17,4,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-88,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,79,15,14,5,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-89,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,,1,0,1,80,17,18,6,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-90,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,81,18,19,1,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-91,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,82,16,15,2,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-92,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,83,19,20,3,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-93,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,83,16,16,4,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-94,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,4,0,4,87,20,17,5,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-95,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,87,20,18,6,-,15,caught,Shoaib Malik,Harbhajan Singh,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-96,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,88,1,1,1,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-97,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,,1,0,1,89,20,21,2,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-98,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,2,0,2,91,3,2,3,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-99,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,0,0,0,91,3,3,4,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-100,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,0,0,0,91,3,4,5,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-101,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,2,0,2,93,5,5,6,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-102,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,,0,0,0,93,20,22,1,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-103,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,,1,0,1,94,21,23,2,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-104,Shahid Afridi,AB Agarkar,Misbah-ul-Haq,,1,0,1,95,6,6,3,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-105,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,,4,0,4,99,25,24,4,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-106,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,,1,0,1,100,26,25,5,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-107,Shahid Afridi,AB Agarkar,Misbah-ul-Haq,,0,0,0,100,6,7,6,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-108,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,,1,0,1,101,27,26,1,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-109,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,102,7,8,2,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-110,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,{'legbyes': 1},0,1,1,103,27,27,3,legbyes,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-111,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,,0,0,0,103,7,9,4,-,18,caught,Shahid Afridi,KD Karthik,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-112,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,6,0,6,109,33,28,5,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-113,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,4,0,4,113,37,29,6,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-114,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,,4,0,4,117,4,1,1,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-115,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,,2,0,2,119,6,2,2,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-116,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,,4,0,4,123,10,3,3,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-117,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,,1,0,1,124,11,4,4,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-118,Misbah-ul-Haq,AB Agarkar,Yasir Arafat,,4,0,4,128,41,30,5,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-119,Misbah-ul-Haq,AB Agarkar,Yasir Arafat,,2,0,2,130,43,31,6,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-120,Yasir Arafat,S Sreesanth,Misbah-ul-Haq,,1,0,1,131,12,5,1,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-121,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,,4,0,4,135,47,32,2,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-122,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,,2,0,2,137,49,33,3,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-123,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,,4,0,4,141,53,34,4,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-124,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,,0,0,0,141,53,35,5,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
-125,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,,0,0,0,141,53,36,6,-,20,run out,Misbah-ul-Haq,RV Uthappa;S Sreesanth,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Salman Butt,RP Singh,Imran Nazir,0,0,0,0,0,1,1,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+1,Salman Butt,RP Singh,Imran Nazir,0,1,1,1,0,2,2,wides,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+2,Salman Butt,RP Singh,Imran Nazir,1,0,1,2,1,3,3,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+3,Imran Nazir,RP Singh,Salman Butt,0,0,0,2,0,1,4,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+4,Imran Nazir,RP Singh,Salman Butt,0,0,0,2,0,2,5,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+5,Imran Nazir,RP Singh,Salman Butt,0,1,1,3,0,3,6,wides,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+6,Imran Nazir,RP Singh,Salman Butt,0,0,0,3,0,4,7,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+7,Imran Nazir,RP Singh,Salman Butt,4,0,4,7,4,5,8,-,1,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+8,Salman Butt,S Sreesanth,Imran Nazir,1,0,1,8,2,4,1,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+9,Imran Nazir,S Sreesanth,Salman Butt,0,0,0,8,4,6,2,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+10,Imran Nazir,S Sreesanth,Salman Butt,0,1,1,9,4,7,3,noballs,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+11,Imran Nazir,S Sreesanth,Salman Butt,3,0,3,12,7,8,4,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+12,Salman Butt,S Sreesanth,Imran Nazir,0,0,0,12,2,5,5,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+13,Salman Butt,S Sreesanth,Imran Nazir,0,0,0,12,2,6,6,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+14,Salman Butt,S Sreesanth,Imran Nazir,0,0,0,12,2,7,7,-,2,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+15,Imran Nazir,RP Singh,Salman Butt,0,0,0,12,7,9,1,-,3,bowled,Imran Nazir,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+16,Kamran Akmal,RP Singh,Salman Butt,0,0,0,12,0,1,2,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+17,Kamran Akmal,RP Singh,Salman Butt,0,0,0,12,0,2,3,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+18,Kamran Akmal,RP Singh,Salman Butt,4,0,4,16,4,3,4,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+19,Kamran Akmal,RP Singh,Salman Butt,0,0,0,16,4,4,5,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+20,Kamran Akmal,RP Singh,Salman Butt,6,0,6,22,10,5,6,-,3,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+21,Salman Butt,S Sreesanth,Kamran Akmal,1,0,1,23,3,8,1,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+22,Kamran Akmal,S Sreesanth,Salman Butt,0,0,0,23,10,6,2,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+23,Kamran Akmal,S Sreesanth,Salman Butt,1,0,1,24,11,7,3,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+24,Salman Butt,S Sreesanth,Kamran Akmal,0,1,1,25,3,9,4,wides,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+25,Salman Butt,S Sreesanth,Kamran Akmal,0,0,0,25,3,10,5,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+26,Salman Butt,S Sreesanth,Kamran Akmal,4,0,4,29,7,11,6,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+27,Salman Butt,S Sreesanth,Kamran Akmal,0,0,0,29,7,12,7,-,4,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+28,Kamran Akmal,RP Singh,Salman Butt,0,0,0,29,11,8,1,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+29,Kamran Akmal,RP Singh,Salman Butt,1,0,1,30,12,9,2,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+30,Salman Butt,RP Singh,Kamran Akmal,1,0,1,31,8,13,3,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+31,Kamran Akmal,RP Singh,Salman Butt,0,1,1,32,12,10,4,legbyes,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+32,Salman Butt,RP Singh,Kamran Akmal,0,1,1,33,8,14,5,wides,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+33,Salman Butt,RP Singh,Kamran Akmal,0,0,0,33,8,15,6,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+34,Salman Butt,RP Singh,Kamran Akmal,0,0,0,33,8,16,7,-,5,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+35,Kamran Akmal,S Sreesanth,Salman Butt,1,0,1,34,13,11,1,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+36,Salman Butt,S Sreesanth,Kamran Akmal,4,0,4,38,12,17,2,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+37,Salman Butt,S Sreesanth,Kamran Akmal,0,0,0,38,12,18,3,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+38,Salman Butt,S Sreesanth,Kamran Akmal,0,0,0,38,12,19,4,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+39,Salman Butt,S Sreesanth,Kamran Akmal,0,0,0,38,12,20,5,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+40,Salman Butt,S Sreesanth,Kamran Akmal,1,0,1,39,13,21,6,-,6,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+41,Salman Butt,RP Singh,Kamran Akmal,0,0,0,39,13,22,1,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+42,Salman Butt,RP Singh,Kamran Akmal,1,0,1,40,14,23,2,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+43,Kamran Akmal,RP Singh,Salman Butt,1,0,1,41,14,12,3,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+44,Salman Butt,RP Singh,Kamran Akmal,0,0,0,41,14,24,4,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+45,Salman Butt,RP Singh,Kamran Akmal,0,0,0,41,14,25,5,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+46,Salman Butt,RP Singh,Kamran Akmal,1,0,1,42,15,26,6,-,7,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+47,Salman Butt,AB Agarkar,Kamran Akmal,2,0,2,44,17,27,1,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+48,Salman Butt,AB Agarkar,Kamran Akmal,0,0,0,44,17,28,2,-,8,caught,Salman Butt,MS Dhoni,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+49,Younis Khan,AB Agarkar,Kamran Akmal,1,0,1,45,1,1,3,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+50,Kamran Akmal,AB Agarkar,Younis Khan,1,0,1,46,15,13,4,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+51,Younis Khan,AB Agarkar,Kamran Akmal,0,0,0,46,1,2,5,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+52,Younis Khan,AB Agarkar,Kamran Akmal,1,0,1,47,2,3,6,-,8,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+53,Younis Khan,IK Pathan,Kamran Akmal,0,0,0,47,2,4,1,-,9,run out,Kamran Akmal,Yuvraj Singh,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+54,Younis Khan,IK Pathan,Shoaib Malik,0,0,0,47,2,5,2,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+55,Younis Khan,IK Pathan,Shoaib Malik,0,0,0,47,2,6,3,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+56,Younis Khan,IK Pathan,Shoaib Malik,0,0,0,47,2,7,4,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+57,Younis Khan,IK Pathan,Shoaib Malik,0,0,0,47,2,8,5,-,9,bowled,Younis Khan,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+58,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,47,0,1,6,-,9,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+59,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,4,0,4,51,4,1,1,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+60,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,0,0,0,51,4,2,2,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+61,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,0,0,0,51,4,3,3,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+62,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,1,0,1,52,5,4,4,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+63,Misbah-ul-Haq,AB Agarkar,Shoaib Malik,1,0,1,53,1,2,5,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+64,Shoaib Malik,AB Agarkar,Misbah-ul-Haq,0,0,0,53,5,5,6,-,10,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+65,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,53,1,3,1,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+66,Misbah-ul-Haq,IK Pathan,Shoaib Malik,4,0,4,57,5,4,2,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+67,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,57,5,5,3,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+68,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,57,5,6,4,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+69,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,1,1,58,5,7,5,wides,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+70,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,59,6,8,6,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+71,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,60,6,6,7,-,11,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+72,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,1,0,1,61,7,7,1,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+73,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,1,0,1,62,7,9,2,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+74,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,1,0,1,63,8,8,3,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+75,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,2,0,2,65,9,10,4,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+76,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,0,0,0,65,9,11,5,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+77,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,4,0,4,69,13,12,6,-,12,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+78,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,69,8,9,1,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+79,Shoaib Malik,IK Pathan,Misbah-ul-Haq,4,0,4,73,12,10,2,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+80,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,73,12,11,3,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+81,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,74,13,12,4,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+82,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,74,13,13,5,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+83,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,75,14,14,6,-,13,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+84,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,1,0,1,76,15,15,1,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+85,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,1,0,1,77,14,13,2,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+86,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,0,0,0,77,15,16,3,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+87,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,1,0,1,78,16,17,4,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+88,Shoaib Malik,Harbhajan Singh,Misbah-ul-Haq,1,0,1,79,15,14,5,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+89,Misbah-ul-Haq,Harbhajan Singh,Shoaib Malik,1,0,1,80,17,18,6,-,14,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+90,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,81,18,19,1,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+91,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,82,16,15,2,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+92,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,83,19,20,3,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+93,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,83,16,16,4,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+94,Shoaib Malik,IK Pathan,Misbah-ul-Haq,4,0,4,87,20,17,5,-,15,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+95,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,87,20,18,6,-,15,caught,Shoaib Malik,Harbhajan Singh,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+96,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,1,0,1,88,1,1,1,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+97,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,1,0,1,89,20,21,2,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+98,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,2,0,2,91,3,2,3,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+99,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,0,0,0,91,3,3,4,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+100,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,0,0,0,91,3,4,5,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+101,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,2,0,2,93,5,5,6,-,16,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+102,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,0,0,0,93,20,22,1,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+103,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,1,0,1,94,21,23,2,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+104,Shahid Afridi,AB Agarkar,Misbah-ul-Haq,1,0,1,95,6,6,3,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+105,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,4,0,4,99,25,24,4,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+106,Misbah-ul-Haq,AB Agarkar,Shahid Afridi,1,0,1,100,26,25,5,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+107,Shahid Afridi,AB Agarkar,Misbah-ul-Haq,0,0,0,100,6,7,6,-,17,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+108,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,1,0,1,101,27,26,1,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+109,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,1,0,1,102,7,8,2,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+110,Misbah-ul-Haq,Harbhajan Singh,Shahid Afridi,0,1,1,103,27,27,3,legbyes,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+111,Shahid Afridi,Harbhajan Singh,Misbah-ul-Haq,0,0,0,103,7,9,4,-,18,caught,Shahid Afridi,KD Karthik,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+112,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,6,0,6,109,33,28,5,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+113,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,4,0,4,113,37,29,6,-,18,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+114,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,4,0,4,117,4,1,1,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+115,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,2,0,2,119,6,2,2,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+116,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,4,0,4,123,10,3,3,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+117,Yasir Arafat,AB Agarkar,Misbah-ul-Haq,1,0,1,124,11,4,4,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+118,Misbah-ul-Haq,AB Agarkar,Yasir Arafat,4,0,4,128,41,30,5,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+119,Misbah-ul-Haq,AB Agarkar,Yasir Arafat,2,0,2,130,43,31,6,-,19,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+120,Yasir Arafat,S Sreesanth,Misbah-ul-Haq,1,0,1,131,12,5,1,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+121,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,4,0,4,135,47,32,2,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+122,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,2,0,2,137,49,33,3,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+123,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,4,0,4,141,53,34,4,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+124,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,0,0,0,141,53,35,5,-,20,0,,,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India
+125,Misbah-ul-Haq,S Sreesanth,Yasir Arafat,0,0,0,141,53,36,6,-,20,run out,Misbah-ul-Haq,RV Uthappa;S Sreesanth,field,Pakistan,2,Kingsmead,2007-09-14,Pakistan,India

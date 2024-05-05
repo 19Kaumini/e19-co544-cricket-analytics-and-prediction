@@ -1,7 +1,7 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Shahid Afridi,CJ Jordan,Umar Akmal,,0,0,0,0,0,1,1,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
-1,Shahid Afridi,CJ Jordan,Umar Akmal,{'legbyes': 1},0,1,1,1,0,2,2,legbyes,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
-2,Umar Akmal,CJ Jordan,Shahid Afridi,,1,0,1,2,1,1,3,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
-3,Shahid Afridi,CJ Jordan,Umar Akmal,{'legbyes': 1},0,1,1,3,0,3,4,legbyes,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
-4,Umar Akmal,CJ Jordan,Shahid Afridi,,0,0,0,3,1,2,5,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
-5,Umar Akmal,CJ Jordan,Shahid Afridi,,0,0,0,3,1,3,6,-,bowled,Umar Akmal,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Shahid Afridi,CJ Jordan,Umar Akmal,0,0,0,0,0,1,1,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+1,Shahid Afridi,CJ Jordan,Umar Akmal,0,1,1,1,0,2,2,legbyes,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+2,Umar Akmal,CJ Jordan,Shahid Afridi,1,0,1,2,1,1,3,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+3,Shahid Afridi,CJ Jordan,Umar Akmal,0,1,1,3,0,3,4,legbyes,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+4,Umar Akmal,CJ Jordan,Shahid Afridi,0,0,0,3,1,2,5,-,0,,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England
+5,Umar Akmal,CJ Jordan,Shahid Afridi,0,0,0,3,1,3,6,-,bowled,Umar Akmal,,1,bat,England,3,Sharjah Cricket Stadium,2015-11-30,Pakistan,England

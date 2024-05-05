@@ -1,128 +1,128 @@
-,batter,bowler,extras,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,KL Rahul,TG Southee,{'wides': 1},SV Samson,0,1,1,1,0,1,1,wides,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-1,KL Rahul,TG Southee,,SV Samson,2,0,2,3,2,2,2,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-2,KL Rahul,TG Southee,,SV Samson,1,0,1,4,3,3,3,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-3,SV Samson,TG Southee,,KL Rahul,1,0,1,5,1,1,4,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-4,KL Rahul,TG Southee,,SV Samson,0,0,0,5,3,4,5,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-5,KL Rahul,TG Southee,,SV Samson,1,0,1,6,4,5,6,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-6,SV Samson,TG Southee,,KL Rahul,1,0,1,7,2,2,7,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-7,SV Samson,SC Kuggeleijn,,KL Rahul,6,0,6,13,8,3,1,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-8,SV Samson,SC Kuggeleijn,{'wides': 1},KL Rahul,0,1,1,14,8,4,2,wides,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-9,SV Samson,SC Kuggeleijn,,KL Rahul,0,0,0,14,8,5,3,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-10,SV Samson,SC Kuggeleijn,,KL Rahul,0,0,0,14,8,6,4,-,2,caught,SV Samson,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-11,KL Rahul,SC Kuggeleijn,,V Kohli,0,0,0,14,4,6,5,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-12,KL Rahul,SC Kuggeleijn,{'noballs': 1},V Kohli,0,1,1,15,4,7,6,noballs,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-13,KL Rahul,SC Kuggeleijn,{'wides': 1},V Kohli,0,1,1,16,4,8,7,wides,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-14,KL Rahul,SC Kuggeleijn,,V Kohli,6,0,6,22,10,9,8,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-15,KL Rahul,SC Kuggeleijn,,V Kohli,0,0,0,22,10,10,9,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-16,V Kohli,MJ Santner,,KL Rahul,1,0,1,23,1,1,1,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-17,KL Rahul,MJ Santner,,V Kohli,1,0,1,24,11,11,2,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-18,V Kohli,MJ Santner,,KL Rahul,0,0,0,24,1,2,3,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-19,V Kohli,MJ Santner,,KL Rahul,1,0,1,25,2,3,4,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-20,KL Rahul,MJ Santner,,V Kohli,6,0,6,31,17,12,5,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-21,KL Rahul,MJ Santner,,V Kohli,4,0,4,35,21,13,6,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-22,V Kohli,TG Southee,,KL Rahul,0,0,0,35,2,4,1,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-23,V Kohli,TG Southee,,KL Rahul,1,0,1,36,3,5,2,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-24,KL Rahul,TG Southee,,V Kohli,2,0,2,38,23,14,3,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-25,KL Rahul,TG Southee,,V Kohli,1,0,1,39,24,15,4,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-26,V Kohli,TG Southee,{'legbyes': 1},KL Rahul,0,1,1,40,3,6,5,legbyes,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-27,KL Rahul,TG Southee,,V Kohli,0,0,0,40,24,16,6,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-28,V Kohli,HK Bennett,,KL Rahul,4,0,4,44,7,7,1,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-29,V Kohli,HK Bennett,,KL Rahul,4,0,4,48,11,8,2,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-30,V Kohli,HK Bennett,,KL Rahul,0,0,0,48,11,9,3,-,5,caught,V Kohli,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-31,SS Iyer,HK Bennett,,KL Rahul,1,0,1,49,1,1,4,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-32,KL Rahul,HK Bennett,,SS Iyer,1,0,1,50,25,17,5,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-33,SS Iyer,HK Bennett,,KL Rahul,0,0,0,50,1,2,6,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-34,KL Rahul,SC Kuggeleijn,,SS Iyer,0,0,0,50,25,18,1,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-35,KL Rahul,SC Kuggeleijn,,SS Iyer,0,0,0,50,25,19,2,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-36,KL Rahul,SC Kuggeleijn,,SS Iyer,1,0,1,51,26,20,3,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-37,SS Iyer,SC Kuggeleijn,,KL Rahul,0,0,0,51,1,3,4,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-38,SS Iyer,SC Kuggeleijn,,KL Rahul,0,0,0,51,1,4,5,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-39,SS Iyer,SC Kuggeleijn,,KL Rahul,0,0,0,51,1,5,6,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-40,KL Rahul,IS Sodhi,,SS Iyer,1,0,1,52,27,21,1,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-41,SS Iyer,IS Sodhi,,KL Rahul,0,0,0,52,1,6,2,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-42,SS Iyer,IS Sodhi,,KL Rahul,0,0,0,52,1,7,3,-,7,caught,SS Iyer,TL Seifert,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-43,S Dube,IS Sodhi,,KL Rahul,1,0,1,53,1,1,4,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-44,KL Rahul,IS Sodhi,,S Dube,2,0,2,55,29,22,5,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-45,KL Rahul,IS Sodhi,,S Dube,0,0,0,55,29,23,6,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-46,S Dube,SC Kuggeleijn,,KL Rahul,1,0,1,56,2,2,1,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-47,KL Rahul,SC Kuggeleijn,,S Dube,4,0,4,60,33,24,2,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-48,KL Rahul,SC Kuggeleijn,,S Dube,1,0,1,61,34,25,3,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-49,S Dube,SC Kuggeleijn,,KL Rahul,4,0,4,65,6,3,4,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-50,S Dube,SC Kuggeleijn,,KL Rahul,0,0,0,65,6,4,5,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-51,S Dube,SC Kuggeleijn,,KL Rahul,4,0,4,69,10,5,6,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-52,KL Rahul,IS Sodhi,,S Dube,4,0,4,73,38,26,1,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-53,KL Rahul,IS Sodhi,,S Dube,1,0,1,74,39,27,2,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-54,S Dube,IS Sodhi,,KL Rahul,1,0,1,75,11,6,3,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-55,KL Rahul,IS Sodhi,,S Dube,0,0,0,75,39,28,4,-,9,caught,KL Rahul,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-56,MK Pandey,IS Sodhi,,S Dube,2,0,2,77,2,1,5,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-57,MK Pandey,IS Sodhi,,S Dube,1,0,1,78,3,2,6,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-58,MK Pandey,MJ Santner,,S Dube,1,0,1,79,4,3,1,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-59,S Dube,MJ Santner,,MK Pandey,0,0,0,79,11,7,2,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-60,S Dube,MJ Santner,,MK Pandey,1,0,1,80,12,8,3,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-61,MK Pandey,MJ Santner,,S Dube,0,0,0,80,4,4,4,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-62,MK Pandey,MJ Santner,,S Dube,0,0,0,80,4,5,5,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-63,MK Pandey,MJ Santner,,S Dube,3,0,3,83,7,6,6,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-64,MK Pandey,IS Sodhi,,S Dube,1,0,1,84,8,7,1,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-65,S Dube,IS Sodhi,,MK Pandey,0,0,0,84,12,9,2,-,11,caught,S Dube,TC Bruce,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-66,MK Pandey,IS Sodhi,,Washington Sundar,2,0,2,86,10,8,3,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-67,MK Pandey,IS Sodhi,,Washington Sundar,0,0,0,86,10,9,4,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-68,MK Pandey,IS Sodhi,,Washington Sundar,1,0,1,87,11,10,5,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-69,Washington Sundar,IS Sodhi,,MK Pandey,0,0,0,87,0,1,6,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-70,MK Pandey,MJ Santner,,Washington Sundar,1,0,1,88,12,11,1,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-71,Washington Sundar,MJ Santner,,MK Pandey,0,0,0,88,0,2,2,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-72,Washington Sundar,MJ Santner,,MK Pandey,0,0,0,88,0,3,3,-,12,bowled,Washington Sundar,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-73,SN Thakur,MJ Santner,,MK Pandey,0,0,0,88,0,1,4,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-74,SN Thakur,MJ Santner,,MK Pandey,0,0,0,88,0,2,5,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-75,SN Thakur,MJ Santner,,MK Pandey,0,0,0,88,0,3,6,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-76,MK Pandey,IS Sodhi,,SN Thakur,1,0,1,89,13,12,1,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-77,SN Thakur,IS Sodhi,,MK Pandey,0,0,0,89,0,4,2,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-78,SN Thakur,IS Sodhi,,MK Pandey,1,0,1,90,1,5,3,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-79,MK Pandey,IS Sodhi,,SN Thakur,1,0,1,91,14,13,4,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-80,SN Thakur,IS Sodhi,,MK Pandey,2,0,2,93,3,6,5,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-81,SN Thakur,IS Sodhi,,MK Pandey,4,0,4,97,7,7,6,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-82,MK Pandey,MJ Santner,,SN Thakur,3,0,3,100,17,14,1,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-83,SN Thakur,MJ Santner,,MK Pandey,1,0,1,101,8,8,2,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-84,MK Pandey,MJ Santner,,SN Thakur,0,0,0,101,17,15,3,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-85,MK Pandey,MJ Santner,,SN Thakur,0,0,0,101,17,16,4,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-86,MK Pandey,MJ Santner,,SN Thakur,1,0,1,102,18,17,5,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-87,SN Thakur,MJ Santner,,MK Pandey,2,0,2,104,10,9,6,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-88,MK Pandey,HK Bennett,,SN Thakur,1,0,1,105,19,18,1,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-89,SN Thakur,HK Bennett,,MK Pandey,1,0,1,106,11,10,2,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-90,MK Pandey,HK Bennett,,SN Thakur,2,0,2,108,21,19,3,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-91,MK Pandey,HK Bennett,,SN Thakur,0,0,0,108,21,20,4,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-92,MK Pandey,HK Bennett,,SN Thakur,2,0,2,110,23,21,5,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-93,MK Pandey,HK Bennett,{'wides': 1},SN Thakur,0,1,1,111,23,22,6,wides,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-94,MK Pandey,HK Bennett,,SN Thakur,1,0,1,112,24,23,7,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-95,MK Pandey,TG Southee,,SN Thakur,1,0,1,113,25,24,1,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-96,SN Thakur,TG Southee,{'legbyes': 1},MK Pandey,0,1,1,114,11,11,2,legbyes,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-97,MK Pandey,TG Southee,,SN Thakur,4,0,4,118,29,25,3,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-98,MK Pandey,TG Southee,,SN Thakur,2,0,2,120,31,26,4,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-99,MK Pandey,TG Southee,{'wides': 1},SN Thakur,0,1,1,121,31,27,5,wides,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-100,MK Pandey,TG Southee,{'legbyes': 1},SN Thakur,0,1,1,122,31,28,6,legbyes,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-101,SN Thakur,TG Southee,,MK Pandey,3,0,3,125,14,12,7,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-102,SN Thakur,HK Bennett,,MK Pandey,4,0,4,129,18,13,1,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-103,SN Thakur,HK Bennett,,MK Pandey,2,0,2,131,20,14,2,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-104,SN Thakur,HK Bennett,,MK Pandey,0,0,0,131,20,15,3,-,17,caught,SN Thakur,TG Southee,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-105,MK Pandey,HK Bennett,,YS Chahal,4,0,4,135,35,29,4,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-106,MK Pandey,HK Bennett,,YS Chahal,2,0,2,137,37,30,5,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-107,MK Pandey,HK Bennett,,YS Chahal,1,0,1,138,38,31,6,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-108,MK Pandey,TG Southee,,YS Chahal,1,0,1,139,39,32,1,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-109,YS Chahal,TG Southee,,MK Pandey,1,0,1,140,1,1,2,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-110,MK Pandey,TG Southee,,YS Chahal,2,0,2,142,41,33,3,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-111,MK Pandey,TG Southee,,YS Chahal,1,0,1,143,42,34,4,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-112,YS Chahal,TG Southee,,MK Pandey,0,0,0,143,1,2,5,-,18,caught,YS Chahal,TL Seifert,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-113,Navdeep Saini,TG Southee,,MK Pandey,1,0,1,144,1,1,6,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-114,Navdeep Saini,HK Bennett,,MK Pandey,0,0,0,144,1,2,1,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-115,Navdeep Saini,HK Bennett,,MK Pandey,0,0,0,144,1,3,2,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-116,Navdeep Saini,HK Bennett,,MK Pandey,4,0,4,148,5,4,3,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-117,Navdeep Saini,HK Bennett,,MK Pandey,0,0,0,148,5,5,4,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-118,Navdeep Saini,HK Bennett,,MK Pandey,4,0,4,152,9,6,5,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-119,Navdeep Saini,HK Bennett,,MK Pandey,2,0,2,154,11,7,6,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-120,MK Pandey,SC Kuggeleijn,,Navdeep Saini,4,0,4,158,46,35,1,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-121,MK Pandey,SC Kuggeleijn,,Navdeep Saini,1,0,1,159,47,36,2,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-122,Navdeep Saini,SC Kuggeleijn,{'byes': 1},MK Pandey,0,1,1,160,11,8,3,byes,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-123,MK Pandey,SC Kuggeleijn,{'wides': 1},Navdeep Saini,0,1,1,161,47,37,4,wides,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-124,MK Pandey,SC Kuggeleijn,,Navdeep Saini,2,0,2,163,49,38,5,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-125,MK Pandey,SC Kuggeleijn,,Navdeep Saini,1,0,1,164,50,39,6,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
-126,Navdeep Saini,SC Kuggeleijn,{'byes': 1},MK Pandey,0,1,1,165,11,9,7,byes,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,KL Rahul,TG Southee,SV Samson,0,1,1,1,0,1,1,wides,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+1,KL Rahul,TG Southee,SV Samson,2,0,2,3,2,2,2,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+2,KL Rahul,TG Southee,SV Samson,1,0,1,4,3,3,3,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+3,SV Samson,TG Southee,KL Rahul,1,0,1,5,1,1,4,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+4,KL Rahul,TG Southee,SV Samson,0,0,0,5,3,4,5,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+5,KL Rahul,TG Southee,SV Samson,1,0,1,6,4,5,6,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+6,SV Samson,TG Southee,KL Rahul,1,0,1,7,2,2,7,-,1,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+7,SV Samson,SC Kuggeleijn,KL Rahul,6,0,6,13,8,3,1,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+8,SV Samson,SC Kuggeleijn,KL Rahul,0,1,1,14,8,4,2,wides,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+9,SV Samson,SC Kuggeleijn,KL Rahul,0,0,0,14,8,5,3,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+10,SV Samson,SC Kuggeleijn,KL Rahul,0,0,0,14,8,6,4,-,2,caught,SV Samson,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+11,KL Rahul,SC Kuggeleijn,V Kohli,0,0,0,14,4,6,5,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+12,KL Rahul,SC Kuggeleijn,V Kohli,0,1,1,15,4,7,6,noballs,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+13,KL Rahul,SC Kuggeleijn,V Kohli,0,1,1,16,4,8,7,wides,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+14,KL Rahul,SC Kuggeleijn,V Kohli,6,0,6,22,10,9,8,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+15,KL Rahul,SC Kuggeleijn,V Kohli,0,0,0,22,10,10,9,-,2,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+16,V Kohli,MJ Santner,KL Rahul,1,0,1,23,1,1,1,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+17,KL Rahul,MJ Santner,V Kohli,1,0,1,24,11,11,2,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+18,V Kohli,MJ Santner,KL Rahul,0,0,0,24,1,2,3,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+19,V Kohli,MJ Santner,KL Rahul,1,0,1,25,2,3,4,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+20,KL Rahul,MJ Santner,V Kohli,6,0,6,31,17,12,5,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+21,KL Rahul,MJ Santner,V Kohli,4,0,4,35,21,13,6,-,3,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+22,V Kohli,TG Southee,KL Rahul,0,0,0,35,2,4,1,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+23,V Kohli,TG Southee,KL Rahul,1,0,1,36,3,5,2,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+24,KL Rahul,TG Southee,V Kohli,2,0,2,38,23,14,3,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+25,KL Rahul,TG Southee,V Kohli,1,0,1,39,24,15,4,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+26,V Kohli,TG Southee,KL Rahul,0,1,1,40,3,6,5,legbyes,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+27,KL Rahul,TG Southee,V Kohli,0,0,0,40,24,16,6,-,4,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+28,V Kohli,HK Bennett,KL Rahul,4,0,4,44,7,7,1,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+29,V Kohli,HK Bennett,KL Rahul,4,0,4,48,11,8,2,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+30,V Kohli,HK Bennett,KL Rahul,0,0,0,48,11,9,3,-,5,caught,V Kohli,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+31,SS Iyer,HK Bennett,KL Rahul,1,0,1,49,1,1,4,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+32,KL Rahul,HK Bennett,SS Iyer,1,0,1,50,25,17,5,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+33,SS Iyer,HK Bennett,KL Rahul,0,0,0,50,1,2,6,-,5,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+34,KL Rahul,SC Kuggeleijn,SS Iyer,0,0,0,50,25,18,1,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+35,KL Rahul,SC Kuggeleijn,SS Iyer,0,0,0,50,25,19,2,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+36,KL Rahul,SC Kuggeleijn,SS Iyer,1,0,1,51,26,20,3,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+37,SS Iyer,SC Kuggeleijn,KL Rahul,0,0,0,51,1,3,4,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+38,SS Iyer,SC Kuggeleijn,KL Rahul,0,0,0,51,1,4,5,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+39,SS Iyer,SC Kuggeleijn,KL Rahul,0,0,0,51,1,5,6,-,6,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+40,KL Rahul,IS Sodhi,SS Iyer,1,0,1,52,27,21,1,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+41,SS Iyer,IS Sodhi,KL Rahul,0,0,0,52,1,6,2,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+42,SS Iyer,IS Sodhi,KL Rahul,0,0,0,52,1,7,3,-,7,caught,SS Iyer,TL Seifert,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+43,S Dube,IS Sodhi,KL Rahul,1,0,1,53,1,1,4,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+44,KL Rahul,IS Sodhi,S Dube,2,0,2,55,29,22,5,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+45,KL Rahul,IS Sodhi,S Dube,0,0,0,55,29,23,6,-,7,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+46,S Dube,SC Kuggeleijn,KL Rahul,1,0,1,56,2,2,1,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+47,KL Rahul,SC Kuggeleijn,S Dube,4,0,4,60,33,24,2,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+48,KL Rahul,SC Kuggeleijn,S Dube,1,0,1,61,34,25,3,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+49,S Dube,SC Kuggeleijn,KL Rahul,4,0,4,65,6,3,4,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+50,S Dube,SC Kuggeleijn,KL Rahul,0,0,0,65,6,4,5,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+51,S Dube,SC Kuggeleijn,KL Rahul,4,0,4,69,10,5,6,-,8,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+52,KL Rahul,IS Sodhi,S Dube,4,0,4,73,38,26,1,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+53,KL Rahul,IS Sodhi,S Dube,1,0,1,74,39,27,2,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+54,S Dube,IS Sodhi,KL Rahul,1,0,1,75,11,6,3,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+55,KL Rahul,IS Sodhi,S Dube,0,0,0,75,39,28,4,-,9,caught,KL Rahul,MJ Santner,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+56,MK Pandey,IS Sodhi,S Dube,2,0,2,77,2,1,5,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+57,MK Pandey,IS Sodhi,S Dube,1,0,1,78,3,2,6,-,9,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+58,MK Pandey,MJ Santner,S Dube,1,0,1,79,4,3,1,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+59,S Dube,MJ Santner,MK Pandey,0,0,0,79,11,7,2,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+60,S Dube,MJ Santner,MK Pandey,1,0,1,80,12,8,3,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+61,MK Pandey,MJ Santner,S Dube,0,0,0,80,4,4,4,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+62,MK Pandey,MJ Santner,S Dube,0,0,0,80,4,5,5,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+63,MK Pandey,MJ Santner,S Dube,3,0,3,83,7,6,6,-,10,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+64,MK Pandey,IS Sodhi,S Dube,1,0,1,84,8,7,1,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+65,S Dube,IS Sodhi,MK Pandey,0,0,0,84,12,9,2,-,11,caught,S Dube,TC Bruce,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+66,MK Pandey,IS Sodhi,Washington Sundar,2,0,2,86,10,8,3,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+67,MK Pandey,IS Sodhi,Washington Sundar,0,0,0,86,10,9,4,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+68,MK Pandey,IS Sodhi,Washington Sundar,1,0,1,87,11,10,5,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+69,Washington Sundar,IS Sodhi,MK Pandey,0,0,0,87,0,1,6,-,11,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+70,MK Pandey,MJ Santner,Washington Sundar,1,0,1,88,12,11,1,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+71,Washington Sundar,MJ Santner,MK Pandey,0,0,0,88,0,2,2,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+72,Washington Sundar,MJ Santner,MK Pandey,0,0,0,88,0,3,3,-,12,bowled,Washington Sundar,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+73,SN Thakur,MJ Santner,MK Pandey,0,0,0,88,0,1,4,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+74,SN Thakur,MJ Santner,MK Pandey,0,0,0,88,0,2,5,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+75,SN Thakur,MJ Santner,MK Pandey,0,0,0,88,0,3,6,-,12,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+76,MK Pandey,IS Sodhi,SN Thakur,1,0,1,89,13,12,1,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+77,SN Thakur,IS Sodhi,MK Pandey,0,0,0,89,0,4,2,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+78,SN Thakur,IS Sodhi,MK Pandey,1,0,1,90,1,5,3,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+79,MK Pandey,IS Sodhi,SN Thakur,1,0,1,91,14,13,4,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+80,SN Thakur,IS Sodhi,MK Pandey,2,0,2,93,3,6,5,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+81,SN Thakur,IS Sodhi,MK Pandey,4,0,4,97,7,7,6,-,13,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+82,MK Pandey,MJ Santner,SN Thakur,3,0,3,100,17,14,1,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+83,SN Thakur,MJ Santner,MK Pandey,1,0,1,101,8,8,2,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+84,MK Pandey,MJ Santner,SN Thakur,0,0,0,101,17,15,3,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+85,MK Pandey,MJ Santner,SN Thakur,0,0,0,101,17,16,4,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+86,MK Pandey,MJ Santner,SN Thakur,1,0,1,102,18,17,5,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+87,SN Thakur,MJ Santner,MK Pandey,2,0,2,104,10,9,6,-,14,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+88,MK Pandey,HK Bennett,SN Thakur,1,0,1,105,19,18,1,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+89,SN Thakur,HK Bennett,MK Pandey,1,0,1,106,11,10,2,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+90,MK Pandey,HK Bennett,SN Thakur,2,0,2,108,21,19,3,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+91,MK Pandey,HK Bennett,SN Thakur,0,0,0,108,21,20,4,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+92,MK Pandey,HK Bennett,SN Thakur,2,0,2,110,23,21,5,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+93,MK Pandey,HK Bennett,SN Thakur,0,1,1,111,23,22,6,wides,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+94,MK Pandey,HK Bennett,SN Thakur,1,0,1,112,24,23,7,-,15,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+95,MK Pandey,TG Southee,SN Thakur,1,0,1,113,25,24,1,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+96,SN Thakur,TG Southee,MK Pandey,0,1,1,114,11,11,2,legbyes,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+97,MK Pandey,TG Southee,SN Thakur,4,0,4,118,29,25,3,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+98,MK Pandey,TG Southee,SN Thakur,2,0,2,120,31,26,4,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+99,MK Pandey,TG Southee,SN Thakur,0,1,1,121,31,27,5,wides,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+100,MK Pandey,TG Southee,SN Thakur,0,1,1,122,31,28,6,legbyes,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+101,SN Thakur,TG Southee,MK Pandey,3,0,3,125,14,12,7,-,16,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+102,SN Thakur,HK Bennett,MK Pandey,4,0,4,129,18,13,1,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+103,SN Thakur,HK Bennett,MK Pandey,2,0,2,131,20,14,2,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+104,SN Thakur,HK Bennett,MK Pandey,0,0,0,131,20,15,3,-,17,caught,SN Thakur,TG Southee,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+105,MK Pandey,HK Bennett,YS Chahal,4,0,4,135,35,29,4,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+106,MK Pandey,HK Bennett,YS Chahal,2,0,2,137,37,30,5,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+107,MK Pandey,HK Bennett,YS Chahal,1,0,1,138,38,31,6,-,17,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+108,MK Pandey,TG Southee,YS Chahal,1,0,1,139,39,32,1,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+109,YS Chahal,TG Southee,MK Pandey,1,0,1,140,1,1,2,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+110,MK Pandey,TG Southee,YS Chahal,2,0,2,142,41,33,3,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+111,MK Pandey,TG Southee,YS Chahal,1,0,1,143,42,34,4,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+112,YS Chahal,TG Southee,MK Pandey,0,0,0,143,1,2,5,-,18,caught,YS Chahal,TL Seifert,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+113,Navdeep Saini,TG Southee,MK Pandey,1,0,1,144,1,1,6,-,18,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+114,Navdeep Saini,HK Bennett,MK Pandey,0,0,0,144,1,2,1,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+115,Navdeep Saini,HK Bennett,MK Pandey,0,0,0,144,1,3,2,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+116,Navdeep Saini,HK Bennett,MK Pandey,4,0,4,148,5,4,3,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+117,Navdeep Saini,HK Bennett,MK Pandey,0,0,0,148,5,5,4,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+118,Navdeep Saini,HK Bennett,MK Pandey,4,0,4,152,9,6,5,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+119,Navdeep Saini,HK Bennett,MK Pandey,2,0,2,154,11,7,6,-,19,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+120,MK Pandey,SC Kuggeleijn,Navdeep Saini,4,0,4,158,46,35,1,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+121,MK Pandey,SC Kuggeleijn,Navdeep Saini,1,0,1,159,47,36,2,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+122,Navdeep Saini,SC Kuggeleijn,MK Pandey,0,1,1,160,11,8,3,byes,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+123,MK Pandey,SC Kuggeleijn,Navdeep Saini,0,1,1,161,47,37,4,wides,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+124,MK Pandey,SC Kuggeleijn,Navdeep Saini,2,0,2,163,49,38,5,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+125,MK Pandey,SC Kuggeleijn,Navdeep Saini,1,0,1,164,50,39,6,-,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand
+126,Navdeep Saini,SC Kuggeleijn,MK Pandey,0,1,1,165,11,9,7,byes,20,0,,,field,New Zealand,1,Westpac Stadium,2020-01-31,India,New Zealand

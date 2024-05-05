@@ -1,103 +1,103 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JJ Roy,A Nehra,SW Billings,,0,0,0,0,0,1,1,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-1,JJ Roy,A Nehra,SW Billings,,0,0,0,0,0,2,2,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-2,JJ Roy,A Nehra,SW Billings,,0,0,0,0,0,3,3,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-3,JJ Roy,A Nehra,SW Billings,,0,0,0,0,0,4,4,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-4,JJ Roy,A Nehra,SW Billings,,0,0,0,0,0,5,5,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-5,JJ Roy,A Nehra,SW Billings,{'legbyes': 1},0,1,1,1,0,6,6,legbyes,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-6,JJ Roy,YS Chahal,SW Billings,,6,0,6,7,6,7,1,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-7,JJ Roy,YS Chahal,SW Billings,{'legbyes': 1},0,1,1,8,6,8,2,legbyes,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-8,SW Billings,YS Chahal,JJ Roy,,0,0,0,8,0,1,3,-,2,caught,SW Billings,SK Raina,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-9,JE Root,YS Chahal,JJ Roy,,0,0,0,8,0,1,4,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-10,JE Root,YS Chahal,JJ Roy,,1,0,1,9,1,2,5,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-11,JJ Roy,YS Chahal,JE Root,,3,0,3,12,9,9,6,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-12,JJ Roy,A Nehra,JE Root,,4,0,4,16,13,10,1,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-13,JJ Roy,A Nehra,JE Root,,1,0,1,17,14,11,2,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-14,JE Root,A Nehra,JJ Roy,,4,0,4,21,5,3,3,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-15,JE Root,A Nehra,JJ Roy,,0,0,0,21,5,4,4,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-16,JE Root,A Nehra,JJ Roy,,0,0,0,21,5,5,5,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-17,JE Root,A Nehra,JJ Roy,,4,0,4,25,9,6,6,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-18,JJ Roy,YS Chahal,JE Root,,4,0,4,29,18,12,1,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-19,JJ Roy,YS Chahal,JE Root,,2,0,2,31,20,13,2,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-20,JJ Roy,YS Chahal,JE Root,,0,0,0,31,20,14,3,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-21,JJ Roy,YS Chahal,JE Root,,1,0,1,32,21,15,4,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-22,JE Root,YS Chahal,JJ Roy,,1,0,1,33,10,7,5,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-23,JJ Roy,YS Chahal,JE Root,,1,0,1,34,22,16,6,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-24,JJ Roy,JJ Bumrah,JE Root,,4,0,4,38,26,17,1,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-25,JJ Roy,JJ Bumrah,JE Root,,0,0,0,38,26,18,2,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-26,JJ Roy,JJ Bumrah,JE Root,,1,0,1,39,27,19,3,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-27,JE Root,JJ Bumrah,JJ Roy,,0,0,0,39,10,8,4,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-28,JE Root,JJ Bumrah,JJ Roy,,4,0,4,43,14,9,5,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-29,JE Root,JJ Bumrah,JJ Roy,,1,0,1,44,15,10,6,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-30,JE Root,A Nehra,JJ Roy,{'wides': 1},0,1,1,45,15,11,1,wides,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-31,JE Root,A Nehra,JJ Roy,,0,0,0,45,15,12,2,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-32,JE Root,A Nehra,JJ Roy,,0,0,0,45,15,13,3,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-33,JE Root,A Nehra,JJ Roy,,1,0,1,46,16,14,4,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-34,JJ Roy,A Nehra,JE Root,,4,0,4,50,31,20,5,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-35,JJ Roy,A Nehra,JE Root,,1,0,1,51,32,21,6,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-36,JE Root,A Nehra,JJ Roy,,4,0,4,55,20,15,7,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-37,JJ Roy,A Mishra,JE Root,,0,0,0,55,32,22,1,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-38,JJ Roy,A Mishra,JE Root,,0,0,0,55,32,23,2,-,7,caught,JJ Roy,MS Dhoni,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-39,JE Root,A Mishra,EJG Morgan,,0,0,0,55,20,16,3,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-40,JE Root,A Mishra,EJG Morgan,,0,0,0,55,20,17,4,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-41,JE Root,A Mishra,EJG Morgan,,1,0,1,56,21,18,5,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-42,EJG Morgan,A Mishra,JE Root,,0,0,0,56,0,1,6,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-43,JE Root,HH Pandya,EJG Morgan,,6,0,6,62,27,19,1,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-44,JE Root,HH Pandya,EJG Morgan,,0,0,0,62,27,20,2,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-45,JE Root,HH Pandya,EJG Morgan,,1,0,1,63,28,21,3,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-46,EJG Morgan,HH Pandya,JE Root,,0,0,0,63,0,2,4,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-47,EJG Morgan,HH Pandya,JE Root,,0,0,0,63,0,3,5,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-48,EJG Morgan,HH Pandya,JE Root,,1,0,1,64,1,4,6,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-49,EJG Morgan,A Mishra,JE Root,,4,0,4,68,5,5,1,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-50,EJG Morgan,A Mishra,JE Root,,4,0,4,72,9,6,2,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-51,EJG Morgan,A Mishra,JE Root,,2,0,2,74,11,7,3,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-52,EJG Morgan,A Mishra,JE Root,,1,0,1,75,12,8,4,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-53,JE Root,A Mishra,EJG Morgan,,1,0,1,76,29,22,5,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-54,EJG Morgan,A Mishra,JE Root,,1,0,1,77,13,9,6,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-55,EJG Morgan,HH Pandya,JE Root,,1,0,1,78,14,10,1,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-56,JE Root,HH Pandya,EJG Morgan,,1,0,1,79,30,23,2,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-57,EJG Morgan,HH Pandya,JE Root,,1,0,1,80,15,11,3,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-58,JE Root,HH Pandya,EJG Morgan,,6,0,6,86,36,24,4,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-59,JE Root,HH Pandya,EJG Morgan,,0,0,0,86,36,25,5,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-60,JE Root,HH Pandya,EJG Morgan,,0,0,0,86,36,26,6,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-61,EJG Morgan,A Mishra,JE Root,,1,0,1,87,16,12,1,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-62,JE Root,A Mishra,EJG Morgan,,0,0,0,87,36,27,2,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-63,JE Root,A Mishra,EJG Morgan,,1,0,1,88,37,28,3,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-64,EJG Morgan,A Mishra,JE Root,,2,0,2,90,18,13,4,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-65,EJG Morgan,A Mishra,JE Root,,1,0,1,91,19,14,5,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-66,JE Root,A Mishra,EJG Morgan,,1,0,1,92,38,29,6,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-67,JE Root,SK Raina,EJG Morgan,,1,0,1,93,39,30,1,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-68,EJG Morgan,SK Raina,JE Root,,6,0,6,99,25,15,2,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-69,EJG Morgan,SK Raina,JE Root,,6,0,6,105,31,16,3,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-70,EJG Morgan,SK Raina,JE Root,{'wides': 1},0,1,1,106,31,17,4,wides,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-71,EJG Morgan,SK Raina,JE Root,,6,0,6,112,37,18,5,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-72,EJG Morgan,SK Raina,JE Root,,1,0,1,113,38,19,6,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-73,JE Root,SK Raina,EJG Morgan,,1,0,1,114,40,31,7,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-74,JE Root,A Mishra,EJG Morgan,,1,0,1,115,41,32,1,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-75,EJG Morgan,A Mishra,JE Root,,1,0,1,116,39,20,2,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-76,JE Root,A Mishra,EJG Morgan,,0,0,0,116,41,33,3,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-77,JE Root,A Mishra,EJG Morgan,,0,0,0,116,41,34,4,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-78,JE Root,A Mishra,EJG Morgan,,0,0,0,116,41,35,5,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-79,JE Root,A Mishra,EJG Morgan,{'wides': 1},0,1,1,117,41,36,6,wides,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-80,JE Root,A Mishra,EJG Morgan,,0,0,0,117,41,37,7,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-81,EJG Morgan,YS Chahal,JE Root,,1,0,1,118,40,21,1,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-82,JE Root,YS Chahal,EJG Morgan,,1,0,1,119,42,38,2,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-83,EJG Morgan,YS Chahal,JE Root,,0,0,0,119,40,22,3,-,14,caught,EJG Morgan,RR Pant,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-84,JE Root,YS Chahal,JC Buttler,,0,0,0,119,42,39,4,-,14,lbw,JE Root,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-85,BA Stokes,YS Chahal,JC Buttler,,0,0,0,119,0,1,5,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-86,BA Stokes,YS Chahal,JC Buttler,,0,0,0,119,0,2,6,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-87,JC Buttler,JJ Bumrah,BA Stokes,,0,0,0,119,0,1,1,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-88,JC Buttler,JJ Bumrah,BA Stokes,,0,0,0,119,0,2,2,-,15,caught,JC Buttler,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-89,BA Stokes,JJ Bumrah,MM Ali,,1,0,1,120,1,3,3,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-90,MM Ali,JJ Bumrah,BA Stokes,,1,0,1,121,1,1,4,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-91,BA Stokes,JJ Bumrah,MM Ali,,1,0,1,122,2,4,5,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-92,MM Ali,JJ Bumrah,BA Stokes,,1,0,1,123,2,2,6,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-93,MM Ali,YS Chahal,BA Stokes,,0,0,0,123,2,3,1,-,16,caught,MM Ali,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-94,BA Stokes,YS Chahal,LE Plunkett,,0,0,0,123,2,5,2,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-95,BA Stokes,YS Chahal,LE Plunkett,,4,0,4,127,6,6,3,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-96,BA Stokes,YS Chahal,LE Plunkett,,0,0,0,127,6,7,4,-,16,caught,BA Stokes,SK Raina,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-97,CJ Jordan,YS Chahal,LE Plunkett,,0,0,0,127,0,1,5,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-98,CJ Jordan,YS Chahal,LE Plunkett,,0,0,0,127,0,2,6,-,16,stumped,CJ Jordan,MS Dhoni,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-99,LE Plunkett,JJ Bumrah,AU Rashid,,0,0,0,127,0,1,1,-,17,bowled,LE Plunkett,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-100,TS Mills,JJ Bumrah,AU Rashid,,0,0,0,127,0,1,2,-,17,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
-101,TS Mills,JJ Bumrah,AU Rashid,,0,0,0,127,0,2,3,-,17,caught,TS Mills,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JJ Roy,A Nehra,SW Billings,0,0,0,0,0,1,1,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+1,JJ Roy,A Nehra,SW Billings,0,0,0,0,0,2,2,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+2,JJ Roy,A Nehra,SW Billings,0,0,0,0,0,3,3,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+3,JJ Roy,A Nehra,SW Billings,0,0,0,0,0,4,4,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+4,JJ Roy,A Nehra,SW Billings,0,0,0,0,0,5,5,-,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+5,JJ Roy,A Nehra,SW Billings,0,1,1,1,0,6,6,legbyes,1,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+6,JJ Roy,YS Chahal,SW Billings,6,0,6,7,6,7,1,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+7,JJ Roy,YS Chahal,SW Billings,0,1,1,8,6,8,2,legbyes,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+8,SW Billings,YS Chahal,JJ Roy,0,0,0,8,0,1,3,-,2,caught,SW Billings,SK Raina,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+9,JE Root,YS Chahal,JJ Roy,0,0,0,8,0,1,4,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+10,JE Root,YS Chahal,JJ Roy,1,0,1,9,1,2,5,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+11,JJ Roy,YS Chahal,JE Root,3,0,3,12,9,9,6,-,2,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+12,JJ Roy,A Nehra,JE Root,4,0,4,16,13,10,1,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+13,JJ Roy,A Nehra,JE Root,1,0,1,17,14,11,2,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+14,JE Root,A Nehra,JJ Roy,4,0,4,21,5,3,3,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+15,JE Root,A Nehra,JJ Roy,0,0,0,21,5,4,4,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+16,JE Root,A Nehra,JJ Roy,0,0,0,21,5,5,5,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+17,JE Root,A Nehra,JJ Roy,4,0,4,25,9,6,6,-,3,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+18,JJ Roy,YS Chahal,JE Root,4,0,4,29,18,12,1,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+19,JJ Roy,YS Chahal,JE Root,2,0,2,31,20,13,2,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+20,JJ Roy,YS Chahal,JE Root,0,0,0,31,20,14,3,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+21,JJ Roy,YS Chahal,JE Root,1,0,1,32,21,15,4,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+22,JE Root,YS Chahal,JJ Roy,1,0,1,33,10,7,5,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+23,JJ Roy,YS Chahal,JE Root,1,0,1,34,22,16,6,-,4,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+24,JJ Roy,JJ Bumrah,JE Root,4,0,4,38,26,17,1,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+25,JJ Roy,JJ Bumrah,JE Root,0,0,0,38,26,18,2,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+26,JJ Roy,JJ Bumrah,JE Root,1,0,1,39,27,19,3,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+27,JE Root,JJ Bumrah,JJ Roy,0,0,0,39,10,8,4,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+28,JE Root,JJ Bumrah,JJ Roy,4,0,4,43,14,9,5,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+29,JE Root,JJ Bumrah,JJ Roy,1,0,1,44,15,10,6,-,5,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+30,JE Root,A Nehra,JJ Roy,0,1,1,45,15,11,1,wides,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+31,JE Root,A Nehra,JJ Roy,0,0,0,45,15,12,2,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+32,JE Root,A Nehra,JJ Roy,0,0,0,45,15,13,3,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+33,JE Root,A Nehra,JJ Roy,1,0,1,46,16,14,4,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+34,JJ Roy,A Nehra,JE Root,4,0,4,50,31,20,5,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+35,JJ Roy,A Nehra,JE Root,1,0,1,51,32,21,6,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+36,JE Root,A Nehra,JJ Roy,4,0,4,55,20,15,7,-,6,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+37,JJ Roy,A Mishra,JE Root,0,0,0,55,32,22,1,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+38,JJ Roy,A Mishra,JE Root,0,0,0,55,32,23,2,-,7,caught,JJ Roy,MS Dhoni,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+39,JE Root,A Mishra,EJG Morgan,0,0,0,55,20,16,3,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+40,JE Root,A Mishra,EJG Morgan,0,0,0,55,20,17,4,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+41,JE Root,A Mishra,EJG Morgan,1,0,1,56,21,18,5,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+42,EJG Morgan,A Mishra,JE Root,0,0,0,56,0,1,6,-,7,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+43,JE Root,HH Pandya,EJG Morgan,6,0,6,62,27,19,1,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+44,JE Root,HH Pandya,EJG Morgan,0,0,0,62,27,20,2,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+45,JE Root,HH Pandya,EJG Morgan,1,0,1,63,28,21,3,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+46,EJG Morgan,HH Pandya,JE Root,0,0,0,63,0,2,4,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+47,EJG Morgan,HH Pandya,JE Root,0,0,0,63,0,3,5,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+48,EJG Morgan,HH Pandya,JE Root,1,0,1,64,1,4,6,-,8,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+49,EJG Morgan,A Mishra,JE Root,4,0,4,68,5,5,1,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+50,EJG Morgan,A Mishra,JE Root,4,0,4,72,9,6,2,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+51,EJG Morgan,A Mishra,JE Root,2,0,2,74,11,7,3,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+52,EJG Morgan,A Mishra,JE Root,1,0,1,75,12,8,4,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+53,JE Root,A Mishra,EJG Morgan,1,0,1,76,29,22,5,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+54,EJG Morgan,A Mishra,JE Root,1,0,1,77,13,9,6,-,9,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+55,EJG Morgan,HH Pandya,JE Root,1,0,1,78,14,10,1,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+56,JE Root,HH Pandya,EJG Morgan,1,0,1,79,30,23,2,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+57,EJG Morgan,HH Pandya,JE Root,1,0,1,80,15,11,3,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+58,JE Root,HH Pandya,EJG Morgan,6,0,6,86,36,24,4,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+59,JE Root,HH Pandya,EJG Morgan,0,0,0,86,36,25,5,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+60,JE Root,HH Pandya,EJG Morgan,0,0,0,86,36,26,6,-,10,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+61,EJG Morgan,A Mishra,JE Root,1,0,1,87,16,12,1,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+62,JE Root,A Mishra,EJG Morgan,0,0,0,87,36,27,2,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+63,JE Root,A Mishra,EJG Morgan,1,0,1,88,37,28,3,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+64,EJG Morgan,A Mishra,JE Root,2,0,2,90,18,13,4,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+65,EJG Morgan,A Mishra,JE Root,1,0,1,91,19,14,5,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+66,JE Root,A Mishra,EJG Morgan,1,0,1,92,38,29,6,-,11,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+67,JE Root,SK Raina,EJG Morgan,1,0,1,93,39,30,1,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+68,EJG Morgan,SK Raina,JE Root,6,0,6,99,25,15,2,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+69,EJG Morgan,SK Raina,JE Root,6,0,6,105,31,16,3,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+70,EJG Morgan,SK Raina,JE Root,0,1,1,106,31,17,4,wides,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+71,EJG Morgan,SK Raina,JE Root,6,0,6,112,37,18,5,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+72,EJG Morgan,SK Raina,JE Root,1,0,1,113,38,19,6,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+73,JE Root,SK Raina,EJG Morgan,1,0,1,114,40,31,7,-,12,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+74,JE Root,A Mishra,EJG Morgan,1,0,1,115,41,32,1,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+75,EJG Morgan,A Mishra,JE Root,1,0,1,116,39,20,2,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+76,JE Root,A Mishra,EJG Morgan,0,0,0,116,41,33,3,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+77,JE Root,A Mishra,EJG Morgan,0,0,0,116,41,34,4,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+78,JE Root,A Mishra,EJG Morgan,0,0,0,116,41,35,5,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+79,JE Root,A Mishra,EJG Morgan,0,1,1,117,41,36,6,wides,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+80,JE Root,A Mishra,EJG Morgan,0,0,0,117,41,37,7,-,13,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+81,EJG Morgan,YS Chahal,JE Root,1,0,1,118,40,21,1,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+82,JE Root,YS Chahal,EJG Morgan,1,0,1,119,42,38,2,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+83,EJG Morgan,YS Chahal,JE Root,0,0,0,119,40,22,3,-,14,caught,EJG Morgan,RR Pant,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+84,JE Root,YS Chahal,JC Buttler,0,0,0,119,42,39,4,-,14,lbw,JE Root,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+85,BA Stokes,YS Chahal,JC Buttler,0,0,0,119,0,1,5,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+86,BA Stokes,YS Chahal,JC Buttler,0,0,0,119,0,2,6,-,14,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+87,JC Buttler,JJ Bumrah,BA Stokes,0,0,0,119,0,1,1,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+88,JC Buttler,JJ Bumrah,BA Stokes,0,0,0,119,0,2,2,-,15,caught,JC Buttler,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+89,BA Stokes,JJ Bumrah,MM Ali,1,0,1,120,1,3,3,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+90,MM Ali,JJ Bumrah,BA Stokes,1,0,1,121,1,1,4,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+91,BA Stokes,JJ Bumrah,MM Ali,1,0,1,122,2,4,5,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+92,MM Ali,JJ Bumrah,BA Stokes,1,0,1,123,2,2,6,-,15,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+93,MM Ali,YS Chahal,BA Stokes,0,0,0,123,2,3,1,-,16,caught,MM Ali,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+94,BA Stokes,YS Chahal,LE Plunkett,0,0,0,123,2,5,2,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+95,BA Stokes,YS Chahal,LE Plunkett,4,0,4,127,6,6,3,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+96,BA Stokes,YS Chahal,LE Plunkett,0,0,0,127,6,7,4,-,16,caught,BA Stokes,SK Raina,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+97,CJ Jordan,YS Chahal,LE Plunkett,0,0,0,127,0,1,5,-,16,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+98,CJ Jordan,YS Chahal,LE Plunkett,0,0,0,127,0,2,6,-,16,stumped,CJ Jordan,MS Dhoni,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+99,LE Plunkett,JJ Bumrah,AU Rashid,0,0,0,127,0,1,1,-,17,bowled,LE Plunkett,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+100,TS Mills,JJ Bumrah,AU Rashid,0,0,0,127,0,1,2,-,17,0,,,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India
+101,TS Mills,JJ Bumrah,AU Rashid,0,0,0,127,0,2,3,-,17,caught,TS Mills,V Kohli,field,England,2,M Chinnaswamy Stadium,2017-02-01,England,India

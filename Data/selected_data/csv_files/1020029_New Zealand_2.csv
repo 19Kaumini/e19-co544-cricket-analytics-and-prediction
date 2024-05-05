@@ -1,92 +1,92 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,1,1,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-1,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,2,2,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-2,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,3,3,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-3,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,4,4,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-4,GD Phillips,CH Morris,KS Williamson,1,0,1,1,1,5,5,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-5,KS Williamson,CH Morris,GD Phillips,4,0,4,5,4,1,6,1,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-6,GD Phillips,D Paterson,KS Williamson,0,0,0,5,1,6,1,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-7,GD Phillips,D Paterson,KS Williamson,0,0,0,5,1,7,2,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-8,GD Phillips,D Paterson,KS Williamson,1,0,1,6,2,8,3,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-9,KS Williamson,D Paterson,GD Phillips,1,0,1,7,5,2,4,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-10,GD Phillips,D Paterson,KS Williamson,2,0,2,9,4,9,5,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-11,GD Phillips,D Paterson,KS Williamson,1,0,1,10,5,10,6,2,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-12,GD Phillips,CH Morris,KS Williamson,0,0,0,10,5,11,1,3,caught,GD Phillips,Q de Kock,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-13,C Munro,CH Morris,KS Williamson,0,0,0,10,0,1,2,3,bowled,C Munro,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-14,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,1,3,3,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-15,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,2,4,3,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-16,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,3,5,3,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-17,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,4,6,3,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-18,KS Williamson,D Paterson,TC Bruce,0,0,0,10,5,3,1,4,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-19,KS Williamson,D Paterson,TC Bruce,1,0,1,11,6,4,2,4,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-20,TC Bruce,D Paterson,KS Williamson,1,0,1,12,1,5,3,4,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-21,KS Williamson,D Paterson,TC Bruce,0,0,0,12,6,5,4,4,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-22,KS Williamson,D Paterson,TC Bruce,0,1,1,13,6,6,5,4,0,,,{'legbyes': 1},legbyes,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-23,TC Bruce,D Paterson,KS Williamson,6,0,6,19,7,6,6,4,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-24,KS Williamson,CH Morris,TC Bruce,0,0,0,19,6,7,1,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-25,KS Williamson,CH Morris,TC Bruce,1,0,1,20,7,8,2,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-26,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,7,3,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-27,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,8,4,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-28,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,9,5,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-29,TC Bruce,CH Morris,KS Williamson,4,0,4,24,11,10,6,5,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-30,KS Williamson,WD Parnell,TC Bruce,1,0,1,25,8,9,1,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-31,TC Bruce,WD Parnell,KS Williamson,1,0,1,26,12,11,2,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-32,KS Williamson,WD Parnell,TC Bruce,0,1,1,27,8,10,3,6,0,,,{'wides': 1},wides,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-33,KS Williamson,WD Parnell,TC Bruce,1,0,1,28,9,11,4,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-34,TC Bruce,WD Parnell,KS Williamson,0,0,0,28,12,12,5,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-35,TC Bruce,WD Parnell,KS Williamson,4,0,4,32,16,13,6,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-36,TC Bruce,WD Parnell,KS Williamson,2,0,2,34,18,14,7,6,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-37,KS Williamson,AL Phehlukwayo,TC Bruce,4,0,4,38,13,12,1,7,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-38,KS Williamson,AL Phehlukwayo,TC Bruce,0,0,0,38,13,13,2,7,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-39,KS Williamson,AL Phehlukwayo,TC Bruce,0,0,0,38,13,14,3,7,caught,KS Williamson,WD Parnell,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-40,CJ Anderson,AL Phehlukwayo,TC Bruce,1,0,1,39,1,1,4,7,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-41,TC Bruce,AL Phehlukwayo,CJ Anderson,1,0,1,40,19,15,5,7,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-42,CJ Anderson,AL Phehlukwayo,TC Bruce,0,0,0,40,1,2,6,7,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-43,TC Bruce,WD Parnell,CJ Anderson,1,0,1,41,20,16,1,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-44,CJ Anderson,WD Parnell,TC Bruce,0,0,0,41,1,3,2,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-45,CJ Anderson,WD Parnell,TC Bruce,2,0,2,43,3,4,3,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-46,CJ Anderson,WD Parnell,TC Bruce,1,0,1,44,4,5,4,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-47,TC Bruce,WD Parnell,CJ Anderson,6,0,6,50,26,17,5,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-48,TC Bruce,WD Parnell,CJ Anderson,0,0,0,50,26,18,6,8,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-49,CJ Anderson,Imran Tahir,TC Bruce,1,0,1,51,5,6,1,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-50,TC Bruce,Imran Tahir,CJ Anderson,1,0,1,52,27,19,2,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-51,CJ Anderson,Imran Tahir,TC Bruce,0,0,0,52,5,7,3,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-52,CJ Anderson,Imran Tahir,TC Bruce,0,0,0,52,5,8,4,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-53,CJ Anderson,Imran Tahir,TC Bruce,1,0,1,53,6,9,5,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-54,TC Bruce,Imran Tahir,CJ Anderson,1,0,1,54,28,20,6,9,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-55,TC Bruce,AL Phehlukwayo,CJ Anderson,0,0,0,54,28,21,1,10,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-56,TC Bruce,AL Phehlukwayo,CJ Anderson,1,0,1,55,29,22,2,10,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-57,CJ Anderson,AL Phehlukwayo,TC Bruce,0,0,0,55,6,10,3,10,caught,CJ Anderson,Q de Kock,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-58,TC Bruce,AL Phehlukwayo,C de Grandhomme,0,0,0,55,29,23,4,10,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-59,TC Bruce,AL Phehlukwayo,C de Grandhomme,4,0,4,59,33,24,5,10,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-60,TC Bruce,AL Phehlukwayo,C de Grandhomme,0,0,0,59,33,25,6,10,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-61,C de Grandhomme,Imran Tahir,TC Bruce,1,0,1,60,1,1,1,11,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-62,TC Bruce,Imran Tahir,C de Grandhomme,0,0,0,60,33,26,2,11,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-63,TC Bruce,Imran Tahir,C de Grandhomme,0,0,0,60,33,27,3,11,bowled,TC Bruce,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-64,L Ronchi,Imran Tahir,C de Grandhomme,0,0,0,60,0,1,4,11,caught,L Ronchi,Q de Kock,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-65,MJ Santner,Imran Tahir,C de Grandhomme,0,0,0,60,0,1,5,11,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-66,MJ Santner,Imran Tahir,C de Grandhomme,0,0,0,60,0,2,6,11,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-67,C de Grandhomme,AL Phehlukwayo,MJ Santner,1,0,1,61,2,2,1,12,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-68,MJ Santner,AL Phehlukwayo,C de Grandhomme,0,0,0,61,0,3,2,12,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-69,MJ Santner,AL Phehlukwayo,C de Grandhomme,4,0,4,65,4,4,3,12,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-70,MJ Santner,AL Phehlukwayo,C de Grandhomme,1,0,1,66,5,5,4,12,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-71,C de Grandhomme,AL Phehlukwayo,MJ Santner,0,1,1,67,2,3,5,12,0,,,{'wides': 1},wides,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-72,C de Grandhomme,AL Phehlukwayo,MJ Santner,1,0,1,68,3,4,6,12,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-73,MJ Santner,AL Phehlukwayo,C de Grandhomme,0,0,0,68,5,6,7,12,caught,MJ Santner,HM Amla,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-74,C de Grandhomme,Imran Tahir,BM Wheeler,0,0,0,68,3,5,1,13,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-75,C de Grandhomme,Imran Tahir,BM Wheeler,6,0,6,74,9,6,2,13,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-76,C de Grandhomme,Imran Tahir,BM Wheeler,6,0,6,80,15,7,3,13,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-77,C de Grandhomme,Imran Tahir,BM Wheeler,0,0,0,80,15,8,4,13,caught,C de Grandhomme,JP Duminy,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-78,BM Wheeler,Imran Tahir,TG Southee,1,0,1,81,1,1,5,13,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-79,TG Southee,Imran Tahir,BM Wheeler,1,0,1,82,1,1,6,13,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-80,TG Southee,WD Parnell,BM Wheeler,6,0,6,88,7,2,1,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-81,TG Southee,WD Parnell,BM Wheeler,6,0,6,94,13,3,2,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-82,TG Southee,WD Parnell,BM Wheeler,1,0,1,95,14,4,3,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-83,BM Wheeler,WD Parnell,TG Southee,0,0,0,95,1,2,4,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-84,BM Wheeler,WD Parnell,TG Southee,1,0,1,96,2,3,5,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-85,TG Southee,WD Parnell,BM Wheeler,6,0,6,102,20,5,6,14,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-86,BM Wheeler,Imran Tahir,TG Southee,4,0,4,106,6,4,1,15,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-87,BM Wheeler,Imran Tahir,TG Southee,0,0,0,106,6,5,2,15,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-88,BM Wheeler,Imran Tahir,TG Southee,0,0,0,106,6,6,3,15,bowled,BM Wheeler,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-89,TA Boult,Imran Tahir,TG Southee,1,0,1,107,1,1,4,15,0,,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
-90,TG Southee,Imran Tahir,TA Boult,0,0,0,107,20,6,5,15,bowled,TG Southee,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,1,1,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+1,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,2,2,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+2,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,3,3,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+3,GD Phillips,CH Morris,KS Williamson,0,0,0,0,0,4,4,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+4,GD Phillips,CH Morris,KS Williamson,1,0,1,1,1,5,5,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+5,KS Williamson,CH Morris,GD Phillips,4,0,4,5,4,1,6,1,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+6,GD Phillips,D Paterson,KS Williamson,0,0,0,5,1,6,1,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+7,GD Phillips,D Paterson,KS Williamson,0,0,0,5,1,7,2,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+8,GD Phillips,D Paterson,KS Williamson,1,0,1,6,2,8,3,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+9,KS Williamson,D Paterson,GD Phillips,1,0,1,7,5,2,4,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+10,GD Phillips,D Paterson,KS Williamson,2,0,2,9,4,9,5,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+11,GD Phillips,D Paterson,KS Williamson,1,0,1,10,5,10,6,2,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+12,GD Phillips,CH Morris,KS Williamson,0,0,0,10,5,11,1,3,caught,GD Phillips,Q de Kock,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+13,C Munro,CH Morris,KS Williamson,0,0,0,10,0,1,2,3,bowled,C Munro,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+14,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,1,3,3,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+15,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,2,4,3,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+16,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,3,5,3,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+17,TC Bruce,CH Morris,KS Williamson,0,0,0,10,0,4,6,3,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+18,KS Williamson,D Paterson,TC Bruce,0,0,0,10,5,3,1,4,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+19,KS Williamson,D Paterson,TC Bruce,1,0,1,11,6,4,2,4,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+20,TC Bruce,D Paterson,KS Williamson,1,0,1,12,1,5,3,4,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+21,KS Williamson,D Paterson,TC Bruce,0,0,0,12,6,5,4,4,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+22,KS Williamson,D Paterson,TC Bruce,0,1,1,13,6,6,5,4,0,,,legbyes,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+23,TC Bruce,D Paterson,KS Williamson,6,0,6,19,7,6,6,4,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+24,KS Williamson,CH Morris,TC Bruce,0,0,0,19,6,7,1,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+25,KS Williamson,CH Morris,TC Bruce,1,0,1,20,7,8,2,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+26,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,7,3,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+27,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,8,4,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+28,TC Bruce,CH Morris,KS Williamson,0,0,0,20,7,9,5,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+29,TC Bruce,CH Morris,KS Williamson,4,0,4,24,11,10,6,5,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+30,KS Williamson,WD Parnell,TC Bruce,1,0,1,25,8,9,1,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+31,TC Bruce,WD Parnell,KS Williamson,1,0,1,26,12,11,2,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+32,KS Williamson,WD Parnell,TC Bruce,0,1,1,27,8,10,3,6,0,,,wides,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+33,KS Williamson,WD Parnell,TC Bruce,1,0,1,28,9,11,4,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+34,TC Bruce,WD Parnell,KS Williamson,0,0,0,28,12,12,5,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+35,TC Bruce,WD Parnell,KS Williamson,4,0,4,32,16,13,6,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+36,TC Bruce,WD Parnell,KS Williamson,2,0,2,34,18,14,7,6,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+37,KS Williamson,AL Phehlukwayo,TC Bruce,4,0,4,38,13,12,1,7,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+38,KS Williamson,AL Phehlukwayo,TC Bruce,0,0,0,38,13,13,2,7,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+39,KS Williamson,AL Phehlukwayo,TC Bruce,0,0,0,38,13,14,3,7,caught,KS Williamson,WD Parnell,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+40,CJ Anderson,AL Phehlukwayo,TC Bruce,1,0,1,39,1,1,4,7,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+41,TC Bruce,AL Phehlukwayo,CJ Anderson,1,0,1,40,19,15,5,7,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+42,CJ Anderson,AL Phehlukwayo,TC Bruce,0,0,0,40,1,2,6,7,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+43,TC Bruce,WD Parnell,CJ Anderson,1,0,1,41,20,16,1,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+44,CJ Anderson,WD Parnell,TC Bruce,0,0,0,41,1,3,2,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+45,CJ Anderson,WD Parnell,TC Bruce,2,0,2,43,3,4,3,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+46,CJ Anderson,WD Parnell,TC Bruce,1,0,1,44,4,5,4,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+47,TC Bruce,WD Parnell,CJ Anderson,6,0,6,50,26,17,5,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+48,TC Bruce,WD Parnell,CJ Anderson,0,0,0,50,26,18,6,8,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+49,CJ Anderson,Imran Tahir,TC Bruce,1,0,1,51,5,6,1,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+50,TC Bruce,Imran Tahir,CJ Anderson,1,0,1,52,27,19,2,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+51,CJ Anderson,Imran Tahir,TC Bruce,0,0,0,52,5,7,3,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+52,CJ Anderson,Imran Tahir,TC Bruce,0,0,0,52,5,8,4,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+53,CJ Anderson,Imran Tahir,TC Bruce,1,0,1,53,6,9,5,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+54,TC Bruce,Imran Tahir,CJ Anderson,1,0,1,54,28,20,6,9,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+55,TC Bruce,AL Phehlukwayo,CJ Anderson,0,0,0,54,28,21,1,10,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+56,TC Bruce,AL Phehlukwayo,CJ Anderson,1,0,1,55,29,22,2,10,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+57,CJ Anderson,AL Phehlukwayo,TC Bruce,0,0,0,55,6,10,3,10,caught,CJ Anderson,Q de Kock,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+58,TC Bruce,AL Phehlukwayo,C de Grandhomme,0,0,0,55,29,23,4,10,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+59,TC Bruce,AL Phehlukwayo,C de Grandhomme,4,0,4,59,33,24,5,10,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+60,TC Bruce,AL Phehlukwayo,C de Grandhomme,0,0,0,59,33,25,6,10,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+61,C de Grandhomme,Imran Tahir,TC Bruce,1,0,1,60,1,1,1,11,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+62,TC Bruce,Imran Tahir,C de Grandhomme,0,0,0,60,33,26,2,11,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+63,TC Bruce,Imran Tahir,C de Grandhomme,0,0,0,60,33,27,3,11,bowled,TC Bruce,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+64,L Ronchi,Imran Tahir,C de Grandhomme,0,0,0,60,0,1,4,11,caught,L Ronchi,Q de Kock,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+65,MJ Santner,Imran Tahir,C de Grandhomme,0,0,0,60,0,1,5,11,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+66,MJ Santner,Imran Tahir,C de Grandhomme,0,0,0,60,0,2,6,11,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+67,C de Grandhomme,AL Phehlukwayo,MJ Santner,1,0,1,61,2,2,1,12,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+68,MJ Santner,AL Phehlukwayo,C de Grandhomme,0,0,0,61,0,3,2,12,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+69,MJ Santner,AL Phehlukwayo,C de Grandhomme,4,0,4,65,4,4,3,12,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+70,MJ Santner,AL Phehlukwayo,C de Grandhomme,1,0,1,66,5,5,4,12,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+71,C de Grandhomme,AL Phehlukwayo,MJ Santner,0,1,1,67,2,3,5,12,0,,,wides,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+72,C de Grandhomme,AL Phehlukwayo,MJ Santner,1,0,1,68,3,4,6,12,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+73,MJ Santner,AL Phehlukwayo,C de Grandhomme,0,0,0,68,5,6,7,12,caught,MJ Santner,HM Amla,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+74,C de Grandhomme,Imran Tahir,BM Wheeler,0,0,0,68,3,5,1,13,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+75,C de Grandhomme,Imran Tahir,BM Wheeler,6,0,6,74,9,6,2,13,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+76,C de Grandhomme,Imran Tahir,BM Wheeler,6,0,6,80,15,7,3,13,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+77,C de Grandhomme,Imran Tahir,BM Wheeler,0,0,0,80,15,8,4,13,caught,C de Grandhomme,JP Duminy,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+78,BM Wheeler,Imran Tahir,TG Southee,1,0,1,81,1,1,5,13,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+79,TG Southee,Imran Tahir,BM Wheeler,1,0,1,82,1,1,6,13,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+80,TG Southee,WD Parnell,BM Wheeler,6,0,6,88,7,2,1,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+81,TG Southee,WD Parnell,BM Wheeler,6,0,6,94,13,3,2,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+82,TG Southee,WD Parnell,BM Wheeler,1,0,1,95,14,4,3,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+83,BM Wheeler,WD Parnell,TG Southee,0,0,0,95,1,2,4,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+84,BM Wheeler,WD Parnell,TG Southee,1,0,1,96,2,3,5,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+85,TG Southee,WD Parnell,BM Wheeler,6,0,6,102,20,5,6,14,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+86,BM Wheeler,Imran Tahir,TG Southee,4,0,4,106,6,4,1,15,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+87,BM Wheeler,Imran Tahir,TG Southee,0,0,0,106,6,5,2,15,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+88,BM Wheeler,Imran Tahir,TG Southee,0,0,0,106,6,6,3,15,bowled,BM Wheeler,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+89,TA Boult,Imran Tahir,TG Southee,1,0,1,107,1,1,4,15,0,,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa
+90,TG Southee,Imran Tahir,TA Boult,0,0,0,107,20,6,5,15,bowled,TG Southee,,-,field,New Zealand,2,Eden Park,2017-02-17,New Zealand,South Africa

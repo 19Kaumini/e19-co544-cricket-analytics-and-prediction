@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,1,1,1,1,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-1,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,2,1,1,2,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-2,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,3,2,2,3,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-3,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,4,2,2,4,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-4,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,5,3,3,5,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-5,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,6,3,3,6,1,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-6,MD Gunathilaka,FH Edwards,N Dickwella,0,1,1,7,3,4,1,2,{'wides': 1},wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-7,MD Gunathilaka,FH Edwards,N Dickwella,1,0,1,8,4,5,2,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-8,N Dickwella,FH Edwards,MD Gunathilaka,4,0,4,12,7,4,3,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-9,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,5,4,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-10,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,6,5,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-11,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,7,6,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-12,N Dickwella,FH Edwards,MD Gunathilaka,1,0,1,13,8,8,7,2,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-13,N Dickwella,K Sinclair,MD Gunathilaka,2,0,2,15,10,9,1,3,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-14,N Dickwella,K Sinclair,MD Gunathilaka,0,0,0,15,10,10,2,3,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-15,N Dickwella,K Sinclair,MD Gunathilaka,4,0,4,19,14,11,3,3,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-16,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,20,15,12,4,3,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-17,MD Gunathilaka,K Sinclair,N Dickwella,0,0,0,20,4,6,5,3,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-18,MD Gunathilaka,K Sinclair,N Dickwella,0,0,0,20,4,7,6,3,,-,caught,MD Gunathilaka,KA Pollard,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-19,N Dickwella,JO Holder,P Nissanka,2,0,2,22,17,13,1,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-20,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,14,2,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-21,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,15,3,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-22,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,16,4,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-23,N Dickwella,JO Holder,P Nissanka,1,0,1,23,18,17,5,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-24,P Nissanka,JO Holder,N Dickwella,1,0,1,24,1,1,6,4,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-25,P Nissanka,FH Edwards,N Dickwella,0,0,0,24,1,2,1,5,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-26,P Nissanka,FH Edwards,N Dickwella,0,0,0,24,1,3,2,5,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-27,P Nissanka,FH Edwards,N Dickwella,2,0,2,26,3,4,3,5,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-28,P Nissanka,FH Edwards,N Dickwella,2,0,2,28,5,5,4,5,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-29,P Nissanka,FH Edwards,N Dickwella,0,1,1,29,5,6,5,5,{'legbyes': 1},legbyes,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-30,N Dickwella,FH Edwards,P Nissanka,1,0,1,30,19,18,6,5,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-31,N Dickwella,JO Holder,P Nissanka,0,0,0,30,19,19,1,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-32,N Dickwella,JO Holder,P Nissanka,4,0,4,34,23,20,2,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-33,N Dickwella,JO Holder,P Nissanka,1,0,1,35,24,21,3,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-34,P Nissanka,JO Holder,N Dickwella,4,0,4,39,9,7,4,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-35,P Nissanka,JO Holder,N Dickwella,0,0,0,39,9,8,5,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-36,P Nissanka,JO Holder,N Dickwella,1,0,1,40,10,9,6,6,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-37,P Nissanka,OC McCoy,N Dickwella,1,0,1,41,11,10,1,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-38,N Dickwella,OC McCoy,P Nissanka,1,0,1,42,25,22,2,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-39,P Nissanka,OC McCoy,N Dickwella,4,0,4,46,15,11,3,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-40,P Nissanka,OC McCoy,N Dickwella,1,0,1,47,16,12,4,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-41,N Dickwella,OC McCoy,P Nissanka,0,0,0,47,25,23,5,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-42,N Dickwella,OC McCoy,P Nissanka,0,0,0,47,25,24,6,7,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-43,P Nissanka,K Sinclair,N Dickwella,0,0,0,47,16,13,1,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-44,P Nissanka,K Sinclair,N Dickwella,4,0,4,51,20,14,2,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-45,P Nissanka,K Sinclair,N Dickwella,6,0,6,57,26,15,3,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-46,P Nissanka,K Sinclair,N Dickwella,1,0,1,58,27,16,4,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-47,N Dickwella,K Sinclair,P Nissanka,1,0,1,59,26,25,5,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-48,P Nissanka,K Sinclair,N Dickwella,1,0,1,60,28,17,6,8,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-49,P Nissanka,OC McCoy,N Dickwella,1,0,1,61,29,18,1,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-50,N Dickwella,OC McCoy,P Nissanka,1,0,1,62,27,26,2,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-51,P Nissanka,OC McCoy,N Dickwella,0,0,0,62,29,19,3,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-52,P Nissanka,OC McCoy,N Dickwella,0,1,1,63,29,20,4,9,{'wides': 1},wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-53,P Nissanka,OC McCoy,N Dickwella,1,0,1,64,30,21,5,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-54,N Dickwella,OC McCoy,P Nissanka,6,0,6,70,33,27,6,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-55,N Dickwella,OC McCoy,P Nissanka,0,0,0,70,33,28,7,9,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-56,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,22,1,10,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-57,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,23,2,10,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-58,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,24,3,10,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-59,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,25,4,10,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-60,P Nissanka,JO Holder,N Dickwella,1,0,1,71,31,26,5,10,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-61,N Dickwella,JO Holder,P Nissanka,0,0,0,71,33,29,6,10,,-,bowled,N Dickwella,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-62,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,27,1,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-63,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,28,2,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-64,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,29,3,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-65,P Nissanka,DJ Bravo,LD Chandimal,4,0,4,75,35,30,4,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-66,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,75,35,31,5,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-67,P Nissanka,DJ Bravo,LD Chandimal,2,0,2,77,37,32,6,11,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-68,LD Chandimal,JO Holder,P Nissanka,1,0,1,78,1,1,1,12,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-69,P Nissanka,JO Holder,LD Chandimal,1,0,1,79,38,33,2,12,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-70,LD Chandimal,JO Holder,P Nissanka,0,0,0,79,1,2,3,12,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-71,LD Chandimal,JO Holder,P Nissanka,0,1,1,80,1,3,4,12,{'legbyes': 1},legbyes,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-72,P Nissanka,JO Holder,LD Chandimal,1,0,1,81,39,34,5,12,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-73,LD Chandimal,JO Holder,P Nissanka,1,0,1,82,2,4,6,12,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-74,LD Chandimal,FA Allen,P Nissanka,1,0,1,83,3,5,1,13,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-75,P Nissanka,FA Allen,LD Chandimal,0,0,0,83,39,35,2,13,,-,stumped,P Nissanka,N Pooran,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-76,AD Mathews,FA Allen,LD Chandimal,1,0,1,84,1,1,3,13,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-77,LD Chandimal,FA Allen,AD Mathews,1,0,1,85,4,6,4,13,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-78,AD Mathews,FA Allen,LD Chandimal,0,0,0,85,1,2,5,13,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-79,AD Mathews,FA Allen,LD Chandimal,1,0,1,86,2,3,6,13,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-80,AD Mathews,FH Edwards,LD Chandimal,1,0,1,87,3,4,1,14,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-81,LD Chandimal,FH Edwards,AD Mathews,6,0,6,93,10,7,2,14,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-82,LD Chandimal,FH Edwards,AD Mathews,0,0,0,93,10,8,3,14,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-83,LD Chandimal,FH Edwards,AD Mathews,1,0,1,94,11,9,4,14,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-84,AD Mathews,FH Edwards,LD Chandimal,2,0,2,96,5,5,5,14,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-85,AD Mathews,FH Edwards,LD Chandimal,0,0,0,96,5,6,6,14,,-,caught,AD Mathews,LMP Simmons,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-86,LD Chandimal,OC McCoy,NLTC Perera,0,1,1,97,11,10,1,15,{'wides': 1},wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-87,LD Chandimal,OC McCoy,NLTC Perera,0,0,0,97,11,11,2,15,,-,caught,LD Chandimal,JO Holder,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-88,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,98,1,1,3,15,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-89,NLTC Perera,OC McCoy,PWH de Silva,0,0,0,98,0,1,4,15,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-90,NLTC Perera,OC McCoy,PWH de Silva,1,0,1,99,1,2,5,15,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-91,PWH de Silva,OC McCoy,NLTC Perera,0,0,0,99,1,2,6,15,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-92,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,100,2,3,7,15,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-93,PWH de Silva,DJ Bravo,NLTC Perera,2,0,2,102,4,4,1,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-94,PWH de Silva,DJ Bravo,NLTC Perera,0,0,0,102,4,5,2,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-95,PWH de Silva,DJ Bravo,NLTC Perera,0,0,0,102,4,6,3,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-96,PWH de Silva,DJ Bravo,NLTC Perera,2,0,2,104,6,7,4,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-97,PWH de Silva,DJ Bravo,NLTC Perera,1,0,1,105,7,8,5,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-98,NLTC Perera,DJ Bravo,PWH de Silva,0,0,0,105,1,3,6,16,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-99,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,106,8,9,1,17,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-100,NLTC Perera,OC McCoy,PWH de Silva,0,0,0,106,1,4,2,17,,-,caught,NLTC Perera,DJ Bravo,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-101,PWH de Silva,OC McCoy,KNA Bandara,1,0,1,107,9,10,3,17,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-102,KNA Bandara,OC McCoy,PWH de Silva,1,0,1,108,1,1,4,17,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-103,PWH de Silva,OC McCoy,KNA Bandara,0,0,0,108,9,11,5,17,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-104,PWH de Silva,OC McCoy,KNA Bandara,1,0,1,109,10,12,6,17,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-105,PWH de Silva,DJ Bravo,KNA Bandara,2,0,2,111,12,13,1,18,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-106,PWH de Silva,DJ Bravo,KNA Bandara,0,0,0,111,12,14,2,18,,-,caught,PWH de Silva,FA Allen,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-107,KNA Bandara,DJ Bravo,A Dananjaya,1,0,1,112,2,2,3,18,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-108,A Dananjaya,DJ Bravo,KNA Bandara,0,0,0,112,0,1,4,18,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-109,A Dananjaya,DJ Bravo,KNA Bandara,1,0,1,113,1,2,5,18,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-110,KNA Bandara,DJ Bravo,A Dananjaya,4,0,4,117,6,3,6,18,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-111,A Dananjaya,FH Edwards,KNA Bandara,2,0,2,119,3,3,1,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-112,A Dananjaya,FH Edwards,KNA Bandara,0,0,0,119,3,4,2,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-113,A Dananjaya,FH Edwards,KNA Bandara,1,0,1,120,4,5,3,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-114,KNA Bandara,FH Edwards,A Dananjaya,2,0,2,122,8,4,4,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-115,KNA Bandara,FH Edwards,A Dananjaya,1,0,1,123,9,5,5,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-116,A Dananjaya,FH Edwards,KNA Bandara,1,0,1,124,5,6,6,19,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-117,A Dananjaya,DJ Bravo,KNA Bandara,0,0,0,124,5,7,1,20,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-118,A Dananjaya,DJ Bravo,KNA Bandara,1,0,1,125,6,8,2,20,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-119,KNA Bandara,DJ Bravo,A Dananjaya,1,0,1,126,10,6,3,20,,-,run out,KNA Bandara,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-120,PVD Chameera,DJ Bravo,A Dananjaya,1,0,1,127,1,1,4,20,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-121,A Dananjaya,DJ Bravo,PVD Chameera,3,0,3,130,9,9,5,20,,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
-122,PVD Chameera,DJ Bravo,A Dananjaya,1,0,1,131,2,2,6,20,,-,run out,PVD Chameera,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,1,1,1,1,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+1,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,2,1,1,2,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+2,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,3,2,2,3,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+3,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,4,2,2,4,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+4,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,5,3,3,5,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+5,MD Gunathilaka,K Sinclair,N Dickwella,1,0,1,6,3,3,6,1,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+6,MD Gunathilaka,FH Edwards,N Dickwella,0,1,1,7,3,4,1,2,wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+7,MD Gunathilaka,FH Edwards,N Dickwella,1,0,1,8,4,5,2,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+8,N Dickwella,FH Edwards,MD Gunathilaka,4,0,4,12,7,4,3,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+9,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,5,4,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+10,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,6,5,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+11,N Dickwella,FH Edwards,MD Gunathilaka,0,0,0,12,7,7,6,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+12,N Dickwella,FH Edwards,MD Gunathilaka,1,0,1,13,8,8,7,2,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+13,N Dickwella,K Sinclair,MD Gunathilaka,2,0,2,15,10,9,1,3,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+14,N Dickwella,K Sinclair,MD Gunathilaka,0,0,0,15,10,10,2,3,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+15,N Dickwella,K Sinclair,MD Gunathilaka,4,0,4,19,14,11,3,3,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+16,N Dickwella,K Sinclair,MD Gunathilaka,1,0,1,20,15,12,4,3,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+17,MD Gunathilaka,K Sinclair,N Dickwella,0,0,0,20,4,6,5,3,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+18,MD Gunathilaka,K Sinclair,N Dickwella,0,0,0,20,4,7,6,3,-,caught,MD Gunathilaka,KA Pollard,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+19,N Dickwella,JO Holder,P Nissanka,2,0,2,22,17,13,1,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+20,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,14,2,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+21,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,15,3,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+22,N Dickwella,JO Holder,P Nissanka,0,0,0,22,17,16,4,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+23,N Dickwella,JO Holder,P Nissanka,1,0,1,23,18,17,5,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+24,P Nissanka,JO Holder,N Dickwella,1,0,1,24,1,1,6,4,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+25,P Nissanka,FH Edwards,N Dickwella,0,0,0,24,1,2,1,5,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+26,P Nissanka,FH Edwards,N Dickwella,0,0,0,24,1,3,2,5,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+27,P Nissanka,FH Edwards,N Dickwella,2,0,2,26,3,4,3,5,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+28,P Nissanka,FH Edwards,N Dickwella,2,0,2,28,5,5,4,5,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+29,P Nissanka,FH Edwards,N Dickwella,0,1,1,29,5,6,5,5,legbyes,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+30,N Dickwella,FH Edwards,P Nissanka,1,0,1,30,19,18,6,5,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+31,N Dickwella,JO Holder,P Nissanka,0,0,0,30,19,19,1,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+32,N Dickwella,JO Holder,P Nissanka,4,0,4,34,23,20,2,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+33,N Dickwella,JO Holder,P Nissanka,1,0,1,35,24,21,3,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+34,P Nissanka,JO Holder,N Dickwella,4,0,4,39,9,7,4,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+35,P Nissanka,JO Holder,N Dickwella,0,0,0,39,9,8,5,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+36,P Nissanka,JO Holder,N Dickwella,1,0,1,40,10,9,6,6,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+37,P Nissanka,OC McCoy,N Dickwella,1,0,1,41,11,10,1,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+38,N Dickwella,OC McCoy,P Nissanka,1,0,1,42,25,22,2,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+39,P Nissanka,OC McCoy,N Dickwella,4,0,4,46,15,11,3,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+40,P Nissanka,OC McCoy,N Dickwella,1,0,1,47,16,12,4,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+41,N Dickwella,OC McCoy,P Nissanka,0,0,0,47,25,23,5,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+42,N Dickwella,OC McCoy,P Nissanka,0,0,0,47,25,24,6,7,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+43,P Nissanka,K Sinclair,N Dickwella,0,0,0,47,16,13,1,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+44,P Nissanka,K Sinclair,N Dickwella,4,0,4,51,20,14,2,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+45,P Nissanka,K Sinclair,N Dickwella,6,0,6,57,26,15,3,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+46,P Nissanka,K Sinclair,N Dickwella,1,0,1,58,27,16,4,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+47,N Dickwella,K Sinclair,P Nissanka,1,0,1,59,26,25,5,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+48,P Nissanka,K Sinclair,N Dickwella,1,0,1,60,28,17,6,8,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+49,P Nissanka,OC McCoy,N Dickwella,1,0,1,61,29,18,1,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+50,N Dickwella,OC McCoy,P Nissanka,1,0,1,62,27,26,2,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+51,P Nissanka,OC McCoy,N Dickwella,0,0,0,62,29,19,3,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+52,P Nissanka,OC McCoy,N Dickwella,0,1,1,63,29,20,4,9,wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+53,P Nissanka,OC McCoy,N Dickwella,1,0,1,64,30,21,5,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+54,N Dickwella,OC McCoy,P Nissanka,6,0,6,70,33,27,6,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+55,N Dickwella,OC McCoy,P Nissanka,0,0,0,70,33,28,7,9,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+56,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,22,1,10,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+57,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,23,2,10,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+58,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,24,3,10,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+59,P Nissanka,JO Holder,N Dickwella,0,0,0,70,30,25,4,10,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+60,P Nissanka,JO Holder,N Dickwella,1,0,1,71,31,26,5,10,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+61,N Dickwella,JO Holder,P Nissanka,0,0,0,71,33,29,6,10,-,bowled,N Dickwella,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+62,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,27,1,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+63,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,28,2,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+64,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,71,31,29,3,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+65,P Nissanka,DJ Bravo,LD Chandimal,4,0,4,75,35,30,4,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+66,P Nissanka,DJ Bravo,LD Chandimal,0,0,0,75,35,31,5,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+67,P Nissanka,DJ Bravo,LD Chandimal,2,0,2,77,37,32,6,11,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+68,LD Chandimal,JO Holder,P Nissanka,1,0,1,78,1,1,1,12,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+69,P Nissanka,JO Holder,LD Chandimal,1,0,1,79,38,33,2,12,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+70,LD Chandimal,JO Holder,P Nissanka,0,0,0,79,1,2,3,12,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+71,LD Chandimal,JO Holder,P Nissanka,0,1,1,80,1,3,4,12,legbyes,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+72,P Nissanka,JO Holder,LD Chandimal,1,0,1,81,39,34,5,12,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+73,LD Chandimal,JO Holder,P Nissanka,1,0,1,82,2,4,6,12,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+74,LD Chandimal,FA Allen,P Nissanka,1,0,1,83,3,5,1,13,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+75,P Nissanka,FA Allen,LD Chandimal,0,0,0,83,39,35,2,13,-,stumped,P Nissanka,N Pooran,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+76,AD Mathews,FA Allen,LD Chandimal,1,0,1,84,1,1,3,13,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+77,LD Chandimal,FA Allen,AD Mathews,1,0,1,85,4,6,4,13,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+78,AD Mathews,FA Allen,LD Chandimal,0,0,0,85,1,2,5,13,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+79,AD Mathews,FA Allen,LD Chandimal,1,0,1,86,2,3,6,13,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+80,AD Mathews,FH Edwards,LD Chandimal,1,0,1,87,3,4,1,14,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+81,LD Chandimal,FH Edwards,AD Mathews,6,0,6,93,10,7,2,14,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+82,LD Chandimal,FH Edwards,AD Mathews,0,0,0,93,10,8,3,14,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+83,LD Chandimal,FH Edwards,AD Mathews,1,0,1,94,11,9,4,14,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+84,AD Mathews,FH Edwards,LD Chandimal,2,0,2,96,5,5,5,14,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+85,AD Mathews,FH Edwards,LD Chandimal,0,0,0,96,5,6,6,14,-,caught,AD Mathews,LMP Simmons,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+86,LD Chandimal,OC McCoy,NLTC Perera,0,1,1,97,11,10,1,15,wides,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+87,LD Chandimal,OC McCoy,NLTC Perera,0,0,0,97,11,11,2,15,-,caught,LD Chandimal,JO Holder,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+88,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,98,1,1,3,15,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+89,NLTC Perera,OC McCoy,PWH de Silva,0,0,0,98,0,1,4,15,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+90,NLTC Perera,OC McCoy,PWH de Silva,1,0,1,99,1,2,5,15,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+91,PWH de Silva,OC McCoy,NLTC Perera,0,0,0,99,1,2,6,15,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+92,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,100,2,3,7,15,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+93,PWH de Silva,DJ Bravo,NLTC Perera,2,0,2,102,4,4,1,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+94,PWH de Silva,DJ Bravo,NLTC Perera,0,0,0,102,4,5,2,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+95,PWH de Silva,DJ Bravo,NLTC Perera,0,0,0,102,4,6,3,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+96,PWH de Silva,DJ Bravo,NLTC Perera,2,0,2,104,6,7,4,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+97,PWH de Silva,DJ Bravo,NLTC Perera,1,0,1,105,7,8,5,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+98,NLTC Perera,DJ Bravo,PWH de Silva,0,0,0,105,1,3,6,16,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+99,PWH de Silva,OC McCoy,NLTC Perera,1,0,1,106,8,9,1,17,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+100,NLTC Perera,OC McCoy,PWH de Silva,0,0,0,106,1,4,2,17,-,caught,NLTC Perera,DJ Bravo,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+101,PWH de Silva,OC McCoy,KNA Bandara,1,0,1,107,9,10,3,17,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+102,KNA Bandara,OC McCoy,PWH de Silva,1,0,1,108,1,1,4,17,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+103,PWH de Silva,OC McCoy,KNA Bandara,0,0,0,108,9,11,5,17,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+104,PWH de Silva,OC McCoy,KNA Bandara,1,0,1,109,10,12,6,17,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+105,PWH de Silva,DJ Bravo,KNA Bandara,2,0,2,111,12,13,1,18,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+106,PWH de Silva,DJ Bravo,KNA Bandara,0,0,0,111,12,14,2,18,-,caught,PWH de Silva,FA Allen,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+107,KNA Bandara,DJ Bravo,A Dananjaya,1,0,1,112,2,2,3,18,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+108,A Dananjaya,DJ Bravo,KNA Bandara,0,0,0,112,0,1,4,18,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+109,A Dananjaya,DJ Bravo,KNA Bandara,1,0,1,113,1,2,5,18,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+110,KNA Bandara,DJ Bravo,A Dananjaya,4,0,4,117,6,3,6,18,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+111,A Dananjaya,FH Edwards,KNA Bandara,2,0,2,119,3,3,1,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+112,A Dananjaya,FH Edwards,KNA Bandara,0,0,0,119,3,4,2,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+113,A Dananjaya,FH Edwards,KNA Bandara,1,0,1,120,4,5,3,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+114,KNA Bandara,FH Edwards,A Dananjaya,2,0,2,122,8,4,4,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+115,KNA Bandara,FH Edwards,A Dananjaya,1,0,1,123,9,5,5,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+116,A Dananjaya,FH Edwards,KNA Bandara,1,0,1,124,5,6,6,19,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+117,A Dananjaya,DJ Bravo,KNA Bandara,0,0,0,124,5,7,1,20,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+118,A Dananjaya,DJ Bravo,KNA Bandara,1,0,1,125,6,8,2,20,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+119,KNA Bandara,DJ Bravo,A Dananjaya,1,0,1,126,10,6,3,20,-,run out,KNA Bandara,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+120,PVD Chameera,DJ Bravo,A Dananjaya,1,0,1,127,1,1,4,20,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+121,A Dananjaya,DJ Bravo,PVD Chameera,3,0,3,130,9,9,5,20,-,0,,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies
+122,PVD Chameera,DJ Bravo,A Dananjaya,1,0,1,131,2,2,6,20,-,run out,PVD Chameera,,field,West Indies,1,"Coolidge Cricket Ground, Antigua",2021-03-03,Sri Lanka,West Indies

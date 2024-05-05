@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,H Masakadza,R Vinay Kumar,BRM Taylor,,1,0,1,1,1,1,1,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-1,BRM Taylor,R Vinay Kumar,H Masakadza,,1,0,1,2,1,1,2,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-2,H Masakadza,R Vinay Kumar,BRM Taylor,,0,0,0,2,1,2,3,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-3,H Masakadza,R Vinay Kumar,BRM Taylor,,0,0,0,2,1,3,4,-,caught,H Masakadza,SK Raina,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-4,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,2,0,1,5,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-5,CJ Chibhabha,R Vinay Kumar,BRM Taylor,{'legbyes': 1},0,1,1,3,0,2,6,legbyes,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-6,CJ Chibhabha,AB Dinda,BRM Taylor,,1,0,1,4,1,3,1,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-7,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,4,1,2,2,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-8,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,4,1,3,3,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-9,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,4,1,4,4,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-10,BRM Taylor,AB Dinda,CJ Chibhabha,{'noballs': 1},4,1,5,9,5,5,5,noballs,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-11,BRM Taylor,AB Dinda,CJ Chibhabha,,4,0,4,13,9,6,6,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-12,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,13,9,7,7,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-13,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,13,1,4,1,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-14,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,4,0,4,17,5,5,2,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-15,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,6,0,6,23,11,6,3,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-16,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,1,0,1,24,12,7,4,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-17,BRM Taylor,R Vinay Kumar,CJ Chibhabha,,6,0,6,30,15,8,5,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-18,BRM Taylor,R Vinay Kumar,CJ Chibhabha,,0,0,0,30,15,9,6,-,lbw,BRM Taylor,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-19,CJ Chibhabha,AB Dinda,T Taibu,,1,0,1,31,13,8,1,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-20,T Taibu,AB Dinda,CJ Chibhabha,,0,0,0,31,0,1,2,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-21,T Taibu,AB Dinda,CJ Chibhabha,,1,0,1,32,1,2,3,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-22,CJ Chibhabha,AB Dinda,T Taibu,,0,0,0,32,13,9,4,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-23,CJ Chibhabha,AB Dinda,T Taibu,{'noballs': 1},0,1,1,33,13,10,5,noballs,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-24,CJ Chibhabha,AB Dinda,T Taibu,,4,0,4,37,17,11,6,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-25,CJ Chibhabha,AB Dinda,T Taibu,,4,0,4,41,21,12,7,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-26,T Taibu,PP Ojha,CJ Chibhabha,,1,0,1,42,2,3,1,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-27,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,42,21,13,2,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-28,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,42,21,14,3,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-29,CJ Chibhabha,PP Ojha,T Taibu,,1,0,1,43,22,15,4,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-30,T Taibu,PP Ojha,CJ Chibhabha,,1,0,1,44,3,4,5,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-31,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,44,22,16,6,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-32,T Taibu,R Ashwin,CJ Chibhabha,,1,0,1,45,4,5,1,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-33,CJ Chibhabha,R Ashwin,T Taibu,,1,0,1,46,23,17,2,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-34,T Taibu,R Ashwin,CJ Chibhabha,,0,0,0,46,4,6,3,-,caught,T Taibu,RG Sharma,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-35,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,46,0,1,4,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-36,CR Ervine,R Ashwin,CJ Chibhabha,,1,0,1,47,1,2,5,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-37,CJ Chibhabha,R Ashwin,CR Ervine,,4,0,4,51,27,18,6,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-38,CR Ervine,PP Ojha,CJ Chibhabha,,0,0,0,51,1,3,1,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-39,CR Ervine,PP Ojha,CJ Chibhabha,{'legbyes': 1},0,1,1,52,1,4,2,legbyes,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-40,CJ Chibhabha,PP Ojha,CR Ervine,{'wides': 1},0,1,1,53,27,19,3,wides,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-41,CJ Chibhabha,PP Ojha,CR Ervine,,1,0,1,54,28,20,4,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-42,CR Ervine,PP Ojha,CJ Chibhabha,,1,0,1,55,2,5,5,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-43,CJ Chibhabha,PP Ojha,CR Ervine,,1,0,1,56,29,21,6,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-44,CR Ervine,PP Ojha,CJ Chibhabha,,1,0,1,57,3,6,7,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-45,CR Ervine,R Ashwin,CJ Chibhabha,,1,0,1,58,4,7,1,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-46,CJ Chibhabha,R Ashwin,CR Ervine,,4,0,4,62,33,22,2,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-47,CJ Chibhabha,R Ashwin,CR Ervine,,0,0,0,62,33,23,3,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-48,CJ Chibhabha,R Ashwin,CR Ervine,,1,0,1,63,34,24,4,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-49,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,63,4,8,5,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-50,CR Ervine,R Ashwin,CJ Chibhabha,,1,0,1,64,5,9,6,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-51,CR Ervine,PP Chawla,CJ Chibhabha,,1,0,1,65,6,10,1,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-52,CJ Chibhabha,PP Chawla,CR Ervine,,1,0,1,66,35,25,2,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-53,CR Ervine,PP Chawla,CJ Chibhabha,,1,0,1,67,7,11,3,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-54,CJ Chibhabha,PP Chawla,CR Ervine,,1,0,1,68,36,26,4,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-55,CR Ervine,PP Chawla,CJ Chibhabha,,0,0,0,68,7,12,5,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-56,CR Ervine,PP Chawla,CJ Chibhabha,,0,0,0,68,7,13,6,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-57,CJ Chibhabha,R Ashwin,CR Ervine,,1,0,1,69,37,27,1,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-58,CR Ervine,R Ashwin,CJ Chibhabha,,1,0,1,70,8,14,2,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-59,CJ Chibhabha,R Ashwin,CR Ervine,,2,0,2,72,39,28,3,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-60,CJ Chibhabha,R Ashwin,CR Ervine,,1,0,1,73,40,29,4,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-61,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,73,8,15,5,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-62,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,73,8,16,6,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-63,CJ Chibhabha,PP Chawla,CR Ervine,,0,0,0,73,40,30,1,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-64,CJ Chibhabha,PP Chawla,CR Ervine,,0,0,0,73,40,31,2,-,lbw,CJ Chibhabha,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-65,E Chigumbura,PP Chawla,CR Ervine,,0,0,0,73,0,1,3,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-66,E Chigumbura,PP Chawla,CR Ervine,,0,0,0,73,0,2,4,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-67,E Chigumbura,PP Chawla,CR Ervine,,1,0,1,74,1,3,5,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-68,CR Ervine,PP Chawla,E Chigumbura,,2,0,2,76,10,17,6,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-69,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,76,1,4,1,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-70,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,76,1,5,2,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-71,E Chigumbura,PP Ojha,CR Ervine,,1,0,1,77,2,6,3,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-72,CR Ervine,PP Ojha,E Chigumbura,,0,0,0,77,10,18,4,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-73,CR Ervine,PP Ojha,E Chigumbura,,1,0,1,78,11,19,5,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-74,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,78,2,7,6,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-75,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,78,11,20,1,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-76,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,78,11,21,2,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-77,CR Ervine,PP Chawla,E Chigumbura,,1,0,1,79,12,22,3,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-78,E Chigumbura,PP Chawla,CR Ervine,,1,0,1,80,3,8,4,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-79,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,80,12,23,5,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-80,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,80,12,24,6,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-81,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,80,3,9,1,-,caught,E Chigumbura,M Vijay,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-82,CR Ervine,PP Ojha,GA Lamb,,1,0,1,81,13,25,2,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-83,GA Lamb,PP Ojha,CR Ervine,,0,0,0,81,0,1,3,-,lbw,GA Lamb,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-84,P Utseya,PP Ojha,CR Ervine,,0,0,0,81,0,1,4,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-85,P Utseya,PP Ojha,CR Ervine,,0,0,0,81,0,2,5,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-86,P Utseya,PP Ojha,CR Ervine,,0,0,0,81,0,3,6,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-87,CR Ervine,R Ashwin,P Utseya,,1,0,1,82,14,26,1,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-88,P Utseya,R Ashwin,CR Ervine,,1,0,1,83,1,4,2,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-89,CR Ervine,R Ashwin,P Utseya,,0,0,0,83,14,27,3,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-90,CR Ervine,R Ashwin,P Utseya,,1,0,1,84,15,28,4,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-91,P Utseya,R Ashwin,CR Ervine,,0,0,0,84,1,5,5,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-92,P Utseya,R Ashwin,CR Ervine,,0,0,0,84,1,6,6,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-93,CR Ervine,YK Pathan,P Utseya,,0,0,0,84,15,29,1,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-94,CR Ervine,YK Pathan,P Utseya,,1,0,1,85,16,30,2,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-95,P Utseya,YK Pathan,CR Ervine,,0,0,0,85,1,7,3,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-96,P Utseya,YK Pathan,CR Ervine,,0,0,0,85,1,8,4,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-97,P Utseya,YK Pathan,CR Ervine,,1,0,1,86,2,9,5,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-98,CR Ervine,YK Pathan,P Utseya,,1,0,1,87,17,31,6,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-99,CR Ervine,PP Chawla,P Utseya,,1,0,1,88,18,32,1,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-100,P Utseya,PP Chawla,CR Ervine,,1,0,1,89,3,10,2,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-101,CR Ervine,PP Chawla,P Utseya,,1,0,1,90,19,33,3,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-102,P Utseya,PP Chawla,CR Ervine,,0,0,0,90,3,11,4,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-103,P Utseya,PP Chawla,CR Ervine,,1,0,1,91,4,12,5,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-104,CR Ervine,PP Chawla,P Utseya,,1,0,1,92,20,34,6,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-105,CR Ervine,YK Pathan,P Utseya,,0,0,0,92,20,35,1,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-106,CR Ervine,YK Pathan,P Utseya,,4,0,4,96,24,36,2,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-107,CR Ervine,YK Pathan,P Utseya,,1,0,1,97,25,37,3,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-108,P Utseya,YK Pathan,CR Ervine,,1,0,1,98,5,13,4,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-109,CR Ervine,YK Pathan,P Utseya,,0,0,0,98,25,38,5,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-110,CR Ervine,YK Pathan,P Utseya,,1,0,1,99,26,39,6,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-111,CR Ervine,AB Dinda,P Utseya,,4,0,4,103,30,40,1,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-112,CR Ervine,AB Dinda,P Utseya,,0,0,0,103,30,41,2,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-113,CR Ervine,AB Dinda,P Utseya,,0,0,0,103,30,42,3,-,bowled,CR Ervine,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-114,RW Price,AB Dinda,P Utseya,,2,0,2,105,2,1,4,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-115,RW Price,AB Dinda,P Utseya,,0,0,0,105,2,2,5,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-116,RW Price,AB Dinda,P Utseya,,0,0,0,105,2,3,6,-,bowled,RW Price,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-117,P Utseya,R Vinay Kumar,EC Rainsford,,1,0,1,106,6,14,1,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-118,EC Rainsford,R Vinay Kumar,P Utseya,{'legbyes': 1},0,1,1,107,0,1,2,legbyes,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-119,P Utseya,R Vinay Kumar,EC Rainsford,,0,0,0,107,6,15,3,-,bowled,P Utseya,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-120,CB Mpofu,R Vinay Kumar,EC Rainsford,,1,0,1,108,1,1,4,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-121,EC Rainsford,R Vinay Kumar,CB Mpofu,,1,0,1,109,1,2,5,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
-122,CB Mpofu,R Vinay Kumar,EC Rainsford,,2,0,2,111,3,2,6,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,H Masakadza,R Vinay Kumar,BRM Taylor,1,0,1,1,1,1,1,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+1,BRM Taylor,R Vinay Kumar,H Masakadza,1,0,1,2,1,1,2,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+2,H Masakadza,R Vinay Kumar,BRM Taylor,0,0,0,2,1,2,3,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+3,H Masakadza,R Vinay Kumar,BRM Taylor,0,0,0,2,1,3,4,-,caught,H Masakadza,SK Raina,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+4,CJ Chibhabha,R Vinay Kumar,BRM Taylor,0,0,0,2,0,1,5,-,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+5,CJ Chibhabha,R Vinay Kumar,BRM Taylor,0,1,1,3,0,2,6,legbyes,0,,,1,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+6,CJ Chibhabha,AB Dinda,BRM Taylor,1,0,1,4,1,3,1,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+7,BRM Taylor,AB Dinda,CJ Chibhabha,0,0,0,4,1,2,2,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+8,BRM Taylor,AB Dinda,CJ Chibhabha,0,0,0,4,1,3,3,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+9,BRM Taylor,AB Dinda,CJ Chibhabha,0,0,0,4,1,4,4,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+10,BRM Taylor,AB Dinda,CJ Chibhabha,4,1,5,9,5,5,5,noballs,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+11,BRM Taylor,AB Dinda,CJ Chibhabha,4,0,4,13,9,6,6,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+12,BRM Taylor,AB Dinda,CJ Chibhabha,0,0,0,13,9,7,7,-,0,,,2,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+13,CJ Chibhabha,R Vinay Kumar,BRM Taylor,0,0,0,13,1,4,1,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+14,CJ Chibhabha,R Vinay Kumar,BRM Taylor,4,0,4,17,5,5,2,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+15,CJ Chibhabha,R Vinay Kumar,BRM Taylor,6,0,6,23,11,6,3,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+16,CJ Chibhabha,R Vinay Kumar,BRM Taylor,1,0,1,24,12,7,4,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+17,BRM Taylor,R Vinay Kumar,CJ Chibhabha,6,0,6,30,15,8,5,-,0,,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+18,BRM Taylor,R Vinay Kumar,CJ Chibhabha,0,0,0,30,15,9,6,-,lbw,BRM Taylor,,3,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+19,CJ Chibhabha,AB Dinda,T Taibu,1,0,1,31,13,8,1,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+20,T Taibu,AB Dinda,CJ Chibhabha,0,0,0,31,0,1,2,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+21,T Taibu,AB Dinda,CJ Chibhabha,1,0,1,32,1,2,3,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+22,CJ Chibhabha,AB Dinda,T Taibu,0,0,0,32,13,9,4,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+23,CJ Chibhabha,AB Dinda,T Taibu,0,1,1,33,13,10,5,noballs,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+24,CJ Chibhabha,AB Dinda,T Taibu,4,0,4,37,17,11,6,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+25,CJ Chibhabha,AB Dinda,T Taibu,4,0,4,41,21,12,7,-,0,,,4,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+26,T Taibu,PP Ojha,CJ Chibhabha,1,0,1,42,2,3,1,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+27,CJ Chibhabha,PP Ojha,T Taibu,0,0,0,42,21,13,2,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+28,CJ Chibhabha,PP Ojha,T Taibu,0,0,0,42,21,14,3,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+29,CJ Chibhabha,PP Ojha,T Taibu,1,0,1,43,22,15,4,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+30,T Taibu,PP Ojha,CJ Chibhabha,1,0,1,44,3,4,5,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+31,CJ Chibhabha,PP Ojha,T Taibu,0,0,0,44,22,16,6,-,0,,,5,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+32,T Taibu,R Ashwin,CJ Chibhabha,1,0,1,45,4,5,1,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+33,CJ Chibhabha,R Ashwin,T Taibu,1,0,1,46,23,17,2,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+34,T Taibu,R Ashwin,CJ Chibhabha,0,0,0,46,4,6,3,-,caught,T Taibu,RG Sharma,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+35,CR Ervine,R Ashwin,CJ Chibhabha,0,0,0,46,0,1,4,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+36,CR Ervine,R Ashwin,CJ Chibhabha,1,0,1,47,1,2,5,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+37,CJ Chibhabha,R Ashwin,CR Ervine,4,0,4,51,27,18,6,-,0,,,6,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+38,CR Ervine,PP Ojha,CJ Chibhabha,0,0,0,51,1,3,1,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+39,CR Ervine,PP Ojha,CJ Chibhabha,0,1,1,52,1,4,2,legbyes,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+40,CJ Chibhabha,PP Ojha,CR Ervine,0,1,1,53,27,19,3,wides,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+41,CJ Chibhabha,PP Ojha,CR Ervine,1,0,1,54,28,20,4,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+42,CR Ervine,PP Ojha,CJ Chibhabha,1,0,1,55,2,5,5,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+43,CJ Chibhabha,PP Ojha,CR Ervine,1,0,1,56,29,21,6,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+44,CR Ervine,PP Ojha,CJ Chibhabha,1,0,1,57,3,6,7,-,0,,,7,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+45,CR Ervine,R Ashwin,CJ Chibhabha,1,0,1,58,4,7,1,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+46,CJ Chibhabha,R Ashwin,CR Ervine,4,0,4,62,33,22,2,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+47,CJ Chibhabha,R Ashwin,CR Ervine,0,0,0,62,33,23,3,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+48,CJ Chibhabha,R Ashwin,CR Ervine,1,0,1,63,34,24,4,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+49,CR Ervine,R Ashwin,CJ Chibhabha,0,0,0,63,4,8,5,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+50,CR Ervine,R Ashwin,CJ Chibhabha,1,0,1,64,5,9,6,-,0,,,8,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+51,CR Ervine,PP Chawla,CJ Chibhabha,1,0,1,65,6,10,1,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+52,CJ Chibhabha,PP Chawla,CR Ervine,1,0,1,66,35,25,2,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+53,CR Ervine,PP Chawla,CJ Chibhabha,1,0,1,67,7,11,3,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+54,CJ Chibhabha,PP Chawla,CR Ervine,1,0,1,68,36,26,4,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+55,CR Ervine,PP Chawla,CJ Chibhabha,0,0,0,68,7,12,5,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+56,CR Ervine,PP Chawla,CJ Chibhabha,0,0,0,68,7,13,6,-,0,,,9,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+57,CJ Chibhabha,R Ashwin,CR Ervine,1,0,1,69,37,27,1,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+58,CR Ervine,R Ashwin,CJ Chibhabha,1,0,1,70,8,14,2,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+59,CJ Chibhabha,R Ashwin,CR Ervine,2,0,2,72,39,28,3,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+60,CJ Chibhabha,R Ashwin,CR Ervine,1,0,1,73,40,29,4,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+61,CR Ervine,R Ashwin,CJ Chibhabha,0,0,0,73,8,15,5,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+62,CR Ervine,R Ashwin,CJ Chibhabha,0,0,0,73,8,16,6,-,0,,,10,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+63,CJ Chibhabha,PP Chawla,CR Ervine,0,0,0,73,40,30,1,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+64,CJ Chibhabha,PP Chawla,CR Ervine,0,0,0,73,40,31,2,-,lbw,CJ Chibhabha,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+65,E Chigumbura,PP Chawla,CR Ervine,0,0,0,73,0,1,3,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+66,E Chigumbura,PP Chawla,CR Ervine,0,0,0,73,0,2,4,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+67,E Chigumbura,PP Chawla,CR Ervine,1,0,1,74,1,3,5,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+68,CR Ervine,PP Chawla,E Chigumbura,2,0,2,76,10,17,6,-,0,,,11,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+69,E Chigumbura,PP Ojha,CR Ervine,0,0,0,76,1,4,1,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+70,E Chigumbura,PP Ojha,CR Ervine,0,0,0,76,1,5,2,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+71,E Chigumbura,PP Ojha,CR Ervine,1,0,1,77,2,6,3,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+72,CR Ervine,PP Ojha,E Chigumbura,0,0,0,77,10,18,4,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+73,CR Ervine,PP Ojha,E Chigumbura,1,0,1,78,11,19,5,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+74,E Chigumbura,PP Ojha,CR Ervine,0,0,0,78,2,7,6,-,0,,,12,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+75,CR Ervine,PP Chawla,E Chigumbura,0,0,0,78,11,20,1,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+76,CR Ervine,PP Chawla,E Chigumbura,0,0,0,78,11,21,2,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+77,CR Ervine,PP Chawla,E Chigumbura,1,0,1,79,12,22,3,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+78,E Chigumbura,PP Chawla,CR Ervine,1,0,1,80,3,8,4,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+79,CR Ervine,PP Chawla,E Chigumbura,0,0,0,80,12,23,5,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+80,CR Ervine,PP Chawla,E Chigumbura,0,0,0,80,12,24,6,-,0,,,13,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+81,E Chigumbura,PP Ojha,CR Ervine,0,0,0,80,3,9,1,-,caught,E Chigumbura,M Vijay,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+82,CR Ervine,PP Ojha,GA Lamb,1,0,1,81,13,25,2,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+83,GA Lamb,PP Ojha,CR Ervine,0,0,0,81,0,1,3,-,lbw,GA Lamb,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+84,P Utseya,PP Ojha,CR Ervine,0,0,0,81,0,1,4,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+85,P Utseya,PP Ojha,CR Ervine,0,0,0,81,0,2,5,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+86,P Utseya,PP Ojha,CR Ervine,0,0,0,81,0,3,6,-,0,,,14,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+87,CR Ervine,R Ashwin,P Utseya,1,0,1,82,14,26,1,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+88,P Utseya,R Ashwin,CR Ervine,1,0,1,83,1,4,2,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+89,CR Ervine,R Ashwin,P Utseya,0,0,0,83,14,27,3,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+90,CR Ervine,R Ashwin,P Utseya,1,0,1,84,15,28,4,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+91,P Utseya,R Ashwin,CR Ervine,0,0,0,84,1,5,5,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+92,P Utseya,R Ashwin,CR Ervine,0,0,0,84,1,6,6,-,0,,,15,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+93,CR Ervine,YK Pathan,P Utseya,0,0,0,84,15,29,1,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+94,CR Ervine,YK Pathan,P Utseya,1,0,1,85,16,30,2,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+95,P Utseya,YK Pathan,CR Ervine,0,0,0,85,1,7,3,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+96,P Utseya,YK Pathan,CR Ervine,0,0,0,85,1,8,4,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+97,P Utseya,YK Pathan,CR Ervine,1,0,1,86,2,9,5,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+98,CR Ervine,YK Pathan,P Utseya,1,0,1,87,17,31,6,-,0,,,16,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+99,CR Ervine,PP Chawla,P Utseya,1,0,1,88,18,32,1,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+100,P Utseya,PP Chawla,CR Ervine,1,0,1,89,3,10,2,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+101,CR Ervine,PP Chawla,P Utseya,1,0,1,90,19,33,3,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+102,P Utseya,PP Chawla,CR Ervine,0,0,0,90,3,11,4,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+103,P Utseya,PP Chawla,CR Ervine,1,0,1,91,4,12,5,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+104,CR Ervine,PP Chawla,P Utseya,1,0,1,92,20,34,6,-,0,,,17,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+105,CR Ervine,YK Pathan,P Utseya,0,0,0,92,20,35,1,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+106,CR Ervine,YK Pathan,P Utseya,4,0,4,96,24,36,2,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+107,CR Ervine,YK Pathan,P Utseya,1,0,1,97,25,37,3,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+108,P Utseya,YK Pathan,CR Ervine,1,0,1,98,5,13,4,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+109,CR Ervine,YK Pathan,P Utseya,0,0,0,98,25,38,5,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+110,CR Ervine,YK Pathan,P Utseya,1,0,1,99,26,39,6,-,0,,,18,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+111,CR Ervine,AB Dinda,P Utseya,4,0,4,103,30,40,1,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+112,CR Ervine,AB Dinda,P Utseya,0,0,0,103,30,41,2,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+113,CR Ervine,AB Dinda,P Utseya,0,0,0,103,30,42,3,-,bowled,CR Ervine,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+114,RW Price,AB Dinda,P Utseya,2,0,2,105,2,1,4,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+115,RW Price,AB Dinda,P Utseya,0,0,0,105,2,2,5,-,0,,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+116,RW Price,AB Dinda,P Utseya,0,0,0,105,2,3,6,-,bowled,RW Price,,19,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+117,P Utseya,R Vinay Kumar,EC Rainsford,1,0,1,106,6,14,1,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+118,EC Rainsford,R Vinay Kumar,P Utseya,0,1,1,107,0,1,2,legbyes,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+119,P Utseya,R Vinay Kumar,EC Rainsford,0,0,0,107,6,15,3,-,bowled,P Utseya,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+120,CB Mpofu,R Vinay Kumar,EC Rainsford,1,0,1,108,1,1,4,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+121,EC Rainsford,R Vinay Kumar,CB Mpofu,1,0,1,109,1,2,5,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India
+122,CB Mpofu,R Vinay Kumar,EC Rainsford,2,0,2,111,3,2,6,-,0,,,20,field,India,1,Harare Sports Club,2010-06-12,Zimbabwe,India

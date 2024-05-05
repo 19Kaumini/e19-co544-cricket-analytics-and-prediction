@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,AD Hales,SS Cottrell,JM Bairstow,,6,0,6,6,6,1,1,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-1,AD Hales,SS Cottrell,JM Bairstow,,4,0,4,10,10,2,2,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-2,AD Hales,SS Cottrell,JM Bairstow,{'legbyes': 4},0,4,4,14,10,3,3,legbyes,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-3,AD Hales,SS Cottrell,JM Bairstow,,1,0,1,15,11,4,4,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-4,JM Bairstow,SS Cottrell,AD Hales,,1,0,1,16,1,1,5,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-5,AD Hales,SS Cottrell,JM Bairstow,{'wides': 1},0,1,1,17,11,5,6,wides,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-6,AD Hales,SS Cottrell,JM Bairstow,,0,0,0,17,11,6,7,-,bowled,AD Hales,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-7,JM Bairstow,O Thomas,JE Root,{'wides': 1},0,1,1,18,1,2,1,wides,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-8,JM Bairstow,O Thomas,JE Root,,4,0,4,22,5,3,2,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-9,JM Bairstow,O Thomas,JE Root,,4,0,4,26,9,4,3,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-10,JM Bairstow,O Thomas,JE Root,,4,0,4,30,13,5,4,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-11,JM Bairstow,O Thomas,JE Root,,0,0,0,30,13,6,5,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-12,JM Bairstow,O Thomas,JE Root,,0,0,0,30,13,7,6,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-13,JM Bairstow,O Thomas,JE Root,,1,0,1,31,14,8,7,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-14,JM Bairstow,SS Cottrell,JE Root,,1,0,1,32,15,9,1,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-15,JE Root,SS Cottrell,JM Bairstow,,0,0,0,32,0,1,2,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-16,JE Root,SS Cottrell,JM Bairstow,,0,0,0,32,0,2,3,-,lbw,JE Root,,3,"{'by': 'England', 'umpire': 'N Duguid', 'batter': 'JE Root', 'decision': 'struck down', 'umpires_call': True}",field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-17,EJG Morgan,SS Cottrell,JM Bairstow,,0,0,0,32,0,1,4,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-18,EJG Morgan,SS Cottrell,JM Bairstow,,0,0,0,32,0,2,5,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-19,EJG Morgan,SS Cottrell,JM Bairstow,{'wides': 1},0,1,1,33,0,3,6,wides,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-20,EJG Morgan,SS Cottrell,JM Bairstow,,0,0,0,33,0,4,7,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-21,JM Bairstow,AR Nurse,EJG Morgan,,0,0,0,33,15,10,1,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-22,JM Bairstow,AR Nurse,EJG Morgan,,0,0,0,33,15,11,2,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-23,JM Bairstow,AR Nurse,EJG Morgan,,4,0,4,37,19,12,3,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-24,JM Bairstow,AR Nurse,EJG Morgan,,0,0,0,37,19,13,4,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-25,JM Bairstow,AR Nurse,EJG Morgan,,4,0,4,41,23,14,5,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-26,JM Bairstow,AR Nurse,EJG Morgan,,6,0,6,47,29,15,6,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-27,EJG Morgan,O Thomas,JM Bairstow,,4,0,4,51,4,5,1,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-28,EJG Morgan,O Thomas,JM Bairstow,,0,0,0,51,4,6,2,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-29,EJG Morgan,O Thomas,JM Bairstow,,0,0,0,51,4,7,3,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-30,EJG Morgan,O Thomas,JM Bairstow,{'byes': 4},0,4,4,55,4,8,4,byes,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-31,EJG Morgan,O Thomas,JM Bairstow,,0,0,0,55,4,9,5,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-32,EJG Morgan,O Thomas,JM Bairstow,,0,0,0,55,4,10,6,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-33,JM Bairstow,JO Holder,EJG Morgan,,1,0,1,56,30,16,1,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-34,EJG Morgan,JO Holder,JM Bairstow,,0,0,0,56,4,11,2,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-35,EJG Morgan,JO Holder,JM Bairstow,,1,0,1,57,5,12,3,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-36,JM Bairstow,JO Holder,EJG Morgan,,2,0,2,59,32,17,4,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-37,JM Bairstow,JO Holder,EJG Morgan,{'wides': 1},0,1,1,60,32,18,5,wides,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-38,JM Bairstow,JO Holder,EJG Morgan,,0,0,0,60,32,19,6,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-39,JM Bairstow,JO Holder,EJG Morgan,{'wides': 1},0,1,1,61,32,20,7,wides,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-40,JM Bairstow,JO Holder,EJG Morgan,,1,0,1,62,33,21,8,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-41,JM Bairstow,CR Brathwaite,EJG Morgan,,1,0,1,63,34,22,1,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-42,EJG Morgan,CR Brathwaite,JM Bairstow,,0,0,0,63,5,13,2,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-43,EJG Morgan,CR Brathwaite,JM Bairstow,,1,0,1,64,6,14,3,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-44,JM Bairstow,CR Brathwaite,EJG Morgan,,0,0,0,64,34,23,4,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-45,JM Bairstow,CR Brathwaite,EJG Morgan,,0,0,0,64,34,24,5,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-46,JM Bairstow,CR Brathwaite,EJG Morgan,,4,0,4,68,38,25,6,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-47,EJG Morgan,JO Holder,JM Bairstow,,1,0,1,69,7,15,1,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-48,JM Bairstow,JO Holder,EJG Morgan,,4,0,4,73,42,26,2,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-49,JM Bairstow,JO Holder,EJG Morgan,,1,0,1,74,43,27,3,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-50,EJG Morgan,JO Holder,JM Bairstow,,1,0,1,75,8,16,4,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-51,JM Bairstow,JO Holder,EJG Morgan,,0,0,0,75,43,28,5,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-52,JM Bairstow,JO Holder,EJG Morgan,,1,0,1,76,44,29,6,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-53,JM Bairstow,CR Brathwaite,EJG Morgan,,6,0,6,82,50,30,1,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-54,JM Bairstow,CR Brathwaite,EJG Morgan,,1,0,1,83,51,31,2,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-55,EJG Morgan,CR Brathwaite,JM Bairstow,,0,0,0,83,8,17,3,-,caught,EJG Morgan,CH Gayle,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-56,JL Denly,CR Brathwaite,JM Bairstow,,1,0,1,84,1,1,4,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-57,JM Bairstow,CR Brathwaite,JL Denly,,1,0,1,85,52,32,5,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-58,JL Denly,CR Brathwaite,JM Bairstow,,0,0,0,85,1,2,6,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-59,JM Bairstow,AR Nurse,JL Denly,,0,0,0,85,52,33,1,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-60,JM Bairstow,AR Nurse,JL Denly,,2,0,2,87,54,34,2,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-61,JM Bairstow,AR Nurse,JL Denly,,1,0,1,88,55,35,3,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-62,JL Denly,AR Nurse,JM Bairstow,,1,0,1,89,2,3,4,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-63,JM Bairstow,AR Nurse,JL Denly,,1,0,1,90,56,36,5,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-64,JL Denly,AR Nurse,JM Bairstow,,0,0,0,90,2,4,6,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-65,JM Bairstow,CR Brathwaite,JL Denly,,4,0,4,94,60,37,1,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-66,JM Bairstow,CR Brathwaite,JL Denly,,0,0,0,94,60,38,2,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-67,JM Bairstow,CR Brathwaite,JL Denly,,4,0,4,98,64,39,3,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-68,JM Bairstow,CR Brathwaite,JL Denly,,2,0,2,100,66,40,4,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-69,JM Bairstow,CR Brathwaite,JL Denly,,1,0,1,101,67,41,5,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-70,JL Denly,CR Brathwaite,JM Bairstow,,0,0,0,101,2,5,6,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-71,JM Bairstow,AR Nurse,JL Denly,,1,0,1,102,68,42,1,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-72,JL Denly,AR Nurse,JM Bairstow,,1,0,1,103,3,6,2,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-73,JM Bairstow,AR Nurse,JL Denly,,0,0,0,103,68,43,3,-,caught,JM Bairstow,CR Brathwaite,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-74,SW Billings,AR Nurse,JL Denly,,1,0,1,104,1,1,4,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-75,JL Denly,AR Nurse,SW Billings,,0,0,0,104,3,7,5,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-76,JL Denly,AR Nurse,SW Billings,,2,0,2,106,5,8,6,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-77,SW Billings,FA Allen,JL Denly,,0,0,0,106,1,2,1,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-78,SW Billings,FA Allen,JL Denly,,1,0,1,107,2,3,2,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-79,JL Denly,FA Allen,SW Billings,,4,0,4,111,9,9,3,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-80,JL Denly,FA Allen,SW Billings,,1,0,1,112,10,10,4,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-81,SW Billings,FA Allen,JL Denly,,2,0,2,114,4,4,5,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-82,SW Billings,FA Allen,JL Denly,,0,0,0,114,4,5,6,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-83,JL Denly,AR Nurse,SW Billings,,1,0,1,115,11,11,1,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-84,SW Billings,AR Nurse,JL Denly,,1,0,1,116,5,6,2,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-85,JL Denly,AR Nurse,SW Billings,,0,0,0,116,11,12,3,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-86,JL Denly,AR Nurse,SW Billings,,4,0,4,120,15,13,4,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-87,JL Denly,AR Nurse,SW Billings,,1,0,1,121,16,14,5,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-88,SW Billings,AR Nurse,JL Denly,,1,0,1,122,6,7,6,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-89,SW Billings,SS Cottrell,JL Denly,{'wides': 1},0,1,1,123,6,8,1,wides,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-90,SW Billings,SS Cottrell,JL Denly,,1,0,1,124,7,9,2,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-91,JL Denly,SS Cottrell,SW Billings,,0,0,0,124,16,15,3,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-92,JL Denly,SS Cottrell,SW Billings,,4,0,4,128,20,16,4,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-93,JL Denly,SS Cottrell,SW Billings,,0,0,0,128,20,17,5,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-94,JL Denly,SS Cottrell,SW Billings,,1,0,1,129,21,18,6,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-95,SW Billings,SS Cottrell,JL Denly,,4,0,4,133,11,10,7,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-96,JL Denly,JO Holder,SW Billings,,0,0,0,133,21,19,1,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-97,JL Denly,JO Holder,SW Billings,,2,0,2,135,23,20,2,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-98,JL Denly,JO Holder,SW Billings,,0,0,0,135,23,21,3,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-99,JL Denly,JO Holder,SW Billings,,4,0,4,139,27,22,4,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-100,JL Denly,JO Holder,SW Billings,,1,0,1,140,28,23,5,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-101,SW Billings,JO Holder,JL Denly,,1,0,1,141,12,11,6,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-102,SW Billings,CR Brathwaite,JL Denly,,1,0,1,142,13,12,1,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-103,JL Denly,CR Brathwaite,SW Billings,,1,0,1,143,29,24,2,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-104,SW Billings,CR Brathwaite,JL Denly,{'wides': 1},0,1,1,144,13,13,3,wides,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-105,SW Billings,CR Brathwaite,JL Denly,{'wides': 1},0,1,1,145,13,14,4,wides,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-106,SW Billings,CR Brathwaite,JL Denly,,2,0,2,147,15,15,5,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-107,SW Billings,CR Brathwaite,JL Denly,,1,0,1,148,16,16,6,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-108,JL Denly,CR Brathwaite,SW Billings,{'legbyes': 2},0,2,2,150,29,25,7,legbyes,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-109,JL Denly,CR Brathwaite,SW Billings,{'legbyes': 1},0,1,1,151,29,26,8,legbyes,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-110,JL Denly,JO Holder,SW Billings,,1,0,1,152,30,27,1,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-111,SW Billings,JO Holder,JL Denly,,1,0,1,153,17,17,2,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-112,JL Denly,JO Holder,SW Billings,,0,0,0,153,30,28,3,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-113,JL Denly,JO Holder,SW Billings,,0,0,0,153,30,29,4,-,caught,JL Denly,N Pooran,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-114,SW Billings,JO Holder,DJ Willey,,1,0,1,154,18,18,5,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-115,DJ Willey,JO Holder,SW Billings,,0,0,0,154,0,1,6,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-116,SW Billings,SS Cottrell,DJ Willey,,0,0,0,154,18,19,1,-,bowled,SW Billings,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-117,TK Curran,SS Cottrell,DJ Willey,,1,0,1,155,1,1,2,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-118,DJ Willey,SS Cottrell,TK Curran,{'byes': 4},0,4,4,159,0,2,3,byes,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-119,DJ Willey,SS Cottrell,TK Curran,,1,0,1,160,1,3,4,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
-120,TK Curran,SS Cottrell,DJ Willey,,1,0,1,161,2,2,5,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,AD Hales,SS Cottrell,JM Bairstow,6,0,6,6,6,1,1,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+1,AD Hales,SS Cottrell,JM Bairstow,4,0,4,10,10,2,2,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+2,AD Hales,SS Cottrell,JM Bairstow,0,4,4,14,10,3,3,legbyes,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+3,AD Hales,SS Cottrell,JM Bairstow,1,0,1,15,11,4,4,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+4,JM Bairstow,SS Cottrell,AD Hales,1,0,1,16,1,1,5,-,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+5,AD Hales,SS Cottrell,JM Bairstow,0,1,1,17,11,5,6,wides,0,,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+6,AD Hales,SS Cottrell,JM Bairstow,0,0,0,17,11,6,7,-,bowled,AD Hales,,1,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+7,JM Bairstow,O Thomas,JE Root,0,1,1,18,1,2,1,wides,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+8,JM Bairstow,O Thomas,JE Root,4,0,4,22,5,3,2,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+9,JM Bairstow,O Thomas,JE Root,4,0,4,26,9,4,3,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+10,JM Bairstow,O Thomas,JE Root,4,0,4,30,13,5,4,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+11,JM Bairstow,O Thomas,JE Root,0,0,0,30,13,6,5,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+12,JM Bairstow,O Thomas,JE Root,0,0,0,30,13,7,6,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+13,JM Bairstow,O Thomas,JE Root,1,0,1,31,14,8,7,-,0,,,2,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+14,JM Bairstow,SS Cottrell,JE Root,1,0,1,32,15,9,1,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+15,JE Root,SS Cottrell,JM Bairstow,0,0,0,32,0,1,2,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+16,JE Root,SS Cottrell,JM Bairstow,0,0,0,32,0,2,3,-,lbw,JE Root,,3,"{'by': 'England', 'umpire': 'N Duguid', 'batter': 'JE Root', 'decision': 'struck down', 'umpires_call': True}",field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+17,EJG Morgan,SS Cottrell,JM Bairstow,0,0,0,32,0,1,4,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+18,EJG Morgan,SS Cottrell,JM Bairstow,0,0,0,32,0,2,5,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+19,EJG Morgan,SS Cottrell,JM Bairstow,0,1,1,33,0,3,6,wides,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+20,EJG Morgan,SS Cottrell,JM Bairstow,0,0,0,33,0,4,7,-,0,,,3,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+21,JM Bairstow,AR Nurse,EJG Morgan,0,0,0,33,15,10,1,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+22,JM Bairstow,AR Nurse,EJG Morgan,0,0,0,33,15,11,2,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+23,JM Bairstow,AR Nurse,EJG Morgan,4,0,4,37,19,12,3,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+24,JM Bairstow,AR Nurse,EJG Morgan,0,0,0,37,19,13,4,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+25,JM Bairstow,AR Nurse,EJG Morgan,4,0,4,41,23,14,5,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+26,JM Bairstow,AR Nurse,EJG Morgan,6,0,6,47,29,15,6,-,0,,,4,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+27,EJG Morgan,O Thomas,JM Bairstow,4,0,4,51,4,5,1,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+28,EJG Morgan,O Thomas,JM Bairstow,0,0,0,51,4,6,2,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+29,EJG Morgan,O Thomas,JM Bairstow,0,0,0,51,4,7,3,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+30,EJG Morgan,O Thomas,JM Bairstow,0,4,4,55,4,8,4,byes,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+31,EJG Morgan,O Thomas,JM Bairstow,0,0,0,55,4,9,5,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+32,EJG Morgan,O Thomas,JM Bairstow,0,0,0,55,4,10,6,-,0,,,5,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+33,JM Bairstow,JO Holder,EJG Morgan,1,0,1,56,30,16,1,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+34,EJG Morgan,JO Holder,JM Bairstow,0,0,0,56,4,11,2,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+35,EJG Morgan,JO Holder,JM Bairstow,1,0,1,57,5,12,3,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+36,JM Bairstow,JO Holder,EJG Morgan,2,0,2,59,32,17,4,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+37,JM Bairstow,JO Holder,EJG Morgan,0,1,1,60,32,18,5,wides,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+38,JM Bairstow,JO Holder,EJG Morgan,0,0,0,60,32,19,6,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+39,JM Bairstow,JO Holder,EJG Morgan,0,1,1,61,32,20,7,wides,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+40,JM Bairstow,JO Holder,EJG Morgan,1,0,1,62,33,21,8,-,0,,,6,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+41,JM Bairstow,CR Brathwaite,EJG Morgan,1,0,1,63,34,22,1,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+42,EJG Morgan,CR Brathwaite,JM Bairstow,0,0,0,63,5,13,2,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+43,EJG Morgan,CR Brathwaite,JM Bairstow,1,0,1,64,6,14,3,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+44,JM Bairstow,CR Brathwaite,EJG Morgan,0,0,0,64,34,23,4,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+45,JM Bairstow,CR Brathwaite,EJG Morgan,0,0,0,64,34,24,5,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+46,JM Bairstow,CR Brathwaite,EJG Morgan,4,0,4,68,38,25,6,-,0,,,7,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+47,EJG Morgan,JO Holder,JM Bairstow,1,0,1,69,7,15,1,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+48,JM Bairstow,JO Holder,EJG Morgan,4,0,4,73,42,26,2,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+49,JM Bairstow,JO Holder,EJG Morgan,1,0,1,74,43,27,3,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+50,EJG Morgan,JO Holder,JM Bairstow,1,0,1,75,8,16,4,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+51,JM Bairstow,JO Holder,EJG Morgan,0,0,0,75,43,28,5,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+52,JM Bairstow,JO Holder,EJG Morgan,1,0,1,76,44,29,6,-,0,,,8,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+53,JM Bairstow,CR Brathwaite,EJG Morgan,6,0,6,82,50,30,1,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+54,JM Bairstow,CR Brathwaite,EJG Morgan,1,0,1,83,51,31,2,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+55,EJG Morgan,CR Brathwaite,JM Bairstow,0,0,0,83,8,17,3,-,caught,EJG Morgan,CH Gayle,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+56,JL Denly,CR Brathwaite,JM Bairstow,1,0,1,84,1,1,4,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+57,JM Bairstow,CR Brathwaite,JL Denly,1,0,1,85,52,32,5,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+58,JL Denly,CR Brathwaite,JM Bairstow,0,0,0,85,1,2,6,-,0,,,9,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+59,JM Bairstow,AR Nurse,JL Denly,0,0,0,85,52,33,1,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+60,JM Bairstow,AR Nurse,JL Denly,2,0,2,87,54,34,2,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+61,JM Bairstow,AR Nurse,JL Denly,1,0,1,88,55,35,3,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+62,JL Denly,AR Nurse,JM Bairstow,1,0,1,89,2,3,4,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+63,JM Bairstow,AR Nurse,JL Denly,1,0,1,90,56,36,5,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+64,JL Denly,AR Nurse,JM Bairstow,0,0,0,90,2,4,6,-,0,,,10,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+65,JM Bairstow,CR Brathwaite,JL Denly,4,0,4,94,60,37,1,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+66,JM Bairstow,CR Brathwaite,JL Denly,0,0,0,94,60,38,2,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+67,JM Bairstow,CR Brathwaite,JL Denly,4,0,4,98,64,39,3,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+68,JM Bairstow,CR Brathwaite,JL Denly,2,0,2,100,66,40,4,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+69,JM Bairstow,CR Brathwaite,JL Denly,1,0,1,101,67,41,5,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+70,JL Denly,CR Brathwaite,JM Bairstow,0,0,0,101,2,5,6,-,0,,,11,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+71,JM Bairstow,AR Nurse,JL Denly,1,0,1,102,68,42,1,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+72,JL Denly,AR Nurse,JM Bairstow,1,0,1,103,3,6,2,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+73,JM Bairstow,AR Nurse,JL Denly,0,0,0,103,68,43,3,-,caught,JM Bairstow,CR Brathwaite,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+74,SW Billings,AR Nurse,JL Denly,1,0,1,104,1,1,4,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+75,JL Denly,AR Nurse,SW Billings,0,0,0,104,3,7,5,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+76,JL Denly,AR Nurse,SW Billings,2,0,2,106,5,8,6,-,0,,,12,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+77,SW Billings,FA Allen,JL Denly,0,0,0,106,1,2,1,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+78,SW Billings,FA Allen,JL Denly,1,0,1,107,2,3,2,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+79,JL Denly,FA Allen,SW Billings,4,0,4,111,9,9,3,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+80,JL Denly,FA Allen,SW Billings,1,0,1,112,10,10,4,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+81,SW Billings,FA Allen,JL Denly,2,0,2,114,4,4,5,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+82,SW Billings,FA Allen,JL Denly,0,0,0,114,4,5,6,-,0,,,13,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+83,JL Denly,AR Nurse,SW Billings,1,0,1,115,11,11,1,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+84,SW Billings,AR Nurse,JL Denly,1,0,1,116,5,6,2,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+85,JL Denly,AR Nurse,SW Billings,0,0,0,116,11,12,3,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+86,JL Denly,AR Nurse,SW Billings,4,0,4,120,15,13,4,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+87,JL Denly,AR Nurse,SW Billings,1,0,1,121,16,14,5,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+88,SW Billings,AR Nurse,JL Denly,1,0,1,122,6,7,6,-,0,,,14,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+89,SW Billings,SS Cottrell,JL Denly,0,1,1,123,6,8,1,wides,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+90,SW Billings,SS Cottrell,JL Denly,1,0,1,124,7,9,2,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+91,JL Denly,SS Cottrell,SW Billings,0,0,0,124,16,15,3,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+92,JL Denly,SS Cottrell,SW Billings,4,0,4,128,20,16,4,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+93,JL Denly,SS Cottrell,SW Billings,0,0,0,128,20,17,5,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+94,JL Denly,SS Cottrell,SW Billings,1,0,1,129,21,18,6,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+95,SW Billings,SS Cottrell,JL Denly,4,0,4,133,11,10,7,-,0,,,15,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+96,JL Denly,JO Holder,SW Billings,0,0,0,133,21,19,1,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+97,JL Denly,JO Holder,SW Billings,2,0,2,135,23,20,2,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+98,JL Denly,JO Holder,SW Billings,0,0,0,135,23,21,3,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+99,JL Denly,JO Holder,SW Billings,4,0,4,139,27,22,4,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+100,JL Denly,JO Holder,SW Billings,1,0,1,140,28,23,5,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+101,SW Billings,JO Holder,JL Denly,1,0,1,141,12,11,6,-,0,,,16,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+102,SW Billings,CR Brathwaite,JL Denly,1,0,1,142,13,12,1,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+103,JL Denly,CR Brathwaite,SW Billings,1,0,1,143,29,24,2,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+104,SW Billings,CR Brathwaite,JL Denly,0,1,1,144,13,13,3,wides,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+105,SW Billings,CR Brathwaite,JL Denly,0,1,1,145,13,14,4,wides,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+106,SW Billings,CR Brathwaite,JL Denly,2,0,2,147,15,15,5,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+107,SW Billings,CR Brathwaite,JL Denly,1,0,1,148,16,16,6,-,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+108,JL Denly,CR Brathwaite,SW Billings,0,2,2,150,29,25,7,legbyes,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+109,JL Denly,CR Brathwaite,SW Billings,0,1,1,151,29,26,8,legbyes,0,,,17,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+110,JL Denly,JO Holder,SW Billings,1,0,1,152,30,27,1,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+111,SW Billings,JO Holder,JL Denly,1,0,1,153,17,17,2,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+112,JL Denly,JO Holder,SW Billings,0,0,0,153,30,28,3,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+113,JL Denly,JO Holder,SW Billings,0,0,0,153,30,29,4,-,caught,JL Denly,N Pooran,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+114,SW Billings,JO Holder,DJ Willey,1,0,1,154,18,18,5,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+115,DJ Willey,JO Holder,SW Billings,0,0,0,154,0,1,6,-,0,,,18,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+116,SW Billings,SS Cottrell,DJ Willey,0,0,0,154,18,19,1,-,bowled,SW Billings,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+117,TK Curran,SS Cottrell,DJ Willey,1,0,1,155,1,1,2,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+118,DJ Willey,SS Cottrell,TK Curran,0,4,4,159,0,2,3,byes,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+119,DJ Willey,SS Cottrell,TK Curran,1,0,1,160,1,3,4,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies
+120,TK Curran,SS Cottrell,DJ Willey,1,0,1,161,2,2,5,-,0,,,19,,field,England,2,"Darren Sammy National Cricket Stadium, St Lucia",2019-03-05,England,West Indies

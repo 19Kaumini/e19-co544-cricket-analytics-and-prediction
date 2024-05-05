@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extras,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,H Masakadza,WD Parnell,BRM Taylor,0,0,0,0,0,1,1,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-1,H Masakadza,WD Parnell,BRM Taylor,1,0,1,1,1,2,2,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-2,BRM Taylor,WD Parnell,H Masakadza,0,0,0,1,0,1,3,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-3,BRM Taylor,WD Parnell,H Masakadza,1,0,1,2,1,2,4,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-4,H Masakadza,WD Parnell,BRM Taylor,1,0,1,3,2,3,5,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-5,BRM Taylor,WD Parnell,H Masakadza,4,0,4,7,5,3,6,1,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-6,H Masakadza,LL Tsotsobe,BRM Taylor,4,0,4,11,6,4,1,2,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-7,H Masakadza,LL Tsotsobe,BRM Taylor,0,0,0,11,6,5,2,2,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-8,H Masakadza,LL Tsotsobe,BRM Taylor,4,0,4,15,10,6,3,2,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-9,H Masakadza,LL Tsotsobe,BRM Taylor,0,0,0,15,10,7,4,2,caught,H Masakadza,J Botha,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-10,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,16,6,4,5,2,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-11,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,16,0,1,6,2,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-12,BRM Taylor,WD Parnell,CJ Chibhabha,1,0,1,17,7,5,1,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-13,CJ Chibhabha,WD Parnell,BRM Taylor,1,0,1,18,1,2,2,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-14,BRM Taylor,WD Parnell,CJ Chibhabha,1,0,1,19,8,6,3,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-15,CJ Chibhabha,WD Parnell,BRM Taylor,0,0,0,19,1,3,4,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-16,CJ Chibhabha,WD Parnell,BRM Taylor,0,1,1,20,1,4,5,3,0,,,{'wides': 1},wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-17,CJ Chibhabha,WD Parnell,BRM Taylor,1,0,1,21,2,5,6,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-18,BRM Taylor,WD Parnell,CJ Chibhabha,4,0,4,25,12,7,7,3,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-19,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,26,3,6,1,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-20,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,26,12,8,2,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-21,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,26,12,9,3,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-22,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,27,13,10,4,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-23,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,28,4,7,5,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-24,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,29,14,11,6,4,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-25,BRM Taylor,J Theron,CJ Chibhabha,2,0,2,31,16,12,1,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-26,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,32,17,13,2,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-27,CJ Chibhabha,J Theron,BRM Taylor,0,0,0,32,4,8,3,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-28,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,33,5,9,4,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-29,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,34,18,14,5,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-30,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,35,6,10,6,5,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-31,CJ Chibhabha,LL Tsotsobe,BRM Taylor,4,0,4,39,10,11,1,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-32,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,39,10,12,2,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-33,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,1,1,40,10,13,3,6,0,,,{'wides': 1},wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-34,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,40,10,14,4,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-35,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,41,11,15,5,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-36,BRM Taylor,LL Tsotsobe,CJ Chibhabha,4,0,4,45,22,15,6,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-37,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,45,22,16,7,6,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-38,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,46,12,16,1,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-39,BRM Taylor,J Botha,CJ Chibhabha,0,0,0,46,22,17,2,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-40,BRM Taylor,J Botha,CJ Chibhabha,6,0,6,52,28,18,3,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-41,BRM Taylor,J Botha,CJ Chibhabha,1,0,1,53,29,19,4,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-42,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,54,13,17,5,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-43,BRM Taylor,J Botha,CJ Chibhabha,2,0,2,56,31,20,6,7,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-44,CJ Chibhabha,RJ Peterson,BRM Taylor,2,0,2,58,15,18,1,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-45,CJ Chibhabha,RJ Peterson,BRM Taylor,6,0,6,64,21,19,2,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-46,CJ Chibhabha,RJ Peterson,BRM Taylor,0,0,0,64,21,20,3,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-47,CJ Chibhabha,RJ Peterson,BRM Taylor,0,0,0,64,21,21,4,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-48,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,65,22,22,5,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-49,BRM Taylor,RJ Peterson,CJ Chibhabha,6,0,6,71,37,21,6,8,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-50,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,71,22,23,1,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-51,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,71,22,24,2,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-52,CJ Chibhabha,J Botha,BRM Taylor,4,0,4,75,26,25,3,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-53,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,76,27,26,4,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-54,BRM Taylor,J Botha,CJ Chibhabha,6,0,6,82,43,22,5,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-55,BRM Taylor,J Botha,CJ Chibhabha,0,0,0,82,43,23,6,9,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-56,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,83,28,27,1,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-57,BRM Taylor,RJ Peterson,CJ Chibhabha,1,0,1,84,44,24,2,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-58,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,85,29,28,3,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-59,BRM Taylor,RJ Peterson,CJ Chibhabha,2,0,2,87,46,25,4,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-60,BRM Taylor,RJ Peterson,CJ Chibhabha,1,0,1,88,47,26,5,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-61,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,89,30,29,6,10,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-62,CJ Chibhabha,JP Duminy,BRM Taylor,6,0,6,95,36,30,1,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-63,CJ Chibhabha,JP Duminy,BRM Taylor,4,0,4,99,40,31,2,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-64,CJ Chibhabha,JP Duminy,BRM Taylor,2,0,2,101,42,32,3,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-65,CJ Chibhabha,JP Duminy,BRM Taylor,4,0,4,105,46,33,4,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-66,CJ Chibhabha,JP Duminy,BRM Taylor,0,0,0,105,46,34,5,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-67,CJ Chibhabha,JP Duminy,BRM Taylor,1,0,1,106,47,35,6,11,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-68,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,107,48,36,1,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-69,BRM Taylor,J Theron,CJ Chibhabha,0,0,0,107,47,27,2,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-70,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,108,48,28,3,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-71,CJ Chibhabha,J Theron,BRM Taylor,4,0,4,112,52,37,4,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-72,CJ Chibhabha,J Theron,BRM Taylor,0,0,0,112,52,38,5,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-73,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,113,53,39,6,12,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-74,CJ Chibhabha,J Botha,BRM Taylor,4,0,4,117,57,40,1,13,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-75,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,118,58,41,2,13,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-76,BRM Taylor,J Botha,CJ Chibhabha,0,1,1,119,48,29,3,13,0,,,{'legbyes': 1},legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-77,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,120,59,42,4,13,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-78,BRM Taylor,J Botha,CJ Chibhabha,0,1,1,121,48,30,5,13,0,,,{'wides': 1},wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-79,BRM Taylor,J Botha,CJ Chibhabha,1,0,1,122,49,31,6,13,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-80,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,122,59,43,7,13,caught,CJ Chibhabha,WD Parnell,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-81,CK Coventry,LL Tsotsobe,BRM Taylor,0,0,0,122,0,1,1,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-82,CK Coventry,LL Tsotsobe,BRM Taylor,0,0,0,122,0,2,2,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-83,CK Coventry,LL Tsotsobe,BRM Taylor,6,0,6,128,6,3,3,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-84,CK Coventry,LL Tsotsobe,BRM Taylor,1,0,1,129,7,4,4,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-85,BRM Taylor,LL Tsotsobe,CK Coventry,0,0,0,129,49,32,5,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-86,BRM Taylor,LL Tsotsobe,CK Coventry,2,0,2,131,51,33,6,14,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-87,CK Coventry,RJ Peterson,BRM Taylor,1,0,1,132,8,5,1,15,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-88,BRM Taylor,RJ Peterson,CK Coventry,4,0,4,136,55,34,2,15,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-89,BRM Taylor,RJ Peterson,CK Coventry,1,0,1,137,56,35,3,15,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-90,CK Coventry,RJ Peterson,BRM Taylor,0,0,0,137,8,6,4,15,caught,CK Coventry,J Botha,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-91,BRM Taylor,RJ Peterson,E Chigumbura,1,0,1,138,57,36,5,15,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-92,E Chigumbura,RJ Peterson,BRM Taylor,1,0,1,139,1,1,6,15,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-93,E Chigumbura,WD Parnell,BRM Taylor,0,1,1,140,1,2,1,16,0,,,{'legbyes': 1},legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-94,BRM Taylor,WD Parnell,E Chigumbura,0,2,2,142,57,37,2,16,0,,,{'wides': 2},wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-95,E Chigumbura,WD Parnell,BRM Taylor,1,0,1,143,2,3,3,16,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-96,BRM Taylor,WD Parnell,E Chigumbura,0,0,0,143,57,38,4,16,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-97,BRM Taylor,WD Parnell,E Chigumbura,1,0,1,144,58,39,5,16,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-98,E Chigumbura,WD Parnell,BRM Taylor,1,0,1,145,3,4,6,16,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-99,BRM Taylor,WD Parnell,E Chigumbura,1,0,1,146,59,40,7,16,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-100,BRM Taylor,RJ Peterson,E Chigumbura,0,0,0,146,59,41,1,17,caught,BRM Taylor,J Theron,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-101,E Chigumbura,RJ Peterson,KM Dabengwa,4,0,4,150,7,5,2,17,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-102,E Chigumbura,RJ Peterson,KM Dabengwa,0,0,0,150,7,6,3,17,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-103,E Chigumbura,RJ Peterson,KM Dabengwa,1,0,1,151,8,7,4,17,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-104,KM Dabengwa,RJ Peterson,E Chigumbura,1,0,1,152,1,1,5,17,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-105,E Chigumbura,RJ Peterson,KM Dabengwa,0,0,0,152,8,8,6,17,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-106,KM Dabengwa,J Theron,E Chigumbura,0,0,0,152,1,2,1,18,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-107,KM Dabengwa,J Theron,E Chigumbura,0,0,0,152,1,3,2,18,caught,KM Dabengwa,JP Duminy,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-108,E Chigumbura,J Theron,T Taibu,1,0,1,153,9,9,3,18,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-109,T Taibu,J Theron,E Chigumbura,1,0,1,154,1,1,4,18,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-110,E Chigumbura,J Theron,T Taibu,6,0,6,160,15,10,5,18,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-111,E Chigumbura,J Theron,T Taibu,1,0,1,161,16,11,6,18,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-112,E Chigumbura,WD Parnell,T Taibu,4,1,5,166,20,12,1,19,0,,,{'noballs': 1},noballs,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-113,E Chigumbura,WD Parnell,T Taibu,4,0,4,170,24,13,2,19,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-114,E Chigumbura,WD Parnell,T Taibu,1,0,1,171,25,14,3,19,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-115,T Taibu,WD Parnell,E Chigumbura,6,0,6,177,7,2,4,19,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-116,T Taibu,WD Parnell,E Chigumbura,1,0,1,178,8,3,5,19,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-117,E Chigumbura,WD Parnell,T Taibu,1,0,1,179,26,15,6,19,run out,E Chigumbura,J Theron;HG Kuhn,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-118,SW Masakadza,WD Parnell,T Taibu,1,0,1,180,1,1,7,19,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-119,SW Masakadza,J Theron,T Taibu,0,0,0,180,1,2,1,20,bowled,SW Masakadza,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-120,AG Cremer,J Theron,T Taibu,1,0,1,181,1,1,2,20,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-121,T Taibu,J Theron,AG Cremer,2,0,2,183,10,4,3,20,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-122,T Taibu,J Theron,AG Cremer,1,0,1,184,11,5,4,20,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-123,AG Cremer,J Theron,T Taibu,1,0,1,185,2,2,5,20,0,,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
-124,T Taibu,J Theron,AG Cremer,0,1,1,186,11,6,6,20,0,,,{'legbyes': 1},legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,H Masakadza,WD Parnell,BRM Taylor,0,0,0,0,0,1,1,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+1,H Masakadza,WD Parnell,BRM Taylor,1,0,1,1,1,2,2,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+2,BRM Taylor,WD Parnell,H Masakadza,0,0,0,1,0,1,3,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+3,BRM Taylor,WD Parnell,H Masakadza,1,0,1,2,1,2,4,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+4,H Masakadza,WD Parnell,BRM Taylor,1,0,1,3,2,3,5,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+5,BRM Taylor,WD Parnell,H Masakadza,4,0,4,7,5,3,6,1,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+6,H Masakadza,LL Tsotsobe,BRM Taylor,4,0,4,11,6,4,1,2,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+7,H Masakadza,LL Tsotsobe,BRM Taylor,0,0,0,11,6,5,2,2,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+8,H Masakadza,LL Tsotsobe,BRM Taylor,4,0,4,15,10,6,3,2,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+9,H Masakadza,LL Tsotsobe,BRM Taylor,0,0,0,15,10,7,4,2,caught,H Masakadza,J Botha,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+10,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,16,6,4,5,2,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+11,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,16,0,1,6,2,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+12,BRM Taylor,WD Parnell,CJ Chibhabha,1,0,1,17,7,5,1,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+13,CJ Chibhabha,WD Parnell,BRM Taylor,1,0,1,18,1,2,2,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+14,BRM Taylor,WD Parnell,CJ Chibhabha,1,0,1,19,8,6,3,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+15,CJ Chibhabha,WD Parnell,BRM Taylor,0,0,0,19,1,3,4,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+16,CJ Chibhabha,WD Parnell,BRM Taylor,0,1,1,20,1,4,5,3,0,,,wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+17,CJ Chibhabha,WD Parnell,BRM Taylor,1,0,1,21,2,5,6,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+18,BRM Taylor,WD Parnell,CJ Chibhabha,4,0,4,25,12,7,7,3,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+19,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,26,3,6,1,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+20,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,26,12,8,2,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+21,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,26,12,9,3,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+22,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,27,13,10,4,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+23,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,28,4,7,5,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+24,BRM Taylor,LL Tsotsobe,CJ Chibhabha,1,0,1,29,14,11,6,4,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+25,BRM Taylor,J Theron,CJ Chibhabha,2,0,2,31,16,12,1,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+26,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,32,17,13,2,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+27,CJ Chibhabha,J Theron,BRM Taylor,0,0,0,32,4,8,3,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+28,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,33,5,9,4,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+29,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,34,18,14,5,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+30,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,35,6,10,6,5,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+31,CJ Chibhabha,LL Tsotsobe,BRM Taylor,4,0,4,39,10,11,1,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+32,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,39,10,12,2,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+33,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,1,1,40,10,13,3,6,0,,,wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+34,CJ Chibhabha,LL Tsotsobe,BRM Taylor,0,0,0,40,10,14,4,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+35,CJ Chibhabha,LL Tsotsobe,BRM Taylor,1,0,1,41,11,15,5,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+36,BRM Taylor,LL Tsotsobe,CJ Chibhabha,4,0,4,45,22,15,6,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+37,BRM Taylor,LL Tsotsobe,CJ Chibhabha,0,0,0,45,22,16,7,6,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+38,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,46,12,16,1,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+39,BRM Taylor,J Botha,CJ Chibhabha,0,0,0,46,22,17,2,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+40,BRM Taylor,J Botha,CJ Chibhabha,6,0,6,52,28,18,3,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+41,BRM Taylor,J Botha,CJ Chibhabha,1,0,1,53,29,19,4,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+42,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,54,13,17,5,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+43,BRM Taylor,J Botha,CJ Chibhabha,2,0,2,56,31,20,6,7,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+44,CJ Chibhabha,RJ Peterson,BRM Taylor,2,0,2,58,15,18,1,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+45,CJ Chibhabha,RJ Peterson,BRM Taylor,6,0,6,64,21,19,2,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+46,CJ Chibhabha,RJ Peterson,BRM Taylor,0,0,0,64,21,20,3,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+47,CJ Chibhabha,RJ Peterson,BRM Taylor,0,0,0,64,21,21,4,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+48,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,65,22,22,5,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+49,BRM Taylor,RJ Peterson,CJ Chibhabha,6,0,6,71,37,21,6,8,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+50,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,71,22,23,1,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+51,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,71,22,24,2,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+52,CJ Chibhabha,J Botha,BRM Taylor,4,0,4,75,26,25,3,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+53,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,76,27,26,4,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+54,BRM Taylor,J Botha,CJ Chibhabha,6,0,6,82,43,22,5,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+55,BRM Taylor,J Botha,CJ Chibhabha,0,0,0,82,43,23,6,9,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+56,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,83,28,27,1,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+57,BRM Taylor,RJ Peterson,CJ Chibhabha,1,0,1,84,44,24,2,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+58,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,85,29,28,3,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+59,BRM Taylor,RJ Peterson,CJ Chibhabha,2,0,2,87,46,25,4,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+60,BRM Taylor,RJ Peterson,CJ Chibhabha,1,0,1,88,47,26,5,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+61,CJ Chibhabha,RJ Peterson,BRM Taylor,1,0,1,89,30,29,6,10,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+62,CJ Chibhabha,JP Duminy,BRM Taylor,6,0,6,95,36,30,1,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+63,CJ Chibhabha,JP Duminy,BRM Taylor,4,0,4,99,40,31,2,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+64,CJ Chibhabha,JP Duminy,BRM Taylor,2,0,2,101,42,32,3,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+65,CJ Chibhabha,JP Duminy,BRM Taylor,4,0,4,105,46,33,4,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+66,CJ Chibhabha,JP Duminy,BRM Taylor,0,0,0,105,46,34,5,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+67,CJ Chibhabha,JP Duminy,BRM Taylor,1,0,1,106,47,35,6,11,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+68,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,107,48,36,1,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+69,BRM Taylor,J Theron,CJ Chibhabha,0,0,0,107,47,27,2,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+70,BRM Taylor,J Theron,CJ Chibhabha,1,0,1,108,48,28,3,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+71,CJ Chibhabha,J Theron,BRM Taylor,4,0,4,112,52,37,4,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+72,CJ Chibhabha,J Theron,BRM Taylor,0,0,0,112,52,38,5,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+73,CJ Chibhabha,J Theron,BRM Taylor,1,0,1,113,53,39,6,12,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+74,CJ Chibhabha,J Botha,BRM Taylor,4,0,4,117,57,40,1,13,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+75,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,118,58,41,2,13,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+76,BRM Taylor,J Botha,CJ Chibhabha,0,1,1,119,48,29,3,13,0,,,legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+77,CJ Chibhabha,J Botha,BRM Taylor,1,0,1,120,59,42,4,13,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+78,BRM Taylor,J Botha,CJ Chibhabha,0,1,1,121,48,30,5,13,0,,,wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+79,BRM Taylor,J Botha,CJ Chibhabha,1,0,1,122,49,31,6,13,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+80,CJ Chibhabha,J Botha,BRM Taylor,0,0,0,122,59,43,7,13,caught,CJ Chibhabha,WD Parnell,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+81,CK Coventry,LL Tsotsobe,BRM Taylor,0,0,0,122,0,1,1,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+82,CK Coventry,LL Tsotsobe,BRM Taylor,0,0,0,122,0,2,2,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+83,CK Coventry,LL Tsotsobe,BRM Taylor,6,0,6,128,6,3,3,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+84,CK Coventry,LL Tsotsobe,BRM Taylor,1,0,1,129,7,4,4,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+85,BRM Taylor,LL Tsotsobe,CK Coventry,0,0,0,129,49,32,5,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+86,BRM Taylor,LL Tsotsobe,CK Coventry,2,0,2,131,51,33,6,14,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+87,CK Coventry,RJ Peterson,BRM Taylor,1,0,1,132,8,5,1,15,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+88,BRM Taylor,RJ Peterson,CK Coventry,4,0,4,136,55,34,2,15,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+89,BRM Taylor,RJ Peterson,CK Coventry,1,0,1,137,56,35,3,15,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+90,CK Coventry,RJ Peterson,BRM Taylor,0,0,0,137,8,6,4,15,caught,CK Coventry,J Botha,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+91,BRM Taylor,RJ Peterson,E Chigumbura,1,0,1,138,57,36,5,15,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+92,E Chigumbura,RJ Peterson,BRM Taylor,1,0,1,139,1,1,6,15,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+93,E Chigumbura,WD Parnell,BRM Taylor,0,1,1,140,1,2,1,16,0,,,legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+94,BRM Taylor,WD Parnell,E Chigumbura,0,2,2,142,57,37,2,16,0,,,wides,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+95,E Chigumbura,WD Parnell,BRM Taylor,1,0,1,143,2,3,3,16,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+96,BRM Taylor,WD Parnell,E Chigumbura,0,0,0,143,57,38,4,16,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+97,BRM Taylor,WD Parnell,E Chigumbura,1,0,1,144,58,39,5,16,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+98,E Chigumbura,WD Parnell,BRM Taylor,1,0,1,145,3,4,6,16,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+99,BRM Taylor,WD Parnell,E Chigumbura,1,0,1,146,59,40,7,16,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+100,BRM Taylor,RJ Peterson,E Chigumbura,0,0,0,146,59,41,1,17,caught,BRM Taylor,J Theron,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+101,E Chigumbura,RJ Peterson,KM Dabengwa,4,0,4,150,7,5,2,17,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+102,E Chigumbura,RJ Peterson,KM Dabengwa,0,0,0,150,7,6,3,17,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+103,E Chigumbura,RJ Peterson,KM Dabengwa,1,0,1,151,8,7,4,17,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+104,KM Dabengwa,RJ Peterson,E Chigumbura,1,0,1,152,1,1,5,17,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+105,E Chigumbura,RJ Peterson,KM Dabengwa,0,0,0,152,8,8,6,17,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+106,KM Dabengwa,J Theron,E Chigumbura,0,0,0,152,1,2,1,18,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+107,KM Dabengwa,J Theron,E Chigumbura,0,0,0,152,1,3,2,18,caught,KM Dabengwa,JP Duminy,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+108,E Chigumbura,J Theron,T Taibu,1,0,1,153,9,9,3,18,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+109,T Taibu,J Theron,E Chigumbura,1,0,1,154,1,1,4,18,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+110,E Chigumbura,J Theron,T Taibu,6,0,6,160,15,10,5,18,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+111,E Chigumbura,J Theron,T Taibu,1,0,1,161,16,11,6,18,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+112,E Chigumbura,WD Parnell,T Taibu,4,1,5,166,20,12,1,19,0,,,noballs,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+113,E Chigumbura,WD Parnell,T Taibu,4,0,4,170,24,13,2,19,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+114,E Chigumbura,WD Parnell,T Taibu,1,0,1,171,25,14,3,19,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+115,T Taibu,WD Parnell,E Chigumbura,6,0,6,177,7,2,4,19,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+116,T Taibu,WD Parnell,E Chigumbura,1,0,1,178,8,3,5,19,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+117,E Chigumbura,WD Parnell,T Taibu,1,0,1,179,26,15,6,19,run out,E Chigumbura,J Theron;HG Kuhn,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+118,SW Masakadza,WD Parnell,T Taibu,1,0,1,180,1,1,7,19,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+119,SW Masakadza,J Theron,T Taibu,0,0,0,180,1,2,1,20,bowled,SW Masakadza,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+120,AG Cremer,J Theron,T Taibu,1,0,1,181,1,1,2,20,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+121,T Taibu,J Theron,AG Cremer,2,0,2,183,10,4,3,20,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+122,T Taibu,J Theron,AG Cremer,1,0,1,184,11,5,4,20,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+123,AG Cremer,J Theron,T Taibu,1,0,1,185,2,2,5,20,0,,,-,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa
+124,T Taibu,J Theron,AG Cremer,0,1,1,186,11,6,6,20,0,,,legbyes,bat,South Africa,2,De Beers Diamond Oval,2010-10-10,Zimbabwe,South Africa

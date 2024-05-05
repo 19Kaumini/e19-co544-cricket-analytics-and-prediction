@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Mohammad Hafeez,RP Singh,Imran Nazir,,1,0,1,1,1,1,1,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-1,Imran Nazir,RP Singh,Mohammad Hafeez,,0,0,0,1,0,1,2,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-2,Imran Nazir,RP Singh,Mohammad Hafeez,,1,0,1,2,1,2,3,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-3,Mohammad Hafeez,RP Singh,Imran Nazir,,0,0,0,2,1,2,4,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-4,Mohammad Hafeez,RP Singh,Imran Nazir,,0,0,0,2,1,3,5,-,caught,Mohammad Hafeez,RV Uthappa,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-5,Kamran Akmal,RP Singh,Imran Nazir,{'legbyes': 2},0,2,2,4,0,1,6,legbyes,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-6,Imran Nazir,S Sreesanth,Kamran Akmal,,4,0,4,8,5,3,1,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-7,Imran Nazir,S Sreesanth,Kamran Akmal,,6,0,6,14,11,4,2,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-8,Imran Nazir,S Sreesanth,Kamran Akmal,,6,0,6,20,17,5,3,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-9,Imran Nazir,S Sreesanth,Kamran Akmal,,0,0,0,20,17,6,4,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-10,Imran Nazir,S Sreesanth,Kamran Akmal,,4,0,4,24,21,7,5,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-11,Imran Nazir,S Sreesanth,Kamran Akmal,,1,0,1,25,22,8,6,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-12,Imran Nazir,RP Singh,Kamran Akmal,,1,0,1,26,23,9,1,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-13,Kamran Akmal,RP Singh,Imran Nazir,,0,0,0,26,0,2,2,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-14,Kamran Akmal,RP Singh,Imran Nazir,,0,0,0,26,0,3,3,-,bowled,Kamran Akmal,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-15,Younis Khan,RP Singh,Imran Nazir,,0,0,0,26,0,1,4,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-16,Younis Khan,RP Singh,Imran Nazir,,1,0,1,27,1,2,5,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-17,Imran Nazir,RP Singh,Younis Khan,,4,0,4,31,27,10,6,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-18,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,3,1,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-19,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,4,2,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-20,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,5,3,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-21,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,6,4,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-22,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,7,5,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-23,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,31,1,8,6,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-24,Imran Nazir,RP Singh,Younis Khan,,1,0,1,32,28,11,1,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-25,Younis Khan,RP Singh,Imran Nazir,,1,0,1,33,2,9,2,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-26,Imran Nazir,RP Singh,Younis Khan,,0,0,0,33,28,12,3,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-27,Imran Nazir,RP Singh,Younis Khan,,4,0,4,37,32,13,4,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-28,Imran Nazir,RP Singh,Younis Khan,{'noballs': 1},1,1,2,39,33,14,5,noballs,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-29,Younis Khan,RP Singh,Imran Nazir,,4,0,4,43,6,10,6,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-30,Younis Khan,RP Singh,Imran Nazir,,1,0,1,44,7,11,7,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-31,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,44,7,12,1,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-32,Younis Khan,S Sreesanth,Imran Nazir,,4,0,4,48,11,13,2,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-33,Younis Khan,S Sreesanth,Imran Nazir,{'wides': 1},0,1,1,49,11,14,3,wides,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-34,Younis Khan,S Sreesanth,Imran Nazir,,4,0,4,53,15,15,4,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-35,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,53,15,16,5,-,run out,Imran Nazir,RV Uthappa,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-36,Shoaib Malik,S Sreesanth,Younis Khan,,0,0,0,53,0,1,6,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-37,Shoaib Malik,S Sreesanth,Younis Khan,,0,0,0,53,0,2,7,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-38,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,53,15,17,1,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-39,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,53,15,18,2,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-40,Younis Khan,Joginder Sharma,Shoaib Malik,,4,0,4,57,19,19,3,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-41,Younis Khan,Joginder Sharma,Shoaib Malik,,1,0,1,58,20,20,4,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-42,Shoaib Malik,Joginder Sharma,Younis Khan,,0,0,0,58,0,3,5,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-43,Shoaib Malik,Joginder Sharma,Younis Khan,,0,0,0,58,0,4,6,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-44,Younis Khan,YK Pathan,Shoaib Malik,,1,0,1,59,21,21,1,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-45,Shoaib Malik,YK Pathan,Younis Khan,,1,0,1,60,1,5,2,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-46,Younis Khan,YK Pathan,Shoaib Malik,,1,0,1,61,22,22,3,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-47,Shoaib Malik,YK Pathan,Younis Khan,,1,0,1,62,2,6,4,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-48,Younis Khan,YK Pathan,Shoaib Malik,,1,0,1,63,23,23,5,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-49,Shoaib Malik,YK Pathan,Younis Khan,,0,0,0,63,2,7,6,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-50,Younis Khan,Joginder Sharma,Shoaib Malik,,1,0,1,64,24,24,1,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-51,Shoaib Malik,Joginder Sharma,Younis Khan,,1,0,1,65,3,8,2,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-52,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,65,24,25,3,-,caught,Younis Khan,YK Pathan,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-53,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,65,0,1,4,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-54,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,65,0,2,5,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-55,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,65,0,3,6,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-56,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,66,4,9,1,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-57,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,67,1,4,2,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-58,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,68,5,10,3,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-59,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,68,1,5,4,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-60,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,1,0,1,69,2,6,5,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-61,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,1,0,1,70,6,11,6,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-62,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,0,0,0,70,6,12,1,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-63,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,1,0,1,71,7,13,2,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-64,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,2,0,2,73,4,7,3,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-65,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,{'wides': 1},0,1,1,74,4,8,4,wides,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-66,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,74,4,9,5,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-67,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,1,0,1,75,5,10,6,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-68,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,1,0,1,76,8,14,7,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-69,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,76,8,15,1,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-70,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,76,8,16,2,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-71,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,76,8,17,3,-,caught,Shoaib Malik,RG Sharma,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-72,Shahid Afridi,IK Pathan,Misbah-ul-Haq,{'wides': 1},0,1,1,77,0,1,4,wides,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-73,Shahid Afridi,IK Pathan,Misbah-ul-Haq,,0,0,0,77,0,2,5,-,caught,Shahid Afridi,S Sreesanth,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-74,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,77,5,11,6,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-75,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,1,0,1,78,6,12,7,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-76,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,2,0,2,80,8,13,1,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-77,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,1,0,1,81,9,14,2,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-78,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,82,1,1,3,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-79,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,1,0,1,83,10,15,4,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-80,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,4,0,4,87,5,2,5,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-81,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,88,6,3,6,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-82,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,1,0,1,89,7,4,1,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-83,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,89,10,16,2,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-84,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,1,0,1,90,11,17,3,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-85,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,90,7,5,4,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-86,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,1,0,1,91,8,6,5,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-87,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,1,0,1,92,12,18,6,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-88,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,2,0,2,94,14,19,1,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-89,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,1,0,1,95,15,20,2,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-90,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,1,0,1,96,9,7,3,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-91,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,0,0,96,15,21,4,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-92,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,1,0,1,97,16,22,5,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-93,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,2,0,2,99,11,8,6,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-94,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,99,16,23,1,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-95,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,99,16,24,2,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-96,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,1,0,1,100,17,25,3,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-97,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,4,0,4,104,15,9,4,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-98,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,104,15,10,5,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-99,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,104,15,11,6,-,bowled,Yasir Arafat,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-100,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,{'wides': 1},0,1,1,105,17,26,1,wides,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-101,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,105,17,27,2,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-102,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,6,0,6,111,23,28,3,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-103,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,111,23,29,4,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-104,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,111,23,30,5,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-105,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,6,0,6,117,29,31,6,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-106,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,6,0,6,123,35,32,7,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-107,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,6,0,6,129,6,1,1,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-108,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,{'wides': 1},0,1,1,130,6,2,2,wides,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-109,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,{'legbyes': 1},0,1,1,131,6,3,3,legbyes,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-110,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,,0,0,0,131,35,33,4,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-111,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,,1,0,1,132,36,34,5,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-112,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,6,0,6,138,12,4,6,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-113,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,0,0,0,138,12,5,7,-,bowled,Sohail Tanvir,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-114,Misbah-ul-Haq,RP Singh,Umar Gul,,1,0,1,139,37,35,1,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-115,Umar Gul,RP Singh,Misbah-ul-Haq,{'byes': 1},0,1,1,140,0,1,2,byes,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-116,Misbah-ul-Haq,RP Singh,Umar Gul,,0,0,0,140,37,36,3,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-117,Misbah-ul-Haq,RP Singh,Umar Gul,{'legbyes': 1},0,1,1,141,37,37,4,legbyes,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-118,Umar Gul,RP Singh,Misbah-ul-Haq,,0,0,0,141,0,2,5,-,bowled,Umar Gul,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-119,Mohammad Asif,RP Singh,Misbah-ul-Haq,,4,0,4,145,4,1,6,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-120,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,{'wides': 1},0,1,1,146,37,38,1,wides,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-121,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,0,0,0,146,37,39,2,-,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-122,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,6,0,6,152,43,40,3,-,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
-123,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,0,0,0,152,43,41,4,-,caught,Misbah-ul-Haq,S Sreesanth,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Mohammad Hafeez,RP Singh,Imran Nazir,1,0,1,1,1,1,1,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+1,Imran Nazir,RP Singh,Mohammad Hafeez,0,0,0,1,0,1,2,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+2,Imran Nazir,RP Singh,Mohammad Hafeez,1,0,1,2,1,2,3,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+3,Mohammad Hafeez,RP Singh,Imran Nazir,0,0,0,2,1,2,4,-,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+4,Mohammad Hafeez,RP Singh,Imran Nazir,0,0,0,2,1,3,5,-,caught,Mohammad Hafeez,RV Uthappa,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+5,Kamran Akmal,RP Singh,Imran Nazir,0,2,2,4,0,1,6,legbyes,0,,,1,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+6,Imran Nazir,S Sreesanth,Kamran Akmal,4,0,4,8,5,3,1,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+7,Imran Nazir,S Sreesanth,Kamran Akmal,6,0,6,14,11,4,2,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+8,Imran Nazir,S Sreesanth,Kamran Akmal,6,0,6,20,17,5,3,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+9,Imran Nazir,S Sreesanth,Kamran Akmal,0,0,0,20,17,6,4,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+10,Imran Nazir,S Sreesanth,Kamran Akmal,4,0,4,24,21,7,5,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+11,Imran Nazir,S Sreesanth,Kamran Akmal,1,0,1,25,22,8,6,-,0,,,2,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+12,Imran Nazir,RP Singh,Kamran Akmal,1,0,1,26,23,9,1,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+13,Kamran Akmal,RP Singh,Imran Nazir,0,0,0,26,0,2,2,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+14,Kamran Akmal,RP Singh,Imran Nazir,0,0,0,26,0,3,3,-,bowled,Kamran Akmal,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+15,Younis Khan,RP Singh,Imran Nazir,0,0,0,26,0,1,4,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+16,Younis Khan,RP Singh,Imran Nazir,1,0,1,27,1,2,5,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+17,Imran Nazir,RP Singh,Younis Khan,4,0,4,31,27,10,6,-,0,,,3,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+18,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,3,1,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+19,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,4,2,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+20,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,5,3,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+21,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,6,4,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+22,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,7,5,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+23,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,31,1,8,6,-,0,,,4,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+24,Imran Nazir,RP Singh,Younis Khan,1,0,1,32,28,11,1,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+25,Younis Khan,RP Singh,Imran Nazir,1,0,1,33,2,9,2,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+26,Imran Nazir,RP Singh,Younis Khan,0,0,0,33,28,12,3,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+27,Imran Nazir,RP Singh,Younis Khan,4,0,4,37,32,13,4,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+28,Imran Nazir,RP Singh,Younis Khan,1,1,2,39,33,14,5,noballs,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+29,Younis Khan,RP Singh,Imran Nazir,4,0,4,43,6,10,6,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+30,Younis Khan,RP Singh,Imran Nazir,1,0,1,44,7,11,7,-,0,,,5,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+31,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,44,7,12,1,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+32,Younis Khan,S Sreesanth,Imran Nazir,4,0,4,48,11,13,2,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+33,Younis Khan,S Sreesanth,Imran Nazir,0,1,1,49,11,14,3,wides,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+34,Younis Khan,S Sreesanth,Imran Nazir,4,0,4,53,15,15,4,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+35,Younis Khan,S Sreesanth,Imran Nazir,0,0,0,53,15,16,5,-,run out,Imran Nazir,RV Uthappa,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+36,Shoaib Malik,S Sreesanth,Younis Khan,0,0,0,53,0,1,6,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+37,Shoaib Malik,S Sreesanth,Younis Khan,0,0,0,53,0,2,7,-,0,,,6,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+38,Younis Khan,Joginder Sharma,Shoaib Malik,0,0,0,53,15,17,1,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+39,Younis Khan,Joginder Sharma,Shoaib Malik,0,0,0,53,15,18,2,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+40,Younis Khan,Joginder Sharma,Shoaib Malik,4,0,4,57,19,19,3,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+41,Younis Khan,Joginder Sharma,Shoaib Malik,1,0,1,58,20,20,4,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+42,Shoaib Malik,Joginder Sharma,Younis Khan,0,0,0,58,0,3,5,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+43,Shoaib Malik,Joginder Sharma,Younis Khan,0,0,0,58,0,4,6,-,0,,,7,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+44,Younis Khan,YK Pathan,Shoaib Malik,1,0,1,59,21,21,1,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+45,Shoaib Malik,YK Pathan,Younis Khan,1,0,1,60,1,5,2,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+46,Younis Khan,YK Pathan,Shoaib Malik,1,0,1,61,22,22,3,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+47,Shoaib Malik,YK Pathan,Younis Khan,1,0,1,62,2,6,4,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+48,Younis Khan,YK Pathan,Shoaib Malik,1,0,1,63,23,23,5,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+49,Shoaib Malik,YK Pathan,Younis Khan,0,0,0,63,2,7,6,-,0,,,8,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+50,Younis Khan,Joginder Sharma,Shoaib Malik,1,0,1,64,24,24,1,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+51,Shoaib Malik,Joginder Sharma,Younis Khan,1,0,1,65,3,8,2,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+52,Younis Khan,Joginder Sharma,Shoaib Malik,0,0,0,65,24,25,3,-,caught,Younis Khan,YK Pathan,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+53,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,0,0,0,65,0,1,4,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+54,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,0,0,0,65,0,2,5,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+55,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,0,0,0,65,0,3,6,-,0,,,9,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+56,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,66,4,9,1,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+57,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,67,1,4,2,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+58,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,68,5,10,3,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+59,Misbah-ul-Haq,IK Pathan,Shoaib Malik,0,0,0,68,1,5,4,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+60,Misbah-ul-Haq,IK Pathan,Shoaib Malik,1,0,1,69,2,6,5,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+61,Shoaib Malik,IK Pathan,Misbah-ul-Haq,1,0,1,70,6,11,6,-,0,,,10,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+62,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,0,0,0,70,6,12,1,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+63,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,1,0,1,71,7,13,2,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+64,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,2,0,2,73,4,7,3,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+65,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,0,1,1,74,4,8,4,wides,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+66,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,0,0,0,74,4,9,5,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+67,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,1,0,1,75,5,10,6,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+68,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,1,0,1,76,8,14,7,-,0,,,11,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+69,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,76,8,15,1,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+70,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,76,8,16,2,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+71,Shoaib Malik,IK Pathan,Misbah-ul-Haq,0,0,0,76,8,17,3,-,caught,Shoaib Malik,RG Sharma,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+72,Shahid Afridi,IK Pathan,Misbah-ul-Haq,0,1,1,77,0,1,4,wides,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+73,Shahid Afridi,IK Pathan,Misbah-ul-Haq,0,0,0,77,0,2,5,-,caught,Shahid Afridi,S Sreesanth,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+74,Misbah-ul-Haq,IK Pathan,Yasir Arafat,0,0,0,77,5,11,6,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+75,Misbah-ul-Haq,IK Pathan,Yasir Arafat,1,0,1,78,6,12,7,-,0,,,12,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+76,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,2,0,2,80,8,13,1,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+77,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,1,0,1,81,9,14,2,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+78,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,1,0,1,82,1,1,3,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+79,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,1,0,1,83,10,15,4,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+80,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,4,0,4,87,5,2,5,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+81,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,1,0,1,88,6,3,6,-,0,,,13,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+82,Yasir Arafat,IK Pathan,Misbah-ul-Haq,1,0,1,89,7,4,1,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+83,Misbah-ul-Haq,IK Pathan,Yasir Arafat,0,0,0,89,10,16,2,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+84,Misbah-ul-Haq,IK Pathan,Yasir Arafat,1,0,1,90,11,17,3,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+85,Yasir Arafat,IK Pathan,Misbah-ul-Haq,0,0,0,90,7,5,4,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+86,Yasir Arafat,IK Pathan,Misbah-ul-Haq,1,0,1,91,8,6,5,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+87,Misbah-ul-Haq,IK Pathan,Yasir Arafat,1,0,1,92,12,18,6,-,0,,,14,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+88,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,2,0,2,94,14,19,1,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+89,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,1,0,1,95,15,20,2,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+90,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,1,0,1,96,9,7,3,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+91,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,0,0,0,96,15,21,4,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+92,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,1,0,1,97,16,22,5,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+93,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,2,0,2,99,11,8,6,-,0,,,15,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+94,Misbah-ul-Haq,IK Pathan,Yasir Arafat,0,0,0,99,16,23,1,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+95,Misbah-ul-Haq,IK Pathan,Yasir Arafat,0,0,0,99,16,24,2,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+96,Misbah-ul-Haq,IK Pathan,Yasir Arafat,1,0,1,100,17,25,3,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+97,Yasir Arafat,IK Pathan,Misbah-ul-Haq,4,0,4,104,15,9,4,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+98,Yasir Arafat,IK Pathan,Misbah-ul-Haq,0,0,0,104,15,10,5,-,0,,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+99,Yasir Arafat,IK Pathan,Misbah-ul-Haq,0,0,0,104,15,11,6,-,bowled,Yasir Arafat,,16,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+100,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,0,1,1,105,17,26,1,wides,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+101,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,0,0,0,105,17,27,2,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+102,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,6,0,6,111,23,28,3,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+103,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,0,0,0,111,23,29,4,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+104,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,0,0,0,111,23,30,5,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+105,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,6,0,6,117,29,31,6,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+106,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,6,0,6,123,35,32,7,-,0,,,17,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+107,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,6,0,6,129,6,1,1,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+108,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,0,1,1,130,6,2,2,wides,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+109,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,0,1,1,131,6,3,3,legbyes,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+110,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,0,0,0,131,35,33,4,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+111,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,1,0,1,132,36,34,5,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+112,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,6,0,6,138,12,4,6,-,0,,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+113,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,0,0,0,138,12,5,7,-,bowled,Sohail Tanvir,,18,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+114,Misbah-ul-Haq,RP Singh,Umar Gul,1,0,1,139,37,35,1,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+115,Umar Gul,RP Singh,Misbah-ul-Haq,0,1,1,140,0,1,2,byes,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+116,Misbah-ul-Haq,RP Singh,Umar Gul,0,0,0,140,37,36,3,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+117,Misbah-ul-Haq,RP Singh,Umar Gul,0,1,1,141,37,37,4,legbyes,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+118,Umar Gul,RP Singh,Misbah-ul-Haq,0,0,0,141,0,2,5,-,bowled,Umar Gul,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+119,Mohammad Asif,RP Singh,Misbah-ul-Haq,4,0,4,145,4,1,6,-,0,,,19,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+120,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,0,1,1,146,37,38,1,wides,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+121,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,0,0,0,146,37,39,2,-,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+122,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,6,0,6,152,43,40,3,-,0,,,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India
+123,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,0,0,0,152,43,41,4,-,caught,Misbah-ul-Haq,S Sreesanth,20,bat,India,2,New Wanderers Stadium,2007-09-24,Pakistan,India

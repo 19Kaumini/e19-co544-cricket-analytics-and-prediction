@@ -1,129 +1,129 @@
-,batter,bowler,non_striker,extras,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JR Philippe,TG Southee,AJ Finch,,0,0,0,0,0,1,1,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-1,JR Philippe,TG Southee,AJ Finch,,1,0,1,1,1,2,2,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-2,AJ Finch,TG Southee,JR Philippe,,0,0,0,1,0,1,3,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-3,AJ Finch,TG Southee,JR Philippe,,4,0,4,5,4,2,4,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-4,AJ Finch,TG Southee,JR Philippe,,1,0,1,6,5,3,5,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-5,JR Philippe,TG Southee,AJ Finch,{'legbyes': 1},0,1,1,7,1,3,6,legbyes,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-6,JR Philippe,MJ Santner,AJ Finch,,0,0,0,7,1,4,1,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-7,JR Philippe,MJ Santner,AJ Finch,,0,0,0,7,1,5,2,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-8,JR Philippe,MJ Santner,AJ Finch,,1,0,1,8,2,6,3,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-9,AJ Finch,MJ Santner,JR Philippe,,0,0,0,8,5,4,4,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-10,AJ Finch,MJ Santner,JR Philippe,,0,0,0,8,5,5,5,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-11,AJ Finch,MJ Santner,JR Philippe,,0,0,0,8,5,6,6,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-12,JR Philippe,TA Boult,AJ Finch,,0,0,0,8,2,7,1,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-13,JR Philippe,TA Boult,AJ Finch,,0,0,0,8,2,8,2,-,3,lbw,JR Philippe,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-14,MS Wade,TA Boult,AJ Finch,,0,0,0,8,0,1,3,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-15,MS Wade,TA Boult,AJ Finch,,4,0,4,12,4,2,4,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-16,MS Wade,TA Boult,AJ Finch,,1,0,1,13,5,3,5,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-17,AJ Finch,TA Boult,MS Wade,,1,0,1,14,6,7,6,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-18,AJ Finch,MJ Santner,MS Wade,,0,0,0,14,6,8,1,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-19,AJ Finch,MJ Santner,MS Wade,,0,0,0,14,6,9,2,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-20,AJ Finch,MJ Santner,MS Wade,,4,0,4,18,10,10,3,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-21,AJ Finch,MJ Santner,MS Wade,,1,0,1,19,11,11,4,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-22,MS Wade,MJ Santner,AJ Finch,,2,0,2,21,7,4,5,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-23,MS Wade,MJ Santner,AJ Finch,,4,0,4,25,11,5,6,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-24,AJ Finch,TA Boult,MS Wade,,0,0,0,25,11,12,1,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-25,AJ Finch,TA Boult,MS Wade,{'legbyes': 1},0,1,1,26,11,13,2,legbyes,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-26,MS Wade,TA Boult,AJ Finch,,0,0,0,26,11,6,3,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-27,MS Wade,TA Boult,AJ Finch,,0,0,0,26,11,7,4,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-28,MS Wade,TA Boult,AJ Finch,,4,0,4,30,15,8,5,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-29,MS Wade,TA Boult,AJ Finch,,2,0,2,32,17,9,6,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-30,AJ Finch,TG Southee,MS Wade,,1,0,1,33,12,14,1,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-31,MS Wade,TG Southee,AJ Finch,{'wides': 1},0,1,1,34,17,10,2,wides,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-32,MS Wade,TG Southee,AJ Finch,,1,0,1,35,18,11,3,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-33,AJ Finch,TG Southee,MS Wade,,0,0,0,35,12,15,4,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-34,AJ Finch,TG Southee,MS Wade,,4,0,4,39,16,16,5,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-35,AJ Finch,TG Southee,MS Wade,{'wides': 1},0,1,1,40,16,17,6,wides,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-36,AJ Finch,TG Southee,MS Wade,,1,0,1,41,17,18,7,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-37,MS Wade,TG Southee,AJ Finch,,6,0,6,47,24,12,8,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-38,AJ Finch,MS Chapman,MS Wade,,1,0,1,48,18,19,1,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-39,MS Wade,MS Chapman,AJ Finch,,1,0,1,49,25,13,2,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-40,AJ Finch,MS Chapman,MS Wade,,1,0,1,50,19,20,3,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-41,MS Wade,MS Chapman,AJ Finch,,2,0,2,52,27,14,4,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-42,MS Wade,MS Chapman,AJ Finch,,1,0,1,53,28,15,5,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-43,AJ Finch,MS Chapman,MS Wade,,0,0,0,53,19,21,6,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-44,MS Wade,IS Sodhi,AJ Finch,,1,0,1,54,29,16,1,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-45,AJ Finch,IS Sodhi,MS Wade,,1,0,1,55,20,22,2,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-46,MS Wade,IS Sodhi,AJ Finch,,1,0,1,56,30,17,3,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-47,AJ Finch,IS Sodhi,MS Wade,,1,0,1,57,21,23,4,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-48,MS Wade,IS Sodhi,AJ Finch,,1,0,1,58,31,18,5,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-49,AJ Finch,IS Sodhi,MS Wade,,0,0,0,58,21,24,6,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-50,MS Wade,GD Phillips,AJ Finch,,0,0,0,58,31,19,1,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-51,MS Wade,GD Phillips,AJ Finch,,1,0,1,59,32,20,2,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-52,AJ Finch,GD Phillips,MS Wade,,6,0,6,65,27,25,3,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-53,AJ Finch,GD Phillips,MS Wade,,0,0,0,65,27,26,4,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-54,AJ Finch,GD Phillips,MS Wade,,1,0,1,66,28,27,5,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-55,MS Wade,GD Phillips,AJ Finch,,0,0,0,66,32,21,6,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-56,AJ Finch,IS Sodhi,MS Wade,,0,0,0,66,28,28,1,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-57,AJ Finch,IS Sodhi,MS Wade,,4,0,4,70,32,29,2,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-58,AJ Finch,IS Sodhi,MS Wade,,0,0,0,70,32,30,3,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-59,AJ Finch,IS Sodhi,MS Wade,,4,0,4,74,36,31,4,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-60,AJ Finch,IS Sodhi,MS Wade,,0,0,0,74,36,32,5,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-61,AJ Finch,IS Sodhi,MS Wade,,0,0,0,74,36,33,6,-,10,caught,AJ Finch,MJ Santner,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-62,MS Wade,MS Chapman,GJ Maxwell,,0,0,0,74,32,22,1,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-63,MS Wade,MS Chapman,GJ Maxwell,,1,0,1,75,33,23,2,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-64,GJ Maxwell,MS Chapman,MS Wade,,1,0,1,76,1,1,3,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-65,MS Wade,MS Chapman,GJ Maxwell,,1,0,1,77,34,24,4,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-66,GJ Maxwell,MS Chapman,MS Wade,,0,0,0,77,1,2,5,-,11,caught,GJ Maxwell,TA Boult,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-67,MP Stoinis,MS Chapman,MS Wade,,0,0,0,77,0,1,6,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-68,MS Wade,IS Sodhi,MP Stoinis,,6,0,6,83,40,25,1,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-69,MS Wade,IS Sodhi,MP Stoinis,,1,0,1,84,41,26,2,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-70,MP Stoinis,IS Sodhi,MS Wade,,0,0,0,84,0,2,3,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-71,MP Stoinis,IS Sodhi,MS Wade,,0,0,0,84,0,3,4,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-72,MP Stoinis,IS Sodhi,MS Wade,,1,0,1,85,1,4,5,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-73,MS Wade,IS Sodhi,MP Stoinis,,1,0,1,86,42,27,6,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-74,MS Wade,GD Phillips,MP Stoinis,,1,0,1,87,43,28,1,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-75,MP Stoinis,GD Phillips,MS Wade,,4,0,4,91,5,5,2,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-76,MP Stoinis,GD Phillips,MS Wade,{'wides': 1},0,1,1,92,5,6,3,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-77,MP Stoinis,GD Phillips,MS Wade,,4,0,4,96,9,7,4,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-78,MP Stoinis,GD Phillips,MS Wade,,0,0,0,96,9,8,5,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-79,MP Stoinis,GD Phillips,MS Wade,{'wides': 1},0,1,1,97,9,9,6,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-80,MP Stoinis,GD Phillips,MS Wade,,0,0,0,97,9,10,7,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-81,MP Stoinis,GD Phillips,MS Wade,{'wides': 1},0,1,1,98,9,11,8,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-82,MP Stoinis,GD Phillips,MS Wade,,1,0,1,99,10,12,9,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-83,MP Stoinis,MJ Santner,MS Wade,,0,0,0,99,10,13,1,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-84,MP Stoinis,MJ Santner,MS Wade,,0,0,0,99,10,14,2,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-85,MP Stoinis,MJ Santner,MS Wade,,1,0,1,100,11,15,3,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-86,MS Wade,MJ Santner,MP Stoinis,,1,0,1,101,44,29,4,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-87,MP Stoinis,MJ Santner,MS Wade,,0,0,0,101,11,16,5,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-88,MP Stoinis,MJ Santner,MS Wade,,1,0,1,102,12,17,6,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-89,MP Stoinis,TA Boult,MS Wade,,1,0,1,103,13,18,1,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-90,MS Wade,TA Boult,MP Stoinis,,0,0,0,103,44,30,2,-,15,caught,MS Wade,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-91,MP Stoinis,TA Boult,AC Agar,,1,0,1,104,14,19,3,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-92,AC Agar,TA Boult,MP Stoinis,,1,0,1,105,1,1,4,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-93,MP Stoinis,TA Boult,AC Agar,,0,0,0,105,14,20,5,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-94,MP Stoinis,TA Boult,AC Agar,,1,0,1,106,15,21,6,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-95,MP Stoinis,MJ Santner,AC Agar,,1,0,1,107,16,22,1,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-96,AC Agar,MJ Santner,MP Stoinis,,1,0,1,108,2,2,2,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-97,MP Stoinis,MJ Santner,AC Agar,,1,0,1,109,17,23,3,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-98,AC Agar,MJ Santner,MP Stoinis,,1,0,1,110,3,3,4,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-99,MP Stoinis,MJ Santner,AC Agar,,1,0,1,111,18,24,5,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-100,AC Agar,MJ Santner,MP Stoinis,,1,0,1,112,4,4,6,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-101,AC Agar,TG Southee,MP Stoinis,,1,0,1,113,5,5,1,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-102,MP Stoinis,TG Southee,AC Agar,,0,0,0,113,18,25,2,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-103,MP Stoinis,TG Southee,AC Agar,,1,0,1,114,19,26,3,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-104,AC Agar,TG Southee,MP Stoinis,,1,0,1,115,6,6,4,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-105,MP Stoinis,TG Southee,AC Agar,,6,0,6,121,25,27,5,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-106,MP Stoinis,TG Southee,AC Agar,,1,0,1,122,26,28,6,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-107,MP Stoinis,IS Sodhi,AC Agar,,0,0,0,122,26,29,1,-,18,caught,MP Stoinis,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-108,AC Agar,IS Sodhi,MR Marsh,,0,0,0,122,6,7,2,-,18,caught,AC Agar,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-109,MR Marsh,IS Sodhi,JA Richardson,,0,0,0,122,0,1,3,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-110,MR Marsh,IS Sodhi,JA Richardson,,0,0,0,122,0,2,4,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-111,MR Marsh,IS Sodhi,JA Richardson,,1,0,1,123,1,3,5,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-112,JA Richardson,IS Sodhi,MR Marsh,,1,0,1,124,1,1,6,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-113,JA Richardson,TA Boult,MR Marsh,,1,0,1,125,2,2,1,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-114,MR Marsh,TA Boult,JA Richardson,,1,0,1,126,2,4,2,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-115,JA Richardson,TA Boult,MR Marsh,,1,0,1,127,3,3,3,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-116,MR Marsh,TA Boult,JA Richardson,,0,0,0,127,2,5,4,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-117,MR Marsh,TA Boult,JA Richardson,,6,0,6,133,8,6,5,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-118,MR Marsh,TA Boult,JA Richardson,,1,0,1,134,9,7,6,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-119,MR Marsh,TG Southee,JA Richardson,{'wides': 1},0,1,1,135,9,8,1,wides,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-120,MR Marsh,TG Southee,JA Richardson,{'noballs': 1},1,1,2,137,10,9,2,noballs,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-121,JA Richardson,TG Southee,MR Marsh,{'legbyes': 1},0,1,1,138,3,4,3,legbyes,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-122,MR Marsh,TG Southee,JA Richardson,{'wides': 1},0,1,1,139,10,10,4,wides,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-123,MR Marsh,TG Southee,JA Richardson,,0,0,0,139,10,11,5,-,20,bowled,MR Marsh,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-124,KW Richardson,TG Southee,JA Richardson,,1,0,1,140,1,1,6,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-125,JA Richardson,TG Southee,KW Richardson,,1,0,1,141,4,5,7,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-126,KW Richardson,TG Southee,JA Richardson,,1,0,1,142,2,2,8,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
-127,JA Richardson,TG Southee,KW Richardson,,0,0,0,142,4,6,9,-,20,caught,JA Richardson,GD Phillips,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JR Philippe,TG Southee,AJ Finch,0,0,0,0,0,1,1,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+1,JR Philippe,TG Southee,AJ Finch,1,0,1,1,1,2,2,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+2,AJ Finch,TG Southee,JR Philippe,0,0,0,1,0,1,3,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+3,AJ Finch,TG Southee,JR Philippe,4,0,4,5,4,2,4,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+4,AJ Finch,TG Southee,JR Philippe,1,0,1,6,5,3,5,-,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+5,JR Philippe,TG Southee,AJ Finch,0,1,1,7,1,3,6,legbyes,1,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+6,JR Philippe,MJ Santner,AJ Finch,0,0,0,7,1,4,1,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+7,JR Philippe,MJ Santner,AJ Finch,0,0,0,7,1,5,2,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+8,JR Philippe,MJ Santner,AJ Finch,1,0,1,8,2,6,3,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+9,AJ Finch,MJ Santner,JR Philippe,0,0,0,8,5,4,4,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+10,AJ Finch,MJ Santner,JR Philippe,0,0,0,8,5,5,5,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+11,AJ Finch,MJ Santner,JR Philippe,0,0,0,8,5,6,6,-,2,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+12,JR Philippe,TA Boult,AJ Finch,0,0,0,8,2,7,1,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+13,JR Philippe,TA Boult,AJ Finch,0,0,0,8,2,8,2,-,3,lbw,JR Philippe,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+14,MS Wade,TA Boult,AJ Finch,0,0,0,8,0,1,3,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+15,MS Wade,TA Boult,AJ Finch,4,0,4,12,4,2,4,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+16,MS Wade,TA Boult,AJ Finch,1,0,1,13,5,3,5,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+17,AJ Finch,TA Boult,MS Wade,1,0,1,14,6,7,6,-,3,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+18,AJ Finch,MJ Santner,MS Wade,0,0,0,14,6,8,1,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+19,AJ Finch,MJ Santner,MS Wade,0,0,0,14,6,9,2,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+20,AJ Finch,MJ Santner,MS Wade,4,0,4,18,10,10,3,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+21,AJ Finch,MJ Santner,MS Wade,1,0,1,19,11,11,4,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+22,MS Wade,MJ Santner,AJ Finch,2,0,2,21,7,4,5,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+23,MS Wade,MJ Santner,AJ Finch,4,0,4,25,11,5,6,-,4,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+24,AJ Finch,TA Boult,MS Wade,0,0,0,25,11,12,1,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+25,AJ Finch,TA Boult,MS Wade,0,1,1,26,11,13,2,legbyes,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+26,MS Wade,TA Boult,AJ Finch,0,0,0,26,11,6,3,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+27,MS Wade,TA Boult,AJ Finch,0,0,0,26,11,7,4,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+28,MS Wade,TA Boult,AJ Finch,4,0,4,30,15,8,5,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+29,MS Wade,TA Boult,AJ Finch,2,0,2,32,17,9,6,-,5,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+30,AJ Finch,TG Southee,MS Wade,1,0,1,33,12,14,1,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+31,MS Wade,TG Southee,AJ Finch,0,1,1,34,17,10,2,wides,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+32,MS Wade,TG Southee,AJ Finch,1,0,1,35,18,11,3,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+33,AJ Finch,TG Southee,MS Wade,0,0,0,35,12,15,4,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+34,AJ Finch,TG Southee,MS Wade,4,0,4,39,16,16,5,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+35,AJ Finch,TG Southee,MS Wade,0,1,1,40,16,17,6,wides,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+36,AJ Finch,TG Southee,MS Wade,1,0,1,41,17,18,7,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+37,MS Wade,TG Southee,AJ Finch,6,0,6,47,24,12,8,-,6,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+38,AJ Finch,MS Chapman,MS Wade,1,0,1,48,18,19,1,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+39,MS Wade,MS Chapman,AJ Finch,1,0,1,49,25,13,2,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+40,AJ Finch,MS Chapman,MS Wade,1,0,1,50,19,20,3,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+41,MS Wade,MS Chapman,AJ Finch,2,0,2,52,27,14,4,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+42,MS Wade,MS Chapman,AJ Finch,1,0,1,53,28,15,5,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+43,AJ Finch,MS Chapman,MS Wade,0,0,0,53,19,21,6,-,7,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+44,MS Wade,IS Sodhi,AJ Finch,1,0,1,54,29,16,1,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+45,AJ Finch,IS Sodhi,MS Wade,1,0,1,55,20,22,2,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+46,MS Wade,IS Sodhi,AJ Finch,1,0,1,56,30,17,3,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+47,AJ Finch,IS Sodhi,MS Wade,1,0,1,57,21,23,4,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+48,MS Wade,IS Sodhi,AJ Finch,1,0,1,58,31,18,5,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+49,AJ Finch,IS Sodhi,MS Wade,0,0,0,58,21,24,6,-,8,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+50,MS Wade,GD Phillips,AJ Finch,0,0,0,58,31,19,1,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+51,MS Wade,GD Phillips,AJ Finch,1,0,1,59,32,20,2,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+52,AJ Finch,GD Phillips,MS Wade,6,0,6,65,27,25,3,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+53,AJ Finch,GD Phillips,MS Wade,0,0,0,65,27,26,4,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+54,AJ Finch,GD Phillips,MS Wade,1,0,1,66,28,27,5,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+55,MS Wade,GD Phillips,AJ Finch,0,0,0,66,32,21,6,-,9,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+56,AJ Finch,IS Sodhi,MS Wade,0,0,0,66,28,28,1,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+57,AJ Finch,IS Sodhi,MS Wade,4,0,4,70,32,29,2,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+58,AJ Finch,IS Sodhi,MS Wade,0,0,0,70,32,30,3,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+59,AJ Finch,IS Sodhi,MS Wade,4,0,4,74,36,31,4,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+60,AJ Finch,IS Sodhi,MS Wade,0,0,0,74,36,32,5,-,10,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+61,AJ Finch,IS Sodhi,MS Wade,0,0,0,74,36,33,6,-,10,caught,AJ Finch,MJ Santner,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+62,MS Wade,MS Chapman,GJ Maxwell,0,0,0,74,32,22,1,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+63,MS Wade,MS Chapman,GJ Maxwell,1,0,1,75,33,23,2,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+64,GJ Maxwell,MS Chapman,MS Wade,1,0,1,76,1,1,3,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+65,MS Wade,MS Chapman,GJ Maxwell,1,0,1,77,34,24,4,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+66,GJ Maxwell,MS Chapman,MS Wade,0,0,0,77,1,2,5,-,11,caught,GJ Maxwell,TA Boult,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+67,MP Stoinis,MS Chapman,MS Wade,0,0,0,77,0,1,6,-,11,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+68,MS Wade,IS Sodhi,MP Stoinis,6,0,6,83,40,25,1,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+69,MS Wade,IS Sodhi,MP Stoinis,1,0,1,84,41,26,2,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+70,MP Stoinis,IS Sodhi,MS Wade,0,0,0,84,0,2,3,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+71,MP Stoinis,IS Sodhi,MS Wade,0,0,0,84,0,3,4,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+72,MP Stoinis,IS Sodhi,MS Wade,1,0,1,85,1,4,5,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+73,MS Wade,IS Sodhi,MP Stoinis,1,0,1,86,42,27,6,-,12,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+74,MS Wade,GD Phillips,MP Stoinis,1,0,1,87,43,28,1,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+75,MP Stoinis,GD Phillips,MS Wade,4,0,4,91,5,5,2,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+76,MP Stoinis,GD Phillips,MS Wade,0,1,1,92,5,6,3,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+77,MP Stoinis,GD Phillips,MS Wade,4,0,4,96,9,7,4,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+78,MP Stoinis,GD Phillips,MS Wade,0,0,0,96,9,8,5,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+79,MP Stoinis,GD Phillips,MS Wade,0,1,1,97,9,9,6,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+80,MP Stoinis,GD Phillips,MS Wade,0,0,0,97,9,10,7,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+81,MP Stoinis,GD Phillips,MS Wade,0,1,1,98,9,11,8,wides,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+82,MP Stoinis,GD Phillips,MS Wade,1,0,1,99,10,12,9,-,13,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+83,MP Stoinis,MJ Santner,MS Wade,0,0,0,99,10,13,1,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+84,MP Stoinis,MJ Santner,MS Wade,0,0,0,99,10,14,2,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+85,MP Stoinis,MJ Santner,MS Wade,1,0,1,100,11,15,3,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+86,MS Wade,MJ Santner,MP Stoinis,1,0,1,101,44,29,4,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+87,MP Stoinis,MJ Santner,MS Wade,0,0,0,101,11,16,5,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+88,MP Stoinis,MJ Santner,MS Wade,1,0,1,102,12,17,6,-,14,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+89,MP Stoinis,TA Boult,MS Wade,1,0,1,103,13,18,1,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+90,MS Wade,TA Boult,MP Stoinis,0,0,0,103,44,30,2,-,15,caught,MS Wade,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+91,MP Stoinis,TA Boult,AC Agar,1,0,1,104,14,19,3,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+92,AC Agar,TA Boult,MP Stoinis,1,0,1,105,1,1,4,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+93,MP Stoinis,TA Boult,AC Agar,0,0,0,105,14,20,5,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+94,MP Stoinis,TA Boult,AC Agar,1,0,1,106,15,21,6,-,15,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+95,MP Stoinis,MJ Santner,AC Agar,1,0,1,107,16,22,1,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+96,AC Agar,MJ Santner,MP Stoinis,1,0,1,108,2,2,2,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+97,MP Stoinis,MJ Santner,AC Agar,1,0,1,109,17,23,3,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+98,AC Agar,MJ Santner,MP Stoinis,1,0,1,110,3,3,4,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+99,MP Stoinis,MJ Santner,AC Agar,1,0,1,111,18,24,5,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+100,AC Agar,MJ Santner,MP Stoinis,1,0,1,112,4,4,6,-,16,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+101,AC Agar,TG Southee,MP Stoinis,1,0,1,113,5,5,1,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+102,MP Stoinis,TG Southee,AC Agar,0,0,0,113,18,25,2,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+103,MP Stoinis,TG Southee,AC Agar,1,0,1,114,19,26,3,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+104,AC Agar,TG Southee,MP Stoinis,1,0,1,115,6,6,4,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+105,MP Stoinis,TG Southee,AC Agar,6,0,6,121,25,27,5,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+106,MP Stoinis,TG Southee,AC Agar,1,0,1,122,26,28,6,-,17,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+107,MP Stoinis,IS Sodhi,AC Agar,0,0,0,122,26,29,1,-,18,caught,MP Stoinis,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+108,AC Agar,IS Sodhi,MR Marsh,0,0,0,122,6,7,2,-,18,caught,AC Agar,MJ Guptill,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+109,MR Marsh,IS Sodhi,JA Richardson,0,0,0,122,0,1,3,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+110,MR Marsh,IS Sodhi,JA Richardson,0,0,0,122,0,2,4,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+111,MR Marsh,IS Sodhi,JA Richardson,1,0,1,123,1,3,5,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+112,JA Richardson,IS Sodhi,MR Marsh,1,0,1,124,1,1,6,-,18,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+113,JA Richardson,TA Boult,MR Marsh,1,0,1,125,2,2,1,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+114,MR Marsh,TA Boult,JA Richardson,1,0,1,126,2,4,2,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+115,JA Richardson,TA Boult,MR Marsh,1,0,1,127,3,3,3,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+116,MR Marsh,TA Boult,JA Richardson,0,0,0,127,2,5,4,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+117,MR Marsh,TA Boult,JA Richardson,6,0,6,133,8,6,5,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+118,MR Marsh,TA Boult,JA Richardson,1,0,1,134,9,7,6,-,19,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+119,MR Marsh,TG Southee,JA Richardson,0,1,1,135,9,8,1,wides,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+120,MR Marsh,TG Southee,JA Richardson,1,1,2,137,10,9,2,noballs,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+121,JA Richardson,TG Southee,MR Marsh,0,1,1,138,3,4,3,legbyes,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+122,MR Marsh,TG Southee,JA Richardson,0,1,1,139,10,10,4,wides,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+123,MR Marsh,TG Southee,JA Richardson,0,0,0,139,10,11,5,-,20,bowled,MR Marsh,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+124,KW Richardson,TG Southee,JA Richardson,1,0,1,140,1,1,6,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+125,JA Richardson,TG Southee,KW Richardson,1,0,1,141,4,5,7,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+126,KW Richardson,TG Southee,JA Richardson,1,0,1,142,2,2,8,-,20,0,,,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand
+127,JA Richardson,TG Southee,KW Richardson,0,0,0,142,4,6,9,-,20,caught,JA Richardson,GD Phillips,bat,Australia,1,Sky Stadium,2021-03-07,Australia,New Zealand

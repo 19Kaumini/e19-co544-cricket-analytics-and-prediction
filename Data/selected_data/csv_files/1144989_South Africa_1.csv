@@ -1,65 +1,65 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,Q de Kock,JP Behrendorff,RR Hendricks,2,0,2,2,2,1,1,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-1,Q de Kock,JP Behrendorff,RR Hendricks,0,0,0,2,2,2,2,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-2,Q de Kock,JP Behrendorff,RR Hendricks,6,0,6,8,8,3,3,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-3,Q de Kock,JP Behrendorff,RR Hendricks,3,0,3,11,11,4,4,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-4,RR Hendricks,JP Behrendorff,Q de Kock,4,0,4,15,4,1,5,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-5,RR Hendricks,JP Behrendorff,Q de Kock,0,0,0,15,4,2,6,1,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-6,Q de Kock,B Stanlake,RR Hendricks,1,0,1,16,12,5,1,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-7,RR Hendricks,B Stanlake,Q de Kock,0,1,1,17,4,3,2,2,{'wides': 1},wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-8,RR Hendricks,B Stanlake,Q de Kock,1,0,1,18,5,4,3,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-9,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,6,4,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-10,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,7,5,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-11,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,8,6,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-12,Q de Kock,B Stanlake,RR Hendricks,6,0,6,24,18,9,7,2,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-13,RR Hendricks,NM Coulter-Nile,Q de Kock,0,4,4,28,5,5,1,3,{'legbyes': 4},legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-14,RR Hendricks,NM Coulter-Nile,Q de Kock,4,0,4,32,9,6,2,3,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-15,RR Hendricks,NM Coulter-Nile,Q de Kock,6,0,6,38,15,7,3,3,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-16,RR Hendricks,NM Coulter-Nile,Q de Kock,4,0,4,42,19,8,4,3,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-17,RR Hendricks,NM Coulter-Nile,Q de Kock,0,0,0,42,19,9,5,3,,-,caught,RR Hendricks,BR McDermott,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-18,Q de Kock,NM Coulter-Nile,F du Plessis,0,0,0,42,18,10,6,3,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-19,F du Plessis,GJ Maxwell,Q de Kock,1,0,1,43,1,1,1,4,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-20,Q de Kock,GJ Maxwell,F du Plessis,1,0,1,44,19,11,2,4,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-21,F du Plessis,GJ Maxwell,Q de Kock,2,0,2,46,3,2,3,4,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-22,F du Plessis,GJ Maxwell,Q de Kock,1,0,1,47,4,3,4,4,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-23,Q de Kock,GJ Maxwell,F du Plessis,0,0,0,47,19,12,5,4,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-24,Q de Kock,GJ Maxwell,F du Plessis,0,1,1,48,19,13,6,4,{'legbyes': 1},legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-25,Q de Kock,DJM Short,F du Plessis,3,0,3,51,22,14,1,5,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-26,F du Plessis,DJM Short,Q de Kock,1,0,1,52,5,4,2,5,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-27,Q de Kock,DJM Short,F du Plessis,0,1,1,53,22,15,3,5,{'legbyes': 1},legbyes,0,,,"{'by': 'Australia', 'batter': 'Q de Kock', 'decision': 'struck down'}",field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-28,F du Plessis,DJM Short,Q de Kock,2,0,2,55,7,5,4,5,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-29,F du Plessis,DJM Short,Q de Kock,4,0,4,59,11,6,5,5,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-30,F du Plessis,DJM Short,Q de Kock,2,0,2,61,13,7,6,5,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-31,Q de Kock,GJ Maxwell,F du Plessis,0,0,0,61,22,16,1,6,,-,stumped,Q de Kock,AT Carey,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-32,H Klaasen,GJ Maxwell,F du Plessis,1,0,1,62,1,1,2,6,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-33,F du Plessis,GJ Maxwell,H Klaasen,4,0,4,66,17,8,3,6,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-34,F du Plessis,GJ Maxwell,H Klaasen,0,0,0,66,17,9,4,6,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-35,F du Plessis,GJ Maxwell,H Klaasen,0,0,0,66,17,10,5,6,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-36,F du Plessis,GJ Maxwell,H Klaasen,4,0,4,70,21,11,6,6,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-37,H Klaasen,B Stanlake,F du Plessis,2,0,2,72,3,2,1,7,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-38,H Klaasen,B Stanlake,F du Plessis,4,0,4,76,7,3,2,7,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-39,H Klaasen,B Stanlake,F du Plessis,0,2,2,78,7,4,3,7,{'wides': 2},wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-40,F du Plessis,B Stanlake,H Klaasen,0,0,0,78,21,12,4,7,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-41,F du Plessis,B Stanlake,H Klaasen,2,0,2,80,23,13,5,7,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-42,F du Plessis,B Stanlake,H Klaasen,4,0,4,84,27,14,6,7,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-43,F du Plessis,B Stanlake,H Klaasen,0,0,0,84,27,15,7,7,,-,caught,F du Plessis,GJ Maxwell,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-44,DA Miller,AJ Tye,H Klaasen,0,1,1,85,0,1,1,8,{'noballs': 1},noballs,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-45,DA Miller,AJ Tye,H Klaasen,1,0,1,86,1,2,2,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-46,H Klaasen,AJ Tye,DA Miller,1,0,1,87,8,5,3,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-47,DA Miller,AJ Tye,H Klaasen,2,0,2,89,3,3,4,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-48,DA Miller,AJ Tye,H Klaasen,4,0,4,93,7,4,5,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-49,DA Miller,AJ Tye,H Klaasen,1,0,1,94,8,5,6,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-50,H Klaasen,AJ Tye,DA Miller,4,0,4,98,12,6,7,8,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-51,DA Miller,NM Coulter-Nile,H Klaasen,1,0,1,99,9,6,1,9,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-52,H Klaasen,NM Coulter-Nile,DA Miller,0,0,0,99,12,7,2,9,,-,caught,H Klaasen,GJ Maxwell,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-53,DA Miller,NM Coulter-Nile,F Behardien,2,0,2,101,11,7,3,9,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-54,DA Miller,NM Coulter-Nile,F Behardien,0,0,0,101,11,8,4,9,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-55,DA Miller,NM Coulter-Nile,F Behardien,0,1,1,102,11,9,5,9,{'legbyes': 1},legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-56,F Behardien,NM Coulter-Nile,DA Miller,2,0,2,104,2,1,6,9,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-57,DA Miller,AJ Tye,F Behardien,0,0,0,104,11,10,1,10,,-,caught,DA Miller,DJM Short,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-58,F Behardien,AJ Tye,CH Morris,1,0,1,105,3,2,2,10,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-59,CH Morris,AJ Tye,F Behardien,0,1,1,106,0,1,3,10,{'wides': 1},wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-60,CH Morris,AJ Tye,F Behardien,0,0,0,106,0,2,4,10,,-,caught,CH Morris,AT Carey,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-61,AL Phehlukwayo,AJ Tye,F Behardien,2,0,2,108,2,1,5,10,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-62,AL Phehlukwayo,AJ Tye,F Behardien,0,0,0,108,2,2,6,10,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
-63,AL Phehlukwayo,AJ Tye,F Behardien,0,0,0,108,2,3,7,10,,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,Q de Kock,JP Behrendorff,RR Hendricks,2,0,2,2,2,1,1,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+1,Q de Kock,JP Behrendorff,RR Hendricks,0,0,0,2,2,2,2,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+2,Q de Kock,JP Behrendorff,RR Hendricks,6,0,6,8,8,3,3,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+3,Q de Kock,JP Behrendorff,RR Hendricks,3,0,3,11,11,4,4,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+4,RR Hendricks,JP Behrendorff,Q de Kock,4,0,4,15,4,1,5,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+5,RR Hendricks,JP Behrendorff,Q de Kock,0,0,0,15,4,2,6,1,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+6,Q de Kock,B Stanlake,RR Hendricks,1,0,1,16,12,5,1,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+7,RR Hendricks,B Stanlake,Q de Kock,0,1,1,17,4,3,2,2,wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+8,RR Hendricks,B Stanlake,Q de Kock,1,0,1,18,5,4,3,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+9,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,6,4,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+10,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,7,5,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+11,Q de Kock,B Stanlake,RR Hendricks,0,0,0,18,12,8,6,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+12,Q de Kock,B Stanlake,RR Hendricks,6,0,6,24,18,9,7,2,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+13,RR Hendricks,NM Coulter-Nile,Q de Kock,0,4,4,28,5,5,1,3,legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+14,RR Hendricks,NM Coulter-Nile,Q de Kock,4,0,4,32,9,6,2,3,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+15,RR Hendricks,NM Coulter-Nile,Q de Kock,6,0,6,38,15,7,3,3,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+16,RR Hendricks,NM Coulter-Nile,Q de Kock,4,0,4,42,19,8,4,3,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+17,RR Hendricks,NM Coulter-Nile,Q de Kock,0,0,0,42,19,9,5,3,-,caught,RR Hendricks,BR McDermott,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+18,Q de Kock,NM Coulter-Nile,F du Plessis,0,0,0,42,18,10,6,3,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+19,F du Plessis,GJ Maxwell,Q de Kock,1,0,1,43,1,1,1,4,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+20,Q de Kock,GJ Maxwell,F du Plessis,1,0,1,44,19,11,2,4,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+21,F du Plessis,GJ Maxwell,Q de Kock,2,0,2,46,3,2,3,4,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+22,F du Plessis,GJ Maxwell,Q de Kock,1,0,1,47,4,3,4,4,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+23,Q de Kock,GJ Maxwell,F du Plessis,0,0,0,47,19,12,5,4,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+24,Q de Kock,GJ Maxwell,F du Plessis,0,1,1,48,19,13,6,4,legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+25,Q de Kock,DJM Short,F du Plessis,3,0,3,51,22,14,1,5,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+26,F du Plessis,DJM Short,Q de Kock,1,0,1,52,5,4,2,5,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+27,Q de Kock,DJM Short,F du Plessis,0,1,1,53,22,15,3,5,legbyes,0,,,"{'by': 'Australia', 'batter': 'Q de Kock', 'decision': 'struck down'}",field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+28,F du Plessis,DJM Short,Q de Kock,2,0,2,55,7,5,4,5,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+29,F du Plessis,DJM Short,Q de Kock,4,0,4,59,11,6,5,5,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+30,F du Plessis,DJM Short,Q de Kock,2,0,2,61,13,7,6,5,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+31,Q de Kock,GJ Maxwell,F du Plessis,0,0,0,61,22,16,1,6,-,stumped,Q de Kock,AT Carey,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+32,H Klaasen,GJ Maxwell,F du Plessis,1,0,1,62,1,1,2,6,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+33,F du Plessis,GJ Maxwell,H Klaasen,4,0,4,66,17,8,3,6,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+34,F du Plessis,GJ Maxwell,H Klaasen,0,0,0,66,17,9,4,6,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+35,F du Plessis,GJ Maxwell,H Klaasen,0,0,0,66,17,10,5,6,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+36,F du Plessis,GJ Maxwell,H Klaasen,4,0,4,70,21,11,6,6,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+37,H Klaasen,B Stanlake,F du Plessis,2,0,2,72,3,2,1,7,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+38,H Klaasen,B Stanlake,F du Plessis,4,0,4,76,7,3,2,7,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+39,H Klaasen,B Stanlake,F du Plessis,0,2,2,78,7,4,3,7,wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+40,F du Plessis,B Stanlake,H Klaasen,0,0,0,78,21,12,4,7,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+41,F du Plessis,B Stanlake,H Klaasen,2,0,2,80,23,13,5,7,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+42,F du Plessis,B Stanlake,H Klaasen,4,0,4,84,27,14,6,7,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+43,F du Plessis,B Stanlake,H Klaasen,0,0,0,84,27,15,7,7,-,caught,F du Plessis,GJ Maxwell,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+44,DA Miller,AJ Tye,H Klaasen,0,1,1,85,0,1,1,8,noballs,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+45,DA Miller,AJ Tye,H Klaasen,1,0,1,86,1,2,2,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+46,H Klaasen,AJ Tye,DA Miller,1,0,1,87,8,5,3,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+47,DA Miller,AJ Tye,H Klaasen,2,0,2,89,3,3,4,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+48,DA Miller,AJ Tye,H Klaasen,4,0,4,93,7,4,5,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+49,DA Miller,AJ Tye,H Klaasen,1,0,1,94,8,5,6,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+50,H Klaasen,AJ Tye,DA Miller,4,0,4,98,12,6,7,8,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+51,DA Miller,NM Coulter-Nile,H Klaasen,1,0,1,99,9,6,1,9,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+52,H Klaasen,NM Coulter-Nile,DA Miller,0,0,0,99,12,7,2,9,-,caught,H Klaasen,GJ Maxwell,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+53,DA Miller,NM Coulter-Nile,F Behardien,2,0,2,101,11,7,3,9,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+54,DA Miller,NM Coulter-Nile,F Behardien,0,0,0,101,11,8,4,9,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+55,DA Miller,NM Coulter-Nile,F Behardien,0,1,1,102,11,9,5,9,legbyes,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+56,F Behardien,NM Coulter-Nile,DA Miller,2,0,2,104,2,1,6,9,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+57,DA Miller,AJ Tye,F Behardien,0,0,0,104,11,10,1,10,-,caught,DA Miller,DJM Short,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+58,F Behardien,AJ Tye,CH Morris,1,0,1,105,3,2,2,10,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+59,CH Morris,AJ Tye,F Behardien,0,1,1,106,0,1,3,10,wides,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+60,CH Morris,AJ Tye,F Behardien,0,0,0,106,0,2,4,10,-,caught,CH Morris,AT Carey,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+61,AL Phehlukwayo,AJ Tye,F Behardien,2,0,2,108,2,1,5,10,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+62,AL Phehlukwayo,AJ Tye,F Behardien,0,0,0,108,2,2,6,10,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia
+63,AL Phehlukwayo,AJ Tye,F Behardien,0,0,0,108,2,3,7,10,-,0,,,,field,Australia,1,Carrara Oval,2018-11-17,South Africa,Australia

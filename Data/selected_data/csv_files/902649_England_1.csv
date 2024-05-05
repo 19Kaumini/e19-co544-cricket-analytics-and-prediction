@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JJ Roy,Anwar Ali,AD Hales,0,0,0,0,0,1,1,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-1,JJ Roy,Anwar Ali,AD Hales,3,0,3,3,3,2,2,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-2,AD Hales,Anwar Ali,JJ Roy,0,0,0,3,0,1,3,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-3,AD Hales,Anwar Ali,JJ Roy,0,0,0,3,0,2,4,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-4,AD Hales,Anwar Ali,JJ Roy,1,0,1,4,1,3,5,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-5,JJ Roy,Anwar Ali,AD Hales,1,0,1,5,4,3,6,1,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-6,JJ Roy,Sohail Tanvir,AD Hales,0,1,1,6,4,4,1,2,{'wides': 1},wides,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-7,JJ Roy,Sohail Tanvir,AD Hales,1,0,1,7,5,5,2,2,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-8,AD Hales,Sohail Tanvir,JJ Roy,0,0,0,7,1,4,3,2,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-9,AD Hales,Sohail Tanvir,JJ Roy,4,0,4,11,5,5,4,2,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-10,AD Hales,Sohail Tanvir,JJ Roy,1,0,1,12,6,6,5,2,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-11,JJ Roy,Sohail Tanvir,AD Hales,4,0,4,16,9,6,6,2,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-12,JJ Roy,Sohail Tanvir,AD Hales,0,0,0,16,9,7,7,2,,-,caught,JJ Roy,Imran Khan (1),bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-13,AD Hales,Anwar Ali,JM Vince,0,0,0,16,6,7,1,3,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-14,AD Hales,Anwar Ali,JM Vince,2,0,2,18,8,8,2,3,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-15,AD Hales,Anwar Ali,JM Vince,0,0,0,18,8,9,3,3,,-,caught,AD Hales,Shahid Afridi,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-16,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,1,4,3,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-17,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,2,5,3,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-18,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,3,6,3,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-19,JM Vince,Sohail Tanvir,MM Ali,0,0,0,18,0,1,1,4,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-20,JM Vince,Sohail Tanvir,MM Ali,0,1,1,19,0,2,2,4,{'legbyes': 1},legbyes,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-21,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,4,3,4,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-22,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,5,4,4,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-23,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,6,5,4,,-,caught,MM Ali,Umar Akmal,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-24,EJG Morgan,Sohail Tanvir,JM Vince,0,0,0,19,0,1,6,4,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-25,JM Vince,Anwar Ali,EJG Morgan,0,0,0,19,0,3,1,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-26,JM Vince,Anwar Ali,EJG Morgan,0,0,0,19,0,4,2,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-27,JM Vince,Anwar Ali,EJG Morgan,1,0,1,20,1,5,3,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-28,EJG Morgan,Anwar Ali,JM Vince,1,0,1,21,1,2,4,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-29,JM Vince,Anwar Ali,EJG Morgan,0,0,0,21,1,6,5,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-30,JM Vince,Anwar Ali,EJG Morgan,4,0,4,25,5,7,6,5,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-31,EJG Morgan,Wahab Riaz,JM Vince,4,0,4,29,5,3,1,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-32,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,30,6,4,2,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-33,JM Vince,Wahab Riaz,EJG Morgan,4,0,4,34,9,8,3,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-34,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,35,10,9,4,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-35,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,36,7,5,5,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-36,JM Vince,Wahab Riaz,EJG Morgan,4,0,4,40,14,10,6,6,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-37,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,40,7,6,1,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-38,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,41,8,7,2,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-39,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,41,14,11,3,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-40,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,41,14,12,4,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-41,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,42,15,13,5,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-42,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,43,9,8,6,7,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-43,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,44,10,9,1,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-44,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,44,15,14,2,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-45,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,44,15,15,3,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-46,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,45,16,16,4,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-47,EJG Morgan,Imran Khan (1),JM Vince,4,0,4,49,14,10,5,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-48,EJG Morgan,Imran Khan (1),JM Vince,0,0,0,49,14,11,6,8,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-49,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,49,16,17,1,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-50,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,53,20,18,2,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-51,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,54,21,19,3,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-52,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,54,14,12,4,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-53,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,54,14,13,5,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-54,EJG Morgan,Shahid Afridi,JM Vince,2,0,2,56,16,14,6,9,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-55,JM Vince,Imran Khan (1),EJG Morgan,6,0,6,62,27,20,1,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-56,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,63,28,21,2,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-57,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,64,17,15,3,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-58,JM Vince,Imran Khan (1),EJG Morgan,0,1,1,65,28,22,4,10,{'wides': 1},wides,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-59,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,65,28,23,5,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-60,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,66,29,24,6,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-61,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,67,18,16,7,10,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-62,EJG Morgan,Shahid Afridi,JM Vince,4,0,4,71,22,17,1,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-63,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,72,23,18,2,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-64,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,72,29,25,3,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-65,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,72,29,26,4,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-66,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,76,33,27,5,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-67,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,77,34,28,6,11,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-68,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,78,35,29,1,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-69,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,79,24,19,2,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-70,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,30,3,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-71,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,31,4,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-72,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,32,5,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-73,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,80,36,33,6,12,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-74,JM Vince,Shahid Afridi,EJG Morgan,0,1,1,81,36,34,1,13,{'legbyes': 1},legbyes,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-75,EJG Morgan,Shahid Afridi,JM Vince,6,0,6,87,30,20,2,13,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-76,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,88,31,21,3,13,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-77,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,92,40,35,4,13,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-78,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,93,41,36,5,13,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-79,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,94,32,22,6,13,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-80,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,23,1,14,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-81,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,24,2,14,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-82,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,25,3,14,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-83,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,26,4,14,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-84,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,95,33,27,5,14,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-85,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,95,41,37,6,14,,-,bowled,JM Vince,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-86,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,96,34,28,1,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-87,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,97,1,1,2,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-88,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,98,35,29,3,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-89,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,99,2,2,4,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-90,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,100,36,30,5,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-91,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,101,3,3,6,15,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-92,SW Billings,Sohail Tanvir,EJG Morgan,0,0,0,101,3,4,1,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-93,SW Billings,Sohail Tanvir,EJG Morgan,2,0,2,103,5,5,2,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-94,SW Billings,Sohail Tanvir,EJG Morgan,4,0,4,107,9,6,3,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-95,SW Billings,Sohail Tanvir,EJG Morgan,1,0,1,108,10,7,4,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-96,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,109,37,31,5,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-97,SW Billings,Sohail Tanvir,EJG Morgan,4,0,4,113,14,8,6,16,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-98,EJG Morgan,Anwar Ali,SW Billings,1,0,1,114,38,32,1,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-99,SW Billings,Anwar Ali,EJG Morgan,0,0,0,114,14,9,2,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-100,SW Billings,Anwar Ali,EJG Morgan,2,0,2,116,16,10,3,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-101,SW Billings,Anwar Ali,EJG Morgan,1,0,1,117,17,11,4,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-102,EJG Morgan,Anwar Ali,SW Billings,1,0,1,118,39,33,5,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-103,SW Billings,Anwar Ali,EJG Morgan,1,0,1,119,18,12,6,17,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-104,SW Billings,Imran Khan (1),EJG Morgan,4,0,4,123,22,13,1,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-105,SW Billings,Imran Khan (1),EJG Morgan,4,0,4,127,26,14,2,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-106,SW Billings,Imran Khan (1),EJG Morgan,6,0,6,133,32,15,3,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-107,SW Billings,Imran Khan (1),EJG Morgan,2,0,2,135,34,16,4,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-108,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,136,35,17,5,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-109,EJG Morgan,Imran Khan (1),SW Billings,2,0,2,138,41,34,6,18,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-110,SW Billings,Wahab Riaz,EJG Morgan,4,0,4,142,39,18,1,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-111,SW Billings,Wahab Riaz,EJG Morgan,6,0,6,148,45,19,2,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-112,SW Billings,Wahab Riaz,EJG Morgan,0,0,0,148,45,20,3,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-113,SW Billings,Wahab Riaz,EJG Morgan,0,0,0,148,45,21,4,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-114,SW Billings,Wahab Riaz,EJG Morgan,2,0,2,150,47,22,5,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-115,SW Billings,Wahab Riaz,EJG Morgan,2,0,2,152,49,23,6,19,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-116,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,153,42,35,1,20,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-117,SW Billings,Sohail Tanvir,EJG Morgan,1,0,1,154,50,24,2,20,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-118,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,155,43,36,3,20,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-119,SW Billings,Sohail Tanvir,EJG Morgan,3,0,3,158,53,25,4,20,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-120,EJG Morgan,Sohail Tanvir,SW Billings,2,0,2,160,45,37,5,20,,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
-121,EJG Morgan,Sohail Tanvir,SW Billings,0,0,0,160,45,38,6,20,,-,run out,SW Billings,Sarfraz Ahmed,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,JJ Roy,Anwar Ali,AD Hales,0,0,0,0,0,1,1,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+1,JJ Roy,Anwar Ali,AD Hales,3,0,3,3,3,2,2,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+2,AD Hales,Anwar Ali,JJ Roy,0,0,0,3,0,1,3,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+3,AD Hales,Anwar Ali,JJ Roy,0,0,0,3,0,2,4,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+4,AD Hales,Anwar Ali,JJ Roy,1,0,1,4,1,3,5,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+5,JJ Roy,Anwar Ali,AD Hales,1,0,1,5,4,3,6,1,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+6,JJ Roy,Sohail Tanvir,AD Hales,0,1,1,6,4,4,1,2,wides,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+7,JJ Roy,Sohail Tanvir,AD Hales,1,0,1,7,5,5,2,2,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+8,AD Hales,Sohail Tanvir,JJ Roy,0,0,0,7,1,4,3,2,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+9,AD Hales,Sohail Tanvir,JJ Roy,4,0,4,11,5,5,4,2,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+10,AD Hales,Sohail Tanvir,JJ Roy,1,0,1,12,6,6,5,2,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+11,JJ Roy,Sohail Tanvir,AD Hales,4,0,4,16,9,6,6,2,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+12,JJ Roy,Sohail Tanvir,AD Hales,0,0,0,16,9,7,7,2,-,caught,JJ Roy,Imran Khan (1),bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+13,AD Hales,Anwar Ali,JM Vince,0,0,0,16,6,7,1,3,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+14,AD Hales,Anwar Ali,JM Vince,2,0,2,18,8,8,2,3,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+15,AD Hales,Anwar Ali,JM Vince,0,0,0,18,8,9,3,3,-,caught,AD Hales,Shahid Afridi,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+16,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,1,4,3,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+17,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,2,5,3,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+18,MM Ali,Anwar Ali,JM Vince,0,0,0,18,0,3,6,3,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+19,JM Vince,Sohail Tanvir,MM Ali,0,0,0,18,0,1,1,4,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+20,JM Vince,Sohail Tanvir,MM Ali,0,1,1,19,0,2,2,4,legbyes,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+21,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,4,3,4,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+22,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,5,4,4,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+23,MM Ali,Sohail Tanvir,JM Vince,0,0,0,19,0,6,5,4,-,caught,MM Ali,Umar Akmal,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+24,EJG Morgan,Sohail Tanvir,JM Vince,0,0,0,19,0,1,6,4,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+25,JM Vince,Anwar Ali,EJG Morgan,0,0,0,19,0,3,1,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+26,JM Vince,Anwar Ali,EJG Morgan,0,0,0,19,0,4,2,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+27,JM Vince,Anwar Ali,EJG Morgan,1,0,1,20,1,5,3,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+28,EJG Morgan,Anwar Ali,JM Vince,1,0,1,21,1,2,4,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+29,JM Vince,Anwar Ali,EJG Morgan,0,0,0,21,1,6,5,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+30,JM Vince,Anwar Ali,EJG Morgan,4,0,4,25,5,7,6,5,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+31,EJG Morgan,Wahab Riaz,JM Vince,4,0,4,29,5,3,1,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+32,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,30,6,4,2,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+33,JM Vince,Wahab Riaz,EJG Morgan,4,0,4,34,9,8,3,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+34,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,35,10,9,4,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+35,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,36,7,5,5,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+36,JM Vince,Wahab Riaz,EJG Morgan,4,0,4,40,14,10,6,6,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+37,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,40,7,6,1,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+38,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,41,8,7,2,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+39,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,41,14,11,3,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+40,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,41,14,12,4,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+41,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,42,15,13,5,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+42,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,43,9,8,6,7,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+43,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,44,10,9,1,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+44,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,44,15,14,2,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+45,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,44,15,15,3,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+46,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,45,16,16,4,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+47,EJG Morgan,Imran Khan (1),JM Vince,4,0,4,49,14,10,5,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+48,EJG Morgan,Imran Khan (1),JM Vince,0,0,0,49,14,11,6,8,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+49,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,49,16,17,1,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+50,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,53,20,18,2,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+51,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,54,21,19,3,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+52,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,54,14,12,4,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+53,EJG Morgan,Shahid Afridi,JM Vince,0,0,0,54,14,13,5,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+54,EJG Morgan,Shahid Afridi,JM Vince,2,0,2,56,16,14,6,9,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+55,JM Vince,Imran Khan (1),EJG Morgan,6,0,6,62,27,20,1,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+56,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,63,28,21,2,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+57,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,64,17,15,3,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+58,JM Vince,Imran Khan (1),EJG Morgan,0,1,1,65,28,22,4,10,wides,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+59,JM Vince,Imran Khan (1),EJG Morgan,0,0,0,65,28,23,5,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+60,JM Vince,Imran Khan (1),EJG Morgan,1,0,1,66,29,24,6,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+61,EJG Morgan,Imran Khan (1),JM Vince,1,0,1,67,18,16,7,10,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+62,EJG Morgan,Shahid Afridi,JM Vince,4,0,4,71,22,17,1,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+63,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,72,23,18,2,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+64,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,72,29,25,3,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+65,JM Vince,Shahid Afridi,EJG Morgan,0,0,0,72,29,26,4,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+66,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,76,33,27,5,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+67,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,77,34,28,6,11,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+68,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,78,35,29,1,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+69,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,79,24,19,2,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+70,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,30,3,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+71,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,31,4,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+72,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,79,35,32,5,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+73,JM Vince,Wahab Riaz,EJG Morgan,1,0,1,80,36,33,6,12,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+74,JM Vince,Shahid Afridi,EJG Morgan,0,1,1,81,36,34,1,13,legbyes,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+75,EJG Morgan,Shahid Afridi,JM Vince,6,0,6,87,30,20,2,13,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+76,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,88,31,21,3,13,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+77,JM Vince,Shahid Afridi,EJG Morgan,4,0,4,92,40,35,4,13,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+78,JM Vince,Shahid Afridi,EJG Morgan,1,0,1,93,41,36,5,13,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+79,EJG Morgan,Shahid Afridi,JM Vince,1,0,1,94,32,22,6,13,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+80,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,23,1,14,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+81,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,24,2,14,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+82,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,25,3,14,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+83,EJG Morgan,Wahab Riaz,JM Vince,0,0,0,94,32,26,4,14,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+84,EJG Morgan,Wahab Riaz,JM Vince,1,0,1,95,33,27,5,14,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+85,JM Vince,Wahab Riaz,EJG Morgan,0,0,0,95,41,37,6,14,-,bowled,JM Vince,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+86,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,96,34,28,1,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+87,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,97,1,1,2,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+88,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,98,35,29,3,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+89,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,99,2,2,4,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+90,EJG Morgan,Imran Khan (1),SW Billings,1,0,1,100,36,30,5,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+91,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,101,3,3,6,15,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+92,SW Billings,Sohail Tanvir,EJG Morgan,0,0,0,101,3,4,1,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+93,SW Billings,Sohail Tanvir,EJG Morgan,2,0,2,103,5,5,2,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+94,SW Billings,Sohail Tanvir,EJG Morgan,4,0,4,107,9,6,3,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+95,SW Billings,Sohail Tanvir,EJG Morgan,1,0,1,108,10,7,4,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+96,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,109,37,31,5,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+97,SW Billings,Sohail Tanvir,EJG Morgan,4,0,4,113,14,8,6,16,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+98,EJG Morgan,Anwar Ali,SW Billings,1,0,1,114,38,32,1,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+99,SW Billings,Anwar Ali,EJG Morgan,0,0,0,114,14,9,2,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+100,SW Billings,Anwar Ali,EJG Morgan,2,0,2,116,16,10,3,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+101,SW Billings,Anwar Ali,EJG Morgan,1,0,1,117,17,11,4,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+102,EJG Morgan,Anwar Ali,SW Billings,1,0,1,118,39,33,5,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+103,SW Billings,Anwar Ali,EJG Morgan,1,0,1,119,18,12,6,17,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+104,SW Billings,Imran Khan (1),EJG Morgan,4,0,4,123,22,13,1,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+105,SW Billings,Imran Khan (1),EJG Morgan,4,0,4,127,26,14,2,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+106,SW Billings,Imran Khan (1),EJG Morgan,6,0,6,133,32,15,3,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+107,SW Billings,Imran Khan (1),EJG Morgan,2,0,2,135,34,16,4,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+108,SW Billings,Imran Khan (1),EJG Morgan,1,0,1,136,35,17,5,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+109,EJG Morgan,Imran Khan (1),SW Billings,2,0,2,138,41,34,6,18,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+110,SW Billings,Wahab Riaz,EJG Morgan,4,0,4,142,39,18,1,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+111,SW Billings,Wahab Riaz,EJG Morgan,6,0,6,148,45,19,2,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+112,SW Billings,Wahab Riaz,EJG Morgan,0,0,0,148,45,20,3,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+113,SW Billings,Wahab Riaz,EJG Morgan,0,0,0,148,45,21,4,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+114,SW Billings,Wahab Riaz,EJG Morgan,2,0,2,150,47,22,5,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+115,SW Billings,Wahab Riaz,EJG Morgan,2,0,2,152,49,23,6,19,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+116,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,153,42,35,1,20,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+117,SW Billings,Sohail Tanvir,EJG Morgan,1,0,1,154,50,24,2,20,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+118,EJG Morgan,Sohail Tanvir,SW Billings,1,0,1,155,43,36,3,20,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+119,SW Billings,Sohail Tanvir,EJG Morgan,3,0,3,158,53,25,4,20,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+120,EJG Morgan,Sohail Tanvir,SW Billings,2,0,2,160,45,37,5,20,-,0,,,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan
+121,EJG Morgan,Sohail Tanvir,SW Billings,0,0,0,160,45,38,6,20,-,run out,SW Billings,Sarfraz Ahmed,bat,England,1,Dubai International Cricket Stadium,2015-11-26,England,Pakistan

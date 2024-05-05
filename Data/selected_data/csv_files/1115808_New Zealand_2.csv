@@ -1,117 +1,117 @@
-,batter,bowler,extras,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,MJ Guptill,Mohammad Amir,{'legbyes': 4},C Munro,0,4,4,4,0,1,1,legbyes,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-1,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,4,0,2,2,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-2,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,4,0,3,3,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-3,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,4,0,4,4,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-4,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,4,0,5,5,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-5,MJ Guptill,Mohammad Amir,,C Munro,1,0,1,5,1,6,6,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-6,MJ Guptill,Rumman Raees,,C Munro,0,0,0,5,1,7,1,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-7,MJ Guptill,Rumman Raees,,C Munro,2,0,2,7,3,8,2,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-8,MJ Guptill,Rumman Raees,,C Munro,0,0,0,7,3,9,3,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-9,MJ Guptill,Rumman Raees,{'wides': 1},C Munro,0,1,1,8,3,10,4,wides,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-10,MJ Guptill,Rumman Raees,,C Munro,1,0,1,9,4,11,5,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-11,C Munro,Rumman Raees,{'noballs': 1},MJ Guptill,1,1,2,11,1,1,6,noballs,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-12,MJ Guptill,Rumman Raees,,C Munro,4,0,4,15,8,12,7,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-13,MJ Guptill,Rumman Raees,,C Munro,1,0,1,16,9,13,8,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-14,MJ Guptill,Mohammad Amir,,C Munro,2,0,2,18,11,14,1,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-15,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,18,11,15,2,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-16,MJ Guptill,Mohammad Amir,,C Munro,6,0,6,24,17,16,3,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-17,MJ Guptill,Mohammad Amir,,C Munro,0,0,0,24,17,17,4,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-18,MJ Guptill,Mohammad Amir,,C Munro,1,0,1,25,18,18,5,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-19,C Munro,Mohammad Amir,,MJ Guptill,0,0,0,25,1,2,6,-,3,lbw,C Munro,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-20,MJ Guptill,Rumman Raees,,KS Williamson,2,0,2,27,20,19,1,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-21,MJ Guptill,Rumman Raees,,KS Williamson,1,0,1,28,21,20,2,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-22,KS Williamson,Rumman Raees,,MJ Guptill,0,0,0,28,0,1,3,-,4,caught,KS Williamson,Haris Sohail,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-23,TC Bruce,Rumman Raees,,MJ Guptill,1,0,1,29,1,1,4,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-24,MJ Guptill,Rumman Raees,,TC Bruce,1,0,1,30,22,21,5,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-25,TC Bruce,Rumman Raees,,MJ Guptill,0,0,0,30,1,2,6,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-26,MJ Guptill,Faheem Ashraf,{'wides': 1},TC Bruce,0,1,1,31,22,22,1,wides,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-27,MJ Guptill,Faheem Ashraf,,TC Bruce,1,0,1,32,23,23,2,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-28,TC Bruce,Faheem Ashraf,,MJ Guptill,4,0,4,36,5,3,3,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-29,TC Bruce,Faheem Ashraf,,MJ Guptill,6,0,6,42,11,4,4,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-30,TC Bruce,Faheem Ashraf,,MJ Guptill,0,0,0,42,11,5,5,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-31,TC Bruce,Faheem Ashraf,,MJ Guptill,0,0,0,42,11,6,6,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-32,TC Bruce,Faheem Ashraf,{'byes': 4},MJ Guptill,0,4,4,46,11,7,7,byes,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-33,MJ Guptill,Hasan Ali,,TC Bruce,0,0,0,46,23,24,1,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-34,MJ Guptill,Hasan Ali,,TC Bruce,0,0,0,46,23,25,2,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-35,MJ Guptill,Hasan Ali,,TC Bruce,1,0,1,47,24,26,3,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-36,TC Bruce,Hasan Ali,,MJ Guptill,0,0,0,47,11,8,4,-,6,run out,TC Bruce,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-37,MJ Guptill,Hasan Ali,,GD Phillips,1,0,1,48,25,27,5,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-38,GD Phillips,Hasan Ali,,MJ Guptill,1,0,1,49,1,1,6,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-39,GD Phillips,Shadab Khan,,MJ Guptill,0,0,0,49,1,2,1,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-40,GD Phillips,Shadab Khan,,MJ Guptill,1,0,1,50,2,3,2,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-41,MJ Guptill,Shadab Khan,,GD Phillips,1,0,1,51,26,28,3,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-42,GD Phillips,Shadab Khan,,MJ Guptill,1,0,1,52,3,4,4,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-43,MJ Guptill,Shadab Khan,,GD Phillips,0,0,0,52,26,29,5,-,7,caught,MJ Guptill,Umar Amin,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-44,C de Grandhomme,Shadab Khan,,GD Phillips,4,0,4,56,4,1,6,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-45,GD Phillips,Faheem Ashraf,,C de Grandhomme,0,0,0,56,3,5,1,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-46,GD Phillips,Faheem Ashraf,,C de Grandhomme,0,0,0,56,3,6,2,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-47,GD Phillips,Faheem Ashraf,,C de Grandhomme,2,0,2,58,5,7,3,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-48,GD Phillips,Faheem Ashraf,,C de Grandhomme,0,0,0,58,5,8,4,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-49,GD Phillips,Faheem Ashraf,,C de Grandhomme,0,0,0,58,5,9,5,-,8,caught,GD Phillips,Haris Sohail,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-50,MJ Santner,Faheem Ashraf,,C de Grandhomme,0,0,0,58,0,1,6,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-51,C de Grandhomme,Shadab Khan,,MJ Santner,6,0,6,64,10,2,1,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-52,C de Grandhomme,Shadab Khan,,MJ Santner,0,0,0,64,10,3,2,-,9,stumped,C de Grandhomme,Sarfraz Ahmed,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-53,BM Wheeler,Shadab Khan,,MJ Santner,1,0,1,65,1,1,3,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-54,MJ Santner,Shadab Khan,,BM Wheeler,0,0,0,65,0,2,4,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-55,MJ Santner,Shadab Khan,,BM Wheeler,0,0,0,65,0,3,5,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-56,MJ Santner,Shadab Khan,,BM Wheeler,1,0,1,66,1,4,6,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-57,MJ Santner,Faheem Ashraf,,BM Wheeler,0,0,0,66,1,5,1,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-58,MJ Santner,Faheem Ashraf,,BM Wheeler,2,0,2,68,3,6,2,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-59,MJ Santner,Faheem Ashraf,,BM Wheeler,1,0,1,69,4,7,3,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-60,BM Wheeler,Faheem Ashraf,,MJ Santner,4,0,4,73,5,2,4,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-61,BM Wheeler,Faheem Ashraf,,MJ Santner,0,0,0,73,5,3,5,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-62,BM Wheeler,Faheem Ashraf,,MJ Santner,1,0,1,74,6,4,6,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-63,BM Wheeler,Shadab Khan,,MJ Santner,1,0,1,75,7,5,1,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-64,MJ Santner,Shadab Khan,,BM Wheeler,3,0,3,78,7,8,2,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-65,BM Wheeler,Shadab Khan,,MJ Santner,0,0,0,78,7,6,3,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-66,BM Wheeler,Shadab Khan,,MJ Santner,0,0,0,78,7,7,4,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-67,BM Wheeler,Shadab Khan,,MJ Santner,1,0,1,79,8,8,5,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-68,MJ Santner,Shadab Khan,,BM Wheeler,1,0,1,80,8,9,6,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-69,MJ Santner,Hasan Ali,,BM Wheeler,0,0,0,80,8,10,1,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-70,MJ Santner,Hasan Ali,,BM Wheeler,4,0,4,84,12,11,2,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-71,MJ Santner,Hasan Ali,,BM Wheeler,1,0,1,85,13,12,3,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-72,BM Wheeler,Hasan Ali,,MJ Santner,1,0,1,86,9,9,4,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-73,MJ Santner,Hasan Ali,,BM Wheeler,2,0,2,88,15,13,5,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-74,MJ Santner,Hasan Ali,,BM Wheeler,0,0,0,88,15,14,6,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-75,BM Wheeler,Shadab Khan,{'wides': 1},MJ Santner,0,1,1,89,9,10,1,wides,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-76,BM Wheeler,Shadab Khan,{'wides': 1},MJ Santner,0,1,1,90,9,11,2,wides,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-77,BM Wheeler,Shadab Khan,,MJ Santner,1,0,1,91,10,12,3,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-78,MJ Santner,Shadab Khan,,BM Wheeler,4,0,4,95,19,15,4,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-79,MJ Santner,Shadab Khan,,BM Wheeler,1,0,1,96,20,16,5,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-80,BM Wheeler,Shadab Khan,,MJ Santner,6,0,6,102,16,13,6,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-81,BM Wheeler,Shadab Khan,,MJ Santner,1,0,1,103,17,14,7,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-82,MJ Santner,Shadab Khan,,BM Wheeler,1,0,1,104,21,17,8,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-83,MJ Santner,Mohammad Amir,,BM Wheeler,1,0,1,105,22,18,1,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-84,BM Wheeler,Mohammad Amir,,MJ Santner,6,0,6,111,23,15,2,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-85,BM Wheeler,Mohammad Amir,,MJ Santner,2,0,2,113,25,16,3,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-86,BM Wheeler,Mohammad Amir,,MJ Santner,0,0,0,113,25,17,4,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-87,BM Wheeler,Mohammad Amir,,MJ Santner,0,0,0,113,25,18,5,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-88,BM Wheeler,Mohammad Amir,,MJ Santner,1,0,1,114,26,19,6,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-89,BM Wheeler,Hasan Ali,,MJ Santner,0,0,0,114,26,20,1,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-90,BM Wheeler,Hasan Ali,,MJ Santner,4,0,4,118,30,21,2,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-91,BM Wheeler,Hasan Ali,,MJ Santner,0,0,0,118,30,22,3,-,15,bowled,BM Wheeler,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-92,IS Sodhi,Hasan Ali,{'legbyes': 4},MJ Santner,0,4,4,122,0,1,4,legbyes,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-93,IS Sodhi,Hasan Ali,,MJ Santner,1,0,1,123,1,2,5,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-94,MJ Santner,Hasan Ali,,IS Sodhi,1,0,1,124,23,19,6,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-95,MJ Santner,Rumman Raees,,IS Sodhi,4,0,4,128,27,20,1,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-96,MJ Santner,Rumman Raees,,IS Sodhi,1,0,1,129,28,21,2,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-97,IS Sodhi,Rumman Raees,,MJ Santner,0,0,0,129,1,3,3,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-98,IS Sodhi,Rumman Raees,,MJ Santner,1,0,1,130,2,4,4,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-99,MJ Santner,Rumman Raees,,IS Sodhi,4,0,4,134,32,22,5,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-100,MJ Santner,Rumman Raees,,IS Sodhi,1,0,1,135,33,23,6,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-101,MJ Santner,Hasan Ali,,IS Sodhi,1,0,1,136,34,24,1,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-102,IS Sodhi,Hasan Ali,,MJ Santner,1,0,1,137,3,5,2,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-103,MJ Santner,Hasan Ali,,IS Sodhi,1,0,1,138,35,25,3,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-104,IS Sodhi,Hasan Ali,,MJ Santner,6,0,6,144,9,6,4,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-105,IS Sodhi,Hasan Ali,,MJ Santner,0,0,0,144,9,7,5,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-106,IS Sodhi,Hasan Ali,,MJ Santner,1,0,1,145,10,8,6,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-107,IS Sodhi,Mohammad Amir,,MJ Santner,4,0,4,149,14,9,1,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-108,IS Sodhi,Mohammad Amir,,MJ Santner,1,0,1,150,15,10,2,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-109,MJ Santner,Mohammad Amir,,IS Sodhi,2,0,2,152,37,26,3,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-110,MJ Santner,Mohammad Amir,,IS Sodhi,0,0,0,152,37,27,4,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-111,MJ Santner,Mohammad Amir,,IS Sodhi,0,0,0,152,37,28,5,-,18,caught,MJ Santner,Sarfraz Ahmed,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-112,SHA Rance,Mohammad Amir,,IS Sodhi,1,0,1,153,1,1,6,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-113,SHA Rance,Faheem Ashraf,,IS Sodhi,0,0,0,153,1,2,1,-,19,caught,SHA Rance,Fakhar Zaman,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-114,IS Sodhi,Faheem Ashraf,,TA Boult,0,0,0,153,15,11,2,-,19,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
-115,IS Sodhi,Faheem Ashraf,,TA Boult,0,0,0,153,15,12,3,-,19,caught,IS Sodhi,Babar Azam,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,MJ Guptill,Mohammad Amir,C Munro,0,4,4,4,0,1,1,legbyes,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+1,MJ Guptill,Mohammad Amir,C Munro,0,0,0,4,0,2,2,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+2,MJ Guptill,Mohammad Amir,C Munro,0,0,0,4,0,3,3,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+3,MJ Guptill,Mohammad Amir,C Munro,0,0,0,4,0,4,4,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+4,MJ Guptill,Mohammad Amir,C Munro,0,0,0,4,0,5,5,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+5,MJ Guptill,Mohammad Amir,C Munro,1,0,1,5,1,6,6,-,1,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+6,MJ Guptill,Rumman Raees,C Munro,0,0,0,5,1,7,1,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+7,MJ Guptill,Rumman Raees,C Munro,2,0,2,7,3,8,2,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+8,MJ Guptill,Rumman Raees,C Munro,0,0,0,7,3,9,3,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+9,MJ Guptill,Rumman Raees,C Munro,0,1,1,8,3,10,4,wides,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+10,MJ Guptill,Rumman Raees,C Munro,1,0,1,9,4,11,5,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+11,C Munro,Rumman Raees,MJ Guptill,1,1,2,11,1,1,6,noballs,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+12,MJ Guptill,Rumman Raees,C Munro,4,0,4,15,8,12,7,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+13,MJ Guptill,Rumman Raees,C Munro,1,0,1,16,9,13,8,-,2,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+14,MJ Guptill,Mohammad Amir,C Munro,2,0,2,18,11,14,1,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+15,MJ Guptill,Mohammad Amir,C Munro,0,0,0,18,11,15,2,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+16,MJ Guptill,Mohammad Amir,C Munro,6,0,6,24,17,16,3,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+17,MJ Guptill,Mohammad Amir,C Munro,0,0,0,24,17,17,4,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+18,MJ Guptill,Mohammad Amir,C Munro,1,0,1,25,18,18,5,-,3,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+19,C Munro,Mohammad Amir,MJ Guptill,0,0,0,25,1,2,6,-,3,lbw,C Munro,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+20,MJ Guptill,Rumman Raees,KS Williamson,2,0,2,27,20,19,1,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+21,MJ Guptill,Rumman Raees,KS Williamson,1,0,1,28,21,20,2,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+22,KS Williamson,Rumman Raees,MJ Guptill,0,0,0,28,0,1,3,-,4,caught,KS Williamson,Haris Sohail,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+23,TC Bruce,Rumman Raees,MJ Guptill,1,0,1,29,1,1,4,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+24,MJ Guptill,Rumman Raees,TC Bruce,1,0,1,30,22,21,5,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+25,TC Bruce,Rumman Raees,MJ Guptill,0,0,0,30,1,2,6,-,4,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+26,MJ Guptill,Faheem Ashraf,TC Bruce,0,1,1,31,22,22,1,wides,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+27,MJ Guptill,Faheem Ashraf,TC Bruce,1,0,1,32,23,23,2,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+28,TC Bruce,Faheem Ashraf,MJ Guptill,4,0,4,36,5,3,3,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+29,TC Bruce,Faheem Ashraf,MJ Guptill,6,0,6,42,11,4,4,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+30,TC Bruce,Faheem Ashraf,MJ Guptill,0,0,0,42,11,5,5,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+31,TC Bruce,Faheem Ashraf,MJ Guptill,0,0,0,42,11,6,6,-,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+32,TC Bruce,Faheem Ashraf,MJ Guptill,0,4,4,46,11,7,7,byes,5,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+33,MJ Guptill,Hasan Ali,TC Bruce,0,0,0,46,23,24,1,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+34,MJ Guptill,Hasan Ali,TC Bruce,0,0,0,46,23,25,2,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+35,MJ Guptill,Hasan Ali,TC Bruce,1,0,1,47,24,26,3,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+36,TC Bruce,Hasan Ali,MJ Guptill,0,0,0,47,11,8,4,-,6,run out,TC Bruce,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+37,MJ Guptill,Hasan Ali,GD Phillips,1,0,1,48,25,27,5,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+38,GD Phillips,Hasan Ali,MJ Guptill,1,0,1,49,1,1,6,-,6,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+39,GD Phillips,Shadab Khan,MJ Guptill,0,0,0,49,1,2,1,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+40,GD Phillips,Shadab Khan,MJ Guptill,1,0,1,50,2,3,2,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+41,MJ Guptill,Shadab Khan,GD Phillips,1,0,1,51,26,28,3,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+42,GD Phillips,Shadab Khan,MJ Guptill,1,0,1,52,3,4,4,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+43,MJ Guptill,Shadab Khan,GD Phillips,0,0,0,52,26,29,5,-,7,caught,MJ Guptill,Umar Amin,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+44,C de Grandhomme,Shadab Khan,GD Phillips,4,0,4,56,4,1,6,-,7,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+45,GD Phillips,Faheem Ashraf,C de Grandhomme,0,0,0,56,3,5,1,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+46,GD Phillips,Faheem Ashraf,C de Grandhomme,0,0,0,56,3,6,2,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+47,GD Phillips,Faheem Ashraf,C de Grandhomme,2,0,2,58,5,7,3,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+48,GD Phillips,Faheem Ashraf,C de Grandhomme,0,0,0,58,5,8,4,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+49,GD Phillips,Faheem Ashraf,C de Grandhomme,0,0,0,58,5,9,5,-,8,caught,GD Phillips,Haris Sohail,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+50,MJ Santner,Faheem Ashraf,C de Grandhomme,0,0,0,58,0,1,6,-,8,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+51,C de Grandhomme,Shadab Khan,MJ Santner,6,0,6,64,10,2,1,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+52,C de Grandhomme,Shadab Khan,MJ Santner,0,0,0,64,10,3,2,-,9,stumped,C de Grandhomme,Sarfraz Ahmed,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+53,BM Wheeler,Shadab Khan,MJ Santner,1,0,1,65,1,1,3,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+54,MJ Santner,Shadab Khan,BM Wheeler,0,0,0,65,0,2,4,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+55,MJ Santner,Shadab Khan,BM Wheeler,0,0,0,65,0,3,5,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+56,MJ Santner,Shadab Khan,BM Wheeler,1,0,1,66,1,4,6,-,9,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+57,MJ Santner,Faheem Ashraf,BM Wheeler,0,0,0,66,1,5,1,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+58,MJ Santner,Faheem Ashraf,BM Wheeler,2,0,2,68,3,6,2,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+59,MJ Santner,Faheem Ashraf,BM Wheeler,1,0,1,69,4,7,3,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+60,BM Wheeler,Faheem Ashraf,MJ Santner,4,0,4,73,5,2,4,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+61,BM Wheeler,Faheem Ashraf,MJ Santner,0,0,0,73,5,3,5,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+62,BM Wheeler,Faheem Ashraf,MJ Santner,1,0,1,74,6,4,6,-,10,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+63,BM Wheeler,Shadab Khan,MJ Santner,1,0,1,75,7,5,1,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+64,MJ Santner,Shadab Khan,BM Wheeler,3,0,3,78,7,8,2,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+65,BM Wheeler,Shadab Khan,MJ Santner,0,0,0,78,7,6,3,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+66,BM Wheeler,Shadab Khan,MJ Santner,0,0,0,78,7,7,4,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+67,BM Wheeler,Shadab Khan,MJ Santner,1,0,1,79,8,8,5,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+68,MJ Santner,Shadab Khan,BM Wheeler,1,0,1,80,8,9,6,-,11,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+69,MJ Santner,Hasan Ali,BM Wheeler,0,0,0,80,8,10,1,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+70,MJ Santner,Hasan Ali,BM Wheeler,4,0,4,84,12,11,2,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+71,MJ Santner,Hasan Ali,BM Wheeler,1,0,1,85,13,12,3,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+72,BM Wheeler,Hasan Ali,MJ Santner,1,0,1,86,9,9,4,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+73,MJ Santner,Hasan Ali,BM Wheeler,2,0,2,88,15,13,5,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+74,MJ Santner,Hasan Ali,BM Wheeler,0,0,0,88,15,14,6,-,12,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+75,BM Wheeler,Shadab Khan,MJ Santner,0,1,1,89,9,10,1,wides,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+76,BM Wheeler,Shadab Khan,MJ Santner,0,1,1,90,9,11,2,wides,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+77,BM Wheeler,Shadab Khan,MJ Santner,1,0,1,91,10,12,3,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+78,MJ Santner,Shadab Khan,BM Wheeler,4,0,4,95,19,15,4,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+79,MJ Santner,Shadab Khan,BM Wheeler,1,0,1,96,20,16,5,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+80,BM Wheeler,Shadab Khan,MJ Santner,6,0,6,102,16,13,6,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+81,BM Wheeler,Shadab Khan,MJ Santner,1,0,1,103,17,14,7,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+82,MJ Santner,Shadab Khan,BM Wheeler,1,0,1,104,21,17,8,-,13,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+83,MJ Santner,Mohammad Amir,BM Wheeler,1,0,1,105,22,18,1,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+84,BM Wheeler,Mohammad Amir,MJ Santner,6,0,6,111,23,15,2,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+85,BM Wheeler,Mohammad Amir,MJ Santner,2,0,2,113,25,16,3,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+86,BM Wheeler,Mohammad Amir,MJ Santner,0,0,0,113,25,17,4,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+87,BM Wheeler,Mohammad Amir,MJ Santner,0,0,0,113,25,18,5,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+88,BM Wheeler,Mohammad Amir,MJ Santner,1,0,1,114,26,19,6,-,14,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+89,BM Wheeler,Hasan Ali,MJ Santner,0,0,0,114,26,20,1,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+90,BM Wheeler,Hasan Ali,MJ Santner,4,0,4,118,30,21,2,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+91,BM Wheeler,Hasan Ali,MJ Santner,0,0,0,118,30,22,3,-,15,bowled,BM Wheeler,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+92,IS Sodhi,Hasan Ali,MJ Santner,0,4,4,122,0,1,4,legbyes,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+93,IS Sodhi,Hasan Ali,MJ Santner,1,0,1,123,1,2,5,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+94,MJ Santner,Hasan Ali,IS Sodhi,1,0,1,124,23,19,6,-,15,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+95,MJ Santner,Rumman Raees,IS Sodhi,4,0,4,128,27,20,1,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+96,MJ Santner,Rumman Raees,IS Sodhi,1,0,1,129,28,21,2,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+97,IS Sodhi,Rumman Raees,MJ Santner,0,0,0,129,1,3,3,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+98,IS Sodhi,Rumman Raees,MJ Santner,1,0,1,130,2,4,4,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+99,MJ Santner,Rumman Raees,IS Sodhi,4,0,4,134,32,22,5,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+100,MJ Santner,Rumman Raees,IS Sodhi,1,0,1,135,33,23,6,-,16,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+101,MJ Santner,Hasan Ali,IS Sodhi,1,0,1,136,34,24,1,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+102,IS Sodhi,Hasan Ali,MJ Santner,1,0,1,137,3,5,2,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+103,MJ Santner,Hasan Ali,IS Sodhi,1,0,1,138,35,25,3,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+104,IS Sodhi,Hasan Ali,MJ Santner,6,0,6,144,9,6,4,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+105,IS Sodhi,Hasan Ali,MJ Santner,0,0,0,144,9,7,5,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+106,IS Sodhi,Hasan Ali,MJ Santner,1,0,1,145,10,8,6,-,17,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+107,IS Sodhi,Mohammad Amir,MJ Santner,4,0,4,149,14,9,1,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+108,IS Sodhi,Mohammad Amir,MJ Santner,1,0,1,150,15,10,2,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+109,MJ Santner,Mohammad Amir,IS Sodhi,2,0,2,152,37,26,3,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+110,MJ Santner,Mohammad Amir,IS Sodhi,0,0,0,152,37,27,4,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+111,MJ Santner,Mohammad Amir,IS Sodhi,0,0,0,152,37,28,5,-,18,caught,MJ Santner,Sarfraz Ahmed,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+112,SHA Rance,Mohammad Amir,IS Sodhi,1,0,1,153,1,1,6,-,18,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+113,SHA Rance,Faheem Ashraf,IS Sodhi,0,0,0,153,1,2,1,-,19,caught,SHA Rance,Fakhar Zaman,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+114,IS Sodhi,Faheem Ashraf,TA Boult,0,0,0,153,15,11,2,-,19,0,,,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan
+115,IS Sodhi,Faheem Ashraf,TA Boult,0,0,0,153,15,12,3,-,19,caught,IS Sodhi,Babar Azam,bat,Pakistan,2,Eden Park,2018-01-25,New Zealand,Pakistan

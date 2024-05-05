@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extras,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,PR Stirling,BC Fortuin,KJ O'Brien,1,0,1,1,1,1,1,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-1,KJ O'Brien,BC Fortuin,PR Stirling,1,0,1,2,1,1,2,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-2,PR Stirling,BC Fortuin,KJ O'Brien,0,0,0,2,1,2,3,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-3,PR Stirling,BC Fortuin,KJ O'Brien,1,0,1,3,2,3,4,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-4,KJ O'Brien,BC Fortuin,PR Stirling,1,0,1,4,2,2,5,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-5,PR Stirling,BC Fortuin,KJ O'Brien,4,0,4,8,6,4,6,1,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-6,KJ O'Brien,GF Linde,PR Stirling,0,1,1,9,2,3,1,2,{'wides': 1},wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-7,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,4,2,2,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-8,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,5,3,2,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-9,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,6,4,2,,-,caught,KJ O'Brien,JN Malan,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-10,PR Stirling,GF Linde,A Balbirnie,0,0,0,9,6,5,5,2,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-11,PR Stirling,GF Linde,A Balbirnie,4,0,4,13,10,6,6,2,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-12,PR Stirling,GF Linde,A Balbirnie,0,0,0,13,10,7,7,2,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-13,A Balbirnie,BC Fortuin,PR Stirling,1,0,1,14,1,1,1,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-14,PR Stirling,BC Fortuin,A Balbirnie,0,0,0,14,10,8,2,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-15,PR Stirling,BC Fortuin,A Balbirnie,0,0,0,14,10,9,3,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-16,PR Stirling,BC Fortuin,A Balbirnie,1,0,1,15,11,10,4,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-17,A Balbirnie,BC Fortuin,PR Stirling,1,0,1,16,2,2,5,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-18,PR Stirling,BC Fortuin,A Balbirnie,6,0,6,22,17,11,6,3,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-19,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,22,2,3,1,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-20,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,22,2,4,2,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-21,A Balbirnie,BE Hendricks,PR Stirling,4,0,4,26,6,5,3,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-22,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,26,6,6,4,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-23,A Balbirnie,BE Hendricks,PR Stirling,4,0,4,30,10,7,5,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-24,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,30,10,8,6,4,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-25,PR Stirling,LB Williams,A Balbirnie,1,0,1,31,18,12,1,5,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-26,A Balbirnie,LB Williams,PR Stirling,0,0,0,31,10,9,2,5,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-27,A Balbirnie,LB Williams,PR Stirling,4,0,4,35,14,10,3,5,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-28,A Balbirnie,LB Williams,PR Stirling,1,0,1,36,15,11,4,5,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-29,PR Stirling,LB Williams,A Balbirnie,0,0,0,36,18,13,5,5,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-30,PR Stirling,LB Williams,A Balbirnie,0,0,0,36,18,14,6,5,,-,caught,PR Stirling,BE Hendricks,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-31,L Tucker,BE Hendricks,A Balbirnie,0,0,0,36,0,1,1,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-32,L Tucker,BE Hendricks,A Balbirnie,0,0,0,36,0,2,2,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-33,L Tucker,BE Hendricks,A Balbirnie,2,0,2,38,2,3,3,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-34,L Tucker,BE Hendricks,A Balbirnie,1,0,1,39,3,4,4,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-35,A Balbirnie,BE Hendricks,L Tucker,1,0,1,40,16,12,5,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-36,L Tucker,BE Hendricks,A Balbirnie,4,0,4,44,7,5,6,6,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-37,A Balbirnie,LB Williams,L Tucker,1,0,1,45,17,13,1,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-38,L Tucker,LB Williams,A Balbirnie,0,0,0,45,7,6,2,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-39,L Tucker,LB Williams,A Balbirnie,2,0,2,47,9,7,3,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-40,L Tucker,LB Williams,A Balbirnie,0,0,0,47,9,8,4,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-41,L Tucker,LB Williams,A Balbirnie,1,0,1,48,10,9,5,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-42,A Balbirnie,LB Williams,L Tucker,1,0,1,49,18,14,6,7,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-43,A Balbirnie,GF Linde,L Tucker,4,0,4,53,22,15,1,8,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-44,A Balbirnie,GF Linde,L Tucker,1,0,1,54,23,16,2,8,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-45,L Tucker,GF Linde,A Balbirnie,0,4,4,58,10,10,3,8,{'byes': 4},byes,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-46,L Tucker,GF Linde,A Balbirnie,1,0,1,59,11,11,4,8,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-47,A Balbirnie,GF Linde,L Tucker,0,0,0,59,23,17,5,8,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-48,A Balbirnie,GF Linde,L Tucker,0,0,0,59,23,18,6,8,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-49,L Tucker,AL Phehlukwayo,A Balbirnie,1,0,1,60,12,12,1,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-50,A Balbirnie,AL Phehlukwayo,L Tucker,1,0,1,61,24,19,2,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-51,L Tucker,AL Phehlukwayo,A Balbirnie,4,0,4,65,16,13,3,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-52,L Tucker,AL Phehlukwayo,A Balbirnie,1,0,1,66,17,14,4,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-53,A Balbirnie,AL Phehlukwayo,L Tucker,2,0,2,68,26,20,5,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-54,A Balbirnie,AL Phehlukwayo,L Tucker,1,0,1,69,27,21,6,9,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-55,A Balbirnie,GF Linde,L Tucker,0,0,0,69,27,22,1,10,,-,lbw,A Balbirnie,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-56,HT Tector,GF Linde,L Tucker,1,0,1,70,1,1,2,10,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-57,L Tucker,GF Linde,HT Tector,1,0,1,71,18,15,3,10,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-58,HT Tector,GF Linde,L Tucker,2,0,2,73,3,2,4,10,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-59,HT Tector,GF Linde,L Tucker,1,0,1,74,4,3,5,10,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-60,L Tucker,GF Linde,HT Tector,1,0,1,75,19,16,6,10,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-61,L Tucker,PWA Mulder,HT Tector,0,0,0,75,19,17,1,11,,-,caught,L Tucker,H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-62,SC Getkate,PWA Mulder,HT Tector,1,0,1,76,1,1,2,11,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-63,HT Tector,PWA Mulder,SC Getkate,0,0,0,76,4,4,3,11,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-64,HT Tector,PWA Mulder,SC Getkate,1,0,1,77,5,5,4,11,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-65,SC Getkate,PWA Mulder,HT Tector,1,0,1,78,2,2,5,11,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-66,HT Tector,PWA Mulder,SC Getkate,0,0,0,78,5,6,6,11,,-,caught,HT Tector,AK Markram,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-67,Simi Singh,GF Linde,SC Getkate,1,0,1,79,1,1,1,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-68,SC Getkate,GF Linde,Simi Singh,0,0,0,79,2,3,2,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-69,SC Getkate,GF Linde,Simi Singh,1,0,1,80,3,4,3,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-70,Simi Singh,GF Linde,SC Getkate,1,0,1,81,2,2,4,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-71,SC Getkate,GF Linde,Simi Singh,0,0,0,81,3,5,5,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-72,SC Getkate,GF Linde,Simi Singh,1,0,1,82,4,6,6,12,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-73,SC Getkate,PWA Mulder,Simi Singh,2,0,2,84,6,7,1,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-74,SC Getkate,PWA Mulder,Simi Singh,1,0,1,85,7,8,2,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-75,Simi Singh,PWA Mulder,SC Getkate,1,0,1,86,3,3,3,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-76,SC Getkate,PWA Mulder,Simi Singh,1,0,1,87,8,9,4,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-77,Simi Singh,PWA Mulder,SC Getkate,1,0,1,88,4,4,5,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-78,SC Getkate,PWA Mulder,Simi Singh,1,0,1,89,9,10,6,13,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-79,SC Getkate,BC Fortuin,Simi Singh,1,0,1,90,10,11,1,14,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-80,Simi Singh,BC Fortuin,SC Getkate,1,0,1,91,5,5,2,14,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-81,SC Getkate,BC Fortuin,Simi Singh,1,0,1,92,11,12,3,14,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-82,Simi Singh,BC Fortuin,SC Getkate,0,0,0,92,5,6,4,14,,-,run out,Simi Singh,T Bavuma;H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-83,MR Adair,BC Fortuin,SC Getkate,0,0,0,92,0,1,5,14,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-84,MR Adair,BC Fortuin,SC Getkate,1,0,1,93,1,2,6,14,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-85,MR Adair,AL Phehlukwayo,SC Getkate,1,0,1,94,2,3,1,15,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-86,SC Getkate,AL Phehlukwayo,MR Adair,0,0,0,94,11,13,2,15,,-,caught,SC Getkate,H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-87,BJ McCarthy,AL Phehlukwayo,MR Adair,0,0,0,94,0,1,3,15,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-88,BJ McCarthy,AL Phehlukwayo,MR Adair,0,1,1,95,0,2,4,15,{'legbyes': 1},legbyes,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-89,MR Adair,AL Phehlukwayo,BJ McCarthy,0,0,0,95,2,4,5,15,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-90,MR Adair,AL Phehlukwayo,BJ McCarthy,4,0,4,99,6,5,6,15,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-91,BJ McCarthy,BC Fortuin,MR Adair,1,0,1,100,1,3,1,16,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-92,MR Adair,BC Fortuin,BJ McCarthy,2,0,2,102,8,6,2,16,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-93,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,7,3,16,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-94,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,8,4,16,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-95,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,9,5,16,,-,run out,MR Adair,H Klaasen;AL Phehlukwayo,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-96,CA Young,BC Fortuin,BJ McCarthy,1,0,1,103,1,1,6,16,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-97,CA Young,LB Williams,BJ McCarthy,0,0,0,103,1,2,1,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-98,CA Young,LB Williams,BJ McCarthy,6,0,6,109,7,3,2,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-99,CA Young,LB Williams,BJ McCarthy,4,0,4,113,11,4,3,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-100,CA Young,LB Williams,BJ McCarthy,0,0,0,113,11,5,4,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-101,CA Young,LB Williams,BJ McCarthy,1,0,1,114,12,6,5,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-102,BJ McCarthy,LB Williams,CA Young,0,0,0,114,1,4,6,17,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-103,CA Young,BE Hendricks,BJ McCarthy,1,0,1,115,13,7,1,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-104,BJ McCarthy,BE Hendricks,CA Young,1,0,1,116,2,5,2,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-105,CA Young,BE Hendricks,BJ McCarthy,0,0,0,116,13,8,3,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-106,CA Young,BE Hendricks,BJ McCarthy,1,0,1,117,14,9,4,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-107,BJ McCarthy,BE Hendricks,CA Young,6,0,6,123,8,6,5,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-108,BJ McCarthy,BE Hendricks,CA Young,4,0,4,127,12,7,6,18,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-109,CA Young,LB Williams,BJ McCarthy,0,0,0,127,14,10,1,19,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-110,CA Young,LB Williams,BJ McCarthy,4,0,4,131,18,11,2,19,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-111,CA Young,LB Williams,BJ McCarthy,0,0,0,131,18,12,3,19,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-112,CA Young,LB Williams,BJ McCarthy,4,0,4,135,22,13,4,19,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-113,CA Young,LB Williams,BJ McCarthy,0,0,0,135,22,14,5,19,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-114,CA Young,LB Williams,BJ McCarthy,0,0,0,135,22,15,6,19,,-,caught,CA Young,PWA Mulder,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-115,B White,BE Hendricks,BJ McCarthy,0,1,1,136,0,1,1,20,{'wides': 1},wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-116,B White,BE Hendricks,BJ McCarthy,0,0,0,136,0,2,2,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-117,B White,BE Hendricks,BJ McCarthy,0,0,0,136,0,3,3,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-118,B White,BE Hendricks,BJ McCarthy,1,0,1,137,1,4,4,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-119,BJ McCarthy,BE Hendricks,B White,0,1,1,138,12,8,5,20,{'wides': 1},wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-120,BJ McCarthy,BE Hendricks,B White,1,0,1,139,13,9,6,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-121,B White,BE Hendricks,BJ McCarthy,1,0,1,140,2,5,7,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
-122,BJ McCarthy,BE Hendricks,B White,0,0,0,140,13,10,8,20,,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
+0,PR Stirling,BC Fortuin,KJ O'Brien,1,0,1,1,1,1,1,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+1,KJ O'Brien,BC Fortuin,PR Stirling,1,0,1,2,1,1,2,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+2,PR Stirling,BC Fortuin,KJ O'Brien,0,0,0,2,1,2,3,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+3,PR Stirling,BC Fortuin,KJ O'Brien,1,0,1,3,2,3,4,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+4,KJ O'Brien,BC Fortuin,PR Stirling,1,0,1,4,2,2,5,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+5,PR Stirling,BC Fortuin,KJ O'Brien,4,0,4,8,6,4,6,1,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+6,KJ O'Brien,GF Linde,PR Stirling,0,1,1,9,2,3,1,2,wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+7,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,4,2,2,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+8,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,5,3,2,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+9,KJ O'Brien,GF Linde,PR Stirling,0,0,0,9,2,6,4,2,-,caught,KJ O'Brien,JN Malan,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+10,PR Stirling,GF Linde,A Balbirnie,0,0,0,9,6,5,5,2,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+11,PR Stirling,GF Linde,A Balbirnie,4,0,4,13,10,6,6,2,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+12,PR Stirling,GF Linde,A Balbirnie,0,0,0,13,10,7,7,2,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+13,A Balbirnie,BC Fortuin,PR Stirling,1,0,1,14,1,1,1,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+14,PR Stirling,BC Fortuin,A Balbirnie,0,0,0,14,10,8,2,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+15,PR Stirling,BC Fortuin,A Balbirnie,0,0,0,14,10,9,3,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+16,PR Stirling,BC Fortuin,A Balbirnie,1,0,1,15,11,10,4,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+17,A Balbirnie,BC Fortuin,PR Stirling,1,0,1,16,2,2,5,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+18,PR Stirling,BC Fortuin,A Balbirnie,6,0,6,22,17,11,6,3,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+19,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,22,2,3,1,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+20,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,22,2,4,2,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+21,A Balbirnie,BE Hendricks,PR Stirling,4,0,4,26,6,5,3,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+22,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,26,6,6,4,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+23,A Balbirnie,BE Hendricks,PR Stirling,4,0,4,30,10,7,5,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+24,A Balbirnie,BE Hendricks,PR Stirling,0,0,0,30,10,8,6,4,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+25,PR Stirling,LB Williams,A Balbirnie,1,0,1,31,18,12,1,5,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+26,A Balbirnie,LB Williams,PR Stirling,0,0,0,31,10,9,2,5,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+27,A Balbirnie,LB Williams,PR Stirling,4,0,4,35,14,10,3,5,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+28,A Balbirnie,LB Williams,PR Stirling,1,0,1,36,15,11,4,5,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+29,PR Stirling,LB Williams,A Balbirnie,0,0,0,36,18,13,5,5,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+30,PR Stirling,LB Williams,A Balbirnie,0,0,0,36,18,14,6,5,-,caught,PR Stirling,BE Hendricks,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+31,L Tucker,BE Hendricks,A Balbirnie,0,0,0,36,0,1,1,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+32,L Tucker,BE Hendricks,A Balbirnie,0,0,0,36,0,2,2,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+33,L Tucker,BE Hendricks,A Balbirnie,2,0,2,38,2,3,3,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+34,L Tucker,BE Hendricks,A Balbirnie,1,0,1,39,3,4,4,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+35,A Balbirnie,BE Hendricks,L Tucker,1,0,1,40,16,12,5,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+36,L Tucker,BE Hendricks,A Balbirnie,4,0,4,44,7,5,6,6,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+37,A Balbirnie,LB Williams,L Tucker,1,0,1,45,17,13,1,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+38,L Tucker,LB Williams,A Balbirnie,0,0,0,45,7,6,2,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+39,L Tucker,LB Williams,A Balbirnie,2,0,2,47,9,7,3,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+40,L Tucker,LB Williams,A Balbirnie,0,0,0,47,9,8,4,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+41,L Tucker,LB Williams,A Balbirnie,1,0,1,48,10,9,5,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+42,A Balbirnie,LB Williams,L Tucker,1,0,1,49,18,14,6,7,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+43,A Balbirnie,GF Linde,L Tucker,4,0,4,53,22,15,1,8,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+44,A Balbirnie,GF Linde,L Tucker,1,0,1,54,23,16,2,8,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+45,L Tucker,GF Linde,A Balbirnie,0,4,4,58,10,10,3,8,byes,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+46,L Tucker,GF Linde,A Balbirnie,1,0,1,59,11,11,4,8,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+47,A Balbirnie,GF Linde,L Tucker,0,0,0,59,23,17,5,8,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+48,A Balbirnie,GF Linde,L Tucker,0,0,0,59,23,18,6,8,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+49,L Tucker,AL Phehlukwayo,A Balbirnie,1,0,1,60,12,12,1,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+50,A Balbirnie,AL Phehlukwayo,L Tucker,1,0,1,61,24,19,2,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+51,L Tucker,AL Phehlukwayo,A Balbirnie,4,0,4,65,16,13,3,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+52,L Tucker,AL Phehlukwayo,A Balbirnie,1,0,1,66,17,14,4,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+53,A Balbirnie,AL Phehlukwayo,L Tucker,2,0,2,68,26,20,5,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+54,A Balbirnie,AL Phehlukwayo,L Tucker,1,0,1,69,27,21,6,9,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+55,A Balbirnie,GF Linde,L Tucker,0,0,0,69,27,22,1,10,-,lbw,A Balbirnie,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+56,HT Tector,GF Linde,L Tucker,1,0,1,70,1,1,2,10,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+57,L Tucker,GF Linde,HT Tector,1,0,1,71,18,15,3,10,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+58,HT Tector,GF Linde,L Tucker,2,0,2,73,3,2,4,10,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+59,HT Tector,GF Linde,L Tucker,1,0,1,74,4,3,5,10,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+60,L Tucker,GF Linde,HT Tector,1,0,1,75,19,16,6,10,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+61,L Tucker,PWA Mulder,HT Tector,0,0,0,75,19,17,1,11,-,caught,L Tucker,H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+62,SC Getkate,PWA Mulder,HT Tector,1,0,1,76,1,1,2,11,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+63,HT Tector,PWA Mulder,SC Getkate,0,0,0,76,4,4,3,11,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+64,HT Tector,PWA Mulder,SC Getkate,1,0,1,77,5,5,4,11,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+65,SC Getkate,PWA Mulder,HT Tector,1,0,1,78,2,2,5,11,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+66,HT Tector,PWA Mulder,SC Getkate,0,0,0,78,5,6,6,11,-,caught,HT Tector,AK Markram,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+67,Simi Singh,GF Linde,SC Getkate,1,0,1,79,1,1,1,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+68,SC Getkate,GF Linde,Simi Singh,0,0,0,79,2,3,2,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+69,SC Getkate,GF Linde,Simi Singh,1,0,1,80,3,4,3,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+70,Simi Singh,GF Linde,SC Getkate,1,0,1,81,2,2,4,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+71,SC Getkate,GF Linde,Simi Singh,0,0,0,81,3,5,5,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+72,SC Getkate,GF Linde,Simi Singh,1,0,1,82,4,6,6,12,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+73,SC Getkate,PWA Mulder,Simi Singh,2,0,2,84,6,7,1,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+74,SC Getkate,PWA Mulder,Simi Singh,1,0,1,85,7,8,2,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+75,Simi Singh,PWA Mulder,SC Getkate,1,0,1,86,3,3,3,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+76,SC Getkate,PWA Mulder,Simi Singh,1,0,1,87,8,9,4,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+77,Simi Singh,PWA Mulder,SC Getkate,1,0,1,88,4,4,5,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+78,SC Getkate,PWA Mulder,Simi Singh,1,0,1,89,9,10,6,13,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+79,SC Getkate,BC Fortuin,Simi Singh,1,0,1,90,10,11,1,14,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+80,Simi Singh,BC Fortuin,SC Getkate,1,0,1,91,5,5,2,14,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+81,SC Getkate,BC Fortuin,Simi Singh,1,0,1,92,11,12,3,14,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+82,Simi Singh,BC Fortuin,SC Getkate,0,0,0,92,5,6,4,14,-,run out,Simi Singh,T Bavuma;H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+83,MR Adair,BC Fortuin,SC Getkate,0,0,0,92,0,1,5,14,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+84,MR Adair,BC Fortuin,SC Getkate,1,0,1,93,1,2,6,14,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+85,MR Adair,AL Phehlukwayo,SC Getkate,1,0,1,94,2,3,1,15,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+86,SC Getkate,AL Phehlukwayo,MR Adair,0,0,0,94,11,13,2,15,-,caught,SC Getkate,H Klaasen,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+87,BJ McCarthy,AL Phehlukwayo,MR Adair,0,0,0,94,0,1,3,15,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+88,BJ McCarthy,AL Phehlukwayo,MR Adair,0,1,1,95,0,2,4,15,legbyes,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+89,MR Adair,AL Phehlukwayo,BJ McCarthy,0,0,0,95,2,4,5,15,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+90,MR Adair,AL Phehlukwayo,BJ McCarthy,4,0,4,99,6,5,6,15,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+91,BJ McCarthy,BC Fortuin,MR Adair,1,0,1,100,1,3,1,16,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+92,MR Adair,BC Fortuin,BJ McCarthy,2,0,2,102,8,6,2,16,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+93,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,7,3,16,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+94,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,8,4,16,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+95,MR Adair,BC Fortuin,BJ McCarthy,0,0,0,102,8,9,5,16,-,run out,MR Adair,H Klaasen;AL Phehlukwayo,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+96,CA Young,BC Fortuin,BJ McCarthy,1,0,1,103,1,1,6,16,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+97,CA Young,LB Williams,BJ McCarthy,0,0,0,103,1,2,1,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+98,CA Young,LB Williams,BJ McCarthy,6,0,6,109,7,3,2,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+99,CA Young,LB Williams,BJ McCarthy,4,0,4,113,11,4,3,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+100,CA Young,LB Williams,BJ McCarthy,0,0,0,113,11,5,4,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+101,CA Young,LB Williams,BJ McCarthy,1,0,1,114,12,6,5,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+102,BJ McCarthy,LB Williams,CA Young,0,0,0,114,1,4,6,17,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+103,CA Young,BE Hendricks,BJ McCarthy,1,0,1,115,13,7,1,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+104,BJ McCarthy,BE Hendricks,CA Young,1,0,1,116,2,5,2,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+105,CA Young,BE Hendricks,BJ McCarthy,0,0,0,116,13,8,3,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+106,CA Young,BE Hendricks,BJ McCarthy,1,0,1,117,14,9,4,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+107,BJ McCarthy,BE Hendricks,CA Young,6,0,6,123,8,6,5,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+108,BJ McCarthy,BE Hendricks,CA Young,4,0,4,127,12,7,6,18,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+109,CA Young,LB Williams,BJ McCarthy,0,0,0,127,14,10,1,19,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+110,CA Young,LB Williams,BJ McCarthy,4,0,4,131,18,11,2,19,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+111,CA Young,LB Williams,BJ McCarthy,0,0,0,131,18,12,3,19,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+112,CA Young,LB Williams,BJ McCarthy,4,0,4,135,22,13,4,19,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+113,CA Young,LB Williams,BJ McCarthy,0,0,0,135,22,14,5,19,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+114,CA Young,LB Williams,BJ McCarthy,0,0,0,135,22,15,6,19,-,caught,CA Young,PWA Mulder,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+115,B White,BE Hendricks,BJ McCarthy,0,1,1,136,0,1,1,20,wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+116,B White,BE Hendricks,BJ McCarthy,0,0,0,136,0,2,2,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+117,B White,BE Hendricks,BJ McCarthy,0,0,0,136,0,3,3,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+118,B White,BE Hendricks,BJ McCarthy,1,0,1,137,1,4,4,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+119,BJ McCarthy,BE Hendricks,B White,0,1,1,138,12,8,5,20,wides,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+120,BJ McCarthy,BE Hendricks,B White,1,0,1,139,13,9,6,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+121,B White,BE Hendricks,BJ McCarthy,1,0,1,140,2,5,7,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
+122,BJ McCarthy,BE Hendricks,B White,0,0,0,140,13,10,8,20,-,0,,,bat,South Africa,2,"Civil Service Cricket Club, Stormont, Belfast",2021-07-24,Ireland,South Africa
