@@ -157,9 +157,6 @@ def json_to_csv(match_file, output_file=False):
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
 
-        # df["batting_team"] = innings[idx]["team"]
-        # df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
-
         # No outcome error handle
 
         if len(innings) > 1:
@@ -168,7 +165,7 @@ def json_to_csv(match_file, output_file=False):
         else:
             # Handle the case when there is no second inning
             df["batting_team"] = innings[idx]["team"]
-            df["bowling_team"] = None  # or any other value you want to assign
+            df["bowling_team"] = None
 
         team_innings = f"{inning['team']}_{idx+1}"
         if output_file:
