@@ -7,6 +7,9 @@ from datetime import datetime
 batter_scores = {}
 balls_faced = {}
 total_score = 0
+wickets_fallen = 0
+first_inning_total = 0
+current_inning = 0
 
 
 def convert_over_to_df(over_data):
@@ -19,13 +22,18 @@ def convert_over_to_df(over_data):
     global total_score
     score = over_df["total"].cumsum() + total_score
     over_df["team_total"] = score
-
+    if current_inning == 1:
+        over_df["runs_remain"] = first_inning_total - score
+    else:
+        over_df["runs_remain"] = np.nan
     total_score = score.iloc[-1]
 
     over_df["batter_runs"] = [{} for _ in range(len(over_df))]
     over_df["balls_faced"] = [{} for _ in range(len(over_df))]
+    over_df["wickets_fallen"] = [wickets_fallen for _ in range(len(over_df))]
 
     for idx, row in over_df.iterrows():
+
         batter = row["batter"]
         runs = row["runs_by_bat"]
 
@@ -49,9 +57,20 @@ def convert_over_to_df(over_data):
         )
 
     if "wickets" in over_df.columns:
+
+        w_count_temp = over_df["wickets"].apply(
+            lambda x: len(x) if isinstance(x, list) else 0
+        )
+        global wickets_fallen
+
+        wic = w_count_temp.cumsum() + wickets_fallen
+        over_df["wickets_fallen"] = wic
+        wickets_fallen = wic.iloc[-1]
+
         over_df["wicket_type"] = over_df["wickets"].apply(
             lambda x: x[0].get("kind") if type(x) == list else np.nan
         )
+
         over_df["player_out"] = over_df["wickets"].apply(
             lambda x: x[0].get("player_out") if type(x) == list else np.nan
         )
@@ -118,6 +137,7 @@ def json_to_csv(match_file, output_file=False):
     toss_decision = info["toss"]["decision"]
     toss_win_team = info["toss"]["winner"]
     players = info["registry"]["people"]
+    match_id = info["teams"][0] + "_" + info["teams"][1] + "_" + date
 
     innings = file["innings"]
     length = len(innings)
@@ -128,6 +148,12 @@ def json_to_csv(match_file, output_file=False):
 
     all_innings_df = {}
     for idx, inning in enumerate(innings):
+        global total_score
+        if idx == 1:
+            global first_inning_total
+            first_inning_total = total_score
+            global current_inning
+            current_inning = 1
 
         global batter_scores
         batter_scores = {}
@@ -135,8 +161,10 @@ def json_to_csv(match_file, output_file=False):
         global balls_faced
         balls_faced = {}
 
-        global total_score
         total_score = 0
+
+        global wickets_fallen
+        wickets_fallen = 0
 
         team = inning["overs"]
 
@@ -155,7 +183,9 @@ def json_to_csv(match_file, output_file=False):
         df["toss_winner"] = toss_win_team
         df["innings"] = idx + 1
         df["venue"] = info["venue"]
-        df["date"] = info["dates"][0]
+        df["year"] = info["dates"][0].split("-")[0]
+        df["month"] = info["dates"][0].split("-")[1]
+        df["match_id"] = match_id
         # add winning team
         if "result" in info["outcome"]:
             df["winning_team"] = info["outcome"]["result"]
