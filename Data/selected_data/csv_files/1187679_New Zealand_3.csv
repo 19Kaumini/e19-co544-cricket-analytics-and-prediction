@@ -1,7 +1,7 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,KS Williamson,JJ Bumrah,MJ Guptill,1,0,1,1,1,1,1,-,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
-1,MJ Guptill,JJ Bumrah,KS Williamson,1,0,1,2,1,1,2,-,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
-2,KS Williamson,JJ Bumrah,MJ Guptill,6,0,6,8,7,2,3,-,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
-3,KS Williamson,JJ Bumrah,MJ Guptill,4,0,4,12,11,3,4,-,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
-4,KS Williamson,JJ Bumrah,MJ Guptill,0,1,1,13,11,4,5,byes,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
-5,MJ Guptill,JJ Bumrah,KS Williamson,4,0,4,17,5,2,6,-,1,0,field,New Zealand,3,Seddon Park,2020-01-29,tie,New Zealand,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,KS Williamson,JJ Bumrah,MJ Guptill,1,0,1,1,178,1,1,0,1,-,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India
+1,MJ Guptill,JJ Bumrah,KS Williamson,1,0,1,2,177,1,1,0,2,-,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India
+2,KS Williamson,JJ Bumrah,MJ Guptill,6,0,6,8,171,7,2,0,3,-,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India
+3,KS Williamson,JJ Bumrah,MJ Guptill,4,0,4,12,167,11,3,0,4,-,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India
+4,KS Williamson,JJ Bumrah,MJ Guptill,0,1,1,13,166,11,4,0,5,byes,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India
+5,MJ Guptill,JJ Bumrah,KS Williamson,4,0,4,17,162,5,2,0,6,-,1,0,field,New Zealand,3,Seddon Park,2020,01,New Zealand_India_2020-01-29,tie,New Zealand,India

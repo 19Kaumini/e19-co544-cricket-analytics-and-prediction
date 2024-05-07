@@ -1,105 +1,105 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,HE van der Dussen,KM Jarvis,Q de Kock,1,0,1,1,1,1,1,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-1,Q de Kock,KM Jarvis,HE van der Dussen,0,1,1,2,0,1,2,wides,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-2,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,0,2,3,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-3,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,0,3,4,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-4,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,0,4,5,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-5,Q de Kock,KM Jarvis,HE van der Dussen,1,0,1,3,1,5,6,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-6,HE van der Dussen,KM Jarvis,Q de Kock,6,0,6,9,7,2,7,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-7,Q de Kock,CB Mpofu,HE van der Dussen,1,0,1,10,2,6,1,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-8,HE van der Dussen,CB Mpofu,Q de Kock,1,0,1,11,8,3,2,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-9,Q de Kock,CB Mpofu,HE van der Dussen,0,0,0,11,2,7,3,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-10,Q de Kock,CB Mpofu,HE van der Dussen,1,0,1,12,3,8,4,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-11,HE van der Dussen,CB Mpofu,Q de Kock,0,0,0,12,8,4,5,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-12,HE van der Dussen,CB Mpofu,Q de Kock,4,0,4,16,12,5,6,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-13,Q de Kock,TS Chisoro,HE van der Dussen,0,0,0,16,3,9,1,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-14,Q de Kock,TS Chisoro,HE van der Dussen,0,0,0,16,3,10,2,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-15,Q de Kock,TS Chisoro,HE van der Dussen,1,0,1,17,4,11,3,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-16,HE van der Dussen,TS Chisoro,Q de Kock,0,0,0,17,12,6,4,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-17,HE van der Dussen,TS Chisoro,Q de Kock,0,1,1,18,12,7,5,wides,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-18,HE van der Dussen,TS Chisoro,Q de Kock,1,0,1,19,13,8,6,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-19,Q de Kock,TS Chisoro,HE van der Dussen,4,0,4,23,8,12,7,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-20,HE van der Dussen,CB Mpofu,Q de Kock,0,0,0,23,13,9,1,-,4,caught and bowled,HE van der Dussen,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-21,F du Plessis,CB Mpofu,Q de Kock,1,0,1,24,1,1,2,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-22,Q de Kock,CB Mpofu,F du Plessis,2,0,2,26,10,13,3,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-23,Q de Kock,CB Mpofu,F du Plessis,1,0,1,27,11,14,4,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-24,F du Plessis,CB Mpofu,Q de Kock,0,0,0,27,1,2,5,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-25,F du Plessis,CB Mpofu,Q de Kock,0,0,0,27,1,3,6,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-26,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,11,15,1,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-27,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,11,16,2,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-28,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,11,17,3,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-29,Q de Kock,B Mavuta,F du Plessis,4,0,4,31,15,18,4,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-30,Q de Kock,B Mavuta,F du Plessis,0,0,0,31,15,19,5,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-31,Q de Kock,B Mavuta,F du Plessis,0,0,0,31,15,20,6,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-32,F du Plessis,KM Jarvis,Q de Kock,1,0,1,32,2,4,1,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-33,Q de Kock,KM Jarvis,F du Plessis,6,0,6,38,21,21,2,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-34,Q de Kock,KM Jarvis,F du Plessis,4,0,4,42,25,22,3,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-35,Q de Kock,KM Jarvis,F du Plessis,1,0,1,43,26,23,4,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-36,F du Plessis,KM Jarvis,Q de Kock,4,0,4,47,6,5,5,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-37,F du Plessis,KM Jarvis,Q de Kock,4,0,4,51,10,6,6,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-38,Q de Kock,B Mavuta,F du Plessis,0,0,0,51,26,24,1,-,7,bowled,Q de Kock,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-39,JP Duminy,B Mavuta,F du Plessis,0,1,1,52,0,1,2,wides,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-40,JP Duminy,B Mavuta,F du Plessis,1,0,1,53,1,2,3,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-41,F du Plessis,B Mavuta,JP Duminy,1,0,1,54,11,7,4,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-42,JP Duminy,B Mavuta,F du Plessis,1,0,1,55,2,3,5,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-43,F du Plessis,B Mavuta,JP Duminy,1,0,1,56,12,8,6,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-44,JP Duminy,B Mavuta,F du Plessis,1,0,1,57,3,4,7,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-45,JP Duminy,SC Williams,F du Plessis,1,0,1,58,4,5,1,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-46,F du Plessis,SC Williams,JP Duminy,0,0,0,58,12,9,2,-,8,bowled,F du Plessis,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-47,H Klaasen,SC Williams,JP Duminy,1,0,1,59,1,1,3,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-48,JP Duminy,SC Williams,H Klaasen,4,0,4,63,8,6,4,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-49,JP Duminy,SC Williams,H Klaasen,0,0,0,63,8,7,5,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-50,JP Duminy,SC Williams,H Klaasen,1,0,1,64,9,8,6,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-51,JP Duminy,B Mavuta,H Klaasen,0,0,0,64,9,9,1,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-52,JP Duminy,B Mavuta,H Klaasen,1,0,1,65,10,10,2,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-53,H Klaasen,B Mavuta,JP Duminy,0,0,0,65,1,2,3,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-54,H Klaasen,B Mavuta,JP Duminy,0,0,0,65,1,3,4,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-55,H Klaasen,B Mavuta,JP Duminy,1,0,1,66,2,4,5,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-56,JP Duminy,B Mavuta,H Klaasen,0,0,0,66,10,11,6,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-57,H Klaasen,SC Williams,JP Duminy,0,0,0,66,2,5,1,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-58,H Klaasen,SC Williams,JP Duminy,0,0,0,66,2,6,2,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-59,H Klaasen,SC Williams,JP Duminy,6,0,6,72,8,7,3,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-60,H Klaasen,SC Williams,JP Duminy,1,0,1,73,9,8,4,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-61,JP Duminy,SC Williams,H Klaasen,1,0,1,74,11,12,5,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-62,H Klaasen,SC Williams,JP Duminy,1,0,1,75,10,9,6,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-63,H Klaasen,TS Chisoro,JP Duminy,0,0,0,75,10,10,1,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-64,H Klaasen,TS Chisoro,JP Duminy,6,0,6,81,16,11,2,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-65,H Klaasen,TS Chisoro,JP Duminy,1,0,1,82,17,12,3,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-66,JP Duminy,TS Chisoro,H Klaasen,0,0,0,82,11,13,4,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-67,JP Duminy,TS Chisoro,H Klaasen,0,1,1,83,11,14,5,wides,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-68,JP Duminy,TS Chisoro,H Klaasen,0,0,0,83,11,15,6,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-69,JP Duminy,TS Chisoro,H Klaasen,1,0,1,84,12,16,7,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-70,JP Duminy,B Mavuta,H Klaasen,4,0,4,88,16,17,1,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-71,JP Duminy,B Mavuta,H Klaasen,6,0,6,94,22,18,2,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-72,JP Duminy,B Mavuta,H Klaasen,1,0,1,95,23,19,3,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-73,H Klaasen,B Mavuta,JP Duminy,4,0,4,99,21,13,4,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-74,H Klaasen,B Mavuta,JP Duminy,1,0,1,100,22,14,5,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-75,JP Duminy,B Mavuta,H Klaasen,1,0,1,101,24,20,6,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-76,JP Duminy,SC Williams,H Klaasen,1,0,1,102,25,21,1,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-77,H Klaasen,SC Williams,JP Duminy,0,0,0,102,22,15,2,-,13,caught,H Klaasen,B Mavuta,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-78,JP Duminy,SC Williams,DA Miller,0,1,1,103,25,22,3,wides,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-79,JP Duminy,SC Williams,DA Miller,1,0,1,104,26,23,4,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-80,DA Miller,SC Williams,JP Duminy,4,0,4,108,4,1,5,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-81,DA Miller,SC Williams,JP Duminy,1,0,1,109,5,2,6,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-82,JP Duminy,SC Williams,DA Miller,1,0,1,110,27,24,7,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-83,JP Duminy,CB Mpofu,DA Miller,1,0,1,111,28,25,1,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-84,DA Miller,CB Mpofu,JP Duminy,0,0,0,111,5,3,2,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-85,DA Miller,CB Mpofu,JP Duminy,0,0,0,111,5,4,3,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-86,DA Miller,CB Mpofu,JP Duminy,4,0,4,115,9,5,4,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-87,DA Miller,CB Mpofu,JP Duminy,0,1,1,116,9,6,5,wides,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-88,DA Miller,CB Mpofu,JP Duminy,0,0,0,116,9,7,6,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-89,DA Miller,CB Mpofu,JP Duminy,4,0,4,120,13,8,7,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-90,JP Duminy,TS Chisoro,DA Miller,0,1,1,121,28,26,1,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-91,JP Duminy,TS Chisoro,DA Miller,0,0,0,121,28,27,2,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-92,JP Duminy,TS Chisoro,DA Miller,0,1,1,122,28,28,3,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-93,JP Duminy,TS Chisoro,DA Miller,0,1,1,123,28,29,4,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-94,JP Duminy,TS Chisoro,DA Miller,0,0,0,123,28,30,5,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-95,JP Duminy,TS Chisoro,DA Miller,1,0,1,124,29,31,6,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-96,DA Miller,TS Chisoro,JP Duminy,0,0,0,124,13,9,7,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-97,DA Miller,TS Chisoro,JP Duminy,0,0,0,124,13,10,8,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-98,DA Miller,TS Chisoro,JP Duminy,1,0,1,125,14,11,9,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-99,DA Miller,CB Mpofu,JP Duminy,4,0,4,129,18,12,1,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-100,DA Miller,CB Mpofu,JP Duminy,0,0,0,129,18,13,2,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-101,DA Miller,CB Mpofu,JP Duminy,0,1,1,130,18,14,3,wides,16,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-102,DA Miller,CB Mpofu,JP Duminy,1,0,1,131,19,15,4,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
-103,JP Duminy,CB Mpofu,DA Miller,4,0,4,135,33,32,5,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018-10-12,South Africa,South Africa,Zimbabwe
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,HE van der Dussen,KM Jarvis,Q de Kock,1,0,1,1,131,1,1,0,1,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+1,Q de Kock,KM Jarvis,HE van der Dussen,0,1,1,2,130,0,1,0,2,wides,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+2,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,130,0,2,0,3,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+3,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,130,0,3,0,4,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+4,Q de Kock,KM Jarvis,HE van der Dussen,0,0,0,2,130,0,4,0,5,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+5,Q de Kock,KM Jarvis,HE van der Dussen,1,0,1,3,129,1,5,0,6,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+6,HE van der Dussen,KM Jarvis,Q de Kock,6,0,6,9,123,7,2,0,7,-,1,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+7,Q de Kock,CB Mpofu,HE van der Dussen,1,0,1,10,122,2,6,0,1,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+8,HE van der Dussen,CB Mpofu,Q de Kock,1,0,1,11,121,8,3,0,2,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+9,Q de Kock,CB Mpofu,HE van der Dussen,0,0,0,11,121,2,7,0,3,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+10,Q de Kock,CB Mpofu,HE van der Dussen,1,0,1,12,120,3,8,0,4,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+11,HE van der Dussen,CB Mpofu,Q de Kock,0,0,0,12,120,8,4,0,5,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+12,HE van der Dussen,CB Mpofu,Q de Kock,4,0,4,16,116,12,5,0,6,-,2,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+13,Q de Kock,TS Chisoro,HE van der Dussen,0,0,0,16,116,3,9,0,1,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+14,Q de Kock,TS Chisoro,HE van der Dussen,0,0,0,16,116,3,10,0,2,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+15,Q de Kock,TS Chisoro,HE van der Dussen,1,0,1,17,115,4,11,0,3,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+16,HE van der Dussen,TS Chisoro,Q de Kock,0,0,0,17,115,12,6,0,4,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+17,HE van der Dussen,TS Chisoro,Q de Kock,0,1,1,18,114,12,7,0,5,wides,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+18,HE van der Dussen,TS Chisoro,Q de Kock,1,0,1,19,113,13,8,0,6,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+19,Q de Kock,TS Chisoro,HE van der Dussen,4,0,4,23,109,8,12,0,7,-,3,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+20,HE van der Dussen,CB Mpofu,Q de Kock,0,0,0,23,109,13,9,1,1,-,4,caught and bowled,HE van der Dussen,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+21,F du Plessis,CB Mpofu,Q de Kock,1,0,1,24,108,1,1,1,2,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+22,Q de Kock,CB Mpofu,F du Plessis,2,0,2,26,106,10,13,1,3,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+23,Q de Kock,CB Mpofu,F du Plessis,1,0,1,27,105,11,14,1,4,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+24,F du Plessis,CB Mpofu,Q de Kock,0,0,0,27,105,1,2,1,5,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+25,F du Plessis,CB Mpofu,Q de Kock,0,0,0,27,105,1,3,1,6,-,4,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+26,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,105,11,15,1,1,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+27,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,105,11,16,1,2,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+28,Q de Kock,B Mavuta,F du Plessis,0,0,0,27,105,11,17,1,3,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+29,Q de Kock,B Mavuta,F du Plessis,4,0,4,31,101,15,18,1,4,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+30,Q de Kock,B Mavuta,F du Plessis,0,0,0,31,101,15,19,1,5,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+31,Q de Kock,B Mavuta,F du Plessis,0,0,0,31,101,15,20,1,6,-,5,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+32,F du Plessis,KM Jarvis,Q de Kock,1,0,1,32,100,2,4,1,1,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+33,Q de Kock,KM Jarvis,F du Plessis,6,0,6,38,94,21,21,1,2,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+34,Q de Kock,KM Jarvis,F du Plessis,4,0,4,42,90,25,22,1,3,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+35,Q de Kock,KM Jarvis,F du Plessis,1,0,1,43,89,26,23,1,4,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+36,F du Plessis,KM Jarvis,Q de Kock,4,0,4,47,85,6,5,1,5,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+37,F du Plessis,KM Jarvis,Q de Kock,4,0,4,51,81,10,6,1,6,-,6,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+38,Q de Kock,B Mavuta,F du Plessis,0,0,0,51,81,26,24,2,1,-,7,bowled,Q de Kock,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+39,JP Duminy,B Mavuta,F du Plessis,0,1,1,52,80,0,1,2,2,wides,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+40,JP Duminy,B Mavuta,F du Plessis,1,0,1,53,79,1,2,2,3,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+41,F du Plessis,B Mavuta,JP Duminy,1,0,1,54,78,11,7,2,4,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+42,JP Duminy,B Mavuta,F du Plessis,1,0,1,55,77,2,3,2,5,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+43,F du Plessis,B Mavuta,JP Duminy,1,0,1,56,76,12,8,2,6,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+44,JP Duminy,B Mavuta,F du Plessis,1,0,1,57,75,3,4,2,7,-,7,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+45,JP Duminy,SC Williams,F du Plessis,1,0,1,58,74,4,5,2,1,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+46,F du Plessis,SC Williams,JP Duminy,0,0,0,58,74,12,9,3,2,-,8,bowled,F du Plessis,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+47,H Klaasen,SC Williams,JP Duminy,1,0,1,59,73,1,1,3,3,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+48,JP Duminy,SC Williams,H Klaasen,4,0,4,63,69,8,6,3,4,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+49,JP Duminy,SC Williams,H Klaasen,0,0,0,63,69,8,7,3,5,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+50,JP Duminy,SC Williams,H Klaasen,1,0,1,64,68,9,8,3,6,-,8,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+51,JP Duminy,B Mavuta,H Klaasen,0,0,0,64,68,9,9,3,1,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+52,JP Duminy,B Mavuta,H Klaasen,1,0,1,65,67,10,10,3,2,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+53,H Klaasen,B Mavuta,JP Duminy,0,0,0,65,67,1,2,3,3,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+54,H Klaasen,B Mavuta,JP Duminy,0,0,0,65,67,1,3,3,4,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+55,H Klaasen,B Mavuta,JP Duminy,1,0,1,66,66,2,4,3,5,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+56,JP Duminy,B Mavuta,H Klaasen,0,0,0,66,66,10,11,3,6,-,9,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+57,H Klaasen,SC Williams,JP Duminy,0,0,0,66,66,2,5,3,1,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+58,H Klaasen,SC Williams,JP Duminy,0,0,0,66,66,2,6,3,2,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+59,H Klaasen,SC Williams,JP Duminy,6,0,6,72,60,8,7,3,3,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+60,H Klaasen,SC Williams,JP Duminy,1,0,1,73,59,9,8,3,4,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+61,JP Duminy,SC Williams,H Klaasen,1,0,1,74,58,11,12,3,5,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+62,H Klaasen,SC Williams,JP Duminy,1,0,1,75,57,10,9,3,6,-,10,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+63,H Klaasen,TS Chisoro,JP Duminy,0,0,0,75,57,10,10,3,1,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+64,H Klaasen,TS Chisoro,JP Duminy,6,0,6,81,51,16,11,3,2,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+65,H Klaasen,TS Chisoro,JP Duminy,1,0,1,82,50,17,12,3,3,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+66,JP Duminy,TS Chisoro,H Klaasen,0,0,0,82,50,11,13,3,4,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+67,JP Duminy,TS Chisoro,H Klaasen,0,1,1,83,49,11,14,3,5,wides,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+68,JP Duminy,TS Chisoro,H Klaasen,0,0,0,83,49,11,15,3,6,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+69,JP Duminy,TS Chisoro,H Klaasen,1,0,1,84,48,12,16,3,7,-,11,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+70,JP Duminy,B Mavuta,H Klaasen,4,0,4,88,44,16,17,3,1,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+71,JP Duminy,B Mavuta,H Klaasen,6,0,6,94,38,22,18,3,2,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+72,JP Duminy,B Mavuta,H Klaasen,1,0,1,95,37,23,19,3,3,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+73,H Klaasen,B Mavuta,JP Duminy,4,0,4,99,33,21,13,3,4,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+74,H Klaasen,B Mavuta,JP Duminy,1,0,1,100,32,22,14,3,5,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+75,JP Duminy,B Mavuta,H Klaasen,1,0,1,101,31,24,20,3,6,-,12,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+76,JP Duminy,SC Williams,H Klaasen,1,0,1,102,30,25,21,3,1,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+77,H Klaasen,SC Williams,JP Duminy,0,0,0,102,30,22,15,4,2,-,13,caught,H Klaasen,B Mavuta,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+78,JP Duminy,SC Williams,DA Miller,0,1,1,103,29,25,22,4,3,wides,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+79,JP Duminy,SC Williams,DA Miller,1,0,1,104,28,26,23,4,4,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+80,DA Miller,SC Williams,JP Duminy,4,0,4,108,24,4,1,4,5,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+81,DA Miller,SC Williams,JP Duminy,1,0,1,109,23,5,2,4,6,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+82,JP Duminy,SC Williams,DA Miller,1,0,1,110,22,27,24,4,7,-,13,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+83,JP Duminy,CB Mpofu,DA Miller,1,0,1,111,21,28,25,4,1,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+84,DA Miller,CB Mpofu,JP Duminy,0,0,0,111,21,5,3,4,2,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+85,DA Miller,CB Mpofu,JP Duminy,0,0,0,111,21,5,4,4,3,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+86,DA Miller,CB Mpofu,JP Duminy,4,0,4,115,17,9,5,4,4,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+87,DA Miller,CB Mpofu,JP Duminy,0,1,1,116,16,9,6,4,5,wides,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+88,DA Miller,CB Mpofu,JP Duminy,0,0,0,116,16,9,7,4,6,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+89,DA Miller,CB Mpofu,JP Duminy,4,0,4,120,12,13,8,4,7,-,14,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+90,JP Duminy,TS Chisoro,DA Miller,0,1,1,121,11,28,26,4,1,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+91,JP Duminy,TS Chisoro,DA Miller,0,0,0,121,11,28,27,4,2,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+92,JP Duminy,TS Chisoro,DA Miller,0,1,1,122,10,28,28,4,3,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+93,JP Duminy,TS Chisoro,DA Miller,0,1,1,123,9,28,29,4,4,wides,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+94,JP Duminy,TS Chisoro,DA Miller,0,0,0,123,9,28,30,4,5,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+95,JP Duminy,TS Chisoro,DA Miller,1,0,1,124,8,29,31,4,6,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+96,DA Miller,TS Chisoro,JP Duminy,0,0,0,124,8,13,9,4,7,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+97,DA Miller,TS Chisoro,JP Duminy,0,0,0,124,8,13,10,4,8,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+98,DA Miller,TS Chisoro,JP Duminy,1,0,1,125,7,14,11,4,9,-,15,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+99,DA Miller,CB Mpofu,JP Duminy,4,0,4,129,3,18,12,4,1,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+100,DA Miller,CB Mpofu,JP Duminy,0,0,0,129,3,18,13,4,2,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+101,DA Miller,CB Mpofu,JP Duminy,0,1,1,130,2,18,14,4,3,wides,16,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+102,DA Miller,CB Mpofu,JP Duminy,1,0,1,131,1,19,15,4,4,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe
+103,JP Duminy,CB Mpofu,DA Miller,4,0,4,135,-3,33,32,4,5,-,16,0,,,bat,Zimbabwe,2,Senwes Park,2018,10,Zimbabwe_South Africa_2018-10-12,South Africa,South Africa,Zimbabwe

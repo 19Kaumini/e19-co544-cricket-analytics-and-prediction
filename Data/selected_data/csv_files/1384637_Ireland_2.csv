@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,0,0,1,1,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-1,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,0,0,2,2,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-2,A Balbirnie,JJ Bumrah,PR Stirling,,0,5,5,5,0,3,3,wides,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-3,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,5,0,4,4,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-4,A Balbirnie,JJ Bumrah,PR Stirling,"{'by': 'India', 'umpire': 'PA Reynolds', 'batter': 'A Balbirnie', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,5,0,5,5,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-5,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,5,0,6,6,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-6,A Balbirnie,JJ Bumrah,PR Stirling,,3,0,3,8,3,7,7,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-7,A Balbirnie,Arshdeep Singh,PR Stirling,,0,1,1,9,3,8,1,wides,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-8,A Balbirnie,Arshdeep Singh,PR Stirling,,4,0,4,13,7,9,2,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-9,A Balbirnie,Arshdeep Singh,PR Stirling,,0,0,0,13,7,10,3,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-10,A Balbirnie,Arshdeep Singh,PR Stirling,,4,0,4,17,11,11,4,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-11,A Balbirnie,Arshdeep Singh,PR Stirling,,1,0,1,18,12,12,5,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-12,PR Stirling,Arshdeep Singh,A Balbirnie,,0,0,0,18,0,1,6,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-13,PR Stirling,Arshdeep Singh,A Balbirnie,,0,0,0,18,0,2,7,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-14,A Balbirnie,M Prasidh Krishna,PR Stirling,,1,0,1,19,13,13,1,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-15,PR Stirling,M Prasidh Krishna,A Balbirnie,,0,0,0,19,0,3,2,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-16,PR Stirling,M Prasidh Krishna,A Balbirnie,,0,0,0,19,0,4,3,-,3,caught,PR Stirling,Arshdeep Singh,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-17,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,0,1,4,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-18,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,0,2,5,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-19,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,0,3,6,-,3,caught,L Tucker,RD Gaikwad,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-20,A Balbirnie,Arshdeep Singh,HT Tector,,0,0,0,19,13,14,1,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-21,A Balbirnie,Arshdeep Singh,HT Tector,,1,0,1,20,14,15,2,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-22,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,0,1,3,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-23,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,0,2,4,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-24,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,0,3,5,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-25,HT Tector,Arshdeep Singh,A Balbirnie,,2,0,2,22,2,4,6,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-26,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,14,16,1,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-27,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,14,17,2,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-28,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,14,18,3,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-29,A Balbirnie,M Prasidh Krishna,HT Tector,,1,0,1,23,15,19,4,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-30,HT Tector,M Prasidh Krishna,A Balbirnie,,1,0,1,24,3,5,5,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-31,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,24,15,20,6,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-32,HT Tector,Ravi Bishnoi,A Balbirnie,,4,0,4,28,7,6,1,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-33,HT Tector,Ravi Bishnoi,A Balbirnie,,0,0,0,28,7,7,2,-,6,bowled,HT Tector,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-34,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,28,0,1,3,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-35,C Campher,Ravi Bishnoi,A Balbirnie,,2,0,2,30,2,2,4,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-36,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,30,2,3,5,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-37,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,31,3,4,6,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-38,C Campher,Washington Sundar,A Balbirnie,,0,0,0,31,3,5,1,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-39,C Campher,Washington Sundar,A Balbirnie,,1,0,1,32,4,6,2,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-40,A Balbirnie,Washington Sundar,C Campher,,4,0,4,36,19,21,3,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-41,A Balbirnie,Washington Sundar,C Campher,,4,0,4,40,23,22,4,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-42,A Balbirnie,Washington Sundar,C Campher,,1,0,1,41,24,23,5,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-43,C Campher,Washington Sundar,A Balbirnie,,1,0,1,42,5,7,6,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-44,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,42,5,8,1,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-45,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,42,5,9,2,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-46,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,43,6,10,3,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-47,A Balbirnie,Ravi Bishnoi,C Campher,,0,2,2,45,24,24,4,wides,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-48,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,46,7,11,5,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-49,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,47,25,25,6,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-50,C Campher,Ravi Bishnoi,A Balbirnie,,6,0,6,53,13,12,7,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-51,A Balbirnie,S Dube,C Campher,,2,0,2,55,27,26,1,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-52,A Balbirnie,S Dube,C Campher,,0,0,0,55,27,27,2,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-53,A Balbirnie,S Dube,C Campher,,0,0,0,55,27,28,3,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-54,A Balbirnie,S Dube,C Campher,,1,0,1,56,28,29,4,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-55,C Campher,S Dube,A Balbirnie,,1,0,1,57,14,13,5,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-56,A Balbirnie,S Dube,C Campher,,0,0,0,57,28,30,6,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-57,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,58,15,14,1,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-58,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,59,29,31,2,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-59,C Campher,Ravi Bishnoi,A Balbirnie,,2,0,2,61,17,15,3,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-60,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,62,18,16,4,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-61,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,63,30,32,5,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-62,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,63,18,17,6,-,10,caught,C Campher,S Dube,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-63,A Balbirnie,S Dube,GH Dockrell,,1,0,1,64,31,33,1,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-64,GH Dockrell,S Dube,A Balbirnie,,0,0,0,64,0,1,2,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-65,GH Dockrell,S Dube,A Balbirnie,,1,0,1,65,1,2,3,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-66,A Balbirnie,S Dube,GH Dockrell,,6,0,6,71,37,34,4,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-67,A Balbirnie,S Dube,GH Dockrell,,0,0,0,71,37,35,5,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-68,A Balbirnie,S Dube,GH Dockrell,,6,0,6,77,43,36,6,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-69,GH Dockrell,JJ Bumrah,A Balbirnie,,0,1,1,78,1,3,1,byes,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-70,A Balbirnie,JJ Bumrah,GH Dockrell,,1,0,1,79,44,37,2,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-71,GH Dockrell,JJ Bumrah,A Balbirnie,,0,0,0,79,1,4,3,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-72,GH Dockrell,JJ Bumrah,A Balbirnie,,1,0,1,80,2,5,4,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-73,A Balbirnie,JJ Bumrah,GH Dockrell,,0,0,0,80,44,38,5,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-74,A Balbirnie,JJ Bumrah,GH Dockrell,,1,0,1,81,45,39,6,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-75,A Balbirnie,Ravi Bishnoi,GH Dockrell,,4,0,4,85,49,40,1,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-76,A Balbirnie,Ravi Bishnoi,GH Dockrell,,0,0,0,85,49,41,2,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-77,A Balbirnie,Ravi Bishnoi,GH Dockrell,,1,0,1,86,50,42,3,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-78,GH Dockrell,Ravi Bishnoi,A Balbirnie,,1,0,1,87,3,6,4,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-79,A Balbirnie,Ravi Bishnoi,GH Dockrell,,1,0,1,88,51,43,5,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-80,GH Dockrell,Ravi Bishnoi,A Balbirnie,,6,0,6,94,9,7,6,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-81,A Balbirnie,Washington Sundar,GH Dockrell,,0,0,0,94,51,44,1,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-82,A Balbirnie,Washington Sundar,GH Dockrell,,2,0,2,96,53,45,2,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-83,A Balbirnie,Washington Sundar,GH Dockrell,,1,0,1,97,54,46,3,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-84,GH Dockrell,Washington Sundar,A Balbirnie,,1,0,1,98,10,8,4,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-85,A Balbirnie,Washington Sundar,GH Dockrell,,0,1,1,99,54,47,5,wides,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-86,A Balbirnie,Washington Sundar,GH Dockrell,,1,0,1,100,55,48,6,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-87,GH Dockrell,Washington Sundar,A Balbirnie,,0,1,1,101,10,9,7,wides,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-88,GH Dockrell,Washington Sundar,A Balbirnie,,1,0,1,102,11,10,8,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-89,GH Dockrell,M Prasidh Krishna,A Balbirnie,,1,0,1,103,12,11,1,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-90,A Balbirnie,M Prasidh Krishna,GH Dockrell,,1,0,1,104,56,49,2,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-91,GH Dockrell,M Prasidh Krishna,A Balbirnie,,1,0,1,105,13,12,3,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-92,A Balbirnie,M Prasidh Krishna,GH Dockrell,,0,1,1,106,56,50,4,wides,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-93,A Balbirnie,M Prasidh Krishna,GH Dockrell,,2,0,2,108,58,51,5,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-94,A Balbirnie,M Prasidh Krishna,GH Dockrell,,6,0,6,114,64,52,6,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-95,A Balbirnie,M Prasidh Krishna,GH Dockrell,,1,0,1,115,65,53,7,-,15,run out,GH Dockrell,SV Samson;Ravi Bishnoi,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-96,A Balbirnie,Arshdeep Singh,MR Adair,,1,0,1,116,66,54,1,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-97,MR Adair,Arshdeep Singh,A Balbirnie,,1,0,1,117,1,1,2,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-98,A Balbirnie,Arshdeep Singh,MR Adair,,6,0,6,123,72,55,3,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-99,A Balbirnie,Arshdeep Singh,MR Adair,,0,0,0,123,72,56,4,-,16,caught,A Balbirnie,SV Samson,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-100,BJ McCarthy,Arshdeep Singh,MR Adair,,0,0,0,123,0,1,5,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-101,BJ McCarthy,Arshdeep Singh,MR Adair,,1,0,1,124,1,2,6,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-102,BJ McCarthy,JJ Bumrah,MR Adair,,1,0,1,125,2,3,1,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-103,MR Adair,JJ Bumrah,BJ McCarthy,,0,0,0,125,1,2,2,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-104,MR Adair,JJ Bumrah,BJ McCarthy,,1,0,1,126,2,3,3,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-105,BJ McCarthy,JJ Bumrah,MR Adair,,0,0,0,126,2,4,4,-,17,caught,BJ McCarthy,Ravi Bishnoi,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-106,CA Young,JJ Bumrah,MR Adair,,1,0,1,127,1,1,5,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-107,MR Adair,JJ Bumrah,CA Young,,1,0,1,128,3,4,6,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-108,MR Adair,Arshdeep Singh,CA Young,,6,0,6,134,9,5,1,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-109,MR Adair,Arshdeep Singh,CA Young,,1,0,1,135,10,6,2,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-110,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,1,2,3,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-111,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,1,3,4,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-112,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,1,4,5,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-113,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,1,5,6,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-114,MR Adair,M Prasidh Krishna,CA Young,,6,0,6,141,16,7,1,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-115,MR Adair,M Prasidh Krishna,CA Young,,6,0,6,147,22,8,2,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-116,MR Adair,M Prasidh Krishna,CA Young,,0,0,0,147,22,9,3,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-117,MR Adair,M Prasidh Krishna,CA Young,,0,0,0,147,22,10,4,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-118,MR Adair,M Prasidh Krishna,CA Young,,1,0,1,148,23,11,5,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-119,CA Young,M Prasidh Krishna,MR Adair,,0,0,0,148,1,6,6,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-120,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,23,12,1,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-121,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,23,13,2,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-122,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,23,14,3,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-123,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,23,15,4,-,20,caught,MR Adair,Tilak Varma,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-124,J Little,JJ Bumrah,CA Young,,0,0,0,148,0,1,5,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
-125,J Little,JJ Bumrah,CA Young,,0,4,4,152,0,2,6,byes,20,0,,,field,Ireland,2,"Malahide, Dublin",2023-08-20,India,Ireland,India
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,0,185,0,1,0,1,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+1,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,0,185,0,2,0,2,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+2,A Balbirnie,JJ Bumrah,PR Stirling,,0,5,5,5,180,0,3,0,3,wides,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+3,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,5,180,0,4,0,4,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+4,A Balbirnie,JJ Bumrah,PR Stirling,"{'by': 'India', 'umpire': 'PA Reynolds', 'batter': 'A Balbirnie', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,5,180,0,5,0,5,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+5,A Balbirnie,JJ Bumrah,PR Stirling,,0,0,0,5,180,0,6,0,6,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+6,A Balbirnie,JJ Bumrah,PR Stirling,,3,0,3,8,177,3,7,0,7,-,1,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+7,A Balbirnie,Arshdeep Singh,PR Stirling,,0,1,1,9,176,3,8,0,1,wides,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+8,A Balbirnie,Arshdeep Singh,PR Stirling,,4,0,4,13,172,7,9,0,2,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+9,A Balbirnie,Arshdeep Singh,PR Stirling,,0,0,0,13,172,7,10,0,3,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+10,A Balbirnie,Arshdeep Singh,PR Stirling,,4,0,4,17,168,11,11,0,4,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+11,A Balbirnie,Arshdeep Singh,PR Stirling,,1,0,1,18,167,12,12,0,5,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+12,PR Stirling,Arshdeep Singh,A Balbirnie,,0,0,0,18,167,0,1,0,6,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+13,PR Stirling,Arshdeep Singh,A Balbirnie,,0,0,0,18,167,0,2,0,7,-,2,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+14,A Balbirnie,M Prasidh Krishna,PR Stirling,,1,0,1,19,166,13,13,0,1,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+15,PR Stirling,M Prasidh Krishna,A Balbirnie,,0,0,0,19,166,0,3,0,2,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+16,PR Stirling,M Prasidh Krishna,A Balbirnie,,0,0,0,19,166,0,4,1,3,-,3,caught,PR Stirling,Arshdeep Singh,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+17,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,166,0,1,1,4,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+18,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,166,0,2,1,5,-,3,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+19,L Tucker,M Prasidh Krishna,A Balbirnie,,0,0,0,19,166,0,3,2,6,-,3,caught,L Tucker,RD Gaikwad,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+20,A Balbirnie,Arshdeep Singh,HT Tector,,0,0,0,19,166,13,14,2,1,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+21,A Balbirnie,Arshdeep Singh,HT Tector,,1,0,1,20,165,14,15,2,2,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+22,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,165,0,1,2,3,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+23,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,165,0,2,2,4,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+24,HT Tector,Arshdeep Singh,A Balbirnie,,0,0,0,20,165,0,3,2,5,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+25,HT Tector,Arshdeep Singh,A Balbirnie,,2,0,2,22,163,2,4,2,6,-,4,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+26,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,163,14,16,2,1,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+27,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,163,14,17,2,2,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+28,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,22,163,14,18,2,3,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+29,A Balbirnie,M Prasidh Krishna,HT Tector,,1,0,1,23,162,15,19,2,4,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+30,HT Tector,M Prasidh Krishna,A Balbirnie,,1,0,1,24,161,3,5,2,5,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+31,A Balbirnie,M Prasidh Krishna,HT Tector,,0,0,0,24,161,15,20,2,6,-,5,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+32,HT Tector,Ravi Bishnoi,A Balbirnie,,4,0,4,28,157,7,6,2,1,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+33,HT Tector,Ravi Bishnoi,A Balbirnie,,0,0,0,28,157,7,7,3,2,-,6,bowled,HT Tector,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+34,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,28,157,0,1,3,3,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+35,C Campher,Ravi Bishnoi,A Balbirnie,,2,0,2,30,155,2,2,3,4,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+36,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,30,155,2,3,3,5,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+37,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,31,154,3,4,3,6,-,6,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+38,C Campher,Washington Sundar,A Balbirnie,,0,0,0,31,154,3,5,3,1,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+39,C Campher,Washington Sundar,A Balbirnie,,1,0,1,32,153,4,6,3,2,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+40,A Balbirnie,Washington Sundar,C Campher,,4,0,4,36,149,19,21,3,3,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+41,A Balbirnie,Washington Sundar,C Campher,,4,0,4,40,145,23,22,3,4,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+42,A Balbirnie,Washington Sundar,C Campher,,1,0,1,41,144,24,23,3,5,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+43,C Campher,Washington Sundar,A Balbirnie,,1,0,1,42,143,5,7,3,6,-,7,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+44,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,42,143,5,8,3,1,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+45,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,42,143,5,9,3,2,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+46,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,43,142,6,10,3,3,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+47,A Balbirnie,Ravi Bishnoi,C Campher,,0,2,2,45,140,24,24,3,4,wides,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+48,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,46,139,7,11,3,5,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+49,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,47,138,25,25,3,6,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+50,C Campher,Ravi Bishnoi,A Balbirnie,,6,0,6,53,132,13,12,3,7,-,8,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+51,A Balbirnie,S Dube,C Campher,,2,0,2,55,130,27,26,3,1,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+52,A Balbirnie,S Dube,C Campher,,0,0,0,55,130,27,27,3,2,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+53,A Balbirnie,S Dube,C Campher,,0,0,0,55,130,27,28,3,3,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+54,A Balbirnie,S Dube,C Campher,,1,0,1,56,129,28,29,3,4,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+55,C Campher,S Dube,A Balbirnie,,1,0,1,57,128,14,13,3,5,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+56,A Balbirnie,S Dube,C Campher,,0,0,0,57,128,28,30,3,6,-,9,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+57,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,58,127,15,14,3,1,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+58,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,59,126,29,31,3,2,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+59,C Campher,Ravi Bishnoi,A Balbirnie,,2,0,2,61,124,17,15,3,3,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+60,C Campher,Ravi Bishnoi,A Balbirnie,,1,0,1,62,123,18,16,3,4,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+61,A Balbirnie,Ravi Bishnoi,C Campher,,1,0,1,63,122,30,32,3,5,-,10,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+62,C Campher,Ravi Bishnoi,A Balbirnie,,0,0,0,63,122,18,17,4,6,-,10,caught,C Campher,S Dube,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+63,A Balbirnie,S Dube,GH Dockrell,,1,0,1,64,121,31,33,4,1,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+64,GH Dockrell,S Dube,A Balbirnie,,0,0,0,64,121,0,1,4,2,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+65,GH Dockrell,S Dube,A Balbirnie,,1,0,1,65,120,1,2,4,3,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+66,A Balbirnie,S Dube,GH Dockrell,,6,0,6,71,114,37,34,4,4,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+67,A Balbirnie,S Dube,GH Dockrell,,0,0,0,71,114,37,35,4,5,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+68,A Balbirnie,S Dube,GH Dockrell,,6,0,6,77,108,43,36,4,6,-,11,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+69,GH Dockrell,JJ Bumrah,A Balbirnie,,0,1,1,78,107,1,3,4,1,byes,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+70,A Balbirnie,JJ Bumrah,GH Dockrell,,1,0,1,79,106,44,37,4,2,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+71,GH Dockrell,JJ Bumrah,A Balbirnie,,0,0,0,79,106,1,4,4,3,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+72,GH Dockrell,JJ Bumrah,A Balbirnie,,1,0,1,80,105,2,5,4,4,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+73,A Balbirnie,JJ Bumrah,GH Dockrell,,0,0,0,80,105,44,38,4,5,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+74,A Balbirnie,JJ Bumrah,GH Dockrell,,1,0,1,81,104,45,39,4,6,-,12,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+75,A Balbirnie,Ravi Bishnoi,GH Dockrell,,4,0,4,85,100,49,40,4,1,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+76,A Balbirnie,Ravi Bishnoi,GH Dockrell,,0,0,0,85,100,49,41,4,2,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+77,A Balbirnie,Ravi Bishnoi,GH Dockrell,,1,0,1,86,99,50,42,4,3,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+78,GH Dockrell,Ravi Bishnoi,A Balbirnie,,1,0,1,87,98,3,6,4,4,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+79,A Balbirnie,Ravi Bishnoi,GH Dockrell,,1,0,1,88,97,51,43,4,5,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+80,GH Dockrell,Ravi Bishnoi,A Balbirnie,,6,0,6,94,91,9,7,4,6,-,13,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+81,A Balbirnie,Washington Sundar,GH Dockrell,,0,0,0,94,91,51,44,4,1,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+82,A Balbirnie,Washington Sundar,GH Dockrell,,2,0,2,96,89,53,45,4,2,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+83,A Balbirnie,Washington Sundar,GH Dockrell,,1,0,1,97,88,54,46,4,3,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+84,GH Dockrell,Washington Sundar,A Balbirnie,,1,0,1,98,87,10,8,4,4,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+85,A Balbirnie,Washington Sundar,GH Dockrell,,0,1,1,99,86,54,47,4,5,wides,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+86,A Balbirnie,Washington Sundar,GH Dockrell,,1,0,1,100,85,55,48,4,6,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+87,GH Dockrell,Washington Sundar,A Balbirnie,,0,1,1,101,84,10,9,4,7,wides,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+88,GH Dockrell,Washington Sundar,A Balbirnie,,1,0,1,102,83,11,10,4,8,-,14,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+89,GH Dockrell,M Prasidh Krishna,A Balbirnie,,1,0,1,103,82,12,11,4,1,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+90,A Balbirnie,M Prasidh Krishna,GH Dockrell,,1,0,1,104,81,56,49,4,2,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+91,GH Dockrell,M Prasidh Krishna,A Balbirnie,,1,0,1,105,80,13,12,4,3,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+92,A Balbirnie,M Prasidh Krishna,GH Dockrell,,0,1,1,106,79,56,50,4,4,wides,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+93,A Balbirnie,M Prasidh Krishna,GH Dockrell,,2,0,2,108,77,58,51,4,5,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+94,A Balbirnie,M Prasidh Krishna,GH Dockrell,,6,0,6,114,71,64,52,4,6,-,15,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+95,A Balbirnie,M Prasidh Krishna,GH Dockrell,,1,0,1,115,70,65,53,5,7,-,15,run out,GH Dockrell,SV Samson;Ravi Bishnoi,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+96,A Balbirnie,Arshdeep Singh,MR Adair,,1,0,1,116,69,66,54,5,1,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+97,MR Adair,Arshdeep Singh,A Balbirnie,,1,0,1,117,68,1,1,5,2,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+98,A Balbirnie,Arshdeep Singh,MR Adair,,6,0,6,123,62,72,55,5,3,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+99,A Balbirnie,Arshdeep Singh,MR Adair,,0,0,0,123,62,72,56,6,4,-,16,caught,A Balbirnie,SV Samson,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+100,BJ McCarthy,Arshdeep Singh,MR Adair,,0,0,0,123,62,0,1,6,5,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+101,BJ McCarthy,Arshdeep Singh,MR Adair,,1,0,1,124,61,1,2,6,6,-,16,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+102,BJ McCarthy,JJ Bumrah,MR Adair,,1,0,1,125,60,2,3,6,1,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+103,MR Adair,JJ Bumrah,BJ McCarthy,,0,0,0,125,60,1,2,6,2,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+104,MR Adair,JJ Bumrah,BJ McCarthy,,1,0,1,126,59,2,3,6,3,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+105,BJ McCarthy,JJ Bumrah,MR Adair,,0,0,0,126,59,2,4,7,4,-,17,caught,BJ McCarthy,Ravi Bishnoi,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+106,CA Young,JJ Bumrah,MR Adair,,1,0,1,127,58,1,1,7,5,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+107,MR Adair,JJ Bumrah,CA Young,,1,0,1,128,57,3,4,7,6,-,17,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+108,MR Adair,Arshdeep Singh,CA Young,,6,0,6,134,51,9,5,7,1,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+109,MR Adair,Arshdeep Singh,CA Young,,1,0,1,135,50,10,6,7,2,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+110,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,50,1,2,7,3,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+111,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,50,1,3,7,4,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+112,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,50,1,4,7,5,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+113,CA Young,Arshdeep Singh,MR Adair,,0,0,0,135,50,1,5,7,6,-,18,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+114,MR Adair,M Prasidh Krishna,CA Young,,6,0,6,141,44,16,7,7,1,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+115,MR Adair,M Prasidh Krishna,CA Young,,6,0,6,147,38,22,8,7,2,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+116,MR Adair,M Prasidh Krishna,CA Young,,0,0,0,147,38,22,9,7,3,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+117,MR Adair,M Prasidh Krishna,CA Young,,0,0,0,147,38,22,10,7,4,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+118,MR Adair,M Prasidh Krishna,CA Young,,1,0,1,148,37,23,11,7,5,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+119,CA Young,M Prasidh Krishna,MR Adair,,0,0,0,148,37,1,6,7,6,-,19,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+120,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,37,23,12,7,1,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+121,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,37,23,13,7,2,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+122,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,37,23,14,7,3,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+123,MR Adair,JJ Bumrah,CA Young,,0,0,0,148,37,23,15,8,4,-,20,caught,MR Adair,Tilak Varma,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+124,J Little,JJ Bumrah,CA Young,,0,0,0,148,37,0,1,8,5,-,20,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India
+125,J Little,JJ Bumrah,CA Young,,0,4,4,152,33,0,2,8,6,byes,20,0,,,field,Ireland,2,"Malahide, Dublin",2023,08,India_Ireland_2023-08-20,India,Ireland,India

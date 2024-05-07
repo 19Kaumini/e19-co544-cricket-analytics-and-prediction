@@ -1,120 +1,120 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,RG Sharma,A Dananjaya,KL Rahul,0,1,1,1,0,1,1,wides,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-1,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,0,2,2,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-2,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,0,3,3,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-3,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,0,4,4,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-4,RG Sharma,A Dananjaya,KL Rahul,1,0,1,2,1,5,5,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-5,KL Rahul,A Dananjaya,RG Sharma,1,0,1,3,1,1,6,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-6,RG Sharma,A Dananjaya,KL Rahul,0,0,0,3,1,6,7,-,1,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-7,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,1,2,1,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-8,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,1,3,2,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-9,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,1,4,3,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-10,KL Rahul,PVD Chameera,RG Sharma,1,0,1,4,2,5,4,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-11,RG Sharma,PVD Chameera,KL Rahul,0,0,0,4,1,7,5,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-12,RG Sharma,PVD Chameera,KL Rahul,0,0,0,4,1,8,6,-,2,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-13,KL Rahul,A Dananjaya,RG Sharma,1,0,1,5,3,6,1,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-14,RG Sharma,A Dananjaya,KL Rahul,4,0,4,9,5,9,2,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-15,RG Sharma,A Dananjaya,KL Rahul,0,0,0,9,5,10,3,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-16,RG Sharma,A Dananjaya,KL Rahul,6,0,6,15,11,11,4,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-17,RG Sharma,A Dananjaya,KL Rahul,1,0,1,16,12,12,5,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-18,KL Rahul,A Dananjaya,RG Sharma,1,0,1,17,4,7,6,-,3,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-19,KL Rahul,PVD Chameera,RG Sharma,0,0,0,17,4,8,1,-,4,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-20,KL Rahul,PVD Chameera,RG Sharma,0,0,0,17,4,9,2,-,4,"{'by': 'India', 'umpire': 'AK Chaudhary', 'batter': 'KL Rahul', 'decision': 'struck down', 'umpires_call': True}",lbw,KL Rahul,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-21,SS Iyer,PVD Chameera,RG Sharma,4,0,4,21,4,1,3,-,4,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-22,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,4,2,4,-,4,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-23,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,4,3,5,-,4,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-24,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,4,4,6,-,4,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-25,RG Sharma,NLTC Perera,SS Iyer,4,0,4,25,16,13,1,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-26,RG Sharma,NLTC Perera,SS Iyer,0,0,0,25,16,14,2,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-27,RG Sharma,NLTC Perera,SS Iyer,1,0,1,26,17,15,3,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-28,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,4,5,4,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-29,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,4,6,5,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-30,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,4,7,6,-,5,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-31,RG Sharma,N Pradeep,SS Iyer,0,0,0,26,17,16,1,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-32,RG Sharma,N Pradeep,SS Iyer,4,0,4,30,21,17,2,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-33,RG Sharma,N Pradeep,SS Iyer,4,0,4,34,25,18,3,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-34,RG Sharma,N Pradeep,SS Iyer,1,0,1,35,26,19,4,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-35,SS Iyer,N Pradeep,RG Sharma,2,0,2,37,6,8,5,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-36,SS Iyer,N Pradeep,RG Sharma,0,0,0,37,6,9,6,-,6,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-37,RG Sharma,MD Shanaka,SS Iyer,1,0,1,38,27,20,1,-,7,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-38,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,6,10,2,-,7,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-39,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,6,11,3,-,7,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-40,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,6,12,4,-,7,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-41,SS Iyer,MD Shanaka,RG Sharma,1,0,1,39,7,13,5,-,7,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-42,RG Sharma,MD Shanaka,SS Iyer,0,0,0,39,27,21,6,-,7,,caught,RG Sharma,MDKJ Perera,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-43,MK Pandey,N Pradeep,SS Iyer,1,0,1,40,1,1,1,-,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-44,SS Iyer,N Pradeep,MK Pandey,1,0,1,41,8,14,2,-,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-45,MK Pandey,N Pradeep,SS Iyer,1,0,1,42,2,2,3,-,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-46,SS Iyer,N Pradeep,MK Pandey,1,0,1,43,9,15,4,-,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-47,MK Pandey,N Pradeep,SS Iyer,0,4,4,47,2,3,5,legbyes,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-48,MK Pandey,N Pradeep,SS Iyer,0,0,0,47,2,4,6,-,8,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-49,SS Iyer,MD Shanaka,MK Pandey,0,1,1,48,9,16,1,legbyes,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-50,MK Pandey,MD Shanaka,SS Iyer,1,0,1,49,3,5,2,-,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-51,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,9,17,3,-,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-52,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,9,18,4,-,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-53,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,9,19,5,-,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-54,SS Iyer,MD Shanaka,MK Pandey,1,0,1,50,10,20,6,-,9,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-55,SS Iyer,NLTC Perera,MK Pandey,2,0,2,52,12,21,1,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-56,SS Iyer,NLTC Perera,MK Pandey,2,0,2,54,14,22,2,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-57,SS Iyer,NLTC Perera,MK Pandey,1,0,1,55,15,23,3,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-58,MK Pandey,NLTC Perera,SS Iyer,0,0,0,55,3,6,4,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-59,MK Pandey,NLTC Perera,SS Iyer,0,0,0,55,3,7,5,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-60,MK Pandey,NLTC Perera,SS Iyer,1,0,1,56,4,8,6,-,10,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-61,MK Pandey,A Dananjaya,SS Iyer,0,0,0,56,4,9,1,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-62,MK Pandey,A Dananjaya,SS Iyer,1,0,1,57,5,10,2,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-63,SS Iyer,A Dananjaya,MK Pandey,2,0,2,59,17,24,3,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-64,SS Iyer,A Dananjaya,MK Pandey,1,0,1,60,18,25,4,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-65,MK Pandey,A Dananjaya,SS Iyer,0,0,0,60,5,11,5,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-66,MK Pandey,A Dananjaya,SS Iyer,1,0,1,61,6,12,6,-,11,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-67,MK Pandey,MD Shanaka,SS Iyer,1,0,1,62,7,13,1,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-68,SS Iyer,MD Shanaka,MK Pandey,2,0,2,64,20,26,2,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-69,SS Iyer,MD Shanaka,MK Pandey,1,0,1,65,21,27,3,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-70,MK Pandey,MD Shanaka,SS Iyer,1,0,1,66,8,14,4,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-71,SS Iyer,MD Shanaka,MK Pandey,0,0,0,66,21,28,5,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-72,SS Iyer,MD Shanaka,MK Pandey,6,0,6,72,27,29,6,-,12,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-73,MK Pandey,PVD Chameera,SS Iyer,1,0,1,73,9,15,1,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-74,SS Iyer,PVD Chameera,MK Pandey,2,0,2,75,29,30,2,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-75,SS Iyer,PVD Chameera,MK Pandey,0,1,1,76,29,31,3,wides,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-76,SS Iyer,PVD Chameera,MK Pandey,0,0,0,76,29,32,4,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-77,SS Iyer,PVD Chameera,MK Pandey,1,0,1,77,30,33,5,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-78,MK Pandey,PVD Chameera,SS Iyer,0,1,1,78,9,16,6,wides,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-79,MK Pandey,PVD Chameera,SS Iyer,2,0,2,80,11,17,7,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-80,MK Pandey,PVD Chameera,SS Iyer,1,0,1,81,12,18,8,-,13,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-81,MK Pandey,A Dananjaya,SS Iyer,0,0,0,81,12,19,1,-,14,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-82,MK Pandey,A Dananjaya,SS Iyer,0,0,0,81,12,20,2,-,14,,run out,SS Iyer,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-83,MK Pandey,A Dananjaya,HH Pandya,1,0,1,82,13,21,3,-,14,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-84,HH Pandya,A Dananjaya,MK Pandey,1,0,1,83,1,1,4,-,14,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-85,MK Pandey,A Dananjaya,HH Pandya,4,0,4,87,17,22,5,-,14,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-86,MK Pandey,A Dananjaya,HH Pandya,0,0,0,87,17,23,6,-,14,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-87,HH Pandya,MD Shanaka,MK Pandey,1,0,1,88,2,2,1,-,15,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-88,MK Pandey,MD Shanaka,HH Pandya,4,0,4,92,21,24,2,-,15,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-89,MK Pandey,MD Shanaka,HH Pandya,4,0,4,96,25,25,3,-,15,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-90,MK Pandey,MD Shanaka,HH Pandya,1,0,1,97,26,26,4,-,15,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-91,HH Pandya,MD Shanaka,MK Pandey,2,0,2,99,4,3,5,-,15,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-92,HH Pandya,MD Shanaka,MK Pandey,0,0,0,99,4,4,6,-,15,,caught,HH Pandya,N Dickwella,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-93,MK Pandey,N Pradeep,KD Karthik,1,0,1,100,27,27,1,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-94,KD Karthik,N Pradeep,MK Pandey,0,0,0,100,0,1,2,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-95,KD Karthik,N Pradeep,MK Pandey,2,0,2,102,2,2,3,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-96,KD Karthik,N Pradeep,MK Pandey,1,0,1,103,3,3,4,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-97,MK Pandey,N Pradeep,KD Karthik,4,0,4,107,31,28,5,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-98,MK Pandey,N Pradeep,KD Karthik,1,0,1,108,32,29,6,-,16,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-99,MK Pandey,PVD Chameera,KD Karthik,0,0,0,108,32,30,1,-,17,,bowled,MK Pandey,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-100,MS Dhoni,PVD Chameera,KD Karthik,1,0,1,109,1,1,2,-,17,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-101,KD Karthik,PVD Chameera,MS Dhoni,1,0,1,110,4,4,3,-,17,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-102,MS Dhoni,PVD Chameera,KD Karthik,4,0,4,114,5,2,4,-,17,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-103,MS Dhoni,PVD Chameera,KD Karthik,2,0,2,116,7,3,5,-,17,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-104,MS Dhoni,PVD Chameera,KD Karthik,0,0,0,116,7,4,6,-,17,"{'by': 'Sri Lanka', 'umpire': 'Nitin Menon', 'batter': 'MS Dhoni', 'decision': 'struck down'}",0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-105,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,117,5,5,1,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-106,MS Dhoni,NLTC Perera,KD Karthik,1,0,1,118,8,5,2,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-107,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,119,6,6,3,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-108,MS Dhoni,NLTC Perera,KD Karthik,1,0,1,120,9,6,4,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-109,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,121,7,7,5,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-110,MS Dhoni,NLTC Perera,KD Karthik,0,0,0,121,9,7,6,-,18,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-111,KD Karthik,N Pradeep,MS Dhoni,1,0,1,122,8,8,1,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-112,MS Dhoni,N Pradeep,KD Karthik,1,0,1,123,10,8,2,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-113,KD Karthik,N Pradeep,MS Dhoni,2,0,2,125,10,9,3,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-114,KD Karthik,N Pradeep,MS Dhoni,0,0,0,125,10,10,4,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-115,KD Karthik,N Pradeep,MS Dhoni,2,0,2,127,12,11,5,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-116,KD Karthik,N Pradeep,MS Dhoni,6,0,6,133,18,12,6,-,19,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-117,MS Dhoni,NLTC Perera,KD Karthik,2,0,2,135,12,9,1,-,20,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
-118,MS Dhoni,NLTC Perera,KD Karthik,4,0,4,139,16,10,2,-,20,,0,,,field,India,2,Wankhede Stadium,2017-12-24,India,India,Sri Lanka
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,RG Sharma,A Dananjaya,KL Rahul,0,1,1,1,134,0,1,0,1,wides,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+1,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,134,0,2,0,2,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+2,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,134,0,3,0,3,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+3,RG Sharma,A Dananjaya,KL Rahul,0,0,0,1,134,0,4,0,4,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+4,RG Sharma,A Dananjaya,KL Rahul,1,0,1,2,133,1,5,0,5,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+5,KL Rahul,A Dananjaya,RG Sharma,1,0,1,3,132,1,1,0,6,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+6,RG Sharma,A Dananjaya,KL Rahul,0,0,0,3,132,1,6,0,7,-,1,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+7,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,132,1,2,0,1,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+8,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,132,1,3,0,2,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+9,KL Rahul,PVD Chameera,RG Sharma,0,0,0,3,132,1,4,0,3,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+10,KL Rahul,PVD Chameera,RG Sharma,1,0,1,4,131,2,5,0,4,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+11,RG Sharma,PVD Chameera,KL Rahul,0,0,0,4,131,1,7,0,5,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+12,RG Sharma,PVD Chameera,KL Rahul,0,0,0,4,131,1,8,0,6,-,2,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+13,KL Rahul,A Dananjaya,RG Sharma,1,0,1,5,130,3,6,0,1,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+14,RG Sharma,A Dananjaya,KL Rahul,4,0,4,9,126,5,9,0,2,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+15,RG Sharma,A Dananjaya,KL Rahul,0,0,0,9,126,5,10,0,3,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+16,RG Sharma,A Dananjaya,KL Rahul,6,0,6,15,120,11,11,0,4,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+17,RG Sharma,A Dananjaya,KL Rahul,1,0,1,16,119,12,12,0,5,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+18,KL Rahul,A Dananjaya,RG Sharma,1,0,1,17,118,4,7,0,6,-,3,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+19,KL Rahul,PVD Chameera,RG Sharma,0,0,0,17,118,4,8,0,1,-,4,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+20,KL Rahul,PVD Chameera,RG Sharma,0,0,0,17,118,4,9,1,2,-,4,"{'by': 'India', 'umpire': 'AK Chaudhary', 'batter': 'KL Rahul', 'decision': 'struck down', 'umpires_call': True}",lbw,KL Rahul,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+21,SS Iyer,PVD Chameera,RG Sharma,4,0,4,21,114,4,1,1,3,-,4,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+22,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,114,4,2,1,4,-,4,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+23,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,114,4,3,1,5,-,4,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+24,SS Iyer,PVD Chameera,RG Sharma,0,0,0,21,114,4,4,1,6,-,4,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+25,RG Sharma,NLTC Perera,SS Iyer,4,0,4,25,110,16,13,1,1,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+26,RG Sharma,NLTC Perera,SS Iyer,0,0,0,25,110,16,14,1,2,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+27,RG Sharma,NLTC Perera,SS Iyer,1,0,1,26,109,17,15,1,3,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+28,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,109,4,5,1,4,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+29,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,109,4,6,1,5,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+30,SS Iyer,NLTC Perera,RG Sharma,0,0,0,26,109,4,7,1,6,-,5,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+31,RG Sharma,N Pradeep,SS Iyer,0,0,0,26,109,17,16,1,1,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+32,RG Sharma,N Pradeep,SS Iyer,4,0,4,30,105,21,17,1,2,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+33,RG Sharma,N Pradeep,SS Iyer,4,0,4,34,101,25,18,1,3,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+34,RG Sharma,N Pradeep,SS Iyer,1,0,1,35,100,26,19,1,4,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+35,SS Iyer,N Pradeep,RG Sharma,2,0,2,37,98,6,8,1,5,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+36,SS Iyer,N Pradeep,RG Sharma,0,0,0,37,98,6,9,1,6,-,6,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+37,RG Sharma,MD Shanaka,SS Iyer,1,0,1,38,97,27,20,1,1,-,7,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+38,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,97,6,10,1,2,-,7,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+39,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,97,6,11,1,3,-,7,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+40,SS Iyer,MD Shanaka,RG Sharma,0,0,0,38,97,6,12,1,4,-,7,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+41,SS Iyer,MD Shanaka,RG Sharma,1,0,1,39,96,7,13,1,5,-,7,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+42,RG Sharma,MD Shanaka,SS Iyer,0,0,0,39,96,27,21,2,6,-,7,,caught,RG Sharma,MDKJ Perera,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+43,MK Pandey,N Pradeep,SS Iyer,1,0,1,40,95,1,1,2,1,-,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+44,SS Iyer,N Pradeep,MK Pandey,1,0,1,41,94,8,14,2,2,-,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+45,MK Pandey,N Pradeep,SS Iyer,1,0,1,42,93,2,2,2,3,-,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+46,SS Iyer,N Pradeep,MK Pandey,1,0,1,43,92,9,15,2,4,-,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+47,MK Pandey,N Pradeep,SS Iyer,0,4,4,47,88,2,3,2,5,legbyes,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+48,MK Pandey,N Pradeep,SS Iyer,0,0,0,47,88,2,4,2,6,-,8,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+49,SS Iyer,MD Shanaka,MK Pandey,0,1,1,48,87,9,16,2,1,legbyes,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+50,MK Pandey,MD Shanaka,SS Iyer,1,0,1,49,86,3,5,2,2,-,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+51,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,86,9,17,2,3,-,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+52,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,86,9,18,2,4,-,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+53,SS Iyer,MD Shanaka,MK Pandey,0,0,0,49,86,9,19,2,5,-,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+54,SS Iyer,MD Shanaka,MK Pandey,1,0,1,50,85,10,20,2,6,-,9,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+55,SS Iyer,NLTC Perera,MK Pandey,2,0,2,52,83,12,21,2,1,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+56,SS Iyer,NLTC Perera,MK Pandey,2,0,2,54,81,14,22,2,2,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+57,SS Iyer,NLTC Perera,MK Pandey,1,0,1,55,80,15,23,2,3,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+58,MK Pandey,NLTC Perera,SS Iyer,0,0,0,55,80,3,6,2,4,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+59,MK Pandey,NLTC Perera,SS Iyer,0,0,0,55,80,3,7,2,5,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+60,MK Pandey,NLTC Perera,SS Iyer,1,0,1,56,79,4,8,2,6,-,10,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+61,MK Pandey,A Dananjaya,SS Iyer,0,0,0,56,79,4,9,2,1,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+62,MK Pandey,A Dananjaya,SS Iyer,1,0,1,57,78,5,10,2,2,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+63,SS Iyer,A Dananjaya,MK Pandey,2,0,2,59,76,17,24,2,3,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+64,SS Iyer,A Dananjaya,MK Pandey,1,0,1,60,75,18,25,2,4,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+65,MK Pandey,A Dananjaya,SS Iyer,0,0,0,60,75,5,11,2,5,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+66,MK Pandey,A Dananjaya,SS Iyer,1,0,1,61,74,6,12,2,6,-,11,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+67,MK Pandey,MD Shanaka,SS Iyer,1,0,1,62,73,7,13,2,1,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+68,SS Iyer,MD Shanaka,MK Pandey,2,0,2,64,71,20,26,2,2,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+69,SS Iyer,MD Shanaka,MK Pandey,1,0,1,65,70,21,27,2,3,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+70,MK Pandey,MD Shanaka,SS Iyer,1,0,1,66,69,8,14,2,4,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+71,SS Iyer,MD Shanaka,MK Pandey,0,0,0,66,69,21,28,2,5,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+72,SS Iyer,MD Shanaka,MK Pandey,6,0,6,72,63,27,29,2,6,-,12,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+73,MK Pandey,PVD Chameera,SS Iyer,1,0,1,73,62,9,15,2,1,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+74,SS Iyer,PVD Chameera,MK Pandey,2,0,2,75,60,29,30,2,2,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+75,SS Iyer,PVD Chameera,MK Pandey,0,1,1,76,59,29,31,2,3,wides,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+76,SS Iyer,PVD Chameera,MK Pandey,0,0,0,76,59,29,32,2,4,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+77,SS Iyer,PVD Chameera,MK Pandey,1,0,1,77,58,30,33,2,5,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+78,MK Pandey,PVD Chameera,SS Iyer,0,1,1,78,57,9,16,2,6,wides,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+79,MK Pandey,PVD Chameera,SS Iyer,2,0,2,80,55,11,17,2,7,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+80,MK Pandey,PVD Chameera,SS Iyer,1,0,1,81,54,12,18,2,8,-,13,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+81,MK Pandey,A Dananjaya,SS Iyer,0,0,0,81,54,12,19,2,1,-,14,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+82,MK Pandey,A Dananjaya,SS Iyer,0,0,0,81,54,12,20,3,2,-,14,,run out,SS Iyer,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+83,MK Pandey,A Dananjaya,HH Pandya,1,0,1,82,53,13,21,3,3,-,14,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+84,HH Pandya,A Dananjaya,MK Pandey,1,0,1,83,52,1,1,3,4,-,14,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+85,MK Pandey,A Dananjaya,HH Pandya,4,0,4,87,48,17,22,3,5,-,14,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+86,MK Pandey,A Dananjaya,HH Pandya,0,0,0,87,48,17,23,3,6,-,14,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+87,HH Pandya,MD Shanaka,MK Pandey,1,0,1,88,47,2,2,3,1,-,15,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+88,MK Pandey,MD Shanaka,HH Pandya,4,0,4,92,43,21,24,3,2,-,15,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+89,MK Pandey,MD Shanaka,HH Pandya,4,0,4,96,39,25,25,3,3,-,15,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+90,MK Pandey,MD Shanaka,HH Pandya,1,0,1,97,38,26,26,3,4,-,15,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+91,HH Pandya,MD Shanaka,MK Pandey,2,0,2,99,36,4,3,3,5,-,15,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+92,HH Pandya,MD Shanaka,MK Pandey,0,0,0,99,36,4,4,4,6,-,15,,caught,HH Pandya,N Dickwella,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+93,MK Pandey,N Pradeep,KD Karthik,1,0,1,100,35,27,27,4,1,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+94,KD Karthik,N Pradeep,MK Pandey,0,0,0,100,35,0,1,4,2,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+95,KD Karthik,N Pradeep,MK Pandey,2,0,2,102,33,2,2,4,3,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+96,KD Karthik,N Pradeep,MK Pandey,1,0,1,103,32,3,3,4,4,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+97,MK Pandey,N Pradeep,KD Karthik,4,0,4,107,28,31,28,4,5,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+98,MK Pandey,N Pradeep,KD Karthik,1,0,1,108,27,32,29,4,6,-,16,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+99,MK Pandey,PVD Chameera,KD Karthik,0,0,0,108,27,32,30,5,1,-,17,,bowled,MK Pandey,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+100,MS Dhoni,PVD Chameera,KD Karthik,1,0,1,109,26,1,1,5,2,-,17,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+101,KD Karthik,PVD Chameera,MS Dhoni,1,0,1,110,25,4,4,5,3,-,17,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+102,MS Dhoni,PVD Chameera,KD Karthik,4,0,4,114,21,5,2,5,4,-,17,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+103,MS Dhoni,PVD Chameera,KD Karthik,2,0,2,116,19,7,3,5,5,-,17,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+104,MS Dhoni,PVD Chameera,KD Karthik,0,0,0,116,19,7,4,5,6,-,17,"{'by': 'Sri Lanka', 'umpire': 'Nitin Menon', 'batter': 'MS Dhoni', 'decision': 'struck down'}",0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+105,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,117,18,5,5,5,1,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+106,MS Dhoni,NLTC Perera,KD Karthik,1,0,1,118,17,8,5,5,2,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+107,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,119,16,6,6,5,3,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+108,MS Dhoni,NLTC Perera,KD Karthik,1,0,1,120,15,9,6,5,4,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+109,KD Karthik,NLTC Perera,MS Dhoni,1,0,1,121,14,7,7,5,5,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+110,MS Dhoni,NLTC Perera,KD Karthik,0,0,0,121,14,9,7,5,6,-,18,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+111,KD Karthik,N Pradeep,MS Dhoni,1,0,1,122,13,8,8,5,1,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+112,MS Dhoni,N Pradeep,KD Karthik,1,0,1,123,12,10,8,5,2,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+113,KD Karthik,N Pradeep,MS Dhoni,2,0,2,125,10,10,9,5,3,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+114,KD Karthik,N Pradeep,MS Dhoni,0,0,0,125,10,10,10,5,4,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+115,KD Karthik,N Pradeep,MS Dhoni,2,0,2,127,8,12,11,5,5,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+116,KD Karthik,N Pradeep,MS Dhoni,6,0,6,133,2,18,12,5,6,-,19,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+117,MS Dhoni,NLTC Perera,KD Karthik,2,0,2,135,0,12,9,5,1,-,20,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka
+118,MS Dhoni,NLTC Perera,KD Karthik,4,0,4,139,-4,16,10,5,2,-,20,,0,,,field,India,2,Wankhede Stadium,2017,12,Sri Lanka_India_2017-12-24,India,India,Sri Lanka

@@ -1,11 +1,11 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,RS Bopara,B Lee,JL Denly,0,0,0,0,0,1,1,-,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-1,RS Bopara,B Lee,JL Denly,1,0,1,1,1,2,2,-,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-2,JL Denly,B Lee,RS Bopara,0,0,0,1,0,1,3,-,caught,JL Denly,NM Hauritz,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-3,IJL Trott,B Lee,RS Bopara,0,1,1,2,0,1,4,noballs,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-4,IJL Trott,B Lee,RS Bopara,0,0,0,2,0,2,5,-,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-5,IJL Trott,B Lee,RS Bopara,0,1,1,3,0,3,6,wides,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-6,IJL Trott,B Lee,RS Bopara,0,0,0,3,0,4,7,-,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-7,IJL Trott,B Lee,RS Bopara,0,0,0,3,0,5,8,-,0,,,1,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-8,RS Bopara,MG Johnson,IJL Trott,0,1,1,4,1,3,1,wides,0,,,2,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
-9,RS Bopara,MG Johnson,IJL Trott,0,0,0,4,1,4,2,-,caught,RS Bopara,SR Watson,2,field,England,2,Old Trafford,2009-08-30,no result,England,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,RS Bopara,B Lee,JL Denly,0,0,0,0,145,0,1,0,1,-,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+1,RS Bopara,B Lee,JL Denly,1,0,1,1,144,1,2,0,2,-,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+2,JL Denly,B Lee,RS Bopara,0,0,0,1,144,0,1,1,3,-,caught,JL Denly,NM Hauritz,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+3,IJL Trott,B Lee,RS Bopara,0,1,1,2,143,0,1,1,4,noballs,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+4,IJL Trott,B Lee,RS Bopara,0,0,0,2,143,0,2,1,5,-,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+5,IJL Trott,B Lee,RS Bopara,0,1,1,3,142,0,3,1,6,wides,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+6,IJL Trott,B Lee,RS Bopara,0,0,0,3,142,0,4,1,7,-,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+7,IJL Trott,B Lee,RS Bopara,0,0,0,3,142,0,5,1,8,-,0,,,1,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+8,RS Bopara,MG Johnson,IJL Trott,0,1,1,4,141,1,3,1,1,wides,0,,,2,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia
+9,RS Bopara,MG Johnson,IJL Trott,0,0,0,4,141,1,4,2,2,-,caught,RS Bopara,SR Watson,2,field,England,2,Old Trafford,2009,08,England_Australia_2009-08-30,no result,England,Australia

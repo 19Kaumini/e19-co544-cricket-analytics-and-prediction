@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,Mohammad Rizwan,B Kumar,Babar Azam,,0,0,0,0,0,1,1,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-1,Mohammad Rizwan,B Kumar,Babar Azam,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Mohammad Rizwan', 'decision': 'upheld'}",0,0,0,0,0,2,2,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-2,Mohammad Rizwan,B Kumar,Babar Azam,,1,0,1,1,1,3,3,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-3,Babar Azam,B Kumar,Mohammad Rizwan,,4,0,4,5,4,1,4,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-4,Babar Azam,B Kumar,Mohammad Rizwan,,1,0,1,6,5,2,5,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-5,Mohammad Rizwan,B Kumar,Babar Azam,"{'by': 'India', 'umpire': 'RSA Palliyaguruge', 'batter': 'Mohammad Rizwan', 'decision': 'struck down'}",0,0,0,6,1,4,6,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-6,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,6,5,3,1,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-7,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,1,1,7,5,4,2,2,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-8,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,7,5,5,3,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-9,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,1,1,8,5,6,4,2,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-10,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,8,5,7,5,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-11,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,1,0,1,9,6,8,6,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-12,Mohammad Rizwan,Arshdeep Singh,Babar Azam,,1,0,1,10,2,5,7,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-13,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,4,0,4,14,10,9,8,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-14,Mohammad Rizwan,B Kumar,Babar Azam,,0,0,0,14,2,6,1,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-15,Mohammad Rizwan,B Kumar,Babar Azam,,1,0,1,15,3,7,2,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-16,Babar Azam,B Kumar,Mohammad Rizwan,,0,0,0,15,10,10,3,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-17,Babar Azam,B Kumar,Mohammad Rizwan,,0,0,0,15,10,11,4,3,-,caught,Babar Azam,Arshdeep Singh,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-18,Fakhar Zaman,B Kumar,Mohammad Rizwan,,4,0,4,19,4,1,5,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-19,Fakhar Zaman,B Kumar,Mohammad Rizwan,,0,0,0,19,4,2,6,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-20,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,3,8,1,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-21,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,3,9,2,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-22,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,3,10,3,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-23,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,4,0,4,23,7,11,4,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-24,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,23,7,12,5,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-25,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,23,7,13,6,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-26,Fakhar Zaman,HH Pandya,Mohammad Rizwan,,4,0,4,27,8,3,1,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-27,Fakhar Zaman,HH Pandya,Mohammad Rizwan,,1,0,1,28,9,4,2,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-28,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,28,7,14,3,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-29,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,2,0,2,30,9,15,4,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-30,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,30,9,16,5,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-31,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,30,9,17,6,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-32,Fakhar Zaman,Avesh Khan,Mohammad Rizwan,,1,0,1,31,10,5,1,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-33,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,6,0,6,37,15,18,2,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-34,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,4,0,4,41,19,19,3,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-35,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,1,0,1,42,20,20,4,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-36,Fakhar Zaman,Avesh Khan,Mohammad Rizwan,,0,0,0,42,10,6,5,6,-,caught,Fakhar Zaman,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-37,Iftikhar Ahmed,Avesh Khan,Mohammad Rizwan,,1,0,1,43,1,1,6,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-38,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,1,0,1,44,2,2,1,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-39,Mohammad Rizwan,HH Pandya,Iftikhar Ahmed,,1,0,1,45,21,21,2,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-40,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,0,0,0,45,2,3,3,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-41,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,4,0,4,49,6,4,4,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-42,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,1,0,1,50,7,5,5,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-43,Mohammad Rizwan,HH Pandya,Iftikhar Ahmed,,1,0,1,51,22,22,6,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-44,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,0,0,0,51,22,23,1,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-45,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,52,23,24,2,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-46,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,4,0,4,56,11,6,3,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-47,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,57,12,7,4,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-48,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,58,24,25,5,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-49,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,59,13,8,6,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-50,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,0,0,0,59,13,9,1,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-51,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,60,14,10,2,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-52,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,61,25,26,3,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-53,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,0,1,1,62,14,11,4,9,byes,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-54,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,0,0,0,62,25,27,5,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-55,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,63,26,28,6,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-56,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,64,27,29,1,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-57,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,0,0,0,64,14,12,2,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-58,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,65,15,13,3,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-59,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,66,28,30,4,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-60,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,67,16,14,5,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-61,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,68,29,31,6,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-62,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,4,0,4,72,33,32,1,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-63,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,73,34,33,2,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-64,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,74,17,15,3,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-65,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,0,0,0,74,34,34,4,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-66,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,75,35,35,5,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-67,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,76,18,16,6,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-68,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,2,0,2,78,20,17,1,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-69,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,79,21,18,2,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-70,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,80,36,36,3,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-71,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,6,0,6,86,27,19,4,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-72,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,0,0,0,86,27,20,5,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-73,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,87,28,21,6,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-74,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,0,0,0,87,28,22,1,13,-,caught,Iftikhar Ahmed,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-75,Khushdil Shah,HH Pandya,Mohammad Rizwan,,0,0,0,87,0,1,2,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-76,Khushdil Shah,HH Pandya,Mohammad Rizwan,,0,0,0,87,0,2,3,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-77,Khushdil Shah,HH Pandya,Mohammad Rizwan,,1,0,1,88,1,3,4,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-78,Mohammad Rizwan,HH Pandya,Khushdil Shah,,0,0,0,88,36,37,5,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-79,Mohammad Rizwan,HH Pandya,Khushdil Shah,,2,0,2,90,38,38,6,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-80,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,0,0,0,90,1,4,1,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-81,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,0,0,0,90,1,5,2,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-82,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,1,0,1,91,2,6,3,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-83,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,4,0,4,95,42,39,4,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-84,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,0,0,0,95,42,40,5,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-85,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,1,0,1,96,43,41,6,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-86,Mohammad Rizwan,HH Pandya,Khushdil Shah,,0,0,0,96,43,42,1,15,-,caught,Mohammad Rizwan,Avesh Khan,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-87,Shadab Khan,HH Pandya,Khushdil Shah,,1,0,1,97,1,1,2,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-88,Khushdil Shah,HH Pandya,Shadab Khan,,0,0,0,97,2,7,3,15,-,caught,Khushdil Shah,RA Jadeja,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-89,Shadab Khan,HH Pandya,Asif Ali,,0,1,1,98,1,2,4,15,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-90,Shadab Khan,HH Pandya,Asif Ali,,0,1,1,99,1,3,5,15,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-91,Shadab Khan,HH Pandya,Asif Ali,,1,0,1,100,2,4,6,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-92,Asif Ali,HH Pandya,Shadab Khan,,2,0,2,102,2,1,7,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-93,Asif Ali,HH Pandya,Shadab Khan,,1,0,1,103,3,2,8,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-94,Asif Ali,YS Chahal,Shadab Khan,,1,0,1,104,4,3,1,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-95,Shadab Khan,YS Chahal,Asif Ali,,1,0,1,105,3,5,2,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-96,Asif Ali,YS Chahal,Shadab Khan,,3,0,3,108,7,4,3,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-97,Shadab Khan,YS Chahal,Asif Ali,,1,0,1,109,4,6,4,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-98,Asif Ali,YS Chahal,Shadab Khan,,2,0,2,111,9,5,5,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-99,Asif Ali,YS Chahal,Shadab Khan,,0,0,0,111,9,6,6,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-100,Shadab Khan,B Kumar,Asif Ali,,0,0,0,111,4,7,1,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-101,Shadab Khan,B Kumar,Asif Ali,,1,0,1,112,5,8,2,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-102,Asif Ali,B Kumar,Shadab Khan,,0,0,0,112,9,7,3,17,-,caught,Asif Ali,SA Yadav,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-103,Shadab Khan,B Kumar,Mohammad Nawaz,,1,0,1,113,6,9,4,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-104,Mohammad Nawaz,B Kumar,Shadab Khan,,0,0,0,113,0,1,5,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-105,Mohammad Nawaz,B Kumar,Shadab Khan,,1,0,1,114,1,2,6,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-106,Mohammad Nawaz,Arshdeep Singh,Shadab Khan,,0,0,0,114,1,3,1,18,-,caught,Mohammad Nawaz,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-107,Haris Rauf,Arshdeep Singh,Shadab Khan,,2,0,2,116,2,1,2,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-108,Haris Rauf,Arshdeep Singh,Shadab Khan,,4,0,4,120,6,2,3,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-109,Haris Rauf,Arshdeep Singh,Shadab Khan,,0,0,0,120,6,3,4,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-110,Haris Rauf,Arshdeep Singh,Shadab Khan,,0,0,0,120,6,4,5,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-111,Haris Rauf,Arshdeep Singh,Shadab Khan,,4,0,4,124,10,5,6,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-112,Shadab Khan,B Kumar,Haris Rauf,,4,0,4,128,10,10,1,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-113,Shadab Khan,B Kumar,Haris Rauf,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Shadab Khan', 'decision': 'struck down'}",0,0,0,128,10,11,2,19,-,lbw,Shadab Khan,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-114,Naseem Shah,B Kumar,Haris Rauf,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Naseem Shah', 'decision': 'struck down', 'umpires_call': True}",0,0,0,128,0,1,3,19,-,lbw,Naseem Shah,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-115,Shahnawaz Dhani,B Kumar,Haris Rauf,,0,0,0,128,0,1,4,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-116,Shahnawaz Dhani,B Kumar,Haris Rauf,,6,0,6,134,6,2,5,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-117,Shahnawaz Dhani,B Kumar,Haris Rauf,,2,0,2,136,8,3,6,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-118,Haris Rauf,Arshdeep Singh,Shahnawaz Dhani,,0,0,0,136,10,6,1,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-119,Haris Rauf,Arshdeep Singh,Shahnawaz Dhani,,3,0,3,139,13,7,2,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-120,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,2,0,2,141,10,4,3,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-121,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,6,0,6,147,16,5,4,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
-122,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,0,0,0,147,16,6,5,20,-,bowled,Shahnawaz Dhani,,field,India,1,Dubai International Cricket Stadium,2022-08-28,India,Pakistan,India
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,Mohammad Rizwan,B Kumar,Babar Azam,,0,0,0,0,105,0,1,0,1,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+1,Mohammad Rizwan,B Kumar,Babar Azam,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Mohammad Rizwan', 'decision': 'upheld'}",0,0,0,0,105,0,2,0,2,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+2,Mohammad Rizwan,B Kumar,Babar Azam,,1,0,1,1,104,1,3,0,3,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+3,Babar Azam,B Kumar,Mohammad Rizwan,,4,0,4,5,100,4,1,0,4,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+4,Babar Azam,B Kumar,Mohammad Rizwan,,1,0,1,6,99,5,2,0,5,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+5,Mohammad Rizwan,B Kumar,Babar Azam,"{'by': 'India', 'umpire': 'RSA Palliyaguruge', 'batter': 'Mohammad Rizwan', 'decision': 'struck down'}",0,0,0,6,99,1,4,0,6,1,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+6,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,6,99,5,3,0,1,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+7,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,1,1,7,98,5,4,0,2,2,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+8,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,7,98,5,5,0,3,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+9,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,1,1,8,97,5,6,0,4,2,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+10,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,0,0,0,8,97,5,7,0,5,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+11,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,1,0,1,9,96,6,8,0,6,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+12,Mohammad Rizwan,Arshdeep Singh,Babar Azam,,1,0,1,10,95,2,5,0,7,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+13,Babar Azam,Arshdeep Singh,Mohammad Rizwan,,4,0,4,14,91,10,9,0,8,2,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+14,Mohammad Rizwan,B Kumar,Babar Azam,,0,0,0,14,91,2,6,0,1,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+15,Mohammad Rizwan,B Kumar,Babar Azam,,1,0,1,15,90,3,7,0,2,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+16,Babar Azam,B Kumar,Mohammad Rizwan,,0,0,0,15,90,10,10,0,3,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+17,Babar Azam,B Kumar,Mohammad Rizwan,,0,0,0,15,90,10,11,1,4,3,-,caught,Babar Azam,Arshdeep Singh,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+18,Fakhar Zaman,B Kumar,Mohammad Rizwan,,4,0,4,19,86,4,1,1,5,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+19,Fakhar Zaman,B Kumar,Mohammad Rizwan,,0,0,0,19,86,4,2,1,6,3,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+20,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,86,3,8,1,1,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+21,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,86,3,9,1,2,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+22,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,19,86,3,10,1,3,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+23,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,4,0,4,23,82,7,11,1,4,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+24,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,23,82,7,12,1,5,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+25,Mohammad Rizwan,Arshdeep Singh,Fakhar Zaman,,0,0,0,23,82,7,13,1,6,4,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+26,Fakhar Zaman,HH Pandya,Mohammad Rizwan,,4,0,4,27,78,8,3,1,1,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+27,Fakhar Zaman,HH Pandya,Mohammad Rizwan,,1,0,1,28,77,9,4,1,2,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+28,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,28,77,7,14,1,3,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+29,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,2,0,2,30,75,9,15,1,4,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+30,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,30,75,9,16,1,5,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+31,Mohammad Rizwan,HH Pandya,Fakhar Zaman,,0,0,0,30,75,9,17,1,6,5,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+32,Fakhar Zaman,Avesh Khan,Mohammad Rizwan,,1,0,1,31,74,10,5,1,1,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+33,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,6,0,6,37,68,15,18,1,2,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+34,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,4,0,4,41,64,19,19,1,3,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+35,Mohammad Rizwan,Avesh Khan,Fakhar Zaman,,1,0,1,42,63,20,20,1,4,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+36,Fakhar Zaman,Avesh Khan,Mohammad Rizwan,,0,0,0,42,63,10,6,2,5,6,-,caught,Fakhar Zaman,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+37,Iftikhar Ahmed,Avesh Khan,Mohammad Rizwan,,1,0,1,43,62,1,1,2,6,6,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+38,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,1,0,1,44,61,2,2,2,1,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+39,Mohammad Rizwan,HH Pandya,Iftikhar Ahmed,,1,0,1,45,60,21,21,2,2,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+40,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,0,0,0,45,60,2,3,2,3,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+41,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,4,0,4,49,56,6,4,2,4,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+42,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,1,0,1,50,55,7,5,2,5,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+43,Mohammad Rizwan,HH Pandya,Iftikhar Ahmed,,1,0,1,51,54,22,22,2,6,7,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+44,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,0,0,0,51,54,22,23,2,1,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+45,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,52,53,23,24,2,2,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+46,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,4,0,4,56,49,11,6,2,3,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+47,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,57,48,12,7,2,4,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+48,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,58,47,24,25,2,5,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+49,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,59,46,13,8,2,6,8,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+50,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,0,0,0,59,46,13,9,2,1,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+51,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,60,45,14,10,2,2,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+52,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,61,44,25,26,2,3,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+53,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,0,1,1,62,43,14,11,2,4,9,byes,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+54,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,0,0,0,62,43,25,27,2,5,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+55,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,63,42,26,28,2,6,9,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+56,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,64,41,27,29,2,1,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+57,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,0,0,0,64,41,14,12,2,2,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+58,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,65,40,15,13,2,3,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+59,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,66,39,28,30,2,4,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+60,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,67,38,16,14,2,5,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+61,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,68,37,29,31,2,6,10,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+62,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,4,0,4,72,33,33,32,2,1,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+63,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,73,32,34,33,2,2,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+64,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,74,31,17,15,2,3,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+65,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,0,0,0,74,31,34,34,2,4,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+66,Mohammad Rizwan,RA Jadeja,Iftikhar Ahmed,,1,0,1,75,30,35,35,2,5,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+67,Iftikhar Ahmed,RA Jadeja,Mohammad Rizwan,,1,0,1,76,29,18,16,2,6,11,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+68,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,2,0,2,78,27,20,17,2,1,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+69,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,79,26,21,18,2,2,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+70,Mohammad Rizwan,YS Chahal,Iftikhar Ahmed,,1,0,1,80,25,36,36,2,3,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+71,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,6,0,6,86,19,27,19,2,4,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+72,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,0,0,0,86,19,27,20,2,5,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+73,Iftikhar Ahmed,YS Chahal,Mohammad Rizwan,,1,0,1,87,18,28,21,2,6,12,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+74,Iftikhar Ahmed,HH Pandya,Mohammad Rizwan,,0,0,0,87,18,28,22,3,1,13,-,caught,Iftikhar Ahmed,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+75,Khushdil Shah,HH Pandya,Mohammad Rizwan,,0,0,0,87,18,0,1,3,2,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+76,Khushdil Shah,HH Pandya,Mohammad Rizwan,,0,0,0,87,18,0,2,3,3,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+77,Khushdil Shah,HH Pandya,Mohammad Rizwan,,1,0,1,88,17,1,3,3,4,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+78,Mohammad Rizwan,HH Pandya,Khushdil Shah,,0,0,0,88,17,36,37,3,5,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+79,Mohammad Rizwan,HH Pandya,Khushdil Shah,,2,0,2,90,15,38,38,3,6,13,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+80,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,0,0,0,90,15,1,4,3,1,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+81,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,0,0,0,90,15,1,5,3,2,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+82,Khushdil Shah,Avesh Khan,Mohammad Rizwan,,1,0,1,91,14,2,6,3,3,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+83,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,4,0,4,95,10,42,39,3,4,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+84,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,0,0,0,95,10,42,40,3,5,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+85,Mohammad Rizwan,Avesh Khan,Khushdil Shah,,1,0,1,96,9,43,41,3,6,14,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+86,Mohammad Rizwan,HH Pandya,Khushdil Shah,,0,0,0,96,9,43,42,4,1,15,-,caught,Mohammad Rizwan,Avesh Khan,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+87,Shadab Khan,HH Pandya,Khushdil Shah,,1,0,1,97,8,1,1,4,2,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+88,Khushdil Shah,HH Pandya,Shadab Khan,,0,0,0,97,8,2,7,5,3,15,-,caught,Khushdil Shah,RA Jadeja,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+89,Shadab Khan,HH Pandya,Asif Ali,,0,1,1,98,7,1,2,5,4,15,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+90,Shadab Khan,HH Pandya,Asif Ali,,0,1,1,99,6,1,3,5,5,15,wides,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+91,Shadab Khan,HH Pandya,Asif Ali,,1,0,1,100,5,2,4,5,6,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+92,Asif Ali,HH Pandya,Shadab Khan,,2,0,2,102,3,2,1,5,7,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+93,Asif Ali,HH Pandya,Shadab Khan,,1,0,1,103,2,3,2,5,8,15,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+94,Asif Ali,YS Chahal,Shadab Khan,,1,0,1,104,1,4,3,5,1,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+95,Shadab Khan,YS Chahal,Asif Ali,,1,0,1,105,0,3,5,5,2,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+96,Asif Ali,YS Chahal,Shadab Khan,,3,0,3,108,-3,7,4,5,3,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+97,Shadab Khan,YS Chahal,Asif Ali,,1,0,1,109,-4,4,6,5,4,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+98,Asif Ali,YS Chahal,Shadab Khan,,2,0,2,111,-6,9,5,5,5,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+99,Asif Ali,YS Chahal,Shadab Khan,,0,0,0,111,-6,9,6,5,6,16,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+100,Shadab Khan,B Kumar,Asif Ali,,0,0,0,111,-6,4,7,5,1,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+101,Shadab Khan,B Kumar,Asif Ali,,1,0,1,112,-7,5,8,5,2,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+102,Asif Ali,B Kumar,Shadab Khan,,0,0,0,112,-7,9,7,6,3,17,-,caught,Asif Ali,SA Yadav,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+103,Shadab Khan,B Kumar,Mohammad Nawaz,,1,0,1,113,-8,6,9,6,4,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+104,Mohammad Nawaz,B Kumar,Shadab Khan,,0,0,0,113,-8,0,1,6,5,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+105,Mohammad Nawaz,B Kumar,Shadab Khan,,1,0,1,114,-9,1,2,6,6,17,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+106,Mohammad Nawaz,Arshdeep Singh,Shadab Khan,,0,0,0,114,-9,1,3,7,1,18,-,caught,Mohammad Nawaz,KD Karthik,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+107,Haris Rauf,Arshdeep Singh,Shadab Khan,,2,0,2,116,-11,2,1,7,2,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+108,Haris Rauf,Arshdeep Singh,Shadab Khan,,4,0,4,120,-15,6,2,7,3,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+109,Haris Rauf,Arshdeep Singh,Shadab Khan,,0,0,0,120,-15,6,3,7,4,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+110,Haris Rauf,Arshdeep Singh,Shadab Khan,,0,0,0,120,-15,6,4,7,5,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+111,Haris Rauf,Arshdeep Singh,Shadab Khan,,4,0,4,124,-19,10,5,7,6,18,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+112,Shadab Khan,B Kumar,Haris Rauf,,4,0,4,128,-23,10,10,7,1,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+113,Shadab Khan,B Kumar,Haris Rauf,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Shadab Khan', 'decision': 'struck down'}",0,0,0,128,-23,10,11,8,2,19,-,lbw,Shadab Khan,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+114,Naseem Shah,B Kumar,Haris Rauf,"{'by': 'Pakistan', 'umpire': 'RSA Palliyaguruge', 'batter': 'Naseem Shah', 'decision': 'struck down', 'umpires_call': True}",0,0,0,128,-23,0,1,9,3,19,-,lbw,Naseem Shah,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+115,Shahnawaz Dhani,B Kumar,Haris Rauf,,0,0,0,128,-23,0,1,9,4,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+116,Shahnawaz Dhani,B Kumar,Haris Rauf,,6,0,6,134,-29,6,2,9,5,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+117,Shahnawaz Dhani,B Kumar,Haris Rauf,,2,0,2,136,-31,8,3,9,6,19,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+118,Haris Rauf,Arshdeep Singh,Shahnawaz Dhani,,0,0,0,136,-31,10,6,9,1,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+119,Haris Rauf,Arshdeep Singh,Shahnawaz Dhani,,3,0,3,139,-34,13,7,9,2,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+120,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,2,0,2,141,-36,10,4,9,3,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+121,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,6,0,6,147,-42,16,5,9,4,20,-,0,,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India
+122,Shahnawaz Dhani,Arshdeep Singh,Haris Rauf,,0,0,0,147,-42,16,6,10,5,20,-,bowled,Shahnawaz Dhani,,field,India,1,Dubai International Cricket Stadium,2022,08,Pakistan_India_2022-08-28,India,Pakistan,India

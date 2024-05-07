@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,RR Hendricks,AM Hardie,T Bavuma,1,0,1,1,1,1,1,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-1,T Bavuma,AM Hardie,RR Hendricks,4,0,4,5,4,1,2,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-2,T Bavuma,AM Hardie,RR Hendricks,0,0,0,5,4,2,3,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-3,T Bavuma,AM Hardie,RR Hendricks,0,0,0,5,4,3,4,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-4,T Bavuma,AM Hardie,RR Hendricks,4,0,4,9,8,4,5,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-5,T Bavuma,AM Hardie,RR Hendricks,1,0,1,10,9,5,6,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-6,T Bavuma,JP Behrendorff,RR Hendricks,0,0,0,10,9,6,1,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-7,T Bavuma,JP Behrendorff,RR Hendricks,6,0,6,16,15,7,2,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-8,T Bavuma,JP Behrendorff,RR Hendricks,0,0,0,16,15,8,3,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-9,T Bavuma,JP Behrendorff,RR Hendricks,2,0,2,18,17,9,4,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-10,T Bavuma,JP Behrendorff,RR Hendricks,4,0,4,22,21,10,5,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-11,T Bavuma,JP Behrendorff,RR Hendricks,1,0,1,23,22,11,6,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-12,T Bavuma,MW Short,RR Hendricks,4,0,4,27,26,12,1,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-13,T Bavuma,MW Short,RR Hendricks,4,0,4,31,30,13,2,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-14,T Bavuma,MW Short,RR Hendricks,0,0,0,31,30,14,3,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-15,T Bavuma,MW Short,RR Hendricks,4,0,4,35,34,15,4,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-16,T Bavuma,MW Short,RR Hendricks,1,0,1,36,35,16,5,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-17,RR Hendricks,MW Short,T Bavuma,0,0,0,36,1,2,6,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-18,T Bavuma,SA Abbott,RR Hendricks,0,0,0,36,35,17,1,4,-,caught,T Bavuma,JP Inglis,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-19,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,0,1,2,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-20,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,0,2,3,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-21,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,0,3,4,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-22,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,0,4,5,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-23,HE van der Dussen,SA Abbott,RR Hendricks,0,1,1,37,0,5,6,4,noballs,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-24,HE van der Dussen,SA Abbott,RR Hendricks,6,0,6,43,6,6,7,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-25,RR Hendricks,JP Behrendorff,HE van der Dussen,1,0,1,44,2,3,1,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-26,HE van der Dussen,JP Behrendorff,RR Hendricks,0,0,0,44,6,7,2,5,-,lbw,HE van der Dussen,,"{'by': 'South Africa', 'umpire': 'Stephen Harris', 'batter': 'HE van der Dussen', 'decision': 'struck down', 'type': 'wicket'}",field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-27,AK Markram,JP Behrendorff,RR Hendricks,1,0,1,45,1,1,3,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-28,RR Hendricks,JP Behrendorff,AK Markram,0,0,0,45,2,4,4,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-29,RR Hendricks,JP Behrendorff,AK Markram,0,0,0,45,2,5,5,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-30,RR Hendricks,JP Behrendorff,AK Markram,1,0,1,46,3,6,6,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-31,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,3,7,1,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-32,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,3,8,2,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-33,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,3,9,3,6,-,lbw,RR Hendricks,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-34,D Brevis,NT Ellis,AK Markram,0,0,0,46,0,1,4,6,-,caught,D Brevis,JP Inglis,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-35,T Stubbs,NT Ellis,AK Markram,0,0,0,46,0,1,5,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-36,T Stubbs,NT Ellis,AK Markram,0,0,0,46,0,2,6,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-37,AK Markram,SA Abbott,T Stubbs,0,0,0,46,1,2,1,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-38,AK Markram,SA Abbott,T Stubbs,0,4,4,50,1,3,2,7,legbyes,0,,,"{'by': 'Australia', 'umpire': 'Stephen Harris', 'batter': 'AK Markram', 'decision': 'struck down', 'type': 'wicket'}",field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-39,AK Markram,SA Abbott,T Stubbs,0,0,0,50,1,4,3,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-40,AK Markram,SA Abbott,T Stubbs,0,0,0,50,1,5,4,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-41,AK Markram,SA Abbott,T Stubbs,2,0,2,52,3,6,5,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-42,AK Markram,SA Abbott,T Stubbs,1,0,1,53,4,7,6,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-43,AK Markram,JP Behrendorff,T Stubbs,0,0,0,53,4,8,1,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-44,AK Markram,JP Behrendorff,T Stubbs,1,0,1,54,5,9,2,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-45,T Stubbs,JP Behrendorff,AK Markram,1,0,1,55,1,3,3,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-46,AK Markram,JP Behrendorff,T Stubbs,0,0,0,55,5,10,4,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-47,AK Markram,JP Behrendorff,T Stubbs,1,0,1,56,6,11,5,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-48,T Stubbs,JP Behrendorff,AK Markram,0,0,0,56,1,4,6,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-49,AK Markram,A Zampa,T Stubbs,1,0,1,57,7,12,1,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-50,T Stubbs,A Zampa,AK Markram,0,0,0,57,1,5,2,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-51,T Stubbs,A Zampa,AK Markram,1,0,1,58,2,6,3,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-52,AK Markram,A Zampa,T Stubbs,1,0,1,59,8,13,4,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-53,T Stubbs,A Zampa,AK Markram,4,0,4,63,6,7,5,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-54,T Stubbs,A Zampa,AK Markram,2,0,2,65,8,8,6,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-55,AK Markram,AM Hardie,T Stubbs,1,0,1,66,9,14,1,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-56,T Stubbs,AM Hardie,AK Markram,0,0,0,66,8,9,2,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-57,T Stubbs,AM Hardie,AK Markram,0,1,1,67,8,10,3,10,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-58,AK Markram,AM Hardie,T Stubbs,0,1,1,68,9,15,4,10,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-59,T Stubbs,AM Hardie,AK Markram,6,0,6,74,14,11,5,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-60,T Stubbs,AM Hardie,AK Markram,1,0,1,75,15,12,6,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-61,T Stubbs,A Zampa,AK Markram,4,0,4,79,19,13,1,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-62,T Stubbs,A Zampa,AK Markram,4,0,4,83,23,14,2,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-63,T Stubbs,A Zampa,AK Markram,2,0,2,85,25,15,3,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-64,T Stubbs,A Zampa,AK Markram,0,0,0,85,25,16,4,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-65,T Stubbs,A Zampa,AK Markram,1,0,1,86,26,17,5,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-66,AK Markram,A Zampa,T Stubbs,1,0,1,87,10,16,6,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-67,AK Markram,NT Ellis,T Stubbs,1,0,1,88,11,17,1,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-68,T Stubbs,NT Ellis,AK Markram,1,0,1,89,27,18,2,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-69,AK Markram,NT Ellis,T Stubbs,4,0,4,93,15,18,3,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-70,AK Markram,NT Ellis,T Stubbs,1,0,1,94,16,19,4,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-71,T Stubbs,NT Ellis,AK Markram,0,1,1,95,27,19,5,12,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-72,AK Markram,NT Ellis,T Stubbs,1,0,1,96,17,20,6,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-73,AK Markram,JP Behrendorff,T Stubbs,1,0,1,97,18,21,1,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-74,T Stubbs,JP Behrendorff,AK Markram,0,0,0,97,27,20,2,13,-,bowled,T Stubbs,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-75,BC Fortuin,JP Behrendorff,AK Markram,0,0,0,97,0,1,3,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-76,BC Fortuin,JP Behrendorff,AK Markram,3,0,3,100,3,2,4,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-77,AK Markram,JP Behrendorff,BC Fortuin,1,0,1,101,19,22,5,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-78,BC Fortuin,JP Behrendorff,AK Markram,1,0,1,102,4,3,6,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-79,BC Fortuin,SA Abbott,AK Markram,0,0,0,102,4,4,1,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-80,BC Fortuin,SA Abbott,AK Markram,0,0,0,102,4,5,2,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-81,BC Fortuin,SA Abbott,AK Markram,4,0,4,106,8,6,3,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-82,BC Fortuin,SA Abbott,AK Markram,0,0,0,106,8,7,4,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-83,BC Fortuin,SA Abbott,AK Markram,0,0,0,106,8,8,5,14,-,caught,BC Fortuin,AM Hardie,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-84,G Coetzee,SA Abbott,AK Markram,1,0,1,107,1,1,6,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-85,G Coetzee,A Zampa,AK Markram,1,0,1,108,2,2,1,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-86,AK Markram,A Zampa,G Coetzee,1,0,1,109,20,23,2,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-87,G Coetzee,A Zampa,AK Markram,0,0,0,109,2,3,3,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-88,G Coetzee,A Zampa,AK Markram,1,0,1,110,3,4,4,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-89,AK Markram,A Zampa,G Coetzee,4,0,4,114,24,24,5,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-90,AK Markram,A Zampa,G Coetzee,1,0,1,115,25,25,6,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-91,AK Markram,AM Hardie,G Coetzee,6,0,6,121,31,26,1,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-92,AK Markram,AM Hardie,G Coetzee,1,0,1,122,32,27,2,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-93,G Coetzee,AM Hardie,AK Markram,1,0,1,123,4,5,3,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-94,AK Markram,AM Hardie,G Coetzee,1,0,1,124,33,28,4,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-95,G Coetzee,AM Hardie,AK Markram,1,0,1,125,5,6,5,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-96,AK Markram,AM Hardie,G Coetzee,1,0,1,126,34,29,6,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-97,AK Markram,A Zampa,G Coetzee,0,0,0,126,34,30,1,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-98,AK Markram,A Zampa,G Coetzee,1,0,1,127,35,31,2,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-99,G Coetzee,A Zampa,AK Markram,1,0,1,128,6,7,3,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-100,AK Markram,A Zampa,G Coetzee,4,0,4,132,39,32,4,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-101,AK Markram,A Zampa,G Coetzee,6,0,6,138,45,33,5,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-102,AK Markram,A Zampa,G Coetzee,1,0,1,139,46,34,6,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-103,AK Markram,NT Ellis,G Coetzee,0,1,1,140,46,35,1,18,wides,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-104,AK Markram,NT Ellis,G Coetzee,1,0,1,141,47,36,2,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-105,G Coetzee,NT Ellis,AK Markram,4,0,4,145,10,8,3,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-106,G Coetzee,NT Ellis,AK Markram,1,0,1,146,11,9,4,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-107,AK Markram,NT Ellis,G Coetzee,1,0,1,147,48,37,5,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-108,G Coetzee,NT Ellis,AK Markram,0,0,0,147,11,10,6,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-109,G Coetzee,NT Ellis,AK Markram,0,0,0,147,11,11,7,18,-,caught,G Coetzee,MR Marsh,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-110,AK Markram,SA Abbott,L Ngidi,1,0,1,148,49,38,1,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-111,L Ngidi,SA Abbott,AK Markram,1,0,1,149,1,1,2,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-112,AK Markram,SA Abbott,L Ngidi,0,0,0,149,49,39,3,19,-,caught,AK Markram,MW Short,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-113,LB Williams,SA Abbott,L Ngidi,0,0,0,149,0,1,4,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-114,LB Williams,SA Abbott,L Ngidi,1,0,1,150,1,2,5,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-115,L Ngidi,SA Abbott,LB Williams,4,0,4,154,5,2,6,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-116,LB Williams,NT Ellis,L Ngidi,0,1,1,155,1,3,1,20,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-117,L Ngidi,NT Ellis,LB Williams,0,0,0,155,5,3,2,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-118,L Ngidi,NT Ellis,LB Williams,2,0,2,157,7,4,3,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-119,L Ngidi,NT Ellis,LB Williams,0,1,1,158,7,5,4,20,wides,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-120,L Ngidi,NT Ellis,LB Williams,0,0,0,158,7,6,5,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-121,L Ngidi,NT Ellis,LB Williams,4,0,4,162,11,7,6,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
-122,L Ngidi,NT Ellis,LB Williams,2,0,2,164,13,8,7,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023-09-01,Australia,South Africa,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,RR Hendricks,AM Hardie,T Bavuma,1,0,1,1,225,1,1,0,1,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+1,T Bavuma,AM Hardie,RR Hendricks,4,0,4,5,221,4,1,0,2,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+2,T Bavuma,AM Hardie,RR Hendricks,0,0,0,5,221,4,2,0,3,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+3,T Bavuma,AM Hardie,RR Hendricks,0,0,0,5,221,4,3,0,4,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+4,T Bavuma,AM Hardie,RR Hendricks,4,0,4,9,217,8,4,0,5,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+5,T Bavuma,AM Hardie,RR Hendricks,1,0,1,10,216,9,5,0,6,1,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+6,T Bavuma,JP Behrendorff,RR Hendricks,0,0,0,10,216,9,6,0,1,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+7,T Bavuma,JP Behrendorff,RR Hendricks,6,0,6,16,210,15,7,0,2,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+8,T Bavuma,JP Behrendorff,RR Hendricks,0,0,0,16,210,15,8,0,3,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+9,T Bavuma,JP Behrendorff,RR Hendricks,2,0,2,18,208,17,9,0,4,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+10,T Bavuma,JP Behrendorff,RR Hendricks,4,0,4,22,204,21,10,0,5,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+11,T Bavuma,JP Behrendorff,RR Hendricks,1,0,1,23,203,22,11,0,6,2,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+12,T Bavuma,MW Short,RR Hendricks,4,0,4,27,199,26,12,0,1,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+13,T Bavuma,MW Short,RR Hendricks,4,0,4,31,195,30,13,0,2,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+14,T Bavuma,MW Short,RR Hendricks,0,0,0,31,195,30,14,0,3,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+15,T Bavuma,MW Short,RR Hendricks,4,0,4,35,191,34,15,0,4,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+16,T Bavuma,MW Short,RR Hendricks,1,0,1,36,190,35,16,0,5,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+17,RR Hendricks,MW Short,T Bavuma,0,0,0,36,190,1,2,0,6,3,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+18,T Bavuma,SA Abbott,RR Hendricks,0,0,0,36,190,35,17,1,1,4,-,caught,T Bavuma,JP Inglis,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+19,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,190,0,1,1,2,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+20,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,190,0,2,1,3,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+21,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,190,0,3,1,4,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+22,HE van der Dussen,SA Abbott,RR Hendricks,0,0,0,36,190,0,4,1,5,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+23,HE van der Dussen,SA Abbott,RR Hendricks,0,1,1,37,189,0,5,1,6,4,noballs,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+24,HE van der Dussen,SA Abbott,RR Hendricks,6,0,6,43,183,6,6,1,7,4,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+25,RR Hendricks,JP Behrendorff,HE van der Dussen,1,0,1,44,182,2,3,1,1,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+26,HE van der Dussen,JP Behrendorff,RR Hendricks,0,0,0,44,182,6,7,2,2,5,-,lbw,HE van der Dussen,,"{'by': 'South Africa', 'umpire': 'Stephen Harris', 'batter': 'HE van der Dussen', 'decision': 'struck down', 'type': 'wicket'}",field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+27,AK Markram,JP Behrendorff,RR Hendricks,1,0,1,45,181,1,1,2,3,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+28,RR Hendricks,JP Behrendorff,AK Markram,0,0,0,45,181,2,4,2,4,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+29,RR Hendricks,JP Behrendorff,AK Markram,0,0,0,45,181,2,5,2,5,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+30,RR Hendricks,JP Behrendorff,AK Markram,1,0,1,46,180,3,6,2,6,5,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+31,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,180,3,7,2,1,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+32,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,180,3,8,2,2,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+33,RR Hendricks,NT Ellis,AK Markram,0,0,0,46,180,3,9,3,3,6,-,lbw,RR Hendricks,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+34,D Brevis,NT Ellis,AK Markram,0,0,0,46,180,0,1,4,4,6,-,caught,D Brevis,JP Inglis,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+35,T Stubbs,NT Ellis,AK Markram,0,0,0,46,180,0,1,4,5,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+36,T Stubbs,NT Ellis,AK Markram,0,0,0,46,180,0,2,4,6,6,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+37,AK Markram,SA Abbott,T Stubbs,0,0,0,46,180,1,2,4,1,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+38,AK Markram,SA Abbott,T Stubbs,0,4,4,50,176,1,3,4,2,7,legbyes,0,,,"{'by': 'Australia', 'umpire': 'Stephen Harris', 'batter': 'AK Markram', 'decision': 'struck down', 'type': 'wicket'}",field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+39,AK Markram,SA Abbott,T Stubbs,0,0,0,50,176,1,4,4,3,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+40,AK Markram,SA Abbott,T Stubbs,0,0,0,50,176,1,5,4,4,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+41,AK Markram,SA Abbott,T Stubbs,2,0,2,52,174,3,6,4,5,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+42,AK Markram,SA Abbott,T Stubbs,1,0,1,53,173,4,7,4,6,7,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+43,AK Markram,JP Behrendorff,T Stubbs,0,0,0,53,173,4,8,4,1,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+44,AK Markram,JP Behrendorff,T Stubbs,1,0,1,54,172,5,9,4,2,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+45,T Stubbs,JP Behrendorff,AK Markram,1,0,1,55,171,1,3,4,3,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+46,AK Markram,JP Behrendorff,T Stubbs,0,0,0,55,171,5,10,4,4,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+47,AK Markram,JP Behrendorff,T Stubbs,1,0,1,56,170,6,11,4,5,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+48,T Stubbs,JP Behrendorff,AK Markram,0,0,0,56,170,1,4,4,6,8,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+49,AK Markram,A Zampa,T Stubbs,1,0,1,57,169,7,12,4,1,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+50,T Stubbs,A Zampa,AK Markram,0,0,0,57,169,1,5,4,2,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+51,T Stubbs,A Zampa,AK Markram,1,0,1,58,168,2,6,4,3,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+52,AK Markram,A Zampa,T Stubbs,1,0,1,59,167,8,13,4,4,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+53,T Stubbs,A Zampa,AK Markram,4,0,4,63,163,6,7,4,5,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+54,T Stubbs,A Zampa,AK Markram,2,0,2,65,161,8,8,4,6,9,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+55,AK Markram,AM Hardie,T Stubbs,1,0,1,66,160,9,14,4,1,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+56,T Stubbs,AM Hardie,AK Markram,0,0,0,66,160,8,9,4,2,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+57,T Stubbs,AM Hardie,AK Markram,0,1,1,67,159,8,10,4,3,10,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+58,AK Markram,AM Hardie,T Stubbs,0,1,1,68,158,9,15,4,4,10,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+59,T Stubbs,AM Hardie,AK Markram,6,0,6,74,152,14,11,4,5,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+60,T Stubbs,AM Hardie,AK Markram,1,0,1,75,151,15,12,4,6,10,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+61,T Stubbs,A Zampa,AK Markram,4,0,4,79,147,19,13,4,1,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+62,T Stubbs,A Zampa,AK Markram,4,0,4,83,143,23,14,4,2,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+63,T Stubbs,A Zampa,AK Markram,2,0,2,85,141,25,15,4,3,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+64,T Stubbs,A Zampa,AK Markram,0,0,0,85,141,25,16,4,4,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+65,T Stubbs,A Zampa,AK Markram,1,0,1,86,140,26,17,4,5,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+66,AK Markram,A Zampa,T Stubbs,1,0,1,87,139,10,16,4,6,11,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+67,AK Markram,NT Ellis,T Stubbs,1,0,1,88,138,11,17,4,1,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+68,T Stubbs,NT Ellis,AK Markram,1,0,1,89,137,27,18,4,2,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+69,AK Markram,NT Ellis,T Stubbs,4,0,4,93,133,15,18,4,3,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+70,AK Markram,NT Ellis,T Stubbs,1,0,1,94,132,16,19,4,4,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+71,T Stubbs,NT Ellis,AK Markram,0,1,1,95,131,27,19,4,5,12,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+72,AK Markram,NT Ellis,T Stubbs,1,0,1,96,130,17,20,4,6,12,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+73,AK Markram,JP Behrendorff,T Stubbs,1,0,1,97,129,18,21,4,1,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+74,T Stubbs,JP Behrendorff,AK Markram,0,0,0,97,129,27,20,5,2,13,-,bowled,T Stubbs,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+75,BC Fortuin,JP Behrendorff,AK Markram,0,0,0,97,129,0,1,5,3,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+76,BC Fortuin,JP Behrendorff,AK Markram,3,0,3,100,126,3,2,5,4,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+77,AK Markram,JP Behrendorff,BC Fortuin,1,0,1,101,125,19,22,5,5,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+78,BC Fortuin,JP Behrendorff,AK Markram,1,0,1,102,124,4,3,5,6,13,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+79,BC Fortuin,SA Abbott,AK Markram,0,0,0,102,124,4,4,5,1,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+80,BC Fortuin,SA Abbott,AK Markram,0,0,0,102,124,4,5,5,2,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+81,BC Fortuin,SA Abbott,AK Markram,4,0,4,106,120,8,6,5,3,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+82,BC Fortuin,SA Abbott,AK Markram,0,0,0,106,120,8,7,5,4,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+83,BC Fortuin,SA Abbott,AK Markram,0,0,0,106,120,8,8,6,5,14,-,caught,BC Fortuin,AM Hardie,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+84,G Coetzee,SA Abbott,AK Markram,1,0,1,107,119,1,1,6,6,14,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+85,G Coetzee,A Zampa,AK Markram,1,0,1,108,118,2,2,6,1,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+86,AK Markram,A Zampa,G Coetzee,1,0,1,109,117,20,23,6,2,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+87,G Coetzee,A Zampa,AK Markram,0,0,0,109,117,2,3,6,3,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+88,G Coetzee,A Zampa,AK Markram,1,0,1,110,116,3,4,6,4,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+89,AK Markram,A Zampa,G Coetzee,4,0,4,114,112,24,24,6,5,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+90,AK Markram,A Zampa,G Coetzee,1,0,1,115,111,25,25,6,6,15,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+91,AK Markram,AM Hardie,G Coetzee,6,0,6,121,105,31,26,6,1,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+92,AK Markram,AM Hardie,G Coetzee,1,0,1,122,104,32,27,6,2,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+93,G Coetzee,AM Hardie,AK Markram,1,0,1,123,103,4,5,6,3,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+94,AK Markram,AM Hardie,G Coetzee,1,0,1,124,102,33,28,6,4,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+95,G Coetzee,AM Hardie,AK Markram,1,0,1,125,101,5,6,6,5,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+96,AK Markram,AM Hardie,G Coetzee,1,0,1,126,100,34,29,6,6,16,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+97,AK Markram,A Zampa,G Coetzee,0,0,0,126,100,34,30,6,1,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+98,AK Markram,A Zampa,G Coetzee,1,0,1,127,99,35,31,6,2,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+99,G Coetzee,A Zampa,AK Markram,1,0,1,128,98,6,7,6,3,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+100,AK Markram,A Zampa,G Coetzee,4,0,4,132,94,39,32,6,4,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+101,AK Markram,A Zampa,G Coetzee,6,0,6,138,88,45,33,6,5,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+102,AK Markram,A Zampa,G Coetzee,1,0,1,139,87,46,34,6,6,17,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+103,AK Markram,NT Ellis,G Coetzee,0,1,1,140,86,46,35,6,1,18,wides,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+104,AK Markram,NT Ellis,G Coetzee,1,0,1,141,85,47,36,6,2,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+105,G Coetzee,NT Ellis,AK Markram,4,0,4,145,81,10,8,6,3,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+106,G Coetzee,NT Ellis,AK Markram,1,0,1,146,80,11,9,6,4,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+107,AK Markram,NT Ellis,G Coetzee,1,0,1,147,79,48,37,6,5,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+108,G Coetzee,NT Ellis,AK Markram,0,0,0,147,79,11,10,6,6,18,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+109,G Coetzee,NT Ellis,AK Markram,0,0,0,147,79,11,11,7,7,18,-,caught,G Coetzee,MR Marsh,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+110,AK Markram,SA Abbott,L Ngidi,1,0,1,148,78,49,38,7,1,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+111,L Ngidi,SA Abbott,AK Markram,1,0,1,149,77,1,1,7,2,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+112,AK Markram,SA Abbott,L Ngidi,0,0,0,149,77,49,39,8,3,19,-,caught,AK Markram,MW Short,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+113,LB Williams,SA Abbott,L Ngidi,0,0,0,149,77,0,1,8,4,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+114,LB Williams,SA Abbott,L Ngidi,1,0,1,150,76,1,2,8,5,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+115,L Ngidi,SA Abbott,LB Williams,4,0,4,154,72,5,2,8,6,19,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+116,LB Williams,NT Ellis,L Ngidi,0,1,1,155,71,1,3,8,1,20,legbyes,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+117,L Ngidi,NT Ellis,LB Williams,0,0,0,155,71,5,3,8,2,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+118,L Ngidi,NT Ellis,LB Williams,2,0,2,157,69,7,4,8,3,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+119,L Ngidi,NT Ellis,LB Williams,0,1,1,158,68,7,5,8,4,20,wides,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+120,L Ngidi,NT Ellis,LB Williams,0,0,0,158,68,7,6,8,5,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+121,L Ngidi,NT Ellis,LB Williams,4,0,4,162,64,11,7,8,6,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia
+122,L Ngidi,NT Ellis,LB Williams,2,0,2,164,62,13,8,8,7,20,-,0,,,,field,Australia,1,"Kingsmead, Durban",2023,09,South Africa_Australia_2023-09-01,Australia,South Africa,Australia

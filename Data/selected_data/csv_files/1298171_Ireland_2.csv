@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,PR Stirling,TA Boult,A Balbirnie,0,0,0,0,0,1,1,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-1,PR Stirling,TA Boult,A Balbirnie,1,0,1,1,1,2,2,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-2,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,0,1,3,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-3,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,0,2,4,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-4,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,0,3,5,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-5,A Balbirnie,TA Boult,PR Stirling,6,0,6,7,6,4,6,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-6,PR Stirling,TG Southee,A Balbirnie,1,0,1,8,2,3,1,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-7,A Balbirnie,TG Southee,PR Stirling,0,0,0,8,6,5,2,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-8,A Balbirnie,TG Southee,PR Stirling,0,0,0,8,6,6,3,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-9,A Balbirnie,TG Southee,PR Stirling,1,0,1,9,7,7,4,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-10,PR Stirling,TG Southee,A Balbirnie,0,0,0,9,2,4,5,2,"{'by': 'New Zealand', 'umpire': 'HDPK Dharmasena', 'batter': 'PR Stirling', 'decision': 'struck down', 'umpires_call': True}",-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-11,PR Stirling,TG Southee,A Balbirnie,0,1,1,10,2,5,6,2,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-12,PR Stirling,TA Boult,A Balbirnie,0,0,0,10,2,6,1,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-13,PR Stirling,TA Boult,A Balbirnie,0,0,0,10,2,7,2,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-14,PR Stirling,TA Boult,A Balbirnie,2,0,2,12,4,8,3,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-15,PR Stirling,TA Boult,A Balbirnie,2,0,2,14,6,9,4,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-16,PR Stirling,TA Boult,A Balbirnie,4,0,4,18,10,10,5,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-17,PR Stirling,TA Boult,A Balbirnie,1,0,1,19,11,11,6,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-18,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,19,11,12,1,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-19,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,19,11,13,2,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-20,PR Stirling,LH Ferguson,A Balbirnie,1,0,1,20,12,14,3,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-21,A Balbirnie,LH Ferguson,PR Stirling,2,0,2,22,9,8,4,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-22,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,23,10,9,5,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-23,PR Stirling,LH Ferguson,A Balbirnie,3,0,3,26,15,15,6,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-24,PR Stirling,TG Southee,A Balbirnie,2,0,2,28,17,16,1,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-25,PR Stirling,TG Southee,A Balbirnie,1,0,1,29,18,17,2,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-26,A Balbirnie,TG Southee,PR Stirling,1,0,1,30,11,10,3,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-27,PR Stirling,TG Southee,A Balbirnie,4,0,4,34,22,18,4,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-28,PR Stirling,TG Southee,A Balbirnie,0,0,0,34,22,19,5,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-29,PR Stirling,TG Southee,A Balbirnie,2,0,2,36,24,20,6,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-30,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,37,12,11,1,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-31,PR Stirling,LH Ferguson,A Balbirnie,1,0,1,38,25,21,2,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-32,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,12,12,3,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-33,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,12,13,4,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-34,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,12,14,5,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-35,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,39,13,15,6,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-36,A Balbirnie,MJ Santner,PR Stirling,1,0,1,40,14,16,1,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-37,PR Stirling,MJ Santner,A Balbirnie,4,0,4,44,29,22,2,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-38,PR Stirling,MJ Santner,A Balbirnie,6,0,6,50,35,23,3,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-39,PR Stirling,MJ Santner,A Balbirnie,1,0,1,51,36,24,4,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-40,A Balbirnie,MJ Santner,PR Stirling,0,0,0,51,14,17,5,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-41,A Balbirnie,MJ Santner,PR Stirling,1,0,1,52,15,18,6,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-42,A Balbirnie,IS Sodhi,PR Stirling,0,1,1,53,15,19,1,8,,wides,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-43,A Balbirnie,IS Sodhi,PR Stirling,6,0,6,59,21,20,2,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-44,A Balbirnie,IS Sodhi,PR Stirling,0,0,0,59,21,21,3,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-45,A Balbirnie,IS Sodhi,PR Stirling,2,0,2,61,23,22,4,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-46,A Balbirnie,IS Sodhi,PR Stirling,0,0,0,61,23,23,5,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-47,A Balbirnie,IS Sodhi,PR Stirling,6,0,6,67,29,24,6,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-48,A Balbirnie,IS Sodhi,PR Stirling,1,0,1,68,30,25,7,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-49,A Balbirnie,MJ Santner,PR Stirling,0,0,0,68,30,26,1,9,,-,bowled,A Balbirnie,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-50,L Tucker,MJ Santner,PR Stirling,0,0,0,68,0,1,2,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-51,L Tucker,MJ Santner,PR Stirling,0,0,0,68,0,2,3,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-52,L Tucker,MJ Santner,PR Stirling,1,0,1,69,1,3,4,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-53,PR Stirling,MJ Santner,L Tucker,0,0,0,69,36,25,5,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-54,PR Stirling,MJ Santner,L Tucker,1,0,1,70,37,26,6,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-55,PR Stirling,IS Sodhi,L Tucker,0,0,0,70,37,27,1,10,,-,bowled,PR Stirling,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-56,HT Tector,IS Sodhi,L Tucker,0,0,0,70,0,1,2,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-57,HT Tector,IS Sodhi,L Tucker,1,0,1,71,1,2,3,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-58,L Tucker,IS Sodhi,HT Tector,1,0,1,72,2,4,4,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-59,HT Tector,IS Sodhi,L Tucker,0,0,0,72,1,3,5,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-60,HT Tector,IS Sodhi,L Tucker,1,0,1,73,2,4,6,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-61,HT Tector,MJ Santner,L Tucker,0,0,0,73,2,5,1,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-62,HT Tector,MJ Santner,L Tucker,0,0,0,73,2,6,2,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-63,HT Tector,MJ Santner,L Tucker,0,0,0,73,2,7,3,11,,-,caught,HT Tector,TG Southee,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-64,GJ Delany,MJ Santner,L Tucker,4,0,4,77,4,1,4,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-65,GJ Delany,MJ Santner,L Tucker,1,0,1,78,5,2,5,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-66,L Tucker,MJ Santner,GJ Delany,1,0,1,79,3,5,6,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-67,L Tucker,IS Sodhi,GJ Delany,2,0,2,81,5,6,1,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-68,L Tucker,IS Sodhi,GJ Delany,2,0,2,83,7,7,2,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-69,L Tucker,IS Sodhi,GJ Delany,0,1,1,84,7,8,3,12,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-70,GJ Delany,IS Sodhi,L Tucker,0,1,1,85,5,3,4,12,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-71,L Tucker,IS Sodhi,GJ Delany,2,0,2,87,9,9,5,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-72,L Tucker,IS Sodhi,GJ Delany,2,0,2,89,11,10,6,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-73,GJ Delany,MJ Santner,L Tucker,0,0,0,89,5,4,1,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-74,GJ Delany,MJ Santner,L Tucker,0,0,0,89,5,5,2,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-75,GJ Delany,MJ Santner,L Tucker,4,0,4,93,9,6,3,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-76,GJ Delany,MJ Santner,L Tucker,1,0,1,94,10,7,4,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-77,L Tucker,MJ Santner,GJ Delany,0,0,0,94,11,11,5,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-78,L Tucker,MJ Santner,GJ Delany,0,0,0,94,11,12,6,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-79,GJ Delany,LH Ferguson,L Tucker,0,0,0,94,10,8,1,14,,-,caught,GJ Delany,DP Conway,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-80,GH Dockrell,LH Ferguson,L Tucker,0,0,0,94,0,1,2,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-81,GH Dockrell,LH Ferguson,L Tucker,2,0,2,96,2,2,3,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-82,GH Dockrell,LH Ferguson,L Tucker,0,0,0,96,2,3,4,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-83,GH Dockrell,LH Ferguson,L Tucker,2,0,2,98,4,4,5,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-84,GH Dockrell,LH Ferguson,L Tucker,1,0,1,99,5,5,6,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-85,GH Dockrell,IS Sodhi,L Tucker,0,0,0,99,5,6,1,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-86,GH Dockrell,IS Sodhi,L Tucker,1,0,1,100,6,7,2,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-87,L Tucker,IS Sodhi,GH Dockrell,2,0,2,102,13,13,3,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-88,L Tucker,IS Sodhi,GH Dockrell,0,0,0,102,13,14,4,15,,-,caught,L Tucker,FH Allen,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-89,C Campher,IS Sodhi,GH Dockrell,0,0,0,102,0,1,5,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-90,C Campher,IS Sodhi,GH Dockrell,1,0,1,103,1,2,6,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-91,C Campher,TA Boult,GH Dockrell,4,0,4,107,5,3,1,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-92,C Campher,TA Boult,GH Dockrell,0,0,0,107,5,4,2,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-93,C Campher,TA Boult,GH Dockrell,1,0,1,108,6,5,3,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-94,GH Dockrell,TA Boult,C Campher,2,0,2,110,8,8,4,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-95,GH Dockrell,TA Boult,C Campher,4,0,4,114,12,9,5,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-96,GH Dockrell,TA Boult,C Campher,4,0,4,118,16,10,6,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-97,C Campher,TG Southee,GH Dockrell,1,0,1,119,7,6,1,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-98,GH Dockrell,TG Southee,C Campher,1,0,1,120,17,11,2,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-99,C Campher,TG Southee,GH Dockrell,0,0,0,120,7,7,3,17,,-,caught,C Campher,FH Allen,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-100,F Hand,TG Southee,GH Dockrell,1,0,1,121,1,1,4,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-101,GH Dockrell,TG Southee,F Hand,1,0,1,122,18,12,5,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-102,F Hand,TG Southee,GH Dockrell,4,0,4,126,5,2,6,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-103,GH Dockrell,LH Ferguson,F Hand,4,0,4,130,22,13,1,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-104,GH Dockrell,LH Ferguson,F Hand,1,0,1,131,23,14,2,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-105,F Hand,LH Ferguson,GH Dockrell,0,0,0,131,5,3,3,18,,-,caught and bowled,F Hand,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-106,MR Adair,LH Ferguson,GH Dockrell,1,0,1,132,1,1,4,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-107,GH Dockrell,LH Ferguson,MR Adair,0,0,0,132,23,15,5,18,,-,caught,GH Dockrell,KS Williamson,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-108,BJ McCarthy,LH Ferguson,MR Adair,1,0,1,133,1,1,6,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-109,BJ McCarthy,TA Boult,MR Adair,1,0,1,134,2,2,1,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-110,MR Adair,TA Boult,BJ McCarthy,1,0,1,135,2,2,2,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-111,BJ McCarthy,TA Boult,MR Adair,2,0,2,137,4,3,3,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-112,BJ McCarthy,TA Boult,MR Adair,1,0,1,138,5,4,4,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-113,MR Adair,TA Boult,BJ McCarthy,2,0,2,140,4,3,5,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-114,MR Adair,TA Boult,BJ McCarthy,0,1,1,141,4,4,6,19,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-115,MR Adair,TG Southee,BJ McCarthy,0,0,0,141,4,5,1,20,,-,caught,MR Adair,GD Phillips,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-116,J Little,TG Southee,BJ McCarthy,1,0,1,142,1,1,2,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-117,BJ McCarthy,TG Southee,J Little,1,0,1,143,6,5,3,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-118,J Little,TG Southee,BJ McCarthy,6,0,6,149,7,2,4,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-119,J Little,TG Southee,BJ McCarthy,0,0,0,149,7,3,5,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
-120,J Little,TG Southee,BJ McCarthy,1,0,1,150,8,4,6,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022-11-04,New Zealand,Ireland,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,PR Stirling,TA Boult,A Balbirnie,0,0,0,0,185,0,1,0,1,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+1,PR Stirling,TA Boult,A Balbirnie,1,0,1,1,184,1,2,0,2,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+2,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,184,0,1,0,3,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+3,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,184,0,2,0,4,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+4,A Balbirnie,TA Boult,PR Stirling,0,0,0,1,184,0,3,0,5,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+5,A Balbirnie,TA Boult,PR Stirling,6,0,6,7,178,6,4,0,6,1,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+6,PR Stirling,TG Southee,A Balbirnie,1,0,1,8,177,2,3,0,1,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+7,A Balbirnie,TG Southee,PR Stirling,0,0,0,8,177,6,5,0,2,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+8,A Balbirnie,TG Southee,PR Stirling,0,0,0,8,177,6,6,0,3,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+9,A Balbirnie,TG Southee,PR Stirling,1,0,1,9,176,7,7,0,4,2,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+10,PR Stirling,TG Southee,A Balbirnie,0,0,0,9,176,2,4,0,5,2,"{'by': 'New Zealand', 'umpire': 'HDPK Dharmasena', 'batter': 'PR Stirling', 'decision': 'struck down', 'umpires_call': True}",-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+11,PR Stirling,TG Southee,A Balbirnie,0,1,1,10,175,2,5,0,6,2,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+12,PR Stirling,TA Boult,A Balbirnie,0,0,0,10,175,2,6,0,1,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+13,PR Stirling,TA Boult,A Balbirnie,0,0,0,10,175,2,7,0,2,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+14,PR Stirling,TA Boult,A Balbirnie,2,0,2,12,173,4,8,0,3,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+15,PR Stirling,TA Boult,A Balbirnie,2,0,2,14,171,6,9,0,4,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+16,PR Stirling,TA Boult,A Balbirnie,4,0,4,18,167,10,10,0,5,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+17,PR Stirling,TA Boult,A Balbirnie,1,0,1,19,166,11,11,0,6,3,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+18,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,19,166,11,12,0,1,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+19,PR Stirling,LH Ferguson,A Balbirnie,0,0,0,19,166,11,13,0,2,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+20,PR Stirling,LH Ferguson,A Balbirnie,1,0,1,20,165,12,14,0,3,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+21,A Balbirnie,LH Ferguson,PR Stirling,2,0,2,22,163,9,8,0,4,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+22,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,23,162,10,9,0,5,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+23,PR Stirling,LH Ferguson,A Balbirnie,3,0,3,26,159,15,15,0,6,4,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+24,PR Stirling,TG Southee,A Balbirnie,2,0,2,28,157,17,16,0,1,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+25,PR Stirling,TG Southee,A Balbirnie,1,0,1,29,156,18,17,0,2,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+26,A Balbirnie,TG Southee,PR Stirling,1,0,1,30,155,11,10,0,3,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+27,PR Stirling,TG Southee,A Balbirnie,4,0,4,34,151,22,18,0,4,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+28,PR Stirling,TG Southee,A Balbirnie,0,0,0,34,151,22,19,0,5,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+29,PR Stirling,TG Southee,A Balbirnie,2,0,2,36,149,24,20,0,6,5,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+30,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,37,148,12,11,0,1,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+31,PR Stirling,LH Ferguson,A Balbirnie,1,0,1,38,147,25,21,0,2,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+32,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,147,12,12,0,3,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+33,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,147,12,13,0,4,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+34,A Balbirnie,LH Ferguson,PR Stirling,0,0,0,38,147,12,14,0,5,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+35,A Balbirnie,LH Ferguson,PR Stirling,1,0,1,39,146,13,15,0,6,6,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+36,A Balbirnie,MJ Santner,PR Stirling,1,0,1,40,145,14,16,0,1,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+37,PR Stirling,MJ Santner,A Balbirnie,4,0,4,44,141,29,22,0,2,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+38,PR Stirling,MJ Santner,A Balbirnie,6,0,6,50,135,35,23,0,3,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+39,PR Stirling,MJ Santner,A Balbirnie,1,0,1,51,134,36,24,0,4,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+40,A Balbirnie,MJ Santner,PR Stirling,0,0,0,51,134,14,17,0,5,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+41,A Balbirnie,MJ Santner,PR Stirling,1,0,1,52,133,15,18,0,6,7,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+42,A Balbirnie,IS Sodhi,PR Stirling,0,1,1,53,132,15,19,0,1,8,,wides,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+43,A Balbirnie,IS Sodhi,PR Stirling,6,0,6,59,126,21,20,0,2,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+44,A Balbirnie,IS Sodhi,PR Stirling,0,0,0,59,126,21,21,0,3,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+45,A Balbirnie,IS Sodhi,PR Stirling,2,0,2,61,124,23,22,0,4,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+46,A Balbirnie,IS Sodhi,PR Stirling,0,0,0,61,124,23,23,0,5,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+47,A Balbirnie,IS Sodhi,PR Stirling,6,0,6,67,118,29,24,0,6,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+48,A Balbirnie,IS Sodhi,PR Stirling,1,0,1,68,117,30,25,0,7,8,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+49,A Balbirnie,MJ Santner,PR Stirling,0,0,0,68,117,30,26,1,1,9,,-,bowled,A Balbirnie,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+50,L Tucker,MJ Santner,PR Stirling,0,0,0,68,117,0,1,1,2,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+51,L Tucker,MJ Santner,PR Stirling,0,0,0,68,117,0,2,1,3,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+52,L Tucker,MJ Santner,PR Stirling,1,0,1,69,116,1,3,1,4,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+53,PR Stirling,MJ Santner,L Tucker,0,0,0,69,116,36,25,1,5,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+54,PR Stirling,MJ Santner,L Tucker,1,0,1,70,115,37,26,1,6,9,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+55,PR Stirling,IS Sodhi,L Tucker,0,0,0,70,115,37,27,2,1,10,,-,bowled,PR Stirling,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+56,HT Tector,IS Sodhi,L Tucker,0,0,0,70,115,0,1,2,2,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+57,HT Tector,IS Sodhi,L Tucker,1,0,1,71,114,1,2,2,3,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+58,L Tucker,IS Sodhi,HT Tector,1,0,1,72,113,2,4,2,4,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+59,HT Tector,IS Sodhi,L Tucker,0,0,0,72,113,1,3,2,5,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+60,HT Tector,IS Sodhi,L Tucker,1,0,1,73,112,2,4,2,6,10,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+61,HT Tector,MJ Santner,L Tucker,0,0,0,73,112,2,5,2,1,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+62,HT Tector,MJ Santner,L Tucker,0,0,0,73,112,2,6,2,2,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+63,HT Tector,MJ Santner,L Tucker,0,0,0,73,112,2,7,3,3,11,,-,caught,HT Tector,TG Southee,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+64,GJ Delany,MJ Santner,L Tucker,4,0,4,77,108,4,1,3,4,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+65,GJ Delany,MJ Santner,L Tucker,1,0,1,78,107,5,2,3,5,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+66,L Tucker,MJ Santner,GJ Delany,1,0,1,79,106,3,5,3,6,11,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+67,L Tucker,IS Sodhi,GJ Delany,2,0,2,81,104,5,6,3,1,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+68,L Tucker,IS Sodhi,GJ Delany,2,0,2,83,102,7,7,3,2,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+69,L Tucker,IS Sodhi,GJ Delany,0,1,1,84,101,7,8,3,3,12,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+70,GJ Delany,IS Sodhi,L Tucker,0,1,1,85,100,5,3,3,4,12,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+71,L Tucker,IS Sodhi,GJ Delany,2,0,2,87,98,9,9,3,5,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+72,L Tucker,IS Sodhi,GJ Delany,2,0,2,89,96,11,10,3,6,12,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+73,GJ Delany,MJ Santner,L Tucker,0,0,0,89,96,5,4,3,1,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+74,GJ Delany,MJ Santner,L Tucker,0,0,0,89,96,5,5,3,2,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+75,GJ Delany,MJ Santner,L Tucker,4,0,4,93,92,9,6,3,3,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+76,GJ Delany,MJ Santner,L Tucker,1,0,1,94,91,10,7,3,4,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+77,L Tucker,MJ Santner,GJ Delany,0,0,0,94,91,11,11,3,5,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+78,L Tucker,MJ Santner,GJ Delany,0,0,0,94,91,11,12,3,6,13,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+79,GJ Delany,LH Ferguson,L Tucker,0,0,0,94,91,10,8,4,1,14,,-,caught,GJ Delany,DP Conway,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+80,GH Dockrell,LH Ferguson,L Tucker,0,0,0,94,91,0,1,4,2,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+81,GH Dockrell,LH Ferguson,L Tucker,2,0,2,96,89,2,2,4,3,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+82,GH Dockrell,LH Ferguson,L Tucker,0,0,0,96,89,2,3,4,4,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+83,GH Dockrell,LH Ferguson,L Tucker,2,0,2,98,87,4,4,4,5,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+84,GH Dockrell,LH Ferguson,L Tucker,1,0,1,99,86,5,5,4,6,14,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+85,GH Dockrell,IS Sodhi,L Tucker,0,0,0,99,86,5,6,4,1,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+86,GH Dockrell,IS Sodhi,L Tucker,1,0,1,100,85,6,7,4,2,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+87,L Tucker,IS Sodhi,GH Dockrell,2,0,2,102,83,13,13,4,3,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+88,L Tucker,IS Sodhi,GH Dockrell,0,0,0,102,83,13,14,5,4,15,,-,caught,L Tucker,FH Allen,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+89,C Campher,IS Sodhi,GH Dockrell,0,0,0,102,83,0,1,5,5,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+90,C Campher,IS Sodhi,GH Dockrell,1,0,1,103,82,1,2,5,6,15,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+91,C Campher,TA Boult,GH Dockrell,4,0,4,107,78,5,3,5,1,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+92,C Campher,TA Boult,GH Dockrell,0,0,0,107,78,5,4,5,2,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+93,C Campher,TA Boult,GH Dockrell,1,0,1,108,77,6,5,5,3,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+94,GH Dockrell,TA Boult,C Campher,2,0,2,110,75,8,8,5,4,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+95,GH Dockrell,TA Boult,C Campher,4,0,4,114,71,12,9,5,5,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+96,GH Dockrell,TA Boult,C Campher,4,0,4,118,67,16,10,5,6,16,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+97,C Campher,TG Southee,GH Dockrell,1,0,1,119,66,7,6,5,1,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+98,GH Dockrell,TG Southee,C Campher,1,0,1,120,65,17,11,5,2,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+99,C Campher,TG Southee,GH Dockrell,0,0,0,120,65,7,7,6,3,17,,-,caught,C Campher,FH Allen,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+100,F Hand,TG Southee,GH Dockrell,1,0,1,121,64,1,1,6,4,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+101,GH Dockrell,TG Southee,F Hand,1,0,1,122,63,18,12,6,5,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+102,F Hand,TG Southee,GH Dockrell,4,0,4,126,59,5,2,6,6,17,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+103,GH Dockrell,LH Ferguson,F Hand,4,0,4,130,55,22,13,6,1,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+104,GH Dockrell,LH Ferguson,F Hand,1,0,1,131,54,23,14,6,2,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+105,F Hand,LH Ferguson,GH Dockrell,0,0,0,131,54,5,3,7,3,18,,-,caught and bowled,F Hand,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+106,MR Adair,LH Ferguson,GH Dockrell,1,0,1,132,53,1,1,7,4,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+107,GH Dockrell,LH Ferguson,MR Adair,0,0,0,132,53,23,15,8,5,18,,-,caught,GH Dockrell,KS Williamson,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+108,BJ McCarthy,LH Ferguson,MR Adair,1,0,1,133,52,1,1,8,6,18,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+109,BJ McCarthy,TA Boult,MR Adair,1,0,1,134,51,2,2,8,1,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+110,MR Adair,TA Boult,BJ McCarthy,1,0,1,135,50,2,2,8,2,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+111,BJ McCarthy,TA Boult,MR Adair,2,0,2,137,48,4,3,8,3,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+112,BJ McCarthy,TA Boult,MR Adair,1,0,1,138,47,5,4,8,4,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+113,MR Adair,TA Boult,BJ McCarthy,2,0,2,140,45,4,3,8,5,19,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+114,MR Adair,TA Boult,BJ McCarthy,0,1,1,141,44,4,4,8,6,19,,legbyes,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+115,MR Adair,TG Southee,BJ McCarthy,0,0,0,141,44,4,5,9,1,20,,-,caught,MR Adair,GD Phillips,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+116,J Little,TG Southee,BJ McCarthy,1,0,1,142,43,1,1,9,2,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+117,BJ McCarthy,TG Southee,J Little,1,0,1,143,42,6,5,9,3,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+118,J Little,TG Southee,BJ McCarthy,6,0,6,149,36,7,2,9,4,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+119,J Little,TG Southee,BJ McCarthy,0,0,0,149,36,7,3,9,5,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand
+120,J Little,TG Southee,BJ McCarthy,1,0,1,150,35,8,4,9,6,20,,-,0,,,field,Ireland,2,Adelaide Oval,2022,11,New Zealand_Ireland_2022-11-04,New Zealand,Ireland,New Zealand

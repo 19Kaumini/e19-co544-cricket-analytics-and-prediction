@@ -1,112 +1,112 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,RG Sharma,O Thomas,S Dhawan,,2,0,2,2,2,1,1,-,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-1,RG Sharma,O Thomas,S Dhawan,,0,0,0,2,2,2,2,-,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-2,RG Sharma,O Thomas,S Dhawan,,0,0,0,2,2,3,3,-,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-3,RG Sharma,O Thomas,S Dhawan,,4,0,4,6,6,4,4,-,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-4,RG Sharma,O Thomas,S Dhawan,,0,0,0,6,6,5,5,-,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-5,RG Sharma,O Thomas,S Dhawan,,0,1,1,7,6,6,6,wides,0,,,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-6,RG Sharma,O Thomas,S Dhawan,"{'by': 'West Indies', 'batter': 'RG Sharma', 'decision': 'upheld'}",0,0,0,7,6,7,7,-,caught,RG Sharma,D Ramdin,1,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-7,S Dhawan,KMA Paul,KL Rahul,,0,0,0,7,0,1,1,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-8,S Dhawan,KMA Paul,KL Rahul,,2,0,2,9,2,2,2,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-9,S Dhawan,KMA Paul,KL Rahul,,0,0,0,9,2,3,3,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-10,S Dhawan,KMA Paul,KL Rahul,,1,0,1,10,3,4,4,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-11,KL Rahul,KMA Paul,S Dhawan,,0,0,0,10,0,1,5,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-12,KL Rahul,KMA Paul,S Dhawan,,1,0,1,11,1,2,6,-,0,,,2,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-13,KL Rahul,O Thomas,S Dhawan,,1,0,1,12,2,3,1,-,0,,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-14,S Dhawan,O Thomas,KL Rahul,,0,0,0,12,3,5,2,-,0,,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-15,S Dhawan,O Thomas,KL Rahul,,0,4,4,16,3,6,3,legbyes,0,,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-16,S Dhawan,O Thomas,KL Rahul,,0,0,0,16,3,7,4,-,0,,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-17,S Dhawan,O Thomas,KL Rahul,,0,0,0,16,3,8,5,-,bowled,S Dhawan,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-18,RR Pant,O Thomas,KL Rahul,,0,0,0,16,0,1,6,-,0,,,3,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-19,KL Rahul,KMA Paul,RR Pant,,0,0,0,16,2,4,1,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-20,KL Rahul,KMA Paul,RR Pant,,4,0,4,20,6,5,2,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-21,KL Rahul,KMA Paul,RR Pant,,0,0,0,20,6,6,3,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-22,KL Rahul,KMA Paul,RR Pant,,0,0,0,20,6,7,4,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-23,KL Rahul,KMA Paul,RR Pant,,0,1,1,21,6,8,5,wides,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-24,KL Rahul,KMA Paul,RR Pant,,1,0,1,22,7,9,6,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-25,RR Pant,KMA Paul,KL Rahul,,0,0,0,22,0,2,7,-,0,,,4,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-26,KL Rahul,O Thomas,RR Pant,,0,0,0,22,7,10,1,-,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-27,KL Rahul,O Thomas,RR Pant,,0,0,0,22,7,11,2,-,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-28,KL Rahul,O Thomas,RR Pant,,2,0,2,24,9,12,3,-,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-29,KL Rahul,O Thomas,RR Pant,,0,0,0,24,9,13,4,-,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-30,KL Rahul,O Thomas,RR Pant,,0,4,4,28,9,14,5,byes,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-31,KL Rahul,O Thomas,RR Pant,,4,0,4,32,13,15,6,-,0,,,5,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-32,RR Pant,CR Brathwaite,KL Rahul,,1,0,1,33,1,3,1,-,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-33,KL Rahul,CR Brathwaite,RR Pant,,0,0,0,33,13,16,2,-,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-34,KL Rahul,CR Brathwaite,RR Pant,,0,1,1,34,13,17,3,legbyes,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-35,RR Pant,CR Brathwaite,KL Rahul,,0,1,1,35,1,4,4,wides,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-36,RR Pant,CR Brathwaite,KL Rahul,,0,0,0,35,1,5,5,-,caught,RR Pant,DM Bravo,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-37,MK Pandey,CR Brathwaite,KL Rahul,,0,0,0,35,0,1,6,-,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-38,MK Pandey,CR Brathwaite,KL Rahul,,0,0,0,35,0,2,7,-,0,,,6,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-39,KL Rahul,KMA Paul,MK Pandey,,1,0,1,36,14,18,1,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-40,MK Pandey,KMA Paul,KL Rahul,,1,0,1,37,1,3,2,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-41,KL Rahul,KMA Paul,MK Pandey,,1,0,1,38,15,19,3,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-42,MK Pandey,KMA Paul,KL Rahul,,0,1,1,39,1,4,4,wides,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-43,MK Pandey,KMA Paul,KL Rahul,,4,0,4,43,5,5,5,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-44,MK Pandey,KMA Paul,KL Rahul,,1,0,1,44,6,6,6,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-45,KL Rahul,KMA Paul,MK Pandey,,1,0,1,45,16,20,7,-,0,,,7,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-46,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,16,21,1,-,0,,,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-47,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,16,22,2,-,0,,,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-48,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,16,23,3,-,caught,KL Rahul,DM Bravo,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-49,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,0,1,4,-,0,,,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-50,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,0,2,5,-,0,,,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-51,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,0,3,6,-,0,,,8,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-52,MK Pandey,O Thomas,KD Karthik,,1,0,1,46,7,7,1,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-53,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,0,4,2,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-54,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,0,5,3,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-55,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,0,6,4,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-56,KD Karthik,O Thomas,MK Pandey,,6,0,6,52,6,7,5,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-57,KD Karthik,O Thomas,MK Pandey,,0,0,0,52,6,8,6,-,0,,,9,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-58,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,7,8,1,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-59,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,7,9,2,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-60,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,7,10,3,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-61,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,7,11,4,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-62,MK Pandey,CR Brathwaite,KD Karthik,,1,0,1,53,8,12,5,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-63,KD Karthik,CR Brathwaite,MK Pandey,,1,0,1,54,7,9,6,-,0,,,10,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-64,KD Karthik,K Pierre,MK Pandey,,1,0,1,55,8,10,1,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-65,MK Pandey,K Pierre,KD Karthik,,0,0,0,55,8,13,2,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-66,MK Pandey,K Pierre,KD Karthik,,1,0,1,56,9,14,3,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-67,KD Karthik,K Pierre,MK Pandey,,0,0,0,56,8,11,4,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-68,KD Karthik,K Pierre,MK Pandey,,0,0,0,56,8,12,5,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-69,KD Karthik,K Pierre,MK Pandey,,1,0,1,57,9,13,6,-,0,,,11,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-70,KD Karthik,KA Pollard,MK Pandey,,4,0,4,61,13,14,1,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-71,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,13,15,2,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-72,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,13,16,3,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-73,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,13,17,4,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-74,KD Karthik,KA Pollard,MK Pandey,,4,0,4,65,17,18,5,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-75,KD Karthik,KA Pollard,MK Pandey,,4,0,4,69,21,19,6,-,0,,,12,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-76,MK Pandey,K Pierre,KD Karthik,,1,0,1,70,10,15,1,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-77,KD Karthik,K Pierre,MK Pandey,,1,0,1,71,22,20,2,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-78,MK Pandey,K Pierre,KD Karthik,,0,0,0,71,10,16,3,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-79,MK Pandey,K Pierre,KD Karthik,,2,0,2,73,12,17,4,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-80,MK Pandey,K Pierre,KD Karthik,,0,0,0,73,12,18,5,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-81,MK Pandey,K Pierre,KD Karthik,,0,0,0,73,12,19,6,-,0,,,13,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-82,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,73,22,21,1,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-83,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,73,22,22,2,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-84,KD Karthik,CR Brathwaite,MK Pandey,,1,0,1,74,23,23,3,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-85,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,74,12,20,4,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-86,MK Pandey,CR Brathwaite,KD Karthik,,4,0,4,78,16,21,5,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-87,MK Pandey,CR Brathwaite,KD Karthik,,2,0,2,80,18,22,6,-,0,,,14,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-88,KD Karthik,K Pierre,MK Pandey,,1,0,1,81,24,24,1,-,0,,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-89,MK Pandey,K Pierre,KD Karthik,,1,0,1,82,19,23,2,-,0,,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-90,KD Karthik,K Pierre,MK Pandey,,0,0,0,82,24,25,3,-,0,,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-91,KD Karthik,K Pierre,MK Pandey,,1,0,1,83,25,26,4,-,0,,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-92,MK Pandey,K Pierre,KD Karthik,,0,0,0,83,19,24,5,-,0,,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-93,MK Pandey,K Pierre,KD Karthik,,0,0,0,83,19,25,6,-,caught and bowled,MK Pandey,,15,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-94,KD Karthik,FA Allen,KH Pandya,,1,0,1,84,26,27,1,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-95,KH Pandya,FA Allen,KD Karthik,,1,0,1,85,1,1,2,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-96,KD Karthik,FA Allen,KH Pandya,,2,0,2,87,28,28,3,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-97,KD Karthik,FA Allen,KH Pandya,,1,0,1,88,29,29,4,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-98,KH Pandya,FA Allen,KD Karthik,,2,0,2,90,3,2,5,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-99,KH Pandya,FA Allen,KD Karthik,,4,0,4,94,7,3,6,-,0,,,16,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-100,KD Karthik,K Pierre,KH Pandya,"{'by': 'West Indies', 'batter': 'KD Karthik', 'decision': 'struck down'}",0,0,0,94,29,30,1,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-101,KD Karthik,K Pierre,KH Pandya,,0,0,0,94,29,31,2,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-102,KD Karthik,K Pierre,KH Pandya,,1,0,1,95,30,32,3,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-103,KH Pandya,K Pierre,KD Karthik,,4,0,4,99,11,4,4,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-104,KH Pandya,K Pierre,KD Karthik,,1,0,1,100,12,5,5,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-105,KD Karthik,K Pierre,KH Pandya,,0,0,0,100,30,33,6,-,0,,,17,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-106,KH Pandya,KMA Paul,KD Karthik,,1,0,1,101,13,6,1,-,0,,,18,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-107,KD Karthik,KMA Paul,KH Pandya,,1,0,1,102,31,34,2,-,0,,,18,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-108,KH Pandya,KMA Paul,KD Karthik,,2,0,2,104,15,7,3,-,0,,,18,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-109,KH Pandya,KMA Paul,KD Karthik,,4,0,4,108,19,8,4,-,0,,,18,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
-110,KH Pandya,KMA Paul,KD Karthik,,2,0,2,110,21,9,5,-,0,,,18,field,India,2,Eden Gardens,2018-11-04,India,India,West Indies
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,RG Sharma,O Thomas,S Dhawan,,2,0,2,2,107,2,1,0,1,-,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+1,RG Sharma,O Thomas,S Dhawan,,0,0,0,2,107,2,2,0,2,-,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+2,RG Sharma,O Thomas,S Dhawan,,0,0,0,2,107,2,3,0,3,-,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+3,RG Sharma,O Thomas,S Dhawan,,4,0,4,6,103,6,4,0,4,-,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+4,RG Sharma,O Thomas,S Dhawan,,0,0,0,6,103,6,5,0,5,-,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+5,RG Sharma,O Thomas,S Dhawan,,0,1,1,7,102,6,6,0,6,wides,0,,,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+6,RG Sharma,O Thomas,S Dhawan,"{'by': 'West Indies', 'batter': 'RG Sharma', 'decision': 'upheld'}",0,0,0,7,102,6,7,1,7,-,caught,RG Sharma,D Ramdin,1,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+7,S Dhawan,KMA Paul,KL Rahul,,0,0,0,7,102,0,1,1,1,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+8,S Dhawan,KMA Paul,KL Rahul,,2,0,2,9,100,2,2,1,2,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+9,S Dhawan,KMA Paul,KL Rahul,,0,0,0,9,100,2,3,1,3,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+10,S Dhawan,KMA Paul,KL Rahul,,1,0,1,10,99,3,4,1,4,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+11,KL Rahul,KMA Paul,S Dhawan,,0,0,0,10,99,0,1,1,5,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+12,KL Rahul,KMA Paul,S Dhawan,,1,0,1,11,98,1,2,1,6,-,0,,,2,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+13,KL Rahul,O Thomas,S Dhawan,,1,0,1,12,97,2,3,1,1,-,0,,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+14,S Dhawan,O Thomas,KL Rahul,,0,0,0,12,97,3,5,1,2,-,0,,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+15,S Dhawan,O Thomas,KL Rahul,,0,4,4,16,93,3,6,1,3,legbyes,0,,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+16,S Dhawan,O Thomas,KL Rahul,,0,0,0,16,93,3,7,1,4,-,0,,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+17,S Dhawan,O Thomas,KL Rahul,,0,0,0,16,93,3,8,2,5,-,bowled,S Dhawan,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+18,RR Pant,O Thomas,KL Rahul,,0,0,0,16,93,0,1,2,6,-,0,,,3,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+19,KL Rahul,KMA Paul,RR Pant,,0,0,0,16,93,2,4,2,1,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+20,KL Rahul,KMA Paul,RR Pant,,4,0,4,20,89,6,5,2,2,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+21,KL Rahul,KMA Paul,RR Pant,,0,0,0,20,89,6,6,2,3,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+22,KL Rahul,KMA Paul,RR Pant,,0,0,0,20,89,6,7,2,4,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+23,KL Rahul,KMA Paul,RR Pant,,0,1,1,21,88,6,8,2,5,wides,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+24,KL Rahul,KMA Paul,RR Pant,,1,0,1,22,87,7,9,2,6,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+25,RR Pant,KMA Paul,KL Rahul,,0,0,0,22,87,0,2,2,7,-,0,,,4,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+26,KL Rahul,O Thomas,RR Pant,,0,0,0,22,87,7,10,2,1,-,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+27,KL Rahul,O Thomas,RR Pant,,0,0,0,22,87,7,11,2,2,-,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+28,KL Rahul,O Thomas,RR Pant,,2,0,2,24,85,9,12,2,3,-,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+29,KL Rahul,O Thomas,RR Pant,,0,0,0,24,85,9,13,2,4,-,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+30,KL Rahul,O Thomas,RR Pant,,0,4,4,28,81,9,14,2,5,byes,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+31,KL Rahul,O Thomas,RR Pant,,4,0,4,32,77,13,15,2,6,-,0,,,5,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+32,RR Pant,CR Brathwaite,KL Rahul,,1,0,1,33,76,1,3,2,1,-,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+33,KL Rahul,CR Brathwaite,RR Pant,,0,0,0,33,76,13,16,2,2,-,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+34,KL Rahul,CR Brathwaite,RR Pant,,0,1,1,34,75,13,17,2,3,legbyes,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+35,RR Pant,CR Brathwaite,KL Rahul,,0,1,1,35,74,1,4,2,4,wides,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+36,RR Pant,CR Brathwaite,KL Rahul,,0,0,0,35,74,1,5,3,5,-,caught,RR Pant,DM Bravo,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+37,MK Pandey,CR Brathwaite,KL Rahul,,0,0,0,35,74,0,1,3,6,-,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+38,MK Pandey,CR Brathwaite,KL Rahul,,0,0,0,35,74,0,2,3,7,-,0,,,6,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+39,KL Rahul,KMA Paul,MK Pandey,,1,0,1,36,73,14,18,3,1,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+40,MK Pandey,KMA Paul,KL Rahul,,1,0,1,37,72,1,3,3,2,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+41,KL Rahul,KMA Paul,MK Pandey,,1,0,1,38,71,15,19,3,3,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+42,MK Pandey,KMA Paul,KL Rahul,,0,1,1,39,70,1,4,3,4,wides,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+43,MK Pandey,KMA Paul,KL Rahul,,4,0,4,43,66,5,5,3,5,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+44,MK Pandey,KMA Paul,KL Rahul,,1,0,1,44,65,6,6,3,6,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+45,KL Rahul,KMA Paul,MK Pandey,,1,0,1,45,64,16,20,3,7,-,0,,,7,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+46,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,64,16,21,3,1,-,0,,,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+47,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,64,16,22,3,2,-,0,,,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+48,KL Rahul,CR Brathwaite,MK Pandey,,0,0,0,45,64,16,23,4,3,-,caught,KL Rahul,DM Bravo,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+49,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,64,0,1,4,4,-,0,,,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+50,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,64,0,2,4,5,-,0,,,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+51,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,45,64,0,3,4,6,-,0,,,8,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+52,MK Pandey,O Thomas,KD Karthik,,1,0,1,46,63,7,7,4,1,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+53,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,63,0,4,4,2,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+54,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,63,0,5,4,3,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+55,KD Karthik,O Thomas,MK Pandey,,0,0,0,46,63,0,6,4,4,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+56,KD Karthik,O Thomas,MK Pandey,,6,0,6,52,57,6,7,4,5,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+57,KD Karthik,O Thomas,MK Pandey,,0,0,0,52,57,6,8,4,6,-,0,,,9,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+58,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,57,7,8,4,1,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+59,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,57,7,9,4,2,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+60,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,57,7,10,4,3,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+61,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,52,57,7,11,4,4,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+62,MK Pandey,CR Brathwaite,KD Karthik,,1,0,1,53,56,8,12,4,5,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+63,KD Karthik,CR Brathwaite,MK Pandey,,1,0,1,54,55,7,9,4,6,-,0,,,10,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+64,KD Karthik,K Pierre,MK Pandey,,1,0,1,55,54,8,10,4,1,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+65,MK Pandey,K Pierre,KD Karthik,,0,0,0,55,54,8,13,4,2,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+66,MK Pandey,K Pierre,KD Karthik,,1,0,1,56,53,9,14,4,3,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+67,KD Karthik,K Pierre,MK Pandey,,0,0,0,56,53,8,11,4,4,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+68,KD Karthik,K Pierre,MK Pandey,,0,0,0,56,53,8,12,4,5,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+69,KD Karthik,K Pierre,MK Pandey,,1,0,1,57,52,9,13,4,6,-,0,,,11,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+70,KD Karthik,KA Pollard,MK Pandey,,4,0,4,61,48,13,14,4,1,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+71,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,48,13,15,4,2,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+72,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,48,13,16,4,3,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+73,KD Karthik,KA Pollard,MK Pandey,,0,0,0,61,48,13,17,4,4,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+74,KD Karthik,KA Pollard,MK Pandey,,4,0,4,65,44,17,18,4,5,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+75,KD Karthik,KA Pollard,MK Pandey,,4,0,4,69,40,21,19,4,6,-,0,,,12,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+76,MK Pandey,K Pierre,KD Karthik,,1,0,1,70,39,10,15,4,1,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+77,KD Karthik,K Pierre,MK Pandey,,1,0,1,71,38,22,20,4,2,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+78,MK Pandey,K Pierre,KD Karthik,,0,0,0,71,38,10,16,4,3,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+79,MK Pandey,K Pierre,KD Karthik,,2,0,2,73,36,12,17,4,4,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+80,MK Pandey,K Pierre,KD Karthik,,0,0,0,73,36,12,18,4,5,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+81,MK Pandey,K Pierre,KD Karthik,,0,0,0,73,36,12,19,4,6,-,0,,,13,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+82,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,73,36,22,21,4,1,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+83,KD Karthik,CR Brathwaite,MK Pandey,,0,0,0,73,36,22,22,4,2,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+84,KD Karthik,CR Brathwaite,MK Pandey,,1,0,1,74,35,23,23,4,3,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+85,MK Pandey,CR Brathwaite,KD Karthik,,0,0,0,74,35,12,20,4,4,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+86,MK Pandey,CR Brathwaite,KD Karthik,,4,0,4,78,31,16,21,4,5,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+87,MK Pandey,CR Brathwaite,KD Karthik,,2,0,2,80,29,18,22,4,6,-,0,,,14,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+88,KD Karthik,K Pierre,MK Pandey,,1,0,1,81,28,24,24,4,1,-,0,,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+89,MK Pandey,K Pierre,KD Karthik,,1,0,1,82,27,19,23,4,2,-,0,,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+90,KD Karthik,K Pierre,MK Pandey,,0,0,0,82,27,24,25,4,3,-,0,,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+91,KD Karthik,K Pierre,MK Pandey,,1,0,1,83,26,25,26,4,4,-,0,,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+92,MK Pandey,K Pierre,KD Karthik,,0,0,0,83,26,19,24,4,5,-,0,,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+93,MK Pandey,K Pierre,KD Karthik,,0,0,0,83,26,19,25,5,6,-,caught and bowled,MK Pandey,,15,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+94,KD Karthik,FA Allen,KH Pandya,,1,0,1,84,25,26,27,5,1,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+95,KH Pandya,FA Allen,KD Karthik,,1,0,1,85,24,1,1,5,2,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+96,KD Karthik,FA Allen,KH Pandya,,2,0,2,87,22,28,28,5,3,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+97,KD Karthik,FA Allen,KH Pandya,,1,0,1,88,21,29,29,5,4,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+98,KH Pandya,FA Allen,KD Karthik,,2,0,2,90,19,3,2,5,5,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+99,KH Pandya,FA Allen,KD Karthik,,4,0,4,94,15,7,3,5,6,-,0,,,16,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+100,KD Karthik,K Pierre,KH Pandya,"{'by': 'West Indies', 'batter': 'KD Karthik', 'decision': 'struck down'}",0,0,0,94,15,29,30,5,1,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+101,KD Karthik,K Pierre,KH Pandya,,0,0,0,94,15,29,31,5,2,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+102,KD Karthik,K Pierre,KH Pandya,,1,0,1,95,14,30,32,5,3,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+103,KH Pandya,K Pierre,KD Karthik,,4,0,4,99,10,11,4,5,4,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+104,KH Pandya,K Pierre,KD Karthik,,1,0,1,100,9,12,5,5,5,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+105,KD Karthik,K Pierre,KH Pandya,,0,0,0,100,9,30,33,5,6,-,0,,,17,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+106,KH Pandya,KMA Paul,KD Karthik,,1,0,1,101,8,13,6,5,1,-,0,,,18,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+107,KD Karthik,KMA Paul,KH Pandya,,1,0,1,102,7,31,34,5,2,-,0,,,18,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+108,KH Pandya,KMA Paul,KD Karthik,,2,0,2,104,5,15,7,5,3,-,0,,,18,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+109,KH Pandya,KMA Paul,KD Karthik,,4,0,4,108,1,19,8,5,4,-,0,,,18,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies
+110,KH Pandya,KMA Paul,KD Karthik,,2,0,2,110,-1,21,9,5,5,-,0,,,18,field,India,2,Eden Gardens,2018,11,West Indies_India_2018-11-04,India,India,West Indies

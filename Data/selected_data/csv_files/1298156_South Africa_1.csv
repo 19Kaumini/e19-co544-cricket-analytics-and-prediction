@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,0,0,1,1,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-1,T Bavuma,Taskin Ahmed,Q de Kock,2,0,2,2,2,2,2,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-2,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,2,3,3,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-3,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,2,4,4,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-4,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,2,5,5,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-5,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,2,6,6,caught,T Bavuma,Nurul Hasan,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-6,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,0,0,0,2,0,1,1,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-7,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,3,1,2,2,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-8,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,4,1,1,3,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-9,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,4,0,4,8,5,3,4,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-10,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,9,6,4,5,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-11,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,10,2,2,6,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-12,RR Rossouw,Taskin Ahmed,Q de Kock,0,0,0,10,2,3,1,0,,,3,"{'by': 'Bangladesh', 'umpire': 'RJ Tucker', 'batter': 'RR Rossouw', 'decision': 'struck down'}",-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-13,RR Rossouw,Taskin Ahmed,Q de Kock,0,0,0,10,2,4,2,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-14,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,14,6,5,3,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-15,RR Rossouw,Taskin Ahmed,Q de Kock,1,0,1,15,7,6,4,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-16,Q de Kock,Taskin Ahmed,RR Rossouw,4,1,5,20,10,5,5,0,,,3,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-17,Q de Kock,Taskin Ahmed,RR Rossouw,0,1,1,21,10,6,6,0,,,3,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-18,Q de Kock,Taskin Ahmed,RR Rossouw,6,0,6,27,16,7,7,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-19,Q de Kock,Taskin Ahmed,RR Rossouw,4,0,4,31,20,8,8,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-20,RR Rossouw,Hasan Mahmud,Q de Kock,0,0,0,31,7,7,1,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-21,RR Rossouw,Hasan Mahmud,Q de Kock,6,0,6,37,13,8,2,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-22,RR Rossouw,Hasan Mahmud,Q de Kock,4,0,4,41,17,9,3,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-23,RR Rossouw,Hasan Mahmud,Q de Kock,1,0,1,42,18,10,4,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-24,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,42,20,9,5,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-25,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,42,20,10,6,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-26,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,0,0,0,42,18,11,1,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-27,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,6,0,6,48,24,12,2,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-28,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,2,0,2,50,26,13,3,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-29,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,0,0,0,50,26,14,4,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-30,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,6,0,6,56,32,15,5,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-31,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,2,0,2,58,34,16,6,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-32,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,59,21,11,1,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-33,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,60,35,17,2,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-34,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,60,21,12,3,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-35,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,61,22,13,4,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-36,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,62,36,18,5,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-37,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,63,23,14,6,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-38,Q de Kock,Mosaddek Hossain,RR Rossouw,0,0,0,63,23,15,1,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-39,Q de Kock,Mosaddek Hossain,RR Rossouw,1,0,1,64,24,16,2,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-40,RR Rossouw,Mosaddek Hossain,Q de Kock,2,0,2,66,38,19,3,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-41,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,38,20,4,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-42,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,38,21,5,0,,,7,"{'by': 'Bangladesh', 'umpire': 'RJ Tucker', 'batter': 'RR Rossouw', 'decision': 'struck down'}",-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-43,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,38,22,6,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-44,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,4,0,4,70,28,17,1,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-45,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,71,29,18,2,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-46,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,72,39,23,3,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-47,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,73,30,19,4,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-48,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,74,40,24,5,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-49,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,0,0,0,74,30,20,6,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-50,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,74,40,25,1,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-51,RR Rossouw,Mosaddek Hossain,Q de Kock,1,0,1,75,41,26,2,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-52,Q de Kock,Mosaddek Hossain,RR Rossouw,4,0,4,79,34,21,3,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-53,Q de Kock,Mosaddek Hossain,RR Rossouw,1,0,1,80,35,22,4,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-54,RR Rossouw,Mosaddek Hossain,Q de Kock,6,0,6,86,47,27,5,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-55,RR Rossouw,Mosaddek Hossain,Q de Kock,1,0,1,87,48,28,6,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-56,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,88,49,29,1,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-57,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,88,35,23,2,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-58,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,89,36,24,3,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-59,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,90,50,30,4,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-60,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,90,36,25,5,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-61,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,91,37,26,6,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-62,Q de Kock,Shakib Al Hasan,RR Rossouw,0,0,0,91,37,27,1,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-63,Q de Kock,Shakib Al Hasan,RR Rossouw,2,0,2,93,39,28,2,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-64,Q de Kock,Shakib Al Hasan,RR Rossouw,1,0,1,94,40,29,3,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-65,RR Rossouw,Shakib Al Hasan,Q de Kock,4,0,4,98,54,31,4,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-66,RR Rossouw,Shakib Al Hasan,Q de Kock,6,0,6,104,60,32,5,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-67,RR Rossouw,Shakib Al Hasan,Q de Kock,6,1,7,111,66,33,6,0,,,11,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-68,RR Rossouw,Shakib Al Hasan,Q de Kock,1,5,6,117,67,34,7,0,,,11,,penalty,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-69,RR Rossouw,Mustafizur Rahman,Q de Kock,0,0,0,117,67,35,1,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-70,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,118,68,36,2,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-71,Q de Kock,Mustafizur Rahman,RR Rossouw,4,0,4,122,44,30,3,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-72,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,123,45,31,4,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-73,RR Rossouw,Mustafizur Rahman,Q de Kock,0,0,0,123,68,37,5,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-74,RR Rossouw,Mustafizur Rahman,Q de Kock,6,0,6,129,74,38,6,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-75,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,129,45,32,1,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-76,Q de Kock,Hasan Mahmud,RR Rossouw,6,0,6,135,51,33,2,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-77,Q de Kock,Hasan Mahmud,RR Rossouw,1,0,1,136,52,34,3,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-78,RR Rossouw,Hasan Mahmud,Q de Kock,0,0,0,136,74,39,4,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-79,RR Rossouw,Hasan Mahmud,Q de Kock,4,0,4,140,78,40,5,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-80,RR Rossouw,Hasan Mahmud,Q de Kock,2,0,2,142,80,41,6,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-81,Q de Kock,Taskin Ahmed,RR Rossouw,6,0,6,148,58,35,1,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-82,Q de Kock,Taskin Ahmed,RR Rossouw,1,1,2,150,59,36,2,0,,,14,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-83,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,154,84,42,3,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-84,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,158,88,43,4,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-85,RR Rossouw,Taskin Ahmed,Q de Kock,2,0,2,160,90,44,5,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-86,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,164,94,45,6,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-87,RR Rossouw,Taskin Ahmed,Q de Kock,1,0,1,165,95,46,7,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-88,RR Rossouw,Afif Hossain,Q de Kock,1,0,1,166,96,47,1,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-89,Q de Kock,Afif Hossain,RR Rossouw,4,0,4,170,63,37,2,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-90,Q de Kock,Afif Hossain,RR Rossouw,0,0,0,170,63,38,3,caught,Q de Kock,Soumya Sarkar,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-91,T Stubbs,Afif Hossain,RR Rossouw,4,0,4,174,4,1,4,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-92,T Stubbs,Afif Hossain,RR Rossouw,1,0,1,175,5,2,5,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-93,RR Rossouw,Afif Hossain,T Stubbs,1,0,1,176,97,48,6,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-94,RR Rossouw,Mustafizur Rahman,T Stubbs,1,0,1,177,98,49,1,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-95,T Stubbs,Mustafizur Rahman,RR Rossouw,0,0,0,177,5,3,2,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-96,T Stubbs,Mustafizur Rahman,RR Rossouw,1,0,1,178,6,4,3,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-97,RR Rossouw,Mustafizur Rahman,T Stubbs,1,0,1,179,99,50,4,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-98,T Stubbs,Mustafizur Rahman,RR Rossouw,0,0,0,179,6,5,5,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-99,T Stubbs,Mustafizur Rahman,RR Rossouw,1,0,1,180,7,6,6,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-100,T Stubbs,Shakib Al Hasan,RR Rossouw,0,0,0,180,7,7,1,caught,T Stubbs,Liton Das,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-101,AK Markram,Shakib Al Hasan,RR Rossouw,1,0,1,181,1,1,2,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-102,RR Rossouw,Shakib Al Hasan,AK Markram,0,0,0,181,99,51,3,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-103,RR Rossouw,Shakib Al Hasan,AK Markram,1,0,1,182,100,52,4,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-104,AK Markram,Shakib Al Hasan,RR Rossouw,1,0,1,183,2,2,5,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-105,RR Rossouw,Shakib Al Hasan,AK Markram,6,0,6,189,106,53,6,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-106,AK Markram,Hasan Mahmud,RR Rossouw,1,0,1,190,3,3,1,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-107,RR Rossouw,Hasan Mahmud,AK Markram,1,0,1,191,107,54,2,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-108,AK Markram,Hasan Mahmud,RR Rossouw,0,0,0,191,3,4,3,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-109,AK Markram,Hasan Mahmud,RR Rossouw,2,0,2,193,5,5,4,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-110,AK Markram,Hasan Mahmud,RR Rossouw,0,0,0,193,5,6,5,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-111,AK Markram,Hasan Mahmud,RR Rossouw,1,0,1,194,6,7,6,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-112,AK Markram,Shakib Al Hasan,RR Rossouw,0,1,1,195,6,8,1,0,,,19,,legbyes,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-113,RR Rossouw,Shakib Al Hasan,AK Markram,2,0,2,197,109,55,2,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-114,RR Rossouw,Shakib Al Hasan,AK Markram,0,0,0,197,109,56,3,caught,RR Rossouw,Liton Das,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-115,DA Miller,Shakib Al Hasan,AK Markram,0,0,0,197,0,1,4,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-116,DA Miller,Shakib Al Hasan,AK Markram,0,0,0,197,0,2,5,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-117,DA Miller,Shakib Al Hasan,AK Markram,1,0,1,198,1,3,6,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-118,DA Miller,Hasan Mahmud,AK Markram,1,0,1,199,2,4,1,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-119,AK Markram,Hasan Mahmud,DA Miller,0,0,0,199,6,9,2,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-120,AK Markram,Hasan Mahmud,DA Miller,4,0,4,203,10,10,3,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-121,AK Markram,Hasan Mahmud,DA Miller,0,1,1,204,10,11,4,0,,,20,,wides,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-122,AK Markram,Hasan Mahmud,DA Miller,0,0,0,204,10,12,5,caught,AK Markram,Soumya Sarkar,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-123,WD Parnell,Hasan Mahmud,DA Miller,0,0,0,204,0,1,6,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-124,WD Parnell,Hasan Mahmud,DA Miller,0,1,1,205,0,2,7,0,,,20,,wides,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
-125,WD Parnell,Hasan Mahmud,DA Miller,0,0,0,205,0,3,8,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022-10-27,South Africa,South Africa,Bangladesh
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,0,157,0,1,0,1,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+1,T Bavuma,Taskin Ahmed,Q de Kock,2,0,2,2,155,2,2,0,2,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+2,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,155,2,3,0,3,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+3,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,155,2,4,0,4,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+4,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,155,2,5,0,5,0,,,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+5,T Bavuma,Taskin Ahmed,Q de Kock,0,0,0,2,155,2,6,1,6,caught,T Bavuma,Nurul Hasan,1,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+6,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,0,0,0,2,155,0,1,1,1,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+7,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,3,154,1,2,1,2,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+8,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,4,153,1,1,1,3,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+9,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,4,0,4,8,149,5,3,1,4,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+10,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,9,148,6,4,1,5,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+11,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,10,147,2,2,1,6,0,,,2,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+12,RR Rossouw,Taskin Ahmed,Q de Kock,0,0,0,10,147,2,3,1,1,0,,,3,"{'by': 'Bangladesh', 'umpire': 'RJ Tucker', 'batter': 'RR Rossouw', 'decision': 'struck down'}",-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+13,RR Rossouw,Taskin Ahmed,Q de Kock,0,0,0,10,147,2,4,1,2,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+14,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,14,143,6,5,1,3,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+15,RR Rossouw,Taskin Ahmed,Q de Kock,1,0,1,15,142,7,6,1,4,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+16,Q de Kock,Taskin Ahmed,RR Rossouw,4,1,5,20,137,10,5,1,5,0,,,3,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+17,Q de Kock,Taskin Ahmed,RR Rossouw,0,1,1,21,136,10,6,1,6,0,,,3,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+18,Q de Kock,Taskin Ahmed,RR Rossouw,6,0,6,27,130,16,7,1,7,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+19,Q de Kock,Taskin Ahmed,RR Rossouw,4,0,4,31,126,20,8,1,8,0,,,3,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+20,RR Rossouw,Hasan Mahmud,Q de Kock,0,0,0,31,126,7,7,1,1,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+21,RR Rossouw,Hasan Mahmud,Q de Kock,6,0,6,37,120,13,8,1,2,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+22,RR Rossouw,Hasan Mahmud,Q de Kock,4,0,4,41,116,17,9,1,3,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+23,RR Rossouw,Hasan Mahmud,Q de Kock,1,0,1,42,115,18,10,1,4,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+24,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,42,115,20,9,1,5,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+25,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,42,115,20,10,1,6,0,,,4,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+26,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,0,0,0,42,115,18,11,1,1,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+27,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,6,0,6,48,109,24,12,1,2,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+28,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,2,0,2,50,107,26,13,1,3,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+29,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,0,0,0,50,107,26,14,1,4,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+30,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,6,0,6,56,101,32,15,1,5,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+31,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,2,0,2,58,99,34,16,1,6,0,,,5,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+32,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,59,98,21,11,1,1,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+33,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,60,97,35,17,1,2,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+34,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,60,97,21,12,1,3,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+35,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,61,96,22,13,1,4,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+36,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,62,95,36,18,1,5,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+37,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,63,94,23,14,1,6,0,,,6,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+38,Q de Kock,Mosaddek Hossain,RR Rossouw,0,0,0,63,94,23,15,1,1,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+39,Q de Kock,Mosaddek Hossain,RR Rossouw,1,0,1,64,93,24,16,1,2,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+40,RR Rossouw,Mosaddek Hossain,Q de Kock,2,0,2,66,91,38,19,1,3,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+41,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,91,38,20,1,4,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+42,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,91,38,21,1,5,0,,,7,"{'by': 'Bangladesh', 'umpire': 'RJ Tucker', 'batter': 'RR Rossouw', 'decision': 'struck down'}",-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+43,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,66,91,38,22,1,6,0,,,7,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+44,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,4,0,4,70,87,28,17,1,1,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+45,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,71,86,29,18,1,2,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+46,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,72,85,39,23,1,3,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+47,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,1,0,1,73,84,30,19,1,4,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+48,RR Rossouw,Mehedi Hasan Miraz,Q de Kock,1,0,1,74,83,40,24,1,5,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+49,Q de Kock,Mehedi Hasan Miraz,RR Rossouw,0,0,0,74,83,30,20,1,6,0,,,8,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+50,RR Rossouw,Mosaddek Hossain,Q de Kock,0,0,0,74,83,40,25,1,1,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+51,RR Rossouw,Mosaddek Hossain,Q de Kock,1,0,1,75,82,41,26,1,2,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+52,Q de Kock,Mosaddek Hossain,RR Rossouw,4,0,4,79,78,34,21,1,3,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+53,Q de Kock,Mosaddek Hossain,RR Rossouw,1,0,1,80,77,35,22,1,4,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+54,RR Rossouw,Mosaddek Hossain,Q de Kock,6,0,6,86,71,47,27,1,5,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+55,RR Rossouw,Mosaddek Hossain,Q de Kock,1,0,1,87,70,48,28,1,6,0,,,9,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+56,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,88,69,49,29,1,1,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+57,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,88,69,35,23,1,2,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+58,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,89,68,36,24,1,3,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+59,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,90,67,50,30,1,4,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+60,Q de Kock,Mustafizur Rahman,RR Rossouw,0,0,0,90,67,36,25,1,5,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+61,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,91,66,37,26,1,6,0,,,10,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+62,Q de Kock,Shakib Al Hasan,RR Rossouw,0,0,0,91,66,37,27,1,1,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+63,Q de Kock,Shakib Al Hasan,RR Rossouw,2,0,2,93,64,39,28,1,2,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+64,Q de Kock,Shakib Al Hasan,RR Rossouw,1,0,1,94,63,40,29,1,3,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+65,RR Rossouw,Shakib Al Hasan,Q de Kock,4,0,4,98,59,54,31,1,4,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+66,RR Rossouw,Shakib Al Hasan,Q de Kock,6,0,6,104,53,60,32,1,5,0,,,11,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+67,RR Rossouw,Shakib Al Hasan,Q de Kock,6,1,7,111,46,66,33,1,6,0,,,11,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+68,RR Rossouw,Shakib Al Hasan,Q de Kock,1,5,6,117,40,67,34,1,7,0,,,11,,penalty,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+69,RR Rossouw,Mustafizur Rahman,Q de Kock,0,0,0,117,40,67,35,1,1,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+70,RR Rossouw,Mustafizur Rahman,Q de Kock,1,0,1,118,39,68,36,1,2,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+71,Q de Kock,Mustafizur Rahman,RR Rossouw,4,0,4,122,35,44,30,1,3,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+72,Q de Kock,Mustafizur Rahman,RR Rossouw,1,0,1,123,34,45,31,1,4,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+73,RR Rossouw,Mustafizur Rahman,Q de Kock,0,0,0,123,34,68,37,1,5,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+74,RR Rossouw,Mustafizur Rahman,Q de Kock,6,0,6,129,28,74,38,1,6,0,,,12,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+75,Q de Kock,Hasan Mahmud,RR Rossouw,0,0,0,129,28,45,32,1,1,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+76,Q de Kock,Hasan Mahmud,RR Rossouw,6,0,6,135,22,51,33,1,2,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+77,Q de Kock,Hasan Mahmud,RR Rossouw,1,0,1,136,21,52,34,1,3,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+78,RR Rossouw,Hasan Mahmud,Q de Kock,0,0,0,136,21,74,39,1,4,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+79,RR Rossouw,Hasan Mahmud,Q de Kock,4,0,4,140,17,78,40,1,5,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+80,RR Rossouw,Hasan Mahmud,Q de Kock,2,0,2,142,15,80,41,1,6,0,,,13,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+81,Q de Kock,Taskin Ahmed,RR Rossouw,6,0,6,148,9,58,35,1,1,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+82,Q de Kock,Taskin Ahmed,RR Rossouw,1,1,2,150,7,59,36,1,2,0,,,14,,noballs,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+83,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,154,3,84,42,1,3,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+84,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,158,-1,88,43,1,4,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+85,RR Rossouw,Taskin Ahmed,Q de Kock,2,0,2,160,-3,90,44,1,5,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+86,RR Rossouw,Taskin Ahmed,Q de Kock,4,0,4,164,-7,94,45,1,6,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+87,RR Rossouw,Taskin Ahmed,Q de Kock,1,0,1,165,-8,95,46,1,7,0,,,14,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+88,RR Rossouw,Afif Hossain,Q de Kock,1,0,1,166,-9,96,47,1,1,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+89,Q de Kock,Afif Hossain,RR Rossouw,4,0,4,170,-13,63,37,1,2,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+90,Q de Kock,Afif Hossain,RR Rossouw,0,0,0,170,-13,63,38,2,3,caught,Q de Kock,Soumya Sarkar,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+91,T Stubbs,Afif Hossain,RR Rossouw,4,0,4,174,-17,4,1,2,4,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+92,T Stubbs,Afif Hossain,RR Rossouw,1,0,1,175,-18,5,2,2,5,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+93,RR Rossouw,Afif Hossain,T Stubbs,1,0,1,176,-19,97,48,2,6,0,,,15,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+94,RR Rossouw,Mustafizur Rahman,T Stubbs,1,0,1,177,-20,98,49,2,1,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+95,T Stubbs,Mustafizur Rahman,RR Rossouw,0,0,0,177,-20,5,3,2,2,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+96,T Stubbs,Mustafizur Rahman,RR Rossouw,1,0,1,178,-21,6,4,2,3,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+97,RR Rossouw,Mustafizur Rahman,T Stubbs,1,0,1,179,-22,99,50,2,4,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+98,T Stubbs,Mustafizur Rahman,RR Rossouw,0,0,0,179,-22,6,5,2,5,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+99,T Stubbs,Mustafizur Rahman,RR Rossouw,1,0,1,180,-23,7,6,2,6,0,,,16,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+100,T Stubbs,Shakib Al Hasan,RR Rossouw,0,0,0,180,-23,7,7,3,1,caught,T Stubbs,Liton Das,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+101,AK Markram,Shakib Al Hasan,RR Rossouw,1,0,1,181,-24,1,1,3,2,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+102,RR Rossouw,Shakib Al Hasan,AK Markram,0,0,0,181,-24,99,51,3,3,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+103,RR Rossouw,Shakib Al Hasan,AK Markram,1,0,1,182,-25,100,52,3,4,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+104,AK Markram,Shakib Al Hasan,RR Rossouw,1,0,1,183,-26,2,2,3,5,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+105,RR Rossouw,Shakib Al Hasan,AK Markram,6,0,6,189,-32,106,53,3,6,0,,,17,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+106,AK Markram,Hasan Mahmud,RR Rossouw,1,0,1,190,-33,3,3,3,1,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+107,RR Rossouw,Hasan Mahmud,AK Markram,1,0,1,191,-34,107,54,3,2,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+108,AK Markram,Hasan Mahmud,RR Rossouw,0,0,0,191,-34,3,4,3,3,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+109,AK Markram,Hasan Mahmud,RR Rossouw,2,0,2,193,-36,5,5,3,4,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+110,AK Markram,Hasan Mahmud,RR Rossouw,0,0,0,193,-36,5,6,3,5,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+111,AK Markram,Hasan Mahmud,RR Rossouw,1,0,1,194,-37,6,7,3,6,0,,,18,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+112,AK Markram,Shakib Al Hasan,RR Rossouw,0,1,1,195,-38,6,8,3,1,0,,,19,,legbyes,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+113,RR Rossouw,Shakib Al Hasan,AK Markram,2,0,2,197,-40,109,55,3,2,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+114,RR Rossouw,Shakib Al Hasan,AK Markram,0,0,0,197,-40,109,56,4,3,caught,RR Rossouw,Liton Das,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+115,DA Miller,Shakib Al Hasan,AK Markram,0,0,0,197,-40,0,1,4,4,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+116,DA Miller,Shakib Al Hasan,AK Markram,0,0,0,197,-40,0,2,4,5,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+117,DA Miller,Shakib Al Hasan,AK Markram,1,0,1,198,-41,1,3,4,6,0,,,19,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+118,DA Miller,Hasan Mahmud,AK Markram,1,0,1,199,-42,2,4,4,1,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+119,AK Markram,Hasan Mahmud,DA Miller,0,0,0,199,-42,6,9,4,2,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+120,AK Markram,Hasan Mahmud,DA Miller,4,0,4,203,-46,10,10,4,3,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+121,AK Markram,Hasan Mahmud,DA Miller,0,1,1,204,-47,10,11,4,4,0,,,20,,wides,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+122,AK Markram,Hasan Mahmud,DA Miller,0,0,0,204,-47,10,12,5,5,caught,AK Markram,Soumya Sarkar,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+123,WD Parnell,Hasan Mahmud,DA Miller,0,0,0,204,-47,0,1,5,6,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+124,WD Parnell,Hasan Mahmud,DA Miller,0,1,1,205,-48,0,2,5,7,0,,,20,,wides,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh
+125,WD Parnell,Hasan Mahmud,DA Miller,0,0,0,205,-48,0,3,5,8,0,,,20,,-,bat,South Africa,1,Sydney Cricket Ground,2022,10,South Africa_Bangladesh_2022-10-27,South Africa,South Africa,Bangladesh

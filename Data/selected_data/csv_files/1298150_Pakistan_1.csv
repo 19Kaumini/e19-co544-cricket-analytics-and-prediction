@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,0,1,1,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-1,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,0,2,2,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-2,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,0,3,3,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-3,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,0,4,4,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-4,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,0,5,5,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-5,Mohammad Rizwan,B Kumar,Babar Azam,0,1,1,1,0,6,6,wides,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-6,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,1,0,7,7,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-7,Babar Azam,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,0,1,1,-,2,"{'by': 'Pakistan', 'umpire': 'M Erasmus', 'batter': 'Babar Azam', 'decision': 'struck down'}",lbw,Babar Azam,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-8,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,0,1,2,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-9,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,0,2,3,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-10,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,0,3,4,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-11,Shan Masood,Arshdeep Singh,Mohammad Rizwan,1,0,1,2,1,4,5,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-12,Mohammad Rizwan,Arshdeep Singh,Shan Masood,4,0,4,6,4,8,6,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-13,Shan Masood,B Kumar,Mohammad Rizwan,0,1,1,7,1,5,1,wides,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-14,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,7,1,6,2,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-15,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,7,1,7,3,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-16,Shan Masood,B Kumar,Mohammad Rizwan,2,0,2,9,3,8,4,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-17,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,9,3,9,5,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-18,Shan Masood,B Kumar,Mohammad Rizwan,1,0,1,10,4,10,6,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-19,Mohammad Rizwan,B Kumar,Shan Masood,0,0,0,10,4,9,7,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-20,Shan Masood,Arshdeep Singh,Mohammad Rizwan,4,0,4,14,8,11,1,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-21,Shan Masood,Arshdeep Singh,Mohammad Rizwan,1,0,1,15,9,12,2,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-22,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,4,10,3,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-23,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,4,11,4,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-24,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,4,12,5,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-25,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,4,13,6,-,4,,caught,Mohammad Rizwan,B Kumar,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-26,Shan Masood,B Kumar,Iftikhar Ahmed,0,0,0,15,9,13,1,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-27,Shan Masood,B Kumar,Iftikhar Ahmed,3,0,3,18,12,14,2,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-28,Iftikhar Ahmed,B Kumar,Shan Masood,2,0,2,20,2,1,3,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-29,Iftikhar Ahmed,B Kumar,Shan Masood,0,0,0,20,2,2,4,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-30,Iftikhar Ahmed,B Kumar,Shan Masood,4,0,4,24,6,3,5,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-31,Iftikhar Ahmed,B Kumar,Shan Masood,0,0,0,24,6,4,6,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-32,Shan Masood,Mohammed Shami,Iftikhar Ahmed,0,0,0,24,12,15,1,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-33,Shan Masood,Mohammed Shami,Iftikhar Ahmed,0,0,0,24,12,16,2,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-34,Shan Masood,Mohammed Shami,Iftikhar Ahmed,4,0,4,28,16,17,3,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-35,Shan Masood,Mohammed Shami,Iftikhar Ahmed,3,0,3,31,19,18,4,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-36,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,31,6,5,5,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-37,Iftikhar Ahmed,Mohammed Shami,Shan Masood,1,0,1,32,7,6,6,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-38,Iftikhar Ahmed,HH Pandya,Shan Masood,0,0,0,32,7,7,1,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-39,Iftikhar Ahmed,HH Pandya,Shan Masood,3,0,3,35,10,8,2,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-40,Shan Masood,HH Pandya,Iftikhar Ahmed,0,0,0,35,19,19,3,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-41,Shan Masood,HH Pandya,Iftikhar Ahmed,1,0,1,36,20,20,4,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-42,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,37,11,9,5,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-43,Shan Masood,HH Pandya,Iftikhar Ahmed,4,0,4,41,24,21,6,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-44,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,1,1,42,11,10,1,wides,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-45,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,42,11,11,2,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-46,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,1,1,43,11,12,3,legbyes,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-47,Shan Masood,Mohammed Shami,Iftikhar Ahmed,1,0,1,44,25,22,4,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-48,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,11,13,5,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-49,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,11,14,6,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-50,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,11,15,7,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-51,Shan Masood,R Ashwin,Iftikhar Ahmed,0,1,1,45,25,23,1,legbyes,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-52,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,45,11,16,2,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-53,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,46,12,17,3,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-54,Shan Masood,R Ashwin,Iftikhar Ahmed,2,0,2,48,27,24,4,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-55,Shan Masood,R Ashwin,Iftikhar Ahmed,1,0,1,49,28,25,5,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-56,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,50,13,18,6,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-57,Iftikhar Ahmed,HH Pandya,Shan Masood,2,0,2,52,15,19,1,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-58,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,53,16,20,2,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-59,Shan Masood,HH Pandya,Iftikhar Ahmed,1,0,1,54,29,26,3,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-60,Iftikhar Ahmed,HH Pandya,Shan Masood,4,0,4,58,20,21,4,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-61,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,59,21,22,5,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-62,Shan Masood,HH Pandya,Iftikhar Ahmed,0,1,1,60,29,27,6,legbyes,10,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-63,Shan Masood,R Ashwin,Iftikhar Ahmed,1,0,1,61,30,28,1,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-64,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,61,21,23,2,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-65,Iftikhar Ahmed,R Ashwin,Shan Masood,2,0,2,63,23,24,3,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-66,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,63,23,25,4,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-67,Iftikhar Ahmed,R Ashwin,Shan Masood,6,0,6,69,29,26,5,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-68,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,70,30,27,6,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-69,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,76,36,28,1,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-70,Iftikhar Ahmed,AR Patel,Shan Masood,0,0,0,76,36,29,2,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-71,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,82,42,30,3,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-72,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,88,48,31,4,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-73,Iftikhar Ahmed,AR Patel,Shan Masood,0,0,0,88,48,32,5,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-74,Iftikhar Ahmed,AR Patel,Shan Masood,3,0,3,91,51,33,6,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-75,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,91,51,34,1,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-76,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,91,51,35,2,-,13,,lbw,Iftikhar Ahmed,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-77,Shadab Khan,Mohammed Shami,Shan Masood,0,0,0,91,0,1,3,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-78,Shadab Khan,Mohammed Shami,Shan Masood,4,0,4,95,4,2,4,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-79,Shadab Khan,Mohammed Shami,Shan Masood,0,0,0,95,4,3,5,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-80,Shadab Khan,Mohammed Shami,Shan Masood,1,0,1,96,5,4,6,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-81,Shadab Khan,HH Pandya,Shan Masood,0,0,0,96,5,5,1,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-82,Shadab Khan,HH Pandya,Shan Masood,0,0,0,96,5,6,2,-,14,,caught,Shadab Khan,SA Yadav,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-83,Haider Ali,HH Pandya,Shan Masood,0,0,0,96,0,1,3,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-84,Haider Ali,HH Pandya,Shan Masood,2,0,2,98,2,2,4,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-85,Haider Ali,HH Pandya,Shan Masood,0,0,0,98,2,3,5,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-86,Haider Ali,HH Pandya,Shan Masood,0,0,0,98,2,4,6,-,14,,caught,Haider Ali,SA Yadav,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-87,Shan Masood,R Ashwin,Mohammad Nawaz,1,0,1,99,31,29,1,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-88,Mohammad Nawaz,R Ashwin,Shan Masood,0,1,1,100,0,1,2,wides,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-89,Mohammad Nawaz,R Ashwin,Shan Masood,0,0,0,100,0,2,3,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-90,Mohammad Nawaz,R Ashwin,Shan Masood,1,0,1,101,1,3,4,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-91,Shan Masood,R Ashwin,Mohammad Nawaz,2,0,2,103,33,30,5,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-92,Shan Masood,R Ashwin,Mohammad Nawaz,2,0,2,105,35,31,6,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-93,Shan Masood,R Ashwin,Mohammad Nawaz,1,0,1,106,36,32,7,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-94,Shan Masood,HH Pandya,Mohammad Nawaz,1,0,1,107,37,33,1,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-95,Mohammad Nawaz,HH Pandya,Shan Masood,4,0,4,111,5,4,2,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-96,Mohammad Nawaz,HH Pandya,Shan Masood,0,0,0,111,5,5,3,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-97,Mohammad Nawaz,HH Pandya,Shan Masood,4,0,4,115,9,6,4,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-98,Mohammad Nawaz,HH Pandya,Shan Masood,0,0,0,115,9,7,5,-,16,,caught,Mohammad Nawaz,KD Karthik,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-99,Asif Ali,HH Pandya,Shan Masood,1,0,1,116,1,1,6,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-100,Asif Ali,Arshdeep Singh,Shan Masood,1,0,1,117,2,2,1,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-101,Shan Masood,Arshdeep Singh,Asif Ali,2,0,2,119,39,34,2,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-102,Shan Masood,Arshdeep Singh,Asif Ali,1,0,1,120,40,35,3,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-103,Asif Ali,Arshdeep Singh,Shan Masood,0,0,0,120,2,3,4,-,17,,caught,Asif Ali,KD Karthik,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-104,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,2,0,2,122,2,1,5,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-105,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,0,1,1,123,2,2,6,wides,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-106,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,2,0,2,125,4,3,7,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-107,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,0,0,0,125,40,36,1,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-108,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,4,0,4,129,44,37,2,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-109,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,4,0,4,133,48,38,3,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-110,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,0,0,0,133,48,39,4,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-111,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,1,0,1,134,49,40,5,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-112,Shaheen Shah Afridi,Mohammed Shami,Shan Masood,1,0,1,135,5,4,6,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-113,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,1,0,1,136,6,5,1,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-114,Shan Masood,Arshdeep Singh,Shaheen Shah Afridi,1,0,1,137,50,41,2,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-115,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,6,0,6,143,12,6,3,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-116,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,4,0,4,147,16,7,4,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-117,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,0,1,1,148,16,8,5,legbyes,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-118,Shan Masood,Arshdeep Singh,Shaheen Shah Afridi,1,0,1,149,51,42,6,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-119,Shan Masood,B Kumar,Shaheen Shah Afridi,0,1,1,150,51,43,1,wides,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-120,Shan Masood,B Kumar,Shaheen Shah Afridi,1,0,1,151,52,44,2,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-121,Shaheen Shah Afridi,B Kumar,Shan Masood,0,0,0,151,16,9,3,-,20,,caught and bowled,Shaheen Shah Afridi,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-122,Haris Rauf,B Kumar,Shan Masood,6,0,6,157,6,1,4,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-123,Haris Rauf,B Kumar,Shan Masood,0,0,0,157,6,2,5,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-124,Haris Rauf,B Kumar,Shan Masood,0,0,0,157,6,3,6,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
-125,Haris Rauf,B Kumar,Shan Masood,0,2,2,159,6,4,7,byes,20,,0,,,field,India,1,Melbourne Cricket Ground,2022-10-23,India,Pakistan,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,128,0,1,0,1,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+1,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,128,0,2,0,2,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+2,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,128,0,3,0,3,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+3,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,128,0,4,0,4,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+4,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,0,128,0,5,0,5,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+5,Mohammad Rizwan,B Kumar,Babar Azam,0,1,1,1,127,0,6,0,6,wides,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+6,Mohammad Rizwan,B Kumar,Babar Azam,0,0,0,1,127,0,7,0,7,-,1,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+7,Babar Azam,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,127,0,1,1,1,-,2,"{'by': 'Pakistan', 'umpire': 'M Erasmus', 'batter': 'Babar Azam', 'decision': 'struck down'}",lbw,Babar Azam,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+8,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,127,0,1,1,2,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+9,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,127,0,2,1,3,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+10,Shan Masood,Arshdeep Singh,Mohammad Rizwan,0,0,0,1,127,0,3,1,4,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+11,Shan Masood,Arshdeep Singh,Mohammad Rizwan,1,0,1,2,126,1,4,1,5,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+12,Mohammad Rizwan,Arshdeep Singh,Shan Masood,4,0,4,6,122,4,8,1,6,-,2,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+13,Shan Masood,B Kumar,Mohammad Rizwan,0,1,1,7,121,1,5,1,1,wides,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+14,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,7,121,1,6,1,2,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+15,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,7,121,1,7,1,3,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+16,Shan Masood,B Kumar,Mohammad Rizwan,2,0,2,9,119,3,8,1,4,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+17,Shan Masood,B Kumar,Mohammad Rizwan,0,0,0,9,119,3,9,1,5,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+18,Shan Masood,B Kumar,Mohammad Rizwan,1,0,1,10,118,4,10,1,6,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+19,Mohammad Rizwan,B Kumar,Shan Masood,0,0,0,10,118,4,9,1,7,-,3,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+20,Shan Masood,Arshdeep Singh,Mohammad Rizwan,4,0,4,14,114,8,11,1,1,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+21,Shan Masood,Arshdeep Singh,Mohammad Rizwan,1,0,1,15,113,9,12,1,2,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+22,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,113,4,10,1,3,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+23,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,113,4,11,1,4,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+24,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,113,4,12,1,5,-,4,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+25,Mohammad Rizwan,Arshdeep Singh,Shan Masood,0,0,0,15,113,4,13,2,6,-,4,,caught,Mohammad Rizwan,B Kumar,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+26,Shan Masood,B Kumar,Iftikhar Ahmed,0,0,0,15,113,9,13,2,1,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+27,Shan Masood,B Kumar,Iftikhar Ahmed,3,0,3,18,110,12,14,2,2,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+28,Iftikhar Ahmed,B Kumar,Shan Masood,2,0,2,20,108,2,1,2,3,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+29,Iftikhar Ahmed,B Kumar,Shan Masood,0,0,0,20,108,2,2,2,4,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+30,Iftikhar Ahmed,B Kumar,Shan Masood,4,0,4,24,104,6,3,2,5,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+31,Iftikhar Ahmed,B Kumar,Shan Masood,0,0,0,24,104,6,4,2,6,-,5,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+32,Shan Masood,Mohammed Shami,Iftikhar Ahmed,0,0,0,24,104,12,15,2,1,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+33,Shan Masood,Mohammed Shami,Iftikhar Ahmed,0,0,0,24,104,12,16,2,2,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+34,Shan Masood,Mohammed Shami,Iftikhar Ahmed,4,0,4,28,100,16,17,2,3,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+35,Shan Masood,Mohammed Shami,Iftikhar Ahmed,3,0,3,31,97,19,18,2,4,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+36,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,31,97,6,5,2,5,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+37,Iftikhar Ahmed,Mohammed Shami,Shan Masood,1,0,1,32,96,7,6,2,6,-,6,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+38,Iftikhar Ahmed,HH Pandya,Shan Masood,0,0,0,32,96,7,7,2,1,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+39,Iftikhar Ahmed,HH Pandya,Shan Masood,3,0,3,35,93,10,8,2,2,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+40,Shan Masood,HH Pandya,Iftikhar Ahmed,0,0,0,35,93,19,19,2,3,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+41,Shan Masood,HH Pandya,Iftikhar Ahmed,1,0,1,36,92,20,20,2,4,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+42,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,37,91,11,9,2,5,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+43,Shan Masood,HH Pandya,Iftikhar Ahmed,4,0,4,41,87,24,21,2,6,-,7,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+44,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,1,1,42,86,11,10,2,1,wides,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+45,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,42,86,11,11,2,2,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+46,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,1,1,43,85,11,12,2,3,legbyes,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+47,Shan Masood,Mohammed Shami,Iftikhar Ahmed,1,0,1,44,84,25,22,2,4,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+48,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,84,11,13,2,5,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+49,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,84,11,14,2,6,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+50,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,44,84,11,15,2,7,-,8,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+51,Shan Masood,R Ashwin,Iftikhar Ahmed,0,1,1,45,83,25,23,2,1,legbyes,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+52,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,45,83,11,16,2,2,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+53,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,46,82,12,17,2,3,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+54,Shan Masood,R Ashwin,Iftikhar Ahmed,2,0,2,48,80,27,24,2,4,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+55,Shan Masood,R Ashwin,Iftikhar Ahmed,1,0,1,49,79,28,25,2,5,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+56,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,50,78,13,18,2,6,-,9,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+57,Iftikhar Ahmed,HH Pandya,Shan Masood,2,0,2,52,76,15,19,2,1,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+58,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,53,75,16,20,2,2,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+59,Shan Masood,HH Pandya,Iftikhar Ahmed,1,0,1,54,74,29,26,2,3,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+60,Iftikhar Ahmed,HH Pandya,Shan Masood,4,0,4,58,70,20,21,2,4,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+61,Iftikhar Ahmed,HH Pandya,Shan Masood,1,0,1,59,69,21,22,2,5,-,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+62,Shan Masood,HH Pandya,Iftikhar Ahmed,0,1,1,60,68,29,27,2,6,legbyes,10,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+63,Shan Masood,R Ashwin,Iftikhar Ahmed,1,0,1,61,67,30,28,2,1,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+64,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,61,67,21,23,2,2,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+65,Iftikhar Ahmed,R Ashwin,Shan Masood,2,0,2,63,65,23,24,2,3,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+66,Iftikhar Ahmed,R Ashwin,Shan Masood,0,0,0,63,65,23,25,2,4,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+67,Iftikhar Ahmed,R Ashwin,Shan Masood,6,0,6,69,59,29,26,2,5,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+68,Iftikhar Ahmed,R Ashwin,Shan Masood,1,0,1,70,58,30,27,2,6,-,11,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+69,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,76,52,36,28,2,1,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+70,Iftikhar Ahmed,AR Patel,Shan Masood,0,0,0,76,52,36,29,2,2,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+71,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,82,46,42,30,2,3,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+72,Iftikhar Ahmed,AR Patel,Shan Masood,6,0,6,88,40,48,31,2,4,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+73,Iftikhar Ahmed,AR Patel,Shan Masood,0,0,0,88,40,48,32,2,5,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+74,Iftikhar Ahmed,AR Patel,Shan Masood,3,0,3,91,37,51,33,2,6,-,12,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+75,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,91,37,51,34,2,1,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+76,Iftikhar Ahmed,Mohammed Shami,Shan Masood,0,0,0,91,37,51,35,3,2,-,13,,lbw,Iftikhar Ahmed,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+77,Shadab Khan,Mohammed Shami,Shan Masood,0,0,0,91,37,0,1,3,3,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+78,Shadab Khan,Mohammed Shami,Shan Masood,4,0,4,95,33,4,2,3,4,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+79,Shadab Khan,Mohammed Shami,Shan Masood,0,0,0,95,33,4,3,3,5,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+80,Shadab Khan,Mohammed Shami,Shan Masood,1,0,1,96,32,5,4,3,6,-,13,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+81,Shadab Khan,HH Pandya,Shan Masood,0,0,0,96,32,5,5,3,1,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+82,Shadab Khan,HH Pandya,Shan Masood,0,0,0,96,32,5,6,4,2,-,14,,caught,Shadab Khan,SA Yadav,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+83,Haider Ali,HH Pandya,Shan Masood,0,0,0,96,32,0,1,4,3,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+84,Haider Ali,HH Pandya,Shan Masood,2,0,2,98,30,2,2,4,4,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+85,Haider Ali,HH Pandya,Shan Masood,0,0,0,98,30,2,3,4,5,-,14,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+86,Haider Ali,HH Pandya,Shan Masood,0,0,0,98,30,2,4,5,6,-,14,,caught,Haider Ali,SA Yadav,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+87,Shan Masood,R Ashwin,Mohammad Nawaz,1,0,1,99,29,31,29,5,1,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+88,Mohammad Nawaz,R Ashwin,Shan Masood,0,1,1,100,28,0,1,5,2,wides,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+89,Mohammad Nawaz,R Ashwin,Shan Masood,0,0,0,100,28,0,2,5,3,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+90,Mohammad Nawaz,R Ashwin,Shan Masood,1,0,1,101,27,1,3,5,4,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+91,Shan Masood,R Ashwin,Mohammad Nawaz,2,0,2,103,25,33,30,5,5,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+92,Shan Masood,R Ashwin,Mohammad Nawaz,2,0,2,105,23,35,31,5,6,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+93,Shan Masood,R Ashwin,Mohammad Nawaz,1,0,1,106,22,36,32,5,7,-,15,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+94,Shan Masood,HH Pandya,Mohammad Nawaz,1,0,1,107,21,37,33,5,1,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+95,Mohammad Nawaz,HH Pandya,Shan Masood,4,0,4,111,17,5,4,5,2,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+96,Mohammad Nawaz,HH Pandya,Shan Masood,0,0,0,111,17,5,5,5,3,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+97,Mohammad Nawaz,HH Pandya,Shan Masood,4,0,4,115,13,9,6,5,4,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+98,Mohammad Nawaz,HH Pandya,Shan Masood,0,0,0,115,13,9,7,6,5,-,16,,caught,Mohammad Nawaz,KD Karthik,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+99,Asif Ali,HH Pandya,Shan Masood,1,0,1,116,12,1,1,6,6,-,16,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+100,Asif Ali,Arshdeep Singh,Shan Masood,1,0,1,117,11,2,2,6,1,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+101,Shan Masood,Arshdeep Singh,Asif Ali,2,0,2,119,9,39,34,6,2,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+102,Shan Masood,Arshdeep Singh,Asif Ali,1,0,1,120,8,40,35,6,3,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+103,Asif Ali,Arshdeep Singh,Shan Masood,0,0,0,120,8,2,3,7,4,-,17,,caught,Asif Ali,KD Karthik,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+104,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,2,0,2,122,6,2,1,7,5,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+105,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,0,1,1,123,5,2,2,7,6,wides,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+106,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,2,0,2,125,3,4,3,7,7,-,17,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+107,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,0,0,0,125,3,40,36,7,1,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+108,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,4,0,4,129,-1,44,37,7,2,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+109,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,4,0,4,133,-5,48,38,7,3,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+110,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,0,0,0,133,-5,48,39,7,4,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+111,Shan Masood,Mohammed Shami,Shaheen Shah Afridi,1,0,1,134,-6,49,40,7,5,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+112,Shaheen Shah Afridi,Mohammed Shami,Shan Masood,1,0,1,135,-7,5,4,7,6,-,18,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+113,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,1,0,1,136,-8,6,5,7,1,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+114,Shan Masood,Arshdeep Singh,Shaheen Shah Afridi,1,0,1,137,-9,50,41,7,2,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+115,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,6,0,6,143,-15,12,6,7,3,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+116,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,4,0,4,147,-19,16,7,7,4,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+117,Shaheen Shah Afridi,Arshdeep Singh,Shan Masood,0,1,1,148,-20,16,8,7,5,legbyes,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+118,Shan Masood,Arshdeep Singh,Shaheen Shah Afridi,1,0,1,149,-21,51,42,7,6,-,19,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+119,Shan Masood,B Kumar,Shaheen Shah Afridi,0,1,1,150,-22,51,43,7,1,wides,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+120,Shan Masood,B Kumar,Shaheen Shah Afridi,1,0,1,151,-23,52,44,7,2,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+121,Shaheen Shah Afridi,B Kumar,Shan Masood,0,0,0,151,-23,16,9,8,3,-,20,,caught and bowled,Shaheen Shah Afridi,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+122,Haris Rauf,B Kumar,Shan Masood,6,0,6,157,-29,6,1,8,4,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+123,Haris Rauf,B Kumar,Shan Masood,0,0,0,157,-29,6,2,8,5,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+124,Haris Rauf,B Kumar,Shan Masood,0,0,0,157,-29,6,3,8,6,-,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India
+125,Haris Rauf,B Kumar,Shan Masood,0,2,2,159,-31,6,4,8,7,byes,20,,0,,,field,India,1,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,Pakistan,India

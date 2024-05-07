@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
-0,BA King,RJW Topley,SD Hope,0,0,0,0,0,1,1,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-1,BA King,RJW Topley,SD Hope,1,0,1,1,1,2,2,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-2,SD Hope,RJW Topley,BA King,1,0,1,2,1,1,3,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-3,BA King,RJW Topley,SD Hope,0,0,0,2,1,3,4,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-4,BA King,RJW Topley,SD Hope,0,0,0,2,1,4,5,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-5,BA King,RJW Topley,SD Hope,1,0,1,3,2,5,6,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-6,BA King,GHS Garton,SD Hope,4,0,4,7,6,6,1,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-7,BA King,GHS Garton,SD Hope,0,0,0,7,6,7,2,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-8,BA King,GHS Garton,SD Hope,0,0,0,7,6,8,3,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-9,BA King,GHS Garton,SD Hope,4,0,4,11,10,9,4,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-10,BA King,GHS Garton,SD Hope,0,0,0,11,10,10,5,2,bowled,BA King,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-11,N Pooran,GHS Garton,SD Hope,1,0,1,12,1,1,6,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-12,N Pooran,RJW Topley,SD Hope,1,0,1,13,2,2,1,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-13,SD Hope,RJW Topley,N Pooran,1,0,1,14,2,2,2,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-14,N Pooran,RJW Topley,SD Hope,0,0,0,14,2,3,3,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-15,N Pooran,RJW Topley,SD Hope,0,0,0,14,2,4,4,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-16,N Pooran,RJW Topley,SD Hope,0,0,0,14,2,5,5,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-17,N Pooran,RJW Topley,SD Hope,1,0,1,15,3,6,6,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-18,N Pooran,GHS Garton,SD Hope,2,0,2,17,5,7,1,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-19,N Pooran,GHS Garton,SD Hope,0,1,1,18,5,8,2,4,0,,,noballs,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-20,N Pooran,GHS Garton,SD Hope,0,0,0,18,5,9,3,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-21,N Pooran,GHS Garton,SD Hope,6,0,6,24,11,10,4,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-22,N Pooran,GHS Garton,SD Hope,4,0,4,28,15,11,5,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-23,N Pooran,GHS Garton,SD Hope,6,0,6,34,21,12,6,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-24,N Pooran,GHS Garton,SD Hope,0,0,0,34,21,13,7,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-25,SD Hope,TS Mills,N Pooran,1,0,1,35,3,3,1,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-26,N Pooran,TS Mills,SD Hope,4,0,4,39,25,14,2,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-27,N Pooran,TS Mills,SD Hope,0,0,0,39,25,15,3,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-28,N Pooran,TS Mills,SD Hope,6,0,6,45,31,16,4,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-29,N Pooran,TS Mills,SD Hope,0,1,1,46,31,17,5,5,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-30,N Pooran,TS Mills,SD Hope,1,0,1,47,32,18,6,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-31,SD Hope,TS Mills,N Pooran,1,0,1,48,4,4,7,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-32,SD Hope,LS Livingstone,N Pooran,0,0,0,48,4,5,1,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-33,SD Hope,LS Livingstone,N Pooran,0,0,0,48,4,6,2,6,caught,SD Hope,T Banton,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-34,R Powell,LS Livingstone,N Pooran,0,0,0,48,0,1,3,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-35,R Powell,LS Livingstone,N Pooran,6,0,6,54,6,2,4,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-36,R Powell,LS Livingstone,N Pooran,0,0,0,54,6,3,5,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-37,R Powell,LS Livingstone,N Pooran,0,0,0,54,6,4,6,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-38,N Pooran,AU Rashid,R Powell,1,0,1,55,33,19,1,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-39,R Powell,AU Rashid,N Pooran,2,0,2,57,8,5,2,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-40,R Powell,AU Rashid,N Pooran,0,0,0,57,8,6,3,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-41,R Powell,AU Rashid,N Pooran,2,0,2,59,10,7,4,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-42,R Powell,AU Rashid,N Pooran,0,0,0,59,10,8,5,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-43,R Powell,AU Rashid,N Pooran,1,0,1,60,11,9,6,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-44,R Powell,LS Livingstone,N Pooran,0,0,0,60,11,10,1,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-45,R Powell,LS Livingstone,N Pooran,6,0,6,66,17,11,2,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-46,R Powell,LS Livingstone,N Pooran,1,0,1,67,18,12,3,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-47,N Pooran,LS Livingstone,R Powell,1,0,1,68,34,20,4,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-48,R Powell,LS Livingstone,N Pooran,1,0,1,69,19,13,5,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-49,N Pooran,LS Livingstone,R Powell,1,0,1,70,35,21,6,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-50,N Pooran,MM Ali,R Powell,1,0,1,71,36,22,1,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-51,R Powell,MM Ali,N Pooran,0,0,0,71,19,14,2,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-52,R Powell,MM Ali,N Pooran,6,0,6,77,25,15,3,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-53,R Powell,MM Ali,N Pooran,4,0,4,81,29,16,4,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-54,R Powell,MM Ali,N Pooran,2,0,2,83,31,17,5,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-55,R Powell,MM Ali,N Pooran,1,0,1,84,32,18,6,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-56,R Powell,TS Mills,N Pooran,0,1,1,85,32,19,1,10,0,,,noballs,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-57,R Powell,TS Mills,N Pooran,6,0,6,91,38,20,2,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-58,R Powell,TS Mills,N Pooran,1,0,1,92,39,21,3,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-59,N Pooran,TS Mills,R Powell,2,0,2,94,38,23,4,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-60,N Pooran,TS Mills,R Powell,1,0,1,95,39,24,5,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-61,R Powell,TS Mills,N Pooran,0,0,0,95,39,22,6,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-62,R Powell,TS Mills,N Pooran,1,0,1,96,40,23,7,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-63,R Powell,AU Rashid,N Pooran,3,0,3,99,43,24,1,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-64,N Pooran,AU Rashid,R Powell,0,0,0,99,39,25,2,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-65,N Pooran,AU Rashid,R Powell,0,0,0,99,39,26,3,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-66,N Pooran,AU Rashid,R Powell,1,0,1,100,40,27,4,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-67,R Powell,AU Rashid,N Pooran,0,0,0,100,43,25,5,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-68,R Powell,AU Rashid,N Pooran,1,0,1,101,44,26,6,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-69,R Powell,GHS Garton,N Pooran,1,0,1,102,45,27,1,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-70,N Pooran,GHS Garton,R Powell,6,0,6,108,46,28,2,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-71,N Pooran,GHS Garton,R Powell,0,0,0,108,46,29,3,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-72,N Pooran,GHS Garton,R Powell,1,0,1,109,47,30,4,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-73,R Powell,GHS Garton,N Pooran,1,0,1,110,46,28,5,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-74,N Pooran,GHS Garton,R Powell,1,0,1,111,48,31,6,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-75,N Pooran,AU Rashid,R Powell,0,0,0,111,48,32,1,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-76,N Pooran,AU Rashid,R Powell,0,0,0,111,48,33,2,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-77,N Pooran,AU Rashid,R Powell,1,0,1,112,49,34,3,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-78,R Powell,AU Rashid,N Pooran,1,0,1,113,47,29,4,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-79,N Pooran,AU Rashid,R Powell,1,0,1,114,50,35,5,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-80,R Powell,AU Rashid,N Pooran,0,0,0,114,47,30,6,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-81,N Pooran,LS Livingstone,R Powell,4,0,4,118,54,36,1,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-82,N Pooran,LS Livingstone,R Powell,1,0,1,119,55,37,2,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-83,R Powell,LS Livingstone,N Pooran,0,5,5,124,47,31,3,14,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-84,R Powell,LS Livingstone,N Pooran,6,0,6,130,53,32,4,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-85,R Powell,LS Livingstone,N Pooran,6,0,6,136,59,33,5,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-86,R Powell,LS Livingstone,N Pooran,0,0,0,136,59,34,6,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-87,R Powell,LS Livingstone,N Pooran,4,0,4,140,63,35,7,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-88,N Pooran,RJW Topley,R Powell,1,0,1,141,56,38,1,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-89,R Powell,RJW Topley,N Pooran,2,0,2,143,65,36,2,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-90,R Powell,RJW Topley,N Pooran,6,0,6,149,71,37,3,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-91,R Powell,RJW Topley,N Pooran,1,0,1,150,72,38,4,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-92,N Pooran,RJW Topley,R Powell,0,0,0,150,56,39,5,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-93,N Pooran,RJW Topley,R Powell,3,0,3,153,59,40,6,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-94,N Pooran,TS Mills,R Powell,6,0,6,159,65,41,1,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-95,N Pooran,TS Mills,R Powell,4,0,4,163,69,42,2,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-96,N Pooran,TS Mills,R Powell,1,0,1,164,70,43,3,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-97,R Powell,TS Mills,N Pooran,0,0,0,164,72,39,4,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-98,R Powell,TS Mills,N Pooran,4,0,4,168,76,40,5,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-99,R Powell,TS Mills,N Pooran,1,0,1,169,77,41,6,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-100,R Powell,AU Rashid,N Pooran,1,0,1,170,78,42,1,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-101,N Pooran,AU Rashid,R Powell,0,0,0,170,70,44,2,17,caught,N Pooran,LS Livingstone,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-102,R Shepherd,AU Rashid,R Powell,2,0,2,172,2,1,3,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-103,R Shepherd,AU Rashid,R Powell,6,0,6,178,8,2,4,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-104,R Shepherd,AU Rashid,R Powell,0,0,0,178,8,3,5,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-105,R Shepherd,AU Rashid,R Powell,2,0,2,180,10,4,6,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-106,R Powell,GHS Garton,R Shepherd,4,0,4,184,82,43,1,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-107,R Powell,GHS Garton,R Shepherd,0,0,0,184,82,44,2,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-108,R Powell,GHS Garton,R Shepherd,6,0,6,190,88,45,3,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-109,R Powell,GHS Garton,R Shepherd,6,0,6,196,94,46,4,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-110,R Powell,GHS Garton,R Shepherd,2,0,2,198,96,47,5,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-111,R Powell,GHS Garton,R Shepherd,1,0,1,199,97,48,6,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-112,R Powell,RJW Topley,R Shepherd,0,0,0,199,97,49,1,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-113,R Powell,RJW Topley,R Shepherd,0,0,0,199,97,50,2,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-114,R Powell,RJW Topley,R Shepherd,2,0,2,201,99,51,3,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-115,R Powell,RJW Topley,R Shepherd,2,0,2,203,101,52,4,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-116,R Powell,RJW Topley,R Shepherd,6,0,6,209,107,53,5,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-117,R Powell,RJW Topley,R Shepherd,0,1,1,210,107,54,6,19,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-118,R Powell,RJW Topley,R Shepherd,0,0,0,210,107,55,7,19,caught,R Powell,LS Livingstone,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-119,FA Allen,TS Mills,R Shepherd,0,0,0,210,0,1,1,20,caught,FA Allen,T Banton,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-120,R Shepherd,TS Mills,KA Pollard,1,0,1,211,11,5,2,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-121,KA Pollard,TS Mills,R Shepherd,0,4,4,215,0,1,3,20,0,,,legbyes,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-122,KA Pollard,TS Mills,R Shepherd,4,0,4,219,4,2,4,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-123,KA Pollard,TS Mills,R Shepherd,4,0,4,223,8,3,5,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
-124,KA Pollard,TS Mills,R Shepherd,1,0,1,224,9,4,6,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022-01-26,West Indies,West Indies,England
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
+0,BA King,RJW Topley,SD Hope,0,0,0,0,171,0,1,0,1,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+1,BA King,RJW Topley,SD Hope,1,0,1,1,170,1,2,0,2,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+2,SD Hope,RJW Topley,BA King,1,0,1,2,169,1,1,0,3,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+3,BA King,RJW Topley,SD Hope,0,0,0,2,169,1,3,0,4,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+4,BA King,RJW Topley,SD Hope,0,0,0,2,169,1,4,0,5,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+5,BA King,RJW Topley,SD Hope,1,0,1,3,168,2,5,0,6,1,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+6,BA King,GHS Garton,SD Hope,4,0,4,7,164,6,6,0,1,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+7,BA King,GHS Garton,SD Hope,0,0,0,7,164,6,7,0,2,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+8,BA King,GHS Garton,SD Hope,0,0,0,7,164,6,8,0,3,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+9,BA King,GHS Garton,SD Hope,4,0,4,11,160,10,9,0,4,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+10,BA King,GHS Garton,SD Hope,0,0,0,11,160,10,10,1,5,2,bowled,BA King,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+11,N Pooran,GHS Garton,SD Hope,1,0,1,12,159,1,1,1,6,2,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+12,N Pooran,RJW Topley,SD Hope,1,0,1,13,158,2,2,1,1,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+13,SD Hope,RJW Topley,N Pooran,1,0,1,14,157,2,2,1,2,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+14,N Pooran,RJW Topley,SD Hope,0,0,0,14,157,2,3,1,3,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+15,N Pooran,RJW Topley,SD Hope,0,0,0,14,157,2,4,1,4,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+16,N Pooran,RJW Topley,SD Hope,0,0,0,14,157,2,5,1,5,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+17,N Pooran,RJW Topley,SD Hope,1,0,1,15,156,3,6,1,6,3,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+18,N Pooran,GHS Garton,SD Hope,2,0,2,17,154,5,7,1,1,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+19,N Pooran,GHS Garton,SD Hope,0,1,1,18,153,5,8,1,2,4,0,,,noballs,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+20,N Pooran,GHS Garton,SD Hope,0,0,0,18,153,5,9,1,3,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+21,N Pooran,GHS Garton,SD Hope,6,0,6,24,147,11,10,1,4,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+22,N Pooran,GHS Garton,SD Hope,4,0,4,28,143,15,11,1,5,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+23,N Pooran,GHS Garton,SD Hope,6,0,6,34,137,21,12,1,6,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+24,N Pooran,GHS Garton,SD Hope,0,0,0,34,137,21,13,1,7,4,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+25,SD Hope,TS Mills,N Pooran,1,0,1,35,136,3,3,1,1,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+26,N Pooran,TS Mills,SD Hope,4,0,4,39,132,25,14,1,2,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+27,N Pooran,TS Mills,SD Hope,0,0,0,39,132,25,15,1,3,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+28,N Pooran,TS Mills,SD Hope,6,0,6,45,126,31,16,1,4,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+29,N Pooran,TS Mills,SD Hope,0,1,1,46,125,31,17,1,5,5,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+30,N Pooran,TS Mills,SD Hope,1,0,1,47,124,32,18,1,6,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+31,SD Hope,TS Mills,N Pooran,1,0,1,48,123,4,4,1,7,5,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+32,SD Hope,LS Livingstone,N Pooran,0,0,0,48,123,4,5,1,1,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+33,SD Hope,LS Livingstone,N Pooran,0,0,0,48,123,4,6,2,2,6,caught,SD Hope,T Banton,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+34,R Powell,LS Livingstone,N Pooran,0,0,0,48,123,0,1,2,3,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+35,R Powell,LS Livingstone,N Pooran,6,0,6,54,117,6,2,2,4,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+36,R Powell,LS Livingstone,N Pooran,0,0,0,54,117,6,3,2,5,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+37,R Powell,LS Livingstone,N Pooran,0,0,0,54,117,6,4,2,6,6,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+38,N Pooran,AU Rashid,R Powell,1,0,1,55,116,33,19,2,1,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+39,R Powell,AU Rashid,N Pooran,2,0,2,57,114,8,5,2,2,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+40,R Powell,AU Rashid,N Pooran,0,0,0,57,114,8,6,2,3,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+41,R Powell,AU Rashid,N Pooran,2,0,2,59,112,10,7,2,4,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+42,R Powell,AU Rashid,N Pooran,0,0,0,59,112,10,8,2,5,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+43,R Powell,AU Rashid,N Pooran,1,0,1,60,111,11,9,2,6,7,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+44,R Powell,LS Livingstone,N Pooran,0,0,0,60,111,11,10,2,1,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+45,R Powell,LS Livingstone,N Pooran,6,0,6,66,105,17,11,2,2,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+46,R Powell,LS Livingstone,N Pooran,1,0,1,67,104,18,12,2,3,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+47,N Pooran,LS Livingstone,R Powell,1,0,1,68,103,34,20,2,4,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+48,R Powell,LS Livingstone,N Pooran,1,0,1,69,102,19,13,2,5,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+49,N Pooran,LS Livingstone,R Powell,1,0,1,70,101,35,21,2,6,8,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+50,N Pooran,MM Ali,R Powell,1,0,1,71,100,36,22,2,1,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+51,R Powell,MM Ali,N Pooran,0,0,0,71,100,19,14,2,2,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+52,R Powell,MM Ali,N Pooran,6,0,6,77,94,25,15,2,3,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+53,R Powell,MM Ali,N Pooran,4,0,4,81,90,29,16,2,4,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+54,R Powell,MM Ali,N Pooran,2,0,2,83,88,31,17,2,5,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+55,R Powell,MM Ali,N Pooran,1,0,1,84,87,32,18,2,6,9,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+56,R Powell,TS Mills,N Pooran,0,1,1,85,86,32,19,2,1,10,0,,,noballs,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+57,R Powell,TS Mills,N Pooran,6,0,6,91,80,38,20,2,2,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+58,R Powell,TS Mills,N Pooran,1,0,1,92,79,39,21,2,3,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+59,N Pooran,TS Mills,R Powell,2,0,2,94,77,38,23,2,4,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+60,N Pooran,TS Mills,R Powell,1,0,1,95,76,39,24,2,5,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+61,R Powell,TS Mills,N Pooran,0,0,0,95,76,39,22,2,6,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+62,R Powell,TS Mills,N Pooran,1,0,1,96,75,40,23,2,7,10,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+63,R Powell,AU Rashid,N Pooran,3,0,3,99,72,43,24,2,1,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+64,N Pooran,AU Rashid,R Powell,0,0,0,99,72,39,25,2,2,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+65,N Pooran,AU Rashid,R Powell,0,0,0,99,72,39,26,2,3,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+66,N Pooran,AU Rashid,R Powell,1,0,1,100,71,40,27,2,4,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+67,R Powell,AU Rashid,N Pooran,0,0,0,100,71,43,25,2,5,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+68,R Powell,AU Rashid,N Pooran,1,0,1,101,70,44,26,2,6,11,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+69,R Powell,GHS Garton,N Pooran,1,0,1,102,69,45,27,2,1,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+70,N Pooran,GHS Garton,R Powell,6,0,6,108,63,46,28,2,2,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+71,N Pooran,GHS Garton,R Powell,0,0,0,108,63,46,29,2,3,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+72,N Pooran,GHS Garton,R Powell,1,0,1,109,62,47,30,2,4,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+73,R Powell,GHS Garton,N Pooran,1,0,1,110,61,46,28,2,5,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+74,N Pooran,GHS Garton,R Powell,1,0,1,111,60,48,31,2,6,12,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+75,N Pooran,AU Rashid,R Powell,0,0,0,111,60,48,32,2,1,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+76,N Pooran,AU Rashid,R Powell,0,0,0,111,60,48,33,2,2,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+77,N Pooran,AU Rashid,R Powell,1,0,1,112,59,49,34,2,3,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+78,R Powell,AU Rashid,N Pooran,1,0,1,113,58,47,29,2,4,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+79,N Pooran,AU Rashid,R Powell,1,0,1,114,57,50,35,2,5,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+80,R Powell,AU Rashid,N Pooran,0,0,0,114,57,47,30,2,6,13,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+81,N Pooran,LS Livingstone,R Powell,4,0,4,118,53,54,36,2,1,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+82,N Pooran,LS Livingstone,R Powell,1,0,1,119,52,55,37,2,2,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+83,R Powell,LS Livingstone,N Pooran,0,5,5,124,47,47,31,2,3,14,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+84,R Powell,LS Livingstone,N Pooran,6,0,6,130,41,53,32,2,4,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+85,R Powell,LS Livingstone,N Pooran,6,0,6,136,35,59,33,2,5,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+86,R Powell,LS Livingstone,N Pooran,0,0,0,136,35,59,34,2,6,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+87,R Powell,LS Livingstone,N Pooran,4,0,4,140,31,63,35,2,7,14,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+88,N Pooran,RJW Topley,R Powell,1,0,1,141,30,56,38,2,1,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+89,R Powell,RJW Topley,N Pooran,2,0,2,143,28,65,36,2,2,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+90,R Powell,RJW Topley,N Pooran,6,0,6,149,22,71,37,2,3,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+91,R Powell,RJW Topley,N Pooran,1,0,1,150,21,72,38,2,4,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+92,N Pooran,RJW Topley,R Powell,0,0,0,150,21,56,39,2,5,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+93,N Pooran,RJW Topley,R Powell,3,0,3,153,18,59,40,2,6,15,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+94,N Pooran,TS Mills,R Powell,6,0,6,159,12,65,41,2,1,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+95,N Pooran,TS Mills,R Powell,4,0,4,163,8,69,42,2,2,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+96,N Pooran,TS Mills,R Powell,1,0,1,164,7,70,43,2,3,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+97,R Powell,TS Mills,N Pooran,0,0,0,164,7,72,39,2,4,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+98,R Powell,TS Mills,N Pooran,4,0,4,168,3,76,40,2,5,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+99,R Powell,TS Mills,N Pooran,1,0,1,169,2,77,41,2,6,16,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+100,R Powell,AU Rashid,N Pooran,1,0,1,170,1,78,42,2,1,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+101,N Pooran,AU Rashid,R Powell,0,0,0,170,1,70,44,3,2,17,caught,N Pooran,LS Livingstone,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+102,R Shepherd,AU Rashid,R Powell,2,0,2,172,-1,2,1,3,3,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+103,R Shepherd,AU Rashid,R Powell,6,0,6,178,-7,8,2,3,4,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+104,R Shepherd,AU Rashid,R Powell,0,0,0,178,-7,8,3,3,5,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+105,R Shepherd,AU Rashid,R Powell,2,0,2,180,-9,10,4,3,6,17,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+106,R Powell,GHS Garton,R Shepherd,4,0,4,184,-13,82,43,3,1,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+107,R Powell,GHS Garton,R Shepherd,0,0,0,184,-13,82,44,3,2,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+108,R Powell,GHS Garton,R Shepherd,6,0,6,190,-19,88,45,3,3,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+109,R Powell,GHS Garton,R Shepherd,6,0,6,196,-25,94,46,3,4,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+110,R Powell,GHS Garton,R Shepherd,2,0,2,198,-27,96,47,3,5,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+111,R Powell,GHS Garton,R Shepherd,1,0,1,199,-28,97,48,3,6,18,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+112,R Powell,RJW Topley,R Shepherd,0,0,0,199,-28,97,49,3,1,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+113,R Powell,RJW Topley,R Shepherd,0,0,0,199,-28,97,50,3,2,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+114,R Powell,RJW Topley,R Shepherd,2,0,2,201,-30,99,51,3,3,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+115,R Powell,RJW Topley,R Shepherd,2,0,2,203,-32,101,52,3,4,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+116,R Powell,RJW Topley,R Shepherd,6,0,6,209,-38,107,53,3,5,19,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+117,R Powell,RJW Topley,R Shepherd,0,1,1,210,-39,107,54,3,6,19,0,,,wides,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+118,R Powell,RJW Topley,R Shepherd,0,0,0,210,-39,107,55,4,7,19,caught,R Powell,LS Livingstone,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+119,FA Allen,TS Mills,R Shepherd,0,0,0,210,-39,0,1,5,1,20,caught,FA Allen,T Banton,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+120,R Shepherd,TS Mills,KA Pollard,1,0,1,211,-40,11,5,5,2,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+121,KA Pollard,TS Mills,R Shepherd,0,4,4,215,-44,0,1,5,3,20,0,,,legbyes,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+122,KA Pollard,TS Mills,R Shepherd,4,0,4,219,-48,4,2,5,4,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+123,KA Pollard,TS Mills,R Shepherd,4,0,4,223,-52,8,3,5,5,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
+124,KA Pollard,TS Mills,R Shepherd,1,0,1,224,-53,9,4,5,6,20,0,,,-,field,England,1,"Kensington Oval, Bridgetown, Barbados",2022,01,West Indies_England_2022-01-26,West Indies,West Indies,England
