@@ -1,85 +1,85 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,MN van Wyk,DBL Powell,HH Gibbs,0,0,0,0,0,1,1,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-1,MN van Wyk,DBL Powell,HH Gibbs,0,0,0,0,0,2,2,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-2,MN van Wyk,DBL Powell,HH Gibbs,1,0,1,1,1,3,3,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-3,HH Gibbs,DBL Powell,MN van Wyk,0,0,0,1,0,1,4,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-4,HH Gibbs,DBL Powell,MN van Wyk,0,0,0,1,0,2,5,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-5,HH Gibbs,DBL Powell,MN van Wyk,0,4,4,5,0,3,6,legbyes,1,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-6,MN van Wyk,JE Taylor,HH Gibbs,0,0,0,5,1,4,1,-,2,lbw,MN van Wyk,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-7,JP Duminy,JE Taylor,HH Gibbs,0,0,0,5,0,1,2,-,2,bowled,JP Duminy,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-8,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,1,3,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-9,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,2,4,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-10,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,3,5,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-11,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,4,6,-,2,bowled,AB de Villiers,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-12,HH Gibbs,DBL Powell,GH Bodi,0,0,0,5,0,4,1,-,3,caught,HH Gibbs,S Chanderpaul,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-13,SM Pollock,DBL Powell,GH Bodi,1,0,1,6,1,1,2,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-14,GH Bodi,DBL Powell,SM Pollock,0,1,1,7,0,1,3,wides,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-15,GH Bodi,DBL Powell,SM Pollock,0,0,0,7,0,2,4,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-16,GH Bodi,DBL Powell,SM Pollock,1,0,1,8,1,3,5,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-17,SM Pollock,DBL Powell,GH Bodi,0,0,0,8,1,2,6,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-18,SM Pollock,DBL Powell,GH Bodi,0,0,0,8,1,3,7,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-19,GH Bodi,JE Taylor,SM Pollock,1,0,1,9,2,4,1,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-20,SM Pollock,JE Taylor,GH Bodi,0,0,0,9,1,4,2,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-21,SM Pollock,JE Taylor,GH Bodi,1,0,1,10,2,5,3,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-22,GH Bodi,JE Taylor,SM Pollock,0,0,0,10,2,5,4,-,4,run out,SM Pollock,RS Morton,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-23,JA Morkel,JE Taylor,GH Bodi,0,0,0,10,0,1,5,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-24,JA Morkel,JE Taylor,GH Bodi,0,0,0,10,0,2,6,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-25,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,6,1,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-26,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,7,2,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-27,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,8,3,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-28,GH Bodi,DBL Powell,JA Morkel,1,0,1,11,3,9,4,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-29,JA Morkel,DBL Powell,GH Bodi,1,0,1,12,1,3,5,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-30,GH Bodi,DBL Powell,JA Morkel,0,0,0,12,3,10,6,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-31,JA Morkel,JE Taylor,GH Bodi,0,0,0,12,1,4,1,-,6,run out,JA Morkel,DJ Bravo,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-32,GH Bodi,JE Taylor,VD Philander,0,0,0,12,3,11,2,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-33,GH Bodi,JE Taylor,VD Philander,1,0,1,13,4,12,3,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-34,VD Philander,JE Taylor,GH Bodi,1,0,1,14,1,1,4,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-35,GH Bodi,JE Taylor,VD Philander,0,1,1,15,4,13,5,wides,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-36,GH Bodi,JE Taylor,VD Philander,1,0,1,16,5,14,6,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-37,VD Philander,JE Taylor,GH Bodi,0,0,0,16,1,2,7,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-38,GH Bodi,DJ Bravo,VD Philander,0,0,0,16,5,15,1,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-39,GH Bodi,DJ Bravo,VD Philander,1,0,1,17,6,16,2,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-40,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,3,3,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-41,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,4,4,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-42,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,5,5,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-43,VD Philander,DJ Bravo,GH Bodi,1,0,1,18,2,6,6,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-44,VD Philander,FH Edwards,GH Bodi,0,1,1,19,2,7,1,wides,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-45,VD Philander,FH Edwards,GH Bodi,0,1,1,20,2,8,2,noballs,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-46,VD Philander,FH Edwards,GH Bodi,2,0,2,22,4,9,3,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-47,VD Philander,FH Edwards,GH Bodi,0,0,0,22,4,10,4,-,8,lbw,VD Philander,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-48,J Botha,FH Edwards,GH Bodi,0,0,0,22,0,1,5,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-49,J Botha,FH Edwards,GH Bodi,1,0,1,23,1,2,6,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-50,GH Bodi,FH Edwards,J Botha,0,0,0,23,6,17,7,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-51,GH Bodi,FH Edwards,J Botha,0,0,0,23,6,18,8,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-52,J Botha,DJG Sammy,GH Bodi,0,0,0,23,1,3,1,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-53,J Botha,DJG Sammy,GH Bodi,0,0,0,23,1,4,2,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-54,J Botha,DJG Sammy,GH Bodi,1,0,1,24,2,5,3,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-55,GH Bodi,DJG Sammy,J Botha,1,0,1,25,7,19,4,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-56,J Botha,DJG Sammy,GH Bodi,0,0,0,25,2,6,5,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-57,J Botha,DJG Sammy,GH Bodi,0,0,0,25,2,7,6,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-58,GH Bodi,FH Edwards,J Botha,0,0,0,25,7,20,1,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-59,GH Bodi,FH Edwards,J Botha,0,0,0,25,7,21,2,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-60,GH Bodi,FH Edwards,J Botha,1,0,1,26,8,22,3,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-61,J Botha,FH Edwards,GH Bodi,1,0,1,27,3,8,4,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-62,GH Bodi,FH Edwards,J Botha,0,0,0,27,8,23,5,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-63,GH Bodi,FH Edwards,J Botha,0,1,1,28,8,24,6,wides,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-64,GH Bodi,FH Edwards,J Botha,0,0,0,28,8,25,7,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-65,J Botha,DJG Sammy,GH Bodi,6,0,6,34,9,9,1,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-66,J Botha,DJG Sammy,GH Bodi,0,1,1,35,9,10,2,legbyes,11,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-67,GH Bodi,DJG Sammy,J Botha,0,1,1,36,8,26,3,legbyes,11,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-68,J Botha,DJG Sammy,GH Bodi,1,0,1,37,10,11,4,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-69,GH Bodi,DJG Sammy,J Botha,0,0,0,37,8,27,5,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-70,GH Bodi,DJG Sammy,J Botha,0,0,0,37,8,28,6,-,11,bowled,GH Bodi,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-71,J Botha,FH Edwards,DW Steyn,0,0,0,37,10,12,1,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-72,J Botha,FH Edwards,DW Steyn,0,0,0,37,10,13,2,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-73,J Botha,FH Edwards,DW Steyn,4,0,4,41,14,14,3,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-74,J Botha,FH Edwards,DW Steyn,0,0,0,41,14,15,4,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-75,J Botha,FH Edwards,DW Steyn,0,0,0,41,14,16,5,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-76,J Botha,FH Edwards,DW Steyn,0,1,1,42,14,17,6,wides,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-77,J Botha,FH Edwards,DW Steyn,1,0,1,43,15,18,7,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-78,J Botha,DJ Bravo,DW Steyn,1,0,1,44,16,19,1,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-79,DW Steyn,DJ Bravo,J Botha,1,0,1,45,1,1,2,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-80,J Botha,DJ Bravo,DW Steyn,4,0,4,49,20,20,3,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-81,J Botha,DJ Bravo,DW Steyn,2,0,2,51,22,21,4,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-82,J Botha,DJ Bravo,DW Steyn,6,0,6,57,28,22,5,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
-83,J Botha,DJ Bravo,DW Steyn,0,1,1,58,28,23,6,legbyes,13,0,,,field,West Indies,1,St George's Park,2007-12-16,South Africa,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,MN van Wyk,DBL Powell,HH Gibbs,0,0,0,0,0,1,1,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+1,MN van Wyk,DBL Powell,HH Gibbs,0,0,0,0,0,2,2,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+2,MN van Wyk,DBL Powell,HH Gibbs,1,0,1,1,1,3,3,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+3,HH Gibbs,DBL Powell,MN van Wyk,0,0,0,1,0,1,4,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+4,HH Gibbs,DBL Powell,MN van Wyk,0,0,0,1,0,2,5,-,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+5,HH Gibbs,DBL Powell,MN van Wyk,0,4,4,5,0,3,6,legbyes,1,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+6,MN van Wyk,JE Taylor,HH Gibbs,0,0,0,5,1,4,1,-,2,lbw,MN van Wyk,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+7,JP Duminy,JE Taylor,HH Gibbs,0,0,0,5,0,1,2,-,2,bowled,JP Duminy,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+8,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,1,3,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+9,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,2,4,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+10,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,3,5,-,2,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+11,AB de Villiers,JE Taylor,HH Gibbs,0,0,0,5,0,4,6,-,2,bowled,AB de Villiers,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+12,HH Gibbs,DBL Powell,GH Bodi,0,0,0,5,0,4,1,-,3,caught,HH Gibbs,S Chanderpaul,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+13,SM Pollock,DBL Powell,GH Bodi,1,0,1,6,1,1,2,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+14,GH Bodi,DBL Powell,SM Pollock,0,1,1,7,0,1,3,wides,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+15,GH Bodi,DBL Powell,SM Pollock,0,0,0,7,0,2,4,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+16,GH Bodi,DBL Powell,SM Pollock,1,0,1,8,1,3,5,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+17,SM Pollock,DBL Powell,GH Bodi,0,0,0,8,1,2,6,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+18,SM Pollock,DBL Powell,GH Bodi,0,0,0,8,1,3,7,-,3,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+19,GH Bodi,JE Taylor,SM Pollock,1,0,1,9,2,4,1,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+20,SM Pollock,JE Taylor,GH Bodi,0,0,0,9,1,4,2,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+21,SM Pollock,JE Taylor,GH Bodi,1,0,1,10,2,5,3,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+22,GH Bodi,JE Taylor,SM Pollock,0,0,0,10,2,5,4,-,4,run out,SM Pollock,RS Morton,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+23,JA Morkel,JE Taylor,GH Bodi,0,0,0,10,0,1,5,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+24,JA Morkel,JE Taylor,GH Bodi,0,0,0,10,0,2,6,-,4,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+25,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,6,1,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+26,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,7,2,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+27,GH Bodi,DBL Powell,JA Morkel,0,0,0,10,2,8,3,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+28,GH Bodi,DBL Powell,JA Morkel,1,0,1,11,3,9,4,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+29,JA Morkel,DBL Powell,GH Bodi,1,0,1,12,1,3,5,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+30,GH Bodi,DBL Powell,JA Morkel,0,0,0,12,3,10,6,-,5,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+31,JA Morkel,JE Taylor,GH Bodi,0,0,0,12,1,4,1,-,6,run out,JA Morkel,DJ Bravo,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+32,GH Bodi,JE Taylor,VD Philander,0,0,0,12,3,11,2,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+33,GH Bodi,JE Taylor,VD Philander,1,0,1,13,4,12,3,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+34,VD Philander,JE Taylor,GH Bodi,1,0,1,14,1,1,4,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+35,GH Bodi,JE Taylor,VD Philander,0,1,1,15,4,13,5,wides,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+36,GH Bodi,JE Taylor,VD Philander,1,0,1,16,5,14,6,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+37,VD Philander,JE Taylor,GH Bodi,0,0,0,16,1,2,7,-,6,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+38,GH Bodi,DJ Bravo,VD Philander,0,0,0,16,5,15,1,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+39,GH Bodi,DJ Bravo,VD Philander,1,0,1,17,6,16,2,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+40,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,3,3,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+41,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,4,4,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+42,VD Philander,DJ Bravo,GH Bodi,0,0,0,17,1,5,5,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+43,VD Philander,DJ Bravo,GH Bodi,1,0,1,18,2,6,6,-,7,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+44,VD Philander,FH Edwards,GH Bodi,0,1,1,19,2,7,1,wides,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+45,VD Philander,FH Edwards,GH Bodi,0,1,1,20,2,8,2,noballs,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+46,VD Philander,FH Edwards,GH Bodi,2,0,2,22,4,9,3,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+47,VD Philander,FH Edwards,GH Bodi,0,0,0,22,4,10,4,-,8,lbw,VD Philander,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+48,J Botha,FH Edwards,GH Bodi,0,0,0,22,0,1,5,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+49,J Botha,FH Edwards,GH Bodi,1,0,1,23,1,2,6,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+50,GH Bodi,FH Edwards,J Botha,0,0,0,23,6,17,7,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+51,GH Bodi,FH Edwards,J Botha,0,0,0,23,6,18,8,-,8,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+52,J Botha,DJG Sammy,GH Bodi,0,0,0,23,1,3,1,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+53,J Botha,DJG Sammy,GH Bodi,0,0,0,23,1,4,2,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+54,J Botha,DJG Sammy,GH Bodi,1,0,1,24,2,5,3,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+55,GH Bodi,DJG Sammy,J Botha,1,0,1,25,7,19,4,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+56,J Botha,DJG Sammy,GH Bodi,0,0,0,25,2,6,5,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+57,J Botha,DJG Sammy,GH Bodi,0,0,0,25,2,7,6,-,9,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+58,GH Bodi,FH Edwards,J Botha,0,0,0,25,7,20,1,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+59,GH Bodi,FH Edwards,J Botha,0,0,0,25,7,21,2,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+60,GH Bodi,FH Edwards,J Botha,1,0,1,26,8,22,3,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+61,J Botha,FH Edwards,GH Bodi,1,0,1,27,3,8,4,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+62,GH Bodi,FH Edwards,J Botha,0,0,0,27,8,23,5,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+63,GH Bodi,FH Edwards,J Botha,0,1,1,28,8,24,6,wides,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+64,GH Bodi,FH Edwards,J Botha,0,0,0,28,8,25,7,-,10,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+65,J Botha,DJG Sammy,GH Bodi,6,0,6,34,9,9,1,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+66,J Botha,DJG Sammy,GH Bodi,0,1,1,35,9,10,2,legbyes,11,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+67,GH Bodi,DJG Sammy,J Botha,0,1,1,36,8,26,3,legbyes,11,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+68,J Botha,DJG Sammy,GH Bodi,1,0,1,37,10,11,4,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+69,GH Bodi,DJG Sammy,J Botha,0,0,0,37,8,27,5,-,11,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+70,GH Bodi,DJG Sammy,J Botha,0,0,0,37,8,28,6,-,11,bowled,GH Bodi,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+71,J Botha,FH Edwards,DW Steyn,0,0,0,37,10,12,1,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+72,J Botha,FH Edwards,DW Steyn,0,0,0,37,10,13,2,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+73,J Botha,FH Edwards,DW Steyn,4,0,4,41,14,14,3,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+74,J Botha,FH Edwards,DW Steyn,0,0,0,41,14,15,4,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+75,J Botha,FH Edwards,DW Steyn,0,0,0,41,14,16,5,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+76,J Botha,FH Edwards,DW Steyn,0,1,1,42,14,17,6,wides,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+77,J Botha,FH Edwards,DW Steyn,1,0,1,43,15,18,7,-,12,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+78,J Botha,DJ Bravo,DW Steyn,1,0,1,44,16,19,1,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+79,DW Steyn,DJ Bravo,J Botha,1,0,1,45,1,1,2,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+80,J Botha,DJ Bravo,DW Steyn,4,0,4,49,20,20,3,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+81,J Botha,DJ Bravo,DW Steyn,2,0,2,51,22,21,4,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+82,J Botha,DJ Bravo,DW Steyn,6,0,6,57,28,22,5,-,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies
+83,J Botha,DJ Bravo,DW Steyn,0,1,1,58,28,23,6,legbyes,13,0,,,field,West Indies,1,St George's Park,2007-12-16,West Indies,South Africa,West Indies

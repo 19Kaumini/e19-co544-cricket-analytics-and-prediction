@@ -1,113 +1,113 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,GC Smith,NW Bracken,HH Dippenaar,0,0,0,0,0,1,1,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-1,GC Smith,NW Bracken,HH Dippenaar,4,0,4,4,4,2,2,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-2,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,3,3,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-3,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,4,4,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-4,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,5,5,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-5,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,6,6,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-6,HH Dippenaar,ML Lewis,GC Smith,0,0,0,4,0,1,1,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-7,HH Dippenaar,ML Lewis,GC Smith,0,0,0,4,0,2,2,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-8,HH Dippenaar,ML Lewis,GC Smith,1,0,1,5,1,3,3,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-9,GC Smith,ML Lewis,HH Dippenaar,2,0,2,7,6,7,4,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-10,GC Smith,ML Lewis,HH Dippenaar,0,0,0,7,6,8,5,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-11,GC Smith,ML Lewis,HH Dippenaar,0,0,0,7,6,9,6,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-12,HH Dippenaar,NW Bracken,GC Smith,0,0,0,7,1,4,1,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-13,HH Dippenaar,NW Bracken,GC Smith,0,0,0,7,1,5,2,3,caught,HH Dippenaar,BJ Haddin,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-14,HH Gibbs,NW Bracken,GC Smith,0,0,0,7,0,1,3,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-15,HH Gibbs,NW Bracken,GC Smith,0,0,0,7,0,2,4,3,caught,HH Gibbs,SR Clark,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-16,GC Smith,NW Bracken,MV Boucher,0,0,0,7,6,10,5,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-17,GC Smith,NW Bracken,MV Boucher,1,0,1,8,7,11,6,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-18,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,12,1,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-19,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,13,2,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-20,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,14,3,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-21,GC Smith,ML Lewis,MV Boucher,1,0,1,9,8,15,4,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-22,MV Boucher,ML Lewis,GC Smith,0,0,0,9,0,1,5,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-23,MV Boucher,ML Lewis,GC Smith,0,0,0,9,0,2,6,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-24,GC Smith,NW Bracken,MV Boucher,0,0,0,9,8,16,1,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-25,GC Smith,NW Bracken,MV Boucher,1,0,1,10,9,17,2,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-26,MV Boucher,NW Bracken,GC Smith,0,0,0,10,0,3,3,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-27,MV Boucher,NW Bracken,GC Smith,1,0,1,11,1,4,4,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-28,GC Smith,NW Bracken,MV Boucher,2,0,2,13,11,18,5,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-29,GC Smith,NW Bracken,MV Boucher,0,0,0,13,11,19,6,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-30,MV Boucher,ML Lewis,GC Smith,2,0,2,15,3,5,1,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-31,MV Boucher,ML Lewis,GC Smith,1,0,1,16,4,6,2,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-32,GC Smith,ML Lewis,MV Boucher,4,0,4,20,15,20,3,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-33,GC Smith,ML Lewis,MV Boucher,1,0,1,21,16,21,4,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-34,MV Boucher,ML Lewis,GC Smith,1,0,1,22,5,7,5,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-35,GC Smith,ML Lewis,MV Boucher,4,0,4,26,20,22,6,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-36,MV Boucher,SR Clark,GC Smith,1,0,1,27,6,8,1,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-37,GC Smith,SR Clark,MV Boucher,1,0,1,28,21,23,2,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-38,MV Boucher,SR Clark,GC Smith,4,0,4,32,10,9,3,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-39,MV Boucher,SR Clark,GC Smith,0,0,0,32,10,10,4,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-40,MV Boucher,SR Clark,GC Smith,4,0,4,36,14,11,5,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-41,MV Boucher,SR Clark,GC Smith,0,0,0,36,14,12,6,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-42,GC Smith,JR Hopes,MV Boucher,0,0,0,36,21,24,1,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-43,GC Smith,JR Hopes,MV Boucher,1,0,1,37,22,25,2,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-44,MV Boucher,JR Hopes,GC Smith,0,0,0,37,14,13,3,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-45,MV Boucher,JR Hopes,GC Smith,1,0,1,38,15,14,4,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-46,GC Smith,JR Hopes,MV Boucher,0,0,0,38,22,26,5,8,bowled,GC Smith,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-47,SM Pollock,JR Hopes,MV Boucher,1,0,1,39,1,1,6,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-48,SM Pollock,SR Clark,MV Boucher,0,0,0,39,1,2,1,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-49,SM Pollock,SR Clark,MV Boucher,0,0,0,39,1,3,2,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-50,SM Pollock,SR Clark,MV Boucher,2,0,2,41,3,4,3,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-51,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,5,4,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-52,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,6,5,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-53,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,7,6,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-54,MV Boucher,JR Hopes,SM Pollock,1,0,1,42,16,15,1,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-55,SM Pollock,JR Hopes,MV Boucher,1,0,1,43,4,8,2,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-56,MV Boucher,JR Hopes,SM Pollock,4,0,4,47,20,16,3,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-57,MV Boucher,JR Hopes,SM Pollock,0,0,0,47,20,17,4,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-58,MV Boucher,JR Hopes,SM Pollock,4,0,4,51,24,18,5,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-59,MV Boucher,JR Hopes,SM Pollock,1,0,1,52,25,19,6,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-60,MV Boucher,SR Clark,SM Pollock,4,0,4,56,29,20,1,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-61,MV Boucher,SR Clark,SM Pollock,0,0,0,56,29,21,2,11,caught,MV Boucher,BJ Haddin,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-62,SM Pollock,SR Clark,JH Kallis,1,0,1,57,5,9,3,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-63,JH Kallis,SR Clark,SM Pollock,0,0,0,57,0,1,4,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-64,JH Kallis,SR Clark,SM Pollock,0,0,0,57,0,2,5,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-65,JH Kallis,SR Clark,SM Pollock,2,0,2,59,2,3,6,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-66,SM Pollock,A Symonds,JH Kallis,4,0,4,63,9,10,1,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-67,SM Pollock,A Symonds,JH Kallis,1,0,1,64,10,11,2,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-68,JH Kallis,A Symonds,SM Pollock,6,0,6,70,8,4,3,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-69,JH Kallis,A Symonds,SM Pollock,1,0,1,71,9,5,4,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-70,SM Pollock,A Symonds,JH Kallis,1,0,1,72,11,12,5,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-71,JH Kallis,A Symonds,SM Pollock,1,0,1,73,10,6,6,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-72,JH Kallis,SR Clark,SM Pollock,0,0,0,73,10,7,1,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-73,JH Kallis,SR Clark,SM Pollock,1,0,1,74,11,8,2,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-74,SM Pollock,SR Clark,JH Kallis,4,0,4,78,15,13,3,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-75,SM Pollock,SR Clark,JH Kallis,6,0,6,84,21,14,4,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-76,SM Pollock,SR Clark,JH Kallis,1,0,1,85,22,15,5,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-77,JH Kallis,SR Clark,SM Pollock,4,0,4,89,15,9,6,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-78,SM Pollock,A Symonds,JH Kallis,0,1,1,90,22,16,1,14,0,,,wides,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-79,SM Pollock,A Symonds,JH Kallis,2,0,2,92,24,17,2,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-80,SM Pollock,A Symonds,JH Kallis,0,0,0,92,24,18,3,14,caught,SM Pollock,ML Lewis,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-81,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,10,4,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-82,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,11,5,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-83,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,12,6,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-84,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,13,7,14,run out,JH Kallis,RT Ponting,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-85,AJ Hall,JR Hopes,JA Rudolph,1,0,1,93,1,1,1,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-86,JA Rudolph,JR Hopes,AJ Hall,1,0,1,94,1,1,2,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-87,AJ Hall,JR Hopes,JA Rudolph,1,0,1,95,2,2,3,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-88,JA Rudolph,JR Hopes,AJ Hall,0,0,0,95,1,2,4,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-89,JA Rudolph,JR Hopes,AJ Hall,1,0,1,96,2,3,5,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-90,AJ Hall,JR Hopes,JA Rudolph,1,0,1,97,3,3,6,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-91,AJ Hall,A Symonds,JA Rudolph,0,0,0,97,3,4,1,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-92,AJ Hall,A Symonds,JA Rudolph,2,0,2,99,5,5,2,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-93,AJ Hall,A Symonds,JA Rudolph,0,0,0,99,5,6,3,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-94,AJ Hall,A Symonds,JA Rudolph,1,0,1,100,6,7,4,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-95,JA Rudolph,A Symonds,AJ Hall,1,0,1,101,3,4,5,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-96,AJ Hall,A Symonds,JA Rudolph,1,0,1,102,7,8,6,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-97,AJ Hall,JR Hopes,JA Rudolph,4,0,4,106,11,9,1,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-98,AJ Hall,JR Hopes,JA Rudolph,0,0,0,106,11,10,2,17,caught,AJ Hall,MEK Hussey,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-99,J Botha,JR Hopes,JA Rudolph,0,0,0,106,0,1,3,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-100,J Botha,JR Hopes,JA Rudolph,1,0,1,107,1,2,4,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-101,JA Rudolph,JR Hopes,J Botha,1,0,1,108,4,5,5,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-102,J Botha,JR Hopes,JA Rudolph,1,0,1,109,2,3,6,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-103,J Botha,A Symonds,JA Rudolph,0,0,0,109,2,4,1,18,caught,J Botha,SM Katich,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-104,GJP Kruger,A Symonds,JA Rudolph,2,0,2,111,2,1,2,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-105,GJP Kruger,A Symonds,JA Rudolph,0,0,0,111,2,2,3,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-106,GJP Kruger,A Symonds,JA Rudolph,0,0,0,111,2,3,4,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-107,GJP Kruger,A Symonds,JA Rudolph,1,0,1,112,3,4,5,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-108,JA Rudolph,A Symonds,GJP Kruger,1,0,1,113,5,6,6,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-109,JA Rudolph,ML Lewis,GJP Kruger,1,0,1,114,6,7,1,19,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-110,GJP Kruger,ML Lewis,JA Rudolph,0,0,0,114,3,5,2,19,caught,GJP Kruger,DR Martyn,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
-111,M Zondeki,ML Lewis,JA Rudolph,0,0,0,114,0,1,3,19,bowled,M Zondeki,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,South Africa,Australia
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,GC Smith,NW Bracken,HH Dippenaar,0,0,0,0,0,1,1,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+1,GC Smith,NW Bracken,HH Dippenaar,4,0,4,4,4,2,2,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+2,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,3,3,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+3,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,4,4,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+4,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,5,5,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+5,GC Smith,NW Bracken,HH Dippenaar,0,0,0,4,4,6,6,1,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+6,HH Dippenaar,ML Lewis,GC Smith,0,0,0,4,0,1,1,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+7,HH Dippenaar,ML Lewis,GC Smith,0,0,0,4,0,2,2,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+8,HH Dippenaar,ML Lewis,GC Smith,1,0,1,5,1,3,3,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+9,GC Smith,ML Lewis,HH Dippenaar,2,0,2,7,6,7,4,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+10,GC Smith,ML Lewis,HH Dippenaar,0,0,0,7,6,8,5,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+11,GC Smith,ML Lewis,HH Dippenaar,0,0,0,7,6,9,6,2,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+12,HH Dippenaar,NW Bracken,GC Smith,0,0,0,7,1,4,1,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+13,HH Dippenaar,NW Bracken,GC Smith,0,0,0,7,1,5,2,3,caught,HH Dippenaar,BJ Haddin,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+14,HH Gibbs,NW Bracken,GC Smith,0,0,0,7,0,1,3,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+15,HH Gibbs,NW Bracken,GC Smith,0,0,0,7,0,2,4,3,caught,HH Gibbs,SR Clark,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+16,GC Smith,NW Bracken,MV Boucher,0,0,0,7,6,10,5,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+17,GC Smith,NW Bracken,MV Boucher,1,0,1,8,7,11,6,3,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+18,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,12,1,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+19,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,13,2,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+20,GC Smith,ML Lewis,MV Boucher,0,0,0,8,7,14,3,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+21,GC Smith,ML Lewis,MV Boucher,1,0,1,9,8,15,4,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+22,MV Boucher,ML Lewis,GC Smith,0,0,0,9,0,1,5,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+23,MV Boucher,ML Lewis,GC Smith,0,0,0,9,0,2,6,4,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+24,GC Smith,NW Bracken,MV Boucher,0,0,0,9,8,16,1,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+25,GC Smith,NW Bracken,MV Boucher,1,0,1,10,9,17,2,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+26,MV Boucher,NW Bracken,GC Smith,0,0,0,10,0,3,3,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+27,MV Boucher,NW Bracken,GC Smith,1,0,1,11,1,4,4,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+28,GC Smith,NW Bracken,MV Boucher,2,0,2,13,11,18,5,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+29,GC Smith,NW Bracken,MV Boucher,0,0,0,13,11,19,6,5,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+30,MV Boucher,ML Lewis,GC Smith,2,0,2,15,3,5,1,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+31,MV Boucher,ML Lewis,GC Smith,1,0,1,16,4,6,2,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+32,GC Smith,ML Lewis,MV Boucher,4,0,4,20,15,20,3,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+33,GC Smith,ML Lewis,MV Boucher,1,0,1,21,16,21,4,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+34,MV Boucher,ML Lewis,GC Smith,1,0,1,22,5,7,5,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+35,GC Smith,ML Lewis,MV Boucher,4,0,4,26,20,22,6,6,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+36,MV Boucher,SR Clark,GC Smith,1,0,1,27,6,8,1,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+37,GC Smith,SR Clark,MV Boucher,1,0,1,28,21,23,2,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+38,MV Boucher,SR Clark,GC Smith,4,0,4,32,10,9,3,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+39,MV Boucher,SR Clark,GC Smith,0,0,0,32,10,10,4,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+40,MV Boucher,SR Clark,GC Smith,4,0,4,36,14,11,5,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+41,MV Boucher,SR Clark,GC Smith,0,0,0,36,14,12,6,7,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+42,GC Smith,JR Hopes,MV Boucher,0,0,0,36,21,24,1,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+43,GC Smith,JR Hopes,MV Boucher,1,0,1,37,22,25,2,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+44,MV Boucher,JR Hopes,GC Smith,0,0,0,37,14,13,3,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+45,MV Boucher,JR Hopes,GC Smith,1,0,1,38,15,14,4,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+46,GC Smith,JR Hopes,MV Boucher,0,0,0,38,22,26,5,8,bowled,GC Smith,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+47,SM Pollock,JR Hopes,MV Boucher,1,0,1,39,1,1,6,8,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+48,SM Pollock,SR Clark,MV Boucher,0,0,0,39,1,2,1,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+49,SM Pollock,SR Clark,MV Boucher,0,0,0,39,1,3,2,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+50,SM Pollock,SR Clark,MV Boucher,2,0,2,41,3,4,3,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+51,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,5,4,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+52,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,6,5,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+53,SM Pollock,SR Clark,MV Boucher,0,0,0,41,3,7,6,9,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+54,MV Boucher,JR Hopes,SM Pollock,1,0,1,42,16,15,1,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+55,SM Pollock,JR Hopes,MV Boucher,1,0,1,43,4,8,2,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+56,MV Boucher,JR Hopes,SM Pollock,4,0,4,47,20,16,3,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+57,MV Boucher,JR Hopes,SM Pollock,0,0,0,47,20,17,4,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+58,MV Boucher,JR Hopes,SM Pollock,4,0,4,51,24,18,5,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+59,MV Boucher,JR Hopes,SM Pollock,1,0,1,52,25,19,6,10,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+60,MV Boucher,SR Clark,SM Pollock,4,0,4,56,29,20,1,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+61,MV Boucher,SR Clark,SM Pollock,0,0,0,56,29,21,2,11,caught,MV Boucher,BJ Haddin,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+62,SM Pollock,SR Clark,JH Kallis,1,0,1,57,5,9,3,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+63,JH Kallis,SR Clark,SM Pollock,0,0,0,57,0,1,4,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+64,JH Kallis,SR Clark,SM Pollock,0,0,0,57,0,2,5,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+65,JH Kallis,SR Clark,SM Pollock,2,0,2,59,2,3,6,11,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+66,SM Pollock,A Symonds,JH Kallis,4,0,4,63,9,10,1,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+67,SM Pollock,A Symonds,JH Kallis,1,0,1,64,10,11,2,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+68,JH Kallis,A Symonds,SM Pollock,6,0,6,70,8,4,3,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+69,JH Kallis,A Symonds,SM Pollock,1,0,1,71,9,5,4,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+70,SM Pollock,A Symonds,JH Kallis,1,0,1,72,11,12,5,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+71,JH Kallis,A Symonds,SM Pollock,1,0,1,73,10,6,6,12,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+72,JH Kallis,SR Clark,SM Pollock,0,0,0,73,10,7,1,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+73,JH Kallis,SR Clark,SM Pollock,1,0,1,74,11,8,2,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+74,SM Pollock,SR Clark,JH Kallis,4,0,4,78,15,13,3,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+75,SM Pollock,SR Clark,JH Kallis,6,0,6,84,21,14,4,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+76,SM Pollock,SR Clark,JH Kallis,1,0,1,85,22,15,5,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+77,JH Kallis,SR Clark,SM Pollock,4,0,4,89,15,9,6,13,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+78,SM Pollock,A Symonds,JH Kallis,0,1,1,90,22,16,1,14,0,,,wides,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+79,SM Pollock,A Symonds,JH Kallis,2,0,2,92,24,17,2,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+80,SM Pollock,A Symonds,JH Kallis,0,0,0,92,24,18,3,14,caught,SM Pollock,ML Lewis,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+81,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,10,4,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+82,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,11,5,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+83,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,12,6,14,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+84,JH Kallis,A Symonds,JA Rudolph,0,0,0,92,15,13,7,14,run out,JH Kallis,RT Ponting,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+85,AJ Hall,JR Hopes,JA Rudolph,1,0,1,93,1,1,1,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+86,JA Rudolph,JR Hopes,AJ Hall,1,0,1,94,1,1,2,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+87,AJ Hall,JR Hopes,JA Rudolph,1,0,1,95,2,2,3,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+88,JA Rudolph,JR Hopes,AJ Hall,0,0,0,95,1,2,4,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+89,JA Rudolph,JR Hopes,AJ Hall,1,0,1,96,2,3,5,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+90,AJ Hall,JR Hopes,JA Rudolph,1,0,1,97,3,3,6,15,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+91,AJ Hall,A Symonds,JA Rudolph,0,0,0,97,3,4,1,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+92,AJ Hall,A Symonds,JA Rudolph,2,0,2,99,5,5,2,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+93,AJ Hall,A Symonds,JA Rudolph,0,0,0,99,5,6,3,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+94,AJ Hall,A Symonds,JA Rudolph,1,0,1,100,6,7,4,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+95,JA Rudolph,A Symonds,AJ Hall,1,0,1,101,3,4,5,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+96,AJ Hall,A Symonds,JA Rudolph,1,0,1,102,7,8,6,16,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+97,AJ Hall,JR Hopes,JA Rudolph,4,0,4,106,11,9,1,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+98,AJ Hall,JR Hopes,JA Rudolph,0,0,0,106,11,10,2,17,caught,AJ Hall,MEK Hussey,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+99,J Botha,JR Hopes,JA Rudolph,0,0,0,106,0,1,3,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+100,J Botha,JR Hopes,JA Rudolph,1,0,1,107,1,2,4,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+101,JA Rudolph,JR Hopes,J Botha,1,0,1,108,4,5,5,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+102,J Botha,JR Hopes,JA Rudolph,1,0,1,109,2,3,6,17,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+103,J Botha,A Symonds,JA Rudolph,0,0,0,109,2,4,1,18,caught,J Botha,SM Katich,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+104,GJP Kruger,A Symonds,JA Rudolph,2,0,2,111,2,1,2,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+105,GJP Kruger,A Symonds,JA Rudolph,0,0,0,111,2,2,3,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+106,GJP Kruger,A Symonds,JA Rudolph,0,0,0,111,2,3,4,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+107,GJP Kruger,A Symonds,JA Rudolph,1,0,1,112,3,4,5,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+108,JA Rudolph,A Symonds,GJP Kruger,1,0,1,113,5,6,6,18,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+109,JA Rudolph,ML Lewis,GJP Kruger,1,0,1,114,6,7,1,19,0,,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+110,GJP Kruger,ML Lewis,JA Rudolph,0,0,0,114,3,5,2,19,caught,GJP Kruger,DR Martyn,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia
+111,M Zondeki,ML Lewis,JA Rudolph,0,0,0,114,0,1,3,19,bowled,M Zondeki,,-,bat,Australia,2,"Brisbane Cricket Ground, Woolloongabba",2006-01-09,Australia,South Africa,Australia

@@ -1,72 +1,72 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,DA Warner,TA Boult,DJM Short,0,0,0,0,0,1,1,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-1,DA Warner,TA Boult,DJM Short,0,0,0,0,0,2,2,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-2,DA Warner,TA Boult,DJM Short,0,0,0,0,0,3,3,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-3,DA Warner,TA Boult,DJM Short,0,0,0,0,0,4,4,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-4,DA Warner,TA Boult,DJM Short,1,0,1,1,1,5,5,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-5,DJM Short,TA Boult,DA Warner,0,0,0,1,0,1,6,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-6,DA Warner,TG Southee,DJM Short,4,0,4,5,5,6,1,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-7,DA Warner,TG Southee,DJM Short,1,0,1,6,6,7,2,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-8,DJM Short,TG Southee,DA Warner,4,0,4,10,4,2,3,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-9,DJM Short,TG Southee,DA Warner,0,0,0,10,4,3,4,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-10,DJM Short,TG Southee,DA Warner,0,0,0,10,4,4,5,2,caught,DJM Short,LRPL Taylor,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-11,CA Lynn,TG Southee,DA Warner,0,0,0,10,0,1,6,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-12,DA Warner,TA Boult,CA Lynn,0,0,0,10,6,8,1,3,caught,DA Warner,TC Bruce,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-13,CA Lynn,TA Boult,GJ Maxwell,0,0,0,10,0,2,2,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-14,CA Lynn,TA Boult,GJ Maxwell,4,0,4,14,4,3,3,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-15,CA Lynn,TA Boult,GJ Maxwell,4,0,4,18,8,4,4,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-16,CA Lynn,TA Boult,GJ Maxwell,0,0,0,18,8,5,5,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-17,CA Lynn,TA Boult,GJ Maxwell,1,0,1,19,9,6,6,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-18,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,19,9,7,1,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-19,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,19,9,8,2,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-20,CA Lynn,MJ Santner,GJ Maxwell,4,0,4,23,13,9,3,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-21,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,23,13,10,4,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-22,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,23,13,11,5,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-23,CA Lynn,MJ Santner,GJ Maxwell,4,0,4,27,17,12,6,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-24,GJ Maxwell,TG Southee,CA Lynn,0,0,0,27,0,1,1,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-25,GJ Maxwell,TG Southee,CA Lynn,0,0,0,27,0,2,2,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-26,GJ Maxwell,TG Southee,CA Lynn,0,1,1,28,0,3,3,5,0,,,wides,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-27,GJ Maxwell,TG Southee,CA Lynn,2,0,2,30,2,4,4,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-28,GJ Maxwell,TG Southee,CA Lynn,2,0,2,32,4,5,5,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-29,GJ Maxwell,TG Southee,CA Lynn,0,0,0,32,4,6,6,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-30,GJ Maxwell,TG Southee,CA Lynn,4,0,4,36,8,7,7,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-31,CA Lynn,IS Sodhi,GJ Maxwell,0,0,0,36,17,13,1,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-32,CA Lynn,IS Sodhi,GJ Maxwell,4,0,4,40,21,14,2,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-33,CA Lynn,IS Sodhi,GJ Maxwell,0,0,0,40,21,15,3,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-34,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,41,22,16,4,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-35,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,42,9,8,5,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-36,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,43,23,17,6,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-37,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,44,24,18,1,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-38,GJ Maxwell,C de Grandhomme,CA Lynn,6,0,6,50,15,9,2,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-39,GJ Maxwell,C de Grandhomme,CA Lynn,1,0,1,51,16,10,3,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-40,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,52,25,19,4,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-41,GJ Maxwell,C de Grandhomme,CA Lynn,1,0,1,53,17,11,5,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-42,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,54,26,20,6,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-43,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,55,27,21,1,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-44,GJ Maxwell,IS Sodhi,CA Lynn,0,0,0,55,17,12,2,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-45,GJ Maxwell,IS Sodhi,CA Lynn,0,0,0,55,17,13,3,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-46,GJ Maxwell,IS Sodhi,CA Lynn,2,0,2,57,19,14,4,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-47,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,58,20,15,5,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-48,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,59,28,22,6,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-49,CA Lynn,MJ Santner,GJ Maxwell,6,0,6,65,34,23,1,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-50,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,65,34,24,2,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-51,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,65,34,25,3,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-52,CA Lynn,MJ Santner,GJ Maxwell,1,0,1,66,35,26,4,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-53,GJ Maxwell,MJ Santner,CA Lynn,4,0,4,70,24,16,5,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-54,GJ Maxwell,MJ Santner,CA Lynn,1,0,1,71,25,17,6,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-55,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,72,26,18,1,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-56,CA Lynn,IS Sodhi,GJ Maxwell,4,0,4,76,39,27,2,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-57,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,77,40,28,3,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-58,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,78,27,19,4,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-59,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,79,41,29,5,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-60,GJ Maxwell,IS Sodhi,CA Lynn,4,0,4,83,31,20,6,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-61,CA Lynn,TA Boult,GJ Maxwell,0,0,0,83,41,30,1,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-62,CA Lynn,TA Boult,GJ Maxwell,1,0,1,84,42,31,2,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-63,GJ Maxwell,TA Boult,CA Lynn,0,0,0,84,31,21,3,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-64,GJ Maxwell,TA Boult,CA Lynn,1,0,1,85,32,22,4,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-65,CA Lynn,TA Boult,GJ Maxwell,2,0,2,87,44,32,5,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-66,CA Lynn,TA Boult,GJ Maxwell,0,0,0,87,44,33,6,11,caught,CA Lynn,IS Sodhi,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-67,GJ Maxwell,TG Southee,AT Carey,0,1,1,88,32,23,1,12,0,,,wides,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-68,GJ Maxwell,TG Southee,AT Carey,4,0,4,92,36,24,2,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-69,GJ Maxwell,TG Southee,AT Carey,0,0,0,92,36,25,3,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
-70,GJ Maxwell,TG Southee,AT Carey,4,0,4,96,40,26,4,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,DA Warner,TA Boult,DJM Short,0,0,0,0,0,1,1,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+1,DA Warner,TA Boult,DJM Short,0,0,0,0,0,2,2,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+2,DA Warner,TA Boult,DJM Short,0,0,0,0,0,3,3,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+3,DA Warner,TA Boult,DJM Short,0,0,0,0,0,4,4,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+4,DA Warner,TA Boult,DJM Short,1,0,1,1,1,5,5,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+5,DJM Short,TA Boult,DA Warner,0,0,0,1,0,1,6,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+6,DA Warner,TG Southee,DJM Short,4,0,4,5,5,6,1,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+7,DA Warner,TG Southee,DJM Short,1,0,1,6,6,7,2,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+8,DJM Short,TG Southee,DA Warner,4,0,4,10,4,2,3,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+9,DJM Short,TG Southee,DA Warner,0,0,0,10,4,3,4,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+10,DJM Short,TG Southee,DA Warner,0,0,0,10,4,4,5,2,caught,DJM Short,LRPL Taylor,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+11,CA Lynn,TG Southee,DA Warner,0,0,0,10,0,1,6,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+12,DA Warner,TA Boult,CA Lynn,0,0,0,10,6,8,1,3,caught,DA Warner,TC Bruce,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+13,CA Lynn,TA Boult,GJ Maxwell,0,0,0,10,0,2,2,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+14,CA Lynn,TA Boult,GJ Maxwell,4,0,4,14,4,3,3,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+15,CA Lynn,TA Boult,GJ Maxwell,4,0,4,18,8,4,4,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+16,CA Lynn,TA Boult,GJ Maxwell,0,0,0,18,8,5,5,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+17,CA Lynn,TA Boult,GJ Maxwell,1,0,1,19,9,6,6,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+18,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,19,9,7,1,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+19,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,19,9,8,2,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+20,CA Lynn,MJ Santner,GJ Maxwell,4,0,4,23,13,9,3,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+21,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,23,13,10,4,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+22,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,23,13,11,5,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+23,CA Lynn,MJ Santner,GJ Maxwell,4,0,4,27,17,12,6,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+24,GJ Maxwell,TG Southee,CA Lynn,0,0,0,27,0,1,1,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+25,GJ Maxwell,TG Southee,CA Lynn,0,0,0,27,0,2,2,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+26,GJ Maxwell,TG Southee,CA Lynn,0,1,1,28,0,3,3,5,0,,,wides,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+27,GJ Maxwell,TG Southee,CA Lynn,2,0,2,30,2,4,4,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+28,GJ Maxwell,TG Southee,CA Lynn,2,0,2,32,4,5,5,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+29,GJ Maxwell,TG Southee,CA Lynn,0,0,0,32,4,6,6,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+30,GJ Maxwell,TG Southee,CA Lynn,4,0,4,36,8,7,7,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+31,CA Lynn,IS Sodhi,GJ Maxwell,0,0,0,36,17,13,1,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+32,CA Lynn,IS Sodhi,GJ Maxwell,4,0,4,40,21,14,2,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+33,CA Lynn,IS Sodhi,GJ Maxwell,0,0,0,40,21,15,3,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+34,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,41,22,16,4,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+35,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,42,9,8,5,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+36,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,43,23,17,6,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+37,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,44,24,18,1,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+38,GJ Maxwell,C de Grandhomme,CA Lynn,6,0,6,50,15,9,2,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+39,GJ Maxwell,C de Grandhomme,CA Lynn,1,0,1,51,16,10,3,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+40,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,52,25,19,4,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+41,GJ Maxwell,C de Grandhomme,CA Lynn,1,0,1,53,17,11,5,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+42,CA Lynn,C de Grandhomme,GJ Maxwell,1,0,1,54,26,20,6,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+43,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,55,27,21,1,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+44,GJ Maxwell,IS Sodhi,CA Lynn,0,0,0,55,17,12,2,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+45,GJ Maxwell,IS Sodhi,CA Lynn,0,0,0,55,17,13,3,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+46,GJ Maxwell,IS Sodhi,CA Lynn,2,0,2,57,19,14,4,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+47,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,58,20,15,5,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+48,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,59,28,22,6,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+49,CA Lynn,MJ Santner,GJ Maxwell,6,0,6,65,34,23,1,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+50,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,65,34,24,2,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+51,CA Lynn,MJ Santner,GJ Maxwell,0,0,0,65,34,25,3,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+52,CA Lynn,MJ Santner,GJ Maxwell,1,0,1,66,35,26,4,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+53,GJ Maxwell,MJ Santner,CA Lynn,4,0,4,70,24,16,5,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+54,GJ Maxwell,MJ Santner,CA Lynn,1,0,1,71,25,17,6,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+55,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,72,26,18,1,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+56,CA Lynn,IS Sodhi,GJ Maxwell,4,0,4,76,39,27,2,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+57,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,77,40,28,3,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+58,GJ Maxwell,IS Sodhi,CA Lynn,1,0,1,78,27,19,4,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+59,CA Lynn,IS Sodhi,GJ Maxwell,1,0,1,79,41,29,5,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+60,GJ Maxwell,IS Sodhi,CA Lynn,4,0,4,83,31,20,6,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+61,CA Lynn,TA Boult,GJ Maxwell,0,0,0,83,41,30,1,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+62,CA Lynn,TA Boult,GJ Maxwell,1,0,1,84,42,31,2,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+63,GJ Maxwell,TA Boult,CA Lynn,0,0,0,84,31,21,3,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+64,GJ Maxwell,TA Boult,CA Lynn,1,0,1,85,32,22,4,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+65,CA Lynn,TA Boult,GJ Maxwell,2,0,2,87,44,32,5,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+66,CA Lynn,TA Boult,GJ Maxwell,0,0,0,87,44,33,6,11,caught,CA Lynn,IS Sodhi,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+67,GJ Maxwell,TG Southee,AT Carey,0,1,1,88,32,23,1,12,0,,,wides,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+68,GJ Maxwell,TG Southee,AT Carey,4,0,4,92,36,24,2,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+69,GJ Maxwell,TG Southee,AT Carey,0,0,0,92,36,25,3,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand
+70,GJ Maxwell,TG Southee,AT Carey,4,0,4,96,40,26,4,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2018-02-03,Australia,Australia,New Zealand

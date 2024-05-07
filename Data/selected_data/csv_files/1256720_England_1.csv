@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,1,1,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-1,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,2,2,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-2,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,3,3,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-3,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,4,4,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-4,JJ Roy,SS Cottrell,T Banton,6,0,6,6,6,5,5,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-5,JJ Roy,SS Cottrell,T Banton,0,0,0,6,6,6,6,bowled,JJ Roy,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-6,T Banton,JO Holder,JM Vince,0,0,0,6,0,1,1,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-7,T Banton,JO Holder,JM Vince,0,0,0,6,0,2,2,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-8,T Banton,JO Holder,JM Vince,0,0,0,6,0,3,3,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-9,T Banton,JO Holder,JM Vince,4,0,4,10,4,4,4,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-10,T Banton,JO Holder,JM Vince,0,0,0,10,4,5,5,caught,T Banton,N Pooran,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-11,MM Ali,JO Holder,JM Vince,0,0,0,10,0,1,6,caught,MM Ali,FA Allen,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-12,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,1,1,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-13,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,2,2,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-14,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,3,3,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-15,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,4,4,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-16,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,5,5,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-17,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,6,6,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-18,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,1,1,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-19,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,2,2,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-20,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,3,3,0,,,4,"{'by': 'England', 'umpire': 'JS Wilson', 'batter': 'EJG Morgan', 'decision': 'upheld'}",-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-21,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,4,4,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-22,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,5,5,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-23,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,6,6,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-24,JM Vince,SS Cottrell,EJG Morgan,4,0,4,14,4,7,1,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-25,JM Vince,SS Cottrell,EJG Morgan,4,0,4,18,8,8,2,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-26,JM Vince,SS Cottrell,EJG Morgan,0,0,0,18,8,9,3,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-27,JM Vince,SS Cottrell,EJG Morgan,0,0,0,18,8,10,4,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-28,JM Vince,SS Cottrell,EJG Morgan,6,0,6,24,14,11,5,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-29,JM Vince,SS Cottrell,EJG Morgan,0,0,0,24,14,12,6,caught,JM Vince,DM Bravo,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-30,EJG Morgan,JO Holder,SW Billings,0,0,0,24,0,7,1,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-31,EJG Morgan,JO Holder,SW Billings,0,0,0,24,0,8,2,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-32,EJG Morgan,JO Holder,SW Billings,1,0,1,25,1,9,3,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-33,SW Billings,JO Holder,EJG Morgan,1,0,1,26,1,1,4,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-34,EJG Morgan,JO Holder,SW Billings,0,0,0,26,1,10,5,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-35,EJG Morgan,JO Holder,SW Billings,0,0,0,26,1,11,6,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-36,SW Billings,AJ Hosein,EJG Morgan,1,0,1,27,2,2,1,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-37,EJG Morgan,AJ Hosein,SW Billings,0,0,0,27,1,12,2,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-38,EJG Morgan,AJ Hosein,SW Billings,0,0,0,27,1,13,3,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-39,EJG Morgan,AJ Hosein,SW Billings,0,1,1,28,1,14,4,0,,,7,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-40,EJG Morgan,AJ Hosein,SW Billings,1,0,1,29,2,15,5,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-41,SW Billings,AJ Hosein,EJG Morgan,0,0,0,29,2,3,6,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-42,SW Billings,AJ Hosein,EJG Morgan,0,0,0,29,2,4,7,stumped,SW Billings,SD Hope,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-43,EJG Morgan,R Shepherd,LA Dawson,0,1,1,30,2,16,1,0,,,8,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-44,EJG Morgan,R Shepherd,LA Dawson,0,1,1,31,2,17,2,0,,,8,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-45,EJG Morgan,R Shepherd,LA Dawson,1,0,1,32,3,18,3,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-46,LA Dawson,R Shepherd,EJG Morgan,0,0,0,32,0,1,4,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-47,LA Dawson,R Shepherd,EJG Morgan,1,0,1,33,1,2,5,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-48,EJG Morgan,R Shepherd,LA Dawson,1,0,1,34,4,19,6,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-49,LA Dawson,R Shepherd,EJG Morgan,0,0,0,34,1,3,7,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-50,LA Dawson,R Shepherd,EJG Morgan,0,0,0,34,1,4,8,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-51,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,20,1,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-52,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,21,2,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-53,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,22,3,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-54,EJG Morgan,AJ Hosein,LA Dawson,1,0,1,35,5,23,4,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-55,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,35,1,5,5,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-56,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,35,1,6,6,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-57,EJG Morgan,OF Smith,LA Dawson,0,0,0,35,5,24,1,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-58,EJG Morgan,OF Smith,LA Dawson,2,0,2,37,7,25,2,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-59,EJG Morgan,OF Smith,LA Dawson,0,0,0,37,7,26,3,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-60,EJG Morgan,OF Smith,LA Dawson,1,0,1,38,8,27,4,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-61,LA Dawson,OF Smith,EJG Morgan,0,0,0,38,1,7,5,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-62,LA Dawson,OF Smith,EJG Morgan,1,0,1,39,2,8,6,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-63,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,39,2,9,1,run out,LA Dawson,SD Hope;KA Pollard,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-64,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,39,0,1,2,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-65,CJ Jordan,AJ Hosein,EJG Morgan,1,0,1,40,1,2,3,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-66,EJG Morgan,AJ Hosein,CJ Jordan,1,0,1,41,9,28,4,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-67,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,41,1,3,5,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-68,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,41,1,4,6,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-69,EJG Morgan,R Shepherd,CJ Jordan,2,0,2,43,11,29,1,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-70,EJG Morgan,R Shepherd,CJ Jordan,0,0,0,43,11,30,2,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-71,EJG Morgan,R Shepherd,CJ Jordan,6,0,6,49,17,31,3,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-72,EJG Morgan,R Shepherd,CJ Jordan,0,0,0,49,17,32,4,caught,EJG Morgan,KA Pollard,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-73,AU Rashid,R Shepherd,CJ Jordan,0,0,0,49,0,1,5,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-74,AU Rashid,R Shepherd,CJ Jordan,0,0,0,49,0,2,6,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-75,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,49,1,5,1,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-76,CJ Jordan,AJ Hosein,AU Rashid,6,0,6,55,7,6,2,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-77,CJ Jordan,AJ Hosein,AU Rashid,2,0,2,57,9,7,3,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-78,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,57,9,8,4,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-79,CJ Jordan,AJ Hosein,AU Rashid,2,0,2,59,11,9,5,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-80,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,59,11,10,6,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-81,AU Rashid,R Shepherd,CJ Jordan,1,0,1,60,1,3,1,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-82,CJ Jordan,R Shepherd,AU Rashid,6,0,6,66,17,11,2,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-83,CJ Jordan,R Shepherd,AU Rashid,0,0,0,66,17,12,3,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-84,CJ Jordan,R Shepherd,AU Rashid,1,0,1,67,18,13,4,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-85,AU Rashid,R Shepherd,CJ Jordan,0,0,0,67,1,4,5,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-86,AU Rashid,R Shepherd,CJ Jordan,4,0,4,71,5,5,6,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-87,CJ Jordan,SS Cottrell,AU Rashid,0,0,0,71,18,14,1,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-88,CJ Jordan,SS Cottrell,AU Rashid,0,0,0,71,18,15,2,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-89,CJ Jordan,SS Cottrell,AU Rashid,1,0,1,72,19,16,3,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-90,AU Rashid,SS Cottrell,CJ Jordan,1,0,1,73,6,6,4,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-91,CJ Jordan,SS Cottrell,AU Rashid,2,0,2,75,21,17,5,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-92,CJ Jordan,SS Cottrell,AU Rashid,6,0,6,81,27,18,6,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-93,AU Rashid,KA Pollard,CJ Jordan,1,0,1,82,7,7,1,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-94,CJ Jordan,KA Pollard,AU Rashid,0,0,0,82,27,19,2,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-95,CJ Jordan,KA Pollard,AU Rashid,1,0,1,83,28,20,3,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-96,AU Rashid,KA Pollard,CJ Jordan,0,0,0,83,7,8,4,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-97,AU Rashid,KA Pollard,CJ Jordan,1,0,1,84,8,9,5,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-98,CJ Jordan,KA Pollard,AU Rashid,0,0,0,84,28,21,6,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-99,AU Rashid,FA Allen,CJ Jordan,1,0,1,85,9,10,1,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-100,CJ Jordan,FA Allen,AU Rashid,0,0,0,85,28,22,2,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-101,CJ Jordan,FA Allen,AU Rashid,0,0,0,85,28,23,3,caught,CJ Jordan,SS Cottrell,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-102,AU Rashid,FA Allen,S Mahmood,1,0,1,86,10,11,4,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-103,S Mahmood,FA Allen,AU Rashid,0,0,0,86,0,1,5,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-104,S Mahmood,FA Allen,AU Rashid,1,0,1,87,1,2,6,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-105,S Mahmood,KA Pollard,AU Rashid,0,0,0,87,1,3,1,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-106,S Mahmood,KA Pollard,AU Rashid,2,0,2,89,3,4,2,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-107,S Mahmood,KA Pollard,AU Rashid,0,0,0,89,3,5,3,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-108,S Mahmood,KA Pollard,AU Rashid,1,0,1,90,4,6,4,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-109,AU Rashid,KA Pollard,S Mahmood,4,0,4,94,14,12,5,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-110,AU Rashid,KA Pollard,S Mahmood,1,0,1,95,15,13,6,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-111,AU Rashid,FA Allen,S Mahmood,4,0,4,99,19,14,1,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-112,AU Rashid,FA Allen,S Mahmood,1,0,1,100,20,15,2,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-113,S Mahmood,FA Allen,AU Rashid,0,0,0,100,4,7,3,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-114,S Mahmood,FA Allen,AU Rashid,0,0,0,100,4,8,4,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-115,S Mahmood,FA Allen,AU Rashid,1,0,1,101,5,9,5,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-116,AU Rashid,FA Allen,S Mahmood,1,0,1,102,21,16,6,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-117,AU Rashid,JO Holder,S Mahmood,1,0,1,103,22,17,1,0,,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-118,S Mahmood,JO Holder,AU Rashid,0,0,0,103,5,10,2,0,,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-119,S Mahmood,JO Holder,AU Rashid,0,0,0,103,5,11,3,caught,S Mahmood,FA Allen,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
-120,AU Rashid,JO Holder,TS Mills,0,0,0,103,22,18,4,bowled,AU Rashid,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,England,West Indies
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,1,1,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+1,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,2,2,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+2,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,3,3,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+3,JJ Roy,SS Cottrell,T Banton,0,0,0,0,0,4,4,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+4,JJ Roy,SS Cottrell,T Banton,6,0,6,6,6,5,5,0,,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+5,JJ Roy,SS Cottrell,T Banton,0,0,0,6,6,6,6,bowled,JJ Roy,,1,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+6,T Banton,JO Holder,JM Vince,0,0,0,6,0,1,1,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+7,T Banton,JO Holder,JM Vince,0,0,0,6,0,2,2,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+8,T Banton,JO Holder,JM Vince,0,0,0,6,0,3,3,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+9,T Banton,JO Holder,JM Vince,4,0,4,10,4,4,4,0,,,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+10,T Banton,JO Holder,JM Vince,0,0,0,10,4,5,5,caught,T Banton,N Pooran,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+11,MM Ali,JO Holder,JM Vince,0,0,0,10,0,1,6,caught,MM Ali,FA Allen,2,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+12,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,1,1,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+13,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,2,2,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+14,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,3,3,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+15,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,4,4,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+16,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,5,5,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+17,JM Vince,SS Cottrell,EJG Morgan,0,0,0,10,0,6,6,0,,,3,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+18,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,1,1,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+19,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,2,2,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+20,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,3,3,0,,,4,"{'by': 'England', 'umpire': 'JS Wilson', 'batter': 'EJG Morgan', 'decision': 'upheld'}",-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+21,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,4,4,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+22,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,5,5,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+23,EJG Morgan,JO Holder,JM Vince,0,0,0,10,0,6,6,0,,,4,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+24,JM Vince,SS Cottrell,EJG Morgan,4,0,4,14,4,7,1,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+25,JM Vince,SS Cottrell,EJG Morgan,4,0,4,18,8,8,2,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+26,JM Vince,SS Cottrell,EJG Morgan,0,0,0,18,8,9,3,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+27,JM Vince,SS Cottrell,EJG Morgan,0,0,0,18,8,10,4,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+28,JM Vince,SS Cottrell,EJG Morgan,6,0,6,24,14,11,5,0,,,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+29,JM Vince,SS Cottrell,EJG Morgan,0,0,0,24,14,12,6,caught,JM Vince,DM Bravo,5,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+30,EJG Morgan,JO Holder,SW Billings,0,0,0,24,0,7,1,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+31,EJG Morgan,JO Holder,SW Billings,0,0,0,24,0,8,2,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+32,EJG Morgan,JO Holder,SW Billings,1,0,1,25,1,9,3,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+33,SW Billings,JO Holder,EJG Morgan,1,0,1,26,1,1,4,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+34,EJG Morgan,JO Holder,SW Billings,0,0,0,26,1,10,5,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+35,EJG Morgan,JO Holder,SW Billings,0,0,0,26,1,11,6,0,,,6,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+36,SW Billings,AJ Hosein,EJG Morgan,1,0,1,27,2,2,1,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+37,EJG Morgan,AJ Hosein,SW Billings,0,0,0,27,1,12,2,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+38,EJG Morgan,AJ Hosein,SW Billings,0,0,0,27,1,13,3,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+39,EJG Morgan,AJ Hosein,SW Billings,0,1,1,28,1,14,4,0,,,7,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+40,EJG Morgan,AJ Hosein,SW Billings,1,0,1,29,2,15,5,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+41,SW Billings,AJ Hosein,EJG Morgan,0,0,0,29,2,3,6,0,,,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+42,SW Billings,AJ Hosein,EJG Morgan,0,0,0,29,2,4,7,stumped,SW Billings,SD Hope,7,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+43,EJG Morgan,R Shepherd,LA Dawson,0,1,1,30,2,16,1,0,,,8,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+44,EJG Morgan,R Shepherd,LA Dawson,0,1,1,31,2,17,2,0,,,8,,wides,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+45,EJG Morgan,R Shepherd,LA Dawson,1,0,1,32,3,18,3,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+46,LA Dawson,R Shepherd,EJG Morgan,0,0,0,32,0,1,4,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+47,LA Dawson,R Shepherd,EJG Morgan,1,0,1,33,1,2,5,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+48,EJG Morgan,R Shepherd,LA Dawson,1,0,1,34,4,19,6,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+49,LA Dawson,R Shepherd,EJG Morgan,0,0,0,34,1,3,7,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+50,LA Dawson,R Shepherd,EJG Morgan,0,0,0,34,1,4,8,0,,,8,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+51,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,20,1,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+52,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,21,2,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+53,EJG Morgan,AJ Hosein,LA Dawson,0,0,0,34,4,22,3,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+54,EJG Morgan,AJ Hosein,LA Dawson,1,0,1,35,5,23,4,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+55,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,35,1,5,5,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+56,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,35,1,6,6,0,,,9,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+57,EJG Morgan,OF Smith,LA Dawson,0,0,0,35,5,24,1,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+58,EJG Morgan,OF Smith,LA Dawson,2,0,2,37,7,25,2,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+59,EJG Morgan,OF Smith,LA Dawson,0,0,0,37,7,26,3,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+60,EJG Morgan,OF Smith,LA Dawson,1,0,1,38,8,27,4,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+61,LA Dawson,OF Smith,EJG Morgan,0,0,0,38,1,7,5,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+62,LA Dawson,OF Smith,EJG Morgan,1,0,1,39,2,8,6,0,,,10,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+63,LA Dawson,AJ Hosein,EJG Morgan,0,0,0,39,2,9,1,run out,LA Dawson,SD Hope;KA Pollard,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+64,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,39,0,1,2,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+65,CJ Jordan,AJ Hosein,EJG Morgan,1,0,1,40,1,2,3,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+66,EJG Morgan,AJ Hosein,CJ Jordan,1,0,1,41,9,28,4,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+67,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,41,1,3,5,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+68,CJ Jordan,AJ Hosein,EJG Morgan,0,0,0,41,1,4,6,0,,,11,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+69,EJG Morgan,R Shepherd,CJ Jordan,2,0,2,43,11,29,1,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+70,EJG Morgan,R Shepherd,CJ Jordan,0,0,0,43,11,30,2,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+71,EJG Morgan,R Shepherd,CJ Jordan,6,0,6,49,17,31,3,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+72,EJG Morgan,R Shepherd,CJ Jordan,0,0,0,49,17,32,4,caught,EJG Morgan,KA Pollard,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+73,AU Rashid,R Shepherd,CJ Jordan,0,0,0,49,0,1,5,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+74,AU Rashid,R Shepherd,CJ Jordan,0,0,0,49,0,2,6,0,,,12,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+75,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,49,1,5,1,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+76,CJ Jordan,AJ Hosein,AU Rashid,6,0,6,55,7,6,2,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+77,CJ Jordan,AJ Hosein,AU Rashid,2,0,2,57,9,7,3,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+78,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,57,9,8,4,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+79,CJ Jordan,AJ Hosein,AU Rashid,2,0,2,59,11,9,5,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+80,CJ Jordan,AJ Hosein,AU Rashid,0,0,0,59,11,10,6,0,,,13,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+81,AU Rashid,R Shepherd,CJ Jordan,1,0,1,60,1,3,1,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+82,CJ Jordan,R Shepherd,AU Rashid,6,0,6,66,17,11,2,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+83,CJ Jordan,R Shepherd,AU Rashid,0,0,0,66,17,12,3,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+84,CJ Jordan,R Shepherd,AU Rashid,1,0,1,67,18,13,4,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+85,AU Rashid,R Shepherd,CJ Jordan,0,0,0,67,1,4,5,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+86,AU Rashid,R Shepherd,CJ Jordan,4,0,4,71,5,5,6,0,,,14,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+87,CJ Jordan,SS Cottrell,AU Rashid,0,0,0,71,18,14,1,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+88,CJ Jordan,SS Cottrell,AU Rashid,0,0,0,71,18,15,2,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+89,CJ Jordan,SS Cottrell,AU Rashid,1,0,1,72,19,16,3,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+90,AU Rashid,SS Cottrell,CJ Jordan,1,0,1,73,6,6,4,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+91,CJ Jordan,SS Cottrell,AU Rashid,2,0,2,75,21,17,5,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+92,CJ Jordan,SS Cottrell,AU Rashid,6,0,6,81,27,18,6,0,,,15,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+93,AU Rashid,KA Pollard,CJ Jordan,1,0,1,82,7,7,1,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+94,CJ Jordan,KA Pollard,AU Rashid,0,0,0,82,27,19,2,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+95,CJ Jordan,KA Pollard,AU Rashid,1,0,1,83,28,20,3,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+96,AU Rashid,KA Pollard,CJ Jordan,0,0,0,83,7,8,4,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+97,AU Rashid,KA Pollard,CJ Jordan,1,0,1,84,8,9,5,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+98,CJ Jordan,KA Pollard,AU Rashid,0,0,0,84,28,21,6,0,,,16,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+99,AU Rashid,FA Allen,CJ Jordan,1,0,1,85,9,10,1,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+100,CJ Jordan,FA Allen,AU Rashid,0,0,0,85,28,22,2,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+101,CJ Jordan,FA Allen,AU Rashid,0,0,0,85,28,23,3,caught,CJ Jordan,SS Cottrell,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+102,AU Rashid,FA Allen,S Mahmood,1,0,1,86,10,11,4,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+103,S Mahmood,FA Allen,AU Rashid,0,0,0,86,0,1,5,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+104,S Mahmood,FA Allen,AU Rashid,1,0,1,87,1,2,6,0,,,17,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+105,S Mahmood,KA Pollard,AU Rashid,0,0,0,87,1,3,1,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+106,S Mahmood,KA Pollard,AU Rashid,2,0,2,89,3,4,2,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+107,S Mahmood,KA Pollard,AU Rashid,0,0,0,89,3,5,3,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+108,S Mahmood,KA Pollard,AU Rashid,1,0,1,90,4,6,4,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+109,AU Rashid,KA Pollard,S Mahmood,4,0,4,94,14,12,5,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+110,AU Rashid,KA Pollard,S Mahmood,1,0,1,95,15,13,6,0,,,18,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+111,AU Rashid,FA Allen,S Mahmood,4,0,4,99,19,14,1,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+112,AU Rashid,FA Allen,S Mahmood,1,0,1,100,20,15,2,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+113,S Mahmood,FA Allen,AU Rashid,0,0,0,100,4,7,3,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+114,S Mahmood,FA Allen,AU Rashid,0,0,0,100,4,8,4,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+115,S Mahmood,FA Allen,AU Rashid,1,0,1,101,5,9,5,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+116,AU Rashid,FA Allen,S Mahmood,1,0,1,102,21,16,6,0,,,19,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+117,AU Rashid,JO Holder,S Mahmood,1,0,1,103,22,17,1,0,,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+118,S Mahmood,JO Holder,AU Rashid,0,0,0,103,5,10,2,0,,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+119,S Mahmood,JO Holder,AU Rashid,0,0,0,103,5,11,3,caught,S Mahmood,FA Allen,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies
+120,AU Rashid,JO Holder,TS Mills,0,0,0,103,22,18,4,bowled,AU Rashid,,20,,-,field,West Indies,1,"Kensington Oval, Bridgetown, Barbados",2022-01-22,West Indies,England,West Indies

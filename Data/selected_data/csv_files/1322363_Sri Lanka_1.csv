@@ -1,120 +1,120 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,1,1,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-1,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,2,2,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-2,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,3,3,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-3,P Nissanka,AF Milne,BKG Mendis,4,0,4,4,4,4,4,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-4,P Nissanka,AF Milne,BKG Mendis,0,0,0,4,4,5,5,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-5,P Nissanka,AF Milne,BKG Mendis,4,0,4,8,8,6,6,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-6,BKG Mendis,BG Lister,P Nissanka,0,0,0,8,0,1,1,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-7,BKG Mendis,BG Lister,P Nissanka,0,0,0,8,0,2,2,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-8,BKG Mendis,BG Lister,P Nissanka,6,0,6,14,6,3,3,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-9,BKG Mendis,BG Lister,P Nissanka,4,0,4,18,10,4,4,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-10,BKG Mendis,BG Lister,P Nissanka,0,0,0,18,10,5,5,2,caught,BKG Mendis,TWM Latham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-11,MDKJ Perera,BG Lister,P Nissanka,0,0,0,18,0,1,6,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-12,P Nissanka,HB Shipley,MDKJ Perera,1,0,1,19,9,7,1,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-13,MDKJ Perera,HB Shipley,P Nissanka,0,0,0,19,0,2,2,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-14,MDKJ Perera,HB Shipley,P Nissanka,0,0,0,19,0,3,3,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-15,MDKJ Perera,HB Shipley,P Nissanka,6,0,6,25,6,4,4,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-16,MDKJ Perera,HB Shipley,P Nissanka,2,0,2,27,8,5,5,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-17,MDKJ Perera,HB Shipley,P Nissanka,1,0,1,28,9,6,6,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-18,MDKJ Perera,AF Milne,P Nissanka,0,0,0,28,9,7,1,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-19,MDKJ Perera,AF Milne,P Nissanka,0,1,1,29,9,8,2,4,0,,,,byes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-20,P Nissanka,AF Milne,MDKJ Perera,0,0,0,29,9,8,3,4,0,,,"{'by': 'New Zealand', 'umpire': 'Kim Cotton', 'batter': 'P Nissanka', 'decision': 'struck down', 'type': 'wicket'}",-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-21,P Nissanka,AF Milne,MDKJ Perera,0,0,0,29,9,9,4,4,caught,P Nissanka,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-22,DM de Silva,AF Milne,MDKJ Perera,1,0,1,30,1,1,5,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-23,MDKJ Perera,AF Milne,DM de Silva,4,0,4,34,13,9,6,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-24,DM de Silva,BG Lister,MDKJ Perera,0,1,1,35,1,2,1,5,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-25,DM de Silva,BG Lister,MDKJ Perera,0,1,1,36,1,3,2,5,0,,,,legbyes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-26,MDKJ Perera,BG Lister,DM de Silva,1,0,1,37,14,10,3,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-27,DM de Silva,BG Lister,MDKJ Perera,1,0,1,38,2,4,4,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-28,MDKJ Perera,BG Lister,DM de Silva,1,0,1,39,15,11,5,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-29,DM de Silva,BG Lister,MDKJ Perera,0,0,0,39,2,5,6,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-30,DM de Silva,BG Lister,MDKJ Perera,4,0,4,43,6,6,7,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-31,MDKJ Perera,HB Shipley,DM de Silva,0,0,0,43,15,12,1,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-32,MDKJ Perera,HB Shipley,DM de Silva,1,0,1,44,16,13,2,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-33,DM de Silva,HB Shipley,MDKJ Perera,0,0,0,44,6,7,3,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-34,DM de Silva,HB Shipley,MDKJ Perera,4,0,4,48,10,8,4,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-35,DM de Silva,HB Shipley,MDKJ Perera,1,0,1,49,11,9,5,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-36,MDKJ Perera,HB Shipley,DM de Silva,1,0,1,50,17,14,6,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-37,MDKJ Perera,R Ravindra,DM de Silva,4,0,4,54,21,15,1,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-38,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,55,22,16,2,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-39,DM de Silva,R Ravindra,MDKJ Perera,1,0,1,56,12,10,3,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-40,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,57,23,17,4,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-41,DM de Silva,R Ravindra,MDKJ Perera,1,0,1,58,13,11,5,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-42,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,59,24,18,6,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-43,MDKJ Perera,JDS Neesham,DM de Silva,0,1,1,60,24,19,1,8,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-44,MDKJ Perera,JDS Neesham,DM de Silva,0,1,1,61,24,20,2,8,0,,,,legbyes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-45,DM de Silva,JDS Neesham,MDKJ Perera,1,0,1,62,14,12,3,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-46,MDKJ Perera,JDS Neesham,DM de Silva,1,0,1,63,25,21,4,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-47,DM de Silva,JDS Neesham,MDKJ Perera,6,0,6,69,20,13,5,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-48,DM de Silva,JDS Neesham,MDKJ Perera,1,0,1,70,21,14,6,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-49,MDKJ Perera,JDS Neesham,DM de Silva,1,0,1,71,26,22,7,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-50,MDKJ Perera,IS Sodhi,DM de Silva,0,0,0,71,26,23,1,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-51,MDKJ Perera,IS Sodhi,DM de Silva,0,0,0,71,26,24,2,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-52,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,72,27,25,3,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-53,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,73,22,15,4,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-54,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,74,28,26,5,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-55,DM de Silva,IS Sodhi,MDKJ Perera,4,0,4,78,26,16,6,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-56,MDKJ Perera,BG Lister,DM de Silva,1,0,1,79,29,27,1,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-57,DM de Silva,BG Lister,MDKJ Perera,1,0,1,80,27,17,2,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-58,MDKJ Perera,BG Lister,DM de Silva,1,0,1,81,30,28,3,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-59,DM de Silva,BG Lister,MDKJ Perera,0,0,0,81,27,18,4,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-60,DM de Silva,BG Lister,MDKJ Perera,1,0,1,82,28,19,5,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-61,MDKJ Perera,BG Lister,DM de Silva,1,0,1,83,31,29,6,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-62,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,84,32,30,1,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-63,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,85,29,20,2,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-64,MDKJ Perera,IS Sodhi,DM de Silva,2,0,2,87,34,31,3,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-65,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,88,35,32,4,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-66,DM de Silva,IS Sodhi,MDKJ Perera,0,0,0,88,29,21,5,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-67,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,89,30,22,6,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-68,DM de Silva,AF Milne,MDKJ Perera,0,1,1,90,30,23,1,12,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-69,DM de Silva,AF Milne,MDKJ Perera,1,0,1,91,31,24,2,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-70,MDKJ Perera,AF Milne,DM de Silva,0,0,0,91,35,33,3,12,caught,MDKJ Perera,JDS Neesham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-71,KIC Asalanka,AF Milne,DM de Silva,1,0,1,92,1,1,4,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-72,DM de Silva,AF Milne,KIC Asalanka,0,0,0,92,31,25,5,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-73,DM de Silva,AF Milne,KIC Asalanka,6,0,6,98,37,26,6,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-74,DM de Silva,AF Milne,KIC Asalanka,0,0,0,98,37,27,7,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-75,KIC Asalanka,R Ravindra,DM de Silva,0,0,0,98,1,2,1,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-76,KIC Asalanka,R Ravindra,DM de Silva,1,0,1,99,2,3,2,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-77,DM de Silva,R Ravindra,KIC Asalanka,0,0,0,99,37,28,3,13,caught,DM de Silva,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-78,MD Shanaka,R Ravindra,KIC Asalanka,0,0,0,99,0,1,4,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-79,MD Shanaka,R Ravindra,KIC Asalanka,0,0,0,99,0,2,5,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-80,MD Shanaka,R Ravindra,KIC Asalanka,1,0,1,100,1,3,6,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-81,MD Shanaka,IS Sodhi,KIC Asalanka,1,0,1,101,2,4,1,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-82,KIC Asalanka,IS Sodhi,MD Shanaka,0,0,0,101,2,4,2,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-83,KIC Asalanka,IS Sodhi,MD Shanaka,1,0,1,102,3,5,3,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-84,MD Shanaka,IS Sodhi,KIC Asalanka,0,0,0,102,2,5,4,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-85,MD Shanaka,IS Sodhi,KIC Asalanka,1,0,1,103,3,6,5,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-86,KIC Asalanka,IS Sodhi,MD Shanaka,1,0,1,104,4,6,6,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-87,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,104,4,7,1,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-88,KIC Asalanka,R Ravindra,MD Shanaka,6,0,6,110,10,8,2,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-89,KIC Asalanka,R Ravindra,MD Shanaka,6,0,6,116,16,9,3,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-90,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,116,16,10,4,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-91,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,116,16,11,5,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-92,KIC Asalanka,R Ravindra,MD Shanaka,1,0,1,117,17,12,6,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-93,KIC Asalanka,HB Shipley,MD Shanaka,1,0,1,118,18,13,1,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-94,MD Shanaka,HB Shipley,KIC Asalanka,4,0,4,122,7,7,2,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-95,MD Shanaka,HB Shipley,KIC Asalanka,0,0,0,122,7,8,3,16,caught,MD Shanaka,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-96,PWH de Silva,HB Shipley,KIC Asalanka,1,0,1,123,1,1,4,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-97,KIC Asalanka,HB Shipley,PWH de Silva,1,0,1,124,19,14,5,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-98,PWH de Silva,HB Shipley,KIC Asalanka,1,0,1,125,2,2,6,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-99,PWH de Silva,JDS Neesham,KIC Asalanka,6,0,6,131,8,3,1,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-100,PWH de Silva,JDS Neesham,KIC Asalanka,0,1,1,132,8,4,2,17,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-101,PWH de Silva,JDS Neesham,KIC Asalanka,1,0,1,133,9,5,3,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-102,KIC Asalanka,JDS Neesham,PWH de Silva,1,0,1,134,20,15,4,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-103,PWH de Silva,JDS Neesham,KIC Asalanka,0,0,0,134,9,6,5,17,caught,PWH de Silva,AF Milne,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-104,M Theekshana,JDS Neesham,KIC Asalanka,0,0,0,134,0,1,6,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-105,M Theekshana,JDS Neesham,KIC Asalanka,0,0,0,134,0,2,7,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-106,KIC Asalanka,BG Lister,M Theekshana,1,0,1,135,21,16,1,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-107,M Theekshana,BG Lister,KIC Asalanka,0,0,0,135,0,3,2,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-108,M Theekshana,BG Lister,KIC Asalanka,0,0,0,135,0,4,3,18,caught,M Theekshana,TWM Latham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-109,PM Liyanagamage,BG Lister,KIC Asalanka,0,0,0,135,0,1,4,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-110,PM Liyanagamage,BG Lister,KIC Asalanka,1,0,1,136,1,2,5,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-111,KIC Asalanka,BG Lister,PM Liyanagamage,1,0,1,137,22,17,6,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-112,KIC Asalanka,AF Milne,PM Liyanagamage,2,0,2,139,24,18,1,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-113,KIC Asalanka,AF Milne,PM Liyanagamage,0,1,1,140,24,19,2,19,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-114,KIC Asalanka,AF Milne,PM Liyanagamage,0,0,0,140,24,20,3,19,caught,KIC Asalanka,IS Sodhi,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-115,CAK Rajitha,AF Milne,PM Liyanagamage,1,0,1,141,1,1,4,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-116,PM Liyanagamage,AF Milne,CAK Rajitha,0,0,0,141,1,3,5,19,bowled,PM Liyanagamage,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-117,D Madushanka,AF Milne,CAK Rajitha,0,0,0,141,0,1,6,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
-118,D Madushanka,AF Milne,CAK Rajitha,0,0,0,141,0,2,7,19,bowled,D Madushanka,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,Sri Lanka,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,1,1,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+1,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,2,2,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+2,P Nissanka,AF Milne,BKG Mendis,0,0,0,0,0,3,3,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+3,P Nissanka,AF Milne,BKG Mendis,4,0,4,4,4,4,4,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+4,P Nissanka,AF Milne,BKG Mendis,0,0,0,4,4,5,5,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+5,P Nissanka,AF Milne,BKG Mendis,4,0,4,8,8,6,6,1,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+6,BKG Mendis,BG Lister,P Nissanka,0,0,0,8,0,1,1,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+7,BKG Mendis,BG Lister,P Nissanka,0,0,0,8,0,2,2,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+8,BKG Mendis,BG Lister,P Nissanka,6,0,6,14,6,3,3,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+9,BKG Mendis,BG Lister,P Nissanka,4,0,4,18,10,4,4,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+10,BKG Mendis,BG Lister,P Nissanka,0,0,0,18,10,5,5,2,caught,BKG Mendis,TWM Latham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+11,MDKJ Perera,BG Lister,P Nissanka,0,0,0,18,0,1,6,2,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+12,P Nissanka,HB Shipley,MDKJ Perera,1,0,1,19,9,7,1,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+13,MDKJ Perera,HB Shipley,P Nissanka,0,0,0,19,0,2,2,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+14,MDKJ Perera,HB Shipley,P Nissanka,0,0,0,19,0,3,3,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+15,MDKJ Perera,HB Shipley,P Nissanka,6,0,6,25,6,4,4,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+16,MDKJ Perera,HB Shipley,P Nissanka,2,0,2,27,8,5,5,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+17,MDKJ Perera,HB Shipley,P Nissanka,1,0,1,28,9,6,6,3,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+18,MDKJ Perera,AF Milne,P Nissanka,0,0,0,28,9,7,1,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+19,MDKJ Perera,AF Milne,P Nissanka,0,1,1,29,9,8,2,4,0,,,,byes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+20,P Nissanka,AF Milne,MDKJ Perera,0,0,0,29,9,8,3,4,0,,,"{'by': 'New Zealand', 'umpire': 'Kim Cotton', 'batter': 'P Nissanka', 'decision': 'struck down', 'type': 'wicket'}",-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+21,P Nissanka,AF Milne,MDKJ Perera,0,0,0,29,9,9,4,4,caught,P Nissanka,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+22,DM de Silva,AF Milne,MDKJ Perera,1,0,1,30,1,1,5,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+23,MDKJ Perera,AF Milne,DM de Silva,4,0,4,34,13,9,6,4,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+24,DM de Silva,BG Lister,MDKJ Perera,0,1,1,35,1,2,1,5,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+25,DM de Silva,BG Lister,MDKJ Perera,0,1,1,36,1,3,2,5,0,,,,legbyes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+26,MDKJ Perera,BG Lister,DM de Silva,1,0,1,37,14,10,3,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+27,DM de Silva,BG Lister,MDKJ Perera,1,0,1,38,2,4,4,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+28,MDKJ Perera,BG Lister,DM de Silva,1,0,1,39,15,11,5,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+29,DM de Silva,BG Lister,MDKJ Perera,0,0,0,39,2,5,6,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+30,DM de Silva,BG Lister,MDKJ Perera,4,0,4,43,6,6,7,5,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+31,MDKJ Perera,HB Shipley,DM de Silva,0,0,0,43,15,12,1,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+32,MDKJ Perera,HB Shipley,DM de Silva,1,0,1,44,16,13,2,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+33,DM de Silva,HB Shipley,MDKJ Perera,0,0,0,44,6,7,3,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+34,DM de Silva,HB Shipley,MDKJ Perera,4,0,4,48,10,8,4,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+35,DM de Silva,HB Shipley,MDKJ Perera,1,0,1,49,11,9,5,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+36,MDKJ Perera,HB Shipley,DM de Silva,1,0,1,50,17,14,6,6,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+37,MDKJ Perera,R Ravindra,DM de Silva,4,0,4,54,21,15,1,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+38,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,55,22,16,2,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+39,DM de Silva,R Ravindra,MDKJ Perera,1,0,1,56,12,10,3,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+40,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,57,23,17,4,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+41,DM de Silva,R Ravindra,MDKJ Perera,1,0,1,58,13,11,5,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+42,MDKJ Perera,R Ravindra,DM de Silva,1,0,1,59,24,18,6,7,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+43,MDKJ Perera,JDS Neesham,DM de Silva,0,1,1,60,24,19,1,8,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+44,MDKJ Perera,JDS Neesham,DM de Silva,0,1,1,61,24,20,2,8,0,,,,legbyes,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+45,DM de Silva,JDS Neesham,MDKJ Perera,1,0,1,62,14,12,3,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+46,MDKJ Perera,JDS Neesham,DM de Silva,1,0,1,63,25,21,4,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+47,DM de Silva,JDS Neesham,MDKJ Perera,6,0,6,69,20,13,5,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+48,DM de Silva,JDS Neesham,MDKJ Perera,1,0,1,70,21,14,6,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+49,MDKJ Perera,JDS Neesham,DM de Silva,1,0,1,71,26,22,7,8,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+50,MDKJ Perera,IS Sodhi,DM de Silva,0,0,0,71,26,23,1,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+51,MDKJ Perera,IS Sodhi,DM de Silva,0,0,0,71,26,24,2,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+52,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,72,27,25,3,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+53,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,73,22,15,4,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+54,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,74,28,26,5,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+55,DM de Silva,IS Sodhi,MDKJ Perera,4,0,4,78,26,16,6,9,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+56,MDKJ Perera,BG Lister,DM de Silva,1,0,1,79,29,27,1,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+57,DM de Silva,BG Lister,MDKJ Perera,1,0,1,80,27,17,2,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+58,MDKJ Perera,BG Lister,DM de Silva,1,0,1,81,30,28,3,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+59,DM de Silva,BG Lister,MDKJ Perera,0,0,0,81,27,18,4,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+60,DM de Silva,BG Lister,MDKJ Perera,1,0,1,82,28,19,5,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+61,MDKJ Perera,BG Lister,DM de Silva,1,0,1,83,31,29,6,10,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+62,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,84,32,30,1,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+63,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,85,29,20,2,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+64,MDKJ Perera,IS Sodhi,DM de Silva,2,0,2,87,34,31,3,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+65,MDKJ Perera,IS Sodhi,DM de Silva,1,0,1,88,35,32,4,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+66,DM de Silva,IS Sodhi,MDKJ Perera,0,0,0,88,29,21,5,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+67,DM de Silva,IS Sodhi,MDKJ Perera,1,0,1,89,30,22,6,11,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+68,DM de Silva,AF Milne,MDKJ Perera,0,1,1,90,30,23,1,12,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+69,DM de Silva,AF Milne,MDKJ Perera,1,0,1,91,31,24,2,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+70,MDKJ Perera,AF Milne,DM de Silva,0,0,0,91,35,33,3,12,caught,MDKJ Perera,JDS Neesham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+71,KIC Asalanka,AF Milne,DM de Silva,1,0,1,92,1,1,4,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+72,DM de Silva,AF Milne,KIC Asalanka,0,0,0,92,31,25,5,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+73,DM de Silva,AF Milne,KIC Asalanka,6,0,6,98,37,26,6,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+74,DM de Silva,AF Milne,KIC Asalanka,0,0,0,98,37,27,7,12,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+75,KIC Asalanka,R Ravindra,DM de Silva,0,0,0,98,1,2,1,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+76,KIC Asalanka,R Ravindra,DM de Silva,1,0,1,99,2,3,2,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+77,DM de Silva,R Ravindra,KIC Asalanka,0,0,0,99,37,28,3,13,caught,DM de Silva,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+78,MD Shanaka,R Ravindra,KIC Asalanka,0,0,0,99,0,1,4,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+79,MD Shanaka,R Ravindra,KIC Asalanka,0,0,0,99,0,2,5,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+80,MD Shanaka,R Ravindra,KIC Asalanka,1,0,1,100,1,3,6,13,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+81,MD Shanaka,IS Sodhi,KIC Asalanka,1,0,1,101,2,4,1,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+82,KIC Asalanka,IS Sodhi,MD Shanaka,0,0,0,101,2,4,2,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+83,KIC Asalanka,IS Sodhi,MD Shanaka,1,0,1,102,3,5,3,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+84,MD Shanaka,IS Sodhi,KIC Asalanka,0,0,0,102,2,5,4,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+85,MD Shanaka,IS Sodhi,KIC Asalanka,1,0,1,103,3,6,5,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+86,KIC Asalanka,IS Sodhi,MD Shanaka,1,0,1,104,4,6,6,14,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+87,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,104,4,7,1,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+88,KIC Asalanka,R Ravindra,MD Shanaka,6,0,6,110,10,8,2,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+89,KIC Asalanka,R Ravindra,MD Shanaka,6,0,6,116,16,9,3,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+90,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,116,16,10,4,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+91,KIC Asalanka,R Ravindra,MD Shanaka,0,0,0,116,16,11,5,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+92,KIC Asalanka,R Ravindra,MD Shanaka,1,0,1,117,17,12,6,15,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+93,KIC Asalanka,HB Shipley,MD Shanaka,1,0,1,118,18,13,1,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+94,MD Shanaka,HB Shipley,KIC Asalanka,4,0,4,122,7,7,2,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+95,MD Shanaka,HB Shipley,KIC Asalanka,0,0,0,122,7,8,3,16,caught,MD Shanaka,BG Lister,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+96,PWH de Silva,HB Shipley,KIC Asalanka,1,0,1,123,1,1,4,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+97,KIC Asalanka,HB Shipley,PWH de Silva,1,0,1,124,19,14,5,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+98,PWH de Silva,HB Shipley,KIC Asalanka,1,0,1,125,2,2,6,16,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+99,PWH de Silva,JDS Neesham,KIC Asalanka,6,0,6,131,8,3,1,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+100,PWH de Silva,JDS Neesham,KIC Asalanka,0,1,1,132,8,4,2,17,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+101,PWH de Silva,JDS Neesham,KIC Asalanka,1,0,1,133,9,5,3,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+102,KIC Asalanka,JDS Neesham,PWH de Silva,1,0,1,134,20,15,4,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+103,PWH de Silva,JDS Neesham,KIC Asalanka,0,0,0,134,9,6,5,17,caught,PWH de Silva,AF Milne,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+104,M Theekshana,JDS Neesham,KIC Asalanka,0,0,0,134,0,1,6,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+105,M Theekshana,JDS Neesham,KIC Asalanka,0,0,0,134,0,2,7,17,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+106,KIC Asalanka,BG Lister,M Theekshana,1,0,1,135,21,16,1,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+107,M Theekshana,BG Lister,KIC Asalanka,0,0,0,135,0,3,2,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+108,M Theekshana,BG Lister,KIC Asalanka,0,0,0,135,0,4,3,18,caught,M Theekshana,TWM Latham,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+109,PM Liyanagamage,BG Lister,KIC Asalanka,0,0,0,135,0,1,4,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+110,PM Liyanagamage,BG Lister,KIC Asalanka,1,0,1,136,1,2,5,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+111,KIC Asalanka,BG Lister,PM Liyanagamage,1,0,1,137,22,17,6,18,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+112,KIC Asalanka,AF Milne,PM Liyanagamage,2,0,2,139,24,18,1,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+113,KIC Asalanka,AF Milne,PM Liyanagamage,0,1,1,140,24,19,2,19,0,,,,wides,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+114,KIC Asalanka,AF Milne,PM Liyanagamage,0,0,0,140,24,20,3,19,caught,KIC Asalanka,IS Sodhi,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+115,CAK Rajitha,AF Milne,PM Liyanagamage,1,0,1,141,1,1,4,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+116,PM Liyanagamage,AF Milne,CAK Rajitha,0,0,0,141,1,3,5,19,bowled,PM Liyanagamage,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+117,D Madushanka,AF Milne,CAK Rajitha,0,0,0,141,0,1,6,19,0,,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand
+118,D Madushanka,AF Milne,CAK Rajitha,0,0,0,141,0,2,7,19,bowled,D Madushanka,,,-,field,New Zealand,1,"University Oval, Dunedin",2023-04-05,New Zealand,Sri Lanka,New Zealand

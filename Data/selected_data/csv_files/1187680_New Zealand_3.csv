@@ -1,7 +1,7 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,TL Seifert,JJ Bumrah,C Munro,2,0,2,2,2,1,1,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
-1,TL Seifert,JJ Bumrah,C Munro,4,0,4,6,6,2,2,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
-2,TL Seifert,JJ Bumrah,C Munro,2,0,2,8,8,3,3,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
-3,TL Seifert,JJ Bumrah,C Munro,0,0,0,8,8,4,4,caught,TL Seifert,Washington Sundar,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
-4,C Munro,JJ Bumrah,SC Kuggeleijn,4,0,4,12,4,1,5,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
-5,C Munro,JJ Bumrah,SC Kuggeleijn,1,0,1,13,5,2,6,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,New Zealand,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,TL Seifert,JJ Bumrah,C Munro,2,0,2,2,2,1,1,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India
+1,TL Seifert,JJ Bumrah,C Munro,4,0,4,6,6,2,2,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India
+2,TL Seifert,JJ Bumrah,C Munro,2,0,2,8,8,3,3,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India
+3,TL Seifert,JJ Bumrah,C Munro,0,0,0,8,8,4,4,caught,TL Seifert,Washington Sundar,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India
+4,C Munro,JJ Bumrah,SC Kuggeleijn,4,0,4,12,4,1,5,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India
+5,C Munro,JJ Bumrah,SC Kuggeleijn,1,0,1,13,5,2,6,0,,,1,0,field,New Zealand,3,Westpac Stadium,2020-01-31,tie,New Zealand,India

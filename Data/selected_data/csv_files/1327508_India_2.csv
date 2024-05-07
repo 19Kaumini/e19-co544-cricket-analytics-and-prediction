@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,RG Sharma,K Rabada,RR Pant,0,0,0,0,0,1,1,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-1,RG Sharma,K Rabada,RR Pant,0,0,0,0,0,2,2,bowled,RG Sharma,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-2,SS Iyer,K Rabada,RR Pant,1,0,1,1,1,1,3,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-3,RR Pant,K Rabada,SS Iyer,0,0,0,1,0,1,4,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-4,RR Pant,K Rabada,SS Iyer,1,0,1,2,1,2,5,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-5,SS Iyer,K Rabada,RR Pant,0,0,0,2,1,2,6,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-6,RR Pant,WD Parnell,SS Iyer,0,0,0,2,1,3,1,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-7,RR Pant,WD Parnell,SS Iyer,1,0,1,3,2,4,2,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-8,SS Iyer,WD Parnell,RR Pant,0,1,1,4,1,3,3,0,,,2,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-9,SS Iyer,WD Parnell,RR Pant,0,0,0,4,1,4,4,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-10,SS Iyer,WD Parnell,RR Pant,0,0,0,4,1,5,5,lbw,SS Iyer,,2,"{'by': 'India', 'umpire': 'VK Sharma', 'batter': 'SS Iyer', 'decision': 'struck down'}",-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-11,KD Karthik,WD Parnell,RR Pant,4,0,4,8,4,1,6,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-12,KD Karthik,WD Parnell,RR Pant,0,0,0,8,4,2,7,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-13,RR Pant,K Rabada,KD Karthik,1,0,1,9,3,5,1,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-14,KD Karthik,K Rabada,RR Pant,0,0,0,9,4,3,2,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-15,KD Karthik,K Rabada,RR Pant,4,0,4,13,8,4,3,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-16,KD Karthik,K Rabada,RR Pant,1,0,1,14,9,5,4,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-17,RR Pant,K Rabada,KD Karthik,0,0,0,14,3,6,5,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-18,RR Pant,K Rabada,KD Karthik,4,0,4,18,7,7,6,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-19,KD Karthik,WD Parnell,RR Pant,0,0,0,18,9,6,1,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-20,KD Karthik,WD Parnell,RR Pant,0,0,0,18,9,7,2,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-21,KD Karthik,WD Parnell,RR Pant,4,0,4,22,13,8,3,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-22,KD Karthik,WD Parnell,RR Pant,0,0,0,22,13,9,4,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-23,KD Karthik,WD Parnell,RR Pant,0,1,1,23,13,10,5,0,,,4,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-24,KD Karthik,WD Parnell,RR Pant,1,0,1,24,14,11,6,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-25,RR Pant,WD Parnell,KD Karthik,0,1,1,25,7,8,7,0,,,4,,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-26,RR Pant,L Ngidi,KD Karthik,4,0,4,29,11,9,1,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-27,RR Pant,L Ngidi,KD Karthik,0,0,0,29,11,10,2,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-28,RR Pant,L Ngidi,KD Karthik,6,0,6,35,17,11,3,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-29,RR Pant,L Ngidi,KD Karthik,4,0,4,39,21,12,4,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-30,RR Pant,L Ngidi,KD Karthik,6,0,6,45,27,13,5,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-31,RR Pant,L Ngidi,KD Karthik,0,0,0,45,27,14,6,caught,RR Pant,T Stubbs,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-32,KD Karthik,WD Parnell,SA Yadav,0,0,0,45,14,12,1,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-33,KD Karthik,WD Parnell,SA Yadav,6,0,6,51,20,13,2,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-34,KD Karthik,WD Parnell,SA Yadav,4,0,4,55,24,14,3,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-35,KD Karthik,WD Parnell,SA Yadav,6,0,6,61,30,15,4,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-36,KD Karthik,WD Parnell,SA Yadav,2,0,2,63,32,16,5,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-37,KD Karthik,WD Parnell,SA Yadav,1,0,1,64,33,17,6,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-38,KD Karthik,KA Maharaj,SA Yadav,1,0,1,65,34,18,1,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-39,SA Yadav,KA Maharaj,KD Karthik,1,0,1,66,1,1,2,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-40,KD Karthik,KA Maharaj,SA Yadav,6,0,6,72,40,19,3,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-41,KD Karthik,KA Maharaj,SA Yadav,6,0,6,78,46,20,4,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-42,KD Karthik,KA Maharaj,SA Yadav,0,0,0,78,46,21,5,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-43,KD Karthik,KA Maharaj,SA Yadav,0,0,0,78,46,22,6,bowled,KD Karthik,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-44,SA Yadav,D Pretorius,AR Patel,0,0,0,78,1,2,1,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-45,SA Yadav,D Pretorius,AR Patel,1,0,1,79,2,3,2,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-46,AR Patel,D Pretorius,SA Yadav,1,0,1,80,1,1,3,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-47,SA Yadav,D Pretorius,AR Patel,6,0,6,86,8,4,4,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-48,SA Yadav,D Pretorius,AR Patel,0,0,0,86,8,5,5,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-49,SA Yadav,D Pretorius,AR Patel,0,0,0,86,8,6,6,caught,SA Yadav,T Stubbs,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-50,AR Patel,KA Maharaj,HV Patel,0,0,0,86,1,2,1,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-51,AR Patel,KA Maharaj,HV Patel,1,0,1,87,2,3,2,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-52,HV Patel,KA Maharaj,AR Patel,0,0,0,87,0,1,3,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-53,HV Patel,KA Maharaj,AR Patel,0,0,0,87,0,2,4,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-54,HV Patel,KA Maharaj,AR Patel,4,0,4,91,4,3,5,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-55,HV Patel,KA Maharaj,AR Patel,0,0,0,91,4,4,6,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-56,AR Patel,D Pretorius,HV Patel,1,0,1,92,3,4,1,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-57,HV Patel,D Pretorius,AR Patel,0,0,0,92,4,5,2,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-58,HV Patel,D Pretorius,AR Patel,0,0,0,92,4,6,3,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-59,HV Patel,D Pretorius,AR Patel,1,0,1,93,5,7,4,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-60,AR Patel,D Pretorius,HV Patel,1,0,1,94,4,5,5,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-61,HV Patel,D Pretorius,AR Patel,1,0,1,95,6,8,6,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-62,HV Patel,L Ngidi,AR Patel,4,0,4,99,10,9,1,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-63,HV Patel,L Ngidi,AR Patel,1,0,1,100,11,10,2,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-64,AR Patel,L Ngidi,HV Patel,1,0,1,101,5,6,3,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-65,HV Patel,L Ngidi,AR Patel,6,0,6,107,17,11,4,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-66,HV Patel,L Ngidi,AR Patel,0,1,1,108,17,12,5,0,,,11,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-67,HV Patel,L Ngidi,AR Patel,0,0,0,108,17,13,6,caught,HV Patel,DA Miller,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-68,R Ashwin,L Ngidi,AR Patel,1,0,1,109,1,1,7,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-69,R Ashwin,WD Parnell,AR Patel,0,0,0,109,1,2,1,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-70,R Ashwin,WD Parnell,AR Patel,1,0,1,110,2,3,2,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-71,AR Patel,WD Parnell,R Ashwin,4,0,4,114,9,7,3,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-72,AR Patel,WD Parnell,R Ashwin,0,0,0,114,9,8,4,caught,AR Patel,Q de Kock,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-73,DL Chahar,WD Parnell,R Ashwin,4,0,4,118,4,1,5,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-74,DL Chahar,WD Parnell,R Ashwin,1,0,1,119,5,2,6,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-75,DL Chahar,KA Maharaj,R Ashwin,1,0,1,120,6,3,1,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-76,R Ashwin,KA Maharaj,DL Chahar,0,0,0,120,2,4,2,caught,R Ashwin,K Rabada,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-77,UT Yadav,KA Maharaj,DL Chahar,1,0,1,121,1,1,3,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-78,DL Chahar,KA Maharaj,UT Yadav,0,0,0,121,6,4,4,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-79,DL Chahar,KA Maharaj,UT Yadav,1,0,1,122,7,5,5,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-80,UT Yadav,KA Maharaj,DL Chahar,1,0,1,123,2,2,6,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-81,UT Yadav,K Rabada,DL Chahar,1,0,1,124,3,3,1,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-82,DL Chahar,K Rabada,UT Yadav,0,0,0,124,7,6,2,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-83,DL Chahar,K Rabada,UT Yadav,1,0,1,125,8,7,3,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-84,UT Yadav,K Rabada,DL Chahar,0,0,0,125,3,4,4,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-85,UT Yadav,K Rabada,DL Chahar,4,0,4,129,7,5,5,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-86,UT Yadav,K Rabada,DL Chahar,0,1,1,130,7,6,6,0,,,14,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-87,UT Yadav,K Rabada,DL Chahar,0,0,0,130,7,7,7,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-88,DL Chahar,KA Maharaj,UT Yadav,0,0,0,130,8,8,1,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-89,DL Chahar,KA Maharaj,UT Yadav,0,0,0,130,8,9,2,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-90,DL Chahar,KA Maharaj,UT Yadav,0,1,1,131,8,10,3,0,,,15,,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-91,UT Yadav,KA Maharaj,DL Chahar,1,0,1,132,8,8,4,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-92,DL Chahar,KA Maharaj,UT Yadav,4,0,4,136,12,11,5,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-93,DL Chahar,KA Maharaj,UT Yadav,6,0,6,142,18,12,6,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-94,UT Yadav,L Ngidi,DL Chahar,1,1,2,144,9,9,1,0,,,16,,noballs,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-95,DL Chahar,L Ngidi,UT Yadav,6,0,6,150,24,13,2,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-96,DL Chahar,L Ngidi,UT Yadav,0,0,0,150,24,14,3,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-97,DL Chahar,L Ngidi,UT Yadav,1,0,1,151,25,15,4,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-98,UT Yadav,L Ngidi,DL Chahar,4,0,4,155,13,10,5,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-99,UT Yadav,L Ngidi,DL Chahar,2,0,2,157,15,11,6,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-100,UT Yadav,L Ngidi,DL Chahar,0,1,1,158,15,12,7,0,,,16,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-101,UT Yadav,L Ngidi,DL Chahar,1,0,1,159,16,13,8,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-102,UT Yadav,D Pretorius,DL Chahar,0,1,1,160,16,14,1,0,,,17,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-103,UT Yadav,D Pretorius,DL Chahar,0,1,1,161,16,15,2,0,,,17,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-104,UT Yadav,D Pretorius,DL Chahar,1,0,1,162,17,16,3,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-105,DL Chahar,D Pretorius,UT Yadav,6,0,6,168,31,16,4,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-106,DL Chahar,D Pretorius,UT Yadav,0,0,0,168,31,17,5,caught,DL Chahar,DA Miller,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-107,Mohammed Siraj,D Pretorius,UT Yadav,1,0,1,169,1,1,6,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-108,UT Yadav,D Pretorius,Mohammed Siraj,0,0,0,169,17,17,7,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-109,UT Yadav,D Pretorius,Mohammed Siraj,1,0,1,170,18,18,8,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-110,UT Yadav,K Rabada,Mohammed Siraj,0,0,0,170,18,19,1,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-111,UT Yadav,K Rabada,Mohammed Siraj,1,0,1,171,19,20,2,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-112,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,171,1,2,3,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-113,Mohammed Siraj,K Rabada,UT Yadav,4,0,4,175,5,3,4,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-114,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,175,5,4,5,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-115,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,175,5,5,6,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-116,UT Yadav,D Pretorius,Mohammed Siraj,0,1,1,176,19,21,1,0,,,19,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-117,UT Yadav,D Pretorius,Mohammed Siraj,0,1,1,177,19,22,2,0,,,19,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-118,UT Yadav,D Pretorius,Mohammed Siraj,1,0,1,178,20,23,3,0,,,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-119,Mohammed Siraj,D Pretorius,UT Yadav,0,0,0,178,5,6,4,0,,,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
-120,Mohammed Siraj,D Pretorius,UT Yadav,0,0,0,178,5,7,5,caught,Mohammed Siraj,DA Miller,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,India,South Africa
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,RG Sharma,K Rabada,RR Pant,0,0,0,0,0,1,1,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+1,RG Sharma,K Rabada,RR Pant,0,0,0,0,0,2,2,bowled,RG Sharma,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+2,SS Iyer,K Rabada,RR Pant,1,0,1,1,1,1,3,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+3,RR Pant,K Rabada,SS Iyer,0,0,0,1,0,1,4,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+4,RR Pant,K Rabada,SS Iyer,1,0,1,2,1,2,5,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+5,SS Iyer,K Rabada,RR Pant,0,0,0,2,1,2,6,0,,,1,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+6,RR Pant,WD Parnell,SS Iyer,0,0,0,2,1,3,1,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+7,RR Pant,WD Parnell,SS Iyer,1,0,1,3,2,4,2,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+8,SS Iyer,WD Parnell,RR Pant,0,1,1,4,1,3,3,0,,,2,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+9,SS Iyer,WD Parnell,RR Pant,0,0,0,4,1,4,4,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+10,SS Iyer,WD Parnell,RR Pant,0,0,0,4,1,5,5,lbw,SS Iyer,,2,"{'by': 'India', 'umpire': 'VK Sharma', 'batter': 'SS Iyer', 'decision': 'struck down'}",-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+11,KD Karthik,WD Parnell,RR Pant,4,0,4,8,4,1,6,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+12,KD Karthik,WD Parnell,RR Pant,0,0,0,8,4,2,7,0,,,2,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+13,RR Pant,K Rabada,KD Karthik,1,0,1,9,3,5,1,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+14,KD Karthik,K Rabada,RR Pant,0,0,0,9,4,3,2,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+15,KD Karthik,K Rabada,RR Pant,4,0,4,13,8,4,3,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+16,KD Karthik,K Rabada,RR Pant,1,0,1,14,9,5,4,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+17,RR Pant,K Rabada,KD Karthik,0,0,0,14,3,6,5,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+18,RR Pant,K Rabada,KD Karthik,4,0,4,18,7,7,6,0,,,3,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+19,KD Karthik,WD Parnell,RR Pant,0,0,0,18,9,6,1,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+20,KD Karthik,WD Parnell,RR Pant,0,0,0,18,9,7,2,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+21,KD Karthik,WD Parnell,RR Pant,4,0,4,22,13,8,3,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+22,KD Karthik,WD Parnell,RR Pant,0,0,0,22,13,9,4,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+23,KD Karthik,WD Parnell,RR Pant,0,1,1,23,13,10,5,0,,,4,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+24,KD Karthik,WD Parnell,RR Pant,1,0,1,24,14,11,6,0,,,4,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+25,RR Pant,WD Parnell,KD Karthik,0,1,1,25,7,8,7,0,,,4,,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+26,RR Pant,L Ngidi,KD Karthik,4,0,4,29,11,9,1,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+27,RR Pant,L Ngidi,KD Karthik,0,0,0,29,11,10,2,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+28,RR Pant,L Ngidi,KD Karthik,6,0,6,35,17,11,3,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+29,RR Pant,L Ngidi,KD Karthik,4,0,4,39,21,12,4,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+30,RR Pant,L Ngidi,KD Karthik,6,0,6,45,27,13,5,0,,,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+31,RR Pant,L Ngidi,KD Karthik,0,0,0,45,27,14,6,caught,RR Pant,T Stubbs,5,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+32,KD Karthik,WD Parnell,SA Yadav,0,0,0,45,14,12,1,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+33,KD Karthik,WD Parnell,SA Yadav,6,0,6,51,20,13,2,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+34,KD Karthik,WD Parnell,SA Yadav,4,0,4,55,24,14,3,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+35,KD Karthik,WD Parnell,SA Yadav,6,0,6,61,30,15,4,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+36,KD Karthik,WD Parnell,SA Yadav,2,0,2,63,32,16,5,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+37,KD Karthik,WD Parnell,SA Yadav,1,0,1,64,33,17,6,0,,,6,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+38,KD Karthik,KA Maharaj,SA Yadav,1,0,1,65,34,18,1,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+39,SA Yadav,KA Maharaj,KD Karthik,1,0,1,66,1,1,2,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+40,KD Karthik,KA Maharaj,SA Yadav,6,0,6,72,40,19,3,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+41,KD Karthik,KA Maharaj,SA Yadav,6,0,6,78,46,20,4,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+42,KD Karthik,KA Maharaj,SA Yadav,0,0,0,78,46,21,5,0,,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+43,KD Karthik,KA Maharaj,SA Yadav,0,0,0,78,46,22,6,bowled,KD Karthik,,7,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+44,SA Yadav,D Pretorius,AR Patel,0,0,0,78,1,2,1,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+45,SA Yadav,D Pretorius,AR Patel,1,0,1,79,2,3,2,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+46,AR Patel,D Pretorius,SA Yadav,1,0,1,80,1,1,3,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+47,SA Yadav,D Pretorius,AR Patel,6,0,6,86,8,4,4,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+48,SA Yadav,D Pretorius,AR Patel,0,0,0,86,8,5,5,0,,,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+49,SA Yadav,D Pretorius,AR Patel,0,0,0,86,8,6,6,caught,SA Yadav,T Stubbs,8,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+50,AR Patel,KA Maharaj,HV Patel,0,0,0,86,1,2,1,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+51,AR Patel,KA Maharaj,HV Patel,1,0,1,87,2,3,2,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+52,HV Patel,KA Maharaj,AR Patel,0,0,0,87,0,1,3,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+53,HV Patel,KA Maharaj,AR Patel,0,0,0,87,0,2,4,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+54,HV Patel,KA Maharaj,AR Patel,4,0,4,91,4,3,5,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+55,HV Patel,KA Maharaj,AR Patel,0,0,0,91,4,4,6,0,,,9,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+56,AR Patel,D Pretorius,HV Patel,1,0,1,92,3,4,1,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+57,HV Patel,D Pretorius,AR Patel,0,0,0,92,4,5,2,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+58,HV Patel,D Pretorius,AR Patel,0,0,0,92,4,6,3,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+59,HV Patel,D Pretorius,AR Patel,1,0,1,93,5,7,4,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+60,AR Patel,D Pretorius,HV Patel,1,0,1,94,4,5,5,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+61,HV Patel,D Pretorius,AR Patel,1,0,1,95,6,8,6,0,,,10,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+62,HV Patel,L Ngidi,AR Patel,4,0,4,99,10,9,1,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+63,HV Patel,L Ngidi,AR Patel,1,0,1,100,11,10,2,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+64,AR Patel,L Ngidi,HV Patel,1,0,1,101,5,6,3,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+65,HV Patel,L Ngidi,AR Patel,6,0,6,107,17,11,4,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+66,HV Patel,L Ngidi,AR Patel,0,1,1,108,17,12,5,0,,,11,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+67,HV Patel,L Ngidi,AR Patel,0,0,0,108,17,13,6,caught,HV Patel,DA Miller,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+68,R Ashwin,L Ngidi,AR Patel,1,0,1,109,1,1,7,0,,,11,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+69,R Ashwin,WD Parnell,AR Patel,0,0,0,109,1,2,1,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+70,R Ashwin,WD Parnell,AR Patel,1,0,1,110,2,3,2,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+71,AR Patel,WD Parnell,R Ashwin,4,0,4,114,9,7,3,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+72,AR Patel,WD Parnell,R Ashwin,0,0,0,114,9,8,4,caught,AR Patel,Q de Kock,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+73,DL Chahar,WD Parnell,R Ashwin,4,0,4,118,4,1,5,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+74,DL Chahar,WD Parnell,R Ashwin,1,0,1,119,5,2,6,0,,,12,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+75,DL Chahar,KA Maharaj,R Ashwin,1,0,1,120,6,3,1,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+76,R Ashwin,KA Maharaj,DL Chahar,0,0,0,120,2,4,2,caught,R Ashwin,K Rabada,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+77,UT Yadav,KA Maharaj,DL Chahar,1,0,1,121,1,1,3,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+78,DL Chahar,KA Maharaj,UT Yadav,0,0,0,121,6,4,4,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+79,DL Chahar,KA Maharaj,UT Yadav,1,0,1,122,7,5,5,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+80,UT Yadav,KA Maharaj,DL Chahar,1,0,1,123,2,2,6,0,,,13,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+81,UT Yadav,K Rabada,DL Chahar,1,0,1,124,3,3,1,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+82,DL Chahar,K Rabada,UT Yadav,0,0,0,124,7,6,2,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+83,DL Chahar,K Rabada,UT Yadav,1,0,1,125,8,7,3,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+84,UT Yadav,K Rabada,DL Chahar,0,0,0,125,3,4,4,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+85,UT Yadav,K Rabada,DL Chahar,4,0,4,129,7,5,5,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+86,UT Yadav,K Rabada,DL Chahar,0,1,1,130,7,6,6,0,,,14,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+87,UT Yadav,K Rabada,DL Chahar,0,0,0,130,7,7,7,0,,,14,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+88,DL Chahar,KA Maharaj,UT Yadav,0,0,0,130,8,8,1,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+89,DL Chahar,KA Maharaj,UT Yadav,0,0,0,130,8,9,2,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+90,DL Chahar,KA Maharaj,UT Yadav,0,1,1,131,8,10,3,0,,,15,,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+91,UT Yadav,KA Maharaj,DL Chahar,1,0,1,132,8,8,4,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+92,DL Chahar,KA Maharaj,UT Yadav,4,0,4,136,12,11,5,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+93,DL Chahar,KA Maharaj,UT Yadav,6,0,6,142,18,12,6,0,,,15,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+94,UT Yadav,L Ngidi,DL Chahar,1,1,2,144,9,9,1,0,,,16,,noballs,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+95,DL Chahar,L Ngidi,UT Yadav,6,0,6,150,24,13,2,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+96,DL Chahar,L Ngidi,UT Yadav,0,0,0,150,24,14,3,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+97,DL Chahar,L Ngidi,UT Yadav,1,0,1,151,25,15,4,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+98,UT Yadav,L Ngidi,DL Chahar,4,0,4,155,13,10,5,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+99,UT Yadav,L Ngidi,DL Chahar,2,0,2,157,15,11,6,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+100,UT Yadav,L Ngidi,DL Chahar,0,1,1,158,15,12,7,0,,,16,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+101,UT Yadav,L Ngidi,DL Chahar,1,0,1,159,16,13,8,0,,,16,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+102,UT Yadav,D Pretorius,DL Chahar,0,1,1,160,16,14,1,0,,,17,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+103,UT Yadav,D Pretorius,DL Chahar,0,1,1,161,16,15,2,0,,,17,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+104,UT Yadav,D Pretorius,DL Chahar,1,0,1,162,17,16,3,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+105,DL Chahar,D Pretorius,UT Yadav,6,0,6,168,31,16,4,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+106,DL Chahar,D Pretorius,UT Yadav,0,0,0,168,31,17,5,caught,DL Chahar,DA Miller,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+107,Mohammed Siraj,D Pretorius,UT Yadav,1,0,1,169,1,1,6,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+108,UT Yadav,D Pretorius,Mohammed Siraj,0,0,0,169,17,17,7,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+109,UT Yadav,D Pretorius,Mohammed Siraj,1,0,1,170,18,18,8,0,,,17,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+110,UT Yadav,K Rabada,Mohammed Siraj,0,0,0,170,18,19,1,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+111,UT Yadav,K Rabada,Mohammed Siraj,1,0,1,171,19,20,2,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+112,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,171,1,2,3,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+113,Mohammed Siraj,K Rabada,UT Yadav,4,0,4,175,5,3,4,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+114,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,175,5,4,5,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+115,Mohammed Siraj,K Rabada,UT Yadav,0,0,0,175,5,5,6,0,,,18,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+116,UT Yadav,D Pretorius,Mohammed Siraj,0,1,1,176,19,21,1,0,,,19,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+117,UT Yadav,D Pretorius,Mohammed Siraj,0,1,1,177,19,22,2,0,,,19,,wides,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+118,UT Yadav,D Pretorius,Mohammed Siraj,1,0,1,178,20,23,3,0,,,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+119,Mohammed Siraj,D Pretorius,UT Yadav,0,0,0,178,5,6,4,0,,,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa
+120,Mohammed Siraj,D Pretorius,UT Yadav,0,0,0,178,5,7,5,caught,Mohammed Siraj,DA Miller,19,,-,field,India,2,"Holkar Cricket Stadium, Indore",2022-10-04,South Africa,India,South Africa

@@ -1,44 +1,44 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,0,0,1,1,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-1,YBK Jaiswal,MR Adair,RD Gaikwad,2,0,2,2,2,2,2,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-2,YBK Jaiswal,MR Adair,RD Gaikwad,4,0,4,6,6,3,3,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-3,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,6,6,4,4,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-4,YBK Jaiswal,MR Adair,RD Gaikwad,4,0,4,10,10,5,5,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-5,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,10,10,6,6,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-6,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,10,0,1,1,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-7,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,11,1,2,2,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-8,YBK Jaiswal,J Little,RD Gaikwad,0,1,1,12,10,7,3,2,,legbyes,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-9,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,13,2,3,4,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-10,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,13,10,8,5,2,"{'by': 'Ireland', 'umpire': 'R Black', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-11,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,13,10,9,6,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-12,RD Gaikwad,BJ McCarthy,YBK Jaiswal,0,0,0,13,2,4,1,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-13,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,14,3,5,2,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-14,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,14,10,10,3,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-15,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,14,10,11,4,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-16,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,15,11,12,5,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-17,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,16,4,6,6,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-18,RD Gaikwad,J Little,YBK Jaiswal,4,0,4,20,8,7,1,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-19,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,21,9,8,2,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-20,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,21,11,13,3,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-21,YBK Jaiswal,J Little,RD Gaikwad,1,0,1,22,12,14,4,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-22,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,22,9,9,5,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-23,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,22,9,10,6,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-24,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,22,12,15,1,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-25,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,23,13,16,2,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-26,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,24,10,11,3,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-27,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,25,14,17,4,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-28,RD Gaikwad,BJ McCarthy,YBK Jaiswal,6,0,6,31,16,12,5,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-29,RD Gaikwad,BJ McCarthy,YBK Jaiswal,0,1,1,32,16,13,6,5,,wides,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-30,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,33,17,14,7,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-31,RD Gaikwad,J Little,YBK Jaiswal,0,1,1,34,17,15,1,6,,wides,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-32,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,35,18,16,2,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-33,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,35,14,18,3,6,"{'by': 'Ireland', 'umpire': 'R Black', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-34,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,35,14,19,4,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-35,YBK Jaiswal,J Little,RD Gaikwad,4,0,4,39,18,20,5,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-36,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,39,18,21,6,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-37,YBK Jaiswal,J Little,RD Gaikwad,6,0,6,45,24,22,7,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-38,RD Gaikwad,CA Young,YBK Jaiswal,1,0,1,46,19,17,1,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-39,YBK Jaiswal,CA Young,RD Gaikwad,0,0,0,46,24,23,2,7,,-,caught,YBK Jaiswal,PR Stirling,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-40,Tilak Varma,CA Young,RD Gaikwad,0,0,0,46,0,1,3,7,,-,caught,Tilak Varma,L Tucker,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-41,SV Samson,CA Young,RD Gaikwad,1,0,1,47,1,1,4,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
-42,RD Gaikwad,CA Young,SV Samson,0,0,0,47,19,18,5,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,Ireland
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,0,0,1,1,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+1,YBK Jaiswal,MR Adair,RD Gaikwad,2,0,2,2,2,2,2,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+2,YBK Jaiswal,MR Adair,RD Gaikwad,4,0,4,6,6,3,3,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+3,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,6,6,4,4,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+4,YBK Jaiswal,MR Adair,RD Gaikwad,4,0,4,10,10,5,5,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+5,YBK Jaiswal,MR Adair,RD Gaikwad,0,0,0,10,10,6,6,1,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+6,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,10,0,1,1,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+7,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,11,1,2,2,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+8,YBK Jaiswal,J Little,RD Gaikwad,0,1,1,12,10,7,3,2,,legbyes,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+9,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,13,2,3,4,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+10,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,13,10,8,5,2,"{'by': 'Ireland', 'umpire': 'R Black', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+11,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,13,10,9,6,2,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+12,RD Gaikwad,BJ McCarthy,YBK Jaiswal,0,0,0,13,2,4,1,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+13,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,14,3,5,2,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+14,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,14,10,10,3,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+15,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,14,10,11,4,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+16,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,15,11,12,5,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+17,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,16,4,6,6,3,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+18,RD Gaikwad,J Little,YBK Jaiswal,4,0,4,20,8,7,1,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+19,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,21,9,8,2,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+20,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,21,11,13,3,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+21,YBK Jaiswal,J Little,RD Gaikwad,1,0,1,22,12,14,4,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+22,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,22,9,9,5,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+23,RD Gaikwad,J Little,YBK Jaiswal,0,0,0,22,9,10,6,4,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+24,YBK Jaiswal,BJ McCarthy,RD Gaikwad,0,0,0,22,12,15,1,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+25,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,23,13,16,2,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+26,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,24,10,11,3,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+27,YBK Jaiswal,BJ McCarthy,RD Gaikwad,1,0,1,25,14,17,4,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+28,RD Gaikwad,BJ McCarthy,YBK Jaiswal,6,0,6,31,16,12,5,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+29,RD Gaikwad,BJ McCarthy,YBK Jaiswal,0,1,1,32,16,13,6,5,,wides,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+30,RD Gaikwad,BJ McCarthy,YBK Jaiswal,1,0,1,33,17,14,7,5,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+31,RD Gaikwad,J Little,YBK Jaiswal,0,1,1,34,17,15,1,6,,wides,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+32,RD Gaikwad,J Little,YBK Jaiswal,1,0,1,35,18,16,2,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+33,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,35,14,18,3,6,"{'by': 'Ireland', 'umpire': 'R Black', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+34,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,35,14,19,4,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+35,YBK Jaiswal,J Little,RD Gaikwad,4,0,4,39,18,20,5,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+36,YBK Jaiswal,J Little,RD Gaikwad,0,0,0,39,18,21,6,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+37,YBK Jaiswal,J Little,RD Gaikwad,6,0,6,45,24,22,7,6,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+38,RD Gaikwad,CA Young,YBK Jaiswal,1,0,1,46,19,17,1,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+39,YBK Jaiswal,CA Young,RD Gaikwad,0,0,0,46,24,23,2,7,,-,caught,YBK Jaiswal,PR Stirling,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+40,Tilak Varma,CA Young,RD Gaikwad,0,0,0,46,0,1,3,7,,-,caught,Tilak Varma,L Tucker,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+41,SV Samson,CA Young,RD Gaikwad,1,0,1,47,1,1,4,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland
+42,RD Gaikwad,CA Young,SV Samson,0,0,0,47,19,18,5,7,,-,0,,,field,India,2,"Malahide, Dublin",2023-08-18,India,India,Ireland

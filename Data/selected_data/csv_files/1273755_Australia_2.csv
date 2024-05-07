@@ -1,120 +1,120 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,DA Warner,Shaheen Shah Afridi,AJ Finch,,0,0,0,0,0,1,1,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-1,DA Warner,Shaheen Shah Afridi,AJ Finch,,1,0,1,1,1,2,2,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-2,AJ Finch,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,1,3,lbw,AJ Finch,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-3,MR Marsh,Shaheen Shah Afridi,DA Warner,"{'by': 'Pakistan', 'umpire': 'CB Gaffaney', 'batter': 'MR Marsh', 'decision': 'struck down', 'umpires_call': True}",0,0,0,1,0,1,4,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-4,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,2,5,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-5,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,3,6,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-6,DA Warner,Imad Wasim,MR Marsh,,0,0,0,1,1,3,1,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-7,DA Warner,Imad Wasim,MR Marsh,,1,0,1,2,2,4,2,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-8,MR Marsh,Imad Wasim,DA Warner,,0,0,0,2,0,4,3,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-9,MR Marsh,Imad Wasim,DA Warner,,1,0,1,3,1,5,4,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-10,DA Warner,Imad Wasim,MR Marsh,,1,0,1,4,3,5,5,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-11,MR Marsh,Imad Wasim,DA Warner,,2,0,2,6,3,6,6,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-12,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,6,3,6,1,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-13,DA Warner,Shaheen Shah Afridi,MR Marsh,,1,1,2,8,4,7,2,0,,,3,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-14,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,8,3,7,3,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-15,MR Marsh,Shaheen Shah Afridi,DA Warner,,4,0,4,12,7,8,4,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-16,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,12,7,9,5,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-17,MR Marsh,Shaheen Shah Afridi,DA Warner,,1,0,1,13,8,10,6,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-18,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,13,4,8,7,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-19,MR Marsh,Imad Wasim,DA Warner,,1,0,1,14,9,11,1,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-20,DA Warner,Imad Wasim,MR Marsh,,6,0,6,20,10,9,2,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-21,DA Warner,Imad Wasim,MR Marsh,,4,0,4,24,14,10,3,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-22,DA Warner,Imad Wasim,MR Marsh,,4,0,4,28,18,11,4,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-23,DA Warner,Imad Wasim,MR Marsh,,1,0,1,29,19,12,5,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-24,MR Marsh,Imad Wasim,DA Warner,,1,0,1,30,10,12,6,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-25,MR Marsh,Haris Rauf,DA Warner,,6,0,6,36,16,13,1,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-26,MR Marsh,Haris Rauf,DA Warner,,4,0,4,40,20,14,2,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-27,MR Marsh,Haris Rauf,DA Warner,,1,0,1,41,21,15,3,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-28,DA Warner,Haris Rauf,MR Marsh,,1,0,1,42,20,13,4,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-29,MR Marsh,Haris Rauf,DA Warner,,1,0,1,43,22,16,5,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-30,DA Warner,Haris Rauf,MR Marsh,,1,0,1,44,21,14,6,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-31,DA Warner,Hasan Ali,MR Marsh,,1,0,1,45,22,15,1,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-32,MR Marsh,Hasan Ali,DA Warner,,4,0,4,49,26,17,2,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-33,MR Marsh,Hasan Ali,DA Warner,,1,0,1,50,27,18,3,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-34,DA Warner,Hasan Ali,MR Marsh,,1,0,1,51,23,16,4,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-35,MR Marsh,Hasan Ali,DA Warner,,0,0,0,51,27,19,5,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-36,MR Marsh,Hasan Ali,DA Warner,,1,0,1,52,28,20,6,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-37,MR Marsh,Shadab Khan,DA Warner,,0,0,0,52,28,21,1,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-38,MR Marsh,Shadab Khan,DA Warner,,0,0,0,52,28,22,2,caught,MR Marsh,Asif Ali,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-39,DA Warner,Shadab Khan,SPD Smith,,1,0,1,53,24,17,3,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-40,SPD Smith,Shadab Khan,DA Warner,,0,0,0,53,0,1,4,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-41,SPD Smith,Shadab Khan,DA Warner,,4,0,4,57,4,2,5,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-42,SPD Smith,Shadab Khan,DA Warner,,0,0,0,57,4,3,6,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-43,DA Warner,Mohammad Hafeez,SPD Smith,,6,1,7,64,30,18,1,0,,,8,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-44,DA Warner,Mohammad Hafeez,SPD Smith,,2,0,2,66,32,19,2,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-45,DA Warner,Mohammad Hafeez,SPD Smith,,1,0,1,67,33,20,3,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-46,SPD Smith,Mohammad Hafeez,DA Warner,,0,1,1,68,4,4,4,0,,,8,wides,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-47,SPD Smith,Mohammad Hafeez,DA Warner,,1,0,1,69,5,5,5,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-48,DA Warner,Mohammad Hafeez,SPD Smith,,0,0,0,69,33,21,6,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-49,DA Warner,Mohammad Hafeez,SPD Smith,,1,0,1,70,34,22,7,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-50,SPD Smith,Mohammad Hafeez,DA Warner,,0,0,0,70,5,6,8,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-51,DA Warner,Shadab Khan,SPD Smith,,6,0,6,76,40,23,1,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-52,DA Warner,Shadab Khan,SPD Smith,,1,0,1,77,41,24,2,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-53,SPD Smith,Shadab Khan,DA Warner,,0,0,0,77,5,7,3,caught,SPD Smith,Fakhar Zaman,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-54,DA Warner,Shadab Khan,GJ Maxwell,,1,0,1,78,42,25,4,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-55,GJ Maxwell,Shadab Khan,DA Warner,,1,0,1,79,1,1,5,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-56,DA Warner,Shadab Khan,GJ Maxwell,,1,0,1,80,43,26,6,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-57,DA Warner,Hasan Ali,GJ Maxwell,,4,0,4,84,47,27,1,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-58,DA Warner,Hasan Ali,GJ Maxwell,,1,0,1,85,48,28,2,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-59,GJ Maxwell,Hasan Ali,DA Warner,,0,0,0,85,1,2,3,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-60,GJ Maxwell,Hasan Ali,DA Warner,,2,0,2,87,3,3,4,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-61,GJ Maxwell,Hasan Ali,DA Warner,,1,0,1,88,4,4,5,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-62,DA Warner,Hasan Ali,GJ Maxwell,,1,0,1,89,49,29,6,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-63,DA Warner,Shadab Khan,GJ Maxwell,,0,0,0,89,49,30,1,caught,DA Warner,Mohammad Rizwan,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-64,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,90,1,1,2,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-65,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,90,4,5,3,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-66,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,90,4,6,4,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-67,GJ Maxwell,Shadab Khan,MP Stoinis,,1,0,1,91,5,7,5,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-68,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,92,2,2,6,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-69,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,3,1,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-70,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,4,2,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-71,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,5,3,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-72,MP Stoinis,Imad Wasim,GJ Maxwell,,1,0,1,93,3,6,4,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-73,GJ Maxwell,Imad Wasim,MP Stoinis,,0,0,0,93,5,8,5,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-74,GJ Maxwell,Imad Wasim,MP Stoinis,,2,0,2,95,7,9,6,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-75,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,96,4,7,1,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-76,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,96,7,10,2,caught,GJ Maxwell,Haris Rauf,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-77,MP Stoinis,Shadab Khan,MS Wade,,6,0,6,102,10,8,3,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-78,MP Stoinis,Shadab Khan,MS Wade,,0,0,0,102,10,9,4,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-79,MP Stoinis,Shadab Khan,MS Wade,,1,0,1,103,11,10,5,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-80,MS Wade,Shadab Khan,MP Stoinis,,0,0,0,103,0,1,6,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-81,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,103,11,11,1,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-82,MP Stoinis,Haris Rauf,MS Wade,,0,1,1,104,11,12,2,0,,,14,legbyes,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-83,MS Wade,Haris Rauf,MP Stoinis,,0,0,0,104,0,2,3,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-84,MS Wade,Haris Rauf,MP Stoinis,,4,0,4,108,4,3,4,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-85,MS Wade,Haris Rauf,MP Stoinis,,1,0,1,109,5,4,5,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-86,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,109,11,13,6,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-87,MS Wade,Shaheen Shah Afridi,MP Stoinis,,1,0,1,110,6,5,1,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-88,MP Stoinis,Shaheen Shah Afridi,MS Wade,,1,0,1,111,12,14,2,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-89,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,0,0,111,6,6,3,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-90,MS Wade,Shaheen Shah Afridi,MP Stoinis,,1,0,1,112,7,7,4,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-91,MP Stoinis,Shaheen Shah Afridi,MS Wade,,2,0,2,114,14,15,5,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-92,MP Stoinis,Shaheen Shah Afridi,MS Wade,,1,0,1,115,15,16,6,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-93,MP Stoinis,Hasan Ali,MS Wade,,4,0,4,119,19,17,1,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-94,MP Stoinis,Hasan Ali,MS Wade,,2,1,3,122,21,18,2,0,,,16,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-95,MP Stoinis,Hasan Ali,MS Wade,,2,0,2,124,23,19,3,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-96,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,125,24,20,4,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-97,MS Wade,Hasan Ali,MP Stoinis,,1,0,1,126,8,8,5,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-98,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,127,25,21,6,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-99,MS Wade,Hasan Ali,MP Stoinis,,0,0,0,127,8,9,7,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-100,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,127,25,22,1,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-101,MP Stoinis,Haris Rauf,MS Wade,,2,0,2,129,27,23,2,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-102,MP Stoinis,Haris Rauf,MS Wade,,6,0,6,135,33,24,3,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-103,MP Stoinis,Haris Rauf,MS Wade,,4,0,4,139,37,25,4,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-104,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,139,37,26,5,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-105,MP Stoinis,Haris Rauf,MS Wade,,1,0,1,140,38,27,6,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-106,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,141,39,28,1,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-107,MS Wade,Hasan Ali,MP Stoinis,,2,0,2,143,10,10,2,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-108,MS Wade,Hasan Ali,MP Stoinis,,6,0,6,149,16,11,3,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-109,MS Wade,Hasan Ali,MP Stoinis,,1,0,1,150,17,12,4,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-110,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,151,40,29,5,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-111,MS Wade,Hasan Ali,MP Stoinis,,4,0,4,155,21,13,6,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-112,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,0,0,155,40,30,1,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-113,MP Stoinis,Shaheen Shah Afridi,MS Wade,"{'by': 'Pakistan', 'umpire': 'CB Gaffaney', 'batter': 'MP Stoinis', 'decision': 'struck down'}",0,1,1,156,40,31,2,0,,,19,legbyes,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-114,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,1,1,157,21,14,3,0,,,19,wides,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-115,MS Wade,Shaheen Shah Afridi,MP Stoinis,,2,0,2,159,23,15,4,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-116,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,165,29,16,5,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-117,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,171,35,17,6,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
-118,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,177,41,18,7,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Pakistan
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,DA Warner,Shaheen Shah Afridi,AJ Finch,,0,0,0,0,0,1,1,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+1,DA Warner,Shaheen Shah Afridi,AJ Finch,,1,0,1,1,1,2,2,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+2,AJ Finch,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,1,3,lbw,AJ Finch,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+3,MR Marsh,Shaheen Shah Afridi,DA Warner,"{'by': 'Pakistan', 'umpire': 'CB Gaffaney', 'batter': 'MR Marsh', 'decision': 'struck down', 'umpires_call': True}",0,0,0,1,0,1,4,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+4,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,2,5,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+5,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,1,0,3,6,0,,,1,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+6,DA Warner,Imad Wasim,MR Marsh,,0,0,0,1,1,3,1,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+7,DA Warner,Imad Wasim,MR Marsh,,1,0,1,2,2,4,2,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+8,MR Marsh,Imad Wasim,DA Warner,,0,0,0,2,0,4,3,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+9,MR Marsh,Imad Wasim,DA Warner,,1,0,1,3,1,5,4,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+10,DA Warner,Imad Wasim,MR Marsh,,1,0,1,4,3,5,5,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+11,MR Marsh,Imad Wasim,DA Warner,,2,0,2,6,3,6,6,0,,,2,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+12,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,6,3,6,1,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+13,DA Warner,Shaheen Shah Afridi,MR Marsh,,1,1,2,8,4,7,2,0,,,3,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+14,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,8,3,7,3,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+15,MR Marsh,Shaheen Shah Afridi,DA Warner,,4,0,4,12,7,8,4,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+16,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,12,7,9,5,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+17,MR Marsh,Shaheen Shah Afridi,DA Warner,,1,0,1,13,8,10,6,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+18,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,13,4,8,7,0,,,3,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+19,MR Marsh,Imad Wasim,DA Warner,,1,0,1,14,9,11,1,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+20,DA Warner,Imad Wasim,MR Marsh,,6,0,6,20,10,9,2,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+21,DA Warner,Imad Wasim,MR Marsh,,4,0,4,24,14,10,3,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+22,DA Warner,Imad Wasim,MR Marsh,,4,0,4,28,18,11,4,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+23,DA Warner,Imad Wasim,MR Marsh,,1,0,1,29,19,12,5,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+24,MR Marsh,Imad Wasim,DA Warner,,1,0,1,30,10,12,6,0,,,4,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+25,MR Marsh,Haris Rauf,DA Warner,,6,0,6,36,16,13,1,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+26,MR Marsh,Haris Rauf,DA Warner,,4,0,4,40,20,14,2,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+27,MR Marsh,Haris Rauf,DA Warner,,1,0,1,41,21,15,3,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+28,DA Warner,Haris Rauf,MR Marsh,,1,0,1,42,20,13,4,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+29,MR Marsh,Haris Rauf,DA Warner,,1,0,1,43,22,16,5,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+30,DA Warner,Haris Rauf,MR Marsh,,1,0,1,44,21,14,6,0,,,5,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+31,DA Warner,Hasan Ali,MR Marsh,,1,0,1,45,22,15,1,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+32,MR Marsh,Hasan Ali,DA Warner,,4,0,4,49,26,17,2,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+33,MR Marsh,Hasan Ali,DA Warner,,1,0,1,50,27,18,3,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+34,DA Warner,Hasan Ali,MR Marsh,,1,0,1,51,23,16,4,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+35,MR Marsh,Hasan Ali,DA Warner,,0,0,0,51,27,19,5,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+36,MR Marsh,Hasan Ali,DA Warner,,1,0,1,52,28,20,6,0,,,6,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+37,MR Marsh,Shadab Khan,DA Warner,,0,0,0,52,28,21,1,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+38,MR Marsh,Shadab Khan,DA Warner,,0,0,0,52,28,22,2,caught,MR Marsh,Asif Ali,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+39,DA Warner,Shadab Khan,SPD Smith,,1,0,1,53,24,17,3,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+40,SPD Smith,Shadab Khan,DA Warner,,0,0,0,53,0,1,4,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+41,SPD Smith,Shadab Khan,DA Warner,,4,0,4,57,4,2,5,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+42,SPD Smith,Shadab Khan,DA Warner,,0,0,0,57,4,3,6,0,,,7,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+43,DA Warner,Mohammad Hafeez,SPD Smith,,6,1,7,64,30,18,1,0,,,8,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+44,DA Warner,Mohammad Hafeez,SPD Smith,,2,0,2,66,32,19,2,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+45,DA Warner,Mohammad Hafeez,SPD Smith,,1,0,1,67,33,20,3,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+46,SPD Smith,Mohammad Hafeez,DA Warner,,0,1,1,68,4,4,4,0,,,8,wides,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+47,SPD Smith,Mohammad Hafeez,DA Warner,,1,0,1,69,5,5,5,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+48,DA Warner,Mohammad Hafeez,SPD Smith,,0,0,0,69,33,21,6,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+49,DA Warner,Mohammad Hafeez,SPD Smith,,1,0,1,70,34,22,7,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+50,SPD Smith,Mohammad Hafeez,DA Warner,,0,0,0,70,5,6,8,0,,,8,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+51,DA Warner,Shadab Khan,SPD Smith,,6,0,6,76,40,23,1,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+52,DA Warner,Shadab Khan,SPD Smith,,1,0,1,77,41,24,2,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+53,SPD Smith,Shadab Khan,DA Warner,,0,0,0,77,5,7,3,caught,SPD Smith,Fakhar Zaman,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+54,DA Warner,Shadab Khan,GJ Maxwell,,1,0,1,78,42,25,4,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+55,GJ Maxwell,Shadab Khan,DA Warner,,1,0,1,79,1,1,5,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+56,DA Warner,Shadab Khan,GJ Maxwell,,1,0,1,80,43,26,6,0,,,9,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+57,DA Warner,Hasan Ali,GJ Maxwell,,4,0,4,84,47,27,1,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+58,DA Warner,Hasan Ali,GJ Maxwell,,1,0,1,85,48,28,2,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+59,GJ Maxwell,Hasan Ali,DA Warner,,0,0,0,85,1,2,3,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+60,GJ Maxwell,Hasan Ali,DA Warner,,2,0,2,87,3,3,4,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+61,GJ Maxwell,Hasan Ali,DA Warner,,1,0,1,88,4,4,5,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+62,DA Warner,Hasan Ali,GJ Maxwell,,1,0,1,89,49,29,6,0,,,10,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+63,DA Warner,Shadab Khan,GJ Maxwell,,0,0,0,89,49,30,1,caught,DA Warner,Mohammad Rizwan,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+64,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,90,1,1,2,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+65,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,90,4,5,3,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+66,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,90,4,6,4,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+67,GJ Maxwell,Shadab Khan,MP Stoinis,,1,0,1,91,5,7,5,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+68,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,92,2,2,6,0,,,11,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+69,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,3,1,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+70,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,4,2,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+71,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,92,2,5,3,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+72,MP Stoinis,Imad Wasim,GJ Maxwell,,1,0,1,93,3,6,4,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+73,GJ Maxwell,Imad Wasim,MP Stoinis,,0,0,0,93,5,8,5,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+74,GJ Maxwell,Imad Wasim,MP Stoinis,,2,0,2,95,7,9,6,0,,,12,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+75,MP Stoinis,Shadab Khan,GJ Maxwell,,1,0,1,96,4,7,1,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+76,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,96,7,10,2,caught,GJ Maxwell,Haris Rauf,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+77,MP Stoinis,Shadab Khan,MS Wade,,6,0,6,102,10,8,3,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+78,MP Stoinis,Shadab Khan,MS Wade,,0,0,0,102,10,9,4,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+79,MP Stoinis,Shadab Khan,MS Wade,,1,0,1,103,11,10,5,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+80,MS Wade,Shadab Khan,MP Stoinis,,0,0,0,103,0,1,6,0,,,13,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+81,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,103,11,11,1,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+82,MP Stoinis,Haris Rauf,MS Wade,,0,1,1,104,11,12,2,0,,,14,legbyes,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+83,MS Wade,Haris Rauf,MP Stoinis,,0,0,0,104,0,2,3,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+84,MS Wade,Haris Rauf,MP Stoinis,,4,0,4,108,4,3,4,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+85,MS Wade,Haris Rauf,MP Stoinis,,1,0,1,109,5,4,5,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+86,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,109,11,13,6,0,,,14,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+87,MS Wade,Shaheen Shah Afridi,MP Stoinis,,1,0,1,110,6,5,1,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+88,MP Stoinis,Shaheen Shah Afridi,MS Wade,,1,0,1,111,12,14,2,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+89,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,0,0,111,6,6,3,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+90,MS Wade,Shaheen Shah Afridi,MP Stoinis,,1,0,1,112,7,7,4,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+91,MP Stoinis,Shaheen Shah Afridi,MS Wade,,2,0,2,114,14,15,5,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+92,MP Stoinis,Shaheen Shah Afridi,MS Wade,,1,0,1,115,15,16,6,0,,,15,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+93,MP Stoinis,Hasan Ali,MS Wade,,4,0,4,119,19,17,1,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+94,MP Stoinis,Hasan Ali,MS Wade,,2,1,3,122,21,18,2,0,,,16,noballs,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+95,MP Stoinis,Hasan Ali,MS Wade,,2,0,2,124,23,19,3,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+96,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,125,24,20,4,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+97,MS Wade,Hasan Ali,MP Stoinis,,1,0,1,126,8,8,5,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+98,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,127,25,21,6,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+99,MS Wade,Hasan Ali,MP Stoinis,,0,0,0,127,8,9,7,0,,,16,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+100,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,127,25,22,1,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+101,MP Stoinis,Haris Rauf,MS Wade,,2,0,2,129,27,23,2,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+102,MP Stoinis,Haris Rauf,MS Wade,,6,0,6,135,33,24,3,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+103,MP Stoinis,Haris Rauf,MS Wade,,4,0,4,139,37,25,4,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+104,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,139,37,26,5,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+105,MP Stoinis,Haris Rauf,MS Wade,,1,0,1,140,38,27,6,0,,,17,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+106,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,141,39,28,1,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+107,MS Wade,Hasan Ali,MP Stoinis,,2,0,2,143,10,10,2,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+108,MS Wade,Hasan Ali,MP Stoinis,,6,0,6,149,16,11,3,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+109,MS Wade,Hasan Ali,MP Stoinis,,1,0,1,150,17,12,4,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+110,MP Stoinis,Hasan Ali,MS Wade,,1,0,1,151,40,29,5,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+111,MS Wade,Hasan Ali,MP Stoinis,,4,0,4,155,21,13,6,0,,,18,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+112,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,0,0,155,40,30,1,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+113,MP Stoinis,Shaheen Shah Afridi,MS Wade,"{'by': 'Pakistan', 'umpire': 'CB Gaffaney', 'batter': 'MP Stoinis', 'decision': 'struck down'}",0,1,1,156,40,31,2,0,,,19,legbyes,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+114,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,1,1,157,21,14,3,0,,,19,wides,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+115,MS Wade,Shaheen Shah Afridi,MP Stoinis,,2,0,2,159,23,15,4,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+116,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,165,29,16,5,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+117,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,171,35,17,6,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan
+118,MS Wade,Shaheen Shah Afridi,MP Stoinis,,6,0,6,177,41,18,7,0,,,19,-,field,Australia,2,Dubai International Cricket Stadium,2021-11-11,Australia,Australia,Pakistan

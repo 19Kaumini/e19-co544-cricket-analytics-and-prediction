@@ -1,6 +1,6 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,JDP Oram,SJ Benn,BB McCullum,6,0,6,6,6,1,1,-,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,New Zealand,New Zealand
-1,JDP Oram,SJ Benn,BB McCullum,2,0,2,8,8,2,2,-,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,New Zealand,New Zealand
-2,JDP Oram,SJ Benn,BB McCullum,0,0,0,8,8,3,3,-,caught,JDP Oram,XM Marshall,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,New Zealand,New Zealand
-3,LRPL Taylor,SJ Benn,BB McCullum,6,1,7,15,6,1,4,noballs,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,New Zealand,New Zealand
-4,LRPL Taylor,SJ Benn,BB McCullum,0,0,0,15,6,2,5,-,bowled,LRPL Taylor,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,New Zealand,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,JDP Oram,SJ Benn,BB McCullum,6,0,6,6,6,1,1,-,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,tie,New Zealand,New Zealand
+1,JDP Oram,SJ Benn,BB McCullum,2,0,2,8,8,2,2,-,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,tie,New Zealand,New Zealand
+2,JDP Oram,SJ Benn,BB McCullum,0,0,0,8,8,3,3,-,caught,JDP Oram,XM Marshall,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,tie,New Zealand,New Zealand
+3,LRPL Taylor,SJ Benn,BB McCullum,6,1,7,15,6,1,4,noballs,0,,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,tie,New Zealand,New Zealand
+4,LRPL Taylor,SJ Benn,BB McCullum,0,0,0,15,6,2,5,-,bowled,LRPL Taylor,,1,bat,New Zealand,4,"Eden Park, Auckland",2008-12-26,tie,New Zealand,New Zealand

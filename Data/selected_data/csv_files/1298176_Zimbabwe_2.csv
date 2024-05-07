@@ -1,112 +1,112 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,batting_team,bowling_team
-0,W Madhevere,B Kumar,CR Ervine,,0,0,0,0,0,1,1,caught,W Madhevere,V Kohli,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-1,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,1,2,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-2,RW Chakabva,B Kumar,CR Ervine,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RW Chakabva', 'decision': 'struck down'}",0,0,0,0,0,2,3,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-3,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,3,4,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-4,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,4,5,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-5,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,5,6,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-6,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,1,1,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-7,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,2,2,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-8,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,3,3,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-9,CR Ervine,Arshdeep Singh,RW Chakabva,,0,2,2,2,0,4,4,0,,,2,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-10,RW Chakabva,Arshdeep Singh,CR Ervine,,0,0,0,2,0,6,5,bowled,RW Chakabva,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-11,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,2,0,1,6,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-12,SC Williams,Arshdeep Singh,CR Ervine,,1,0,1,3,1,2,7,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-13,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,3,1,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-14,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,4,2,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-15,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,5,3,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-16,SC Williams,B Kumar,CR Ervine,,2,0,2,5,3,6,4,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-17,SC Williams,B Kumar,CR Ervine,,0,0,0,5,3,7,5,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-18,SC Williams,B Kumar,CR Ervine,,0,1,1,6,3,8,6,0,,,3,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-19,SC Williams,B Kumar,CR Ervine,,0,1,1,7,3,9,7,0,,,3,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-20,SC Williams,Arshdeep Singh,CR Ervine,,0,1,1,8,3,10,1,0,,,4,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-21,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,8,3,11,2,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-22,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,8,3,12,3,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-23,SC Williams,Arshdeep Singh,CR Ervine,,1,0,1,9,4,13,4,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-24,CR Ervine,Arshdeep Singh,SC Williams,,4,0,4,13,4,5,5,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-25,CR Ervine,Arshdeep Singh,SC Williams,,0,0,0,13,4,6,6,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-26,CR Ervine,Arshdeep Singh,SC Williams,,0,0,0,13,4,7,7,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-27,SC Williams,B Kumar,CR Ervine,,1,0,1,14,5,14,1,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-28,CR Ervine,B Kumar,SC Williams,,0,0,0,14,4,8,2,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-29,CR Ervine,B Kumar,SC Williams,,0,0,0,14,4,9,3,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-30,CR Ervine,B Kumar,SC Williams,,4,0,4,18,8,10,4,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-31,CR Ervine,B Kumar,SC Williams,,3,0,3,21,11,11,5,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-32,SC Williams,B Kumar,CR Ervine,,0,0,0,21,5,15,6,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-33,CR Ervine,Mohammed Shami,SC Williams,,1,0,1,22,12,12,1,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-34,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,22,5,16,2,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-35,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,22,5,17,3,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-36,SC Williams,Mohammed Shami,CR Ervine,,6,0,6,28,11,18,4,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-37,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,28,11,19,5,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-38,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,28,11,20,6,caught,SC Williams,B Kumar,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-39,CR Ervine,HH Pandya,Sikandar Raza,,1,0,1,29,13,13,1,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-40,Sikandar Raza,HH Pandya,CR Ervine,,1,0,1,30,1,1,2,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-41,CR Ervine,HH Pandya,Sikandar Raza,,0,1,1,31,13,14,3,0,,,7,noballs,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-42,CR Ervine,HH Pandya,Sikandar Raza,,0,0,0,31,13,15,4,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-43,CR Ervine,HH Pandya,Sikandar Raza,,0,0,0,31,13,16,5,caught and bowled,CR Ervine,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-44,T Munyonga,HH Pandya,Sikandar Raza,,1,0,1,32,1,1,6,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-45,Sikandar Raza,HH Pandya,T Munyonga,,0,0,0,32,1,2,7,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-46,T Munyonga,Mohammed Shami,Sikandar Raza,,4,0,4,36,5,2,1,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-47,T Munyonga,Mohammed Shami,Sikandar Raza,,0,0,0,36,5,3,2,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-48,T Munyonga,Mohammed Shami,Sikandar Raza,"{'by': 'Zimbabwe', 'umpire': 'RJ Tucker', 'batter': 'T Munyonga', 'decision': 'struck down'}",0,0,0,36,5,4,3,lbw,T Munyonga,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-49,RP Burl,Mohammed Shami,Sikandar Raza,,1,0,1,37,1,1,4,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-50,Sikandar Raza,Mohammed Shami,RP Burl,,0,0,0,37,1,3,5,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-51,Sikandar Raza,Mohammed Shami,RP Burl,,2,0,2,39,3,4,6,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-52,RP Burl,HH Pandya,Sikandar Raza,,2,0,2,41,3,2,1,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-53,RP Burl,HH Pandya,Sikandar Raza,,0,0,0,41,3,3,2,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-54,RP Burl,HH Pandya,Sikandar Raza,,0,1,1,42,3,4,3,0,,,9,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-55,RP Burl,HH Pandya,Sikandar Raza,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RP Burl', 'decision': 'struck down'}",0,0,0,42,3,5,4,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-56,RP Burl,HH Pandya,Sikandar Raza,,0,0,0,42,3,6,5,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-57,RP Burl,HH Pandya,Sikandar Raza,,4,0,4,46,7,7,6,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-58,RP Burl,HH Pandya,Sikandar Raza,,1,0,1,47,8,8,7,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-59,RP Burl,R Ashwin,Sikandar Raza,,1,0,1,48,9,9,1,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-60,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,49,4,5,2,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-61,RP Burl,R Ashwin,Sikandar Raza,,4,0,4,53,13,10,3,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-62,RP Burl,R Ashwin,Sikandar Raza,,1,0,1,54,14,11,4,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-63,Sikandar Raza,R Ashwin,RP Burl,,4,0,4,58,8,6,5,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-64,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,59,9,7,6,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-65,Sikandar Raza,AR Patel,RP Burl,,4,0,4,63,13,8,1,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-66,Sikandar Raza,AR Patel,RP Burl,,2,0,2,65,15,9,2,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-67,Sikandar Raza,AR Patel,RP Burl,,2,0,2,67,17,10,3,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-68,Sikandar Raza,AR Patel,RP Burl,,1,0,1,68,18,11,4,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-69,RP Burl,AR Patel,Sikandar Raza,,6,0,6,74,20,12,5,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-70,RP Burl,AR Patel,Sikandar Raza,,0,1,1,75,20,13,6,0,,,11,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-71,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,75,20,14,1,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-72,RP Burl,R Ashwin,Sikandar Raza,,2,0,2,77,22,15,2,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-73,RP Burl,R Ashwin,Sikandar Raza,,4,0,4,81,26,16,3,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-74,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,17,4,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-75,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,18,5,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-76,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,19,6,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-77,Sikandar Raza,AR Patel,RP Burl,,1,0,1,82,19,12,1,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-78,RP Burl,AR Patel,Sikandar Raza,,1,0,1,83,27,20,2,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-79,Sikandar Raza,AR Patel,RP Burl,,2,0,2,85,21,13,3,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-80,Sikandar Raza,AR Patel,RP Burl,,1,0,1,86,22,14,4,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-81,RP Burl,AR Patel,Sikandar Raza,,4,0,4,90,31,21,5,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-82,RP Burl,AR Patel,Sikandar Raza,,4,0,4,94,35,22,6,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-83,Sikandar Raza,R Ashwin,RP Burl,,0,1,1,95,22,15,1,0,,,14,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-84,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,96,23,16,2,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-85,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,96,35,23,3,bowled,RP Burl,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-86,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,1,4,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-87,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,2,5,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-88,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,3,6,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-89,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,4,7,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-90,Sikandar Raza,AR Patel,WP Masakadza,,2,0,2,98,25,17,1,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-91,Sikandar Raza,AR Patel,WP Masakadza,,0,0,0,98,25,18,2,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-92,Sikandar Raza,AR Patel,WP Masakadza,,4,0,4,102,29,19,3,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-93,Sikandar Raza,AR Patel,WP Masakadza,,1,0,1,103,30,20,4,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-94,WP Masakadza,AR Patel,Sikandar Raza,,0,0,0,103,0,5,5,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-95,WP Masakadza,AR Patel,Sikandar Raza,,1,0,1,104,1,6,6,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-96,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,104,1,7,1,caught,WP Masakadza,RG Sharma,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-97,R Ngarava,R Ashwin,Sikandar Raza,,1,0,1,105,1,1,2,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-98,Sikandar Raza,R Ashwin,R Ngarava,,0,0,0,105,30,21,3,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-99,Sikandar Raza,R Ashwin,R Ngarava,,1,0,1,106,31,22,4,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-100,R Ngarava,R Ashwin,Sikandar Raza,,0,0,0,106,1,2,5,bowled,R Ngarava,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-101,TL Chatara,R Ashwin,Sikandar Raza,,0,0,0,106,0,1,6,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-102,Sikandar Raza,HH Pandya,TL Chatara,,2,0,2,108,33,23,1,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-103,Sikandar Raza,HH Pandya,TL Chatara,,1,0,1,109,34,24,2,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-104,TL Chatara,HH Pandya,Sikandar Raza,,0,1,1,110,0,2,3,0,,,17,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-105,Sikandar Raza,HH Pandya,TL Chatara,,0,1,1,111,34,25,4,0,,,17,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-106,Sikandar Raza,HH Pandya,TL Chatara,,0,0,0,111,34,26,5,caught,Sikandar Raza,SA Yadav,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-107,B Muzarabani,HH Pandya,TL Chatara,,0,0,0,111,0,1,6,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-108,B Muzarabani,HH Pandya,TL Chatara,,0,0,0,111,0,2,7,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-109,TL Chatara,AR Patel,B Muzarabani,,4,0,4,115,4,3,1,0,,,18,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
-110,TL Chatara,AR Patel,B Muzarabani,,0,0,0,115,4,4,2,caught and bowled,TL Chatara,,18,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,Zimbabwe,India
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,batter_runs,balls_faced,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,date,winning_team,batting_team,bowling_team
+0,W Madhevere,B Kumar,CR Ervine,,0,0,0,0,0,1,1,caught,W Madhevere,V Kohli,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+1,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,1,2,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+2,RW Chakabva,B Kumar,CR Ervine,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RW Chakabva', 'decision': 'struck down'}",0,0,0,0,0,2,3,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+3,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,3,4,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+4,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,4,5,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+5,RW Chakabva,B Kumar,CR Ervine,,0,0,0,0,0,5,6,0,,,1,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+6,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,1,1,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+7,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,2,2,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+8,CR Ervine,Arshdeep Singh,RW Chakabva,,0,0,0,0,0,3,3,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+9,CR Ervine,Arshdeep Singh,RW Chakabva,,0,2,2,2,0,4,4,0,,,2,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+10,RW Chakabva,Arshdeep Singh,CR Ervine,,0,0,0,2,0,6,5,bowled,RW Chakabva,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+11,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,2,0,1,6,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+12,SC Williams,Arshdeep Singh,CR Ervine,,1,0,1,3,1,2,7,0,,,2,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+13,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,3,1,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+14,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,4,2,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+15,SC Williams,B Kumar,CR Ervine,,0,0,0,3,1,5,3,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+16,SC Williams,B Kumar,CR Ervine,,2,0,2,5,3,6,4,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+17,SC Williams,B Kumar,CR Ervine,,0,0,0,5,3,7,5,0,,,3,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+18,SC Williams,B Kumar,CR Ervine,,0,1,1,6,3,8,6,0,,,3,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+19,SC Williams,B Kumar,CR Ervine,,0,1,1,7,3,9,7,0,,,3,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+20,SC Williams,Arshdeep Singh,CR Ervine,,0,1,1,8,3,10,1,0,,,4,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+21,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,8,3,11,2,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+22,SC Williams,Arshdeep Singh,CR Ervine,,0,0,0,8,3,12,3,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+23,SC Williams,Arshdeep Singh,CR Ervine,,1,0,1,9,4,13,4,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+24,CR Ervine,Arshdeep Singh,SC Williams,,4,0,4,13,4,5,5,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+25,CR Ervine,Arshdeep Singh,SC Williams,,0,0,0,13,4,6,6,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+26,CR Ervine,Arshdeep Singh,SC Williams,,0,0,0,13,4,7,7,0,,,4,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+27,SC Williams,B Kumar,CR Ervine,,1,0,1,14,5,14,1,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+28,CR Ervine,B Kumar,SC Williams,,0,0,0,14,4,8,2,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+29,CR Ervine,B Kumar,SC Williams,,0,0,0,14,4,9,3,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+30,CR Ervine,B Kumar,SC Williams,,4,0,4,18,8,10,4,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+31,CR Ervine,B Kumar,SC Williams,,3,0,3,21,11,11,5,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+32,SC Williams,B Kumar,CR Ervine,,0,0,0,21,5,15,6,0,,,5,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+33,CR Ervine,Mohammed Shami,SC Williams,,1,0,1,22,12,12,1,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+34,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,22,5,16,2,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+35,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,22,5,17,3,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+36,SC Williams,Mohammed Shami,CR Ervine,,6,0,6,28,11,18,4,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+37,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,28,11,19,5,0,,,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+38,SC Williams,Mohammed Shami,CR Ervine,,0,0,0,28,11,20,6,caught,SC Williams,B Kumar,6,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+39,CR Ervine,HH Pandya,Sikandar Raza,,1,0,1,29,13,13,1,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+40,Sikandar Raza,HH Pandya,CR Ervine,,1,0,1,30,1,1,2,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+41,CR Ervine,HH Pandya,Sikandar Raza,,0,1,1,31,13,14,3,0,,,7,noballs,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+42,CR Ervine,HH Pandya,Sikandar Raza,,0,0,0,31,13,15,4,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+43,CR Ervine,HH Pandya,Sikandar Raza,,0,0,0,31,13,16,5,caught and bowled,CR Ervine,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+44,T Munyonga,HH Pandya,Sikandar Raza,,1,0,1,32,1,1,6,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+45,Sikandar Raza,HH Pandya,T Munyonga,,0,0,0,32,1,2,7,0,,,7,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+46,T Munyonga,Mohammed Shami,Sikandar Raza,,4,0,4,36,5,2,1,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+47,T Munyonga,Mohammed Shami,Sikandar Raza,,0,0,0,36,5,3,2,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+48,T Munyonga,Mohammed Shami,Sikandar Raza,"{'by': 'Zimbabwe', 'umpire': 'RJ Tucker', 'batter': 'T Munyonga', 'decision': 'struck down'}",0,0,0,36,5,4,3,lbw,T Munyonga,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+49,RP Burl,Mohammed Shami,Sikandar Raza,,1,0,1,37,1,1,4,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+50,Sikandar Raza,Mohammed Shami,RP Burl,,0,0,0,37,1,3,5,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+51,Sikandar Raza,Mohammed Shami,RP Burl,,2,0,2,39,3,4,6,0,,,8,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+52,RP Burl,HH Pandya,Sikandar Raza,,2,0,2,41,3,2,1,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+53,RP Burl,HH Pandya,Sikandar Raza,,0,0,0,41,3,3,2,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+54,RP Burl,HH Pandya,Sikandar Raza,,0,1,1,42,3,4,3,0,,,9,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+55,RP Burl,HH Pandya,Sikandar Raza,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RP Burl', 'decision': 'struck down'}",0,0,0,42,3,5,4,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+56,RP Burl,HH Pandya,Sikandar Raza,,0,0,0,42,3,6,5,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+57,RP Burl,HH Pandya,Sikandar Raza,,4,0,4,46,7,7,6,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+58,RP Burl,HH Pandya,Sikandar Raza,,1,0,1,47,8,8,7,0,,,9,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+59,RP Burl,R Ashwin,Sikandar Raza,,1,0,1,48,9,9,1,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+60,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,49,4,5,2,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+61,RP Burl,R Ashwin,Sikandar Raza,,4,0,4,53,13,10,3,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+62,RP Burl,R Ashwin,Sikandar Raza,,1,0,1,54,14,11,4,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+63,Sikandar Raza,R Ashwin,RP Burl,,4,0,4,58,8,6,5,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+64,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,59,9,7,6,0,,,10,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+65,Sikandar Raza,AR Patel,RP Burl,,4,0,4,63,13,8,1,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+66,Sikandar Raza,AR Patel,RP Burl,,2,0,2,65,15,9,2,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+67,Sikandar Raza,AR Patel,RP Burl,,2,0,2,67,17,10,3,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+68,Sikandar Raza,AR Patel,RP Burl,,1,0,1,68,18,11,4,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+69,RP Burl,AR Patel,Sikandar Raza,,6,0,6,74,20,12,5,0,,,11,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+70,RP Burl,AR Patel,Sikandar Raza,,0,1,1,75,20,13,6,0,,,11,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+71,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,75,20,14,1,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+72,RP Burl,R Ashwin,Sikandar Raza,,2,0,2,77,22,15,2,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+73,RP Burl,R Ashwin,Sikandar Raza,,4,0,4,81,26,16,3,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+74,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,17,4,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+75,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,18,5,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+76,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,81,26,19,6,0,,,12,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+77,Sikandar Raza,AR Patel,RP Burl,,1,0,1,82,19,12,1,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+78,RP Burl,AR Patel,Sikandar Raza,,1,0,1,83,27,20,2,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+79,Sikandar Raza,AR Patel,RP Burl,,2,0,2,85,21,13,3,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+80,Sikandar Raza,AR Patel,RP Burl,,1,0,1,86,22,14,4,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+81,RP Burl,AR Patel,Sikandar Raza,,4,0,4,90,31,21,5,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+82,RP Burl,AR Patel,Sikandar Raza,,4,0,4,94,35,22,6,0,,,13,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+83,Sikandar Raza,R Ashwin,RP Burl,,0,1,1,95,22,15,1,0,,,14,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+84,Sikandar Raza,R Ashwin,RP Burl,,1,0,1,96,23,16,2,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+85,RP Burl,R Ashwin,Sikandar Raza,,0,0,0,96,35,23,3,bowled,RP Burl,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+86,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,1,4,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+87,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,2,5,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+88,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,3,6,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+89,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,96,0,4,7,0,,,14,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+90,Sikandar Raza,AR Patel,WP Masakadza,,2,0,2,98,25,17,1,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+91,Sikandar Raza,AR Patel,WP Masakadza,,0,0,0,98,25,18,2,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+92,Sikandar Raza,AR Patel,WP Masakadza,,4,0,4,102,29,19,3,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+93,Sikandar Raza,AR Patel,WP Masakadza,,1,0,1,103,30,20,4,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+94,WP Masakadza,AR Patel,Sikandar Raza,,0,0,0,103,0,5,5,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+95,WP Masakadza,AR Patel,Sikandar Raza,,1,0,1,104,1,6,6,0,,,15,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+96,WP Masakadza,R Ashwin,Sikandar Raza,,0,0,0,104,1,7,1,caught,WP Masakadza,RG Sharma,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+97,R Ngarava,R Ashwin,Sikandar Raza,,1,0,1,105,1,1,2,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+98,Sikandar Raza,R Ashwin,R Ngarava,,0,0,0,105,30,21,3,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+99,Sikandar Raza,R Ashwin,R Ngarava,,1,0,1,106,31,22,4,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+100,R Ngarava,R Ashwin,Sikandar Raza,,0,0,0,106,1,2,5,bowled,R Ngarava,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+101,TL Chatara,R Ashwin,Sikandar Raza,,0,0,0,106,0,1,6,0,,,16,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+102,Sikandar Raza,HH Pandya,TL Chatara,,2,0,2,108,33,23,1,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+103,Sikandar Raza,HH Pandya,TL Chatara,,1,0,1,109,34,24,2,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+104,TL Chatara,HH Pandya,Sikandar Raza,,0,1,1,110,0,2,3,0,,,17,legbyes,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+105,Sikandar Raza,HH Pandya,TL Chatara,,0,1,1,111,34,25,4,0,,,17,wides,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+106,Sikandar Raza,HH Pandya,TL Chatara,,0,0,0,111,34,26,5,caught,Sikandar Raza,SA Yadav,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+107,B Muzarabani,HH Pandya,TL Chatara,,0,0,0,111,0,1,6,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+108,B Muzarabani,HH Pandya,TL Chatara,,0,0,0,111,0,2,7,0,,,17,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+109,TL Chatara,AR Patel,B Muzarabani,,4,0,4,115,4,3,1,0,,,18,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
+110,TL Chatara,AR Patel,B Muzarabani,,0,0,0,115,4,4,2,caught and bowled,TL Chatara,,18,-,bat,India,2,Melbourne Cricket Ground,2022-11-06,India,Zimbabwe,India
