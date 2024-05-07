@@ -156,6 +156,11 @@ def json_to_csv(match_file, output_file=False):
         df["innings"] = idx + 1
         df["venue"] = info["venue"]
         df["date"] = info["dates"][0]
+        # add winning team
+        if "result" in info["outcome"]:
+            df["winning_team"] = info["outcome"]["result"]
+        else:
+            df["winning_team"] = info["outcome"]["winner"]
 
         # drop extras column
 
