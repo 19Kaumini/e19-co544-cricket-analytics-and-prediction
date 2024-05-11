@@ -1,74 +1,74 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
-0,T Banton,TA Boult,JM Bairstow,,0,0,0,0,146,0,1,0,1,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-1,T Banton,TA Boult,JM Bairstow,,1,0,1,1,145,1,2,0,2,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-2,JM Bairstow,TA Boult,T Banton,,1,0,1,2,144,1,1,0,3,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-3,T Banton,TA Boult,JM Bairstow,,6,0,6,8,138,7,3,0,4,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-4,T Banton,TA Boult,JM Bairstow,"{'by': 'England', 'umpire': 'CB Gaffaney', 'batter': 'T Banton', 'decision': 'struck down', 'umpires_call': True}",0,0,0,8,138,7,4,1,5,lbw,T Banton,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-5,JM Vince,TA Boult,JM Bairstow,,1,0,1,9,137,1,1,1,6,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-6,JM Vince,TG Southee,JM Bairstow,,0,0,0,9,137,1,2,2,1,caught,JM Vince,SC Kuggeleijn,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-7,EJG Morgan,TG Southee,JM Bairstow,,1,0,1,10,136,1,1,2,2,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-8,JM Bairstow,TG Southee,EJG Morgan,,0,1,1,11,135,1,2,2,3,0,,,2,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-9,JM Bairstow,TG Southee,EJG Morgan,,4,0,4,15,131,5,3,2,4,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-10,JM Bairstow,TG Southee,EJG Morgan,,2,0,2,17,129,7,4,2,5,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-11,JM Bairstow,TG Southee,EJG Morgan,,0,1,1,18,128,7,5,2,6,0,,,2,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-12,JM Bairstow,TG Southee,EJG Morgan,,0,0,0,18,128,7,6,2,7,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-13,JM Bairstow,TG Southee,EJG Morgan,,4,0,4,22,124,11,7,2,8,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-14,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,22,124,1,2,2,1,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-15,EJG Morgan,TA Boult,JM Bairstow,,6,0,6,28,118,7,3,2,2,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-16,EJG Morgan,TA Boult,JM Bairstow,,4,0,4,32,114,11,4,2,3,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-17,EJG Morgan,TA Boult,JM Bairstow,,6,0,6,38,108,17,5,2,4,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-18,EJG Morgan,TA Boult,JM Bairstow,,0,1,1,39,107,17,6,2,5,0,,,3,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-19,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,39,107,17,7,2,6,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-20,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,39,107,17,8,3,7,caught,EJG Morgan,SC Kuggeleijn,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-21,SM Curran,MJ Santner,JM Bairstow,,0,0,0,39,107,0,1,3,1,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-22,SM Curran,MJ Santner,JM Bairstow,,1,0,1,40,106,1,2,3,2,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-23,JM Bairstow,MJ Santner,SM Curran,,6,0,6,46,100,17,8,3,3,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-24,JM Bairstow,MJ Santner,SM Curran,,1,0,1,47,99,18,9,3,4,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-25,SM Curran,MJ Santner,JM Bairstow,,1,0,1,48,98,2,3,3,5,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-26,JM Bairstow,MJ Santner,SM Curran,,0,0,0,48,98,18,10,3,6,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-27,SM Curran,SC Kuggeleijn,JM Bairstow,,4,0,4,52,94,6,4,3,1,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-28,SM Curran,SC Kuggeleijn,JM Bairstow,,4,0,4,56,90,10,5,3,2,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-29,SM Curran,SC Kuggeleijn,JM Bairstow,,6,0,6,62,84,16,6,3,3,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-30,SM Curran,SC Kuggeleijn,JM Bairstow,,6,0,6,68,78,22,7,3,4,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-31,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,68,78,22,8,3,5,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-32,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,68,78,22,9,3,6,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-33,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,74,72,24,11,3,1,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-34,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,80,66,30,12,3,2,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-35,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,86,60,36,13,3,3,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-36,JM Bairstow,IS Sodhi,SM Curran,,0,1,1,87,59,36,14,3,4,0,,,6,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-37,JM Bairstow,IS Sodhi,SM Curran,,1,0,1,88,58,37,15,3,5,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-38,SM Curran,IS Sodhi,JM Bairstow,,1,0,1,89,57,23,10,3,6,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-39,JM Bairstow,IS Sodhi,SM Curran,,1,0,1,90,56,38,16,3,7,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-40,JM Bairstow,JDS Neesham,SM Curran,,6,0,6,96,50,44,17,3,1,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-41,JM Bairstow,JDS Neesham,SM Curran,,1,0,1,97,49,45,18,3,2,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-42,SM Curran,JDS Neesham,JM Bairstow,,1,0,1,98,48,24,11,3,3,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-43,JM Bairstow,JDS Neesham,SM Curran,,2,0,2,100,46,47,19,3,4,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-44,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,100,46,47,20,3,5,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-45,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,100,46,47,21,4,6,caught,JM Bairstow,TL Seifert,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-46,SM Curran,MJ Santner,SW Billings,,0,1,1,101,45,24,12,5,1,stumped,SM Curran,TL Seifert,8,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-47,L Gregory,MJ Santner,SW Billings,,6,0,6,107,39,6,1,5,2,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-48,L Gregory,MJ Santner,SW Billings,,0,0,0,107,39,6,2,6,3,caught,L Gregory,TG Southee,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-49,TK Curran,MJ Santner,SW Billings,,1,0,1,108,38,1,1,6,4,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-50,SW Billings,MJ Santner,TK Curran,,1,0,1,109,37,1,1,6,5,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-51,TK Curran,MJ Santner,SW Billings,,1,0,1,110,36,2,2,6,6,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-52,SW Billings,MJ Santner,TK Curran,,1,0,1,111,35,2,2,6,7,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-53,SW Billings,TA Boult,TK Curran,,0,0,0,111,35,2,3,6,1,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-54,SW Billings,TA Boult,TK Curran,"{'by': 'New Zealand', 'umpire': 'CB Gaffaney', 'batter': 'SW Billings', 'decision': 'struck down'}",0,1,1,112,34,2,4,6,2,0,,,9,legbyes,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-55,TK Curran,TA Boult,SW Billings,,0,0,0,112,34,2,3,6,3,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-56,TK Curran,TA Boult,SW Billings,,6,0,6,118,28,8,4,6,4,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-57,TK Curran,TA Boult,SW Billings,,0,1,1,119,27,8,5,6,5,0,,,9,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-58,TK Curran,TA Boult,SW Billings,,0,0,0,119,27,8,6,6,6,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-59,TK Curran,TA Boult,SW Billings,,2,0,2,121,25,10,7,6,7,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-60,SW Billings,TG Southee,TK Curran,,4,0,4,125,21,6,5,6,1,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-61,SW Billings,TG Southee,TK Curran,,0,1,1,126,20,6,6,6,2,0,,,10,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-62,SW Billings,TG Southee,TK Curran,,1,0,1,127,19,7,7,6,3,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-63,TK Curran,TG Southee,SW Billings,,1,0,1,128,18,11,8,6,4,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-64,SW Billings,TG Southee,TK Curran,,1,0,1,129,17,8,8,6,5,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-65,TK Curran,TG Southee,SW Billings,,1,0,1,130,16,12,9,6,6,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-66,SW Billings,TG Southee,TK Curran,,0,1,1,131,15,8,9,6,7,0,,,10,legbyes,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-67,SW Billings,JDS Neesham,TK Curran,,2,0,2,133,13,10,10,6,1,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-68,SW Billings,JDS Neesham,TK Curran,,1,0,1,134,12,11,11,6,2,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-69,TK Curran,JDS Neesham,SW Billings,,0,0,0,134,12,12,10,7,3,caught,TK Curran,C de Grandhomme,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-70,CJ Jordan,JDS Neesham,SW Billings,,6,0,6,140,6,6,1,7,4,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-71,CJ Jordan,JDS Neesham,SW Billings,,2,0,2,142,4,8,2,7,5,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
-72,CJ Jordan,JDS Neesham,SW Billings,,4,0,4,146,0,12,3,7,6,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+0,T Banton,TA Boult,JM Bairstow,,0,0,0,0,146,0,1,0,1,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+1,T Banton,TA Boult,JM Bairstow,,1,0,1,1,145,1,2,0,2,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+2,JM Bairstow,TA Boult,T Banton,,1,0,1,2,144,1,1,0,3,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+3,T Banton,TA Boult,JM Bairstow,,6,0,6,8,138,7,3,0,4,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+4,T Banton,TA Boult,JM Bairstow,"{'by': 'England', 'umpire': 'CB Gaffaney', 'batter': 'T Banton', 'decision': 'struck down', 'umpires_call': True}",0,0,0,8,138,7,4,1,5,lbw,T Banton,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+5,JM Vince,TA Boult,JM Bairstow,,1,0,1,9,137,1,1,1,6,0,,,1,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+6,JM Vince,TG Southee,JM Bairstow,,0,0,0,9,137,1,2,2,1,caught,JM Vince,SC Kuggeleijn,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+7,EJG Morgan,TG Southee,JM Bairstow,,1,0,1,10,136,1,1,2,2,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+8,JM Bairstow,TG Southee,EJG Morgan,,0,1,1,11,135,1,2,2,3,0,,,2,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+9,JM Bairstow,TG Southee,EJG Morgan,,4,0,4,15,131,5,3,2,4,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+10,JM Bairstow,TG Southee,EJG Morgan,,2,0,2,17,129,7,4,2,5,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+11,JM Bairstow,TG Southee,EJG Morgan,,0,1,1,18,128,7,5,2,6,0,,,2,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+12,JM Bairstow,TG Southee,EJG Morgan,,0,0,0,18,128,7,6,2,7,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+13,JM Bairstow,TG Southee,EJG Morgan,,4,0,4,22,124,11,7,2,8,0,,,2,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+14,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,22,124,1,2,2,1,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+15,EJG Morgan,TA Boult,JM Bairstow,,6,0,6,28,118,7,3,2,2,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+16,EJG Morgan,TA Boult,JM Bairstow,,4,0,4,32,114,11,4,2,3,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+17,EJG Morgan,TA Boult,JM Bairstow,,6,0,6,38,108,17,5,2,4,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+18,EJG Morgan,TA Boult,JM Bairstow,,0,1,1,39,107,17,6,2,5,0,,,3,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+19,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,39,107,17,7,2,6,0,,,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+20,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,39,107,17,8,3,7,caught,EJG Morgan,SC Kuggeleijn,3,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+21,SM Curran,MJ Santner,JM Bairstow,,0,0,0,39,107,0,1,3,1,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+22,SM Curran,MJ Santner,JM Bairstow,,1,0,1,40,106,1,2,3,2,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+23,JM Bairstow,MJ Santner,SM Curran,,6,0,6,46,100,17,8,3,3,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+24,JM Bairstow,MJ Santner,SM Curran,,1,0,1,47,99,18,9,3,4,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+25,SM Curran,MJ Santner,JM Bairstow,,1,0,1,48,98,2,3,3,5,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+26,JM Bairstow,MJ Santner,SM Curran,,0,0,0,48,98,18,10,3,6,0,,,4,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+27,SM Curran,SC Kuggeleijn,JM Bairstow,,4,0,4,52,94,6,4,3,1,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+28,SM Curran,SC Kuggeleijn,JM Bairstow,,4,0,4,56,90,10,5,3,2,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+29,SM Curran,SC Kuggeleijn,JM Bairstow,,6,0,6,62,84,16,6,3,3,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+30,SM Curran,SC Kuggeleijn,JM Bairstow,,6,0,6,68,78,22,7,3,4,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+31,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,68,78,22,8,3,5,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+32,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,68,78,22,9,3,6,0,,,5,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+33,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,74,72,24,11,3,1,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+34,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,80,66,30,12,3,2,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+35,JM Bairstow,IS Sodhi,SM Curran,,6,0,6,86,60,36,13,3,3,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+36,JM Bairstow,IS Sodhi,SM Curran,,0,1,1,87,59,36,14,3,4,0,,,6,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+37,JM Bairstow,IS Sodhi,SM Curran,,1,0,1,88,58,37,15,3,5,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+38,SM Curran,IS Sodhi,JM Bairstow,,1,0,1,89,57,23,10,3,6,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+39,JM Bairstow,IS Sodhi,SM Curran,,1,0,1,90,56,38,16,3,7,0,,,6,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+40,JM Bairstow,JDS Neesham,SM Curran,,6,0,6,96,50,44,17,3,1,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+41,JM Bairstow,JDS Neesham,SM Curran,,1,0,1,97,49,45,18,3,2,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+42,SM Curran,JDS Neesham,JM Bairstow,,1,0,1,98,48,24,11,3,3,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+43,JM Bairstow,JDS Neesham,SM Curran,,2,0,2,100,46,47,19,3,4,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+44,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,100,46,47,20,3,5,0,,,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+45,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,100,46,47,21,4,6,caught,JM Bairstow,TL Seifert,7,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+46,SM Curran,MJ Santner,SW Billings,,0,1,1,101,45,24,12,5,1,stumped,SM Curran,TL Seifert,8,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+47,L Gregory,MJ Santner,SW Billings,,6,0,6,107,39,6,1,5,2,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+48,L Gregory,MJ Santner,SW Billings,,0,0,0,107,39,6,2,6,3,caught,L Gregory,TG Southee,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+49,TK Curran,MJ Santner,SW Billings,,1,0,1,108,38,1,1,6,4,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+50,SW Billings,MJ Santner,TK Curran,,1,0,1,109,37,1,1,6,5,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+51,TK Curran,MJ Santner,SW Billings,,1,0,1,110,36,2,2,6,6,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+52,SW Billings,MJ Santner,TK Curran,,1,0,1,111,35,2,2,6,7,0,,,8,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+53,SW Billings,TA Boult,TK Curran,,0,0,0,111,35,2,3,6,1,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+54,SW Billings,TA Boult,TK Curran,"{'by': 'New Zealand', 'umpire': 'CB Gaffaney', 'batter': 'SW Billings', 'decision': 'struck down'}",0,1,1,112,34,2,4,6,2,0,,,9,legbyes,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+55,TK Curran,TA Boult,SW Billings,,0,0,0,112,34,2,3,6,3,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+56,TK Curran,TA Boult,SW Billings,,6,0,6,118,28,8,4,6,4,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+57,TK Curran,TA Boult,SW Billings,,0,1,1,119,27,8,5,6,5,0,,,9,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+58,TK Curran,TA Boult,SW Billings,,0,0,0,119,27,8,6,6,6,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+59,TK Curran,TA Boult,SW Billings,,2,0,2,121,25,10,7,6,7,0,,,9,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+60,SW Billings,TG Southee,TK Curran,,4,0,4,125,21,6,5,6,1,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+61,SW Billings,TG Southee,TK Curran,,0,1,1,126,20,6,6,6,2,0,,,10,wides,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+62,SW Billings,TG Southee,TK Curran,,1,0,1,127,19,7,7,6,3,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+63,TK Curran,TG Southee,SW Billings,,1,0,1,128,18,11,8,6,4,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+64,SW Billings,TG Southee,TK Curran,,1,0,1,129,17,8,8,6,5,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+65,TK Curran,TG Southee,SW Billings,,1,0,1,130,16,12,9,6,6,0,,,10,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+66,SW Billings,TG Southee,TK Curran,,0,1,1,131,15,8,9,6,7,0,,,10,legbyes,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+67,SW Billings,JDS Neesham,TK Curran,,2,0,2,133,13,10,10,6,1,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+68,SW Billings,JDS Neesham,TK Curran,,1,0,1,134,12,11,11,6,2,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+69,TK Curran,JDS Neesham,SW Billings,,0,0,0,134,12,12,10,7,3,caught,TK Curran,C de Grandhomme,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+70,CJ Jordan,JDS Neesham,SW Billings,,6,0,6,140,6,6,1,7,4,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+71,CJ Jordan,JDS Neesham,SW Billings,,2,0,2,142,4,8,2,7,5,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146
+72,CJ Jordan,JDS Neesham,SW Billings,,4,0,4,146,0,12,3,7,6,0,,,11,-,field,England,2,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,146

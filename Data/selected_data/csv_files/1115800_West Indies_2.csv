@@ -1,106 +1,106 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
-0,CAK Walton,TG Southee,CH Gayle,0,0,0,0,243,0,1,1,1,caught,CAK Walton,C Munro,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-1,ADS Fletcher,TG Southee,CH Gayle,0,0,0,0,243,0,1,1,2,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-2,ADS Fletcher,TG Southee,CH Gayle,1,0,1,1,242,1,2,1,3,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-3,CH Gayle,TG Southee,ADS Fletcher,0,0,0,1,242,0,1,1,4,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-4,CH Gayle,TG Southee,ADS Fletcher,0,0,0,1,242,0,2,2,5,caught,CH Gayle,GD Phillips,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-5,R Powell,TG Southee,ADS Fletcher,0,0,0,1,242,0,1,2,6,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-6,ADS Fletcher,TA Boult,R Powell,2,0,2,3,240,3,3,2,1,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-7,ADS Fletcher,TA Boult,R Powell,0,0,0,3,240,3,4,2,2,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-8,ADS Fletcher,TA Boult,R Powell,0,1,1,4,239,3,5,2,3,0,,,2,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-9,ADS Fletcher,TA Boult,R Powell,2,0,2,6,237,5,6,2,4,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-10,ADS Fletcher,TA Boult,R Powell,1,1,2,8,235,6,7,2,5,0,,,2,noballs,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-11,R Powell,TA Boult,ADS Fletcher,0,1,1,9,234,0,2,2,6,0,,,2,noballs,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-12,R Powell,TA Boult,ADS Fletcher,0,1,1,10,233,0,3,2,7,0,,,2,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-13,R Powell,TA Boult,ADS Fletcher,4,0,4,14,229,4,4,2,8,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-14,R Powell,TA Boult,ADS Fletcher,4,0,4,18,225,8,5,2,9,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-15,R Powell,TA Boult,ADS Fletcher,0,0,0,18,225,8,6,2,10,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-16,ADS Fletcher,TG Southee,R Powell,0,0,0,18,225,6,8,2,1,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-17,ADS Fletcher,TG Southee,R Powell,4,0,4,22,221,10,9,2,2,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-18,ADS Fletcher,TG Southee,R Powell,4,0,4,26,217,14,10,2,3,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-19,ADS Fletcher,TG Southee,R Powell,6,0,6,32,211,20,11,2,4,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-20,ADS Fletcher,TG Southee,R Powell,1,0,1,33,210,21,12,2,5,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-21,R Powell,TG Southee,ADS Fletcher,4,0,4,37,206,12,7,2,6,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-22,ADS Fletcher,AK Kitchen,R Powell,0,0,0,37,206,21,13,2,1,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-23,ADS Fletcher,AK Kitchen,R Powell,0,0,0,37,206,21,14,2,2,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-24,ADS Fletcher,AK Kitchen,R Powell,1,0,1,38,205,22,15,2,3,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-25,R Powell,AK Kitchen,ADS Fletcher,4,0,4,42,201,16,8,2,4,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-26,R Powell,AK Kitchen,ADS Fletcher,0,0,0,42,201,16,9,3,5,caught,R Powell,KS Williamson,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-27,ADS Fletcher,AK Kitchen,SO Hetmyer,0,0,0,42,201,22,16,3,6,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-28,SO Hetmyer,MJ Santner,ADS Fletcher,0,0,0,42,201,0,1,3,1,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-29,SO Hetmyer,MJ Santner,ADS Fletcher,6,0,6,48,195,6,2,3,2,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-30,SO Hetmyer,MJ Santner,ADS Fletcher,1,0,1,49,194,7,3,3,3,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-31,ADS Fletcher,MJ Santner,SO Hetmyer,0,0,0,49,194,22,17,3,4,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-32,ADS Fletcher,MJ Santner,SO Hetmyer,0,0,0,49,194,22,18,4,5,run out,SO Hetmyer,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-33,CR Brathwaite,MJ Santner,ADS Fletcher,4,0,4,53,190,4,1,4,6,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-34,ADS Fletcher,AK Kitchen,CR Brathwaite,0,0,0,53,190,22,19,4,1,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-35,ADS Fletcher,AK Kitchen,CR Brathwaite,4,0,4,57,186,26,20,4,2,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-36,ADS Fletcher,AK Kitchen,CR Brathwaite,4,0,4,61,182,30,21,4,3,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-37,ADS Fletcher,AK Kitchen,CR Brathwaite,0,0,0,61,182,30,22,4,4,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-38,ADS Fletcher,AK Kitchen,CR Brathwaite,6,0,6,67,176,36,23,4,5,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-39,ADS Fletcher,AK Kitchen,CR Brathwaite,6,0,6,73,170,42,24,4,6,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-40,CR Brathwaite,IS Sodhi,ADS Fletcher,1,0,1,74,169,5,2,4,1,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-41,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,25,4,2,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-42,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,26,4,3,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-43,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,27,4,4,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-44,ADS Fletcher,IS Sodhi,CR Brathwaite,1,0,1,75,168,43,28,4,5,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-45,CR Brathwaite,IS Sodhi,ADS Fletcher,0,0,0,75,168,5,3,4,6,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-46,ADS Fletcher,MJ Santner,CR Brathwaite,0,0,0,75,168,43,29,4,1,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-47,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,76,167,44,30,4,2,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-48,CR Brathwaite,MJ Santner,ADS Fletcher,1,0,1,77,166,6,4,4,3,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-49,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,78,165,45,31,4,4,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-50,CR Brathwaite,MJ Santner,ADS Fletcher,1,0,1,79,164,7,5,4,5,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-51,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,80,163,46,32,4,6,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-52,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,80,163,46,33,5,1,bowled,ADS Fletcher,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-53,AR Nurse,IS Sodhi,CR Brathwaite,1,0,1,81,162,1,1,5,2,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-54,CR Brathwaite,IS Sodhi,AR Nurse,6,0,6,87,156,13,6,5,3,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-55,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,7,5,4,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-56,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,8,5,5,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-57,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,9,5,6,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-58,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,87,156,1,2,5,1,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-59,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,87,156,1,3,5,2,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-60,AR Nurse,AK Kitchen,CR Brathwaite,0,1,1,88,155,1,4,5,3,0,,,10,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-61,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,88,155,1,5,5,4,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-62,AR Nurse,AK Kitchen,CR Brathwaite,1,0,1,89,154,2,6,5,5,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-63,CR Brathwaite,AK Kitchen,AR Nurse,0,0,0,89,154,13,10,5,6,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-64,CR Brathwaite,AK Kitchen,AR Nurse,1,0,1,90,153,14,11,5,7,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-65,CR Brathwaite,TA Boult,AR Nurse,1,0,1,91,152,15,12,5,1,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-66,AR Nurse,TA Boult,CR Brathwaite,1,0,1,92,151,3,7,5,2,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-67,CR Brathwaite,TA Boult,AR Nurse,0,0,0,92,151,15,13,5,3,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-68,CR Brathwaite,TA Boult,AR Nurse,0,0,0,92,151,15,14,6,4,caught,CR Brathwaite,TC Bruce,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-69,RR Emrit,TA Boult,AR Nurse,1,0,1,93,150,1,1,6,5,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-70,AR Nurse,TA Boult,RR Emrit,0,1,1,94,149,3,8,6,6,0,,,11,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-71,AR Nurse,TA Boult,RR Emrit,0,0,0,94,149,3,9,6,7,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-72,RR Emrit,AK Kitchen,AR Nurse,2,0,2,96,147,3,2,6,1,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-73,RR Emrit,AK Kitchen,AR Nurse,1,0,1,97,146,4,3,6,2,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-74,AR Nurse,AK Kitchen,RR Emrit,0,0,0,97,146,3,10,6,3,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-75,AR Nurse,AK Kitchen,RR Emrit,1,0,1,98,145,4,11,6,4,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-76,RR Emrit,AK Kitchen,AR Nurse,0,0,0,98,145,4,4,6,5,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-77,RR Emrit,AK Kitchen,AR Nurse,1,0,1,99,144,5,5,6,6,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-78,RR Emrit,IS Sodhi,AR Nurse,0,0,0,99,144,5,6,7,1,lbw,RR Emrit,,13,-,"{'by': 'New Zealand', 'batter': 'RR Emrit', 'decision': 'upheld'}",bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-79,JE Taylor,IS Sodhi,AR Nurse,6,0,6,105,138,6,1,7,2,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-80,JE Taylor,IS Sodhi,AR Nurse,1,0,1,106,137,7,2,7,3,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-81,AR Nurse,IS Sodhi,JE Taylor,0,0,0,106,137,4,12,7,4,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-82,AR Nurse,IS Sodhi,JE Taylor,1,0,1,107,136,5,13,7,5,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-83,JE Taylor,IS Sodhi,AR Nurse,6,0,6,113,130,13,3,7,6,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-84,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,14,7,1,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-85,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,15,7,2,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-86,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,16,7,3,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-87,AR Nurse,TA Boult,JE Taylor,1,0,1,114,129,6,17,7,4,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-88,JE Taylor,TA Boult,AR Nurse,0,0,0,114,129,13,4,8,5,caught,JE Taylor,MJ Santner,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-89,AR Nurse,TA Boult,S Badree,0,0,0,114,129,6,18,8,6,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-90,S Badree,IS Sodhi,AR Nurse,0,0,0,114,129,0,1,8,1,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-91,S Badree,IS Sodhi,AR Nurse,0,0,0,114,129,0,2,8,2,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-92,S Badree,IS Sodhi,AR Nurse,1,0,1,115,128,1,3,8,3,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-93,AR Nurse,IS Sodhi,S Badree,0,0,0,115,128,6,19,8,4,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-94,AR Nurse,IS Sodhi,S Badree,0,0,0,115,128,6,20,8,5,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-95,AR Nurse,IS Sodhi,S Badree,1,0,1,116,127,7,21,8,6,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-96,AR Nurse,TA Boult,S Badree,0,0,0,116,127,7,22,8,1,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-97,AR Nurse,TA Boult,S Badree,4,0,4,120,123,11,23,8,2,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-98,AR Nurse,TA Boult,S Badree,1,0,1,121,122,12,24,8,3,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-99,S Badree,TA Boult,AR Nurse,1,0,1,122,121,2,4,8,4,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-100,AR Nurse,TA Boult,S Badree,1,0,1,123,120,13,25,8,5,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-101,S Badree,TA Boult,AR Nurse,0,0,0,123,120,2,5,8,6,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-102,AR Nurse,TG Southee,S Badree,0,0,0,123,120,13,26,8,1,0,,,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-103,AR Nurse,TG Southee,S Badree,1,0,1,124,119,14,27,8,2,0,,,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
-104,S Badree,TG Southee,AR Nurse,0,0,0,124,119,2,6,9,3,caught,S Badree,TC Bruce,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+0,CAK Walton,TG Southee,CH Gayle,0,0,0,0,243,0,1,1,1,caught,CAK Walton,C Munro,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+1,ADS Fletcher,TG Southee,CH Gayle,0,0,0,0,243,0,1,1,2,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+2,ADS Fletcher,TG Southee,CH Gayle,1,0,1,1,242,1,2,1,3,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+3,CH Gayle,TG Southee,ADS Fletcher,0,0,0,1,242,0,1,1,4,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+4,CH Gayle,TG Southee,ADS Fletcher,0,0,0,1,242,0,2,2,5,caught,CH Gayle,GD Phillips,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+5,R Powell,TG Southee,ADS Fletcher,0,0,0,1,242,0,1,2,6,0,,,1,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+6,ADS Fletcher,TA Boult,R Powell,2,0,2,3,240,3,3,2,1,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+7,ADS Fletcher,TA Boult,R Powell,0,0,0,3,240,3,4,2,2,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+8,ADS Fletcher,TA Boult,R Powell,0,1,1,4,239,3,5,2,3,0,,,2,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+9,ADS Fletcher,TA Boult,R Powell,2,0,2,6,237,5,6,2,4,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+10,ADS Fletcher,TA Boult,R Powell,1,1,2,8,235,6,7,2,5,0,,,2,noballs,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+11,R Powell,TA Boult,ADS Fletcher,0,1,1,9,234,0,2,2,6,0,,,2,noballs,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+12,R Powell,TA Boult,ADS Fletcher,0,1,1,10,233,0,3,2,7,0,,,2,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+13,R Powell,TA Boult,ADS Fletcher,4,0,4,14,229,4,4,2,8,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+14,R Powell,TA Boult,ADS Fletcher,4,0,4,18,225,8,5,2,9,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+15,R Powell,TA Boult,ADS Fletcher,0,0,0,18,225,8,6,2,10,0,,,2,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+16,ADS Fletcher,TG Southee,R Powell,0,0,0,18,225,6,8,2,1,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+17,ADS Fletcher,TG Southee,R Powell,4,0,4,22,221,10,9,2,2,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+18,ADS Fletcher,TG Southee,R Powell,4,0,4,26,217,14,10,2,3,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+19,ADS Fletcher,TG Southee,R Powell,6,0,6,32,211,20,11,2,4,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+20,ADS Fletcher,TG Southee,R Powell,1,0,1,33,210,21,12,2,5,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+21,R Powell,TG Southee,ADS Fletcher,4,0,4,37,206,12,7,2,6,0,,,3,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+22,ADS Fletcher,AK Kitchen,R Powell,0,0,0,37,206,21,13,2,1,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+23,ADS Fletcher,AK Kitchen,R Powell,0,0,0,37,206,21,14,2,2,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+24,ADS Fletcher,AK Kitchen,R Powell,1,0,1,38,205,22,15,2,3,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+25,R Powell,AK Kitchen,ADS Fletcher,4,0,4,42,201,16,8,2,4,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+26,R Powell,AK Kitchen,ADS Fletcher,0,0,0,42,201,16,9,3,5,caught,R Powell,KS Williamson,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+27,ADS Fletcher,AK Kitchen,SO Hetmyer,0,0,0,42,201,22,16,3,6,0,,,4,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+28,SO Hetmyer,MJ Santner,ADS Fletcher,0,0,0,42,201,0,1,3,1,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+29,SO Hetmyer,MJ Santner,ADS Fletcher,6,0,6,48,195,6,2,3,2,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+30,SO Hetmyer,MJ Santner,ADS Fletcher,1,0,1,49,194,7,3,3,3,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+31,ADS Fletcher,MJ Santner,SO Hetmyer,0,0,0,49,194,22,17,3,4,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+32,ADS Fletcher,MJ Santner,SO Hetmyer,0,0,0,49,194,22,18,4,5,run out,SO Hetmyer,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+33,CR Brathwaite,MJ Santner,ADS Fletcher,4,0,4,53,190,4,1,4,6,0,,,5,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+34,ADS Fletcher,AK Kitchen,CR Brathwaite,0,0,0,53,190,22,19,4,1,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+35,ADS Fletcher,AK Kitchen,CR Brathwaite,4,0,4,57,186,26,20,4,2,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+36,ADS Fletcher,AK Kitchen,CR Brathwaite,4,0,4,61,182,30,21,4,3,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+37,ADS Fletcher,AK Kitchen,CR Brathwaite,0,0,0,61,182,30,22,4,4,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+38,ADS Fletcher,AK Kitchen,CR Brathwaite,6,0,6,67,176,36,23,4,5,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+39,ADS Fletcher,AK Kitchen,CR Brathwaite,6,0,6,73,170,42,24,4,6,0,,,6,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+40,CR Brathwaite,IS Sodhi,ADS Fletcher,1,0,1,74,169,5,2,4,1,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+41,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,25,4,2,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+42,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,26,4,3,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+43,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,74,169,42,27,4,4,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+44,ADS Fletcher,IS Sodhi,CR Brathwaite,1,0,1,75,168,43,28,4,5,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+45,CR Brathwaite,IS Sodhi,ADS Fletcher,0,0,0,75,168,5,3,4,6,0,,,7,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+46,ADS Fletcher,MJ Santner,CR Brathwaite,0,0,0,75,168,43,29,4,1,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+47,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,76,167,44,30,4,2,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+48,CR Brathwaite,MJ Santner,ADS Fletcher,1,0,1,77,166,6,4,4,3,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+49,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,78,165,45,31,4,4,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+50,CR Brathwaite,MJ Santner,ADS Fletcher,1,0,1,79,164,7,5,4,5,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+51,ADS Fletcher,MJ Santner,CR Brathwaite,1,0,1,80,163,46,32,4,6,0,,,8,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+52,ADS Fletcher,IS Sodhi,CR Brathwaite,0,0,0,80,163,46,33,5,1,bowled,ADS Fletcher,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+53,AR Nurse,IS Sodhi,CR Brathwaite,1,0,1,81,162,1,1,5,2,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+54,CR Brathwaite,IS Sodhi,AR Nurse,6,0,6,87,156,13,6,5,3,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+55,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,7,5,4,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+56,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,8,5,5,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+57,CR Brathwaite,IS Sodhi,AR Nurse,0,0,0,87,156,13,9,5,6,0,,,9,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+58,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,87,156,1,2,5,1,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+59,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,87,156,1,3,5,2,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+60,AR Nurse,AK Kitchen,CR Brathwaite,0,1,1,88,155,1,4,5,3,0,,,10,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+61,AR Nurse,AK Kitchen,CR Brathwaite,0,0,0,88,155,1,5,5,4,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+62,AR Nurse,AK Kitchen,CR Brathwaite,1,0,1,89,154,2,6,5,5,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+63,CR Brathwaite,AK Kitchen,AR Nurse,0,0,0,89,154,13,10,5,6,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+64,CR Brathwaite,AK Kitchen,AR Nurse,1,0,1,90,153,14,11,5,7,0,,,10,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+65,CR Brathwaite,TA Boult,AR Nurse,1,0,1,91,152,15,12,5,1,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+66,AR Nurse,TA Boult,CR Brathwaite,1,0,1,92,151,3,7,5,2,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+67,CR Brathwaite,TA Boult,AR Nurse,0,0,0,92,151,15,13,5,3,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+68,CR Brathwaite,TA Boult,AR Nurse,0,0,0,92,151,15,14,6,4,caught,CR Brathwaite,TC Bruce,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+69,RR Emrit,TA Boult,AR Nurse,1,0,1,93,150,1,1,6,5,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+70,AR Nurse,TA Boult,RR Emrit,0,1,1,94,149,3,8,6,6,0,,,11,wides,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+71,AR Nurse,TA Boult,RR Emrit,0,0,0,94,149,3,9,6,7,0,,,11,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+72,RR Emrit,AK Kitchen,AR Nurse,2,0,2,96,147,3,2,6,1,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+73,RR Emrit,AK Kitchen,AR Nurse,1,0,1,97,146,4,3,6,2,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+74,AR Nurse,AK Kitchen,RR Emrit,0,0,0,97,146,3,10,6,3,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+75,AR Nurse,AK Kitchen,RR Emrit,1,0,1,98,145,4,11,6,4,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+76,RR Emrit,AK Kitchen,AR Nurse,0,0,0,98,145,4,4,6,5,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+77,RR Emrit,AK Kitchen,AR Nurse,1,0,1,99,144,5,5,6,6,0,,,12,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+78,RR Emrit,IS Sodhi,AR Nurse,0,0,0,99,144,5,6,7,1,lbw,RR Emrit,,13,-,"{'by': 'New Zealand', 'batter': 'RR Emrit', 'decision': 'upheld'}",bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+79,JE Taylor,IS Sodhi,AR Nurse,6,0,6,105,138,6,1,7,2,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+80,JE Taylor,IS Sodhi,AR Nurse,1,0,1,106,137,7,2,7,3,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+81,AR Nurse,IS Sodhi,JE Taylor,0,0,0,106,137,4,12,7,4,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+82,AR Nurse,IS Sodhi,JE Taylor,1,0,1,107,136,5,13,7,5,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+83,JE Taylor,IS Sodhi,AR Nurse,6,0,6,113,130,13,3,7,6,0,,,13,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+84,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,14,7,1,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+85,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,15,7,2,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+86,AR Nurse,TA Boult,JE Taylor,0,0,0,113,130,5,16,7,3,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+87,AR Nurse,TA Boult,JE Taylor,1,0,1,114,129,6,17,7,4,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+88,JE Taylor,TA Boult,AR Nurse,0,0,0,114,129,13,4,8,5,caught,JE Taylor,MJ Santner,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+89,AR Nurse,TA Boult,S Badree,0,0,0,114,129,6,18,8,6,0,,,14,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+90,S Badree,IS Sodhi,AR Nurse,0,0,0,114,129,0,1,8,1,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+91,S Badree,IS Sodhi,AR Nurse,0,0,0,114,129,0,2,8,2,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+92,S Badree,IS Sodhi,AR Nurse,1,0,1,115,128,1,3,8,3,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+93,AR Nurse,IS Sodhi,S Badree,0,0,0,115,128,6,19,8,4,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+94,AR Nurse,IS Sodhi,S Badree,0,0,0,115,128,6,20,8,5,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+95,AR Nurse,IS Sodhi,S Badree,1,0,1,116,127,7,21,8,6,0,,,15,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+96,AR Nurse,TA Boult,S Badree,0,0,0,116,127,7,22,8,1,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+97,AR Nurse,TA Boult,S Badree,4,0,4,120,123,11,23,8,2,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+98,AR Nurse,TA Boult,S Badree,1,0,1,121,122,12,24,8,3,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+99,S Badree,TA Boult,AR Nurse,1,0,1,122,121,2,4,8,4,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+100,AR Nurse,TA Boult,S Badree,1,0,1,123,120,13,25,8,5,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+101,S Badree,TA Boult,AR Nurse,0,0,0,123,120,2,5,8,6,0,,,16,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+102,AR Nurse,TG Southee,S Badree,0,0,0,123,120,13,26,8,1,0,,,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+103,AR Nurse,TG Southee,S Badree,1,0,1,124,119,14,27,8,2,0,,,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124
+104,S Badree,TG Southee,AR Nurse,0,0,0,124,119,2,6,9,3,caught,S Badree,TC Bruce,17,-,,bat,New Zealand,2,Bay Oval,2018,01,New Zealand_West Indies_2018-01-03,New Zealand,West Indies,New Zealand,124

@@ -1,132 +1,132 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
-0,HH Gibbs,S Sreesanth,GC Smith,0,5,5,5,148,0,1,0,1,wides,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-1,HH Gibbs,S Sreesanth,GC Smith,0,0,0,5,148,0,2,0,2,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-2,HH Gibbs,S Sreesanth,GC Smith,0,1,1,6,147,0,3,0,3,wides,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-3,HH Gibbs,S Sreesanth,GC Smith,1,0,1,7,146,1,4,0,4,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-4,GC Smith,S Sreesanth,HH Gibbs,4,0,4,11,142,4,1,0,5,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-5,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,2,0,6,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-6,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,3,0,7,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-7,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,4,0,8,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-8,HH Gibbs,RP Singh,GC Smith,0,0,0,11,142,1,5,1,1,-,2,lbw,HH Gibbs,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-9,AB de Villiers,RP Singh,GC Smith,1,0,1,12,141,1,1,1,2,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-10,GC Smith,RP Singh,AB de Villiers,0,0,0,12,141,4,5,1,3,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-11,GC Smith,RP Singh,AB de Villiers,0,0,0,12,141,4,6,2,4,-,2,caught,GC Smith,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-12,JM Kemp,RP Singh,AB de Villiers,0,0,0,12,141,0,1,2,5,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-13,JM Kemp,RP Singh,AB de Villiers,0,0,0,12,141,0,2,2,6,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-14,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,2,2,1,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-15,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,3,2,2,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-16,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,4,3,3,-,3,lbw,AB de Villiers,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-17,MV Boucher,S Sreesanth,JM Kemp,0,0,0,12,141,0,1,3,4,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-18,MV Boucher,S Sreesanth,JM Kemp,0,1,1,13,140,0,2,3,5,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-19,MV Boucher,S Sreesanth,JM Kemp,0,1,1,14,139,0,3,3,6,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-20,MV Boucher,S Sreesanth,JM Kemp,0,1,1,15,138,0,4,3,7,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-21,MV Boucher,S Sreesanth,JM Kemp,1,0,1,16,137,1,5,3,8,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-22,JM Kemp,S Sreesanth,MV Boucher,0,0,0,16,137,0,3,3,9,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-23,MV Boucher,RP Singh,JM Kemp,0,0,0,16,137,1,6,3,1,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-24,MV Boucher,RP Singh,JM Kemp,0,1,1,17,136,1,7,3,2,wides,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-25,MV Boucher,RP Singh,JM Kemp,0,1,1,18,135,1,8,3,3,legbyes,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-26,JM Kemp,RP Singh,MV Boucher,0,0,0,18,135,0,4,3,4,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-27,JM Kemp,RP Singh,MV Boucher,0,0,0,18,135,0,5,3,5,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-28,JM Kemp,RP Singh,MV Boucher,1,0,1,19,134,1,6,3,6,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-29,MV Boucher,RP Singh,JM Kemp,0,0,0,19,134,1,9,3,7,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-30,JM Kemp,S Sreesanth,MV Boucher,0,0,0,19,134,1,7,3,1,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-31,JM Kemp,S Sreesanth,MV Boucher,0,0,0,19,134,1,8,3,2,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-32,JM Kemp,S Sreesanth,MV Boucher,4,0,4,23,130,5,9,3,3,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-33,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,10,3,4,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-34,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,11,3,5,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-35,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,12,3,6,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-36,MV Boucher,RP Singh,JM Kemp,4,0,4,27,126,5,10,3,1,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-37,MV Boucher,RP Singh,JM Kemp,0,1,1,28,125,5,11,3,2,wides,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-38,MV Boucher,RP Singh,JM Kemp,0,0,0,28,125,5,12,3,3,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-39,MV Boucher,RP Singh,JM Kemp,2,0,2,30,123,7,13,3,4,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-40,MV Boucher,RP Singh,JM Kemp,0,0,0,30,123,7,14,4,5,-,6,run out,JM Kemp,RG Sharma,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-41,SM Pollock,RP Singh,MV Boucher,0,1,1,31,122,0,1,4,6,wides,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-42,SM Pollock,RP Singh,MV Boucher,0,0,0,31,122,0,2,5,7,-,6,bowled,SM Pollock,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-43,JA Morkel,RP Singh,MV Boucher,0,0,0,31,122,0,1,5,8,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-44,MV Boucher,Joginder Sharma,JA Morkel,0,0,0,31,122,7,15,5,1,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-45,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,32,121,8,16,5,2,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-46,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,32,121,0,2,5,3,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-47,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,32,121,0,3,5,4,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-48,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,33,120,1,4,5,5,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-49,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,34,119,9,17,5,6,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-50,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,18,5,1,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-51,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,19,5,2,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-52,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,20,5,3,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-53,MV Boucher,IK Pathan,JA Morkel,1,0,1,35,118,10,21,5,4,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-54,JA Morkel,IK Pathan,MV Boucher,0,0,0,35,118,1,5,5,5,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-55,JA Morkel,IK Pathan,MV Boucher,0,0,0,35,118,1,6,5,6,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-56,MV Boucher,Joginder Sharma,JA Morkel,0,4,4,39,114,10,22,5,1,legbyes,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-57,MV Boucher,Joginder Sharma,JA Morkel,0,1,1,40,113,10,23,5,2,wides,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-58,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,41,112,11,24,5,3,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-59,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,41,112,1,7,5,4,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-60,JA Morkel,Joginder Sharma,MV Boucher,2,0,2,43,110,3,8,5,5,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-61,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,43,110,3,9,5,6,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-62,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,44,109,4,10,5,7,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-63,JA Morkel,IK Pathan,MV Boucher,2,0,2,46,107,6,11,5,1,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-64,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,12,5,2,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-65,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,13,5,3,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-66,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,14,5,4,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-67,JA Morkel,IK Pathan,MV Boucher,1,0,1,47,106,7,15,5,5,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-68,MV Boucher,IK Pathan,JA Morkel,0,1,1,48,105,11,25,5,6,legbyes,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-69,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,49,104,12,26,5,1,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-70,JA Morkel,Joginder Sharma,MV Boucher,4,0,4,53,100,11,16,5,2,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-71,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,53,100,11,17,5,3,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-72,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,54,99,12,18,5,4,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-73,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,55,98,13,27,5,5,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-74,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,55,98,12,19,5,6,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-75,MV Boucher,IK Pathan,JA Morkel,0,0,0,55,98,13,28,5,1,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-76,MV Boucher,IK Pathan,JA Morkel,1,0,1,56,97,14,29,5,2,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-77,JA Morkel,IK Pathan,MV Boucher,1,0,1,57,96,13,20,5,3,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-78,MV Boucher,IK Pathan,JA Morkel,0,1,1,58,95,14,30,5,4,legbyes,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-79,JA Morkel,IK Pathan,MV Boucher,4,0,4,62,91,17,21,5,5,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-80,JA Morkel,IK Pathan,MV Boucher,0,0,0,62,91,17,22,5,6,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-81,MV Boucher,Harbhajan Singh,JA Morkel,0,0,0,62,91,14,31,5,1,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-82,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,66,87,18,32,5,2,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-83,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,70,83,22,33,5,3,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-84,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,74,79,26,34,5,4,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-85,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,75,78,27,35,5,5,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-86,JA Morkel,Harbhajan Singh,MV Boucher,2,0,2,77,76,19,23,5,6,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-87,MV Boucher,IK Pathan,JA Morkel,1,0,1,78,75,28,36,5,1,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-88,JA Morkel,IK Pathan,MV Boucher,1,0,1,79,74,20,24,5,2,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-89,MV Boucher,IK Pathan,JA Morkel,1,0,1,80,73,29,37,5,3,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-90,JA Morkel,IK Pathan,MV Boucher,1,0,1,81,72,21,25,5,4,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-91,MV Boucher,IK Pathan,JA Morkel,1,0,1,82,71,30,38,5,5,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-92,JA Morkel,IK Pathan,MV Boucher,0,1,1,83,70,21,26,5,6,wides,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-93,JA Morkel,IK Pathan,MV Boucher,0,0,0,83,70,21,27,5,7,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-94,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,84,69,31,39,5,1,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-95,JA Morkel,Joginder Sharma,MV Boucher,6,0,6,90,63,27,28,5,2,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-96,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,90,63,27,29,5,3,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-97,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,90,63,27,30,5,4,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-98,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,91,62,28,31,5,5,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-99,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,92,61,32,40,5,6,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-100,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,93,60,33,41,5,1,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-101,JA Morkel,Harbhajan Singh,MV Boucher,1,0,1,94,59,29,32,5,2,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-102,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,95,58,34,42,5,3,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-103,JA Morkel,Harbhajan Singh,MV Boucher,1,0,1,96,57,30,33,5,4,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-104,MV Boucher,Harbhajan Singh,JA Morkel,0,0,0,96,57,34,43,5,5,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-105,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,97,56,35,44,5,6,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-106,MV Boucher,S Sreesanth,JA Morkel,0,1,1,98,55,35,45,5,1,wides,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-107,MV Boucher,S Sreesanth,JA Morkel,0,0,0,98,55,35,46,5,2,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-108,MV Boucher,S Sreesanth,JA Morkel,1,0,1,99,54,36,47,5,3,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-109,JA Morkel,S Sreesanth,MV Boucher,1,0,1,100,53,31,34,5,4,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-110,MV Boucher,S Sreesanth,JA Morkel,0,0,0,100,53,36,48,6,5,-,17,bowled,MV Boucher,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-111,VD Philander,S Sreesanth,JA Morkel,0,0,0,100,53,0,1,6,6,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-112,VD Philander,S Sreesanth,JA Morkel,1,0,1,101,52,1,2,6,7,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-113,VD Philander,Harbhajan Singh,JA Morkel,0,0,0,101,52,1,3,6,1,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-114,VD Philander,Harbhajan Singh,JA Morkel,1,0,1,102,51,2,4,6,2,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-115,JA Morkel,Harbhajan Singh,VD Philander,1,0,1,103,50,32,35,6,3,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-116,VD Philander,Harbhajan Singh,JA Morkel,0,0,0,103,50,2,5,7,4,-,18,stumped,VD Philander,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-117,JJ van der Wath,Harbhajan Singh,JA Morkel,1,0,1,104,49,1,1,7,5,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-118,JA Morkel,Harbhajan Singh,JJ van der Wath,2,0,2,106,47,34,36,7,6,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-119,JJ van der Wath,RP Singh,JA Morkel,0,0,0,106,47,1,2,7,1,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-120,JJ van der Wath,RP Singh,JA Morkel,0,1,1,107,46,1,3,7,2,legbyes,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-121,JA Morkel,RP Singh,JJ van der Wath,2,0,2,109,44,36,37,7,3,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-122,JA Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,36,38,8,4,-,19,bowled,JA Morkel,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-123,M Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,0,1,8,5,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-124,M Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,0,2,8,6,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-125,JJ van der Wath,Harbhajan Singh,M Morkel,1,0,1,110,43,2,4,8,1,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-126,M Morkel,Harbhajan Singh,JJ van der Wath,1,0,1,111,42,1,3,8,2,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-127,JJ van der Wath,Harbhajan Singh,M Morkel,0,0,0,111,42,2,5,8,3,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-128,JJ van der Wath,Harbhajan Singh,M Morkel,0,0,0,111,42,2,6,9,4,-,20,stumped,JJ van der Wath,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-129,M Ntini,Harbhajan Singh,M Morkel,4,0,4,115,38,4,1,9,5,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
-130,M Ntini,Harbhajan Singh,M Morkel,0,1,1,116,37,4,2,9,6,legbyes,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+0,HH Gibbs,S Sreesanth,GC Smith,0,5,5,5,148,0,1,0,1,wides,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+1,HH Gibbs,S Sreesanth,GC Smith,0,0,0,5,148,0,2,0,2,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+2,HH Gibbs,S Sreesanth,GC Smith,0,1,1,6,147,0,3,0,3,wides,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+3,HH Gibbs,S Sreesanth,GC Smith,1,0,1,7,146,1,4,0,4,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+4,GC Smith,S Sreesanth,HH Gibbs,4,0,4,11,142,4,1,0,5,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+5,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,2,0,6,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+6,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,3,0,7,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+7,GC Smith,S Sreesanth,HH Gibbs,0,0,0,11,142,4,4,0,8,-,1,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+8,HH Gibbs,RP Singh,GC Smith,0,0,0,11,142,1,5,1,1,-,2,lbw,HH Gibbs,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+9,AB de Villiers,RP Singh,GC Smith,1,0,1,12,141,1,1,1,2,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+10,GC Smith,RP Singh,AB de Villiers,0,0,0,12,141,4,5,1,3,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+11,GC Smith,RP Singh,AB de Villiers,0,0,0,12,141,4,6,2,4,-,2,caught,GC Smith,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+12,JM Kemp,RP Singh,AB de Villiers,0,0,0,12,141,0,1,2,5,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+13,JM Kemp,RP Singh,AB de Villiers,0,0,0,12,141,0,2,2,6,-,2,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+14,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,2,2,1,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+15,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,3,2,2,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+16,AB de Villiers,S Sreesanth,JM Kemp,0,0,0,12,141,1,4,3,3,-,3,lbw,AB de Villiers,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+17,MV Boucher,S Sreesanth,JM Kemp,0,0,0,12,141,0,1,3,4,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+18,MV Boucher,S Sreesanth,JM Kemp,0,1,1,13,140,0,2,3,5,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+19,MV Boucher,S Sreesanth,JM Kemp,0,1,1,14,139,0,3,3,6,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+20,MV Boucher,S Sreesanth,JM Kemp,0,1,1,15,138,0,4,3,7,wides,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+21,MV Boucher,S Sreesanth,JM Kemp,1,0,1,16,137,1,5,3,8,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+22,JM Kemp,S Sreesanth,MV Boucher,0,0,0,16,137,0,3,3,9,-,3,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+23,MV Boucher,RP Singh,JM Kemp,0,0,0,16,137,1,6,3,1,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+24,MV Boucher,RP Singh,JM Kemp,0,1,1,17,136,1,7,3,2,wides,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+25,MV Boucher,RP Singh,JM Kemp,0,1,1,18,135,1,8,3,3,legbyes,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+26,JM Kemp,RP Singh,MV Boucher,0,0,0,18,135,0,4,3,4,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+27,JM Kemp,RP Singh,MV Boucher,0,0,0,18,135,0,5,3,5,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+28,JM Kemp,RP Singh,MV Boucher,1,0,1,19,134,1,6,3,6,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+29,MV Boucher,RP Singh,JM Kemp,0,0,0,19,134,1,9,3,7,-,4,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+30,JM Kemp,S Sreesanth,MV Boucher,0,0,0,19,134,1,7,3,1,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+31,JM Kemp,S Sreesanth,MV Boucher,0,0,0,19,134,1,8,3,2,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+32,JM Kemp,S Sreesanth,MV Boucher,4,0,4,23,130,5,9,3,3,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+33,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,10,3,4,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+34,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,11,3,5,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+35,JM Kemp,S Sreesanth,MV Boucher,0,0,0,23,130,5,12,3,6,-,5,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+36,MV Boucher,RP Singh,JM Kemp,4,0,4,27,126,5,10,3,1,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+37,MV Boucher,RP Singh,JM Kemp,0,1,1,28,125,5,11,3,2,wides,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+38,MV Boucher,RP Singh,JM Kemp,0,0,0,28,125,5,12,3,3,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+39,MV Boucher,RP Singh,JM Kemp,2,0,2,30,123,7,13,3,4,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+40,MV Boucher,RP Singh,JM Kemp,0,0,0,30,123,7,14,4,5,-,6,run out,JM Kemp,RG Sharma,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+41,SM Pollock,RP Singh,MV Boucher,0,1,1,31,122,0,1,4,6,wides,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+42,SM Pollock,RP Singh,MV Boucher,0,0,0,31,122,0,2,5,7,-,6,bowled,SM Pollock,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+43,JA Morkel,RP Singh,MV Boucher,0,0,0,31,122,0,1,5,8,-,6,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+44,MV Boucher,Joginder Sharma,JA Morkel,0,0,0,31,122,7,15,5,1,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+45,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,32,121,8,16,5,2,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+46,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,32,121,0,2,5,3,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+47,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,32,121,0,3,5,4,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+48,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,33,120,1,4,5,5,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+49,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,34,119,9,17,5,6,-,7,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+50,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,18,5,1,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+51,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,19,5,2,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+52,MV Boucher,IK Pathan,JA Morkel,0,0,0,34,119,9,20,5,3,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+53,MV Boucher,IK Pathan,JA Morkel,1,0,1,35,118,10,21,5,4,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+54,JA Morkel,IK Pathan,MV Boucher,0,0,0,35,118,1,5,5,5,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+55,JA Morkel,IK Pathan,MV Boucher,0,0,0,35,118,1,6,5,6,-,8,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+56,MV Boucher,Joginder Sharma,JA Morkel,0,4,4,39,114,10,22,5,1,legbyes,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+57,MV Boucher,Joginder Sharma,JA Morkel,0,1,1,40,113,10,23,5,2,wides,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+58,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,41,112,11,24,5,3,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+59,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,41,112,1,7,5,4,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+60,JA Morkel,Joginder Sharma,MV Boucher,2,0,2,43,110,3,8,5,5,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+61,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,43,110,3,9,5,6,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+62,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,44,109,4,10,5,7,-,9,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+63,JA Morkel,IK Pathan,MV Boucher,2,0,2,46,107,6,11,5,1,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+64,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,12,5,2,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+65,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,13,5,3,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+66,JA Morkel,IK Pathan,MV Boucher,0,0,0,46,107,6,14,5,4,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+67,JA Morkel,IK Pathan,MV Boucher,1,0,1,47,106,7,15,5,5,-,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+68,MV Boucher,IK Pathan,JA Morkel,0,1,1,48,105,11,25,5,6,legbyes,10,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+69,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,49,104,12,26,5,1,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+70,JA Morkel,Joginder Sharma,MV Boucher,4,0,4,53,100,11,16,5,2,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+71,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,53,100,11,17,5,3,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+72,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,54,99,12,18,5,4,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+73,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,55,98,13,27,5,5,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+74,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,55,98,12,19,5,6,-,11,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+75,MV Boucher,IK Pathan,JA Morkel,0,0,0,55,98,13,28,5,1,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+76,MV Boucher,IK Pathan,JA Morkel,1,0,1,56,97,14,29,5,2,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+77,JA Morkel,IK Pathan,MV Boucher,1,0,1,57,96,13,20,5,3,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+78,MV Boucher,IK Pathan,JA Morkel,0,1,1,58,95,14,30,5,4,legbyes,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+79,JA Morkel,IK Pathan,MV Boucher,4,0,4,62,91,17,21,5,5,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+80,JA Morkel,IK Pathan,MV Boucher,0,0,0,62,91,17,22,5,6,-,12,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+81,MV Boucher,Harbhajan Singh,JA Morkel,0,0,0,62,91,14,31,5,1,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+82,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,66,87,18,32,5,2,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+83,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,70,83,22,33,5,3,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+84,MV Boucher,Harbhajan Singh,JA Morkel,4,0,4,74,79,26,34,5,4,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+85,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,75,78,27,35,5,5,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+86,JA Morkel,Harbhajan Singh,MV Boucher,2,0,2,77,76,19,23,5,6,-,13,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+87,MV Boucher,IK Pathan,JA Morkel,1,0,1,78,75,28,36,5,1,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+88,JA Morkel,IK Pathan,MV Boucher,1,0,1,79,74,20,24,5,2,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+89,MV Boucher,IK Pathan,JA Morkel,1,0,1,80,73,29,37,5,3,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+90,JA Morkel,IK Pathan,MV Boucher,1,0,1,81,72,21,25,5,4,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+91,MV Boucher,IK Pathan,JA Morkel,1,0,1,82,71,30,38,5,5,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+92,JA Morkel,IK Pathan,MV Boucher,0,1,1,83,70,21,26,5,6,wides,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+93,JA Morkel,IK Pathan,MV Boucher,0,0,0,83,70,21,27,5,7,-,14,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+94,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,84,69,31,39,5,1,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+95,JA Morkel,Joginder Sharma,MV Boucher,6,0,6,90,63,27,28,5,2,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+96,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,90,63,27,29,5,3,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+97,JA Morkel,Joginder Sharma,MV Boucher,0,0,0,90,63,27,30,5,4,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+98,JA Morkel,Joginder Sharma,MV Boucher,1,0,1,91,62,28,31,5,5,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+99,MV Boucher,Joginder Sharma,JA Morkel,1,0,1,92,61,32,40,5,6,-,15,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+100,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,93,60,33,41,5,1,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+101,JA Morkel,Harbhajan Singh,MV Boucher,1,0,1,94,59,29,32,5,2,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+102,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,95,58,34,42,5,3,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+103,JA Morkel,Harbhajan Singh,MV Boucher,1,0,1,96,57,30,33,5,4,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+104,MV Boucher,Harbhajan Singh,JA Morkel,0,0,0,96,57,34,43,5,5,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+105,MV Boucher,Harbhajan Singh,JA Morkel,1,0,1,97,56,35,44,5,6,-,16,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+106,MV Boucher,S Sreesanth,JA Morkel,0,1,1,98,55,35,45,5,1,wides,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+107,MV Boucher,S Sreesanth,JA Morkel,0,0,0,98,55,35,46,5,2,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+108,MV Boucher,S Sreesanth,JA Morkel,1,0,1,99,54,36,47,5,3,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+109,JA Morkel,S Sreesanth,MV Boucher,1,0,1,100,53,31,34,5,4,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+110,MV Boucher,S Sreesanth,JA Morkel,0,0,0,100,53,36,48,6,5,-,17,bowled,MV Boucher,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+111,VD Philander,S Sreesanth,JA Morkel,0,0,0,100,53,0,1,6,6,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+112,VD Philander,S Sreesanth,JA Morkel,1,0,1,101,52,1,2,6,7,-,17,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+113,VD Philander,Harbhajan Singh,JA Morkel,0,0,0,101,52,1,3,6,1,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+114,VD Philander,Harbhajan Singh,JA Morkel,1,0,1,102,51,2,4,6,2,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+115,JA Morkel,Harbhajan Singh,VD Philander,1,0,1,103,50,32,35,6,3,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+116,VD Philander,Harbhajan Singh,JA Morkel,0,0,0,103,50,2,5,7,4,-,18,stumped,VD Philander,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+117,JJ van der Wath,Harbhajan Singh,JA Morkel,1,0,1,104,49,1,1,7,5,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+118,JA Morkel,Harbhajan Singh,JJ van der Wath,2,0,2,106,47,34,36,7,6,-,18,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+119,JJ van der Wath,RP Singh,JA Morkel,0,0,0,106,47,1,2,7,1,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+120,JJ van der Wath,RP Singh,JA Morkel,0,1,1,107,46,1,3,7,2,legbyes,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+121,JA Morkel,RP Singh,JJ van der Wath,2,0,2,109,44,36,37,7,3,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+122,JA Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,36,38,8,4,-,19,bowled,JA Morkel,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+123,M Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,0,1,8,5,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+124,M Morkel,RP Singh,JJ van der Wath,0,0,0,109,44,0,2,8,6,-,19,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+125,JJ van der Wath,Harbhajan Singh,M Morkel,1,0,1,110,43,2,4,8,1,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+126,M Morkel,Harbhajan Singh,JJ van der Wath,1,0,1,111,42,1,3,8,2,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+127,JJ van der Wath,Harbhajan Singh,M Morkel,0,0,0,111,42,2,5,8,3,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+128,JJ van der Wath,Harbhajan Singh,M Morkel,0,0,0,111,42,2,6,9,4,-,20,stumped,JJ van der Wath,KD Karthik,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+129,M Ntini,Harbhajan Singh,M Morkel,4,0,4,115,38,4,1,9,5,-,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116
+130,M Ntini,Harbhajan Singh,M Morkel,0,1,1,116,37,4,2,9,6,legbyes,20,0,,,bat,India,2,Kingsmead,2007,09,South Africa_India_2007-09-20,India,South Africa,India,116

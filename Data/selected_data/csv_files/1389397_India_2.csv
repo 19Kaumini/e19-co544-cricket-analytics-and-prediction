@@ -1,97 +1,97 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team
-0,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,4,0,4,4,168,4,1,0,1,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-1,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,0,0,0,4,168,4,2,0,2,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-2,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,"{'by': 'Afghanistan', 'umpire': 'VK Sharma', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,4,168,4,3,0,3,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-3,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,1,0,1,5,167,5,4,0,4,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-4,RG Sharma,Fazalhaq Farooqi,YBK Jaiswal,,0,0,0,5,167,0,1,1,5,bowled,RG Sharma,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-5,V Kohli,Fazalhaq Farooqi,YBK Jaiswal,,0,0,0,5,167,0,1,1,6,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-6,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,1,0,1,6,166,6,5,1,1,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-7,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,10,162,4,2,1,2,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-8,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,2,0,2,12,160,6,3,1,3,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-9,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,1,0,1,13,159,7,4,1,4,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-10,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,1,0,1,14,158,7,6,1,5,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-11,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,18,154,11,5,1,6,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-12,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,6,0,6,24,148,13,7,1,1,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-13,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,0,0,0,24,148,13,8,1,2,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-14,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,0,0,0,24,148,13,9,1,3,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-15,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,6,0,6,30,142,19,10,1,4,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-16,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,1,0,1,31,141,20,11,1,5,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-17,V Kohli,Fazalhaq Farooqi,YBK Jaiswal,,1,0,1,32,140,12,6,1,6,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-18,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,33,139,13,7,1,1,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-19,YBK Jaiswal,Naveen-ul-Haq,V Kohli,,1,0,1,34,138,21,12,1,2,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-20,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,38,134,17,8,1,3,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-21,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,38,134,17,9,1,4,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-22,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,39,133,18,10,1,5,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-23,YBK Jaiswal,Naveen-ul-Haq,V Kohli,,0,0,0,39,133,21,13,1,6,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-24,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,43,129,22,11,1,1,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-25,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,2,0,2,45,127,24,12,1,2,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-26,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,1,0,1,46,126,25,13,1,3,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-27,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,50,122,25,14,1,4,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-28,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,54,118,29,15,1,5,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-29,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,58,114,33,16,1,6,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-30,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,58,114,25,14,1,1,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-31,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,62,110,29,15,1,2,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-32,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,62,110,29,16,2,3,caught,V Kohli,Ibrahim Zadran,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-33,S Dube,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,63,109,1,1,2,4,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-34,YBK Jaiswal,Naveen-ul-Haq,S Dube,,6,0,6,69,103,39,17,2,5,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-35,YBK Jaiswal,Naveen-ul-Haq,S Dube,,0,0,0,69,103,39,18,2,6,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-36,S Dube,Noor Ahmad,YBK Jaiswal,,2,0,2,71,101,3,2,2,1,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-37,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,72,100,4,3,2,2,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-38,YBK Jaiswal,Noor Ahmad,S Dube,,0,0,0,72,100,39,19,2,3,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-39,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,73,99,40,20,2,4,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-40,S Dube,Noor Ahmad,YBK Jaiswal,,0,1,1,74,98,4,4,2,5,0,,,7,wides,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-41,S Dube,Noor Ahmad,YBK Jaiswal,,0,0,0,74,98,4,5,2,6,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-42,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,75,97,5,6,2,7,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-43,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,76,96,6,7,2,1,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-44,YBK Jaiswal,Mohammad Nabi,S Dube,,6,0,6,82,90,46,21,2,2,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-45,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,83,89,47,22,2,3,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-46,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,84,88,7,8,2,4,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-47,YBK Jaiswal,Mohammad Nabi,S Dube,,0,0,0,84,88,47,23,2,5,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-48,YBK Jaiswal,Mohammad Nabi,S Dube,,0,0,0,84,88,47,24,2,6,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-49,S Dube,Noor Ahmad,YBK Jaiswal,,6,0,6,90,82,13,9,2,1,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-50,S Dube,Noor Ahmad,YBK Jaiswal,,0,0,0,90,82,13,10,2,2,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-51,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,91,81,14,11,2,3,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-52,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,92,80,48,25,2,4,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-53,S Dube,Noor Ahmad,YBK Jaiswal,,0,1,1,93,79,14,12,2,5,0,,,9,wides,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-54,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,94,78,15,13,2,6,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-55,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,95,77,49,26,2,7,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-56,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,96,76,50,27,2,1,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-57,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,102,70,21,14,2,2,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-58,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,108,64,27,15,2,3,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-59,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,114,58,33,16,2,4,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-60,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,115,57,34,17,2,5,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-61,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,116,56,51,28,2,6,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-62,YBK Jaiswal,Noor Ahmad,S Dube,,4,0,4,120,52,55,29,2,1,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-63,YBK Jaiswal,Noor Ahmad,S Dube,,6,0,6,126,46,61,30,2,2,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-64,YBK Jaiswal,Noor Ahmad,S Dube,,0,0,0,126,46,61,31,2,3,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-65,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,127,45,62,32,2,4,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-66,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,128,44,35,18,2,5,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-67,YBK Jaiswal,Noor Ahmad,S Dube,,6,0,6,134,38,68,33,2,6,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-68,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,138,34,39,19,2,1,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-69,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,142,30,43,20,2,2,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-70,S Dube,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,142,30,43,21,2,3,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-71,S Dube,Naveen-ul-Haq,YBK Jaiswal,,2,0,2,144,28,45,22,2,4,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-72,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,148,24,49,23,2,5,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-73,S Dube,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,149,23,50,24,2,6,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-74,S Dube,Karim Janat,YBK Jaiswal,,4,0,4,153,19,54,25,2,1,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-75,S Dube,Karim Janat,YBK Jaiswal,,1,0,1,154,18,55,26,2,2,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-76,YBK Jaiswal,Karim Janat,S Dube,,0,0,0,154,18,68,34,3,3,caught,YBK Jaiswal,Rahmanullah Gurbaz,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-77,JM Sharma,Karim Janat,S Dube,,0,1,1,155,17,0,1,3,4,0,,,13,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-78,S Dube,Karim Janat,JM Sharma,,1,0,1,156,16,56,27,3,5,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-79,JM Sharma,Karim Janat,S Dube,,0,0,0,156,16,0,2,4,6,caught,JM Sharma,Mohammad Nabi,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-80,S Dube,Fazalhaq Farooqi,RK Singh,,1,0,1,157,15,57,28,4,1,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-81,RK Singh,Fazalhaq Farooqi,S Dube,,0,0,0,157,15,0,1,4,2,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-82,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,158,14,1,2,4,3,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-83,S Dube,Fazalhaq Farooqi,RK Singh,,4,0,4,162,10,61,29,4,4,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-84,S Dube,Fazalhaq Farooqi,RK Singh,,1,0,1,163,9,62,30,4,5,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-85,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,164,8,2,3,4,6,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-86,RK Singh,Karim Janat,S Dube,,4,0,4,168,4,6,4,4,1,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-87,RK Singh,Karim Janat,S Dube,,0,0,0,168,4,6,5,4,2,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-88,RK Singh,Karim Janat,S Dube,,1,0,1,169,3,7,6,4,3,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-89,S Dube,Karim Janat,RK Singh,,0,0,0,169,3,62,31,4,4,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-90,S Dube,Karim Janat,RK Singh,,1,0,1,170,2,63,32,4,5,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-91,RK Singh,Karim Janat,S Dube,,1,0,1,171,1,8,7,4,6,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-92,RK Singh,Fazalhaq Farooqi,S Dube,,0,0,0,171,1,8,8,4,1,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-93,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,172,0,9,9,4,2,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-94,S Dube,Fazalhaq Farooqi,RK Singh,,0,0,0,172,0,63,33,4,3,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
-95,S Dube,Fazalhaq Farooqi,RK Singh,,0,1,1,173,-1,63,34,4,4,0,,,16,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+0,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,4,0,4,4,168,4,1,0,1,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+1,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,0,0,0,4,168,4,2,0,2,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+2,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,"{'by': 'Afghanistan', 'umpire': 'VK Sharma', 'batter': 'YBK Jaiswal', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,4,168,4,3,0,3,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+3,YBK Jaiswal,Fazalhaq Farooqi,RG Sharma,,1,0,1,5,167,5,4,0,4,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+4,RG Sharma,Fazalhaq Farooqi,YBK Jaiswal,,0,0,0,5,167,0,1,1,5,bowled,RG Sharma,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+5,V Kohli,Fazalhaq Farooqi,YBK Jaiswal,,0,0,0,5,167,0,1,1,6,0,,,1,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+6,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,1,0,1,6,166,6,5,1,1,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+7,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,10,162,4,2,1,2,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+8,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,2,0,2,12,160,6,3,1,3,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+9,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,1,0,1,13,159,7,4,1,4,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+10,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,1,0,1,14,158,7,6,1,5,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+11,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,18,154,11,5,1,6,0,,,2,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+12,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,6,0,6,24,148,13,7,1,1,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+13,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,0,0,0,24,148,13,8,1,2,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+14,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,0,0,0,24,148,13,9,1,3,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+15,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,6,0,6,30,142,19,10,1,4,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+16,YBK Jaiswal,Fazalhaq Farooqi,V Kohli,,1,0,1,31,141,20,11,1,5,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+17,V Kohli,Fazalhaq Farooqi,YBK Jaiswal,,1,0,1,32,140,12,6,1,6,0,,,3,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+18,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,33,139,13,7,1,1,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+19,YBK Jaiswal,Naveen-ul-Haq,V Kohli,,1,0,1,34,138,21,12,1,2,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+20,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,38,134,17,8,1,3,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+21,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,38,134,17,9,1,4,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+22,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,39,133,18,10,1,5,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+23,YBK Jaiswal,Naveen-ul-Haq,V Kohli,,0,0,0,39,133,21,13,1,6,0,,,4,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+24,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,4,0,4,43,129,22,11,1,1,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+25,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,2,0,2,45,127,24,12,1,2,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+26,V Kohli,Mujeeb Ur Rahman,YBK Jaiswal,,1,0,1,46,126,25,13,1,3,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+27,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,50,122,25,14,1,4,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+28,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,54,118,29,15,1,5,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+29,YBK Jaiswal,Mujeeb Ur Rahman,V Kohli,,4,0,4,58,114,33,16,1,6,0,,,5,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+30,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,58,114,25,14,1,1,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+31,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,62,110,29,15,1,2,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+32,V Kohli,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,62,110,29,16,2,3,caught,V Kohli,Ibrahim Zadran,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+33,S Dube,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,63,109,1,1,2,4,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+34,YBK Jaiswal,Naveen-ul-Haq,S Dube,,6,0,6,69,103,39,17,2,5,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+35,YBK Jaiswal,Naveen-ul-Haq,S Dube,,0,0,0,69,103,39,18,2,6,0,,,6,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+36,S Dube,Noor Ahmad,YBK Jaiswal,,2,0,2,71,101,3,2,2,1,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+37,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,72,100,4,3,2,2,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+38,YBK Jaiswal,Noor Ahmad,S Dube,,0,0,0,72,100,39,19,2,3,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+39,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,73,99,40,20,2,4,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+40,S Dube,Noor Ahmad,YBK Jaiswal,,0,1,1,74,98,4,4,2,5,0,,,7,wides,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+41,S Dube,Noor Ahmad,YBK Jaiswal,,0,0,0,74,98,4,5,2,6,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+42,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,75,97,5,6,2,7,0,,,7,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+43,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,76,96,6,7,2,1,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+44,YBK Jaiswal,Mohammad Nabi,S Dube,,6,0,6,82,90,46,21,2,2,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+45,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,83,89,47,22,2,3,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+46,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,84,88,7,8,2,4,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+47,YBK Jaiswal,Mohammad Nabi,S Dube,,0,0,0,84,88,47,23,2,5,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+48,YBK Jaiswal,Mohammad Nabi,S Dube,,0,0,0,84,88,47,24,2,6,0,,,8,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+49,S Dube,Noor Ahmad,YBK Jaiswal,,6,0,6,90,82,13,9,2,1,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+50,S Dube,Noor Ahmad,YBK Jaiswal,,0,0,0,90,82,13,10,2,2,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+51,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,91,81,14,11,2,3,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+52,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,92,80,48,25,2,4,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+53,S Dube,Noor Ahmad,YBK Jaiswal,,0,1,1,93,79,14,12,2,5,0,,,9,wides,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+54,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,94,78,15,13,2,6,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+55,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,95,77,49,26,2,7,0,,,9,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+56,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,96,76,50,27,2,1,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+57,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,102,70,21,14,2,2,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+58,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,108,64,27,15,2,3,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+59,S Dube,Mohammad Nabi,YBK Jaiswal,,6,0,6,114,58,33,16,2,4,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+60,S Dube,Mohammad Nabi,YBK Jaiswal,,1,0,1,115,57,34,17,2,5,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+61,YBK Jaiswal,Mohammad Nabi,S Dube,,1,0,1,116,56,51,28,2,6,0,,,10,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+62,YBK Jaiswal,Noor Ahmad,S Dube,,4,0,4,120,52,55,29,2,1,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+63,YBK Jaiswal,Noor Ahmad,S Dube,,6,0,6,126,46,61,30,2,2,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+64,YBK Jaiswal,Noor Ahmad,S Dube,,0,0,0,126,46,61,31,2,3,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+65,YBK Jaiswal,Noor Ahmad,S Dube,,1,0,1,127,45,62,32,2,4,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+66,S Dube,Noor Ahmad,YBK Jaiswal,,1,0,1,128,44,35,18,2,5,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+67,YBK Jaiswal,Noor Ahmad,S Dube,,6,0,6,134,38,68,33,2,6,0,,,11,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+68,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,138,34,39,19,2,1,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+69,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,142,30,43,20,2,2,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+70,S Dube,Naveen-ul-Haq,YBK Jaiswal,,0,0,0,142,30,43,21,2,3,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+71,S Dube,Naveen-ul-Haq,YBK Jaiswal,,2,0,2,144,28,45,22,2,4,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+72,S Dube,Naveen-ul-Haq,YBK Jaiswal,,4,0,4,148,24,49,23,2,5,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+73,S Dube,Naveen-ul-Haq,YBK Jaiswal,,1,0,1,149,23,50,24,2,6,0,,,12,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+74,S Dube,Karim Janat,YBK Jaiswal,,4,0,4,153,19,54,25,2,1,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+75,S Dube,Karim Janat,YBK Jaiswal,,1,0,1,154,18,55,26,2,2,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+76,YBK Jaiswal,Karim Janat,S Dube,,0,0,0,154,18,68,34,3,3,caught,YBK Jaiswal,Rahmanullah Gurbaz,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+77,JM Sharma,Karim Janat,S Dube,,0,1,1,155,17,0,1,3,4,0,,,13,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+78,S Dube,Karim Janat,JM Sharma,,1,0,1,156,16,56,27,3,5,0,,,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+79,JM Sharma,Karim Janat,S Dube,,0,0,0,156,16,0,2,4,6,caught,JM Sharma,Mohammad Nabi,13,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+80,S Dube,Fazalhaq Farooqi,RK Singh,,1,0,1,157,15,57,28,4,1,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+81,RK Singh,Fazalhaq Farooqi,S Dube,,0,0,0,157,15,0,1,4,2,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+82,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,158,14,1,2,4,3,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+83,S Dube,Fazalhaq Farooqi,RK Singh,,4,0,4,162,10,61,29,4,4,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+84,S Dube,Fazalhaq Farooqi,RK Singh,,1,0,1,163,9,62,30,4,5,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+85,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,164,8,2,3,4,6,0,,,14,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+86,RK Singh,Karim Janat,S Dube,,4,0,4,168,4,6,4,4,1,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+87,RK Singh,Karim Janat,S Dube,,0,0,0,168,4,6,5,4,2,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+88,RK Singh,Karim Janat,S Dube,,1,0,1,169,3,7,6,4,3,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+89,S Dube,Karim Janat,RK Singh,,0,0,0,169,3,62,31,4,4,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+90,S Dube,Karim Janat,RK Singh,,1,0,1,170,2,63,32,4,5,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+91,RK Singh,Karim Janat,S Dube,,1,0,1,171,1,8,7,4,6,0,,,15,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+92,RK Singh,Fazalhaq Farooqi,S Dube,,0,0,0,171,1,8,8,4,1,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+93,RK Singh,Fazalhaq Farooqi,S Dube,,1,0,1,172,0,9,9,4,2,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+94,S Dube,Fazalhaq Farooqi,RK Singh,,0,0,0,172,0,63,33,4,3,0,,,16,-,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
+95,S Dube,Fazalhaq Farooqi,RK Singh,,0,1,1,173,-1,63,34,4,4,0,,,16,legbyes,field,India,2,"Holkar Cricket Stadium, Indore",2024,01,Afghanistan_India_2024-01-14,India,India,Afghanistan,173
