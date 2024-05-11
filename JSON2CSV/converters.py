@@ -17,11 +17,11 @@ def convert_over_to_df(over_data):
     over_df = pd.DataFrame(over_data)
     over_df["runs_by_bat"] = over_df["runs"].apply(lambda x: x.get("batter"))
     over_df["extra_runs"] = over_df["runs"].apply(lambda x: x.get("extras"))
-    over_df["total"] = over_df["runs"].apply(lambda x: x.get("total"))
+    over_df["total_runs_delivery"] = over_df["runs"].apply(lambda x: x.get("total"))
     # Cumulative sum of the total score
     global total_score
-    score = over_df["total"].cumsum() + total_score
-    over_df["team_total"] = score
+    score = over_df["total_runs_delivery"].cumsum() + total_score
+    over_df["current_team_total"] = score
     if current_inning == 1:
         over_df["runs_remain"] = first_inning_total - score
     else:
@@ -208,7 +208,7 @@ def json_to_csv(match_file, output_file=False):
 
         if "extras" in df.columns:
             df.drop(columns=["extras"], inplace=True)
-        df["final_team_final"] = df["team_total"].iloc[-1]
+        df["final_team_final"] = df["current_team_total"].iloc[-1]
         if output_file:
 
             file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
