@@ -208,7 +208,7 @@ def json_to_csv(match_file, output_file=False):
 
         if "extras" in df.columns:
             df.drop(columns=["extras"], inplace=True)
-        df["final_team_final"] = df["current_team_total"].iloc[-1]
+        df["final_team_total"] = df["current_team_total"].iloc[-1]
         if output_file:
 
             file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
