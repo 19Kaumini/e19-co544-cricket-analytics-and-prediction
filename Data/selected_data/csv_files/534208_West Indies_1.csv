@@ -1,4 +1,4 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_final
 0,DR Smith,ST Finn,CH Gayle,1,0,1,1,136,1,1,0,1,-,1,0,,,bat,West Indies,1,Trent Bridge,2012,06,England_West Indies_2012-06-24,England,West Indies,England,172
 1,CH Gayle,ST Finn,DR Smith,0,0,0,1,136,0,1,0,2,-,1,0,,,bat,West Indies,1,Trent Bridge,2012,06,England_West Indies_2012-06-24,England,West Indies,England,172
 2,CH Gayle,ST Finn,DR Smith,0,3,3,4,133,0,2,0,3,wides,1,0,,,bat,West Indies,1,Trent Bridge,2012,06,England_West Indies_2012-06-24,England,West Indies,England,172

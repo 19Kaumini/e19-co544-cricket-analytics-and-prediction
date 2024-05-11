@@ -1,4 +1,4 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_final
 0,JM Bairstow,TG Southee,EJG Morgan,1,0,1,1,145,1,1,0,1,1,0,0,field,England,3,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,17
 1,EJG Morgan,TG Southee,JM Bairstow,6,0,6,7,139,6,1,0,2,1,0,0,field,England,3,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,17
 2,EJG Morgan,TG Southee,JM Bairstow,1,0,1,8,138,7,2,0,3,1,0,0,field,England,3,Eden Park,2019,11,New Zealand_England_2019-11-10,tie,England,New Zealand,17

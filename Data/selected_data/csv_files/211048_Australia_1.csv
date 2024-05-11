@@ -1,4 +1,4 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_final
 0,AC Gilchrist,DR Tuffey,MJ Clarke,0,1,1,1,178,0,1,0,1,wides,0,,,1,bat,Australia,1,Eden Park,2005,02,New Zealand_Australia_2005-02-17,Australia,Australia,New Zealand,214
 1,AC Gilchrist,DR Tuffey,MJ Clarke,0,1,1,2,177,0,2,0,2,legbyes,0,,,1,bat,Australia,1,Eden Park,2005,02,New Zealand_Australia_2005-02-17,Australia,Australia,New Zealand,214
 2,MJ Clarke,DR Tuffey,AC Gilchrist,0,0,0,2,177,0,1,0,3,-,0,,,1,bat,Australia,1,Eden Park,2005,02,New Zealand_Australia_2005-02-17,Australia,Australia,New Zealand,214

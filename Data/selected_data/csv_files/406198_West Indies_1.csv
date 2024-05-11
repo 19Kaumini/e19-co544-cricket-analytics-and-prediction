@@ -1,4 +1,4 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_final
 0,CH Gayle,SW Tait,TM Dowlin,0,0,0,0,179,0,1,0,1,-,1,0,,,bat,West Indies,1,Sydney Cricket Ground,2010,02,Australia_West Indies_2010-02-23,Australia,West Indies,Australia,138
 1,CH Gayle,SW Tait,TM Dowlin,1,0,1,1,178,1,2,0,2,-,1,0,,,bat,West Indies,1,Sydney Cricket Ground,2010,02,Australia_West Indies_2010-02-23,Australia,West Indies,Australia,138
 2,TM Dowlin,SW Tait,CH Gayle,0,1,1,2,177,0,1,0,3,legbyes,1,0,,,bat,West Indies,1,Sydney Cricket Ground,2010,02,Australia_West Indies_2010-02-23,Australia,West Indies,Australia,138

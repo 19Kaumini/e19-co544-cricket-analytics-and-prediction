@@ -1,4 +1,4 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total,team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,team_final
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_final
 0,AN Cook,DR Smith,MJ Prior,0,0,0,0,169,0,1,0,1,1,-,0,,,bat,West Indies,2,Kennington Oval,2007,06,England_West Indies_2007-06-29,England,England,West Indies,173
 1,AN Cook,DR Smith,MJ Prior,1,0,1,1,168,1,2,0,2,1,-,0,,,bat,West Indies,2,Kennington Oval,2007,06,England_West Indies_2007-06-29,England,England,West Indies,173
 2,MJ Prior,DR Smith,AN Cook,1,0,1,2,167,1,1,0,3,1,-,0,,,bat,West Indies,2,Kennington Oval,2007,06,England_West Indies_2007-06-29,England,England,West Indies,173
