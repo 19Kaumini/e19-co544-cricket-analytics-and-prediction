@@ -1,120 +1,120 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Q de Kock,B Kumar,T Bavuma,0,0,0,0,211,0,1,0,1,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-1,Q de Kock,B Kumar,T Bavuma,1,0,1,1,210,1,2,0,2,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-2,T Bavuma,B Kumar,Q de Kock,0,4,4,5,206,0,1,0,3,legbyes,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-3,T Bavuma,B Kumar,Q de Kock,0,0,0,5,206,0,2,0,4,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-4,T Bavuma,B Kumar,Q de Kock,1,0,1,6,205,1,3,0,5,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-5,Q de Kock,B Kumar,T Bavuma,1,0,1,7,204,2,3,0,6,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-6,Q de Kock,Avesh Khan,T Bavuma,0,0,0,7,204,2,4,0,1,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-7,Q de Kock,Avesh Khan,T Bavuma,0,0,0,7,204,2,5,0,2,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-8,Q de Kock,Avesh Khan,T Bavuma,0,2,2,9,202,2,6,0,3,wides,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-9,T Bavuma,Avesh Khan,Q de Kock,4,0,4,13,198,5,4,0,4,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-10,T Bavuma,Avesh Khan,Q de Kock,4,0,4,17,194,9,5,0,5,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-11,T Bavuma,Avesh Khan,Q de Kock,1,0,1,18,193,10,6,0,6,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-12,Q de Kock,Avesh Khan,T Bavuma,4,0,4,22,189,6,7,0,7,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-13,T Bavuma,B Kumar,Q de Kock,0,0,0,22,189,10,7,0,1,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-14,T Bavuma,B Kumar,Q de Kock,0,0,0,22,189,10,8,1,2,-,3,caught,T Bavuma,RR Pant,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-15,D Pretorius,B Kumar,Q de Kock,0,0,0,22,189,0,1,1,3,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-16,D Pretorius,B Kumar,Q de Kock,4,0,4,26,185,4,2,1,4,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-17,D Pretorius,B Kumar,Q de Kock,0,0,0,26,185,4,3,1,5,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-18,D Pretorius,B Kumar,Q de Kock,0,0,0,26,185,4,4,1,6,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-19,Q de Kock,YS Chahal,D Pretorius,1,0,1,27,184,7,8,1,1,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-20,D Pretorius,YS Chahal,Q de Kock,6,0,6,33,178,10,5,1,2,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-21,D Pretorius,YS Chahal,Q de Kock,1,0,1,34,177,11,6,1,3,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-22,Q de Kock,YS Chahal,D Pretorius,0,0,0,34,177,7,9,1,4,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-23,Q de Kock,YS Chahal,D Pretorius,4,0,4,38,173,11,10,1,5,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-24,Q de Kock,YS Chahal,D Pretorius,4,0,4,42,169,15,11,1,6,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-25,D Pretorius,HH Pandya,Q de Kock,0,0,0,42,169,11,7,1,1,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-26,D Pretorius,HH Pandya,Q de Kock,6,0,6,48,163,17,8,1,2,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-27,D Pretorius,HH Pandya,Q de Kock,6,0,6,54,157,23,9,1,3,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-28,D Pretorius,HH Pandya,Q de Kock,0,0,0,54,157,23,10,1,4,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-29,D Pretorius,HH Pandya,Q de Kock,6,0,6,60,151,29,11,1,5,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-30,D Pretorius,HH Pandya,Q de Kock,0,0,0,60,151,29,12,1,6,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-31,Q de Kock,HV Patel,D Pretorius,1,0,1,61,150,16,12,1,1,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-32,D Pretorius,HV Patel,Q de Kock,0,0,0,61,150,29,13,2,2,-,6,bowled,D Pretorius,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-33,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,1,2,3,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-34,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,2,2,4,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-35,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,3,2,5,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-36,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,4,2,6,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-37,Q de Kock,AR Patel,HE van der Dussen,1,0,1,62,149,17,13,2,1,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-38,HE van der Dussen,AR Patel,Q de Kock,1,0,1,63,148,1,5,2,2,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-39,Q de Kock,AR Patel,HE van der Dussen,0,0,0,63,148,17,14,2,3,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-40,Q de Kock,AR Patel,HE van der Dussen,1,0,1,64,147,18,15,2,4,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-41,HE van der Dussen,AR Patel,Q de Kock,1,0,1,65,146,2,6,2,5,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-42,Q de Kock,AR Patel,HE van der Dussen,2,0,2,67,144,20,16,2,6,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-43,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,7,2,1,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-44,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,8,2,2,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-45,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,9,2,3,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-46,HE van der Dussen,YS Chahal,Q de Kock,4,0,4,71,140,6,10,2,4,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-47,HE van der Dussen,YS Chahal,Q de Kock,1,0,1,72,139,7,11,2,5,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-48,Q de Kock,YS Chahal,HE van der Dussen,1,0,1,73,138,21,17,2,6,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-49,Q de Kock,AR Patel,HE van der Dussen,1,0,1,74,137,22,18,2,1,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-50,HE van der Dussen,AR Patel,Q de Kock,6,0,6,80,131,13,12,2,2,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-51,HE van der Dussen,AR Patel,Q de Kock,1,0,1,81,130,14,13,2,3,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-52,Q de Kock,AR Patel,HE van der Dussen,0,0,0,81,130,22,19,3,4,-,9,caught,Q de Kock,Ishan Kishan,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-53,DA Miller,AR Patel,HE van der Dussen,0,0,0,81,130,0,1,3,5,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-54,DA Miller,AR Patel,HE van der Dussen,1,0,1,82,129,1,2,3,6,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-55,DA Miller,Avesh Khan,HE van der Dussen,2,0,2,84,127,3,3,3,1,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-56,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,85,126,4,4,3,2,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-57,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,85,126,14,14,3,3,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-58,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,85,126,14,15,3,4,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-59,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,86,125,15,16,3,5,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-60,DA Miller,Avesh Khan,HE van der Dussen,0,0,0,86,125,4,5,3,6,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-61,HE van der Dussen,AR Patel,DA Miller,1,0,1,87,124,16,17,3,1,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-62,DA Miller,AR Patel,HE van der Dussen,1,0,1,88,123,5,6,3,2,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-63,HE van der Dussen,AR Patel,DA Miller,1,0,1,89,122,17,18,3,3,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-64,DA Miller,AR Patel,HE van der Dussen,1,0,1,90,121,6,7,3,4,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-65,HE van der Dussen,AR Patel,DA Miller,1,0,1,91,120,18,19,3,5,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-66,DA Miller,AR Patel,HE van der Dussen,1,0,1,92,119,7,8,3,6,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-67,DA Miller,HV Patel,HE van der Dussen,1,0,1,93,118,8,9,3,1,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-68,HE van der Dussen,HV Patel,DA Miller,1,0,1,94,117,19,20,3,2,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-69,DA Miller,HV Patel,HE van der Dussen,1,0,1,95,116,9,10,3,3,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-70,HE van der Dussen,HV Patel,DA Miller,1,0,1,96,115,20,21,3,4,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-71,DA Miller,HV Patel,HE van der Dussen,4,0,4,100,111,13,11,3,5,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-72,DA Miller,HV Patel,HE van der Dussen,6,0,6,106,105,19,12,3,6,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-73,HE van der Dussen,AR Patel,DA Miller,1,0,1,107,104,21,22,3,1,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-74,DA Miller,AR Patel,HE van der Dussen,1,0,1,108,103,20,13,3,2,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-75,HE van der Dussen,AR Patel,DA Miller,1,0,1,109,102,22,23,3,3,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-76,DA Miller,AR Patel,HE van der Dussen,4,0,4,113,98,24,14,3,4,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-77,DA Miller,AR Patel,HE van der Dussen,6,0,6,119,92,30,15,3,5,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-78,DA Miller,AR Patel,HE van der Dussen,6,0,6,125,86,36,16,3,6,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-79,HE van der Dussen,Avesh Khan,DA Miller,0,1,1,126,85,22,24,3,1,wides,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-80,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,25,3,2,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-81,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,26,3,3,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-82,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,27,3,4,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-83,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,127,84,23,28,3,5,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-84,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,128,83,37,17,3,6,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-85,HE van der Dussen,Avesh Khan,DA Miller,4,1,5,133,78,27,29,3,7,noballs,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-86,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,134,77,28,30,3,8,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-87,HE van der Dussen,B Kumar,DA Miller,1,0,1,135,76,29,31,3,1,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-88,DA Miller,B Kumar,HE van der Dussen,0,0,0,135,76,37,18,3,2,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-89,DA Miller,B Kumar,HE van der Dussen,4,0,4,139,72,41,19,3,3,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-90,DA Miller,B Kumar,HE van der Dussen,6,0,6,145,66,47,20,3,4,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-91,DA Miller,B Kumar,HE van der Dussen,2,0,2,147,64,49,21,3,5,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-92,DA Miller,B Kumar,HE van der Dussen,1,0,1,148,63,50,22,3,6,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-93,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,149,62,51,23,3,1,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-94,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,150,61,30,32,3,2,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-95,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,151,60,52,24,3,3,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-96,HE van der Dussen,Avesh Khan,DA Miller,0,1,1,152,59,30,33,3,4,legbyes,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-97,DA Miller,Avesh Khan,HE van der Dussen,4,0,4,156,55,56,25,3,5,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-98,DA Miller,Avesh Khan,HE van der Dussen,0,0,0,156,55,56,26,3,6,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-99,HE van der Dussen,HV Patel,DA Miller,6,0,6,162,49,36,34,3,1,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-100,HE van der Dussen,HV Patel,DA Miller,6,0,6,168,43,42,35,3,2,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-101,HE van der Dussen,HV Patel,DA Miller,4,0,4,172,39,46,36,3,3,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-102,HE van der Dussen,HV Patel,DA Miller,0,0,0,172,39,46,37,3,4,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-103,HE van der Dussen,HV Patel,DA Miller,6,0,6,178,33,52,38,3,5,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-104,HE van der Dussen,HV Patel,DA Miller,0,0,0,178,33,52,39,3,6,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-105,DA Miller,B Kumar,HE van der Dussen,6,0,6,184,27,62,27,3,1,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-106,DA Miller,B Kumar,HE van der Dussen,0,1,1,185,26,62,28,3,2,wides,18,0,,,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'DA Miller', 'decision': 'struck down'}",field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-107,DA Miller,B Kumar,HE van der Dussen,0,0,0,185,26,62,29,3,3,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-108,DA Miller,B Kumar,HE van der Dussen,1,0,1,186,25,63,30,3,4,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-109,HE van der Dussen,B Kumar,DA Miller,6,0,6,192,19,58,40,3,5,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-110,HE van der Dussen,B Kumar,DA Miller,4,0,4,196,15,62,41,3,6,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-111,HE van der Dussen,B Kumar,DA Miller,4,0,4,200,11,66,42,3,7,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-112,DA Miller,HV Patel,HE van der Dussen,0,0,0,200,11,63,31,3,1,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-113,DA Miller,HV Patel,HE van der Dussen,1,0,1,201,10,64,32,3,2,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-114,HE van der Dussen,HV Patel,DA Miller,0,0,0,201,10,66,43,3,3,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-115,HE van der Dussen,HV Patel,DA Miller,0,2,2,203,8,66,44,3,4,legbyes,19,0,,,"{'by': 'India', 'umpire': 'J Madanagopal', 'batter': 'HE van der Dussen', 'decision': 'struck down', 'umpires_call': True}",field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-116,HE van der Dussen,HV Patel,DA Miller,4,0,4,207,4,70,45,3,5,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-117,HE van der Dussen,HV Patel,DA Miller,1,0,1,208,3,71,46,3,6,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
-118,HE van der Dussen,YS Chahal,DA Miller,4,0,4,212,-1,75,47,3,1,-,20,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+0,Q de Kock,B Kumar,T Bavuma,0,0,0,0,211,0,1,0,1,-,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+1,Q de Kock,B Kumar,T Bavuma,1,0,1,1,210,1,2,0,2,-,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+2,T Bavuma,B Kumar,Q de Kock,0,4,4,5,206,0,1,0,3,legbyes,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+3,T Bavuma,B Kumar,Q de Kock,0,0,0,5,206,0,2,0,4,-,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+4,T Bavuma,B Kumar,Q de Kock,1,0,1,6,205,1,3,0,5,-,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+5,Q de Kock,B Kumar,T Bavuma,1,0,1,7,204,2,3,0,6,-,0,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+6,Q de Kock,Avesh Khan,T Bavuma,0,0,0,7,204,2,4,0,1,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+7,Q de Kock,Avesh Khan,T Bavuma,0,0,0,7,204,2,5,0,2,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+8,Q de Kock,Avesh Khan,T Bavuma,0,2,2,9,202,2,6,0,3,wides,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+9,T Bavuma,Avesh Khan,Q de Kock,4,0,4,13,198,5,4,0,4,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+10,T Bavuma,Avesh Khan,Q de Kock,4,0,4,17,194,9,5,0,5,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+11,T Bavuma,Avesh Khan,Q de Kock,1,0,1,18,193,10,6,0,6,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+12,Q de Kock,Avesh Khan,T Bavuma,4,0,4,22,189,6,7,0,7,-,1,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+13,T Bavuma,B Kumar,Q de Kock,0,0,0,22,189,10,7,0,1,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+14,T Bavuma,B Kumar,Q de Kock,0,0,0,22,189,10,8,1,2,-,2,caught,T Bavuma,RR Pant,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+15,D Pretorius,B Kumar,Q de Kock,0,0,0,22,189,0,1,1,3,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+16,D Pretorius,B Kumar,Q de Kock,4,0,4,26,185,4,2,1,4,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+17,D Pretorius,B Kumar,Q de Kock,0,0,0,26,185,4,3,1,5,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+18,D Pretorius,B Kumar,Q de Kock,0,0,0,26,185,4,4,1,6,-,2,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+19,Q de Kock,YS Chahal,D Pretorius,1,0,1,27,184,7,8,1,1,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+20,D Pretorius,YS Chahal,Q de Kock,6,0,6,33,178,10,5,1,2,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+21,D Pretorius,YS Chahal,Q de Kock,1,0,1,34,177,11,6,1,3,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+22,Q de Kock,YS Chahal,D Pretorius,0,0,0,34,177,7,9,1,4,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+23,Q de Kock,YS Chahal,D Pretorius,4,0,4,38,173,11,10,1,5,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+24,Q de Kock,YS Chahal,D Pretorius,4,0,4,42,169,15,11,1,6,-,3,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+25,D Pretorius,HH Pandya,Q de Kock,0,0,0,42,169,11,7,1,1,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+26,D Pretorius,HH Pandya,Q de Kock,6,0,6,48,163,17,8,1,2,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+27,D Pretorius,HH Pandya,Q de Kock,6,0,6,54,157,23,9,1,3,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+28,D Pretorius,HH Pandya,Q de Kock,0,0,0,54,157,23,10,1,4,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+29,D Pretorius,HH Pandya,Q de Kock,6,0,6,60,151,29,11,1,5,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+30,D Pretorius,HH Pandya,Q de Kock,0,0,0,60,151,29,12,1,6,-,4,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+31,Q de Kock,HV Patel,D Pretorius,1,0,1,61,150,16,12,1,1,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+32,D Pretorius,HV Patel,Q de Kock,0,0,0,61,150,29,13,2,2,-,5,bowled,D Pretorius,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+33,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,1,2,3,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+34,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,2,2,4,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+35,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,3,2,5,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+36,HE van der Dussen,HV Patel,Q de Kock,0,0,0,61,150,0,4,2,6,-,5,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+37,Q de Kock,AR Patel,HE van der Dussen,1,0,1,62,149,17,13,2,1,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+38,HE van der Dussen,AR Patel,Q de Kock,1,0,1,63,148,1,5,2,2,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+39,Q de Kock,AR Patel,HE van der Dussen,0,0,0,63,148,17,14,2,3,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+40,Q de Kock,AR Patel,HE van der Dussen,1,0,1,64,147,18,15,2,4,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+41,HE van der Dussen,AR Patel,Q de Kock,1,0,1,65,146,2,6,2,5,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+42,Q de Kock,AR Patel,HE van der Dussen,2,0,2,67,144,20,16,2,6,-,6,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+43,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,7,2,1,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+44,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,8,2,2,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+45,HE van der Dussen,YS Chahal,Q de Kock,0,0,0,67,144,2,9,2,3,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+46,HE van der Dussen,YS Chahal,Q de Kock,4,0,4,71,140,6,10,2,4,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+47,HE van der Dussen,YS Chahal,Q de Kock,1,0,1,72,139,7,11,2,5,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+48,Q de Kock,YS Chahal,HE van der Dussen,1,0,1,73,138,21,17,2,6,-,7,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+49,Q de Kock,AR Patel,HE van der Dussen,1,0,1,74,137,22,18,2,1,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+50,HE van der Dussen,AR Patel,Q de Kock,6,0,6,80,131,13,12,2,2,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+51,HE van der Dussen,AR Patel,Q de Kock,1,0,1,81,130,14,13,2,3,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+52,Q de Kock,AR Patel,HE van der Dussen,0,0,0,81,130,22,19,3,4,-,8,caught,Q de Kock,Ishan Kishan,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+53,DA Miller,AR Patel,HE van der Dussen,0,0,0,81,130,0,1,3,5,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+54,DA Miller,AR Patel,HE van der Dussen,1,0,1,82,129,1,2,3,6,-,8,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+55,DA Miller,Avesh Khan,HE van der Dussen,2,0,2,84,127,3,3,3,1,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+56,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,85,126,4,4,3,2,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+57,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,85,126,14,14,3,3,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+58,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,85,126,14,15,3,4,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+59,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,86,125,15,16,3,5,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+60,DA Miller,Avesh Khan,HE van der Dussen,0,0,0,86,125,4,5,3,6,-,9,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+61,HE van der Dussen,AR Patel,DA Miller,1,0,1,87,124,16,17,3,1,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+62,DA Miller,AR Patel,HE van der Dussen,1,0,1,88,123,5,6,3,2,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+63,HE van der Dussen,AR Patel,DA Miller,1,0,1,89,122,17,18,3,3,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+64,DA Miller,AR Patel,HE van der Dussen,1,0,1,90,121,6,7,3,4,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+65,HE van der Dussen,AR Patel,DA Miller,1,0,1,91,120,18,19,3,5,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+66,DA Miller,AR Patel,HE van der Dussen,1,0,1,92,119,7,8,3,6,-,10,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+67,DA Miller,HV Patel,HE van der Dussen,1,0,1,93,118,8,9,3,1,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+68,HE van der Dussen,HV Patel,DA Miller,1,0,1,94,117,19,20,3,2,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+69,DA Miller,HV Patel,HE van der Dussen,1,0,1,95,116,9,10,3,3,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+70,HE van der Dussen,HV Patel,DA Miller,1,0,1,96,115,20,21,3,4,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+71,DA Miller,HV Patel,HE van der Dussen,4,0,4,100,111,13,11,3,5,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+72,DA Miller,HV Patel,HE van der Dussen,6,0,6,106,105,19,12,3,6,-,11,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+73,HE van der Dussen,AR Patel,DA Miller,1,0,1,107,104,21,22,3,1,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+74,DA Miller,AR Patel,HE van der Dussen,1,0,1,108,103,20,13,3,2,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+75,HE van der Dussen,AR Patel,DA Miller,1,0,1,109,102,22,23,3,3,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+76,DA Miller,AR Patel,HE van der Dussen,4,0,4,113,98,24,14,3,4,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+77,DA Miller,AR Patel,HE van der Dussen,6,0,6,119,92,30,15,3,5,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+78,DA Miller,AR Patel,HE van der Dussen,6,0,6,125,86,36,16,3,6,-,12,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+79,HE van der Dussen,Avesh Khan,DA Miller,0,1,1,126,85,22,24,3,1,wides,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+80,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,25,3,2,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+81,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,26,3,3,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+82,HE van der Dussen,Avesh Khan,DA Miller,0,0,0,126,85,22,27,3,4,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+83,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,127,84,23,28,3,5,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+84,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,128,83,37,17,3,6,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+85,HE van der Dussen,Avesh Khan,DA Miller,4,1,5,133,78,27,29,3,7,noballs,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+86,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,134,77,28,30,3,8,-,13,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+87,HE van der Dussen,B Kumar,DA Miller,1,0,1,135,76,29,31,3,1,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+88,DA Miller,B Kumar,HE van der Dussen,0,0,0,135,76,37,18,3,2,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+89,DA Miller,B Kumar,HE van der Dussen,4,0,4,139,72,41,19,3,3,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+90,DA Miller,B Kumar,HE van der Dussen,6,0,6,145,66,47,20,3,4,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+91,DA Miller,B Kumar,HE van der Dussen,2,0,2,147,64,49,21,3,5,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+92,DA Miller,B Kumar,HE van der Dussen,1,0,1,148,63,50,22,3,6,-,14,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+93,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,149,62,51,23,3,1,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+94,HE van der Dussen,Avesh Khan,DA Miller,1,0,1,150,61,30,32,3,2,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+95,DA Miller,Avesh Khan,HE van der Dussen,1,0,1,151,60,52,24,3,3,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+96,HE van der Dussen,Avesh Khan,DA Miller,0,1,1,152,59,30,33,3,4,legbyes,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+97,DA Miller,Avesh Khan,HE van der Dussen,4,0,4,156,55,56,25,3,5,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+98,DA Miller,Avesh Khan,HE van der Dussen,0,0,0,156,55,56,26,3,6,-,15,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+99,HE van der Dussen,HV Patel,DA Miller,6,0,6,162,49,36,34,3,1,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+100,HE van der Dussen,HV Patel,DA Miller,6,0,6,168,43,42,35,3,2,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+101,HE van der Dussen,HV Patel,DA Miller,4,0,4,172,39,46,36,3,3,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+102,HE van der Dussen,HV Patel,DA Miller,0,0,0,172,39,46,37,3,4,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+103,HE van der Dussen,HV Patel,DA Miller,6,0,6,178,33,52,38,3,5,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+104,HE van der Dussen,HV Patel,DA Miller,0,0,0,178,33,52,39,3,6,-,16,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+105,DA Miller,B Kumar,HE van der Dussen,6,0,6,184,27,62,27,3,1,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+106,DA Miller,B Kumar,HE van der Dussen,0,1,1,185,26,62,28,3,2,wides,17,0,,,"{'by': 'India', 'umpire': 'Nitin Menon', 'batter': 'DA Miller', 'decision': 'struck down'}",field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+107,DA Miller,B Kumar,HE van der Dussen,0,0,0,185,26,62,29,3,3,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+108,DA Miller,B Kumar,HE van der Dussen,1,0,1,186,25,63,30,3,4,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+109,HE van der Dussen,B Kumar,DA Miller,6,0,6,192,19,58,40,3,5,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+110,HE van der Dussen,B Kumar,DA Miller,4,0,4,196,15,62,41,3,6,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+111,HE van der Dussen,B Kumar,DA Miller,4,0,4,200,11,66,42,3,7,-,17,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+112,DA Miller,HV Patel,HE van der Dussen,0,0,0,200,11,63,31,3,1,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+113,DA Miller,HV Patel,HE van der Dussen,1,0,1,201,10,64,32,3,2,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+114,HE van der Dussen,HV Patel,DA Miller,0,0,0,201,10,66,43,3,3,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+115,HE van der Dussen,HV Patel,DA Miller,0,2,2,203,8,66,44,3,4,legbyes,18,0,,,"{'by': 'India', 'umpire': 'J Madanagopal', 'batter': 'HE van der Dussen', 'decision': 'struck down', 'umpires_call': True}",field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+116,HE van der Dussen,HV Patel,DA Miller,4,0,4,207,4,70,45,3,5,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+117,HE van der Dussen,HV Patel,DA Miller,1,0,1,208,3,71,46,3,6,-,18,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212
+118,HE van der Dussen,YS Chahal,DA Miller,4,0,4,212,-1,75,47,3,1,-,19,0,,,,field,South Africa,2,"Arun Jaitley Stadium, Delhi",2022,06,India_South Africa_2022-06-09,South Africa,South Africa,India,212

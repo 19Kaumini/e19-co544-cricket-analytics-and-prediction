@@ -1,101 +1,101 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,1,0,1,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-1,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,2,0,2,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-2,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,3,0,3,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-3,JJ Roy,PVD Chameera,JM Bairstow,1,0,1,1,110,1,4,0,4,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-4,JM Bairstow,PVD Chameera,JJ Roy,0,0,0,1,110,0,1,0,5,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-5,JM Bairstow,PVD Chameera,JJ Roy,0,0,0,1,110,0,2,0,6,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-6,JJ Roy,B Fernando,JM Bairstow,1,0,1,2,109,2,5,0,1,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-7,JM Bairstow,B Fernando,JJ Roy,0,0,0,2,109,0,3,1,2,2,bowled,JM Bairstow,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-8,DJ Malan,B Fernando,JJ Roy,0,0,0,2,109,0,1,1,3,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-9,DJ Malan,B Fernando,JJ Roy,0,0,0,2,109,0,2,1,4,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-10,DJ Malan,B Fernando,JJ Roy,4,0,4,6,105,4,3,1,5,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-11,DJ Malan,B Fernando,JJ Roy,0,0,0,6,105,4,4,1,6,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-12,JJ Roy,PVD Chameera,DJ Malan,0,0,0,6,105,2,6,1,1,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-13,JJ Roy,PVD Chameera,DJ Malan,1,0,1,7,104,3,7,1,2,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-14,DJ Malan,PVD Chameera,JJ Roy,0,1,1,8,103,4,5,1,3,3,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-15,DJ Malan,PVD Chameera,JJ Roy,0,0,0,8,103,4,6,2,4,3,lbw,DJ Malan,,"{'by': 'Sri Lanka', 'umpire': 'AG Wharf', 'batter': 'DJ Malan', 'decision': 'upheld'}",-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-16,EJG Morgan,PVD Chameera,JJ Roy,1,0,1,9,102,1,1,2,5,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-17,JJ Roy,PVD Chameera,EJG Morgan,1,0,1,10,101,4,8,2,6,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-18,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,10,101,1,2,2,7,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-19,JJ Roy,B Fernando,EJG Morgan,0,0,0,10,101,4,9,2,1,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-20,JJ Roy,B Fernando,EJG Morgan,0,0,0,10,101,4,10,2,2,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-21,JJ Roy,B Fernando,EJG Morgan,1,0,1,11,100,5,11,2,3,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-22,EJG Morgan,B Fernando,JJ Roy,0,0,0,11,100,1,3,2,4,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-23,EJG Morgan,B Fernando,JJ Roy,2,0,2,13,98,3,4,2,5,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-24,EJG Morgan,B Fernando,JJ Roy,4,0,4,17,94,7,5,2,6,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-25,JJ Roy,PVD Chameera,EJG Morgan,4,0,4,21,90,9,12,2,1,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-26,JJ Roy,PVD Chameera,EJG Morgan,2,0,2,23,88,11,13,2,2,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-27,JJ Roy,PVD Chameera,EJG Morgan,1,0,1,24,87,12,14,2,3,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-28,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,24,87,7,6,2,4,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-29,EJG Morgan,PVD Chameera,JJ Roy,0,1,1,25,86,7,7,2,5,5,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-30,EJG Morgan,PVD Chameera,JJ Roy,4,0,4,29,82,11,8,2,6,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-31,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,29,82,11,9,2,7,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-32,JJ Roy,I Udana,EJG Morgan,1,0,1,30,81,13,15,2,1,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-33,EJG Morgan,I Udana,JJ Roy,0,0,0,30,81,11,10,3,2,6,caught,EJG Morgan,PWH de Silva,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-34,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,1,3,3,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-35,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,2,3,4,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-36,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,3,3,5,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-37,SW Billings,I Udana,JJ Roy,1,0,1,31,80,1,4,3,6,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-38,SW Billings,PWH de Silva,JJ Roy,1,0,1,32,79,2,5,3,1,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-39,JJ Roy,PWH de Silva,SW Billings,4,0,4,36,75,17,16,3,2,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-40,JJ Roy,PWH de Silva,SW Billings,0,0,0,36,75,17,17,4,3,7,caught,JJ Roy,MD Shanaka,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-41,LS Livingstone,PWH de Silva,SW Billings,0,0,0,36,75,0,1,4,4,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-42,LS Livingstone,PWH de Silva,SW Billings,1,0,1,37,74,1,2,4,5,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-43,SW Billings,PWH de Silva,LS Livingstone,0,0,0,37,74,2,6,4,6,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-44,LS Livingstone,I Udana,SW Billings,0,0,0,37,74,1,3,4,1,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-45,LS Livingstone,I Udana,SW Billings,1,0,1,38,73,2,4,4,2,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-46,SW Billings,I Udana,LS Livingstone,4,0,4,42,69,6,7,4,3,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-47,SW Billings,I Udana,LS Livingstone,0,0,0,42,69,6,8,4,4,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-48,SW Billings,I Udana,LS Livingstone,1,0,1,43,68,7,9,4,5,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-49,LS Livingstone,I Udana,SW Billings,1,0,1,44,67,3,5,4,6,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-50,LS Livingstone,PWH de Silva,SW Billings,1,0,1,45,66,4,6,4,1,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-51,SW Billings,PWH de Silva,LS Livingstone,1,0,1,46,65,8,10,4,2,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-52,LS Livingstone,PWH de Silva,SW Billings,0,0,0,46,65,4,7,4,3,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-53,LS Livingstone,PWH de Silva,SW Billings,0,0,0,46,65,4,8,4,4,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-54,LS Livingstone,PWH de Silva,SW Billings,3,0,3,49,62,7,9,4,5,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-55,SW Billings,PWH de Silva,LS Livingstone,1,0,1,50,61,9,11,4,6,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-56,SW Billings,B Fernando,LS Livingstone,0,0,0,50,61,9,12,4,1,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-57,SW Billings,B Fernando,LS Livingstone,0,0,0,50,61,9,13,4,2,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-58,SW Billings,B Fernando,LS Livingstone,1,0,1,51,60,10,14,4,3,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-59,LS Livingstone,B Fernando,SW Billings,0,1,1,52,59,7,10,4,4,10,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-60,LS Livingstone,B Fernando,SW Billings,1,0,1,53,58,8,11,4,5,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-61,SW Billings,B Fernando,LS Livingstone,1,0,1,54,57,11,15,4,6,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-62,LS Livingstone,B Fernando,SW Billings,1,0,1,55,56,9,12,4,7,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-63,LS Livingstone,A Dananjaya,SW Billings,1,0,1,56,55,10,13,4,1,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-64,SW Billings,A Dananjaya,LS Livingstone,2,0,2,58,53,13,16,4,2,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-65,SW Billings,A Dananjaya,LS Livingstone,1,0,1,59,52,14,17,4,3,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-66,LS Livingstone,A Dananjaya,SW Billings,1,0,1,60,51,11,14,4,4,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-67,SW Billings,A Dananjaya,LS Livingstone,1,0,1,61,50,15,18,4,5,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-68,LS Livingstone,A Dananjaya,SW Billings,1,0,1,62,49,12,15,4,6,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-69,LS Livingstone,I Udana,SW Billings,0,0,0,62,49,12,16,4,1,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-70,LS Livingstone,I Udana,SW Billings,2,0,2,64,47,14,17,4,2,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-71,LS Livingstone,I Udana,SW Billings,2,0,2,66,45,16,18,4,3,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-72,LS Livingstone,I Udana,SW Billings,1,0,1,67,44,17,19,4,4,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-73,SW Billings,I Udana,LS Livingstone,1,0,1,68,43,16,19,4,5,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-74,LS Livingstone,I Udana,SW Billings,1,0,1,69,42,18,20,4,6,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-75,LS Livingstone,PWH de Silva,SW Billings,1,0,1,70,41,19,21,4,1,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-76,SW Billings,PWH de Silva,LS Livingstone,0,0,0,70,41,16,20,4,2,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-77,SW Billings,PWH de Silva,LS Livingstone,1,0,1,71,40,17,21,4,3,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-78,LS Livingstone,PWH de Silva,SW Billings,1,0,1,72,39,20,22,4,4,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-79,SW Billings,PWH de Silva,LS Livingstone,2,0,2,74,37,19,22,4,5,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-80,SW Billings,PWH de Silva,LS Livingstone,0,0,0,74,37,19,23,4,6,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-81,LS Livingstone,PVD Chameera,SW Billings,1,0,1,75,36,21,23,4,1,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-82,SW Billings,PVD Chameera,LS Livingstone,4,0,4,79,32,23,24,4,2,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-83,SW Billings,PVD Chameera,LS Livingstone,0,0,0,79,32,23,25,4,3,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-84,SW Billings,PVD Chameera,LS Livingstone,1,0,1,80,31,24,26,4,4,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-85,LS Livingstone,PVD Chameera,SW Billings,6,0,6,86,25,27,24,4,5,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-86,LS Livingstone,PVD Chameera,SW Billings,0,0,0,86,25,27,25,4,6,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-87,SW Billings,PWH de Silva,LS Livingstone,0,0,0,86,25,24,27,4,1,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-88,SW Billings,PWH de Silva,LS Livingstone,0,4,4,90,21,24,28,4,2,15,0,,,,legbyes,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-89,SW Billings,PWH de Silva,LS Livingstone,0,0,0,90,21,24,29,5,3,15,bowled,SW Billings,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-90,SM Curran,PWH de Silva,LS Livingstone,0,0,0,90,21,0,1,5,4,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-91,SM Curran,PWH de Silva,LS Livingstone,2,0,2,92,19,2,2,5,5,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-92,SM Curran,PWH de Silva,LS Livingstone,1,0,1,93,18,3,3,5,6,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-93,SM Curran,I Udana,LS Livingstone,4,0,4,97,14,7,4,5,1,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-94,SM Curran,I Udana,LS Livingstone,1,0,1,98,13,8,5,5,2,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-95,LS Livingstone,I Udana,SM Curran,1,0,1,99,12,28,26,5,3,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-96,SM Curran,I Udana,LS Livingstone,1,0,1,100,11,9,6,5,4,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-97,LS Livingstone,I Udana,SM Curran,1,0,1,101,10,29,27,5,5,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-98,SM Curran,I Udana,LS Livingstone,1,0,1,102,9,10,7,5,6,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
-99,SM Curran,A Dananjaya,LS Livingstone,6,0,6,108,3,16,8,5,1,17,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+0,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,1,0,1,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+1,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,2,0,2,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+2,JJ Roy,PVD Chameera,JM Bairstow,0,0,0,0,111,0,3,0,3,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+3,JJ Roy,PVD Chameera,JM Bairstow,1,0,1,1,110,1,4,0,4,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+4,JM Bairstow,PVD Chameera,JJ Roy,0,0,0,1,110,0,1,0,5,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+5,JM Bairstow,PVD Chameera,JJ Roy,0,0,0,1,110,0,2,0,6,0,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+6,JJ Roy,B Fernando,JM Bairstow,1,0,1,2,109,2,5,0,1,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+7,JM Bairstow,B Fernando,JJ Roy,0,0,0,2,109,0,3,1,2,1,bowled,JM Bairstow,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+8,DJ Malan,B Fernando,JJ Roy,0,0,0,2,109,0,1,1,3,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+9,DJ Malan,B Fernando,JJ Roy,0,0,0,2,109,0,2,1,4,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+10,DJ Malan,B Fernando,JJ Roy,4,0,4,6,105,4,3,1,5,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+11,DJ Malan,B Fernando,JJ Roy,0,0,0,6,105,4,4,1,6,1,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+12,JJ Roy,PVD Chameera,DJ Malan,0,0,0,6,105,2,6,1,1,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+13,JJ Roy,PVD Chameera,DJ Malan,1,0,1,7,104,3,7,1,2,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+14,DJ Malan,PVD Chameera,JJ Roy,0,1,1,8,103,4,5,1,3,2,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+15,DJ Malan,PVD Chameera,JJ Roy,0,0,0,8,103,4,6,2,4,2,lbw,DJ Malan,,"{'by': 'Sri Lanka', 'umpire': 'AG Wharf', 'batter': 'DJ Malan', 'decision': 'upheld'}",-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+16,EJG Morgan,PVD Chameera,JJ Roy,1,0,1,9,102,1,1,2,5,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+17,JJ Roy,PVD Chameera,EJG Morgan,1,0,1,10,101,4,8,2,6,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+18,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,10,101,1,2,2,7,2,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+19,JJ Roy,B Fernando,EJG Morgan,0,0,0,10,101,4,9,2,1,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+20,JJ Roy,B Fernando,EJG Morgan,0,0,0,10,101,4,10,2,2,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+21,JJ Roy,B Fernando,EJG Morgan,1,0,1,11,100,5,11,2,3,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+22,EJG Morgan,B Fernando,JJ Roy,0,0,0,11,100,1,3,2,4,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+23,EJG Morgan,B Fernando,JJ Roy,2,0,2,13,98,3,4,2,5,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+24,EJG Morgan,B Fernando,JJ Roy,4,0,4,17,94,7,5,2,6,3,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+25,JJ Roy,PVD Chameera,EJG Morgan,4,0,4,21,90,9,12,2,1,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+26,JJ Roy,PVD Chameera,EJG Morgan,2,0,2,23,88,11,13,2,2,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+27,JJ Roy,PVD Chameera,EJG Morgan,1,0,1,24,87,12,14,2,3,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+28,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,24,87,7,6,2,4,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+29,EJG Morgan,PVD Chameera,JJ Roy,0,1,1,25,86,7,7,2,5,4,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+30,EJG Morgan,PVD Chameera,JJ Roy,4,0,4,29,82,11,8,2,6,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+31,EJG Morgan,PVD Chameera,JJ Roy,0,0,0,29,82,11,9,2,7,4,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+32,JJ Roy,I Udana,EJG Morgan,1,0,1,30,81,13,15,2,1,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+33,EJG Morgan,I Udana,JJ Roy,0,0,0,30,81,11,10,3,2,5,caught,EJG Morgan,PWH de Silva,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+34,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,1,3,3,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+35,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,2,3,4,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+36,SW Billings,I Udana,JJ Roy,0,0,0,30,81,0,3,3,5,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+37,SW Billings,I Udana,JJ Roy,1,0,1,31,80,1,4,3,6,5,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+38,SW Billings,PWH de Silva,JJ Roy,1,0,1,32,79,2,5,3,1,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+39,JJ Roy,PWH de Silva,SW Billings,4,0,4,36,75,17,16,3,2,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+40,JJ Roy,PWH de Silva,SW Billings,0,0,0,36,75,17,17,4,3,6,caught,JJ Roy,MD Shanaka,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+41,LS Livingstone,PWH de Silva,SW Billings,0,0,0,36,75,0,1,4,4,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+42,LS Livingstone,PWH de Silva,SW Billings,1,0,1,37,74,1,2,4,5,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+43,SW Billings,PWH de Silva,LS Livingstone,0,0,0,37,74,2,6,4,6,6,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+44,LS Livingstone,I Udana,SW Billings,0,0,0,37,74,1,3,4,1,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+45,LS Livingstone,I Udana,SW Billings,1,0,1,38,73,2,4,4,2,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+46,SW Billings,I Udana,LS Livingstone,4,0,4,42,69,6,7,4,3,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+47,SW Billings,I Udana,LS Livingstone,0,0,0,42,69,6,8,4,4,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+48,SW Billings,I Udana,LS Livingstone,1,0,1,43,68,7,9,4,5,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+49,LS Livingstone,I Udana,SW Billings,1,0,1,44,67,3,5,4,6,7,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+50,LS Livingstone,PWH de Silva,SW Billings,1,0,1,45,66,4,6,4,1,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+51,SW Billings,PWH de Silva,LS Livingstone,1,0,1,46,65,8,10,4,2,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+52,LS Livingstone,PWH de Silva,SW Billings,0,0,0,46,65,4,7,4,3,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+53,LS Livingstone,PWH de Silva,SW Billings,0,0,0,46,65,4,8,4,4,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+54,LS Livingstone,PWH de Silva,SW Billings,3,0,3,49,62,7,9,4,5,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+55,SW Billings,PWH de Silva,LS Livingstone,1,0,1,50,61,9,11,4,6,8,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+56,SW Billings,B Fernando,LS Livingstone,0,0,0,50,61,9,12,4,1,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+57,SW Billings,B Fernando,LS Livingstone,0,0,0,50,61,9,13,4,2,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+58,SW Billings,B Fernando,LS Livingstone,1,0,1,51,60,10,14,4,3,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+59,LS Livingstone,B Fernando,SW Billings,0,1,1,52,59,7,10,4,4,9,0,,,,wides,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+60,LS Livingstone,B Fernando,SW Billings,1,0,1,53,58,8,11,4,5,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+61,SW Billings,B Fernando,LS Livingstone,1,0,1,54,57,11,15,4,6,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+62,LS Livingstone,B Fernando,SW Billings,1,0,1,55,56,9,12,4,7,9,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+63,LS Livingstone,A Dananjaya,SW Billings,1,0,1,56,55,10,13,4,1,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+64,SW Billings,A Dananjaya,LS Livingstone,2,0,2,58,53,13,16,4,2,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+65,SW Billings,A Dananjaya,LS Livingstone,1,0,1,59,52,14,17,4,3,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+66,LS Livingstone,A Dananjaya,SW Billings,1,0,1,60,51,11,14,4,4,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+67,SW Billings,A Dananjaya,LS Livingstone,1,0,1,61,50,15,18,4,5,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+68,LS Livingstone,A Dananjaya,SW Billings,1,0,1,62,49,12,15,4,6,10,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+69,LS Livingstone,I Udana,SW Billings,0,0,0,62,49,12,16,4,1,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+70,LS Livingstone,I Udana,SW Billings,2,0,2,64,47,14,17,4,2,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+71,LS Livingstone,I Udana,SW Billings,2,0,2,66,45,16,18,4,3,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+72,LS Livingstone,I Udana,SW Billings,1,0,1,67,44,17,19,4,4,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+73,SW Billings,I Udana,LS Livingstone,1,0,1,68,43,16,19,4,5,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+74,LS Livingstone,I Udana,SW Billings,1,0,1,69,42,18,20,4,6,11,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+75,LS Livingstone,PWH de Silva,SW Billings,1,0,1,70,41,19,21,4,1,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+76,SW Billings,PWH de Silva,LS Livingstone,0,0,0,70,41,16,20,4,2,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+77,SW Billings,PWH de Silva,LS Livingstone,1,0,1,71,40,17,21,4,3,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+78,LS Livingstone,PWH de Silva,SW Billings,1,0,1,72,39,20,22,4,4,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+79,SW Billings,PWH de Silva,LS Livingstone,2,0,2,74,37,19,22,4,5,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+80,SW Billings,PWH de Silva,LS Livingstone,0,0,0,74,37,19,23,4,6,12,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+81,LS Livingstone,PVD Chameera,SW Billings,1,0,1,75,36,21,23,4,1,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+82,SW Billings,PVD Chameera,LS Livingstone,4,0,4,79,32,23,24,4,2,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+83,SW Billings,PVD Chameera,LS Livingstone,0,0,0,79,32,23,25,4,3,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+84,SW Billings,PVD Chameera,LS Livingstone,1,0,1,80,31,24,26,4,4,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+85,LS Livingstone,PVD Chameera,SW Billings,6,0,6,86,25,27,24,4,5,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+86,LS Livingstone,PVD Chameera,SW Billings,0,0,0,86,25,27,25,4,6,13,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+87,SW Billings,PWH de Silva,LS Livingstone,0,0,0,86,25,24,27,4,1,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+88,SW Billings,PWH de Silva,LS Livingstone,0,4,4,90,21,24,28,4,2,14,0,,,,legbyes,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+89,SW Billings,PWH de Silva,LS Livingstone,0,0,0,90,21,24,29,5,3,14,bowled,SW Billings,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+90,SM Curran,PWH de Silva,LS Livingstone,0,0,0,90,21,0,1,5,4,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+91,SM Curran,PWH de Silva,LS Livingstone,2,0,2,92,19,2,2,5,5,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+92,SM Curran,PWH de Silva,LS Livingstone,1,0,1,93,18,3,3,5,6,14,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+93,SM Curran,I Udana,LS Livingstone,4,0,4,97,14,7,4,5,1,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+94,SM Curran,I Udana,LS Livingstone,1,0,1,98,13,8,5,5,2,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+95,LS Livingstone,I Udana,SM Curran,1,0,1,99,12,28,26,5,3,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+96,SM Curran,I Udana,LS Livingstone,1,0,1,100,11,9,6,5,4,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+97,LS Livingstone,I Udana,SM Curran,1,0,1,101,10,29,27,5,5,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+98,SM Curran,I Udana,LS Livingstone,1,0,1,102,9,10,7,5,6,15,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108
+99,SM Curran,A Dananjaya,LS Livingstone,6,0,6,108,3,16,8,5,1,16,0,,,,-,bat,Sri Lanka,2,"Sophia Gardens, Cardiff",2021,06,Sri Lanka_England_2021-06-24,England,England,Sri Lanka,108

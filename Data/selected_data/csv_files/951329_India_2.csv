@@ -1,114 +1,114 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,RG Sharma,NL McCullum,S Dhawan,1,0,1,1,125,1,1,0,1,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-1,S Dhawan,NL McCullum,RG Sharma,0,0,0,1,125,0,1,0,2,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-2,S Dhawan,NL McCullum,RG Sharma,1,0,1,2,124,1,2,0,3,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-3,RG Sharma,NL McCullum,S Dhawan,3,0,3,5,121,4,2,0,4,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-4,S Dhawan,NL McCullum,RG Sharma,0,0,0,5,121,1,3,1,5,lbw,S Dhawan,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-5,V Kohli,NL McCullum,RG Sharma,1,0,1,6,120,1,1,1,6,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-6,V Kohli,CJ Anderson,RG Sharma,2,0,2,8,118,3,2,1,1,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-7,V Kohli,CJ Anderson,RG Sharma,1,0,1,9,117,4,3,1,2,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-8,RG Sharma,CJ Anderson,V Kohli,0,0,0,9,117,4,3,1,3,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-9,RG Sharma,CJ Anderson,V Kohli,0,0,0,9,117,4,4,1,4,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-10,RG Sharma,CJ Anderson,V Kohli,1,0,1,10,116,5,5,1,5,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-11,V Kohli,CJ Anderson,RG Sharma,0,0,0,10,116,4,4,1,6,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-12,RG Sharma,MJ Santner,V Kohli,0,0,0,10,116,5,6,1,1,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-13,RG Sharma,MJ Santner,V Kohli,0,0,0,10,116,5,7,2,2,stumped,RG Sharma,L Ronchi,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-14,SK Raina,MJ Santner,V Kohli,1,0,1,11,115,1,1,2,3,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-15,V Kohli,MJ Santner,SK Raina,1,0,1,12,114,5,5,2,4,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-16,SK Raina,MJ Santner,V Kohli,0,0,0,12,114,1,2,3,5,caught,SK Raina,MJ Guptill,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-17,Yuvraj Singh,MJ Santner,V Kohli,0,0,0,12,114,0,1,3,6,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-18,V Kohli,CJ Anderson,Yuvraj Singh,0,0,0,12,114,5,6,3,1,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-19,V Kohli,CJ Anderson,Yuvraj Singh,4,0,4,16,110,9,7,3,2,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-20,V Kohli,CJ Anderson,Yuvraj Singh,0,0,0,16,110,9,8,3,3,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-21,V Kohli,CJ Anderson,Yuvraj Singh,4,0,4,20,106,13,9,3,4,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-22,V Kohli,CJ Anderson,Yuvraj Singh,1,0,1,21,105,14,10,3,5,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-23,Yuvraj Singh,CJ Anderson,V Kohli,0,0,0,21,105,0,2,3,6,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-24,V Kohli,NL McCullum,Yuvraj Singh,0,0,0,21,105,14,11,3,1,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-25,V Kohli,NL McCullum,Yuvraj Singh,1,0,1,22,104,15,12,3,2,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-26,Yuvraj Singh,NL McCullum,V Kohli,0,0,0,22,104,0,3,3,3,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-27,Yuvraj Singh,NL McCullum,V Kohli,4,0,4,26,100,4,4,3,4,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-28,Yuvraj Singh,NL McCullum,V Kohli,0,0,0,26,100,4,5,4,5,caught and bowled,Yuvraj Singh,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-29,MS Dhoni,NL McCullum,V Kohli,0,0,0,26,100,0,1,4,6,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-30,V Kohli,GD Elliott,MS Dhoni,0,0,0,26,100,15,13,4,1,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-31,V Kohli,GD Elliott,MS Dhoni,0,0,0,26,100,15,14,4,2,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-32,V Kohli,GD Elliott,MS Dhoni,1,0,1,27,99,16,15,4,3,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-33,MS Dhoni,GD Elliott,V Kohli,0,0,0,27,99,0,2,4,4,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-34,MS Dhoni,GD Elliott,V Kohli,1,0,1,28,98,1,3,4,5,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-35,V Kohli,GD Elliott,MS Dhoni,1,0,1,29,97,17,16,4,6,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-36,V Kohli,AF Milne,MS Dhoni,0,1,1,30,96,17,17,4,1,0,,,7,noballs,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-37,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,18,4,2,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-38,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,19,4,3,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-39,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,20,4,4,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-40,V Kohli,AF Milne,MS Dhoni,1,0,1,31,95,18,21,4,5,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-41,MS Dhoni,AF Milne,V Kohli,1,0,1,32,94,2,4,4,6,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-42,V Kohli,AF Milne,MS Dhoni,1,0,1,33,93,19,22,4,7,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-43,V Kohli,GD Elliott,MS Dhoni,0,1,1,34,92,19,23,4,1,0,,,8,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-44,V Kohli,GD Elliott,MS Dhoni,1,0,1,35,91,20,24,4,2,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-45,MS Dhoni,GD Elliott,V Kohli,1,0,1,36,90,3,5,4,3,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-46,V Kohli,GD Elliott,MS Dhoni,0,0,0,36,90,20,25,4,4,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-47,V Kohli,GD Elliott,MS Dhoni,2,0,2,38,88,22,26,4,5,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-48,V Kohli,GD Elliott,MS Dhoni,1,0,1,39,87,23,27,4,6,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-49,MS Dhoni,GD Elliott,V Kohli,0,0,0,39,87,3,6,4,7,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-50,V Kohli,IS Sodhi,MS Dhoni,0,0,0,39,87,23,28,5,1,caught,V Kohli,L Ronchi,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-51,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,1,5,2,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-52,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,2,5,3,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-53,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,3,5,4,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-54,HH Pandya,IS Sodhi,MS Dhoni,1,0,1,40,86,1,4,5,5,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-55,MS Dhoni,IS Sodhi,HH Pandya,1,0,1,41,85,4,7,5,6,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-56,MS Dhoni,MJ Santner,HH Pandya,1,0,1,42,84,5,8,5,1,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-57,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,5,5,2,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-58,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,6,5,3,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-59,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,7,6,4,lbw,HH Pandya,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-60,RA Jadeja,MJ Santner,MS Dhoni,0,0,0,42,84,0,1,6,5,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-61,RA Jadeja,MJ Santner,MS Dhoni,0,0,0,42,84,0,2,6,6,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-62,MS Dhoni,IS Sodhi,RA Jadeja,1,0,1,43,83,6,9,6,1,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-63,RA Jadeja,IS Sodhi,MS Dhoni,0,0,0,43,83,0,3,7,2,caught and bowled,RA Jadeja,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-64,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,43,83,0,1,7,3,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-65,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,43,83,0,2,7,4,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-66,R Ashwin,IS Sodhi,MS Dhoni,1,0,1,44,82,1,3,7,5,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-67,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,45,81,7,10,7,6,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-68,MS Dhoni,NL McCullum,R Ashwin,0,0,0,45,81,7,11,7,1,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-69,MS Dhoni,NL McCullum,R Ashwin,1,0,1,46,80,8,12,7,2,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-70,R Ashwin,NL McCullum,MS Dhoni,0,0,0,46,80,1,4,7,3,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-71,R Ashwin,NL McCullum,MS Dhoni,1,0,1,47,79,2,5,7,4,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-72,MS Dhoni,NL McCullum,R Ashwin,1,0,1,48,78,9,13,7,5,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-73,R Ashwin,NL McCullum,MS Dhoni,1,0,1,49,77,3,6,7,6,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-74,R Ashwin,AF Milne,MS Dhoni,1,0,1,50,76,4,7,7,1,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-75,MS Dhoni,AF Milne,R Ashwin,1,0,1,51,75,10,14,7,2,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-76,R Ashwin,AF Milne,MS Dhoni,1,0,1,52,74,5,8,7,3,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-77,MS Dhoni,AF Milne,R Ashwin,1,0,1,53,73,11,15,7,4,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-78,R Ashwin,AF Milne,MS Dhoni,0,0,0,53,73,5,9,7,5,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-79,R Ashwin,AF Milne,MS Dhoni,0,0,0,53,73,5,10,7,6,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-80,MS Dhoni,MJ Santner,R Ashwin,1,0,1,54,72,12,16,7,1,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-81,R Ashwin,MJ Santner,MS Dhoni,0,0,0,54,72,5,11,7,2,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-82,R Ashwin,MJ Santner,MS Dhoni,1,0,1,55,71,6,12,7,3,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-83,MS Dhoni,MJ Santner,R Ashwin,0,0,0,55,71,12,17,7,4,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-84,MS Dhoni,MJ Santner,R Ashwin,1,0,1,56,70,13,18,7,5,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-85,R Ashwin,MJ Santner,MS Dhoni,1,0,1,57,69,7,13,7,6,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-86,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,57,69,7,14,7,1,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-87,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,57,69,7,15,7,2,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-88,R Ashwin,IS Sodhi,MS Dhoni,1,0,1,58,68,8,16,7,3,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-89,MS Dhoni,IS Sodhi,R Ashwin,2,0,2,60,66,15,19,7,4,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-90,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,61,65,16,20,7,5,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-91,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,61,65,8,17,7,6,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-92,MS Dhoni,CJ Anderson,R Ashwin,0,0,0,61,65,16,21,7,1,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-93,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,62,64,17,22,7,2,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-94,R Ashwin,CJ Anderson,MS Dhoni,1,0,1,63,63,9,18,7,3,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-95,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,64,62,18,23,7,4,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-96,R Ashwin,CJ Anderson,MS Dhoni,1,0,1,65,61,10,19,7,5,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-97,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,66,60,19,24,7,6,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-98,MS Dhoni,IS Sodhi,R Ashwin,6,0,6,72,54,25,25,7,1,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-99,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,73,53,26,26,7,2,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-100,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,73,53,10,20,8,3,stumped,R Ashwin,L Ronchi,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-101,A Nehra,IS Sodhi,MS Dhoni,0,0,0,73,53,0,1,8,4,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-102,A Nehra,IS Sodhi,MS Dhoni,0,1,1,74,52,0,2,8,5,0,,,17,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-103,A Nehra,IS Sodhi,MS Dhoni,0,0,0,74,52,0,3,8,6,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-104,A Nehra,IS Sodhi,MS Dhoni,0,1,1,75,51,0,4,8,7,0,,,17,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-105,A Nehra,IS Sodhi,MS Dhoni,0,0,0,75,51,0,5,8,8,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-106,MS Dhoni,MJ Santner,A Nehra,4,0,4,79,47,30,27,8,1,0,,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-107,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,28,8,2,0,,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-108,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,29,8,3,0,,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-109,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,30,9,4,caught,MS Dhoni,NL McCullum,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-110,JJ Bumrah,MJ Santner,A Nehra,0,0,0,79,47,0,1,9,5,0,,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-111,JJ Bumrah,MJ Santner,A Nehra,0,0,0,79,47,0,2,9,6,0,,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
-112,A Nehra,AF Milne,JJ Bumrah,0,0,0,79,47,0,6,10,1,bowled,A Nehra,,19,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+0,RG Sharma,NL McCullum,S Dhawan,1,0,1,1,125,1,1,0,1,0,,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+1,S Dhawan,NL McCullum,RG Sharma,0,0,0,1,125,0,1,0,2,0,,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+2,S Dhawan,NL McCullum,RG Sharma,1,0,1,2,124,1,2,0,3,0,,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+3,RG Sharma,NL McCullum,S Dhawan,3,0,3,5,121,4,2,0,4,0,,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+4,S Dhawan,NL McCullum,RG Sharma,0,0,0,5,121,1,3,1,5,lbw,S Dhawan,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+5,V Kohli,NL McCullum,RG Sharma,1,0,1,6,120,1,1,1,6,0,,,0,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+6,V Kohli,CJ Anderson,RG Sharma,2,0,2,8,118,3,2,1,1,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+7,V Kohli,CJ Anderson,RG Sharma,1,0,1,9,117,4,3,1,2,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+8,RG Sharma,CJ Anderson,V Kohli,0,0,0,9,117,4,3,1,3,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+9,RG Sharma,CJ Anderson,V Kohli,0,0,0,9,117,4,4,1,4,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+10,RG Sharma,CJ Anderson,V Kohli,1,0,1,10,116,5,5,1,5,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+11,V Kohli,CJ Anderson,RG Sharma,0,0,0,10,116,4,4,1,6,0,,,1,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+12,RG Sharma,MJ Santner,V Kohli,0,0,0,10,116,5,6,1,1,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+13,RG Sharma,MJ Santner,V Kohli,0,0,0,10,116,5,7,2,2,stumped,RG Sharma,L Ronchi,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+14,SK Raina,MJ Santner,V Kohli,1,0,1,11,115,1,1,2,3,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+15,V Kohli,MJ Santner,SK Raina,1,0,1,12,114,5,5,2,4,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+16,SK Raina,MJ Santner,V Kohli,0,0,0,12,114,1,2,3,5,caught,SK Raina,MJ Guptill,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+17,Yuvraj Singh,MJ Santner,V Kohli,0,0,0,12,114,0,1,3,6,0,,,2,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+18,V Kohli,CJ Anderson,Yuvraj Singh,0,0,0,12,114,5,6,3,1,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+19,V Kohli,CJ Anderson,Yuvraj Singh,4,0,4,16,110,9,7,3,2,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+20,V Kohli,CJ Anderson,Yuvraj Singh,0,0,0,16,110,9,8,3,3,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+21,V Kohli,CJ Anderson,Yuvraj Singh,4,0,4,20,106,13,9,3,4,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+22,V Kohli,CJ Anderson,Yuvraj Singh,1,0,1,21,105,14,10,3,5,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+23,Yuvraj Singh,CJ Anderson,V Kohli,0,0,0,21,105,0,2,3,6,0,,,3,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+24,V Kohli,NL McCullum,Yuvraj Singh,0,0,0,21,105,14,11,3,1,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+25,V Kohli,NL McCullum,Yuvraj Singh,1,0,1,22,104,15,12,3,2,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+26,Yuvraj Singh,NL McCullum,V Kohli,0,0,0,22,104,0,3,3,3,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+27,Yuvraj Singh,NL McCullum,V Kohli,4,0,4,26,100,4,4,3,4,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+28,Yuvraj Singh,NL McCullum,V Kohli,0,0,0,26,100,4,5,4,5,caught and bowled,Yuvraj Singh,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+29,MS Dhoni,NL McCullum,V Kohli,0,0,0,26,100,0,1,4,6,0,,,4,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+30,V Kohli,GD Elliott,MS Dhoni,0,0,0,26,100,15,13,4,1,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+31,V Kohli,GD Elliott,MS Dhoni,0,0,0,26,100,15,14,4,2,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+32,V Kohli,GD Elliott,MS Dhoni,1,0,1,27,99,16,15,4,3,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+33,MS Dhoni,GD Elliott,V Kohli,0,0,0,27,99,0,2,4,4,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+34,MS Dhoni,GD Elliott,V Kohli,1,0,1,28,98,1,3,4,5,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+35,V Kohli,GD Elliott,MS Dhoni,1,0,1,29,97,17,16,4,6,0,,,5,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+36,V Kohli,AF Milne,MS Dhoni,0,1,1,30,96,17,17,4,1,0,,,6,noballs,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+37,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,18,4,2,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+38,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,19,4,3,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+39,V Kohli,AF Milne,MS Dhoni,0,0,0,30,96,17,20,4,4,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+40,V Kohli,AF Milne,MS Dhoni,1,0,1,31,95,18,21,4,5,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+41,MS Dhoni,AF Milne,V Kohli,1,0,1,32,94,2,4,4,6,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+42,V Kohli,AF Milne,MS Dhoni,1,0,1,33,93,19,22,4,7,0,,,6,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+43,V Kohli,GD Elliott,MS Dhoni,0,1,1,34,92,19,23,4,1,0,,,7,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+44,V Kohli,GD Elliott,MS Dhoni,1,0,1,35,91,20,24,4,2,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+45,MS Dhoni,GD Elliott,V Kohli,1,0,1,36,90,3,5,4,3,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+46,V Kohli,GD Elliott,MS Dhoni,0,0,0,36,90,20,25,4,4,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+47,V Kohli,GD Elliott,MS Dhoni,2,0,2,38,88,22,26,4,5,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+48,V Kohli,GD Elliott,MS Dhoni,1,0,1,39,87,23,27,4,6,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+49,MS Dhoni,GD Elliott,V Kohli,0,0,0,39,87,3,6,4,7,0,,,7,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+50,V Kohli,IS Sodhi,MS Dhoni,0,0,0,39,87,23,28,5,1,caught,V Kohli,L Ronchi,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+51,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,1,5,2,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+52,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,2,5,3,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+53,HH Pandya,IS Sodhi,MS Dhoni,0,0,0,39,87,0,3,5,4,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+54,HH Pandya,IS Sodhi,MS Dhoni,1,0,1,40,86,1,4,5,5,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+55,MS Dhoni,IS Sodhi,HH Pandya,1,0,1,41,85,4,7,5,6,0,,,8,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+56,MS Dhoni,MJ Santner,HH Pandya,1,0,1,42,84,5,8,5,1,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+57,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,5,5,2,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+58,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,6,5,3,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+59,HH Pandya,MJ Santner,MS Dhoni,0,0,0,42,84,1,7,6,4,lbw,HH Pandya,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+60,RA Jadeja,MJ Santner,MS Dhoni,0,0,0,42,84,0,1,6,5,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+61,RA Jadeja,MJ Santner,MS Dhoni,0,0,0,42,84,0,2,6,6,0,,,9,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+62,MS Dhoni,IS Sodhi,RA Jadeja,1,0,1,43,83,6,9,6,1,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+63,RA Jadeja,IS Sodhi,MS Dhoni,0,0,0,43,83,0,3,7,2,caught and bowled,RA Jadeja,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+64,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,43,83,0,1,7,3,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+65,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,43,83,0,2,7,4,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+66,R Ashwin,IS Sodhi,MS Dhoni,1,0,1,44,82,1,3,7,5,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+67,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,45,81,7,10,7,6,0,,,10,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+68,MS Dhoni,NL McCullum,R Ashwin,0,0,0,45,81,7,11,7,1,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+69,MS Dhoni,NL McCullum,R Ashwin,1,0,1,46,80,8,12,7,2,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+70,R Ashwin,NL McCullum,MS Dhoni,0,0,0,46,80,1,4,7,3,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+71,R Ashwin,NL McCullum,MS Dhoni,1,0,1,47,79,2,5,7,4,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+72,MS Dhoni,NL McCullum,R Ashwin,1,0,1,48,78,9,13,7,5,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+73,R Ashwin,NL McCullum,MS Dhoni,1,0,1,49,77,3,6,7,6,0,,,11,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+74,R Ashwin,AF Milne,MS Dhoni,1,0,1,50,76,4,7,7,1,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+75,MS Dhoni,AF Milne,R Ashwin,1,0,1,51,75,10,14,7,2,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+76,R Ashwin,AF Milne,MS Dhoni,1,0,1,52,74,5,8,7,3,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+77,MS Dhoni,AF Milne,R Ashwin,1,0,1,53,73,11,15,7,4,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+78,R Ashwin,AF Milne,MS Dhoni,0,0,0,53,73,5,9,7,5,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+79,R Ashwin,AF Milne,MS Dhoni,0,0,0,53,73,5,10,7,6,0,,,12,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+80,MS Dhoni,MJ Santner,R Ashwin,1,0,1,54,72,12,16,7,1,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+81,R Ashwin,MJ Santner,MS Dhoni,0,0,0,54,72,5,11,7,2,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+82,R Ashwin,MJ Santner,MS Dhoni,1,0,1,55,71,6,12,7,3,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+83,MS Dhoni,MJ Santner,R Ashwin,0,0,0,55,71,12,17,7,4,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+84,MS Dhoni,MJ Santner,R Ashwin,1,0,1,56,70,13,18,7,5,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+85,R Ashwin,MJ Santner,MS Dhoni,1,0,1,57,69,7,13,7,6,0,,,13,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+86,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,57,69,7,14,7,1,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+87,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,57,69,7,15,7,2,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+88,R Ashwin,IS Sodhi,MS Dhoni,1,0,1,58,68,8,16,7,3,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+89,MS Dhoni,IS Sodhi,R Ashwin,2,0,2,60,66,15,19,7,4,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+90,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,61,65,16,20,7,5,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+91,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,61,65,8,17,7,6,0,,,14,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+92,MS Dhoni,CJ Anderson,R Ashwin,0,0,0,61,65,16,21,7,1,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+93,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,62,64,17,22,7,2,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+94,R Ashwin,CJ Anderson,MS Dhoni,1,0,1,63,63,9,18,7,3,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+95,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,64,62,18,23,7,4,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+96,R Ashwin,CJ Anderson,MS Dhoni,1,0,1,65,61,10,19,7,5,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+97,MS Dhoni,CJ Anderson,R Ashwin,1,0,1,66,60,19,24,7,6,0,,,15,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+98,MS Dhoni,IS Sodhi,R Ashwin,6,0,6,72,54,25,25,7,1,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+99,MS Dhoni,IS Sodhi,R Ashwin,1,0,1,73,53,26,26,7,2,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+100,R Ashwin,IS Sodhi,MS Dhoni,0,0,0,73,53,10,20,8,3,stumped,R Ashwin,L Ronchi,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+101,A Nehra,IS Sodhi,MS Dhoni,0,0,0,73,53,0,1,8,4,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+102,A Nehra,IS Sodhi,MS Dhoni,0,1,1,74,52,0,2,8,5,0,,,16,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+103,A Nehra,IS Sodhi,MS Dhoni,0,0,0,74,52,0,3,8,6,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+104,A Nehra,IS Sodhi,MS Dhoni,0,1,1,75,51,0,4,8,7,0,,,16,wides,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+105,A Nehra,IS Sodhi,MS Dhoni,0,0,0,75,51,0,5,8,8,0,,,16,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+106,MS Dhoni,MJ Santner,A Nehra,4,0,4,79,47,30,27,8,1,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+107,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,28,8,2,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+108,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,29,8,3,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+109,MS Dhoni,MJ Santner,A Nehra,0,0,0,79,47,30,30,9,4,caught,MS Dhoni,NL McCullum,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+110,JJ Bumrah,MJ Santner,A Nehra,0,0,0,79,47,0,1,9,5,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+111,JJ Bumrah,MJ Santner,A Nehra,0,0,0,79,47,0,2,9,6,0,,,17,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79
+112,A Nehra,AF Milne,JJ Bumrah,0,0,0,79,47,0,6,10,1,bowled,A Nehra,,18,-,bat,New Zealand,2,"Vidarbha Cricket Association Stadium, Jamtha",2016,03,India_New Zealand_2016-03-15,New Zealand,India,New Zealand,79

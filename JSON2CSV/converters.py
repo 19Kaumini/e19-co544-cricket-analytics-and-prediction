@@ -96,7 +96,7 @@ def complete_team_df(team_overs):
     for over_index, over in enumerate(team_overs):
         # over["deliveries"] array of objects(per ball)
         over_df = convert_over_to_df(over["deliveries"])
-        over_df["over"] = over_index + 1
+        over_df["over"] = over_index
         all_overs.append(over_df)
     return pd.concat(all_overs, ignore_index=True)
 

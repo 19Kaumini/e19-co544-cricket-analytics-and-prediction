@@ -1,124 +1,124 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,GC Smith,DBL Powell,HH Gibbs,0,0,0,0,205,0,1,0,1,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-1,GC Smith,DBL Powell,HH Gibbs,1,0,1,1,204,1,2,0,2,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-2,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,1,0,3,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-3,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,2,0,4,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-4,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,3,0,5,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-5,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,4,0,6,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-6,GC Smith,R Rampaul,HH Gibbs,0,0,0,1,204,1,3,0,1,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-7,GC Smith,R Rampaul,HH Gibbs,0,0,0,1,204,1,4,0,2,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-8,GC Smith,R Rampaul,HH Gibbs,0,1,1,2,203,1,5,0,3,2,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-9,HH Gibbs,R Rampaul,GC Smith,1,0,1,3,202,1,5,0,4,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-10,GC Smith,R Rampaul,HH Gibbs,1,0,1,4,201,2,6,0,5,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-11,HH Gibbs,R Rampaul,GC Smith,4,0,4,8,197,5,6,0,6,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-12,GC Smith,DBL Powell,HH Gibbs,0,0,0,8,197,2,7,0,1,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-13,GC Smith,DBL Powell,HH Gibbs,0,1,1,9,196,2,8,0,2,3,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-14,GC Smith,DBL Powell,HH Gibbs,4,0,4,13,192,6,9,0,3,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-15,GC Smith,DBL Powell,HH Gibbs,0,0,0,13,192,6,10,0,4,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-16,GC Smith,DBL Powell,HH Gibbs,1,0,1,14,191,7,11,0,5,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-17,HH Gibbs,DBL Powell,GC Smith,0,0,0,14,191,5,7,0,6,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-18,HH Gibbs,DBL Powell,GC Smith,6,0,6,20,185,11,8,0,7,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-19,GC Smith,R Rampaul,HH Gibbs,6,0,6,26,179,13,12,0,1,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-20,GC Smith,R Rampaul,HH Gibbs,1,0,1,27,178,14,13,0,2,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-21,HH Gibbs,R Rampaul,GC Smith,4,1,5,32,173,15,9,0,3,4,noballs,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-22,HH Gibbs,R Rampaul,GC Smith,3,0,3,35,170,18,10,0,4,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-23,GC Smith,R Rampaul,HH Gibbs,0,0,0,35,170,14,14,0,5,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-24,GC Smith,R Rampaul,HH Gibbs,0,0,0,35,170,14,15,0,6,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-25,GC Smith,R Rampaul,HH Gibbs,1,0,1,36,169,15,16,0,7,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-26,GC Smith,DBL Powell,HH Gibbs,4,0,4,40,165,19,17,0,1,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-27,GC Smith,DBL Powell,HH Gibbs,0,2,2,42,163,19,18,0,2,5,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-28,HH Gibbs,DBL Powell,GC Smith,1,0,1,43,162,19,11,0,3,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-29,GC Smith,DBL Powell,HH Gibbs,0,1,1,44,161,19,19,0,4,5,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-30,GC Smith,DBL Powell,HH Gibbs,4,0,4,48,157,23,20,0,5,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-31,GC Smith,DBL Powell,HH Gibbs,0,0,0,48,157,23,21,0,6,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-32,GC Smith,DBL Powell,HH Gibbs,0,1,1,49,156,23,22,0,7,5,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-33,GC Smith,DBL Powell,HH Gibbs,1,0,1,50,155,24,23,0,8,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-34,HH Gibbs,DBL Powell,GC Smith,0,0,0,50,155,19,12,0,9,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-35,GC Smith,R Rampaul,HH Gibbs,4,0,4,54,151,28,24,0,1,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-36,GC Smith,R Rampaul,HH Gibbs,0,0,0,54,151,28,25,1,2,6,-,caught,GC Smith,CH Gayle,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-37,AB de Villiers,R Rampaul,HH Gibbs,0,1,1,55,150,0,1,1,3,6,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-38,AB de Villiers,R Rampaul,HH Gibbs,0,0,0,55,150,0,2,1,4,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-39,AB de Villiers,R Rampaul,HH Gibbs,1,0,1,56,149,1,3,1,5,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-40,HH Gibbs,R Rampaul,AB de Villiers,1,0,1,57,148,20,13,1,6,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-41,AB de Villiers,R Rampaul,HH Gibbs,2,0,2,59,146,3,4,1,7,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-42,HH Gibbs,DBL Powell,AB de Villiers,0,0,0,59,146,20,14,1,1,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-43,HH Gibbs,DBL Powell,AB de Villiers,0,0,0,59,146,20,15,1,2,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-44,HH Gibbs,DBL Powell,AB de Villiers,2,0,2,61,144,22,16,1,3,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-45,HH Gibbs,DBL Powell,AB de Villiers,4,0,4,65,140,26,17,1,4,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-46,HH Gibbs,DBL Powell,AB de Villiers,0,1,1,66,139,26,18,1,5,7,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-47,AB de Villiers,DBL Powell,HH Gibbs,1,0,1,67,138,4,5,1,6,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-48,AB de Villiers,DR Smith,HH Gibbs,0,1,1,68,137,4,6,1,1,8,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-49,AB de Villiers,DR Smith,HH Gibbs,6,0,6,74,131,10,7,1,2,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-50,AB de Villiers,DR Smith,HH Gibbs,4,0,4,78,127,14,8,1,3,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-51,AB de Villiers,DR Smith,HH Gibbs,1,0,1,79,126,15,9,1,4,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-52,HH Gibbs,DR Smith,AB de Villiers,0,0,0,79,126,26,19,1,5,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-53,HH Gibbs,DR Smith,AB de Villiers,0,1,1,80,125,26,20,1,6,8,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-54,HH Gibbs,DR Smith,AB de Villiers,1,0,1,81,124,27,21,1,7,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-55,AB de Villiers,DR Smith,HH Gibbs,0,5,5,86,119,15,10,1,8,8,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-56,AB de Villiers,DR Smith,HH Gibbs,1,0,1,87,118,16,11,1,9,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-57,AB de Villiers,FH Edwards,HH Gibbs,0,1,1,88,117,16,12,1,1,9,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-58,AB de Villiers,FH Edwards,HH Gibbs,0,0,0,88,117,16,13,2,2,9,-,caught,AB de Villiers,D Ramdin,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-59,HH Gibbs,FH Edwards,JM Kemp,0,0,0,88,117,27,22,2,3,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-60,HH Gibbs,FH Edwards,JM Kemp,0,0,0,88,117,27,23,2,4,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-61,HH Gibbs,FH Edwards,JM Kemp,0,1,1,89,116,27,24,2,5,9,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-62,HH Gibbs,FH Edwards,JM Kemp,0,0,0,89,116,27,25,2,6,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-63,HH Gibbs,FH Edwards,JM Kemp,0,0,0,89,116,27,26,2,7,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-64,HH Gibbs,FH Edwards,JM Kemp,4,0,4,93,112,31,27,2,8,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-65,JM Kemp,DJ Bravo,HH Gibbs,0,1,1,94,111,0,1,2,1,10,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-66,JM Kemp,DJ Bravo,HH Gibbs,0,0,0,94,111,0,2,2,2,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-67,JM Kemp,DJ Bravo,HH Gibbs,1,0,1,95,110,1,3,2,3,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-68,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,99,106,35,28,2,4,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-69,HH Gibbs,DJ Bravo,JM Kemp,2,0,2,101,104,37,29,2,5,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-70,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,105,100,41,30,2,6,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-71,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,106,99,42,31,2,7,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-72,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,32,2,1,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-73,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,33,2,2,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-74,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,34,2,3,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-75,HH Gibbs,FH Edwards,JM Kemp,1,0,1,107,98,43,35,2,4,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-76,JM Kemp,FH Edwards,HH Gibbs,1,0,1,108,97,2,4,2,5,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-77,HH Gibbs,FH Edwards,JM Kemp,0,0,0,108,97,43,36,2,6,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-78,JM Kemp,DJ Bravo,HH Gibbs,4,0,4,112,93,6,5,2,1,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-79,JM Kemp,DJ Bravo,HH Gibbs,1,0,1,113,92,7,6,2,2,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-80,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,117,88,47,37,2,3,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-81,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,118,87,48,38,2,4,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-82,JM Kemp,DJ Bravo,HH Gibbs,0,1,1,119,86,7,7,2,5,12,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-83,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,120,85,49,39,2,6,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-84,HH Gibbs,DR Smith,JM Kemp,0,2,2,122,83,49,40,2,1,13,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-85,JM Kemp,DR Smith,HH Gibbs,4,0,4,126,79,11,8,2,2,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-86,JM Kemp,DR Smith,HH Gibbs,1,0,1,127,78,12,9,2,3,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-87,HH Gibbs,DR Smith,JM Kemp,4,0,4,131,74,53,41,2,4,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-88,HH Gibbs,DR Smith,JM Kemp,1,0,1,132,73,54,42,2,5,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-89,JM Kemp,DR Smith,HH Gibbs,1,0,1,133,72,13,10,2,6,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-90,HH Gibbs,DR Smith,JM Kemp,0,2,2,135,70,54,43,2,7,13,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-91,JM Kemp,DR Smith,HH Gibbs,2,0,2,137,68,15,11,2,8,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-92,HH Gibbs,MN Samuels,JM Kemp,1,0,1,138,67,55,44,2,1,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-93,JM Kemp,MN Samuels,HH Gibbs,4,0,4,142,63,19,12,2,2,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-94,JM Kemp,MN Samuels,HH Gibbs,4,0,4,146,59,23,13,2,3,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-95,JM Kemp,MN Samuels,HH Gibbs,1,0,1,147,58,24,14,2,4,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-96,HH Gibbs,MN Samuels,JM Kemp,1,0,1,148,57,56,45,2,5,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-97,JM Kemp,MN Samuels,HH Gibbs,0,0,0,148,57,24,15,2,6,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-98,HH Gibbs,R Rampaul,JM Kemp,4,0,4,152,53,60,46,2,1,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-99,HH Gibbs,R Rampaul,JM Kemp,4,0,4,156,49,64,47,2,2,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-100,HH Gibbs,R Rampaul,JM Kemp,1,0,1,157,48,65,48,2,3,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-101,JM Kemp,R Rampaul,HH Gibbs,0,0,0,157,48,24,16,2,4,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-102,JM Kemp,R Rampaul,HH Gibbs,6,0,6,163,42,30,17,2,5,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-103,JM Kemp,R Rampaul,HH Gibbs,6,0,6,169,36,36,18,2,6,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-104,HH Gibbs,MN Samuels,JM Kemp,0,1,1,170,35,65,49,2,1,16,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-105,JM Kemp,MN Samuels,HH Gibbs,1,0,1,171,34,37,19,2,2,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-106,HH Gibbs,MN Samuels,JM Kemp,0,0,0,171,34,65,50,2,3,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-107,HH Gibbs,MN Samuels,JM Kemp,4,0,4,175,30,69,51,2,4,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-108,HH Gibbs,MN Samuels,JM Kemp,4,0,4,179,26,73,52,2,5,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-109,HH Gibbs,MN Samuels,JM Kemp,1,0,1,180,25,74,53,2,6,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-110,HH Gibbs,FH Edwards,JM Kemp,1,0,1,181,24,75,54,2,1,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-111,JM Kemp,FH Edwards,HH Gibbs,4,0,4,185,20,41,20,2,2,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-112,JM Kemp,FH Edwards,HH Gibbs,0,1,1,186,19,41,21,2,3,17,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-113,JM Kemp,FH Edwards,HH Gibbs,2,0,2,188,17,43,22,2,4,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-114,JM Kemp,FH Edwards,HH Gibbs,2,0,2,190,15,45,23,2,5,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-115,JM Kemp,FH Edwards,HH Gibbs,1,0,1,191,14,46,24,2,6,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-116,HH Gibbs,FH Edwards,JM Kemp,0,1,1,192,13,75,55,2,7,17,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-117,HH Gibbs,FH Edwards,JM Kemp,1,0,1,193,12,76,56,2,8,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-118,HH Gibbs,DJ Bravo,JM Kemp,6,0,6,199,6,82,57,2,1,18,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-119,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,203,2,86,58,2,2,18,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-120,HH Gibbs,DJ Bravo,JM Kemp,0,0,0,203,2,86,59,2,3,18,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-121,HH Gibbs,DJ Bravo,JM Kemp,0,1,1,204,1,86,60,2,4,18,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
-122,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,208,-3,90,61,2,5,18,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+0,GC Smith,DBL Powell,HH Gibbs,0,0,0,0,205,0,1,0,1,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+1,GC Smith,DBL Powell,HH Gibbs,1,0,1,1,204,1,2,0,2,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+2,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,1,0,3,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+3,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,2,0,4,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+4,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,3,0,5,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+5,HH Gibbs,DBL Powell,GC Smith,0,0,0,1,204,0,4,0,6,0,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+6,GC Smith,R Rampaul,HH Gibbs,0,0,0,1,204,1,3,0,1,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+7,GC Smith,R Rampaul,HH Gibbs,0,0,0,1,204,1,4,0,2,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+8,GC Smith,R Rampaul,HH Gibbs,0,1,1,2,203,1,5,0,3,1,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+9,HH Gibbs,R Rampaul,GC Smith,1,0,1,3,202,1,5,0,4,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+10,GC Smith,R Rampaul,HH Gibbs,1,0,1,4,201,2,6,0,5,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+11,HH Gibbs,R Rampaul,GC Smith,4,0,4,8,197,5,6,0,6,1,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+12,GC Smith,DBL Powell,HH Gibbs,0,0,0,8,197,2,7,0,1,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+13,GC Smith,DBL Powell,HH Gibbs,0,1,1,9,196,2,8,0,2,2,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+14,GC Smith,DBL Powell,HH Gibbs,4,0,4,13,192,6,9,0,3,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+15,GC Smith,DBL Powell,HH Gibbs,0,0,0,13,192,6,10,0,4,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+16,GC Smith,DBL Powell,HH Gibbs,1,0,1,14,191,7,11,0,5,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+17,HH Gibbs,DBL Powell,GC Smith,0,0,0,14,191,5,7,0,6,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+18,HH Gibbs,DBL Powell,GC Smith,6,0,6,20,185,11,8,0,7,2,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+19,GC Smith,R Rampaul,HH Gibbs,6,0,6,26,179,13,12,0,1,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+20,GC Smith,R Rampaul,HH Gibbs,1,0,1,27,178,14,13,0,2,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+21,HH Gibbs,R Rampaul,GC Smith,4,1,5,32,173,15,9,0,3,3,noballs,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+22,HH Gibbs,R Rampaul,GC Smith,3,0,3,35,170,18,10,0,4,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+23,GC Smith,R Rampaul,HH Gibbs,0,0,0,35,170,14,14,0,5,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+24,GC Smith,R Rampaul,HH Gibbs,0,0,0,35,170,14,15,0,6,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+25,GC Smith,R Rampaul,HH Gibbs,1,0,1,36,169,15,16,0,7,3,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+26,GC Smith,DBL Powell,HH Gibbs,4,0,4,40,165,19,17,0,1,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+27,GC Smith,DBL Powell,HH Gibbs,0,2,2,42,163,19,18,0,2,4,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+28,HH Gibbs,DBL Powell,GC Smith,1,0,1,43,162,19,11,0,3,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+29,GC Smith,DBL Powell,HH Gibbs,0,1,1,44,161,19,19,0,4,4,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+30,GC Smith,DBL Powell,HH Gibbs,4,0,4,48,157,23,20,0,5,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+31,GC Smith,DBL Powell,HH Gibbs,0,0,0,48,157,23,21,0,6,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+32,GC Smith,DBL Powell,HH Gibbs,0,1,1,49,156,23,22,0,7,4,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+33,GC Smith,DBL Powell,HH Gibbs,1,0,1,50,155,24,23,0,8,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+34,HH Gibbs,DBL Powell,GC Smith,0,0,0,50,155,19,12,0,9,4,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+35,GC Smith,R Rampaul,HH Gibbs,4,0,4,54,151,28,24,0,1,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+36,GC Smith,R Rampaul,HH Gibbs,0,0,0,54,151,28,25,1,2,5,-,caught,GC Smith,CH Gayle,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+37,AB de Villiers,R Rampaul,HH Gibbs,0,1,1,55,150,0,1,1,3,5,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+38,AB de Villiers,R Rampaul,HH Gibbs,0,0,0,55,150,0,2,1,4,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+39,AB de Villiers,R Rampaul,HH Gibbs,1,0,1,56,149,1,3,1,5,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+40,HH Gibbs,R Rampaul,AB de Villiers,1,0,1,57,148,20,13,1,6,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+41,AB de Villiers,R Rampaul,HH Gibbs,2,0,2,59,146,3,4,1,7,5,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+42,HH Gibbs,DBL Powell,AB de Villiers,0,0,0,59,146,20,14,1,1,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+43,HH Gibbs,DBL Powell,AB de Villiers,0,0,0,59,146,20,15,1,2,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+44,HH Gibbs,DBL Powell,AB de Villiers,2,0,2,61,144,22,16,1,3,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+45,HH Gibbs,DBL Powell,AB de Villiers,4,0,4,65,140,26,17,1,4,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+46,HH Gibbs,DBL Powell,AB de Villiers,0,1,1,66,139,26,18,1,5,6,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+47,AB de Villiers,DBL Powell,HH Gibbs,1,0,1,67,138,4,5,1,6,6,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+48,AB de Villiers,DR Smith,HH Gibbs,0,1,1,68,137,4,6,1,1,7,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+49,AB de Villiers,DR Smith,HH Gibbs,6,0,6,74,131,10,7,1,2,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+50,AB de Villiers,DR Smith,HH Gibbs,4,0,4,78,127,14,8,1,3,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+51,AB de Villiers,DR Smith,HH Gibbs,1,0,1,79,126,15,9,1,4,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+52,HH Gibbs,DR Smith,AB de Villiers,0,0,0,79,126,26,19,1,5,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+53,HH Gibbs,DR Smith,AB de Villiers,0,1,1,80,125,26,20,1,6,7,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+54,HH Gibbs,DR Smith,AB de Villiers,1,0,1,81,124,27,21,1,7,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+55,AB de Villiers,DR Smith,HH Gibbs,0,5,5,86,119,15,10,1,8,7,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+56,AB de Villiers,DR Smith,HH Gibbs,1,0,1,87,118,16,11,1,9,7,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+57,AB de Villiers,FH Edwards,HH Gibbs,0,1,1,88,117,16,12,1,1,8,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+58,AB de Villiers,FH Edwards,HH Gibbs,0,0,0,88,117,16,13,2,2,8,-,caught,AB de Villiers,D Ramdin,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+59,HH Gibbs,FH Edwards,JM Kemp,0,0,0,88,117,27,22,2,3,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+60,HH Gibbs,FH Edwards,JM Kemp,0,0,0,88,117,27,23,2,4,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+61,HH Gibbs,FH Edwards,JM Kemp,0,1,1,89,116,27,24,2,5,8,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+62,HH Gibbs,FH Edwards,JM Kemp,0,0,0,89,116,27,25,2,6,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+63,HH Gibbs,FH Edwards,JM Kemp,0,0,0,89,116,27,26,2,7,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+64,HH Gibbs,FH Edwards,JM Kemp,4,0,4,93,112,31,27,2,8,8,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+65,JM Kemp,DJ Bravo,HH Gibbs,0,1,1,94,111,0,1,2,1,9,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+66,JM Kemp,DJ Bravo,HH Gibbs,0,0,0,94,111,0,2,2,2,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+67,JM Kemp,DJ Bravo,HH Gibbs,1,0,1,95,110,1,3,2,3,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+68,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,99,106,35,28,2,4,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+69,HH Gibbs,DJ Bravo,JM Kemp,2,0,2,101,104,37,29,2,5,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+70,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,105,100,41,30,2,6,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+71,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,106,99,42,31,2,7,9,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+72,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,32,2,1,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+73,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,33,2,2,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+74,HH Gibbs,FH Edwards,JM Kemp,0,0,0,106,99,42,34,2,3,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+75,HH Gibbs,FH Edwards,JM Kemp,1,0,1,107,98,43,35,2,4,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+76,JM Kemp,FH Edwards,HH Gibbs,1,0,1,108,97,2,4,2,5,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+77,HH Gibbs,FH Edwards,JM Kemp,0,0,0,108,97,43,36,2,6,10,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+78,JM Kemp,DJ Bravo,HH Gibbs,4,0,4,112,93,6,5,2,1,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+79,JM Kemp,DJ Bravo,HH Gibbs,1,0,1,113,92,7,6,2,2,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+80,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,117,88,47,37,2,3,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+81,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,118,87,48,38,2,4,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+82,JM Kemp,DJ Bravo,HH Gibbs,0,1,1,119,86,7,7,2,5,11,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+83,HH Gibbs,DJ Bravo,JM Kemp,1,0,1,120,85,49,39,2,6,11,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+84,HH Gibbs,DR Smith,JM Kemp,0,2,2,122,83,49,40,2,1,12,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+85,JM Kemp,DR Smith,HH Gibbs,4,0,4,126,79,11,8,2,2,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+86,JM Kemp,DR Smith,HH Gibbs,1,0,1,127,78,12,9,2,3,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+87,HH Gibbs,DR Smith,JM Kemp,4,0,4,131,74,53,41,2,4,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+88,HH Gibbs,DR Smith,JM Kemp,1,0,1,132,73,54,42,2,5,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+89,JM Kemp,DR Smith,HH Gibbs,1,0,1,133,72,13,10,2,6,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+90,HH Gibbs,DR Smith,JM Kemp,0,2,2,135,70,54,43,2,7,12,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+91,JM Kemp,DR Smith,HH Gibbs,2,0,2,137,68,15,11,2,8,12,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+92,HH Gibbs,MN Samuels,JM Kemp,1,0,1,138,67,55,44,2,1,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+93,JM Kemp,MN Samuels,HH Gibbs,4,0,4,142,63,19,12,2,2,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+94,JM Kemp,MN Samuels,HH Gibbs,4,0,4,146,59,23,13,2,3,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+95,JM Kemp,MN Samuels,HH Gibbs,1,0,1,147,58,24,14,2,4,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+96,HH Gibbs,MN Samuels,JM Kemp,1,0,1,148,57,56,45,2,5,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+97,JM Kemp,MN Samuels,HH Gibbs,0,0,0,148,57,24,15,2,6,13,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+98,HH Gibbs,R Rampaul,JM Kemp,4,0,4,152,53,60,46,2,1,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+99,HH Gibbs,R Rampaul,JM Kemp,4,0,4,156,49,64,47,2,2,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+100,HH Gibbs,R Rampaul,JM Kemp,1,0,1,157,48,65,48,2,3,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+101,JM Kemp,R Rampaul,HH Gibbs,0,0,0,157,48,24,16,2,4,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+102,JM Kemp,R Rampaul,HH Gibbs,6,0,6,163,42,30,17,2,5,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+103,JM Kemp,R Rampaul,HH Gibbs,6,0,6,169,36,36,18,2,6,14,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+104,HH Gibbs,MN Samuels,JM Kemp,0,1,1,170,35,65,49,2,1,15,legbyes,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+105,JM Kemp,MN Samuels,HH Gibbs,1,0,1,171,34,37,19,2,2,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+106,HH Gibbs,MN Samuels,JM Kemp,0,0,0,171,34,65,50,2,3,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+107,HH Gibbs,MN Samuels,JM Kemp,4,0,4,175,30,69,51,2,4,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+108,HH Gibbs,MN Samuels,JM Kemp,4,0,4,179,26,73,52,2,5,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+109,HH Gibbs,MN Samuels,JM Kemp,1,0,1,180,25,74,53,2,6,15,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+110,HH Gibbs,FH Edwards,JM Kemp,1,0,1,181,24,75,54,2,1,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+111,JM Kemp,FH Edwards,HH Gibbs,4,0,4,185,20,41,20,2,2,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+112,JM Kemp,FH Edwards,HH Gibbs,0,1,1,186,19,41,21,2,3,16,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+113,JM Kemp,FH Edwards,HH Gibbs,2,0,2,188,17,43,22,2,4,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+114,JM Kemp,FH Edwards,HH Gibbs,2,0,2,190,15,45,23,2,5,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+115,JM Kemp,FH Edwards,HH Gibbs,1,0,1,191,14,46,24,2,6,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+116,HH Gibbs,FH Edwards,JM Kemp,0,1,1,192,13,75,55,2,7,16,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+117,HH Gibbs,FH Edwards,JM Kemp,1,0,1,193,12,76,56,2,8,16,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+118,HH Gibbs,DJ Bravo,JM Kemp,6,0,6,199,6,82,57,2,1,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+119,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,203,2,86,58,2,2,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+120,HH Gibbs,DJ Bravo,JM Kemp,0,0,0,203,2,86,59,2,3,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+121,HH Gibbs,DJ Bravo,JM Kemp,0,1,1,204,1,86,60,2,4,17,wides,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208
+122,HH Gibbs,DJ Bravo,JM Kemp,4,0,4,208,-3,90,61,2,5,17,-,0,,,field,South Africa,2,New Wanderers Stadium,2007,09,South Africa_West Indies_2007-09-11,South Africa,South Africa,West Indies,208

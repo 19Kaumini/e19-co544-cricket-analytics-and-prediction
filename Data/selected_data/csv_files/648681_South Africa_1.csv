@@ -1,45 +1,45 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,HM Amla,MA Starc,Q de Kock,0,0,0,0,201,0,1,0,1,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-1,HM Amla,MA Starc,Q de Kock,0,0,0,0,201,0,2,0,2,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-2,HM Amla,MA Starc,Q de Kock,4,0,4,4,197,4,3,0,3,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-3,HM Amla,MA Starc,Q de Kock,0,1,1,5,196,4,4,0,4,wides,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-4,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,5,0,5,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-5,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,6,0,6,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-6,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,7,0,7,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-7,Q de Kock,NM Coulter-Nile,HM Amla,0,0,0,5,196,0,1,0,1,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-8,Q de Kock,NM Coulter-Nile,HM Amla,1,0,1,6,195,1,2,0,2,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-9,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,8,0,3,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-10,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,9,0,4,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-11,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,10,1,5,-,2,caught and bowled,HM Amla,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-12,F du Plessis,NM Coulter-Nile,Q de Kock,0,0,0,6,195,0,1,1,6,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-13,Q de Kock,GB Hogg,F du Plessis,0,0,0,6,195,1,3,1,1,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-14,Q de Kock,GB Hogg,F du Plessis,2,0,2,8,193,3,4,1,2,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-15,Q de Kock,GB Hogg,F du Plessis,1,0,1,9,192,4,5,1,3,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-16,F du Plessis,GB Hogg,Q de Kock,1,0,1,10,191,1,2,1,4,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-17,Q de Kock,GB Hogg,F du Plessis,0,0,0,10,191,4,6,1,5,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-18,Q de Kock,GB Hogg,F du Plessis,1,0,1,11,190,5,7,1,6,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-19,Q de Kock,SR Watson,F du Plessis,4,0,4,15,186,9,8,1,1,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-20,Q de Kock,SR Watson,F du Plessis,6,0,6,21,180,15,9,1,2,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-21,Q de Kock,SR Watson,F du Plessis,1,0,1,22,179,16,10,1,3,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-22,F du Plessis,SR Watson,Q de Kock,1,0,1,23,178,2,3,1,4,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-23,Q de Kock,SR Watson,F du Plessis,0,0,0,23,178,16,11,1,5,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-24,Q de Kock,SR Watson,F du Plessis,2,0,2,25,176,18,12,1,6,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-25,F du Plessis,DT Christian,Q de Kock,0,0,0,25,176,2,4,1,1,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-26,F du Plessis,DT Christian,Q de Kock,4,0,4,29,172,6,5,1,2,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-27,F du Plessis,DT Christian,Q de Kock,0,0,0,29,172,6,6,1,3,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-28,F du Plessis,DT Christian,Q de Kock,6,0,6,35,166,12,7,1,4,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-29,F du Plessis,DT Christian,Q de Kock,6,0,6,41,160,18,8,1,5,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-30,F du Plessis,DT Christian,Q de Kock,2,0,2,43,158,20,9,1,6,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-31,Q de Kock,NM Coulter-Nile,F du Plessis,4,0,4,47,154,22,13,1,1,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-32,Q de Kock,NM Coulter-Nile,F du Plessis,0,0,0,47,154,22,14,1,2,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-33,Q de Kock,NM Coulter-Nile,F du Plessis,1,0,1,48,153,23,15,1,3,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-34,F du Plessis,NM Coulter-Nile,Q de Kock,4,0,4,52,149,24,10,1,4,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-35,F du Plessis,NM Coulter-Nile,Q de Kock,1,0,1,53,148,25,11,1,5,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-36,Q de Kock,NM Coulter-Nile,F du Plessis,6,0,6,59,142,29,16,1,6,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-37,F du Plessis,MA Starc,Q de Kock,1,0,1,60,141,26,12,1,1,-,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-38,Q de Kock,MA Starc,F du Plessis,0,1,1,61,140,29,17,1,2,byes,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-39,F du Plessis,MA Starc,Q de Kock,1,0,1,62,139,27,13,1,3,-,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-40,Q de Kock,MA Starc,F du Plessis,6,0,6,68,133,35,18,1,4,-,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-41,Q de Kock,MA Starc,F du Plessis,6,0,6,74,127,41,19,1,5,-,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-42,Q de Kock,MA Starc,F du Plessis,0,5,5,79,122,41,20,1,6,wides,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
-43,Q de Kock,MA Starc,F du Plessis,0,1,1,80,121,41,21,1,7,byes,7,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+0,HM Amla,MA Starc,Q de Kock,0,0,0,0,201,0,1,0,1,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+1,HM Amla,MA Starc,Q de Kock,0,0,0,0,201,0,2,0,2,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+2,HM Amla,MA Starc,Q de Kock,4,0,4,4,197,4,3,0,3,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+3,HM Amla,MA Starc,Q de Kock,0,1,1,5,196,4,4,0,4,wides,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+4,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,5,0,5,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+5,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,6,0,6,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+6,HM Amla,MA Starc,Q de Kock,0,0,0,5,196,4,7,0,7,-,0,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+7,Q de Kock,NM Coulter-Nile,HM Amla,0,0,0,5,196,0,1,0,1,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+8,Q de Kock,NM Coulter-Nile,HM Amla,1,0,1,6,195,1,2,0,2,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+9,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,8,0,3,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+10,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,9,0,4,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+11,HM Amla,NM Coulter-Nile,Q de Kock,0,0,0,6,195,4,10,1,5,-,1,caught and bowled,HM Amla,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+12,F du Plessis,NM Coulter-Nile,Q de Kock,0,0,0,6,195,0,1,1,6,-,1,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+13,Q de Kock,GB Hogg,F du Plessis,0,0,0,6,195,1,3,1,1,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+14,Q de Kock,GB Hogg,F du Plessis,2,0,2,8,193,3,4,1,2,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+15,Q de Kock,GB Hogg,F du Plessis,1,0,1,9,192,4,5,1,3,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+16,F du Plessis,GB Hogg,Q de Kock,1,0,1,10,191,1,2,1,4,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+17,Q de Kock,GB Hogg,F du Plessis,0,0,0,10,191,4,6,1,5,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+18,Q de Kock,GB Hogg,F du Plessis,1,0,1,11,190,5,7,1,6,-,2,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+19,Q de Kock,SR Watson,F du Plessis,4,0,4,15,186,9,8,1,1,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+20,Q de Kock,SR Watson,F du Plessis,6,0,6,21,180,15,9,1,2,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+21,Q de Kock,SR Watson,F du Plessis,1,0,1,22,179,16,10,1,3,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+22,F du Plessis,SR Watson,Q de Kock,1,0,1,23,178,2,3,1,4,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+23,Q de Kock,SR Watson,F du Plessis,0,0,0,23,178,16,11,1,5,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+24,Q de Kock,SR Watson,F du Plessis,2,0,2,25,176,18,12,1,6,-,3,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+25,F du Plessis,DT Christian,Q de Kock,0,0,0,25,176,2,4,1,1,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+26,F du Plessis,DT Christian,Q de Kock,4,0,4,29,172,6,5,1,2,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+27,F du Plessis,DT Christian,Q de Kock,0,0,0,29,172,6,6,1,3,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+28,F du Plessis,DT Christian,Q de Kock,6,0,6,35,166,12,7,1,4,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+29,F du Plessis,DT Christian,Q de Kock,6,0,6,41,160,18,8,1,5,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+30,F du Plessis,DT Christian,Q de Kock,2,0,2,43,158,20,9,1,6,-,4,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+31,Q de Kock,NM Coulter-Nile,F du Plessis,4,0,4,47,154,22,13,1,1,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+32,Q de Kock,NM Coulter-Nile,F du Plessis,0,0,0,47,154,22,14,1,2,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+33,Q de Kock,NM Coulter-Nile,F du Plessis,1,0,1,48,153,23,15,1,3,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+34,F du Plessis,NM Coulter-Nile,Q de Kock,4,0,4,52,149,24,10,1,4,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+35,F du Plessis,NM Coulter-Nile,Q de Kock,1,0,1,53,148,25,11,1,5,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+36,Q de Kock,NM Coulter-Nile,F du Plessis,6,0,6,59,142,29,16,1,6,-,5,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+37,F du Plessis,MA Starc,Q de Kock,1,0,1,60,141,26,12,1,1,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+38,Q de Kock,MA Starc,F du Plessis,0,1,1,61,140,29,17,1,2,byes,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+39,F du Plessis,MA Starc,Q de Kock,1,0,1,62,139,27,13,1,3,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+40,Q de Kock,MA Starc,F du Plessis,6,0,6,68,133,35,18,1,4,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+41,Q de Kock,MA Starc,F du Plessis,6,0,6,74,127,41,19,1,5,-,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+42,Q de Kock,MA Starc,F du Plessis,0,5,5,79,122,41,20,1,6,wides,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80
+43,Q de Kock,MA Starc,F du Plessis,0,1,1,80,121,41,21,1,7,byes,6,0,,,field,Australia,1,Kingsmead,2014,03,South Africa_Australia_2014-03-12,Australia,South Africa,Australia,80

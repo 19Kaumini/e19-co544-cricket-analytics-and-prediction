@@ -1,109 +1,109 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,0,165,0,1,0,1,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-1,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,0,165,0,2,0,2,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-2,Babar Azam,CAK Rajitha,Ahmed Shehzad,4,0,4,4,161,4,3,0,3,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-3,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,4,161,4,4,0,4,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-4,Babar Azam,CAK Rajitha,Ahmed Shehzad,3,0,3,7,158,7,5,0,5,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-5,Ahmed Shehzad,CAK Rajitha,Babar Azam,0,0,0,7,158,0,1,0,6,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-6,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,7,158,7,6,0,1,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-7,Babar Azam,N Pradeep,Ahmed Shehzad,2,0,2,9,156,9,7,0,2,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-8,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,9,156,9,8,0,3,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-9,Babar Azam,N Pradeep,Ahmed Shehzad,4,0,4,13,152,13,9,0,4,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-10,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,13,152,13,10,1,5,2,caught,Babar Azam,M Bhanuka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-11,Umar Akmal,N Pradeep,Ahmed Shehzad,0,0,0,13,152,0,1,2,6,2,lbw,Umar Akmal,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-12,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,13,152,0,2,2,1,3,0,,,"{'by': 'Sri Lanka', 'umpire': 'Aleem Dar', 'batter': 'Ahmed Shehzad', 'decision': 'struck down', 'umpires_call': True}",-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-13,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,1,1,14,151,0,3,2,2,3,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-14,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,0,0,0,14,151,0,1,2,3,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-15,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,1,0,1,15,150,1,2,2,4,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-16,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,15,150,0,4,2,5,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-17,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,15,150,0,5,2,6,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-18,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,0,0,0,15,150,1,3,2,1,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-19,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,1,0,1,16,149,2,4,2,2,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-20,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,1,0,1,17,148,1,6,2,3,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-21,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,1,0,1,18,147,3,5,2,4,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-22,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,0,1,1,19,146,1,7,2,5,4,0,,,,wides,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-23,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,1,0,1,20,145,2,8,2,6,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-24,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,0,0,0,20,145,3,6,2,7,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-25,Ahmed Shehzad,I Udana,Sarfraz Ahmed,2,0,2,22,143,4,9,2,1,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-26,Ahmed Shehzad,I Udana,Sarfraz Ahmed,0,0,0,22,143,4,10,3,2,5,bowled,Ahmed Shehzad,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-27,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,1,3,3,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-28,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,2,3,4,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-29,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,3,3,5,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-30,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,4,0,4,26,139,4,4,3,6,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-31,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,27,138,4,7,3,1,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-32,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,28,137,5,5,3,2,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-33,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,0,0,28,137,4,8,3,3,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-34,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,0,0,28,137,4,9,3,4,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-35,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,29,136,5,10,3,5,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-36,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,30,135,6,6,3,6,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-37,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,31,134,7,7,3,1,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-38,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,0,0,0,31,134,5,11,3,2,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-39,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,32,133,6,12,3,3,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-40,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,33,132,8,8,3,4,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-41,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,34,131,7,13,3,5,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-42,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,35,130,9,9,3,6,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-43,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,36,129,10,10,3,1,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-44,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,2,0,2,38,127,9,14,3,2,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-45,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,39,126,10,15,3,3,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-46,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,40,125,11,11,3,4,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-47,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,1,1,41,124,10,16,3,5,8,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-48,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,4,0,4,45,120,15,12,3,6,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-49,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,46,119,11,17,3,1,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-50,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,47,118,16,13,3,2,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-51,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,48,117,12,18,3,3,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-52,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,49,116,17,14,3,4,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-53,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,50,115,13,19,3,5,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-54,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,51,114,18,15,3,6,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-55,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,1,0,1,52,113,19,16,3,1,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-56,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,0,1,1,53,112,13,20,3,2,10,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-57,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,1,0,1,54,111,20,17,3,3,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-58,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,1,0,1,55,110,14,21,3,4,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-59,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,0,0,0,55,110,20,18,3,5,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-60,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,2,0,2,57,108,22,19,3,6,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-61,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,58,107,15,22,3,1,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-62,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,0,1,1,59,106,22,20,3,2,11,0,,,,wides,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-63,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,2,0,2,61,104,24,21,3,3,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-64,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,0,0,0,61,104,24,22,3,4,11,0,,,"{'by': 'Sri Lanka', 'umpire': 'Aleem Dar', 'batter': 'Sarfraz Ahmed', 'decision': 'struck down'}",-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-65,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,62,103,25,23,3,5,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-66,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,0,0,0,62,103,15,23,3,6,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-67,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,4,0,4,66,99,19,24,3,7,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-68,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,1,1,67,98,25,24,3,1,12,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-69,Sarfraz Ahmed,I Udana,Iftikhar Ahmed,1,0,1,68,97,20,25,3,2,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-70,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,68,97,25,25,4,3,12,run out,Iftikhar Ahmed,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-71,Sarfraz Ahmed,I Udana,Asif Ali,1,0,1,69,96,21,26,4,4,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-72,Asif Ali,I Udana,Sarfraz Ahmed,1,0,1,70,95,1,1,4,5,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-73,Sarfraz Ahmed,I Udana,Asif Ali,1,0,1,71,94,22,27,4,6,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-74,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,1,0,1,72,93,23,28,4,1,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-75,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,0,0,0,72,93,1,2,4,2,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-76,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,1,0,1,73,92,2,3,4,3,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-77,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,1,0,1,74,91,24,29,4,4,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-78,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,0,0,0,74,91,2,4,4,5,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-79,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,1,0,1,75,90,3,5,4,6,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-80,Asif Ali,PWH de Silva,Sarfraz Ahmed,1,0,1,76,89,4,6,4,1,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-81,Sarfraz Ahmed,PWH de Silva,Asif Ali,0,0,0,76,89,24,30,5,2,14,bowled,Sarfraz Ahmed,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-82,Imad Wasim,PWH de Silva,Asif Ali,1,0,1,77,88,1,1,5,3,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-83,Asif Ali,PWH de Silva,Imad Wasim,0,0,0,77,88,4,7,5,4,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-84,Asif Ali,PWH de Silva,Imad Wasim,1,0,1,78,87,5,8,5,5,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-85,Imad Wasim,PWH de Silva,Asif Ali,1,0,1,79,86,2,2,5,6,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-86,Imad Wasim,CAK Rajitha,Asif Ali,4,0,4,83,82,6,3,5,1,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-87,Imad Wasim,CAK Rajitha,Asif Ali,1,0,1,84,81,7,4,5,2,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-88,Asif Ali,CAK Rajitha,Imad Wasim,1,0,1,85,80,6,9,5,3,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-89,Imad Wasim,CAK Rajitha,Asif Ali,0,0,0,85,80,7,5,6,4,15,caught,Imad Wasim,PWH de Silva,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-90,Faheem Ashraf,CAK Rajitha,Asif Ali,0,0,0,85,80,0,1,6,5,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-91,Faheem Ashraf,CAK Rajitha,Asif Ali,1,0,1,86,79,1,2,6,6,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-92,Faheem Ashraf,PWH de Silva,Asif Ali,0,1,1,87,78,1,3,6,1,16,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-93,Asif Ali,PWH de Silva,Faheem Ashraf,0,0,0,87,78,6,10,7,2,16,caught,Asif Ali,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-94,Faheem Ashraf,PWH de Silva,Shadab Khan,1,0,1,88,77,2,4,7,3,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-95,Shadab Khan,PWH de Silva,Faheem Ashraf,0,0,0,88,77,0,1,7,4,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-96,Shadab Khan,PWH de Silva,Faheem Ashraf,1,0,1,89,76,1,2,7,5,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-97,Faheem Ashraf,PWH de Silva,Shadab Khan,1,0,1,90,75,3,5,7,6,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-98,Faheem Ashraf,N Pradeep,Shadab Khan,4,0,4,94,71,7,6,7,1,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-99,Faheem Ashraf,N Pradeep,Shadab Khan,1,0,1,95,70,8,7,7,2,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-100,Shadab Khan,N Pradeep,Faheem Ashraf,1,0,1,96,69,2,3,7,3,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-101,Faheem Ashraf,N Pradeep,Shadab Khan,0,0,0,96,69,8,8,8,4,17,caught,Faheem Ashraf,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-102,Shadab Khan,N Pradeep,Mohammad Amir,0,0,0,96,69,2,4,8,5,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-103,Shadab Khan,N Pradeep,Mohammad Amir,4,0,4,100,65,6,5,8,6,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-104,Mohammad Amir,I Udana,Shadab Khan,1,0,1,101,64,1,1,8,1,18,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-105,Shadab Khan,I Udana,Mohammad Amir,0,0,0,101,64,6,6,8,2,18,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-106,Shadab Khan,I Udana,Mohammad Amir,0,0,0,101,64,6,7,9,3,18,caught,Shadab Khan,WIA Fernando,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
-107,Mohammad Amir,I Udana,Mohammad Hasnain,0,0,0,101,64,1,2,10,4,18,caught,Mohammad Amir,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+0,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,0,165,0,1,0,1,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+1,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,0,165,0,2,0,2,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+2,Babar Azam,CAK Rajitha,Ahmed Shehzad,4,0,4,4,161,4,3,0,3,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+3,Babar Azam,CAK Rajitha,Ahmed Shehzad,0,0,0,4,161,4,4,0,4,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+4,Babar Azam,CAK Rajitha,Ahmed Shehzad,3,0,3,7,158,7,5,0,5,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+5,Ahmed Shehzad,CAK Rajitha,Babar Azam,0,0,0,7,158,0,1,0,6,0,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+6,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,7,158,7,6,0,1,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+7,Babar Azam,N Pradeep,Ahmed Shehzad,2,0,2,9,156,9,7,0,2,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+8,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,9,156,9,8,0,3,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+9,Babar Azam,N Pradeep,Ahmed Shehzad,4,0,4,13,152,13,9,0,4,1,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+10,Babar Azam,N Pradeep,Ahmed Shehzad,0,0,0,13,152,13,10,1,5,1,caught,Babar Azam,M Bhanuka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+11,Umar Akmal,N Pradeep,Ahmed Shehzad,0,0,0,13,152,0,1,2,6,1,lbw,Umar Akmal,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+12,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,13,152,0,2,2,1,2,0,,,"{'by': 'Sri Lanka', 'umpire': 'Aleem Dar', 'batter': 'Ahmed Shehzad', 'decision': 'struck down', 'umpires_call': True}",-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+13,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,1,1,14,151,0,3,2,2,2,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+14,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,0,0,0,14,151,0,1,2,3,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+15,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,1,0,1,15,150,1,2,2,4,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+16,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,15,150,0,4,2,5,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+17,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,0,0,0,15,150,0,5,2,6,2,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+18,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,0,0,0,15,150,1,3,2,1,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+19,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,1,0,1,16,149,2,4,2,2,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+20,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,1,0,1,17,148,1,6,2,3,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+21,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,1,0,1,18,147,3,5,2,4,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+22,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,0,1,1,19,146,1,7,2,5,3,0,,,,wides,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+23,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,1,0,1,20,145,2,8,2,6,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+24,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,0,0,0,20,145,3,6,2,7,3,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+25,Ahmed Shehzad,I Udana,Sarfraz Ahmed,2,0,2,22,143,4,9,2,1,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+26,Ahmed Shehzad,I Udana,Sarfraz Ahmed,0,0,0,22,143,4,10,3,2,4,bowled,Ahmed Shehzad,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+27,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,1,3,3,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+28,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,2,3,4,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+29,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,22,143,0,3,3,5,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+30,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,4,0,4,26,139,4,4,3,6,4,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+31,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,27,138,4,7,3,1,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+32,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,28,137,5,5,3,2,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+33,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,0,0,28,137,4,8,3,3,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+34,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,0,0,28,137,4,9,3,4,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+35,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,29,136,5,10,3,5,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+36,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,30,135,6,6,3,6,5,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+37,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,31,134,7,7,3,1,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+38,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,0,0,0,31,134,5,11,3,2,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+39,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,32,133,6,12,3,3,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+40,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,33,132,8,8,3,4,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+41,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,34,131,7,13,3,5,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+42,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,35,130,9,9,3,6,6,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+43,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,36,129,10,10,3,1,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+44,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,2,0,2,38,127,9,14,3,2,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+45,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,1,0,1,39,126,10,15,3,3,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+46,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,1,0,1,40,125,11,11,3,4,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+47,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,0,1,1,41,124,10,16,3,5,7,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+48,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,4,0,4,45,120,15,12,3,6,7,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+49,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,46,119,11,17,3,1,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+50,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,47,118,16,13,3,2,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+51,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,48,117,12,18,3,3,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+52,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,49,116,17,14,3,4,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+53,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,50,115,13,19,3,5,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+54,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,51,114,18,15,3,6,8,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+55,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,1,0,1,52,113,19,16,3,1,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+56,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,0,1,1,53,112,13,20,3,2,9,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+57,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,1,0,1,54,111,20,17,3,3,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+58,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,1,0,1,55,110,14,21,3,4,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+59,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,0,0,0,55,110,20,18,3,5,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+60,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,2,0,2,57,108,22,19,3,6,9,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+61,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,1,0,1,58,107,15,22,3,1,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+62,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,0,1,1,59,106,22,20,3,2,10,0,,,,wides,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+63,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,2,0,2,61,104,24,21,3,3,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+64,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,0,0,0,61,104,24,22,3,4,10,0,,,"{'by': 'Sri Lanka', 'umpire': 'Aleem Dar', 'batter': 'Sarfraz Ahmed', 'decision': 'struck down'}",-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+65,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,1,0,1,62,103,25,23,3,5,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+66,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,0,0,0,62,103,15,23,3,6,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+67,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,4,0,4,66,99,19,24,3,7,10,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+68,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,1,1,67,98,25,24,3,1,11,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+69,Sarfraz Ahmed,I Udana,Iftikhar Ahmed,1,0,1,68,97,20,25,3,2,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+70,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,0,0,0,68,97,25,25,4,3,11,run out,Iftikhar Ahmed,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+71,Sarfraz Ahmed,I Udana,Asif Ali,1,0,1,69,96,21,26,4,4,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+72,Asif Ali,I Udana,Sarfraz Ahmed,1,0,1,70,95,1,1,4,5,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+73,Sarfraz Ahmed,I Udana,Asif Ali,1,0,1,71,94,22,27,4,6,11,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+74,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,1,0,1,72,93,23,28,4,1,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+75,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,0,0,0,72,93,1,2,4,2,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+76,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,1,0,1,73,92,2,3,4,3,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+77,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,1,0,1,74,91,24,29,4,4,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+78,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,0,0,0,74,91,2,4,4,5,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+79,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,1,0,1,75,90,3,5,4,6,12,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+80,Asif Ali,PWH de Silva,Sarfraz Ahmed,1,0,1,76,89,4,6,4,1,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+81,Sarfraz Ahmed,PWH de Silva,Asif Ali,0,0,0,76,89,24,30,5,2,13,bowled,Sarfraz Ahmed,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+82,Imad Wasim,PWH de Silva,Asif Ali,1,0,1,77,88,1,1,5,3,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+83,Asif Ali,PWH de Silva,Imad Wasim,0,0,0,77,88,4,7,5,4,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+84,Asif Ali,PWH de Silva,Imad Wasim,1,0,1,78,87,5,8,5,5,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+85,Imad Wasim,PWH de Silva,Asif Ali,1,0,1,79,86,2,2,5,6,13,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+86,Imad Wasim,CAK Rajitha,Asif Ali,4,0,4,83,82,6,3,5,1,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+87,Imad Wasim,CAK Rajitha,Asif Ali,1,0,1,84,81,7,4,5,2,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+88,Asif Ali,CAK Rajitha,Imad Wasim,1,0,1,85,80,6,9,5,3,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+89,Imad Wasim,CAK Rajitha,Asif Ali,0,0,0,85,80,7,5,6,4,14,caught,Imad Wasim,PWH de Silva,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+90,Faheem Ashraf,CAK Rajitha,Asif Ali,0,0,0,85,80,0,1,6,5,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+91,Faheem Ashraf,CAK Rajitha,Asif Ali,1,0,1,86,79,1,2,6,6,14,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+92,Faheem Ashraf,PWH de Silva,Asif Ali,0,1,1,87,78,1,3,6,1,15,0,,,,legbyes,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+93,Asif Ali,PWH de Silva,Faheem Ashraf,0,0,0,87,78,6,10,7,2,15,caught,Asif Ali,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+94,Faheem Ashraf,PWH de Silva,Shadab Khan,1,0,1,88,77,2,4,7,3,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+95,Shadab Khan,PWH de Silva,Faheem Ashraf,0,0,0,88,77,0,1,7,4,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+96,Shadab Khan,PWH de Silva,Faheem Ashraf,1,0,1,89,76,1,2,7,5,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+97,Faheem Ashraf,PWH de Silva,Shadab Khan,1,0,1,90,75,3,5,7,6,15,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+98,Faheem Ashraf,N Pradeep,Shadab Khan,4,0,4,94,71,7,6,7,1,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+99,Faheem Ashraf,N Pradeep,Shadab Khan,1,0,1,95,70,8,7,7,2,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+100,Shadab Khan,N Pradeep,Faheem Ashraf,1,0,1,96,69,2,3,7,3,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+101,Faheem Ashraf,N Pradeep,Shadab Khan,0,0,0,96,69,8,8,8,4,16,caught,Faheem Ashraf,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+102,Shadab Khan,N Pradeep,Mohammad Amir,0,0,0,96,69,2,4,8,5,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+103,Shadab Khan,N Pradeep,Mohammad Amir,4,0,4,100,65,6,5,8,6,16,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+104,Mohammad Amir,I Udana,Shadab Khan,1,0,1,101,64,1,1,8,1,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+105,Shadab Khan,I Udana,Mohammad Amir,0,0,0,101,64,6,6,8,2,17,0,,,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+106,Shadab Khan,I Udana,Mohammad Amir,0,0,0,101,64,6,7,9,3,17,caught,Shadab Khan,WIA Fernando,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101
+107,Mohammad Amir,I Udana,Mohammad Hasnain,0,0,0,101,64,1,2,10,4,17,caught,Mohammad Amir,MD Gunathilaka,,-,field,Pakistan,2,Gaddafi Stadium,2019,10,Pakistan_Sri Lanka_2019-10-05,Sri Lanka,Pakistan,Sri Lanka,101

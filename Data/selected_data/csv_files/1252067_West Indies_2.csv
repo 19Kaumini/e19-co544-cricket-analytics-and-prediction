@@ -1,115 +1,115 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,1,0,1,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-1,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,2,0,2,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-2,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,3,0,3,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-3,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,4,0,4,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-4,LMP Simmons,A Dananjaya,E Lewis,1,0,1,1,159,1,5,0,5,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-5,E Lewis,A Dananjaya,LMP Simmons,0,0,0,1,159,0,1,0,6,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-6,LMP Simmons,PVD Chameera,E Lewis,0,0,0,1,159,1,6,0,1,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-7,LMP Simmons,PVD Chameera,E Lewis,1,0,1,2,158,2,7,0,2,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-8,E Lewis,PVD Chameera,LMP Simmons,0,0,0,2,158,0,2,0,3,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-9,E Lewis,PVD Chameera,LMP Simmons,2,0,2,4,156,2,3,0,4,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-10,E Lewis,PVD Chameera,LMP Simmons,0,0,0,4,156,2,4,0,5,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-11,E Lewis,PVD Chameera,LMP Simmons,4,0,4,8,152,6,5,0,6,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-12,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,8,0,1,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-13,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,9,0,2,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-14,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,10,0,3,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-15,LMP Simmons,A Dananjaya,E Lewis,1,0,1,9,151,3,11,0,4,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-16,E Lewis,A Dananjaya,LMP Simmons,0,0,0,9,151,6,6,1,5,3,bowled,E Lewis,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-17,CH Gayle,A Dananjaya,LMP Simmons,1,0,1,10,150,1,1,1,6,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-18,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,10,150,1,2,1,1,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-19,CH Gayle,PVD Chameera,LMP Simmons,0,1,1,11,149,1,3,1,2,4,0,,,noballs,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-20,CH Gayle,PVD Chameera,LMP Simmons,0,1,1,12,148,1,4,1,3,4,0,,,noballs,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-21,CH Gayle,PVD Chameera,LMP Simmons,4,0,4,16,144,5,5,1,4,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-22,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,6,1,5,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-23,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,7,1,6,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-24,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,8,1,7,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-25,CH Gayle,PVD Chameera,LMP Simmons,6,0,6,22,138,11,9,1,8,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-26,LMP Simmons,A Dananjaya,CH Gayle,1,0,1,23,137,4,12,1,1,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-27,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,23,137,11,10,1,2,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-28,CH Gayle,A Dananjaya,LMP Simmons,1,0,1,24,136,12,11,1,3,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-29,LMP Simmons,A Dananjaya,CH Gayle,1,0,1,25,135,5,13,1,4,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-30,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,25,135,12,12,1,5,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-31,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,25,135,12,13,1,6,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-32,LMP Simmons,NLTC Perera,CH Gayle,6,0,6,31,129,11,14,1,1,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-33,LMP Simmons,NLTC Perera,CH Gayle,1,0,1,32,128,12,15,1,2,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-34,CH Gayle,NLTC Perera,LMP Simmons,4,0,4,36,124,16,14,1,3,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-35,CH Gayle,NLTC Perera,LMP Simmons,0,1,1,37,123,16,15,1,4,6,0,,,legbyes,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-36,LMP Simmons,NLTC Perera,CH Gayle,4,0,4,41,119,16,16,1,5,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-37,LMP Simmons,NLTC Perera,CH Gayle,4,0,4,45,115,20,17,1,6,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-38,CH Gayle,PWH de Silva,LMP Simmons,0,0,0,45,115,16,16,2,1,7,caught,CH Gayle,KNA Bandara,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-39,N Pooran,PWH de Silva,LMP Simmons,1,0,1,46,114,1,1,2,2,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-40,LMP Simmons,PWH de Silva,N Pooran,1,0,1,47,113,21,18,2,3,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-41,N Pooran,PWH de Silva,LMP Simmons,1,0,1,48,112,2,2,2,4,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-42,LMP Simmons,PWH de Silva,N Pooran,0,0,0,48,112,21,19,3,5,7,lbw,LMP Simmons,,-,"{'by': 'West Indies', 'umpire': 'LS Reifer', 'batter': 'LMP Simmons', 'decision': 'struck down'}",bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-43,JO Holder,PWH de Silva,N Pooran,1,0,1,49,111,1,1,3,6,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-44,JO Holder,PADLR Sandakan,N Pooran,1,0,1,50,110,2,2,3,1,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-45,N Pooran,PADLR Sandakan,JO Holder,0,0,0,50,110,2,3,3,2,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-46,N Pooran,PADLR Sandakan,JO Holder,0,0,0,50,110,2,4,3,3,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-47,N Pooran,PADLR Sandakan,JO Holder,1,0,1,51,109,3,5,3,4,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-48,JO Holder,PADLR Sandakan,N Pooran,1,0,1,52,108,3,3,3,5,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-49,N Pooran,PADLR Sandakan,JO Holder,1,0,1,53,107,4,6,3,6,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-50,N Pooran,MD Gunathilaka,JO Holder,1,0,1,54,106,5,7,3,1,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-51,JO Holder,MD Gunathilaka,N Pooran,6,0,6,60,100,9,4,3,2,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-52,JO Holder,MD Gunathilaka,N Pooran,0,0,0,60,100,9,5,4,3,9,caught,JO Holder,A Dananjaya,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-53,N Pooran,MD Gunathilaka,DJ Bravo,0,0,0,60,100,5,8,4,4,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-54,N Pooran,MD Gunathilaka,DJ Bravo,0,0,0,60,100,5,9,4,5,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-55,N Pooran,MD Gunathilaka,DJ Bravo,1,0,1,61,99,6,10,4,6,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-56,N Pooran,PADLR Sandakan,DJ Bravo,1,0,1,62,98,7,11,4,1,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-57,DJ Bravo,PADLR Sandakan,N Pooran,0,0,0,62,98,0,1,4,2,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-58,DJ Bravo,PADLR Sandakan,N Pooran,1,0,1,63,97,1,2,4,3,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-59,N Pooran,PADLR Sandakan,DJ Bravo,0,0,0,63,97,7,12,4,4,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-60,N Pooran,PADLR Sandakan,DJ Bravo,1,0,1,64,96,8,13,4,5,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-61,DJ Bravo,PADLR Sandakan,N Pooran,1,0,1,65,95,2,3,4,6,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-62,DJ Bravo,PVD Chameera,N Pooran,0,0,0,65,95,2,4,5,1,11,caught,DJ Bravo,AD Mathews,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-63,KA Pollard,PVD Chameera,N Pooran,0,0,0,65,95,0,1,5,2,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-64,KA Pollard,PVD Chameera,N Pooran,1,0,1,66,94,1,2,5,3,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-65,N Pooran,PVD Chameera,KA Pollard,0,0,0,66,94,8,14,5,4,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-66,N Pooran,PVD Chameera,KA Pollard,0,0,0,66,94,8,15,6,5,11,bowled,N Pooran,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-67,FA Allen,PVD Chameera,KA Pollard,0,0,0,66,94,0,1,6,6,11,0,,,-,"{'by': 'West Indies', 'umpire': 'LS Reifer', 'batter': 'FA Allen', 'decision': 'upheld'}",bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-68,KA Pollard,PWH de Silva,FA Allen,6,0,6,72,88,7,3,6,1,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-69,KA Pollard,PWH de Silva,FA Allen,0,0,0,72,88,7,4,6,2,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-70,KA Pollard,PWH de Silva,FA Allen,1,0,1,73,87,8,5,6,3,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-71,FA Allen,PWH de Silva,KA Pollard,0,0,0,73,87,0,2,6,4,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-72,FA Allen,PWH de Silva,KA Pollard,0,0,0,73,87,0,3,6,5,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-73,FA Allen,PWH de Silva,KA Pollard,1,0,1,74,86,1,4,6,6,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-74,FA Allen,A Dananjaya,KA Pollard,0,0,0,74,86,1,5,6,1,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-75,FA Allen,A Dananjaya,KA Pollard,6,0,6,80,80,7,6,6,2,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-76,FA Allen,A Dananjaya,KA Pollard,0,0,0,80,80,7,7,6,3,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-77,FA Allen,A Dananjaya,KA Pollard,0,0,0,80,80,7,8,6,4,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-78,FA Allen,A Dananjaya,KA Pollard,1,0,1,81,79,8,9,6,5,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-79,KA Pollard,A Dananjaya,FA Allen,0,0,0,81,79,8,6,6,6,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-80,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,10,6,1,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-81,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,11,6,2,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-82,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,12,6,3,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-83,FA Allen,PWH de Silva,KA Pollard,1,0,1,82,78,9,13,6,4,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-84,KA Pollard,PWH de Silva,FA Allen,0,0,0,82,78,8,7,6,5,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-85,KA Pollard,PWH de Silva,FA Allen,0,0,0,82,78,8,8,6,6,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-86,FA Allen,PVD Chameera,KA Pollard,1,0,1,83,77,10,14,6,1,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-87,KA Pollard,PVD Chameera,FA Allen,1,0,1,84,76,9,9,6,2,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-88,FA Allen,PVD Chameera,KA Pollard,1,0,1,85,75,11,15,6,3,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-89,KA Pollard,PVD Chameera,FA Allen,1,0,1,86,74,10,10,6,4,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-90,FA Allen,PVD Chameera,KA Pollard,1,0,1,87,73,12,16,6,5,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-91,KA Pollard,PVD Chameera,FA Allen,1,0,1,88,72,11,11,6,6,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-92,KA Pollard,PWH de Silva,FA Allen,1,0,1,89,71,12,12,6,1,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-93,FA Allen,PWH de Silva,KA Pollard,0,0,0,89,71,12,17,7,2,16,lbw,FA Allen,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-94,K Sinclair,PWH de Silva,KA Pollard,0,0,0,89,71,0,1,7,3,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-95,K Sinclair,PWH de Silva,KA Pollard,1,0,1,90,70,1,2,7,4,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-96,KA Pollard,PWH de Silva,K Sinclair,1,0,1,91,69,13,13,7,5,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-97,K Sinclair,PWH de Silva,KA Pollard,1,0,1,92,68,2,3,7,6,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-98,K Sinclair,PADLR Sandakan,KA Pollard,0,0,0,92,68,2,4,7,1,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-99,K Sinclair,PADLR Sandakan,KA Pollard,0,0,0,92,68,2,5,7,2,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-100,K Sinclair,PADLR Sandakan,KA Pollard,1,0,1,93,67,3,6,7,3,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-101,KA Pollard,PADLR Sandakan,K Sinclair,0,0,0,93,67,13,14,7,4,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-102,KA Pollard,PADLR Sandakan,K Sinclair,0,0,0,93,67,13,15,8,5,17,caught,KA Pollard,LD Chandimal,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-103,K Sinclair,PADLR Sandakan,OC McCoy,0,0,0,93,67,3,7,8,6,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-104,OC McCoy,NLTC Perera,K Sinclair,6,0,6,99,61,6,1,8,1,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-105,OC McCoy,NLTC Perera,K Sinclair,2,0,2,101,59,8,2,8,2,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-106,OC McCoy,NLTC Perera,K Sinclair,6,0,6,107,53,14,3,8,3,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-107,OC McCoy,NLTC Perera,K Sinclair,4,0,4,111,49,18,4,8,4,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-108,OC McCoy,NLTC Perera,K Sinclair,4,0,4,115,45,22,5,8,5,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-109,OC McCoy,NLTC Perera,K Sinclair,1,0,1,116,44,23,6,8,6,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-110,OC McCoy,PADLR Sandakan,K Sinclair,0,0,0,116,44,23,7,9,1,19,bowled,OC McCoy,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-111,FH Edwards,PADLR Sandakan,K Sinclair,0,0,0,116,44,0,1,9,2,19,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-112,FH Edwards,PADLR Sandakan,K Sinclair,1,0,1,117,43,1,2,9,3,19,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
-113,K Sinclair,PADLR Sandakan,FH Edwards,0,0,0,117,43,3,8,10,4,19,caught,K Sinclair,P Nissanka,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+0,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,1,0,1,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+1,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,2,0,2,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+2,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,3,0,3,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+3,LMP Simmons,A Dananjaya,E Lewis,0,0,0,0,160,0,4,0,4,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+4,LMP Simmons,A Dananjaya,E Lewis,1,0,1,1,159,1,5,0,5,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+5,E Lewis,A Dananjaya,LMP Simmons,0,0,0,1,159,0,1,0,6,0,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+6,LMP Simmons,PVD Chameera,E Lewis,0,0,0,1,159,1,6,0,1,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+7,LMP Simmons,PVD Chameera,E Lewis,1,0,1,2,158,2,7,0,2,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+8,E Lewis,PVD Chameera,LMP Simmons,0,0,0,2,158,0,2,0,3,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+9,E Lewis,PVD Chameera,LMP Simmons,2,0,2,4,156,2,3,0,4,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+10,E Lewis,PVD Chameera,LMP Simmons,0,0,0,4,156,2,4,0,5,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+11,E Lewis,PVD Chameera,LMP Simmons,4,0,4,8,152,6,5,0,6,1,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+12,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,8,0,1,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+13,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,9,0,2,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+14,LMP Simmons,A Dananjaya,E Lewis,0,0,0,8,152,2,10,0,3,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+15,LMP Simmons,A Dananjaya,E Lewis,1,0,1,9,151,3,11,0,4,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+16,E Lewis,A Dananjaya,LMP Simmons,0,0,0,9,151,6,6,1,5,2,bowled,E Lewis,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+17,CH Gayle,A Dananjaya,LMP Simmons,1,0,1,10,150,1,1,1,6,2,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+18,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,10,150,1,2,1,1,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+19,CH Gayle,PVD Chameera,LMP Simmons,0,1,1,11,149,1,3,1,2,3,0,,,noballs,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+20,CH Gayle,PVD Chameera,LMP Simmons,0,1,1,12,148,1,4,1,3,3,0,,,noballs,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+21,CH Gayle,PVD Chameera,LMP Simmons,4,0,4,16,144,5,5,1,4,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+22,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,6,1,5,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+23,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,7,1,6,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+24,CH Gayle,PVD Chameera,LMP Simmons,0,0,0,16,144,5,8,1,7,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+25,CH Gayle,PVD Chameera,LMP Simmons,6,0,6,22,138,11,9,1,8,3,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+26,LMP Simmons,A Dananjaya,CH Gayle,1,0,1,23,137,4,12,1,1,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+27,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,23,137,11,10,1,2,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+28,CH Gayle,A Dananjaya,LMP Simmons,1,0,1,24,136,12,11,1,3,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+29,LMP Simmons,A Dananjaya,CH Gayle,1,0,1,25,135,5,13,1,4,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+30,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,25,135,12,12,1,5,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+31,CH Gayle,A Dananjaya,LMP Simmons,0,0,0,25,135,12,13,1,6,4,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+32,LMP Simmons,NLTC Perera,CH Gayle,6,0,6,31,129,11,14,1,1,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+33,LMP Simmons,NLTC Perera,CH Gayle,1,0,1,32,128,12,15,1,2,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+34,CH Gayle,NLTC Perera,LMP Simmons,4,0,4,36,124,16,14,1,3,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+35,CH Gayle,NLTC Perera,LMP Simmons,0,1,1,37,123,16,15,1,4,5,0,,,legbyes,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+36,LMP Simmons,NLTC Perera,CH Gayle,4,0,4,41,119,16,16,1,5,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+37,LMP Simmons,NLTC Perera,CH Gayle,4,0,4,45,115,20,17,1,6,5,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+38,CH Gayle,PWH de Silva,LMP Simmons,0,0,0,45,115,16,16,2,1,6,caught,CH Gayle,KNA Bandara,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+39,N Pooran,PWH de Silva,LMP Simmons,1,0,1,46,114,1,1,2,2,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+40,LMP Simmons,PWH de Silva,N Pooran,1,0,1,47,113,21,18,2,3,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+41,N Pooran,PWH de Silva,LMP Simmons,1,0,1,48,112,2,2,2,4,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+42,LMP Simmons,PWH de Silva,N Pooran,0,0,0,48,112,21,19,3,5,6,lbw,LMP Simmons,,-,"{'by': 'West Indies', 'umpire': 'LS Reifer', 'batter': 'LMP Simmons', 'decision': 'struck down'}",bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+43,JO Holder,PWH de Silva,N Pooran,1,0,1,49,111,1,1,3,6,6,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+44,JO Holder,PADLR Sandakan,N Pooran,1,0,1,50,110,2,2,3,1,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+45,N Pooran,PADLR Sandakan,JO Holder,0,0,0,50,110,2,3,3,2,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+46,N Pooran,PADLR Sandakan,JO Holder,0,0,0,50,110,2,4,3,3,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+47,N Pooran,PADLR Sandakan,JO Holder,1,0,1,51,109,3,5,3,4,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+48,JO Holder,PADLR Sandakan,N Pooran,1,0,1,52,108,3,3,3,5,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+49,N Pooran,PADLR Sandakan,JO Holder,1,0,1,53,107,4,6,3,6,7,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+50,N Pooran,MD Gunathilaka,JO Holder,1,0,1,54,106,5,7,3,1,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+51,JO Holder,MD Gunathilaka,N Pooran,6,0,6,60,100,9,4,3,2,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+52,JO Holder,MD Gunathilaka,N Pooran,0,0,0,60,100,9,5,4,3,8,caught,JO Holder,A Dananjaya,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+53,N Pooran,MD Gunathilaka,DJ Bravo,0,0,0,60,100,5,8,4,4,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+54,N Pooran,MD Gunathilaka,DJ Bravo,0,0,0,60,100,5,9,4,5,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+55,N Pooran,MD Gunathilaka,DJ Bravo,1,0,1,61,99,6,10,4,6,8,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+56,N Pooran,PADLR Sandakan,DJ Bravo,1,0,1,62,98,7,11,4,1,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+57,DJ Bravo,PADLR Sandakan,N Pooran,0,0,0,62,98,0,1,4,2,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+58,DJ Bravo,PADLR Sandakan,N Pooran,1,0,1,63,97,1,2,4,3,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+59,N Pooran,PADLR Sandakan,DJ Bravo,0,0,0,63,97,7,12,4,4,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+60,N Pooran,PADLR Sandakan,DJ Bravo,1,0,1,64,96,8,13,4,5,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+61,DJ Bravo,PADLR Sandakan,N Pooran,1,0,1,65,95,2,3,4,6,9,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+62,DJ Bravo,PVD Chameera,N Pooran,0,0,0,65,95,2,4,5,1,10,caught,DJ Bravo,AD Mathews,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+63,KA Pollard,PVD Chameera,N Pooran,0,0,0,65,95,0,1,5,2,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+64,KA Pollard,PVD Chameera,N Pooran,1,0,1,66,94,1,2,5,3,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+65,N Pooran,PVD Chameera,KA Pollard,0,0,0,66,94,8,14,5,4,10,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+66,N Pooran,PVD Chameera,KA Pollard,0,0,0,66,94,8,15,6,5,10,bowled,N Pooran,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+67,FA Allen,PVD Chameera,KA Pollard,0,0,0,66,94,0,1,6,6,10,0,,,-,"{'by': 'West Indies', 'umpire': 'LS Reifer', 'batter': 'FA Allen', 'decision': 'upheld'}",bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+68,KA Pollard,PWH de Silva,FA Allen,6,0,6,72,88,7,3,6,1,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+69,KA Pollard,PWH de Silva,FA Allen,0,0,0,72,88,7,4,6,2,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+70,KA Pollard,PWH de Silva,FA Allen,1,0,1,73,87,8,5,6,3,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+71,FA Allen,PWH de Silva,KA Pollard,0,0,0,73,87,0,2,6,4,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+72,FA Allen,PWH de Silva,KA Pollard,0,0,0,73,87,0,3,6,5,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+73,FA Allen,PWH de Silva,KA Pollard,1,0,1,74,86,1,4,6,6,11,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+74,FA Allen,A Dananjaya,KA Pollard,0,0,0,74,86,1,5,6,1,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+75,FA Allen,A Dananjaya,KA Pollard,6,0,6,80,80,7,6,6,2,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+76,FA Allen,A Dananjaya,KA Pollard,0,0,0,80,80,7,7,6,3,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+77,FA Allen,A Dananjaya,KA Pollard,0,0,0,80,80,7,8,6,4,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+78,FA Allen,A Dananjaya,KA Pollard,1,0,1,81,79,8,9,6,5,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+79,KA Pollard,A Dananjaya,FA Allen,0,0,0,81,79,8,6,6,6,12,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+80,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,10,6,1,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+81,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,11,6,2,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+82,FA Allen,PWH de Silva,KA Pollard,0,0,0,81,79,8,12,6,3,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+83,FA Allen,PWH de Silva,KA Pollard,1,0,1,82,78,9,13,6,4,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+84,KA Pollard,PWH de Silva,FA Allen,0,0,0,82,78,8,7,6,5,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+85,KA Pollard,PWH de Silva,FA Allen,0,0,0,82,78,8,8,6,6,13,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+86,FA Allen,PVD Chameera,KA Pollard,1,0,1,83,77,10,14,6,1,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+87,KA Pollard,PVD Chameera,FA Allen,1,0,1,84,76,9,9,6,2,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+88,FA Allen,PVD Chameera,KA Pollard,1,0,1,85,75,11,15,6,3,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+89,KA Pollard,PVD Chameera,FA Allen,1,0,1,86,74,10,10,6,4,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+90,FA Allen,PVD Chameera,KA Pollard,1,0,1,87,73,12,16,6,5,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+91,KA Pollard,PVD Chameera,FA Allen,1,0,1,88,72,11,11,6,6,14,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+92,KA Pollard,PWH de Silva,FA Allen,1,0,1,89,71,12,12,6,1,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+93,FA Allen,PWH de Silva,KA Pollard,0,0,0,89,71,12,17,7,2,15,lbw,FA Allen,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+94,K Sinclair,PWH de Silva,KA Pollard,0,0,0,89,71,0,1,7,3,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+95,K Sinclair,PWH de Silva,KA Pollard,1,0,1,90,70,1,2,7,4,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+96,KA Pollard,PWH de Silva,K Sinclair,1,0,1,91,69,13,13,7,5,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+97,K Sinclair,PWH de Silva,KA Pollard,1,0,1,92,68,2,3,7,6,15,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+98,K Sinclair,PADLR Sandakan,KA Pollard,0,0,0,92,68,2,4,7,1,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+99,K Sinclair,PADLR Sandakan,KA Pollard,0,0,0,92,68,2,5,7,2,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+100,K Sinclair,PADLR Sandakan,KA Pollard,1,0,1,93,67,3,6,7,3,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+101,KA Pollard,PADLR Sandakan,K Sinclair,0,0,0,93,67,13,14,7,4,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+102,KA Pollard,PADLR Sandakan,K Sinclair,0,0,0,93,67,13,15,8,5,16,caught,KA Pollard,LD Chandimal,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+103,K Sinclair,PADLR Sandakan,OC McCoy,0,0,0,93,67,3,7,8,6,16,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+104,OC McCoy,NLTC Perera,K Sinclair,6,0,6,99,61,6,1,8,1,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+105,OC McCoy,NLTC Perera,K Sinclair,2,0,2,101,59,8,2,8,2,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+106,OC McCoy,NLTC Perera,K Sinclair,6,0,6,107,53,14,3,8,3,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+107,OC McCoy,NLTC Perera,K Sinclair,4,0,4,111,49,18,4,8,4,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+108,OC McCoy,NLTC Perera,K Sinclair,4,0,4,115,45,22,5,8,5,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+109,OC McCoy,NLTC Perera,K Sinclair,1,0,1,116,44,23,6,8,6,17,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+110,OC McCoy,PADLR Sandakan,K Sinclair,0,0,0,116,44,23,7,9,1,18,bowled,OC McCoy,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+111,FH Edwards,PADLR Sandakan,K Sinclair,0,0,0,116,44,0,1,9,2,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+112,FH Edwards,PADLR Sandakan,K Sinclair,1,0,1,117,43,1,2,9,3,18,0,,,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
+113,K Sinclair,PADLR Sandakan,FH Edwards,0,0,0,117,43,3,8,10,4,18,caught,K Sinclair,P Nissanka,-,,bat,Sri Lanka,2,"Coolidge Cricket Ground, Antigua",2021,03,Sri Lanka_West Indies_2021-03-05,Sri Lanka,West Indies,Sri Lanka,117
