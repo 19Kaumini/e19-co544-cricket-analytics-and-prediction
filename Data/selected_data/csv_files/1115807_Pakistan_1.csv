@@ -1,122 +1,122 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Fakhar Zaman,SHA Rance,Umar Amin,1,0,1,1,242,1,1,0,1,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-1,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,1,0,2,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-2,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,2,0,3,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-3,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,3,0,4,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-4,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,4,0,5,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-5,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,5,0,6,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-6,Fakhar Zaman,TG Southee,Umar Amin,2,0,2,3,240,3,2,0,1,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-7,Fakhar Zaman,TG Southee,Umar Amin,0,0,0,3,240,3,3,0,2,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-8,Fakhar Zaman,TG Southee,Umar Amin,0,1,1,4,239,3,4,0,3,2,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-9,Fakhar Zaman,TG Southee,Umar Amin,0,0,0,4,239,3,5,1,4,2,-,caught,Fakhar Zaman,AK Kitchen,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-10,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,1,1,5,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-11,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,2,1,6,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-12,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,3,1,7,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-13,Umar Amin,SHA Rance,Mohammad Nawaz (3),0,0,0,4,239,0,6,1,1,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-14,Umar Amin,SHA Rance,Mohammad Nawaz (3),0,0,0,4,239,0,7,2,2,3,-,caught,Umar Amin,AK Kitchen,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-15,Mohammad Nawaz (3),SHA Rance,Haris Sohail,4,0,4,8,235,4,4,2,3,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-16,Mohammad Nawaz (3),SHA Rance,Haris Sohail,0,0,0,8,235,4,5,2,4,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-17,Mohammad Nawaz (3),SHA Rance,Haris Sohail,0,0,0,8,235,4,6,2,5,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-18,Mohammad Nawaz (3),SHA Rance,Haris Sohail,2,0,2,10,233,6,7,2,6,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-19,Haris Sohail,TG Southee,Mohammad Nawaz (3),1,0,1,11,232,1,1,2,1,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-20,Mohammad Nawaz (3),TG Southee,Haris Sohail,1,0,1,12,231,7,8,2,2,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-21,Haris Sohail,TG Southee,Mohammad Nawaz (3),0,0,0,12,231,1,2,2,3,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-22,Haris Sohail,TG Southee,Mohammad Nawaz (3),3,0,3,15,228,4,3,2,4,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-23,Mohammad Nawaz (3),TG Southee,Haris Sohail,0,0,0,15,228,7,9,3,5,4,-,caught,Mohammad Nawaz (3),C Munro,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-24,Babar Azam,TG Southee,Haris Sohail,0,0,0,15,228,0,1,3,6,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-25,Haris Sohail,C de Grandhomme,Babar Azam,1,0,1,16,227,5,4,3,1,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-26,Babar Azam,C de Grandhomme,Haris Sohail,0,0,0,16,227,0,2,3,2,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-27,Babar Azam,C de Grandhomme,Haris Sohail,1,0,1,17,226,1,3,3,3,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-28,Haris Sohail,C de Grandhomme,Babar Azam,0,0,0,17,226,5,5,3,4,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-29,Haris Sohail,C de Grandhomme,Babar Azam,4,0,4,21,222,9,6,3,5,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-30,Haris Sohail,C de Grandhomme,Babar Azam,0,0,0,21,222,9,7,3,6,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-31,Babar Azam,AK Kitchen,Haris Sohail,1,0,1,22,221,2,4,3,1,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-32,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,8,3,2,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-33,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,9,3,3,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-34,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,10,4,4,6,-,caught,Haris Sohail,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-35,Sarfraz Ahmed,AK Kitchen,Babar Azam,1,0,1,23,220,1,1,4,5,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-36,Babar Azam,AK Kitchen,Sarfraz Ahmed,1,0,1,24,219,3,5,4,6,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-37,Babar Azam,IS Sodhi,Sarfraz Ahmed,3,0,3,27,216,6,6,4,1,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-38,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,27,216,1,2,4,2,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-39,Sarfraz Ahmed,IS Sodhi,Babar Azam,4,0,4,31,212,5,3,4,3,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-40,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,4,4,4,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-41,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,5,4,5,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-42,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,6,4,6,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-43,Babar Azam,MJ Santner,Sarfraz Ahmed,0,0,0,31,212,6,7,4,1,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-44,Babar Azam,MJ Santner,Sarfraz Ahmed,1,0,1,32,211,7,8,4,2,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-45,Sarfraz Ahmed,MJ Santner,Babar Azam,1,0,1,33,210,6,7,4,3,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-46,Babar Azam,MJ Santner,Sarfraz Ahmed,1,0,1,34,209,8,9,4,4,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-47,Sarfraz Ahmed,MJ Santner,Babar Azam,0,0,0,34,209,6,8,4,5,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-48,Sarfraz Ahmed,MJ Santner,Babar Azam,1,0,1,35,208,7,9,4,6,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-49,Sarfraz Ahmed,IS Sodhi,Babar Azam,1,0,1,36,207,8,10,4,1,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-50,Babar Azam,IS Sodhi,Sarfraz Ahmed,1,0,1,37,206,9,10,4,2,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-51,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,37,206,8,11,4,3,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-52,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,37,206,8,12,4,4,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-53,Sarfraz Ahmed,IS Sodhi,Babar Azam,1,0,1,38,205,9,13,4,5,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-54,Babar Azam,IS Sodhi,Sarfraz Ahmed,0,0,0,38,205,9,11,4,6,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-55,Sarfraz Ahmed,MJ Santner,Babar Azam,0,0,0,38,205,9,14,5,1,10,-,stumped,Sarfraz Ahmed,GD Phillips,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-56,Shadab Khan,MJ Santner,Babar Azam,0,0,0,38,205,0,1,6,2,10,-,caught,Shadab Khan,GD Phillips,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-57,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,38,205,0,1,6,3,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-58,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,38,205,0,2,6,4,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-59,Faheem Ashraf,MJ Santner,Babar Azam,1,0,1,39,204,1,3,6,5,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-60,Babar Azam,MJ Santner,Faheem Ashraf,0,0,0,39,204,9,12,6,6,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-61,Faheem Ashraf,IS Sodhi,Babar Azam,0,1,1,40,203,1,4,6,1,11,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-62,Faheem Ashraf,IS Sodhi,Babar Azam,0,0,0,40,203,1,5,6,2,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-63,Faheem Ashraf,IS Sodhi,Babar Azam,1,0,1,41,202,2,6,6,3,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-64,Babar Azam,IS Sodhi,Faheem Ashraf,0,0,0,41,202,9,13,6,4,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-65,Babar Azam,IS Sodhi,Faheem Ashraf,1,0,1,42,201,10,14,6,5,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-66,Faheem Ashraf,IS Sodhi,Babar Azam,1,0,1,43,200,3,7,6,6,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-67,Babar Azam,IS Sodhi,Faheem Ashraf,1,0,1,44,199,11,15,6,7,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-68,Babar Azam,MJ Santner,Faheem Ashraf,0,0,0,44,199,11,16,6,1,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-69,Babar Azam,MJ Santner,Faheem Ashraf,1,0,1,45,198,12,17,6,2,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-70,Faheem Ashraf,MJ Santner,Babar Azam,1,0,1,46,197,4,8,6,3,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-71,Babar Azam,MJ Santner,Faheem Ashraf,1,0,1,47,196,13,18,6,4,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-72,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,47,196,4,9,6,5,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-73,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,47,196,4,10,6,6,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-74,Babar Azam,C de Grandhomme,Faheem Ashraf,1,0,1,48,195,14,19,6,1,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-75,Faheem Ashraf,C de Grandhomme,Babar Azam,1,0,1,49,194,5,11,6,2,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-76,Babar Azam,C de Grandhomme,Faheem Ashraf,1,0,1,50,193,15,20,6,3,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-77,Faheem Ashraf,C de Grandhomme,Babar Azam,2,0,2,52,191,7,12,6,4,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-78,Faheem Ashraf,C de Grandhomme,Babar Azam,0,0,0,52,191,7,13,6,5,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-79,Faheem Ashraf,C de Grandhomme,Babar Azam,0,0,0,52,191,7,14,6,6,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-80,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,21,6,1,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-81,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,22,6,2,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-82,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,23,6,3,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-83,Babar Azam,TG Southee,Faheem Ashraf,1,0,1,53,190,16,24,6,4,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-84,Faheem Ashraf,TG Southee,Babar Azam,0,0,0,53,190,7,15,7,5,14,-,caught,Faheem Ashraf,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-85,Hasan Ali,TG Southee,Babar Azam,0,0,0,53,190,0,1,7,6,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-86,Babar Azam,IS Sodhi,Hasan Ali,1,0,1,54,189,17,25,7,1,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-87,Hasan Ali,IS Sodhi,Babar Azam,1,0,1,55,188,1,2,7,2,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-88,Babar Azam,IS Sodhi,Hasan Ali,1,0,1,56,187,18,26,7,3,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-89,Hasan Ali,IS Sodhi,Babar Azam,6,0,6,62,181,7,3,7,4,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-90,Hasan Ali,IS Sodhi,Babar Azam,0,0,0,62,181,7,4,7,5,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-91,Hasan Ali,IS Sodhi,Babar Azam,1,0,1,63,180,8,5,7,6,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-92,Hasan Ali,MJ Santner,Babar Azam,1,0,1,64,179,9,6,7,1,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-93,Babar Azam,MJ Santner,Hasan Ali,1,0,1,65,178,19,27,7,2,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-94,Hasan Ali,MJ Santner,Babar Azam,1,0,1,66,177,10,7,7,3,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-95,Babar Azam,MJ Santner,Hasan Ali,1,0,1,67,176,20,28,7,4,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-96,Hasan Ali,MJ Santner,Babar Azam,1,0,1,68,175,11,8,7,5,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-97,Babar Azam,MJ Santner,Hasan Ali,2,0,2,70,173,22,29,7,6,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-98,Hasan Ali,SHA Rance,Babar Azam,0,0,0,70,173,11,9,7,1,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-99,Hasan Ali,SHA Rance,Babar Azam,0,1,1,71,172,11,10,7,2,17,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-100,Hasan Ali,SHA Rance,Babar Azam,6,0,6,77,166,17,11,7,3,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-101,Hasan Ali,SHA Rance,Babar Azam,6,0,6,83,160,23,12,7,4,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-102,Hasan Ali,SHA Rance,Babar Azam,0,0,0,83,160,23,13,8,5,17,-,caught,Hasan Ali,TG Southee,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-103,Babar Azam,SHA Rance,Mohammad Amir,1,0,1,84,159,23,30,8,6,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-104,Mohammad Amir,SHA Rance,Babar Azam,0,0,0,84,159,0,1,8,7,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-105,Babar Azam,TG Southee,Mohammad Amir,1,0,1,85,158,24,31,8,1,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-106,Mohammad Amir,TG Southee,Babar Azam,0,0,0,85,158,0,2,8,2,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-107,Mohammad Amir,TG Southee,Babar Azam,1,0,1,86,157,1,3,8,3,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-108,Babar Azam,TG Southee,Mohammad Amir,0,0,0,86,157,24,32,8,4,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-109,Babar Azam,TG Southee,Mohammad Amir,1,0,1,87,156,25,33,8,5,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-110,Mohammad Amir,TG Southee,Babar Azam,1,0,1,88,155,2,4,8,6,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-111,Mohammad Amir,SHA Rance,Babar Azam,1,0,1,89,154,3,5,8,1,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-112,Babar Azam,SHA Rance,Mohammad Amir,0,0,0,89,154,25,34,8,2,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-113,Babar Azam,SHA Rance,Mohammad Amir,1,0,1,90,153,26,35,8,3,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-114,Mohammad Amir,SHA Rance,Babar Azam,0,0,0,90,153,3,6,9,4,19,-,caught,Mohammad Amir,TG Southee,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-115,Babar Azam,SHA Rance,Rumman Raees,2,0,2,92,151,28,36,9,5,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-116,Babar Azam,SHA Rance,Rumman Raees,1,0,1,93,150,29,37,9,6,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-117,Babar Azam,C Munro,Rumman Raees,4,0,4,97,146,33,38,9,1,20,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-118,Babar Azam,C Munro,Rumman Raees,2,0,2,99,144,35,39,9,2,20,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-119,Babar Azam,C Munro,Rumman Raees,6,0,6,105,138,41,40,9,3,20,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
-120,Babar Azam,C Munro,Rumman Raees,0,0,0,105,138,41,41,10,4,20,-,caught,Babar Azam,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+0,Fakhar Zaman,SHA Rance,Umar Amin,1,0,1,1,242,1,1,0,1,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+1,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,1,0,2,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+2,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,2,0,3,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+3,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,3,0,4,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+4,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,4,0,5,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+5,Umar Amin,SHA Rance,Fakhar Zaman,0,0,0,1,242,0,5,0,6,0,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+6,Fakhar Zaman,TG Southee,Umar Amin,2,0,2,3,240,3,2,0,1,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+7,Fakhar Zaman,TG Southee,Umar Amin,0,0,0,3,240,3,3,0,2,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+8,Fakhar Zaman,TG Southee,Umar Amin,0,1,1,4,239,3,4,0,3,1,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+9,Fakhar Zaman,TG Southee,Umar Amin,0,0,0,4,239,3,5,1,4,1,-,caught,Fakhar Zaman,AK Kitchen,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+10,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,1,1,5,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+11,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,2,1,6,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+12,Mohammad Nawaz (3),TG Southee,Umar Amin,0,0,0,4,239,0,3,1,7,1,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+13,Umar Amin,SHA Rance,Mohammad Nawaz (3),0,0,0,4,239,0,6,1,1,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+14,Umar Amin,SHA Rance,Mohammad Nawaz (3),0,0,0,4,239,0,7,2,2,2,-,caught,Umar Amin,AK Kitchen,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+15,Mohammad Nawaz (3),SHA Rance,Haris Sohail,4,0,4,8,235,4,4,2,3,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+16,Mohammad Nawaz (3),SHA Rance,Haris Sohail,0,0,0,8,235,4,5,2,4,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+17,Mohammad Nawaz (3),SHA Rance,Haris Sohail,0,0,0,8,235,4,6,2,5,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+18,Mohammad Nawaz (3),SHA Rance,Haris Sohail,2,0,2,10,233,6,7,2,6,2,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+19,Haris Sohail,TG Southee,Mohammad Nawaz (3),1,0,1,11,232,1,1,2,1,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+20,Mohammad Nawaz (3),TG Southee,Haris Sohail,1,0,1,12,231,7,8,2,2,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+21,Haris Sohail,TG Southee,Mohammad Nawaz (3),0,0,0,12,231,1,2,2,3,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+22,Haris Sohail,TG Southee,Mohammad Nawaz (3),3,0,3,15,228,4,3,2,4,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+23,Mohammad Nawaz (3),TG Southee,Haris Sohail,0,0,0,15,228,7,9,3,5,3,-,caught,Mohammad Nawaz (3),C Munro,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+24,Babar Azam,TG Southee,Haris Sohail,0,0,0,15,228,0,1,3,6,3,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+25,Haris Sohail,C de Grandhomme,Babar Azam,1,0,1,16,227,5,4,3,1,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+26,Babar Azam,C de Grandhomme,Haris Sohail,0,0,0,16,227,0,2,3,2,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+27,Babar Azam,C de Grandhomme,Haris Sohail,1,0,1,17,226,1,3,3,3,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+28,Haris Sohail,C de Grandhomme,Babar Azam,0,0,0,17,226,5,5,3,4,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+29,Haris Sohail,C de Grandhomme,Babar Azam,4,0,4,21,222,9,6,3,5,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+30,Haris Sohail,C de Grandhomme,Babar Azam,0,0,0,21,222,9,7,3,6,4,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+31,Babar Azam,AK Kitchen,Haris Sohail,1,0,1,22,221,2,4,3,1,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+32,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,8,3,2,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+33,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,9,3,3,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+34,Haris Sohail,AK Kitchen,Babar Azam,0,0,0,22,221,9,10,4,4,5,-,caught,Haris Sohail,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+35,Sarfraz Ahmed,AK Kitchen,Babar Azam,1,0,1,23,220,1,1,4,5,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+36,Babar Azam,AK Kitchen,Sarfraz Ahmed,1,0,1,24,219,3,5,4,6,5,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+37,Babar Azam,IS Sodhi,Sarfraz Ahmed,3,0,3,27,216,6,6,4,1,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+38,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,27,216,1,2,4,2,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+39,Sarfraz Ahmed,IS Sodhi,Babar Azam,4,0,4,31,212,5,3,4,3,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+40,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,4,4,4,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+41,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,5,4,5,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+42,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,31,212,5,6,4,6,6,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+43,Babar Azam,MJ Santner,Sarfraz Ahmed,0,0,0,31,212,6,7,4,1,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+44,Babar Azam,MJ Santner,Sarfraz Ahmed,1,0,1,32,211,7,8,4,2,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+45,Sarfraz Ahmed,MJ Santner,Babar Azam,1,0,1,33,210,6,7,4,3,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+46,Babar Azam,MJ Santner,Sarfraz Ahmed,1,0,1,34,209,8,9,4,4,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+47,Sarfraz Ahmed,MJ Santner,Babar Azam,0,0,0,34,209,6,8,4,5,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+48,Sarfraz Ahmed,MJ Santner,Babar Azam,1,0,1,35,208,7,9,4,6,7,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+49,Sarfraz Ahmed,IS Sodhi,Babar Azam,1,0,1,36,207,8,10,4,1,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+50,Babar Azam,IS Sodhi,Sarfraz Ahmed,1,0,1,37,206,9,10,4,2,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+51,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,37,206,8,11,4,3,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+52,Sarfraz Ahmed,IS Sodhi,Babar Azam,0,0,0,37,206,8,12,4,4,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+53,Sarfraz Ahmed,IS Sodhi,Babar Azam,1,0,1,38,205,9,13,4,5,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+54,Babar Azam,IS Sodhi,Sarfraz Ahmed,0,0,0,38,205,9,11,4,6,8,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+55,Sarfraz Ahmed,MJ Santner,Babar Azam,0,0,0,38,205,9,14,5,1,9,-,stumped,Sarfraz Ahmed,GD Phillips,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+56,Shadab Khan,MJ Santner,Babar Azam,0,0,0,38,205,0,1,6,2,9,-,caught,Shadab Khan,GD Phillips,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+57,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,38,205,0,1,6,3,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+58,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,38,205,0,2,6,4,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+59,Faheem Ashraf,MJ Santner,Babar Azam,1,0,1,39,204,1,3,6,5,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+60,Babar Azam,MJ Santner,Faheem Ashraf,0,0,0,39,204,9,12,6,6,9,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+61,Faheem Ashraf,IS Sodhi,Babar Azam,0,1,1,40,203,1,4,6,1,10,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+62,Faheem Ashraf,IS Sodhi,Babar Azam,0,0,0,40,203,1,5,6,2,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+63,Faheem Ashraf,IS Sodhi,Babar Azam,1,0,1,41,202,2,6,6,3,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+64,Babar Azam,IS Sodhi,Faheem Ashraf,0,0,0,41,202,9,13,6,4,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+65,Babar Azam,IS Sodhi,Faheem Ashraf,1,0,1,42,201,10,14,6,5,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+66,Faheem Ashraf,IS Sodhi,Babar Azam,1,0,1,43,200,3,7,6,6,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+67,Babar Azam,IS Sodhi,Faheem Ashraf,1,0,1,44,199,11,15,6,7,10,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+68,Babar Azam,MJ Santner,Faheem Ashraf,0,0,0,44,199,11,16,6,1,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+69,Babar Azam,MJ Santner,Faheem Ashraf,1,0,1,45,198,12,17,6,2,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+70,Faheem Ashraf,MJ Santner,Babar Azam,1,0,1,46,197,4,8,6,3,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+71,Babar Azam,MJ Santner,Faheem Ashraf,1,0,1,47,196,13,18,6,4,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+72,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,47,196,4,9,6,5,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+73,Faheem Ashraf,MJ Santner,Babar Azam,0,0,0,47,196,4,10,6,6,11,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+74,Babar Azam,C de Grandhomme,Faheem Ashraf,1,0,1,48,195,14,19,6,1,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+75,Faheem Ashraf,C de Grandhomme,Babar Azam,1,0,1,49,194,5,11,6,2,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+76,Babar Azam,C de Grandhomme,Faheem Ashraf,1,0,1,50,193,15,20,6,3,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+77,Faheem Ashraf,C de Grandhomme,Babar Azam,2,0,2,52,191,7,12,6,4,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+78,Faheem Ashraf,C de Grandhomme,Babar Azam,0,0,0,52,191,7,13,6,5,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+79,Faheem Ashraf,C de Grandhomme,Babar Azam,0,0,0,52,191,7,14,6,6,12,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+80,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,21,6,1,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+81,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,22,6,2,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+82,Babar Azam,TG Southee,Faheem Ashraf,0,0,0,52,191,15,23,6,3,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+83,Babar Azam,TG Southee,Faheem Ashraf,1,0,1,53,190,16,24,6,4,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+84,Faheem Ashraf,TG Southee,Babar Azam,0,0,0,53,190,7,15,7,5,13,-,caught,Faheem Ashraf,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+85,Hasan Ali,TG Southee,Babar Azam,0,0,0,53,190,0,1,7,6,13,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+86,Babar Azam,IS Sodhi,Hasan Ali,1,0,1,54,189,17,25,7,1,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+87,Hasan Ali,IS Sodhi,Babar Azam,1,0,1,55,188,1,2,7,2,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+88,Babar Azam,IS Sodhi,Hasan Ali,1,0,1,56,187,18,26,7,3,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+89,Hasan Ali,IS Sodhi,Babar Azam,6,0,6,62,181,7,3,7,4,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+90,Hasan Ali,IS Sodhi,Babar Azam,0,0,0,62,181,7,4,7,5,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+91,Hasan Ali,IS Sodhi,Babar Azam,1,0,1,63,180,8,5,7,6,14,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+92,Hasan Ali,MJ Santner,Babar Azam,1,0,1,64,179,9,6,7,1,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+93,Babar Azam,MJ Santner,Hasan Ali,1,0,1,65,178,19,27,7,2,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+94,Hasan Ali,MJ Santner,Babar Azam,1,0,1,66,177,10,7,7,3,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+95,Babar Azam,MJ Santner,Hasan Ali,1,0,1,67,176,20,28,7,4,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+96,Hasan Ali,MJ Santner,Babar Azam,1,0,1,68,175,11,8,7,5,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+97,Babar Azam,MJ Santner,Hasan Ali,2,0,2,70,173,22,29,7,6,15,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+98,Hasan Ali,SHA Rance,Babar Azam,0,0,0,70,173,11,9,7,1,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+99,Hasan Ali,SHA Rance,Babar Azam,0,1,1,71,172,11,10,7,2,16,wides,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+100,Hasan Ali,SHA Rance,Babar Azam,6,0,6,77,166,17,11,7,3,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+101,Hasan Ali,SHA Rance,Babar Azam,6,0,6,83,160,23,12,7,4,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+102,Hasan Ali,SHA Rance,Babar Azam,0,0,0,83,160,23,13,8,5,16,-,caught,Hasan Ali,TG Southee,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+103,Babar Azam,SHA Rance,Mohammad Amir,1,0,1,84,159,23,30,8,6,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+104,Mohammad Amir,SHA Rance,Babar Azam,0,0,0,84,159,0,1,8,7,16,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+105,Babar Azam,TG Southee,Mohammad Amir,1,0,1,85,158,24,31,8,1,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+106,Mohammad Amir,TG Southee,Babar Azam,0,0,0,85,158,0,2,8,2,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+107,Mohammad Amir,TG Southee,Babar Azam,1,0,1,86,157,1,3,8,3,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+108,Babar Azam,TG Southee,Mohammad Amir,0,0,0,86,157,24,32,8,4,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+109,Babar Azam,TG Southee,Mohammad Amir,1,0,1,87,156,25,33,8,5,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+110,Mohammad Amir,TG Southee,Babar Azam,1,0,1,88,155,2,4,8,6,17,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+111,Mohammad Amir,SHA Rance,Babar Azam,1,0,1,89,154,3,5,8,1,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+112,Babar Azam,SHA Rance,Mohammad Amir,0,0,0,89,154,25,34,8,2,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+113,Babar Azam,SHA Rance,Mohammad Amir,1,0,1,90,153,26,35,8,3,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+114,Mohammad Amir,SHA Rance,Babar Azam,0,0,0,90,153,3,6,9,4,18,-,caught,Mohammad Amir,TG Southee,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+115,Babar Azam,SHA Rance,Rumman Raees,2,0,2,92,151,28,36,9,5,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+116,Babar Azam,SHA Rance,Rumman Raees,1,0,1,93,150,29,37,9,6,18,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+117,Babar Azam,C Munro,Rumman Raees,4,0,4,97,146,33,38,9,1,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+118,Babar Azam,C Munro,Rumman Raees,2,0,2,99,144,35,39,9,2,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+119,Babar Azam,C Munro,Rumman Raees,6,0,6,105,138,41,40,9,3,19,-,0,,,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105
+120,Babar Azam,C Munro,Rumman Raees,0,0,0,105,138,41,41,10,4,19,-,caught,Babar Azam,TC Bruce,field,New Zealand,1,Westpac Stadium,2018,01,Pakistan_New Zealand_2018-01-22,New Zealand,Pakistan,New Zealand,105

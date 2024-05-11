@@ -1,100 +1,100 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,MJ Guptill,DJ Willey,BB McCullum,4,0,4,4,187,4,1,0,1,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-1,MJ Guptill,DJ Willey,BB McCullum,2,0,2,6,185,6,2,0,2,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-2,MJ Guptill,DJ Willey,BB McCullum,0,0,0,6,185,6,3,1,3,bowled,MJ Guptill,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-3,KS Williamson,DJ Willey,BB McCullum,1,0,1,7,184,1,1,1,4,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-4,BB McCullum,DJ Willey,KS Williamson,4,0,4,11,180,4,1,1,5,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-5,BB McCullum,DJ Willey,KS Williamson,0,0,0,11,180,4,2,1,6,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-6,KS Williamson,ST Finn,BB McCullum,1,0,1,12,179,2,2,1,1,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-7,BB McCullum,ST Finn,KS Williamson,4,0,4,16,175,8,3,1,2,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-8,BB McCullum,ST Finn,KS Williamson,0,0,0,16,175,8,4,1,3,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-9,BB McCullum,ST Finn,KS Williamson,6,0,6,22,169,14,5,1,4,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-10,BB McCullum,ST Finn,KS Williamson,1,0,1,23,168,15,6,1,5,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-11,KS Williamson,ST Finn,BB McCullum,0,0,0,23,168,2,3,1,6,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-12,BB McCullum,DJ Willey,KS Williamson,0,0,0,23,168,15,7,1,1,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-13,BB McCullum,DJ Willey,KS Williamson,6,0,6,29,162,21,8,1,2,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-14,BB McCullum,DJ Willey,KS Williamson,0,1,1,30,161,21,9,1,3,0,,,3,legbyes,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-15,KS Williamson,DJ Willey,BB McCullum,2,0,2,32,159,4,4,1,4,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-16,KS Williamson,DJ Willey,BB McCullum,1,0,1,33,158,5,5,1,5,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-17,BB McCullum,DJ Willey,KS Williamson,1,0,1,34,157,22,10,1,6,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-18,BB McCullum,MA Wood,KS Williamson,6,0,6,40,151,28,11,1,1,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-19,BB McCullum,MA Wood,KS Williamson,6,0,6,46,145,34,12,1,2,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-20,BB McCullum,MA Wood,KS Williamson,0,0,0,46,145,34,13,1,3,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-21,BB McCullum,MA Wood,KS Williamson,1,0,1,47,144,35,14,1,4,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-22,KS Williamson,MA Wood,BB McCullum,1,0,1,48,143,6,6,1,5,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-23,BB McCullum,MA Wood,KS Williamson,0,0,0,48,143,35,15,2,6,bowled,BB McCullum,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-24,KS Williamson,AU Rashid,LRPL Taylor,4,0,4,52,139,10,7,2,1,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-25,KS Williamson,AU Rashid,LRPL Taylor,4,0,4,56,135,14,8,2,2,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-26,KS Williamson,AU Rashid,LRPL Taylor,2,0,2,58,133,16,9,2,3,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-27,KS Williamson,AU Rashid,LRPL Taylor,1,0,1,59,132,17,10,2,4,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-28,LRPL Taylor,AU Rashid,KS Williamson,4,0,4,63,128,4,1,2,5,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-29,LRPL Taylor,AU Rashid,KS Williamson,1,0,1,64,127,5,2,2,6,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-30,LRPL Taylor,MA Wood,KS Williamson,1,0,1,65,126,6,3,2,1,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-31,KS Williamson,MA Wood,LRPL Taylor,1,0,1,66,125,18,11,2,2,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-32,LRPL Taylor,MA Wood,KS Williamson,1,0,1,67,124,7,4,2,3,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-33,KS Williamson,MA Wood,LRPL Taylor,4,0,4,71,120,22,12,2,4,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-34,KS Williamson,MA Wood,LRPL Taylor,1,0,1,72,119,23,13,2,5,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-35,LRPL Taylor,MA Wood,KS Williamson,1,0,1,73,118,8,5,2,6,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-36,LRPL Taylor,ST Finn,KS Williamson,1,0,1,74,117,9,6,2,1,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-37,KS Williamson,ST Finn,LRPL Taylor,1,0,1,75,116,24,14,2,2,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-38,LRPL Taylor,ST Finn,KS Williamson,4,0,4,79,112,13,7,2,3,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-39,LRPL Taylor,ST Finn,KS Williamson,2,0,2,81,110,15,8,2,4,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-40,LRPL Taylor,ST Finn,KS Williamson,1,0,1,82,109,16,9,2,5,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-41,KS Williamson,ST Finn,LRPL Taylor,0,0,0,82,109,24,15,2,6,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-42,LRPL Taylor,BA Stokes,KS Williamson,1,0,1,83,108,17,10,2,1,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-43,KS Williamson,BA Stokes,LRPL Taylor,4,0,4,87,104,28,16,2,2,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-44,KS Williamson,BA Stokes,LRPL Taylor,0,0,0,87,104,28,17,2,3,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-45,KS Williamson,BA Stokes,LRPL Taylor,1,0,1,88,103,29,18,2,4,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-46,LRPL Taylor,BA Stokes,KS Williamson,0,0,0,88,103,17,11,2,5,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-47,LRPL Taylor,BA Stokes,KS Williamson,0,0,0,88,103,17,12,2,6,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-48,KS Williamson,AU Rashid,LRPL Taylor,1,0,1,89,102,30,19,2,1,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-49,LRPL Taylor,AU Rashid,KS Williamson,0,0,0,89,102,17,13,3,2,caught,LRPL Taylor,DJ Willey,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-50,KS Williamson,AU Rashid,C Munro,4,0,4,93,98,34,20,3,3,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-51,KS Williamson,AU Rashid,C Munro,0,0,0,93,98,34,21,3,4,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-52,KS Williamson,AU Rashid,C Munro,1,0,1,94,97,35,22,3,5,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-53,C Munro,AU Rashid,KS Williamson,1,0,1,95,96,1,1,3,6,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-54,C Munro,BA Stokes,KS Williamson,0,0,0,95,96,1,2,4,1,bowled,C Munro,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-55,L Ronchi,BA Stokes,KS Williamson,4,0,4,99,92,4,1,4,2,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-56,L Ronchi,BA Stokes,KS Williamson,1,0,1,100,91,5,2,4,3,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-57,KS Williamson,BA Stokes,L Ronchi,1,0,1,101,90,36,23,4,4,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-58,L Ronchi,BA Stokes,KS Williamson,0,0,0,101,90,5,3,4,5,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-59,L Ronchi,BA Stokes,KS Williamson,0,0,0,101,90,5,4,5,6,caught,L Ronchi,JM Bairstow,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-60,MJ Santner,AU Rashid,KS Williamson,0,0,0,101,90,0,1,5,1,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-61,MJ Santner,AU Rashid,KS Williamson,2,0,2,103,88,2,2,5,2,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-62,MJ Santner,AU Rashid,KS Williamson,0,0,0,103,88,2,3,5,3,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-63,MJ Santner,AU Rashid,KS Williamson,1,0,1,104,87,3,4,5,4,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-64,KS Williamson,AU Rashid,MJ Santner,1,0,1,105,86,37,24,5,5,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-65,MJ Santner,AU Rashid,KS Williamson,0,0,0,105,86,3,5,5,6,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-66,KS Williamson,BA Stokes,MJ Santner,0,0,0,105,86,37,25,5,1,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-67,KS Williamson,BA Stokes,MJ Santner,4,0,4,109,82,41,26,5,2,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-68,KS Williamson,BA Stokes,MJ Santner,0,0,0,109,82,41,27,5,3,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-69,KS Williamson,BA Stokes,MJ Santner,4,0,4,113,78,45,28,5,4,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-70,KS Williamson,BA Stokes,MJ Santner,0,0,0,113,78,45,29,5,5,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-71,KS Williamson,BA Stokes,MJ Santner,4,0,4,117,74,49,30,5,6,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-72,MJ Santner,AU Rashid,KS Williamson,1,0,1,118,73,4,6,5,1,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-73,KS Williamson,AU Rashid,MJ Santner,1,0,1,119,72,50,31,5,2,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-74,MJ Santner,AU Rashid,KS Williamson,1,0,1,120,71,5,7,5,3,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-75,KS Williamson,AU Rashid,MJ Santner,1,0,1,121,70,51,32,5,4,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-76,MJ Santner,AU Rashid,KS Williamson,1,0,1,122,69,6,8,5,5,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-77,KS Williamson,AU Rashid,MJ Santner,1,0,1,123,68,52,33,5,6,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-78,KS Williamson,ST Finn,MJ Santner,1,0,1,124,67,53,34,5,1,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-79,MJ Santner,ST Finn,KS Williamson,0,0,0,124,67,6,9,5,2,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-80,MJ Santner,ST Finn,KS Williamson,1,0,1,125,66,7,10,5,3,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-81,KS Williamson,ST Finn,MJ Santner,1,0,1,126,65,54,35,5,4,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-82,MJ Santner,ST Finn,KS Williamson,0,0,0,126,65,7,11,5,5,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-83,MJ Santner,ST Finn,KS Williamson,2,0,2,128,63,9,12,5,6,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-84,KS Williamson,MA Wood,MJ Santner,2,0,2,130,61,56,36,5,1,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-85,KS Williamson,MA Wood,MJ Santner,1,0,1,131,60,57,37,5,2,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-86,MJ Santner,MA Wood,KS Williamson,0,0,0,131,60,9,13,6,3,bowled,MJ Santner,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-87,NL McCullum,MA Wood,KS Williamson,0,0,0,131,60,0,1,6,4,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-88,NL McCullum,MA Wood,KS Williamson,0,0,0,131,60,0,2,7,5,run out,KS Williamson,DJ Willey,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-89,TG Southee,MA Wood,NL McCullum,0,0,0,131,60,0,1,8,6,caught,TG Southee,EJG Morgan,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-90,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,3,8,1,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-91,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,4,8,2,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-92,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,5,8,3,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-93,NL McCullum,ST Finn,MJ Henry,2,0,2,133,58,2,6,8,4,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-94,NL McCullum,ST Finn,MJ Henry,0,0,0,133,58,2,7,8,5,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-95,NL McCullum,ST Finn,MJ Henry,1,0,1,134,57,3,8,8,6,0,,,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-96,NL McCullum,DJ Willey,MJ Henry,0,1,1,135,56,3,9,8,1,0,,,17,wides,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-97,NL McCullum,DJ Willey,MJ Henry,0,0,0,135,56,3,10,9,2,caught,NL McCullum,ST Finn,17,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
-98,MJ McClenaghan,DJ Willey,MJ Henry,0,0,0,135,56,0,1,10,3,caught,MJ McClenaghan,JM Bairstow,17,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+0,MJ Guptill,DJ Willey,BB McCullum,4,0,4,4,187,4,1,0,1,0,,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+1,MJ Guptill,DJ Willey,BB McCullum,2,0,2,6,185,6,2,0,2,0,,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+2,MJ Guptill,DJ Willey,BB McCullum,0,0,0,6,185,6,3,1,3,bowled,MJ Guptill,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+3,KS Williamson,DJ Willey,BB McCullum,1,0,1,7,184,1,1,1,4,0,,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+4,BB McCullum,DJ Willey,KS Williamson,4,0,4,11,180,4,1,1,5,0,,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+5,BB McCullum,DJ Willey,KS Williamson,0,0,0,11,180,4,2,1,6,0,,,0,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+6,KS Williamson,ST Finn,BB McCullum,1,0,1,12,179,2,2,1,1,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+7,BB McCullum,ST Finn,KS Williamson,4,0,4,16,175,8,3,1,2,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+8,BB McCullum,ST Finn,KS Williamson,0,0,0,16,175,8,4,1,3,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+9,BB McCullum,ST Finn,KS Williamson,6,0,6,22,169,14,5,1,4,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+10,BB McCullum,ST Finn,KS Williamson,1,0,1,23,168,15,6,1,5,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+11,KS Williamson,ST Finn,BB McCullum,0,0,0,23,168,2,3,1,6,0,,,1,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+12,BB McCullum,DJ Willey,KS Williamson,0,0,0,23,168,15,7,1,1,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+13,BB McCullum,DJ Willey,KS Williamson,6,0,6,29,162,21,8,1,2,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+14,BB McCullum,DJ Willey,KS Williamson,0,1,1,30,161,21,9,1,3,0,,,2,legbyes,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+15,KS Williamson,DJ Willey,BB McCullum,2,0,2,32,159,4,4,1,4,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+16,KS Williamson,DJ Willey,BB McCullum,1,0,1,33,158,5,5,1,5,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+17,BB McCullum,DJ Willey,KS Williamson,1,0,1,34,157,22,10,1,6,0,,,2,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+18,BB McCullum,MA Wood,KS Williamson,6,0,6,40,151,28,11,1,1,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+19,BB McCullum,MA Wood,KS Williamson,6,0,6,46,145,34,12,1,2,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+20,BB McCullum,MA Wood,KS Williamson,0,0,0,46,145,34,13,1,3,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+21,BB McCullum,MA Wood,KS Williamson,1,0,1,47,144,35,14,1,4,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+22,KS Williamson,MA Wood,BB McCullum,1,0,1,48,143,6,6,1,5,0,,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+23,BB McCullum,MA Wood,KS Williamson,0,0,0,48,143,35,15,2,6,bowled,BB McCullum,,3,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+24,KS Williamson,AU Rashid,LRPL Taylor,4,0,4,52,139,10,7,2,1,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+25,KS Williamson,AU Rashid,LRPL Taylor,4,0,4,56,135,14,8,2,2,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+26,KS Williamson,AU Rashid,LRPL Taylor,2,0,2,58,133,16,9,2,3,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+27,KS Williamson,AU Rashid,LRPL Taylor,1,0,1,59,132,17,10,2,4,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+28,LRPL Taylor,AU Rashid,KS Williamson,4,0,4,63,128,4,1,2,5,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+29,LRPL Taylor,AU Rashid,KS Williamson,1,0,1,64,127,5,2,2,6,0,,,4,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+30,LRPL Taylor,MA Wood,KS Williamson,1,0,1,65,126,6,3,2,1,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+31,KS Williamson,MA Wood,LRPL Taylor,1,0,1,66,125,18,11,2,2,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+32,LRPL Taylor,MA Wood,KS Williamson,1,0,1,67,124,7,4,2,3,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+33,KS Williamson,MA Wood,LRPL Taylor,4,0,4,71,120,22,12,2,4,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+34,KS Williamson,MA Wood,LRPL Taylor,1,0,1,72,119,23,13,2,5,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+35,LRPL Taylor,MA Wood,KS Williamson,1,0,1,73,118,8,5,2,6,0,,,5,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+36,LRPL Taylor,ST Finn,KS Williamson,1,0,1,74,117,9,6,2,1,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+37,KS Williamson,ST Finn,LRPL Taylor,1,0,1,75,116,24,14,2,2,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+38,LRPL Taylor,ST Finn,KS Williamson,4,0,4,79,112,13,7,2,3,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+39,LRPL Taylor,ST Finn,KS Williamson,2,0,2,81,110,15,8,2,4,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+40,LRPL Taylor,ST Finn,KS Williamson,1,0,1,82,109,16,9,2,5,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+41,KS Williamson,ST Finn,LRPL Taylor,0,0,0,82,109,24,15,2,6,0,,,6,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+42,LRPL Taylor,BA Stokes,KS Williamson,1,0,1,83,108,17,10,2,1,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+43,KS Williamson,BA Stokes,LRPL Taylor,4,0,4,87,104,28,16,2,2,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+44,KS Williamson,BA Stokes,LRPL Taylor,0,0,0,87,104,28,17,2,3,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+45,KS Williamson,BA Stokes,LRPL Taylor,1,0,1,88,103,29,18,2,4,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+46,LRPL Taylor,BA Stokes,KS Williamson,0,0,0,88,103,17,11,2,5,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+47,LRPL Taylor,BA Stokes,KS Williamson,0,0,0,88,103,17,12,2,6,0,,,7,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+48,KS Williamson,AU Rashid,LRPL Taylor,1,0,1,89,102,30,19,2,1,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+49,LRPL Taylor,AU Rashid,KS Williamson,0,0,0,89,102,17,13,3,2,caught,LRPL Taylor,DJ Willey,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+50,KS Williamson,AU Rashid,C Munro,4,0,4,93,98,34,20,3,3,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+51,KS Williamson,AU Rashid,C Munro,0,0,0,93,98,34,21,3,4,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+52,KS Williamson,AU Rashid,C Munro,1,0,1,94,97,35,22,3,5,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+53,C Munro,AU Rashid,KS Williamson,1,0,1,95,96,1,1,3,6,0,,,8,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+54,C Munro,BA Stokes,KS Williamson,0,0,0,95,96,1,2,4,1,bowled,C Munro,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+55,L Ronchi,BA Stokes,KS Williamson,4,0,4,99,92,4,1,4,2,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+56,L Ronchi,BA Stokes,KS Williamson,1,0,1,100,91,5,2,4,3,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+57,KS Williamson,BA Stokes,L Ronchi,1,0,1,101,90,36,23,4,4,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+58,L Ronchi,BA Stokes,KS Williamson,0,0,0,101,90,5,3,4,5,0,,,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+59,L Ronchi,BA Stokes,KS Williamson,0,0,0,101,90,5,4,5,6,caught,L Ronchi,JM Bairstow,9,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+60,MJ Santner,AU Rashid,KS Williamson,0,0,0,101,90,0,1,5,1,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+61,MJ Santner,AU Rashid,KS Williamson,2,0,2,103,88,2,2,5,2,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+62,MJ Santner,AU Rashid,KS Williamson,0,0,0,103,88,2,3,5,3,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+63,MJ Santner,AU Rashid,KS Williamson,1,0,1,104,87,3,4,5,4,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+64,KS Williamson,AU Rashid,MJ Santner,1,0,1,105,86,37,24,5,5,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+65,MJ Santner,AU Rashid,KS Williamson,0,0,0,105,86,3,5,5,6,0,,,10,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+66,KS Williamson,BA Stokes,MJ Santner,0,0,0,105,86,37,25,5,1,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+67,KS Williamson,BA Stokes,MJ Santner,4,0,4,109,82,41,26,5,2,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+68,KS Williamson,BA Stokes,MJ Santner,0,0,0,109,82,41,27,5,3,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+69,KS Williamson,BA Stokes,MJ Santner,4,0,4,113,78,45,28,5,4,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+70,KS Williamson,BA Stokes,MJ Santner,0,0,0,113,78,45,29,5,5,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+71,KS Williamson,BA Stokes,MJ Santner,4,0,4,117,74,49,30,5,6,0,,,11,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+72,MJ Santner,AU Rashid,KS Williamson,1,0,1,118,73,4,6,5,1,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+73,KS Williamson,AU Rashid,MJ Santner,1,0,1,119,72,50,31,5,2,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+74,MJ Santner,AU Rashid,KS Williamson,1,0,1,120,71,5,7,5,3,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+75,KS Williamson,AU Rashid,MJ Santner,1,0,1,121,70,51,32,5,4,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+76,MJ Santner,AU Rashid,KS Williamson,1,0,1,122,69,6,8,5,5,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+77,KS Williamson,AU Rashid,MJ Santner,1,0,1,123,68,52,33,5,6,0,,,12,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+78,KS Williamson,ST Finn,MJ Santner,1,0,1,124,67,53,34,5,1,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+79,MJ Santner,ST Finn,KS Williamson,0,0,0,124,67,6,9,5,2,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+80,MJ Santner,ST Finn,KS Williamson,1,0,1,125,66,7,10,5,3,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+81,KS Williamson,ST Finn,MJ Santner,1,0,1,126,65,54,35,5,4,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+82,MJ Santner,ST Finn,KS Williamson,0,0,0,126,65,7,11,5,5,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+83,MJ Santner,ST Finn,KS Williamson,2,0,2,128,63,9,12,5,6,0,,,13,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+84,KS Williamson,MA Wood,MJ Santner,2,0,2,130,61,56,36,5,1,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+85,KS Williamson,MA Wood,MJ Santner,1,0,1,131,60,57,37,5,2,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+86,MJ Santner,MA Wood,KS Williamson,0,0,0,131,60,9,13,6,3,bowled,MJ Santner,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+87,NL McCullum,MA Wood,KS Williamson,0,0,0,131,60,0,1,6,4,0,,,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+88,NL McCullum,MA Wood,KS Williamson,0,0,0,131,60,0,2,7,5,run out,KS Williamson,DJ Willey,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+89,TG Southee,MA Wood,NL McCullum,0,0,0,131,60,0,1,8,6,caught,TG Southee,EJG Morgan,14,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+90,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,3,8,1,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+91,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,4,8,2,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+92,NL McCullum,ST Finn,MJ Henry,0,0,0,131,60,0,5,8,3,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+93,NL McCullum,ST Finn,MJ Henry,2,0,2,133,58,2,6,8,4,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+94,NL McCullum,ST Finn,MJ Henry,0,0,0,133,58,2,7,8,5,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+95,NL McCullum,ST Finn,MJ Henry,1,0,1,134,57,3,8,8,6,0,,,15,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+96,NL McCullum,DJ Willey,MJ Henry,0,1,1,135,56,3,9,8,1,0,,,16,wides,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+97,NL McCullum,DJ Willey,MJ Henry,0,0,0,135,56,3,10,9,2,caught,NL McCullum,ST Finn,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135
+98,MJ McClenaghan,DJ Willey,MJ Henry,0,0,0,135,56,0,1,10,3,caught,MJ McClenaghan,JM Bairstow,16,-,bat,England,2,Old Trafford,2015,06,England_New Zealand_2015-06-23,England,New Zealand,England,135

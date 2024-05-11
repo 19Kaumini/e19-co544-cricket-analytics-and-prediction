@@ -1,123 +1,123 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,DA Warner,P Kumar,AJ Finch,0,0,0,0,171,0,1,0,1,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-1,DA Warner,P Kumar,AJ Finch,0,0,0,0,171,0,2,0,2,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-2,DA Warner,P Kumar,AJ Finch,2,0,2,2,169,2,3,0,3,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-3,DA Warner,P Kumar,AJ Finch,1,0,1,3,168,3,4,0,4,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-4,AJ Finch,P Kumar,DA Warner,0,0,0,3,168,0,1,0,5,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-5,AJ Finch,P Kumar,DA Warner,4,0,4,7,164,4,2,0,6,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-6,DA Warner,R Vinay Kumar,AJ Finch,1,0,1,8,163,4,5,0,1,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-7,AJ Finch,R Vinay Kumar,DA Warner,4,0,4,12,159,8,3,0,2,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-8,AJ Finch,R Vinay Kumar,DA Warner,0,0,0,12,159,8,4,0,3,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-9,AJ Finch,R Vinay Kumar,DA Warner,1,0,1,13,158,9,5,0,4,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-10,DA Warner,R Vinay Kumar,AJ Finch,0,1,1,14,157,4,6,0,5,2,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-11,DA Warner,R Vinay Kumar,AJ Finch,0,0,0,14,157,4,7,0,6,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-12,DA Warner,R Vinay Kumar,AJ Finch,4,0,4,18,153,8,8,0,7,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-13,AJ Finch,P Kumar,DA Warner,1,0,1,19,152,10,6,0,1,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-14,DA Warner,P Kumar,AJ Finch,0,0,0,19,152,8,9,1,2,3,-,caught,DA Warner,G Gambhir,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-15,AJ Finch,P Kumar,SE Marsh,1,0,1,20,151,11,7,1,3,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-16,SE Marsh,P Kumar,AJ Finch,0,0,0,20,151,0,1,1,4,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-17,SE Marsh,P Kumar,AJ Finch,0,0,0,20,151,0,2,2,5,3,-,caught,SE Marsh,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-18,DJ Hussey,P Kumar,AJ Finch,0,0,0,20,151,0,1,2,6,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-19,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,20,151,11,8,2,1,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-20,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,20,151,11,9,2,2,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-21,AJ Finch,R Vinay Kumar,DJ Hussey,4,0,4,24,147,15,10,2,3,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-22,AJ Finch,R Vinay Kumar,DJ Hussey,2,0,2,26,145,17,11,2,4,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-23,AJ Finch,R Vinay Kumar,DJ Hussey,1,0,1,27,144,18,12,2,5,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-24,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,27,144,0,2,2,6,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-25,AJ Finch,P Kumar,DJ Hussey,0,1,1,28,143,18,13,2,1,5,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-26,AJ Finch,P Kumar,DJ Hussey,0,0,0,28,143,18,14,2,2,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-27,AJ Finch,P Kumar,DJ Hussey,2,0,2,30,141,20,15,2,3,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-28,AJ Finch,P Kumar,DJ Hussey,0,0,0,30,141,20,16,2,4,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-29,AJ Finch,P Kumar,DJ Hussey,4,0,4,34,137,24,17,2,5,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-30,AJ Finch,P Kumar,DJ Hussey,4,0,4,38,133,28,18,2,6,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-31,AJ Finch,P Kumar,DJ Hussey,1,0,1,39,132,29,19,2,7,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-32,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,39,132,29,20,2,1,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-33,AJ Finch,R Vinay Kumar,DJ Hussey,1,0,1,40,131,30,21,2,2,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-34,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,3,2,3,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-35,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,4,2,4,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-36,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,5,2,5,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-37,DJ Hussey,R Vinay Kumar,AJ Finch,2,0,2,42,129,2,6,2,6,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-38,AJ Finch,V Kohli,DJ Hussey,1,0,1,43,128,31,22,2,1,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-39,DJ Hussey,V Kohli,AJ Finch,0,0,0,43,128,2,7,2,2,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-40,DJ Hussey,V Kohli,AJ Finch,1,0,1,44,127,3,8,2,3,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-41,AJ Finch,V Kohli,DJ Hussey,4,0,4,48,123,35,23,2,4,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-42,AJ Finch,V Kohli,DJ Hussey,1,0,1,49,122,36,24,2,5,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-43,DJ Hussey,V Kohli,AJ Finch,0,0,0,49,122,3,9,3,6,7,-,run out,AJ Finch,RA Jadeja;MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-44,DJ Hussey,RA Jadeja,GJ Bailey,1,0,1,50,121,4,10,3,1,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-45,GJ Bailey,RA Jadeja,DJ Hussey,2,0,2,52,119,2,1,3,2,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-46,GJ Bailey,RA Jadeja,DJ Hussey,0,0,0,52,119,2,2,3,3,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-47,GJ Bailey,RA Jadeja,DJ Hussey,0,0,0,52,119,2,3,3,4,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-48,GJ Bailey,RA Jadeja,DJ Hussey,1,0,1,53,118,3,4,3,5,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-49,DJ Hussey,RA Jadeja,GJ Bailey,1,0,1,54,117,5,11,3,6,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-50,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,12,3,1,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-51,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,13,3,2,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-52,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,14,4,3,9,-,run out,GJ Bailey,R Sharma;RA Jadeja,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-53,DJ Hussey,R Sharma,MS Wade,4,0,4,58,113,9,15,4,4,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-54,DJ Hussey,R Sharma,MS Wade,0,0,0,58,113,9,16,4,5,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-55,DJ Hussey,R Sharma,MS Wade,1,0,1,59,112,10,17,4,6,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-56,DJ Hussey,SK Raina,MS Wade,1,0,1,60,111,11,18,4,1,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-57,MS Wade,SK Raina,DJ Hussey,0,0,0,60,111,0,1,4,2,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-58,MS Wade,SK Raina,DJ Hussey,1,0,1,61,110,1,2,4,3,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-59,DJ Hussey,SK Raina,MS Wade,1,0,1,62,109,12,19,4,4,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-60,MS Wade,SK Raina,DJ Hussey,1,0,1,63,108,2,3,4,5,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-61,DJ Hussey,SK Raina,MS Wade,6,0,6,69,102,18,20,4,6,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-62,MS Wade,R Ashwin,DJ Hussey,1,0,1,70,101,3,4,4,1,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-63,DJ Hussey,R Ashwin,MS Wade,1,0,1,71,100,19,21,4,2,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-64,MS Wade,R Ashwin,DJ Hussey,0,0,0,71,100,3,5,4,3,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-65,MS Wade,R Ashwin,DJ Hussey,0,1,1,72,99,3,6,4,4,11,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-66,MS Wade,R Ashwin,DJ Hussey,1,0,1,73,98,4,7,4,5,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-67,DJ Hussey,R Ashwin,MS Wade,1,0,1,74,97,20,22,4,6,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-68,MS Wade,R Ashwin,DJ Hussey,2,0,2,76,95,6,8,4,7,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-69,DJ Hussey,R Sharma,MS Wade,1,0,1,77,94,21,23,4,1,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-70,MS Wade,R Sharma,DJ Hussey,0,0,0,77,94,6,9,4,2,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-71,MS Wade,R Sharma,DJ Hussey,6,0,6,83,88,12,10,4,3,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-72,MS Wade,R Sharma,DJ Hussey,1,0,1,84,87,13,11,4,4,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-73,DJ Hussey,R Sharma,MS Wade,1,0,1,85,86,22,24,4,5,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-74,MS Wade,R Sharma,DJ Hussey,2,0,2,87,84,15,12,4,6,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-75,DJ Hussey,R Ashwin,MS Wade,0,0,0,87,84,22,25,4,1,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-76,DJ Hussey,R Ashwin,MS Wade,1,0,1,88,83,23,26,4,2,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-77,MS Wade,R Ashwin,DJ Hussey,0,0,0,88,83,15,13,4,3,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-78,MS Wade,R Ashwin,DJ Hussey,1,0,1,89,82,16,14,4,4,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-79,DJ Hussey,R Ashwin,MS Wade,1,0,1,90,81,24,27,4,5,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-80,MS Wade,R Ashwin,DJ Hussey,1,0,1,91,80,17,15,4,6,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-81,MS Wade,RA Jadeja,DJ Hussey,1,0,1,92,79,18,16,4,1,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-82,DJ Hussey,RA Jadeja,MS Wade,0,1,1,93,78,24,28,4,2,14,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-83,DJ Hussey,RA Jadeja,MS Wade,0,0,0,93,78,24,29,4,3,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-84,DJ Hussey,RA Jadeja,MS Wade,0,0,0,93,78,24,30,5,4,14,-,caught and bowled,DJ Hussey,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-85,MR Marsh,RA Jadeja,MS Wade,1,0,1,94,77,1,1,5,5,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-86,MS Wade,RA Jadeja,MR Marsh,1,0,1,95,76,19,17,5,6,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-87,MR Marsh,RA Jadeja,MS Wade,1,0,1,96,75,2,2,5,7,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-88,MR Marsh,R Ashwin,MS Wade,0,0,0,96,75,2,3,5,1,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-89,MR Marsh,R Ashwin,MS Wade,1,0,1,97,74,3,4,5,2,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-90,MS Wade,R Ashwin,MR Marsh,2,0,2,99,72,21,18,5,3,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-91,MS Wade,R Ashwin,MR Marsh,0,0,0,99,72,21,19,5,4,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-92,MS Wade,R Ashwin,MR Marsh,0,0,0,99,72,21,20,5,5,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-93,MS Wade,R Ashwin,MR Marsh,1,0,1,100,71,22,21,5,6,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-94,MS Wade,RA Jadeja,MR Marsh,4,0,4,104,67,26,22,5,1,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-95,MS Wade,RA Jadeja,MR Marsh,0,0,0,104,67,26,23,5,2,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-96,MS Wade,RA Jadeja,MR Marsh,1,0,1,105,66,27,24,5,3,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-97,MR Marsh,RA Jadeja,MS Wade,0,0,0,105,66,3,5,5,4,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-98,MR Marsh,RA Jadeja,MS Wade,0,0,0,105,66,3,6,5,5,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-99,MR Marsh,RA Jadeja,MS Wade,1,0,1,106,65,4,7,5,6,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-100,MR Marsh,R Ashwin,MS Wade,4,0,4,110,61,8,8,5,1,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-101,MR Marsh,R Ashwin,MS Wade,0,0,0,110,61,8,9,5,2,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-102,MR Marsh,R Ashwin,MS Wade,1,0,1,111,60,9,10,5,3,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-103,MS Wade,R Ashwin,MR Marsh,2,0,2,113,58,29,25,5,4,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-104,MS Wade,R Ashwin,MR Marsh,1,0,1,114,57,30,26,5,5,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-105,MR Marsh,R Ashwin,MS Wade,0,0,0,114,57,9,11,5,6,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-106,MS Wade,R Sharma,MR Marsh,1,0,1,115,56,31,27,5,1,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-107,MR Marsh,R Sharma,MS Wade,4,0,4,119,52,13,12,5,2,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-108,MR Marsh,R Sharma,MS Wade,0,0,0,119,52,13,13,6,3,18,-,stumped,MR Marsh,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-109,B Lee,R Sharma,MS Wade,1,0,1,120,51,1,1,6,4,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-110,MS Wade,R Sharma,B Lee,1,0,1,121,50,32,28,6,5,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-111,B Lee,R Sharma,MS Wade,0,0,0,121,50,1,2,6,6,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-112,MS Wade,R Vinay Kumar,B Lee,0,0,0,121,50,32,29,6,1,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-113,MS Wade,R Vinay Kumar,B Lee,0,0,0,121,50,32,30,7,2,19,-,run out,MS Wade,RG Sharma,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-114,CJ McKay,R Vinay Kumar,B Lee,0,0,0,121,50,0,1,8,3,19,-,caught,CJ McKay,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-115,GB Hogg,R Vinay Kumar,B Lee,0,0,0,121,50,0,1,8,4,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-116,GB Hogg,R Vinay Kumar,B Lee,0,0,0,121,50,0,2,8,5,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-117,GB Hogg,R Vinay Kumar,B Lee,4,0,4,125,46,4,3,8,6,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-118,B Lee,R Sharma,GB Hogg,4,0,4,129,42,5,3,8,1,20,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-119,B Lee,R Sharma,GB Hogg,1,0,1,130,41,6,4,8,2,20,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-120,GB Hogg,R Sharma,B Lee,0,0,0,130,41,4,4,9,3,20,-,lbw,GB Hogg,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
-121,XJ Doherty,R Sharma,B Lee,1,0,1,131,40,1,1,10,4,20,-,run out,XJ Doherty,SK Raina;MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+0,DA Warner,P Kumar,AJ Finch,0,0,0,0,171,0,1,0,1,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+1,DA Warner,P Kumar,AJ Finch,0,0,0,0,171,0,2,0,2,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+2,DA Warner,P Kumar,AJ Finch,2,0,2,2,169,2,3,0,3,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+3,DA Warner,P Kumar,AJ Finch,1,0,1,3,168,3,4,0,4,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+4,AJ Finch,P Kumar,DA Warner,0,0,0,3,168,0,1,0,5,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+5,AJ Finch,P Kumar,DA Warner,4,0,4,7,164,4,2,0,6,0,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+6,DA Warner,R Vinay Kumar,AJ Finch,1,0,1,8,163,4,5,0,1,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+7,AJ Finch,R Vinay Kumar,DA Warner,4,0,4,12,159,8,3,0,2,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+8,AJ Finch,R Vinay Kumar,DA Warner,0,0,0,12,159,8,4,0,3,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+9,AJ Finch,R Vinay Kumar,DA Warner,1,0,1,13,158,9,5,0,4,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+10,DA Warner,R Vinay Kumar,AJ Finch,0,1,1,14,157,4,6,0,5,1,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+11,DA Warner,R Vinay Kumar,AJ Finch,0,0,0,14,157,4,7,0,6,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+12,DA Warner,R Vinay Kumar,AJ Finch,4,0,4,18,153,8,8,0,7,1,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+13,AJ Finch,P Kumar,DA Warner,1,0,1,19,152,10,6,0,1,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+14,DA Warner,P Kumar,AJ Finch,0,0,0,19,152,8,9,1,2,2,-,caught,DA Warner,G Gambhir,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+15,AJ Finch,P Kumar,SE Marsh,1,0,1,20,151,11,7,1,3,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+16,SE Marsh,P Kumar,AJ Finch,0,0,0,20,151,0,1,1,4,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+17,SE Marsh,P Kumar,AJ Finch,0,0,0,20,151,0,2,2,5,2,-,caught,SE Marsh,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+18,DJ Hussey,P Kumar,AJ Finch,0,0,0,20,151,0,1,2,6,2,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+19,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,20,151,11,8,2,1,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+20,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,20,151,11,9,2,2,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+21,AJ Finch,R Vinay Kumar,DJ Hussey,4,0,4,24,147,15,10,2,3,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+22,AJ Finch,R Vinay Kumar,DJ Hussey,2,0,2,26,145,17,11,2,4,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+23,AJ Finch,R Vinay Kumar,DJ Hussey,1,0,1,27,144,18,12,2,5,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+24,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,27,144,0,2,2,6,3,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+25,AJ Finch,P Kumar,DJ Hussey,0,1,1,28,143,18,13,2,1,4,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+26,AJ Finch,P Kumar,DJ Hussey,0,0,0,28,143,18,14,2,2,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+27,AJ Finch,P Kumar,DJ Hussey,2,0,2,30,141,20,15,2,3,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+28,AJ Finch,P Kumar,DJ Hussey,0,0,0,30,141,20,16,2,4,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+29,AJ Finch,P Kumar,DJ Hussey,4,0,4,34,137,24,17,2,5,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+30,AJ Finch,P Kumar,DJ Hussey,4,0,4,38,133,28,18,2,6,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+31,AJ Finch,P Kumar,DJ Hussey,1,0,1,39,132,29,19,2,7,4,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+32,AJ Finch,R Vinay Kumar,DJ Hussey,0,0,0,39,132,29,20,2,1,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+33,AJ Finch,R Vinay Kumar,DJ Hussey,1,0,1,40,131,30,21,2,2,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+34,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,3,2,3,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+35,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,4,2,4,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+36,DJ Hussey,R Vinay Kumar,AJ Finch,0,0,0,40,131,0,5,2,5,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+37,DJ Hussey,R Vinay Kumar,AJ Finch,2,0,2,42,129,2,6,2,6,5,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+38,AJ Finch,V Kohli,DJ Hussey,1,0,1,43,128,31,22,2,1,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+39,DJ Hussey,V Kohli,AJ Finch,0,0,0,43,128,2,7,2,2,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+40,DJ Hussey,V Kohli,AJ Finch,1,0,1,44,127,3,8,2,3,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+41,AJ Finch,V Kohli,DJ Hussey,4,0,4,48,123,35,23,2,4,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+42,AJ Finch,V Kohli,DJ Hussey,1,0,1,49,122,36,24,2,5,6,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+43,DJ Hussey,V Kohli,AJ Finch,0,0,0,49,122,3,9,3,6,6,-,run out,AJ Finch,RA Jadeja;MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+44,DJ Hussey,RA Jadeja,GJ Bailey,1,0,1,50,121,4,10,3,1,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+45,GJ Bailey,RA Jadeja,DJ Hussey,2,0,2,52,119,2,1,3,2,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+46,GJ Bailey,RA Jadeja,DJ Hussey,0,0,0,52,119,2,2,3,3,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+47,GJ Bailey,RA Jadeja,DJ Hussey,0,0,0,52,119,2,3,3,4,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+48,GJ Bailey,RA Jadeja,DJ Hussey,1,0,1,53,118,3,4,3,5,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+49,DJ Hussey,RA Jadeja,GJ Bailey,1,0,1,54,117,5,11,3,6,7,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+50,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,12,3,1,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+51,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,13,3,2,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+52,DJ Hussey,R Sharma,GJ Bailey,0,0,0,54,117,5,14,4,3,8,-,run out,GJ Bailey,R Sharma;RA Jadeja,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+53,DJ Hussey,R Sharma,MS Wade,4,0,4,58,113,9,15,4,4,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+54,DJ Hussey,R Sharma,MS Wade,0,0,0,58,113,9,16,4,5,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+55,DJ Hussey,R Sharma,MS Wade,1,0,1,59,112,10,17,4,6,8,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+56,DJ Hussey,SK Raina,MS Wade,1,0,1,60,111,11,18,4,1,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+57,MS Wade,SK Raina,DJ Hussey,0,0,0,60,111,0,1,4,2,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+58,MS Wade,SK Raina,DJ Hussey,1,0,1,61,110,1,2,4,3,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+59,DJ Hussey,SK Raina,MS Wade,1,0,1,62,109,12,19,4,4,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+60,MS Wade,SK Raina,DJ Hussey,1,0,1,63,108,2,3,4,5,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+61,DJ Hussey,SK Raina,MS Wade,6,0,6,69,102,18,20,4,6,9,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+62,MS Wade,R Ashwin,DJ Hussey,1,0,1,70,101,3,4,4,1,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+63,DJ Hussey,R Ashwin,MS Wade,1,0,1,71,100,19,21,4,2,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+64,MS Wade,R Ashwin,DJ Hussey,0,0,0,71,100,3,5,4,3,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+65,MS Wade,R Ashwin,DJ Hussey,0,1,1,72,99,3,6,4,4,10,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+66,MS Wade,R Ashwin,DJ Hussey,1,0,1,73,98,4,7,4,5,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+67,DJ Hussey,R Ashwin,MS Wade,1,0,1,74,97,20,22,4,6,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+68,MS Wade,R Ashwin,DJ Hussey,2,0,2,76,95,6,8,4,7,10,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+69,DJ Hussey,R Sharma,MS Wade,1,0,1,77,94,21,23,4,1,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+70,MS Wade,R Sharma,DJ Hussey,0,0,0,77,94,6,9,4,2,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+71,MS Wade,R Sharma,DJ Hussey,6,0,6,83,88,12,10,4,3,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+72,MS Wade,R Sharma,DJ Hussey,1,0,1,84,87,13,11,4,4,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+73,DJ Hussey,R Sharma,MS Wade,1,0,1,85,86,22,24,4,5,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+74,MS Wade,R Sharma,DJ Hussey,2,0,2,87,84,15,12,4,6,11,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+75,DJ Hussey,R Ashwin,MS Wade,0,0,0,87,84,22,25,4,1,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+76,DJ Hussey,R Ashwin,MS Wade,1,0,1,88,83,23,26,4,2,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+77,MS Wade,R Ashwin,DJ Hussey,0,0,0,88,83,15,13,4,3,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+78,MS Wade,R Ashwin,DJ Hussey,1,0,1,89,82,16,14,4,4,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+79,DJ Hussey,R Ashwin,MS Wade,1,0,1,90,81,24,27,4,5,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+80,MS Wade,R Ashwin,DJ Hussey,1,0,1,91,80,17,15,4,6,12,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+81,MS Wade,RA Jadeja,DJ Hussey,1,0,1,92,79,18,16,4,1,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+82,DJ Hussey,RA Jadeja,MS Wade,0,1,1,93,78,24,28,4,2,13,wides,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+83,DJ Hussey,RA Jadeja,MS Wade,0,0,0,93,78,24,29,4,3,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+84,DJ Hussey,RA Jadeja,MS Wade,0,0,0,93,78,24,30,5,4,13,-,caught and bowled,DJ Hussey,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+85,MR Marsh,RA Jadeja,MS Wade,1,0,1,94,77,1,1,5,5,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+86,MS Wade,RA Jadeja,MR Marsh,1,0,1,95,76,19,17,5,6,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+87,MR Marsh,RA Jadeja,MS Wade,1,0,1,96,75,2,2,5,7,13,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+88,MR Marsh,R Ashwin,MS Wade,0,0,0,96,75,2,3,5,1,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+89,MR Marsh,R Ashwin,MS Wade,1,0,1,97,74,3,4,5,2,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+90,MS Wade,R Ashwin,MR Marsh,2,0,2,99,72,21,18,5,3,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+91,MS Wade,R Ashwin,MR Marsh,0,0,0,99,72,21,19,5,4,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+92,MS Wade,R Ashwin,MR Marsh,0,0,0,99,72,21,20,5,5,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+93,MS Wade,R Ashwin,MR Marsh,1,0,1,100,71,22,21,5,6,14,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+94,MS Wade,RA Jadeja,MR Marsh,4,0,4,104,67,26,22,5,1,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+95,MS Wade,RA Jadeja,MR Marsh,0,0,0,104,67,26,23,5,2,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+96,MS Wade,RA Jadeja,MR Marsh,1,0,1,105,66,27,24,5,3,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+97,MR Marsh,RA Jadeja,MS Wade,0,0,0,105,66,3,5,5,4,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+98,MR Marsh,RA Jadeja,MS Wade,0,0,0,105,66,3,6,5,5,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+99,MR Marsh,RA Jadeja,MS Wade,1,0,1,106,65,4,7,5,6,15,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+100,MR Marsh,R Ashwin,MS Wade,4,0,4,110,61,8,8,5,1,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+101,MR Marsh,R Ashwin,MS Wade,0,0,0,110,61,8,9,5,2,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+102,MR Marsh,R Ashwin,MS Wade,1,0,1,111,60,9,10,5,3,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+103,MS Wade,R Ashwin,MR Marsh,2,0,2,113,58,29,25,5,4,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+104,MS Wade,R Ashwin,MR Marsh,1,0,1,114,57,30,26,5,5,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+105,MR Marsh,R Ashwin,MS Wade,0,0,0,114,57,9,11,5,6,16,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+106,MS Wade,R Sharma,MR Marsh,1,0,1,115,56,31,27,5,1,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+107,MR Marsh,R Sharma,MS Wade,4,0,4,119,52,13,12,5,2,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+108,MR Marsh,R Sharma,MS Wade,0,0,0,119,52,13,13,6,3,17,-,stumped,MR Marsh,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+109,B Lee,R Sharma,MS Wade,1,0,1,120,51,1,1,6,4,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+110,MS Wade,R Sharma,B Lee,1,0,1,121,50,32,28,6,5,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+111,B Lee,R Sharma,MS Wade,0,0,0,121,50,1,2,6,6,17,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+112,MS Wade,R Vinay Kumar,B Lee,0,0,0,121,50,32,29,6,1,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+113,MS Wade,R Vinay Kumar,B Lee,0,0,0,121,50,32,30,7,2,18,-,run out,MS Wade,RG Sharma,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+114,CJ McKay,R Vinay Kumar,B Lee,0,0,0,121,50,0,1,8,3,18,-,caught,CJ McKay,MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+115,GB Hogg,R Vinay Kumar,B Lee,0,0,0,121,50,0,1,8,4,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+116,GB Hogg,R Vinay Kumar,B Lee,0,0,0,121,50,0,2,8,5,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+117,GB Hogg,R Vinay Kumar,B Lee,4,0,4,125,46,4,3,8,6,18,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+118,B Lee,R Sharma,GB Hogg,4,0,4,129,42,5,3,8,1,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+119,B Lee,R Sharma,GB Hogg,1,0,1,130,41,6,4,8,2,19,-,0,,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+120,GB Hogg,R Sharma,B Lee,0,0,0,130,41,4,4,9,3,19,-,lbw,GB Hogg,,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131
+121,XJ Doherty,R Sharma,B Lee,1,0,1,131,40,1,1,10,4,19,-,run out,XJ Doherty,SK Raina;MS Dhoni,bat,Australia,1,Melbourne Cricket Ground,2012,02,Australia_India_2012-02-03,India,Australia,India,131

@@ -1,115 +1,115 @@
 ,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,BA King,HH Pandya,KR Mayers,0,0,0,0,152,0,1,1,1,caught,BA King,SA Yadav,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-1,J Charles,HH Pandya,KR Mayers,2,0,2,2,150,2,1,1,2,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-2,J Charles,HH Pandya,KR Mayers,0,0,0,2,150,2,2,1,3,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-3,J Charles,HH Pandya,KR Mayers,0,0,0,2,150,2,3,2,4,caught,J Charles,Tilak Varma,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-4,N Pooran,HH Pandya,KR Mayers,0,0,0,2,150,0,1,2,5,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-5,N Pooran,HH Pandya,KR Mayers,0,0,0,2,150,0,2,2,6,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-6,KR Mayers,Arshdeep Singh,N Pooran,1,0,1,3,149,1,1,2,1,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-7,N Pooran,Arshdeep Singh,KR Mayers,0,0,0,3,149,0,3,2,2,0,,,2,"{'by': 'West Indies', 'umpire': 'N Duguid', 'batter': 'N Pooran', 'decision': 'upheld', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-8,N Pooran,Arshdeep Singh,KR Mayers,0,0,0,3,149,0,4,2,3,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-9,N Pooran,Arshdeep Singh,KR Mayers,1,0,1,4,148,1,5,2,4,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-10,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,4,148,1,2,2,5,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-11,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,4,148,1,3,2,6,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-12,N Pooran,HH Pandya,KR Mayers,6,0,6,10,142,7,6,2,1,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-13,N Pooran,HH Pandya,KR Mayers,0,0,0,10,142,7,7,2,2,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-14,N Pooran,HH Pandya,KR Mayers,2,0,2,12,140,9,8,2,3,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-15,N Pooran,HH Pandya,KR Mayers,4,0,4,16,136,13,9,2,4,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-16,N Pooran,HH Pandya,KR Mayers,1,0,1,17,135,14,10,2,5,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-17,KR Mayers,HH Pandya,N Pooran,4,0,4,21,131,5,4,2,6,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-18,N Pooran,Arshdeep Singh,KR Mayers,1,0,1,22,130,15,11,2,1,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-19,KR Mayers,Arshdeep Singh,N Pooran,4,0,4,26,126,9,5,2,2,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-20,KR Mayers,Arshdeep Singh,N Pooran,6,0,6,32,120,15,6,2,3,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-21,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,32,120,15,7,3,4,lbw,KR Mayers,,4,"{'by': 'West Indies', 'umpire': 'N Duguid', 'batter': 'KR Mayers', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-22,R Powell,Arshdeep Singh,N Pooran,0,0,0,32,120,0,1,3,5,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-23,R Powell,Arshdeep Singh,N Pooran,1,0,1,33,119,1,2,3,6,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-24,R Powell,Mukesh Kumar,N Pooran,1,0,1,34,118,2,3,3,1,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-25,N Pooran,Mukesh Kumar,R Powell,0,0,0,34,118,15,12,3,2,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-26,N Pooran,Mukesh Kumar,R Powell,0,0,0,34,118,15,13,3,3,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-27,N Pooran,Mukesh Kumar,R Powell,4,0,4,38,114,19,14,3,4,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-28,N Pooran,Mukesh Kumar,R Powell,4,0,4,42,110,23,15,3,5,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-29,N Pooran,Mukesh Kumar,R Powell,1,0,1,43,109,24,16,3,6,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-30,N Pooran,Ravi Bishnoi,R Powell,4,0,4,47,105,28,17,3,1,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-31,N Pooran,Ravi Bishnoi,R Powell,6,0,6,53,99,34,18,3,2,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-32,N Pooran,Ravi Bishnoi,R Powell,0,0,0,53,99,34,19,3,3,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-33,N Pooran,Ravi Bishnoi,R Powell,4,0,4,57,95,38,20,3,4,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-34,N Pooran,Ravi Bishnoi,R Powell,4,0,4,61,91,42,21,3,5,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-35,N Pooran,Ravi Bishnoi,R Powell,0,0,0,61,91,42,22,3,6,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-36,R Powell,YS Chahal,N Pooran,0,1,1,62,90,2,4,3,1,0,,,7,,wides,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-37,R Powell,YS Chahal,N Pooran,1,0,1,63,89,3,5,3,2,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-38,N Pooran,YS Chahal,R Powell,2,0,2,65,87,44,23,3,3,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-39,N Pooran,YS Chahal,R Powell,1,0,1,66,86,45,24,3,4,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-40,R Powell,YS Chahal,N Pooran,1,0,1,67,85,4,6,3,5,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-41,N Pooran,YS Chahal,R Powell,1,0,1,68,84,46,25,3,6,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-42,R Powell,YS Chahal,N Pooran,0,0,0,68,84,4,7,3,7,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-43,N Pooran,Ravi Bishnoi,R Powell,1,0,1,69,83,47,26,3,1,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-44,R Powell,Ravi Bishnoi,N Pooran,0,0,0,69,83,4,8,3,2,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-45,R Powell,Ravi Bishnoi,N Pooran,0,0,0,69,83,4,9,3,3,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-46,R Powell,Ravi Bishnoi,N Pooran,1,0,1,70,82,5,10,3,4,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-47,N Pooran,Ravi Bishnoi,R Powell,1,0,1,71,81,48,27,3,5,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-48,R Powell,Ravi Bishnoi,N Pooran,1,0,1,72,80,6,11,3,6,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-49,R Powell,YS Chahal,N Pooran,6,0,6,78,74,12,12,3,1,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-50,R Powell,YS Chahal,N Pooran,1,0,1,79,73,13,13,3,2,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-51,N Pooran,YS Chahal,R Powell,1,0,1,80,72,49,28,3,3,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-52,R Powell,YS Chahal,N Pooran,0,0,0,80,72,13,14,3,4,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-53,R Powell,YS Chahal,N Pooran,2,0,2,82,70,15,15,3,5,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-54,R Powell,YS Chahal,N Pooran,0,0,0,82,70,15,16,3,6,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-55,N Pooran,HH Pandya,R Powell,1,0,1,83,69,50,29,3,1,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-56,R Powell,HH Pandya,N Pooran,2,0,2,85,67,17,17,3,2,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-57,R Powell,HH Pandya,N Pooran,0,0,0,85,67,17,18,3,3,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-58,R Powell,HH Pandya,N Pooran,4,0,4,89,63,21,19,3,4,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-59,R Powell,HH Pandya,N Pooran,0,0,0,89,63,21,20,4,5,caught,R Powell,Mukesh Kumar,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-60,SO Hetmyer,HH Pandya,N Pooran,2,0,2,91,61,2,1,4,6,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-61,N Pooran,Ravi Bishnoi,SO Hetmyer,0,0,0,91,61,50,30,4,1,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-62,N Pooran,Ravi Bishnoi,SO Hetmyer,0,0,0,91,61,50,31,4,2,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-63,N Pooran,Ravi Bishnoi,SO Hetmyer,1,0,1,92,60,51,32,4,3,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-64,SO Hetmyer,Ravi Bishnoi,N Pooran,0,0,0,92,60,2,2,4,4,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-65,SO Hetmyer,Ravi Bishnoi,N Pooran,1,0,1,93,59,3,3,4,5,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-66,N Pooran,Ravi Bishnoi,SO Hetmyer,6,0,6,99,53,57,33,4,6,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-67,SO Hetmyer,HH Pandya,N Pooran,0,0,0,99,53,3,4,4,1,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-68,SO Hetmyer,HH Pandya,N Pooran,0,0,0,99,53,3,5,4,2,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-69,SO Hetmyer,HH Pandya,N Pooran,4,0,4,103,49,7,6,4,3,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-70,SO Hetmyer,HH Pandya,N Pooran,1,0,1,104,48,8,7,4,4,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-71,N Pooran,HH Pandya,SO Hetmyer,1,0,1,105,47,58,34,4,5,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-72,SO Hetmyer,HH Pandya,N Pooran,1,0,1,106,46,9,8,4,6,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-73,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,107,45,10,9,4,1,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-74,N Pooran,Arshdeep Singh,SO Hetmyer,1,0,1,108,44,59,35,4,2,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-75,SO Hetmyer,Arshdeep Singh,N Pooran,6,0,6,114,38,16,10,4,3,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-76,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,115,37,17,11,4,4,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-77,N Pooran,Arshdeep Singh,SO Hetmyer,1,0,1,116,36,60,36,4,5,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-78,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,117,35,18,12,4,6,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-79,SO Hetmyer,Mukesh Kumar,N Pooran,1,0,1,118,34,19,13,4,1,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-80,N Pooran,Mukesh Kumar,SO Hetmyer,1,0,1,119,33,61,37,4,2,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-81,SO Hetmyer,Mukesh Kumar,N Pooran,1,0,1,120,32,20,14,4,3,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-82,N Pooran,Mukesh Kumar,SO Hetmyer,0,0,0,120,32,61,38,4,4,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-83,N Pooran,Mukesh Kumar,SO Hetmyer,6,0,6,126,26,67,39,4,5,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-84,N Pooran,Mukesh Kumar,SO Hetmyer,0,0,0,126,26,67,40,5,6,caught,N Pooran,SV Samson,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-85,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,15,5,1,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-86,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,16,5,2,0,,,15,"{'by': 'India', 'umpire': 'LS Reifer', 'batter': 'SO Hetmyer', 'decision': 'struck down', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-87,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,17,5,3,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-88,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,18,5,4,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-89,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,19,5,5,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-90,SO Hetmyer,Ravi Bishnoi,R Shepherd,1,0,1,127,25,21,20,5,6,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-91,SO Hetmyer,YS Chahal,R Shepherd,1,0,1,128,24,22,21,6,1,run out,R Shepherd,Ishan Kishan;AR Patel,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-92,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,1,6,2,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-93,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,2,6,3,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-94,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,3,7,4,stumped,JO Holder,Ishan Kishan,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-95,AJ Hosein,YS Chahal,SO Hetmyer,1,0,1,129,23,1,1,7,5,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-96,SO Hetmyer,YS Chahal,AJ Hosein,0,0,0,129,23,22,22,8,6,lbw,SO Hetmyer,,16,"{'by': 'India', 'umpire': 'N Duguid', 'batter': 'SO Hetmyer', 'decision': 'upheld', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-97,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,130,22,2,2,8,1,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-98,AS Joseph,Mukesh Kumar,AJ Hosein,0,1,1,131,21,0,1,8,2,0,,,17,,legbyes,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-99,AJ Hosein,Mukesh Kumar,AS Joseph,0,0,0,131,21,2,3,8,3,0,,,17,"{'by': 'India', 'umpire': 'LS Reifer', 'batter': 'AJ Hosein', 'decision': 'struck down', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-100,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,132,20,3,4,8,4,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-101,AS Joseph,Mukesh Kumar,AJ Hosein,0,0,0,132,20,0,2,8,5,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-102,AS Joseph,Mukesh Kumar,AJ Hosein,0,0,0,132,20,0,3,8,6,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-103,AJ Hosein,Arshdeep Singh,AS Joseph,4,0,4,136,16,7,5,8,1,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-104,AJ Hosein,Arshdeep Singh,AS Joseph,1,0,1,137,15,8,6,8,2,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-105,AS Joseph,Arshdeep Singh,AJ Hosein,0,0,0,137,15,0,4,8,3,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-106,AS Joseph,Arshdeep Singh,AJ Hosein,2,0,2,139,13,2,5,8,4,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-107,AS Joseph,Arshdeep Singh,AJ Hosein,1,0,1,140,12,3,6,8,5,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-108,AJ Hosein,Arshdeep Singh,AS Joseph,1,0,1,141,11,9,7,8,6,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-109,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,142,10,10,8,8,1,0,,,19,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-110,AS Joseph,Mukesh Kumar,AJ Hosein,6,0,6,148,4,9,7,8,2,0,,,19,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-111,AS Joseph,Mukesh Kumar,AJ Hosein,1,0,1,149,3,10,8,8,3,0,,,19,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-112,AJ Hosein,Mukesh Kumar,AS Joseph,2,0,2,151,1,12,9,8,4,0,,,19,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
-113,AJ Hosein,Mukesh Kumar,AS Joseph,4,0,4,155,-3,16,10,8,5,0,,,19,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+0,BA King,HH Pandya,KR Mayers,0,0,0,0,152,0,1,1,1,caught,BA King,SA Yadav,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+1,J Charles,HH Pandya,KR Mayers,2,0,2,2,150,2,1,1,2,0,,,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+2,J Charles,HH Pandya,KR Mayers,0,0,0,2,150,2,2,1,3,0,,,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+3,J Charles,HH Pandya,KR Mayers,0,0,0,2,150,2,3,2,4,caught,J Charles,Tilak Varma,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+4,N Pooran,HH Pandya,KR Mayers,0,0,0,2,150,0,1,2,5,0,,,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+5,N Pooran,HH Pandya,KR Mayers,0,0,0,2,150,0,2,2,6,0,,,0,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+6,KR Mayers,Arshdeep Singh,N Pooran,1,0,1,3,149,1,1,2,1,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+7,N Pooran,Arshdeep Singh,KR Mayers,0,0,0,3,149,0,3,2,2,0,,,1,"{'by': 'West Indies', 'umpire': 'N Duguid', 'batter': 'N Pooran', 'decision': 'upheld', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+8,N Pooran,Arshdeep Singh,KR Mayers,0,0,0,3,149,0,4,2,3,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+9,N Pooran,Arshdeep Singh,KR Mayers,1,0,1,4,148,1,5,2,4,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+10,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,4,148,1,2,2,5,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+11,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,4,148,1,3,2,6,0,,,1,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+12,N Pooran,HH Pandya,KR Mayers,6,0,6,10,142,7,6,2,1,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+13,N Pooran,HH Pandya,KR Mayers,0,0,0,10,142,7,7,2,2,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+14,N Pooran,HH Pandya,KR Mayers,2,0,2,12,140,9,8,2,3,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+15,N Pooran,HH Pandya,KR Mayers,4,0,4,16,136,13,9,2,4,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+16,N Pooran,HH Pandya,KR Mayers,1,0,1,17,135,14,10,2,5,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+17,KR Mayers,HH Pandya,N Pooran,4,0,4,21,131,5,4,2,6,0,,,2,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+18,N Pooran,Arshdeep Singh,KR Mayers,1,0,1,22,130,15,11,2,1,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+19,KR Mayers,Arshdeep Singh,N Pooran,4,0,4,26,126,9,5,2,2,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+20,KR Mayers,Arshdeep Singh,N Pooran,6,0,6,32,120,15,6,2,3,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+21,KR Mayers,Arshdeep Singh,N Pooran,0,0,0,32,120,15,7,3,4,lbw,KR Mayers,,3,"{'by': 'West Indies', 'umpire': 'N Duguid', 'batter': 'KR Mayers', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+22,R Powell,Arshdeep Singh,N Pooran,0,0,0,32,120,0,1,3,5,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+23,R Powell,Arshdeep Singh,N Pooran,1,0,1,33,119,1,2,3,6,0,,,3,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+24,R Powell,Mukesh Kumar,N Pooran,1,0,1,34,118,2,3,3,1,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+25,N Pooran,Mukesh Kumar,R Powell,0,0,0,34,118,15,12,3,2,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+26,N Pooran,Mukesh Kumar,R Powell,0,0,0,34,118,15,13,3,3,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+27,N Pooran,Mukesh Kumar,R Powell,4,0,4,38,114,19,14,3,4,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+28,N Pooran,Mukesh Kumar,R Powell,4,0,4,42,110,23,15,3,5,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+29,N Pooran,Mukesh Kumar,R Powell,1,0,1,43,109,24,16,3,6,0,,,4,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+30,N Pooran,Ravi Bishnoi,R Powell,4,0,4,47,105,28,17,3,1,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+31,N Pooran,Ravi Bishnoi,R Powell,6,0,6,53,99,34,18,3,2,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+32,N Pooran,Ravi Bishnoi,R Powell,0,0,0,53,99,34,19,3,3,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+33,N Pooran,Ravi Bishnoi,R Powell,4,0,4,57,95,38,20,3,4,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+34,N Pooran,Ravi Bishnoi,R Powell,4,0,4,61,91,42,21,3,5,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+35,N Pooran,Ravi Bishnoi,R Powell,0,0,0,61,91,42,22,3,6,0,,,5,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+36,R Powell,YS Chahal,N Pooran,0,1,1,62,90,2,4,3,1,0,,,6,,wides,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+37,R Powell,YS Chahal,N Pooran,1,0,1,63,89,3,5,3,2,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+38,N Pooran,YS Chahal,R Powell,2,0,2,65,87,44,23,3,3,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+39,N Pooran,YS Chahal,R Powell,1,0,1,66,86,45,24,3,4,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+40,R Powell,YS Chahal,N Pooran,1,0,1,67,85,4,6,3,5,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+41,N Pooran,YS Chahal,R Powell,1,0,1,68,84,46,25,3,6,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+42,R Powell,YS Chahal,N Pooran,0,0,0,68,84,4,7,3,7,0,,,6,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+43,N Pooran,Ravi Bishnoi,R Powell,1,0,1,69,83,47,26,3,1,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+44,R Powell,Ravi Bishnoi,N Pooran,0,0,0,69,83,4,8,3,2,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+45,R Powell,Ravi Bishnoi,N Pooran,0,0,0,69,83,4,9,3,3,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+46,R Powell,Ravi Bishnoi,N Pooran,1,0,1,70,82,5,10,3,4,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+47,N Pooran,Ravi Bishnoi,R Powell,1,0,1,71,81,48,27,3,5,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+48,R Powell,Ravi Bishnoi,N Pooran,1,0,1,72,80,6,11,3,6,0,,,7,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+49,R Powell,YS Chahal,N Pooran,6,0,6,78,74,12,12,3,1,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+50,R Powell,YS Chahal,N Pooran,1,0,1,79,73,13,13,3,2,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+51,N Pooran,YS Chahal,R Powell,1,0,1,80,72,49,28,3,3,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+52,R Powell,YS Chahal,N Pooran,0,0,0,80,72,13,14,3,4,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+53,R Powell,YS Chahal,N Pooran,2,0,2,82,70,15,15,3,5,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+54,R Powell,YS Chahal,N Pooran,0,0,0,82,70,15,16,3,6,0,,,8,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+55,N Pooran,HH Pandya,R Powell,1,0,1,83,69,50,29,3,1,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+56,R Powell,HH Pandya,N Pooran,2,0,2,85,67,17,17,3,2,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+57,R Powell,HH Pandya,N Pooran,0,0,0,85,67,17,18,3,3,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+58,R Powell,HH Pandya,N Pooran,4,0,4,89,63,21,19,3,4,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+59,R Powell,HH Pandya,N Pooran,0,0,0,89,63,21,20,4,5,caught,R Powell,Mukesh Kumar,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+60,SO Hetmyer,HH Pandya,N Pooran,2,0,2,91,61,2,1,4,6,0,,,9,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+61,N Pooran,Ravi Bishnoi,SO Hetmyer,0,0,0,91,61,50,30,4,1,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+62,N Pooran,Ravi Bishnoi,SO Hetmyer,0,0,0,91,61,50,31,4,2,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+63,N Pooran,Ravi Bishnoi,SO Hetmyer,1,0,1,92,60,51,32,4,3,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+64,SO Hetmyer,Ravi Bishnoi,N Pooran,0,0,0,92,60,2,2,4,4,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+65,SO Hetmyer,Ravi Bishnoi,N Pooran,1,0,1,93,59,3,3,4,5,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+66,N Pooran,Ravi Bishnoi,SO Hetmyer,6,0,6,99,53,57,33,4,6,0,,,10,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+67,SO Hetmyer,HH Pandya,N Pooran,0,0,0,99,53,3,4,4,1,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+68,SO Hetmyer,HH Pandya,N Pooran,0,0,0,99,53,3,5,4,2,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+69,SO Hetmyer,HH Pandya,N Pooran,4,0,4,103,49,7,6,4,3,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+70,SO Hetmyer,HH Pandya,N Pooran,1,0,1,104,48,8,7,4,4,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+71,N Pooran,HH Pandya,SO Hetmyer,1,0,1,105,47,58,34,4,5,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+72,SO Hetmyer,HH Pandya,N Pooran,1,0,1,106,46,9,8,4,6,0,,,11,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+73,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,107,45,10,9,4,1,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+74,N Pooran,Arshdeep Singh,SO Hetmyer,1,0,1,108,44,59,35,4,2,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+75,SO Hetmyer,Arshdeep Singh,N Pooran,6,0,6,114,38,16,10,4,3,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+76,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,115,37,17,11,4,4,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+77,N Pooran,Arshdeep Singh,SO Hetmyer,1,0,1,116,36,60,36,4,5,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+78,SO Hetmyer,Arshdeep Singh,N Pooran,1,0,1,117,35,18,12,4,6,0,,,12,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+79,SO Hetmyer,Mukesh Kumar,N Pooran,1,0,1,118,34,19,13,4,1,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+80,N Pooran,Mukesh Kumar,SO Hetmyer,1,0,1,119,33,61,37,4,2,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+81,SO Hetmyer,Mukesh Kumar,N Pooran,1,0,1,120,32,20,14,4,3,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+82,N Pooran,Mukesh Kumar,SO Hetmyer,0,0,0,120,32,61,38,4,4,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+83,N Pooran,Mukesh Kumar,SO Hetmyer,6,0,6,126,26,67,39,4,5,0,,,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+84,N Pooran,Mukesh Kumar,SO Hetmyer,0,0,0,126,26,67,40,5,6,caught,N Pooran,SV Samson,13,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+85,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,15,5,1,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+86,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,16,5,2,0,,,14,"{'by': 'India', 'umpire': 'LS Reifer', 'batter': 'SO Hetmyer', 'decision': 'struck down', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+87,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,17,5,3,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+88,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,18,5,4,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+89,SO Hetmyer,Ravi Bishnoi,R Shepherd,0,0,0,126,26,20,19,5,5,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+90,SO Hetmyer,Ravi Bishnoi,R Shepherd,1,0,1,127,25,21,20,5,6,0,,,14,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+91,SO Hetmyer,YS Chahal,R Shepherd,1,0,1,128,24,22,21,6,1,run out,R Shepherd,Ishan Kishan;AR Patel,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+92,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,1,6,2,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+93,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,2,6,3,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+94,JO Holder,YS Chahal,SO Hetmyer,0,0,0,128,24,0,3,7,4,stumped,JO Holder,Ishan Kishan,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+95,AJ Hosein,YS Chahal,SO Hetmyer,1,0,1,129,23,1,1,7,5,0,,,15,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+96,SO Hetmyer,YS Chahal,AJ Hosein,0,0,0,129,23,22,22,8,6,lbw,SO Hetmyer,,15,"{'by': 'India', 'umpire': 'N Duguid', 'batter': 'SO Hetmyer', 'decision': 'upheld', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+97,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,130,22,2,2,8,1,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+98,AS Joseph,Mukesh Kumar,AJ Hosein,0,1,1,131,21,0,1,8,2,0,,,16,,legbyes,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+99,AJ Hosein,Mukesh Kumar,AS Joseph,0,0,0,131,21,2,3,8,3,0,,,16,"{'by': 'India', 'umpire': 'LS Reifer', 'batter': 'AJ Hosein', 'decision': 'struck down', 'type': 'wicket'}",-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+100,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,132,20,3,4,8,4,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+101,AS Joseph,Mukesh Kumar,AJ Hosein,0,0,0,132,20,0,2,8,5,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+102,AS Joseph,Mukesh Kumar,AJ Hosein,0,0,0,132,20,0,3,8,6,0,,,16,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+103,AJ Hosein,Arshdeep Singh,AS Joseph,4,0,4,136,16,7,5,8,1,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+104,AJ Hosein,Arshdeep Singh,AS Joseph,1,0,1,137,15,8,6,8,2,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+105,AS Joseph,Arshdeep Singh,AJ Hosein,0,0,0,137,15,0,4,8,3,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+106,AS Joseph,Arshdeep Singh,AJ Hosein,2,0,2,139,13,2,5,8,4,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+107,AS Joseph,Arshdeep Singh,AJ Hosein,1,0,1,140,12,3,6,8,5,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+108,AJ Hosein,Arshdeep Singh,AS Joseph,1,0,1,141,11,9,7,8,6,0,,,17,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+109,AJ Hosein,Mukesh Kumar,AS Joseph,1,0,1,142,10,10,8,8,1,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+110,AS Joseph,Mukesh Kumar,AJ Hosein,6,0,6,148,4,9,7,8,2,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+111,AS Joseph,Mukesh Kumar,AJ Hosein,1,0,1,149,3,10,8,8,3,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+112,AJ Hosein,Mukesh Kumar,AS Joseph,2,0,2,151,1,12,9,8,4,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
+113,AJ Hosein,Mukesh Kumar,AS Joseph,4,0,4,155,-3,16,10,8,5,0,,,18,,-,bat,India,2,"Providence Stadium, Guyana",2023,08,India_West Indies_2023-08-06,West Indies,West Indies,India,155
