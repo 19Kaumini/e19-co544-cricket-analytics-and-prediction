@@ -1,6 +1,6 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,EJG Morgan,Shahid Afridi,JC Buttler,0,0,0,0,154,0,1,0,1,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,4
-1,EJG Morgan,Shahid Afridi,JC Buttler,1,0,1,1,153,1,2,0,2,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,4
-2,JC Buttler,Shahid Afridi,EJG Morgan,0,0,0,1,153,0,1,0,3,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,4
-3,JC Buttler,Shahid Afridi,EJG Morgan,1,0,1,2,152,1,2,0,4,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,4
-4,EJG Morgan,Shahid Afridi,JC Buttler,2,0,2,4,150,3,3,0,5,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,4
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,EJG Morgan,Shahid Afridi,JC Buttler,0,0,0,0,,0,1,0,1,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,,4
+1,EJG Morgan,Shahid Afridi,JC Buttler,1,0,1,1,,1,2,0,2,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,,4
+2,JC Buttler,Shahid Afridi,EJG Morgan,0,0,0,1,,0,1,0,3,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,,4
+3,JC Buttler,Shahid Afridi,EJG Morgan,1,0,1,2,,1,2,0,4,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,,4
+4,EJG Morgan,Shahid Afridi,JC Buttler,2,0,2,4,,3,3,0,5,0,0,0,bat,England,4,Sharjah Cricket Stadium,2015,11,England_Pakistan_2015-11-30,tie,England,England,,4

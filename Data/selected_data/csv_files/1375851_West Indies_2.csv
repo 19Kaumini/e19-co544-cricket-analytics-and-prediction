@@ -1,128 +1,128 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,BA King,JP Behrendorff,J Charles,,0,0,0,0,241,0,1,0,1,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-1,BA King,JP Behrendorff,J Charles,,4,0,4,4,237,4,2,0,2,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-2,BA King,JP Behrendorff,J Charles,,0,0,0,4,237,4,3,0,3,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-3,BA King,JP Behrendorff,J Charles,,1,0,1,5,236,5,4,0,4,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-4,J Charles,JP Behrendorff,BA King,,6,0,6,11,230,6,1,0,5,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-5,J Charles,JP Behrendorff,BA King,"{'by': 'Australia', 'umpire': 'GA Abood', 'batter': 'J Charles', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,11,230,6,2,0,6,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-6,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,5,0,1,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-7,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,6,0,2,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-8,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,7,0,3,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-9,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,8,0,4,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-10,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,9,1,5,1,-,caught,BA King,TH David,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-11,N Pooran,JR Hazlewood,J Charles,,0,1,1,12,229,0,1,1,6,1,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-12,N Pooran,JP Behrendorff,J Charles,,0,0,0,12,229,0,2,1,1,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-13,N Pooran,JP Behrendorff,J Charles,,6,0,6,18,223,6,3,1,2,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-14,N Pooran,JP Behrendorff,J Charles,,6,0,6,24,217,12,4,1,3,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-15,N Pooran,JP Behrendorff,J Charles,,6,0,6,30,211,18,5,1,4,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-16,N Pooran,JP Behrendorff,J Charles,,0,1,1,31,210,18,6,1,5,2,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-17,N Pooran,JP Behrendorff,J Charles,,0,1,1,32,209,18,7,1,6,2,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-18,N Pooran,JP Behrendorff,J Charles,,0,0,0,32,209,18,8,1,7,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-19,N Pooran,JP Behrendorff,J Charles,,0,0,0,32,209,18,9,1,8,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-20,J Charles,JR Hazlewood,N Pooran,,4,0,4,36,205,10,3,1,1,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-21,J Charles,JR Hazlewood,N Pooran,,6,0,6,42,199,16,4,1,2,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-22,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,5,1,3,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-23,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,6,1,4,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-24,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,7,1,5,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-25,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,8,1,6,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-26,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,10,1,1,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-27,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,11,1,2,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-28,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,12,2,3,4,-,caught,N Pooran,AM Hardie,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-29,SD Hope,SH Johnson,J Charles,,0,1,1,43,198,0,1,2,4,4,byes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-30,J Charles,SH Johnson,SD Hope,,2,0,2,45,196,18,9,2,5,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-31,J Charles,SH Johnson,SD Hope,,0,5,5,50,191,18,10,2,6,4,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-32,J Charles,SH Johnson,SD Hope,,6,0,6,56,185,24,11,2,7,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-33,SD Hope,MP Stoinis,J Charles,,0,0,0,56,185,0,2,3,1,5,-,caught,SD Hope,GJ Maxwell,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-34,R Powell,MP Stoinis,J Charles,,0,1,1,57,184,0,1,3,2,5,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-35,R Powell,MP Stoinis,J Charles,,0,0,0,57,184,0,2,3,3,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-36,R Powell,MP Stoinis,J Charles,,4,0,4,61,180,4,3,3,4,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-37,R Powell,MP Stoinis,J Charles,,0,0,0,61,180,4,4,3,5,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-38,R Powell,MP Stoinis,J Charles,,0,1,1,62,179,4,5,3,6,5,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-39,J Charles,MP Stoinis,R Powell,,0,0,0,62,179,24,12,4,7,5,-,caught,J Charles,MS Wade,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-40,R Powell,SH Johnson,SE Rutherford,,1,0,1,63,178,5,6,4,1,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-41,SE Rutherford,SH Johnson,R Powell,,0,0,0,63,178,0,1,4,2,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-42,SE Rutherford,SH Johnson,R Powell,,0,0,0,63,178,0,2,5,3,6,-,caught,SE Rutherford,MS Wade,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-43,AD Russell,SH Johnson,R Powell,,4,0,4,67,174,4,1,5,4,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-44,AD Russell,SH Johnson,R Powell,,4,0,4,71,170,8,2,5,5,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-45,AD Russell,SH Johnson,R Powell,,4,0,4,75,166,12,3,5,6,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-46,R Powell,A Zampa,AD Russell,,0,0,0,75,166,5,7,5,1,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-47,R Powell,A Zampa,AD Russell,,1,0,1,76,165,6,8,5,2,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-48,AD Russell,A Zampa,R Powell,,0,0,0,76,165,12,4,5,3,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-49,AD Russell,A Zampa,R Powell,,3,0,3,79,162,15,5,5,4,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-50,R Powell,A Zampa,AD Russell,,0,0,0,79,162,6,9,5,5,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-51,R Powell,A Zampa,AD Russell,,0,0,0,79,162,6,10,5,6,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-52,AD Russell,JR Hazlewood,R Powell,,2,0,2,81,160,17,6,5,1,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-53,AD Russell,JR Hazlewood,R Powell,,0,0,0,81,160,17,7,5,2,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-54,AD Russell,JR Hazlewood,R Powell,,1,0,1,82,159,18,8,5,3,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-55,R Powell,JR Hazlewood,AD Russell,,2,0,2,84,157,8,11,5,4,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-56,R Powell,JR Hazlewood,AD Russell,,0,0,0,84,157,8,12,5,5,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-57,R Powell,JR Hazlewood,AD Russell,,4,0,4,88,153,12,13,5,6,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-58,AD Russell,A Zampa,R Powell,,4,0,4,92,149,22,9,5,1,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-59,AD Russell,A Zampa,R Powell,,0,0,0,92,149,22,10,5,2,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-60,AD Russell,A Zampa,R Powell,,1,0,1,93,148,23,11,5,3,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-61,R Powell,A Zampa,AD Russell,,1,0,1,94,147,13,14,5,4,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-62,AD Russell,A Zampa,R Powell,,6,0,6,100,141,29,12,5,5,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-63,AD Russell,A Zampa,R Powell,,1,0,1,101,140,30,13,5,6,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-64,AD Russell,MP Stoinis,R Powell,,6,0,6,107,134,36,14,5,1,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-65,AD Russell,MP Stoinis,R Powell,,0,1,1,108,133,36,15,5,2,10,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-66,AD Russell,MP Stoinis,R Powell,,1,0,1,109,132,37,16,5,3,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-67,R Powell,MP Stoinis,AD Russell,,1,0,1,110,131,14,15,5,4,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-68,AD Russell,MP Stoinis,R Powell,,0,0,0,110,131,37,17,6,5,10,-,caught,AD Russell,JP Inglis,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-69,R Shepherd,MP Stoinis,R Powell,,0,0,0,110,131,0,1,6,6,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-70,R Shepherd,MP Stoinis,R Powell,,0,0,0,110,131,0,2,6,7,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-71,R Powell,JP Behrendorff,R Shepherd,,1,0,1,111,130,15,16,6,1,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-72,R Shepherd,JP Behrendorff,R Powell,,1,0,1,112,129,1,3,6,2,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-73,R Powell,JP Behrendorff,R Shepherd,,4,0,4,116,125,19,17,6,3,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-74,R Powell,JP Behrendorff,R Shepherd,,0,0,0,116,125,19,18,6,4,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-75,R Powell,JP Behrendorff,R Shepherd,,6,0,6,122,119,25,19,6,5,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-76,R Powell,JP Behrendorff,R Shepherd,,1,0,1,123,118,26,20,6,6,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-77,R Powell,SH Johnson,R Shepherd,,0,0,0,123,118,26,21,6,1,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-78,R Powell,SH Johnson,R Shepherd,,4,0,4,127,114,30,22,6,2,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-79,R Powell,SH Johnson,R Shepherd,,0,1,1,128,113,30,23,6,3,12,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-80,R Shepherd,SH Johnson,R Powell,,0,0,0,128,113,1,4,6,4,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-81,R Shepherd,SH Johnson,R Powell,,0,0,0,128,113,1,5,6,5,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-82,R Shepherd,SH Johnson,R Powell,,4,0,4,132,109,5,6,6,6,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-83,R Powell,MP Stoinis,R Shepherd,,4,0,4,136,105,34,24,6,1,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-84,R Powell,MP Stoinis,R Shepherd,,6,0,6,142,99,40,25,6,2,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-85,R Powell,MP Stoinis,R Shepherd,,0,0,0,142,99,40,26,6,3,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-86,R Powell,MP Stoinis,R Shepherd,,1,0,1,143,98,41,27,6,4,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-87,R Shepherd,MP Stoinis,R Powell,,0,0,0,143,98,5,7,6,5,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-88,R Shepherd,MP Stoinis,R Powell,"{'by': 'Australia', 'umpire': 'SAJ Craig', 'batter': 'R Shepherd', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,143,98,5,8,6,6,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-89,R Powell,A Zampa,R Shepherd,,1,0,1,144,97,42,28,6,1,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-90,R Shepherd,A Zampa,R Powell,,0,0,0,144,97,5,9,6,2,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-91,R Shepherd,A Zampa,R Powell,,6,0,6,150,91,11,10,6,3,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-92,R Shepherd,A Zampa,R Powell,,1,0,1,151,90,12,11,6,4,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-93,R Powell,A Zampa,R Shepherd,,2,0,2,153,88,44,29,6,5,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-94,R Powell,A Zampa,R Shepherd,,1,0,1,154,87,45,30,6,6,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-95,R Powell,JP Behrendorff,R Shepherd,,2,0,2,156,85,47,31,6,1,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-96,R Powell,JP Behrendorff,R Shepherd,,6,0,6,162,79,53,32,6,2,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-97,R Powell,JP Behrendorff,R Shepherd,,0,1,1,163,78,53,33,6,3,15,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-98,R Powell,JP Behrendorff,R Shepherd,,1,0,1,164,77,54,34,6,4,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-99,R Shepherd,JP Behrendorff,R Powell,,0,0,0,164,77,12,12,7,5,15,-,caught,R Shepherd,GJ Maxwell,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-100,JO Holder,JP Behrendorff,R Powell,,0,0,0,164,77,0,1,7,6,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-101,JO Holder,JP Behrendorff,R Powell,,1,0,1,165,76,1,2,7,7,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-102,JO Holder,A Zampa,R Powell,,1,0,1,166,75,2,3,7,1,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-103,R Powell,A Zampa,JO Holder,,6,0,6,172,69,60,35,7,2,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-104,R Powell,A Zampa,JO Holder,,2,0,2,174,67,62,36,7,3,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-105,R Powell,A Zampa,JO Holder,,1,0,1,175,66,63,37,7,4,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-106,JO Holder,A Zampa,R Powell,,1,0,1,176,65,3,4,7,5,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-107,R Powell,A Zampa,JO Holder,,0,0,0,176,65,63,38,8,6,16,-,caught,R Powell,JP Inglis,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-108,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,180,61,7,5,8,1,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-109,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,184,57,11,6,8,2,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-110,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,188,53,15,7,8,3,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-111,JO Holder,JR Hazlewood,AJ Hosein,,0,1,1,189,52,15,8,8,4,17,byes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-112,AJ Hosein,JR Hazlewood,JO Holder,,0,0,0,189,52,0,1,9,5,17,-,bowled,AJ Hosein,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-113,AS Joseph,JR Hazlewood,JO Holder,,0,0,0,189,52,0,1,9,6,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-114,JO Holder,SH Johnson,AS Joseph,,0,1,1,190,51,15,9,9,1,18,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-115,AS Joseph,SH Johnson,JO Holder,,0,0,0,190,51,0,2,9,2,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-116,AS Joseph,SH Johnson,JO Holder,,1,0,1,191,50,1,3,9,3,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-117,JO Holder,SH Johnson,AS Joseph,,1,0,1,192,49,16,10,9,4,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-118,AS Joseph,SH Johnson,JO Holder,,1,0,1,193,48,2,4,9,5,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-119,JO Holder,SH Johnson,AS Joseph,,0,1,1,194,47,16,11,9,6,18,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-120,JO Holder,SH Johnson,AS Joseph,,1,0,1,195,46,17,12,9,7,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-121,JO Holder,MP Stoinis,AS Joseph,,1,0,1,196,45,18,13,9,1,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-122,AS Joseph,MP Stoinis,JO Holder,,0,1,1,197,44,2,5,9,2,19,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-123,JO Holder,MP Stoinis,AS Joseph,,6,0,6,203,38,24,14,9,3,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-124,JO Holder,MP Stoinis,AS Joseph,,0,0,0,203,38,24,15,9,4,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-125,JO Holder,MP Stoinis,AS Joseph,,0,0,0,203,38,24,16,9,5,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
-126,JO Holder,MP Stoinis,AS Joseph,,4,0,4,207,34,28,17,9,6,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,207
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,BA King,JP Behrendorff,J Charles,,0,0,0,0,241,0,1,0,1,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+1,BA King,JP Behrendorff,J Charles,,4,0,4,4,237,4,2,0,2,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+2,BA King,JP Behrendorff,J Charles,,0,0,0,4,237,4,3,0,3,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+3,BA King,JP Behrendorff,J Charles,,1,0,1,5,236,5,4,0,4,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+4,J Charles,JP Behrendorff,BA King,,6,0,6,11,230,6,1,0,5,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+5,J Charles,JP Behrendorff,BA King,"{'by': 'Australia', 'umpire': 'GA Abood', 'batter': 'J Charles', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,11,230,6,2,0,6,0,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+6,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,5,0,1,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+7,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,6,0,2,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+8,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,7,0,3,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+9,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,8,0,4,1,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+10,BA King,JR Hazlewood,J Charles,,0,0,0,11,230,5,9,1,5,1,-,caught,BA King,TH David,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+11,N Pooran,JR Hazlewood,J Charles,,0,1,1,12,229,0,1,1,6,1,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+12,N Pooran,JP Behrendorff,J Charles,,0,0,0,12,229,0,2,1,1,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+13,N Pooran,JP Behrendorff,J Charles,,6,0,6,18,223,6,3,1,2,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+14,N Pooran,JP Behrendorff,J Charles,,6,0,6,24,217,12,4,1,3,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+15,N Pooran,JP Behrendorff,J Charles,,6,0,6,30,211,18,5,1,4,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+16,N Pooran,JP Behrendorff,J Charles,,0,1,1,31,210,18,6,1,5,2,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+17,N Pooran,JP Behrendorff,J Charles,,0,1,1,32,209,18,7,1,6,2,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+18,N Pooran,JP Behrendorff,J Charles,,0,0,0,32,209,18,8,1,7,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+19,N Pooran,JP Behrendorff,J Charles,,0,0,0,32,209,18,9,1,8,2,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+20,J Charles,JR Hazlewood,N Pooran,,4,0,4,36,205,10,3,1,1,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+21,J Charles,JR Hazlewood,N Pooran,,6,0,6,42,199,16,4,1,2,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+22,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,5,1,3,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+23,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,6,1,4,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+24,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,7,1,5,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+25,J Charles,JR Hazlewood,N Pooran,,0,0,0,42,199,16,8,1,6,3,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+26,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,10,1,1,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+27,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,11,1,2,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+28,N Pooran,SH Johnson,J Charles,,0,0,0,42,199,18,12,2,3,4,-,caught,N Pooran,AM Hardie,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+29,SD Hope,SH Johnson,J Charles,,0,1,1,43,198,0,1,2,4,4,byes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+30,J Charles,SH Johnson,SD Hope,,2,0,2,45,196,18,9,2,5,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+31,J Charles,SH Johnson,SD Hope,,0,5,5,50,191,18,10,2,6,4,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+32,J Charles,SH Johnson,SD Hope,,6,0,6,56,185,24,11,2,7,4,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+33,SD Hope,MP Stoinis,J Charles,,0,0,0,56,185,0,2,3,1,5,-,caught,SD Hope,GJ Maxwell,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+34,R Powell,MP Stoinis,J Charles,,0,1,1,57,184,0,1,3,2,5,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+35,R Powell,MP Stoinis,J Charles,,0,0,0,57,184,0,2,3,3,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+36,R Powell,MP Stoinis,J Charles,,4,0,4,61,180,4,3,3,4,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+37,R Powell,MP Stoinis,J Charles,,0,0,0,61,180,4,4,3,5,5,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+38,R Powell,MP Stoinis,J Charles,,0,1,1,62,179,4,5,3,6,5,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+39,J Charles,MP Stoinis,R Powell,,0,0,0,62,179,24,12,4,7,5,-,caught,J Charles,MS Wade,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+40,R Powell,SH Johnson,SE Rutherford,,1,0,1,63,178,5,6,4,1,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+41,SE Rutherford,SH Johnson,R Powell,,0,0,0,63,178,0,1,4,2,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+42,SE Rutherford,SH Johnson,R Powell,,0,0,0,63,178,0,2,5,3,6,-,caught,SE Rutherford,MS Wade,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+43,AD Russell,SH Johnson,R Powell,,4,0,4,67,174,4,1,5,4,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+44,AD Russell,SH Johnson,R Powell,,4,0,4,71,170,8,2,5,5,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+45,AD Russell,SH Johnson,R Powell,,4,0,4,75,166,12,3,5,6,6,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+46,R Powell,A Zampa,AD Russell,,0,0,0,75,166,5,7,5,1,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+47,R Powell,A Zampa,AD Russell,,1,0,1,76,165,6,8,5,2,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+48,AD Russell,A Zampa,R Powell,,0,0,0,76,165,12,4,5,3,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+49,AD Russell,A Zampa,R Powell,,3,0,3,79,162,15,5,5,4,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+50,R Powell,A Zampa,AD Russell,,0,0,0,79,162,6,9,5,5,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+51,R Powell,A Zampa,AD Russell,,0,0,0,79,162,6,10,5,6,7,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+52,AD Russell,JR Hazlewood,R Powell,,2,0,2,81,160,17,6,5,1,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+53,AD Russell,JR Hazlewood,R Powell,,0,0,0,81,160,17,7,5,2,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+54,AD Russell,JR Hazlewood,R Powell,,1,0,1,82,159,18,8,5,3,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+55,R Powell,JR Hazlewood,AD Russell,,2,0,2,84,157,8,11,5,4,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+56,R Powell,JR Hazlewood,AD Russell,,0,0,0,84,157,8,12,5,5,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+57,R Powell,JR Hazlewood,AD Russell,,4,0,4,88,153,12,13,5,6,8,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+58,AD Russell,A Zampa,R Powell,,4,0,4,92,149,22,9,5,1,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+59,AD Russell,A Zampa,R Powell,,0,0,0,92,149,22,10,5,2,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+60,AD Russell,A Zampa,R Powell,,1,0,1,93,148,23,11,5,3,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+61,R Powell,A Zampa,AD Russell,,1,0,1,94,147,13,14,5,4,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+62,AD Russell,A Zampa,R Powell,,6,0,6,100,141,29,12,5,5,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+63,AD Russell,A Zampa,R Powell,,1,0,1,101,140,30,13,5,6,9,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+64,AD Russell,MP Stoinis,R Powell,,6,0,6,107,134,36,14,5,1,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+65,AD Russell,MP Stoinis,R Powell,,0,1,1,108,133,36,15,5,2,10,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+66,AD Russell,MP Stoinis,R Powell,,1,0,1,109,132,37,16,5,3,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+67,R Powell,MP Stoinis,AD Russell,,1,0,1,110,131,14,15,5,4,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+68,AD Russell,MP Stoinis,R Powell,,0,0,0,110,131,37,17,6,5,10,-,caught,AD Russell,JP Inglis,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+69,R Shepherd,MP Stoinis,R Powell,,0,0,0,110,131,0,1,6,6,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+70,R Shepherd,MP Stoinis,R Powell,,0,0,0,110,131,0,2,6,7,10,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+71,R Powell,JP Behrendorff,R Shepherd,,1,0,1,111,130,15,16,6,1,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+72,R Shepherd,JP Behrendorff,R Powell,,1,0,1,112,129,1,3,6,2,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+73,R Powell,JP Behrendorff,R Shepherd,,4,0,4,116,125,19,17,6,3,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+74,R Powell,JP Behrendorff,R Shepherd,,0,0,0,116,125,19,18,6,4,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+75,R Powell,JP Behrendorff,R Shepherd,,6,0,6,122,119,25,19,6,5,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+76,R Powell,JP Behrendorff,R Shepherd,,1,0,1,123,118,26,20,6,6,11,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+77,R Powell,SH Johnson,R Shepherd,,0,0,0,123,118,26,21,6,1,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+78,R Powell,SH Johnson,R Shepherd,,4,0,4,127,114,30,22,6,2,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+79,R Powell,SH Johnson,R Shepherd,,0,1,1,128,113,30,23,6,3,12,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+80,R Shepherd,SH Johnson,R Powell,,0,0,0,128,113,1,4,6,4,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+81,R Shepherd,SH Johnson,R Powell,,0,0,0,128,113,1,5,6,5,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+82,R Shepherd,SH Johnson,R Powell,,4,0,4,132,109,5,6,6,6,12,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+83,R Powell,MP Stoinis,R Shepherd,,4,0,4,136,105,34,24,6,1,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+84,R Powell,MP Stoinis,R Shepherd,,6,0,6,142,99,40,25,6,2,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+85,R Powell,MP Stoinis,R Shepherd,,0,0,0,142,99,40,26,6,3,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+86,R Powell,MP Stoinis,R Shepherd,,1,0,1,143,98,41,27,6,4,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+87,R Shepherd,MP Stoinis,R Powell,,0,0,0,143,98,5,7,6,5,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+88,R Shepherd,MP Stoinis,R Powell,"{'by': 'Australia', 'umpire': 'SAJ Craig', 'batter': 'R Shepherd', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,143,98,5,8,6,6,13,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+89,R Powell,A Zampa,R Shepherd,,1,0,1,144,97,42,28,6,1,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+90,R Shepherd,A Zampa,R Powell,,0,0,0,144,97,5,9,6,2,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+91,R Shepherd,A Zampa,R Powell,,6,0,6,150,91,11,10,6,3,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+92,R Shepherd,A Zampa,R Powell,,1,0,1,151,90,12,11,6,4,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+93,R Powell,A Zampa,R Shepherd,,2,0,2,153,88,44,29,6,5,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+94,R Powell,A Zampa,R Shepherd,,1,0,1,154,87,45,30,6,6,14,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+95,R Powell,JP Behrendorff,R Shepherd,,2,0,2,156,85,47,31,6,1,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+96,R Powell,JP Behrendorff,R Shepherd,,6,0,6,162,79,53,32,6,2,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+97,R Powell,JP Behrendorff,R Shepherd,,0,1,1,163,78,53,33,6,3,15,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+98,R Powell,JP Behrendorff,R Shepherd,,1,0,1,164,77,54,34,6,4,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+99,R Shepherd,JP Behrendorff,R Powell,,0,0,0,164,77,12,12,7,5,15,-,caught,R Shepherd,GJ Maxwell,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+100,JO Holder,JP Behrendorff,R Powell,,0,0,0,164,77,0,1,7,6,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+101,JO Holder,JP Behrendorff,R Powell,,1,0,1,165,76,1,2,7,7,15,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+102,JO Holder,A Zampa,R Powell,,1,0,1,166,75,2,3,7,1,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+103,R Powell,A Zampa,JO Holder,,6,0,6,172,69,60,35,7,2,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+104,R Powell,A Zampa,JO Holder,,2,0,2,174,67,62,36,7,3,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+105,R Powell,A Zampa,JO Holder,,1,0,1,175,66,63,37,7,4,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+106,JO Holder,A Zampa,R Powell,,1,0,1,176,65,3,4,7,5,16,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+107,R Powell,A Zampa,JO Holder,,0,0,0,176,65,63,38,8,6,16,-,caught,R Powell,JP Inglis,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+108,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,180,61,7,5,8,1,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+109,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,184,57,11,6,8,2,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+110,JO Holder,JR Hazlewood,AJ Hosein,,4,0,4,188,53,15,7,8,3,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+111,JO Holder,JR Hazlewood,AJ Hosein,,0,1,1,189,52,15,8,8,4,17,byes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+112,AJ Hosein,JR Hazlewood,JO Holder,,0,0,0,189,52,0,1,9,5,17,-,bowled,AJ Hosein,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+113,AS Joseph,JR Hazlewood,JO Holder,,0,0,0,189,52,0,1,9,6,17,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+114,JO Holder,SH Johnson,AS Joseph,,0,1,1,190,51,15,9,9,1,18,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+115,AS Joseph,SH Johnson,JO Holder,,0,0,0,190,51,0,2,9,2,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+116,AS Joseph,SH Johnson,JO Holder,,1,0,1,191,50,1,3,9,3,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+117,JO Holder,SH Johnson,AS Joseph,,1,0,1,192,49,16,10,9,4,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+118,AS Joseph,SH Johnson,JO Holder,,1,0,1,193,48,2,4,9,5,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+119,JO Holder,SH Johnson,AS Joseph,,0,1,1,194,47,16,11,9,6,18,wides,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+120,JO Holder,SH Johnson,AS Joseph,,1,0,1,195,46,17,12,9,7,18,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+121,JO Holder,MP Stoinis,AS Joseph,,1,0,1,196,45,18,13,9,1,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+122,AS Joseph,MP Stoinis,JO Holder,,0,1,1,197,44,2,5,9,2,19,legbyes,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+123,JO Holder,MP Stoinis,AS Joseph,,6,0,6,203,38,24,14,9,3,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+124,JO Holder,MP Stoinis,AS Joseph,,0,0,0,203,38,24,15,9,4,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+125,JO Holder,MP Stoinis,AS Joseph,,0,0,0,203,38,24,16,9,5,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207
+126,JO Holder,MP Stoinis,AS Joseph,,4,0,4,207,34,28,17,9,6,19,-,0,,,field,West Indies,2,Adelaide Oval,2024,02,Australia_West Indies_2024-02-11,Australia,West Indies,Australia,False,207

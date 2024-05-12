@@ -1,115 +1,115 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,HH Gibbs,NW Bracken,JH Kallis,0,0,0,0,182,0,1,0,1,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-1,HH Gibbs,NW Bracken,JH Kallis,0,0,0,0,182,0,2,0,2,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-2,HH Gibbs,NW Bracken,JH Kallis,0,1,1,1,181,0,3,0,3,wides,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-3,HH Gibbs,NW Bracken,JH Kallis,0,0,0,1,181,0,4,1,4,-,lbw,HH Gibbs,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-4,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,1,1,5,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-5,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,2,1,6,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-6,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,3,1,7,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-7,JH Kallis,SW Tait,AB de Villiers,0,0,0,1,181,0,1,1,1,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-8,JH Kallis,SW Tait,AB de Villiers,0,1,1,2,180,0,2,1,2,legbyes,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-9,AB de Villiers,SW Tait,JH Kallis,0,0,0,2,180,0,4,2,3,-,hit wicket,AB de Villiers,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-10,JP Duminy,SW Tait,JH Kallis,0,1,1,3,179,0,1,2,4,legbyes,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-11,JH Kallis,SW Tait,JP Duminy,4,0,4,7,175,4,3,2,5,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-12,JH Kallis,SW Tait,JP Duminy,0,0,0,7,175,4,4,2,6,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-13,JP Duminy,BW Hilfenhaus,JH Kallis,0,0,0,7,175,0,2,2,1,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-14,JP Duminy,BW Hilfenhaus,JH Kallis,4,0,4,11,171,4,3,2,2,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-15,JP Duminy,BW Hilfenhaus,JH Kallis,1,0,1,12,170,5,4,2,3,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-16,JH Kallis,BW Hilfenhaus,JP Duminy,0,0,0,12,170,4,5,2,4,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-17,JH Kallis,BW Hilfenhaus,JP Duminy,0,0,0,12,170,4,6,3,5,-,bowled,JH Kallis,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-18,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,0,0,0,12,170,0,1,3,6,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-19,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,12,170,5,5,3,1,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-20,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,12,170,5,6,3,2,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-21,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,16,166,9,7,3,3,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-22,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,20,162,13,8,3,4,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-23,JP Duminy,SW Tait,VB van Jaarsveld,0,1,1,21,161,13,9,3,5,wides,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-24,JP Duminy,SW Tait,VB van Jaarsveld,0,1,1,22,160,13,10,3,6,wides,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-25,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,26,156,17,11,3,7,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-26,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,26,156,17,12,3,8,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-27,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,1,0,1,27,155,1,2,3,1,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-28,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,4,0,4,31,151,21,13,3,2,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-29,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,31,151,21,14,3,3,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-30,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,4,0,4,35,147,25,15,3,4,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-31,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,35,147,25,16,3,5,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-32,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,35,147,25,17,3,6,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-33,VB van Jaarsveld,NW Bracken,JP Duminy,1,0,1,36,146,2,3,3,1,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-34,JP Duminy,NW Bracken,VB van Jaarsveld,1,0,1,37,145,26,18,3,2,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-35,VB van Jaarsveld,NW Bracken,JP Duminy,3,0,3,40,142,5,4,3,3,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-36,JP Duminy,NW Bracken,VB van Jaarsveld,2,0,2,42,140,28,19,3,4,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-37,JP Duminy,NW Bracken,VB van Jaarsveld,1,0,1,43,139,29,20,3,5,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-38,VB van Jaarsveld,NW Bracken,JP Duminy,1,0,1,44,138,6,5,3,6,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-39,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,45,137,7,6,3,1,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-40,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,46,136,30,21,3,2,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-41,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,47,135,8,7,3,3,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-42,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,48,134,31,22,3,4,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-43,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,49,133,9,8,3,5,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-44,JP Duminy,JR Hopes,VB van Jaarsveld,4,0,4,53,129,35,23,3,6,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-45,VB van Jaarsveld,DJ Hussey,JP Duminy,0,0,0,53,129,9,9,3,1,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-46,VB van Jaarsveld,DJ Hussey,JP Duminy,1,0,1,54,128,10,10,3,2,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-47,JP Duminy,DJ Hussey,VB van Jaarsveld,0,2,2,56,126,35,24,3,3,wides,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-48,VB van Jaarsveld,DJ Hussey,JP Duminy,0,1,1,57,125,10,11,3,4,legbyes,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-49,JP Duminy,DJ Hussey,VB van Jaarsveld,1,0,1,58,124,36,25,3,5,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-50,VB van Jaarsveld,DJ Hussey,JP Duminy,1,0,1,59,123,11,12,3,6,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-51,JP Duminy,DJ Hussey,VB van Jaarsveld,3,0,3,62,120,39,26,3,7,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-52,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,63,119,40,27,3,1,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-53,VB van Jaarsveld,JR Hopes,JP Duminy,0,0,0,63,119,11,13,3,2,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-54,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,64,118,12,14,3,3,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-55,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,65,117,41,28,3,4,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-56,VB van Jaarsveld,JR Hopes,JP Duminy,0,0,0,65,117,12,15,4,5,-,caught,VB van Jaarsveld,CL White,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-57,MV Boucher,JR Hopes,JP Duminy,0,0,0,65,117,0,1,4,6,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-58,JP Duminy,DJ Hussey,MV Boucher,1,0,1,66,116,42,29,4,1,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-59,MV Boucher,DJ Hussey,JP Duminy,1,0,1,67,115,1,2,4,2,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-60,JP Duminy,DJ Hussey,MV Boucher,2,0,2,69,113,44,30,4,3,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-61,JP Duminy,DJ Hussey,MV Boucher,1,0,1,70,112,45,31,4,4,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-62,MV Boucher,DJ Hussey,JP Duminy,1,0,1,71,111,2,3,4,5,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-63,JP Duminy,DJ Hussey,MV Boucher,2,0,2,73,109,47,32,4,6,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-64,MV Boucher,JR Hopes,JP Duminy,0,1,1,74,108,2,4,4,1,legbyes,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-65,JP Duminy,JR Hopes,MV Boucher,1,0,1,75,107,48,33,4,2,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-66,MV Boucher,JR Hopes,JP Duminy,1,0,1,76,106,3,5,4,3,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-67,JP Duminy,JR Hopes,MV Boucher,2,0,2,78,104,50,34,4,4,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-68,JP Duminy,JR Hopes,MV Boucher,1,0,1,79,103,51,35,4,5,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-69,MV Boucher,JR Hopes,JP Duminy,2,0,2,81,101,5,6,4,6,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-70,JP Duminy,DJ Hussey,MV Boucher,1,0,1,82,100,52,36,4,1,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-71,MV Boucher,DJ Hussey,JP Duminy,0,0,0,82,100,5,7,5,2,-,caught,MV Boucher,MEK Hussey,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-72,JP Duminy,DJ Hussey,JA Morkel,1,0,1,83,99,53,37,5,3,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-73,JA Morkel,DJ Hussey,JP Duminy,1,0,1,84,98,1,1,5,4,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-74,JP Duminy,DJ Hussey,JA Morkel,1,0,1,85,97,54,38,5,5,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-75,JA Morkel,DJ Hussey,JP Duminy,0,1,1,86,96,1,2,5,6,wides,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-76,JA Morkel,DJ Hussey,JP Duminy,0,0,0,86,96,1,3,5,7,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-77,JP Duminy,JR Hopes,JA Morkel,0,0,0,86,96,54,39,5,1,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-78,JP Duminy,JR Hopes,JA Morkel,1,0,1,87,95,55,40,5,2,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-79,JA Morkel,JR Hopes,JP Duminy,0,1,1,88,94,1,4,5,3,wides,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-80,JA Morkel,JR Hopes,JP Duminy,1,0,1,89,93,2,5,5,4,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-81,JP Duminy,JR Hopes,JA Morkel,4,0,4,93,89,59,41,5,5,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-82,JP Duminy,JR Hopes,JA Morkel,4,0,4,97,85,63,42,5,6,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-83,JP Duminy,JR Hopes,JA Morkel,1,0,1,98,84,64,43,5,7,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-84,JP Duminy,SW Tait,JA Morkel,6,0,6,104,78,70,44,5,1,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-85,JP Duminy,SW Tait,JA Morkel,0,0,0,104,78,70,45,5,2,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-86,JP Duminy,SW Tait,JA Morkel,2,0,2,106,76,72,46,5,3,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-87,JP Duminy,SW Tait,JA Morkel,2,0,2,108,74,74,47,5,4,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-88,JP Duminy,SW Tait,JA Morkel,1,0,1,109,73,75,48,5,5,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-89,JA Morkel,SW Tait,JP Duminy,5,0,5,114,68,7,6,5,6,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-90,JA Morkel,NW Bracken,JP Duminy,4,0,4,118,64,11,7,5,1,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-91,JA Morkel,NW Bracken,JP Duminy,1,0,1,119,63,12,8,5,2,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-92,JP Duminy,NW Bracken,JA Morkel,1,0,1,120,62,76,49,5,3,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-93,JA Morkel,NW Bracken,JP Duminy,0,0,0,120,62,12,9,5,4,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-94,JA Morkel,NW Bracken,JP Duminy,0,0,0,120,62,12,10,6,5,-,caught,JA Morkel,CL White,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-95,JP Duminy,NW Bracken,J Botha,2,0,2,122,60,78,50,6,6,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-96,J Botha,DJ Hussey,JP Duminy,1,0,1,123,59,1,1,6,1,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-97,JP Duminy,DJ Hussey,J Botha,0,0,0,123,59,78,51,7,2,-,lbw,JP Duminy,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-98,DW Steyn,DJ Hussey,J Botha,1,0,1,124,58,1,1,7,3,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-99,J Botha,DJ Hussey,DW Steyn,1,0,1,125,57,2,2,7,4,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-100,DW Steyn,DJ Hussey,J Botha,0,0,0,125,57,1,2,8,5,-,caught,DW Steyn,NW Bracken,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-101,J Botha,DJ Hussey,M Ntini,1,0,1,126,56,3,3,8,6,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-102,J Botha,BW Hilfenhaus,M Ntini,1,0,1,127,55,4,4,8,1,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-103,M Ntini,BW Hilfenhaus,J Botha,0,0,0,127,55,0,1,9,2,-,bowled,M Ntini,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-104,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,1,9,3,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-105,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,2,9,4,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-106,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,3,9,5,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-107,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,4,9,6,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-108,J Botha,SW Tait,LL Tsotsobe,1,0,1,128,54,5,5,9,1,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-109,LL Tsotsobe,SW Tait,J Botha,0,0,0,128,54,0,5,9,2,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-110,LL Tsotsobe,SW Tait,J Botha,1,0,1,129,53,1,6,9,3,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-111,J Botha,SW Tait,LL Tsotsobe,0,0,0,129,53,5,6,9,4,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-112,J Botha,SW Tait,LL Tsotsobe,0,1,1,130,52,5,7,9,5,legbyes,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
-113,LL Tsotsobe,SW Tait,J Botha,0,0,0,130,52,1,7,10,6,-,bowled,LL Tsotsobe,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,130
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,HH Gibbs,NW Bracken,JH Kallis,0,0,0,0,182,0,1,0,1,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+1,HH Gibbs,NW Bracken,JH Kallis,0,0,0,0,182,0,2,0,2,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+2,HH Gibbs,NW Bracken,JH Kallis,0,1,1,1,181,0,3,0,3,wides,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+3,HH Gibbs,NW Bracken,JH Kallis,0,0,0,1,181,0,4,1,4,-,lbw,HH Gibbs,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+4,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,1,1,5,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+5,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,2,1,6,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+6,AB de Villiers,NW Bracken,JH Kallis,0,0,0,1,181,0,3,1,7,-,0,,,0,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+7,JH Kallis,SW Tait,AB de Villiers,0,0,0,1,181,0,1,1,1,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+8,JH Kallis,SW Tait,AB de Villiers,0,1,1,2,180,0,2,1,2,legbyes,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+9,AB de Villiers,SW Tait,JH Kallis,0,0,0,2,180,0,4,2,3,-,hit wicket,AB de Villiers,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+10,JP Duminy,SW Tait,JH Kallis,0,1,1,3,179,0,1,2,4,legbyes,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+11,JH Kallis,SW Tait,JP Duminy,4,0,4,7,175,4,3,2,5,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+12,JH Kallis,SW Tait,JP Duminy,0,0,0,7,175,4,4,2,6,-,0,,,1,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+13,JP Duminy,BW Hilfenhaus,JH Kallis,0,0,0,7,175,0,2,2,1,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+14,JP Duminy,BW Hilfenhaus,JH Kallis,4,0,4,11,171,4,3,2,2,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+15,JP Duminy,BW Hilfenhaus,JH Kallis,1,0,1,12,170,5,4,2,3,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+16,JH Kallis,BW Hilfenhaus,JP Duminy,0,0,0,12,170,4,5,2,4,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+17,JH Kallis,BW Hilfenhaus,JP Duminy,0,0,0,12,170,4,6,3,5,-,bowled,JH Kallis,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+18,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,0,0,0,12,170,0,1,3,6,-,0,,,2,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+19,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,12,170,5,5,3,1,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+20,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,12,170,5,6,3,2,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+21,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,16,166,9,7,3,3,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+22,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,20,162,13,8,3,4,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+23,JP Duminy,SW Tait,VB van Jaarsveld,0,1,1,21,161,13,9,3,5,wides,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+24,JP Duminy,SW Tait,VB van Jaarsveld,0,1,1,22,160,13,10,3,6,wides,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+25,JP Duminy,SW Tait,VB van Jaarsveld,4,0,4,26,156,17,11,3,7,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+26,JP Duminy,SW Tait,VB van Jaarsveld,0,0,0,26,156,17,12,3,8,-,0,,,3,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+27,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,1,0,1,27,155,1,2,3,1,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+28,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,4,0,4,31,151,21,13,3,2,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+29,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,31,151,21,14,3,3,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+30,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,4,0,4,35,147,25,15,3,4,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+31,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,35,147,25,16,3,5,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+32,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,0,0,0,35,147,25,17,3,6,-,0,,,4,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+33,VB van Jaarsveld,NW Bracken,JP Duminy,1,0,1,36,146,2,3,3,1,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+34,JP Duminy,NW Bracken,VB van Jaarsveld,1,0,1,37,145,26,18,3,2,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+35,VB van Jaarsveld,NW Bracken,JP Duminy,3,0,3,40,142,5,4,3,3,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+36,JP Duminy,NW Bracken,VB van Jaarsveld,2,0,2,42,140,28,19,3,4,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+37,JP Duminy,NW Bracken,VB van Jaarsveld,1,0,1,43,139,29,20,3,5,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+38,VB van Jaarsveld,NW Bracken,JP Duminy,1,0,1,44,138,6,5,3,6,-,0,,,5,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+39,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,45,137,7,6,3,1,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+40,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,46,136,30,21,3,2,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+41,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,47,135,8,7,3,3,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+42,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,48,134,31,22,3,4,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+43,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,49,133,9,8,3,5,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+44,JP Duminy,JR Hopes,VB van Jaarsveld,4,0,4,53,129,35,23,3,6,-,0,,,6,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+45,VB van Jaarsveld,DJ Hussey,JP Duminy,0,0,0,53,129,9,9,3,1,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+46,VB van Jaarsveld,DJ Hussey,JP Duminy,1,0,1,54,128,10,10,3,2,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+47,JP Duminy,DJ Hussey,VB van Jaarsveld,0,2,2,56,126,35,24,3,3,wides,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+48,VB van Jaarsveld,DJ Hussey,JP Duminy,0,1,1,57,125,10,11,3,4,legbyes,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+49,JP Duminy,DJ Hussey,VB van Jaarsveld,1,0,1,58,124,36,25,3,5,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+50,VB van Jaarsveld,DJ Hussey,JP Duminy,1,0,1,59,123,11,12,3,6,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+51,JP Duminy,DJ Hussey,VB van Jaarsveld,3,0,3,62,120,39,26,3,7,-,0,,,7,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+52,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,63,119,40,27,3,1,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+53,VB van Jaarsveld,JR Hopes,JP Duminy,0,0,0,63,119,11,13,3,2,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+54,VB van Jaarsveld,JR Hopes,JP Duminy,1,0,1,64,118,12,14,3,3,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+55,JP Duminy,JR Hopes,VB van Jaarsveld,1,0,1,65,117,41,28,3,4,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+56,VB van Jaarsveld,JR Hopes,JP Duminy,0,0,0,65,117,12,15,4,5,-,caught,VB van Jaarsveld,CL White,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+57,MV Boucher,JR Hopes,JP Duminy,0,0,0,65,117,0,1,4,6,-,0,,,8,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+58,JP Duminy,DJ Hussey,MV Boucher,1,0,1,66,116,42,29,4,1,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+59,MV Boucher,DJ Hussey,JP Duminy,1,0,1,67,115,1,2,4,2,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+60,JP Duminy,DJ Hussey,MV Boucher,2,0,2,69,113,44,30,4,3,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+61,JP Duminy,DJ Hussey,MV Boucher,1,0,1,70,112,45,31,4,4,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+62,MV Boucher,DJ Hussey,JP Duminy,1,0,1,71,111,2,3,4,5,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+63,JP Duminy,DJ Hussey,MV Boucher,2,0,2,73,109,47,32,4,6,-,0,,,9,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+64,MV Boucher,JR Hopes,JP Duminy,0,1,1,74,108,2,4,4,1,legbyes,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+65,JP Duminy,JR Hopes,MV Boucher,1,0,1,75,107,48,33,4,2,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+66,MV Boucher,JR Hopes,JP Duminy,1,0,1,76,106,3,5,4,3,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+67,JP Duminy,JR Hopes,MV Boucher,2,0,2,78,104,50,34,4,4,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+68,JP Duminy,JR Hopes,MV Boucher,1,0,1,79,103,51,35,4,5,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+69,MV Boucher,JR Hopes,JP Duminy,2,0,2,81,101,5,6,4,6,-,0,,,10,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+70,JP Duminy,DJ Hussey,MV Boucher,1,0,1,82,100,52,36,4,1,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+71,MV Boucher,DJ Hussey,JP Duminy,0,0,0,82,100,5,7,5,2,-,caught,MV Boucher,MEK Hussey,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+72,JP Duminy,DJ Hussey,JA Morkel,1,0,1,83,99,53,37,5,3,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+73,JA Morkel,DJ Hussey,JP Duminy,1,0,1,84,98,1,1,5,4,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+74,JP Duminy,DJ Hussey,JA Morkel,1,0,1,85,97,54,38,5,5,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+75,JA Morkel,DJ Hussey,JP Duminy,0,1,1,86,96,1,2,5,6,wides,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+76,JA Morkel,DJ Hussey,JP Duminy,0,0,0,86,96,1,3,5,7,-,0,,,11,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+77,JP Duminy,JR Hopes,JA Morkel,0,0,0,86,96,54,39,5,1,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+78,JP Duminy,JR Hopes,JA Morkel,1,0,1,87,95,55,40,5,2,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+79,JA Morkel,JR Hopes,JP Duminy,0,1,1,88,94,1,4,5,3,wides,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+80,JA Morkel,JR Hopes,JP Duminy,1,0,1,89,93,2,5,5,4,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+81,JP Duminy,JR Hopes,JA Morkel,4,0,4,93,89,59,41,5,5,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+82,JP Duminy,JR Hopes,JA Morkel,4,0,4,97,85,63,42,5,6,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+83,JP Duminy,JR Hopes,JA Morkel,1,0,1,98,84,64,43,5,7,-,0,,,12,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+84,JP Duminy,SW Tait,JA Morkel,6,0,6,104,78,70,44,5,1,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+85,JP Duminy,SW Tait,JA Morkel,0,0,0,104,78,70,45,5,2,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+86,JP Duminy,SW Tait,JA Morkel,2,0,2,106,76,72,46,5,3,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+87,JP Duminy,SW Tait,JA Morkel,2,0,2,108,74,74,47,5,4,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+88,JP Duminy,SW Tait,JA Morkel,1,0,1,109,73,75,48,5,5,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+89,JA Morkel,SW Tait,JP Duminy,5,0,5,114,68,7,6,5,6,-,0,,,13,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+90,JA Morkel,NW Bracken,JP Duminy,4,0,4,118,64,11,7,5,1,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+91,JA Morkel,NW Bracken,JP Duminy,1,0,1,119,63,12,8,5,2,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+92,JP Duminy,NW Bracken,JA Morkel,1,0,1,120,62,76,49,5,3,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+93,JA Morkel,NW Bracken,JP Duminy,0,0,0,120,62,12,9,5,4,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+94,JA Morkel,NW Bracken,JP Duminy,0,0,0,120,62,12,10,6,5,-,caught,JA Morkel,CL White,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+95,JP Duminy,NW Bracken,J Botha,2,0,2,122,60,78,50,6,6,-,0,,,14,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+96,J Botha,DJ Hussey,JP Duminy,1,0,1,123,59,1,1,6,1,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+97,JP Duminy,DJ Hussey,J Botha,0,0,0,123,59,78,51,7,2,-,lbw,JP Duminy,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+98,DW Steyn,DJ Hussey,J Botha,1,0,1,124,58,1,1,7,3,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+99,J Botha,DJ Hussey,DW Steyn,1,0,1,125,57,2,2,7,4,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+100,DW Steyn,DJ Hussey,J Botha,0,0,0,125,57,1,2,8,5,-,caught,DW Steyn,NW Bracken,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+101,J Botha,DJ Hussey,M Ntini,1,0,1,126,56,3,3,8,6,-,0,,,15,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+102,J Botha,BW Hilfenhaus,M Ntini,1,0,1,127,55,4,4,8,1,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+103,M Ntini,BW Hilfenhaus,J Botha,0,0,0,127,55,0,1,9,2,-,bowled,M Ntini,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+104,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,1,9,3,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+105,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,2,9,4,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+106,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,3,9,5,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+107,LL Tsotsobe,BW Hilfenhaus,J Botha,0,0,0,127,55,0,4,9,6,-,0,,,16,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+108,J Botha,SW Tait,LL Tsotsobe,1,0,1,128,54,5,5,9,1,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+109,LL Tsotsobe,SW Tait,J Botha,0,0,0,128,54,0,5,9,2,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+110,LL Tsotsobe,SW Tait,J Botha,1,0,1,129,53,1,6,9,3,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+111,J Botha,SW Tait,LL Tsotsobe,0,0,0,129,53,5,6,9,4,-,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+112,J Botha,SW Tait,LL Tsotsobe,0,1,1,130,52,5,7,9,5,legbyes,0,,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130
+113,LL Tsotsobe,SW Tait,J Botha,0,0,0,130,52,1,7,10,6,-,bowled,LL Tsotsobe,,17,bat,Australia,2,Melbourne Cricket Ground,2009,01,Australia_South Africa_2009-01-11,Australia,South Africa,Australia,False,130

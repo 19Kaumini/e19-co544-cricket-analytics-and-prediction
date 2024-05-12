@@ -1,119 +1,119 @@
-,batter,bowler,non_striker,replacements,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,1,0,1,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-1,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,2,0,2,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-2,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,3,0,3,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-3,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,"{'role': [{'in': 'Mohammad Hafeez', 'out': 'Imran Nazir', 'reason': 'injury', 'role': 'batter'}]}",1,0,1,1,139,1,1,0,4,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-4,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,2,0,2,3,137,2,1,0,5,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-5,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,4,0,4,7,133,6,2,0,6,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-6,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,7,133,1,2,0,1,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-7,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,2,0,2,9,131,3,3,0,2,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-8,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,9,131,3,4,0,3,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-9,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,4,0,4,13,127,7,5,0,4,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-10,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,13,127,7,6,0,5,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-11,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,13,127,7,7,0,6,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-12,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,14,126,6,3,0,1,2,legbyes,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-13,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,4,0,4,18,122,11,8,0,2,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-14,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,0,1,1,19,121,11,9,0,3,2,wides,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-15,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,0,0,0,19,121,11,10,0,4,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-16,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,1,0,1,20,120,12,11,0,5,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-17,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,6,0,6,26,114,12,4,0,6,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-18,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,4,0,4,30,110,16,5,0,7,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-19,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,4,0,4,34,106,16,12,0,1,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-20,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,34,106,16,13,0,2,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-21,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,1,1,35,105,16,14,0,3,3,noballs,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-22,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,1,0,1,36,104,17,15,0,4,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-23,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,40,100,20,6,0,5,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-24,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,1,0,1,41,99,21,7,0,6,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-25,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,41,99,17,16,0,7,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-26,Shahid Afridi,Abdur Razzak,Mohammad Hafeez,,1,0,1,42,98,22,8,0,1,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-27,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,42,98,17,17,0,2,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-28,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,4,0,4,46,94,21,18,0,3,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-29,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,2,0,2,48,92,23,19,0,4,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-30,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,48,92,23,20,0,5,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-31,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,48,92,23,21,0,6,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-32,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,52,88,26,9,0,1,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-33,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,2,0,2,54,86,28,10,0,2,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-34,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,58,82,32,11,0,3,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-35,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,1,0,1,59,81,33,12,0,4,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-36,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,59,81,23,22,1,5,5,-,caught,Mohammad Hafeez,Tamim Iqbal,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-37,Shahid Afridi,Syed Rasel,Salman Butt,,6,0,6,65,75,39,13,1,6,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-38,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,1,1,1,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-39,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,2,1,2,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-40,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,3,1,3,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-41,Salman Butt,Abdur Razzak,Shahid Afridi,,1,0,1,66,74,1,4,1,4,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-42,Shahid Afridi,Abdur Razzak,Salman Butt,,0,0,0,66,74,39,14,1,5,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-43,Shahid Afridi,Abdur Razzak,Salman Butt,,0,0,0,66,74,39,15,2,6,6,-,caught,Shahid Afridi,Mushfiqur Rahim,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-44,Salman Butt,Shakib Al Hasan,Younis Khan,,1,0,1,67,73,2,5,2,1,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-45,Younis Khan,Shakib Al Hasan,Salman Butt,,0,0,0,67,73,0,1,2,2,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-46,Younis Khan,Shakib Al Hasan,Salman Butt,,0,0,0,67,73,0,2,2,3,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-47,Younis Khan,Shakib Al Hasan,Salman Butt,,1,0,1,68,72,1,3,2,4,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-48,Salman Butt,Shakib Al Hasan,Younis Khan,,0,0,0,68,72,2,6,2,5,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-49,Salman Butt,Shakib Al Hasan,Younis Khan,,0,0,0,68,72,2,7,2,6,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-50,Younis Khan,Abdur Razzak,Salman Butt,,0,0,0,68,72,1,4,2,1,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-51,Younis Khan,Abdur Razzak,Salman Butt,,0,1,1,69,71,1,5,3,2,8,wides,stumped,Younis Khan,Mushfiqur Rahim,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-52,Shoaib Malik,Abdur Razzak,Salman Butt,,0,0,0,69,71,0,1,3,3,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-53,Shoaib Malik,Abdur Razzak,Salman Butt,,1,0,1,70,70,1,2,3,4,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-54,Salman Butt,Abdur Razzak,Shoaib Malik,,0,0,0,70,70,2,8,3,5,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-55,Salman Butt,Abdur Razzak,Shoaib Malik,,1,0,1,71,69,3,9,3,6,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-56,Shoaib Malik,Abdur Razzak,Salman Butt,,1,0,1,72,68,2,3,3,7,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-57,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,4,3,1,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-58,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,5,3,2,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-59,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,6,3,3,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-60,Shoaib Malik,Shakib Al Hasan,Salman Butt,,2,0,2,74,66,4,7,3,4,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-61,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,75,65,5,8,3,5,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-62,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,76,64,4,10,3,6,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-63,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,77,63,5,11,3,1,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-64,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,77,63,5,9,3,2,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-65,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,77,63,5,10,3,3,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-66,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,78,62,6,11,3,4,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-67,Salman Butt,Mahmudullah,Shoaib Malik,,2,0,2,80,60,7,12,3,5,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-68,Salman Butt,Mahmudullah,Shoaib Malik,,0,1,1,81,59,7,13,3,6,10,wides,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-69,Salman Butt,Mahmudullah,Shoaib Malik,,0,0,0,81,59,7,14,3,7,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-70,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,81,59,6,12,3,1,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-71,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,81,59,6,13,3,2,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-72,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,82,58,7,14,3,3,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-73,Salman Butt,Shakib Al Hasan,Shoaib Malik,,0,0,0,82,58,7,15,3,4,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-74,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,83,57,8,16,3,5,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-75,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,84,56,8,15,3,6,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-76,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,85,55,9,16,3,1,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-77,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,86,54,9,17,3,2,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-78,Shoaib Malik,Mahmudullah,Salman Butt,,4,0,4,90,50,13,17,3,3,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-79,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,91,49,14,18,3,4,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-80,Salman Butt,Mahmudullah,Shoaib Malik,,0,0,0,91,49,9,18,3,5,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-81,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,92,48,10,19,3,6,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-82,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,93,47,11,20,3,1,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-83,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,94,46,15,19,3,2,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-84,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,95,45,12,21,3,3,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-85,Shoaib Malik,Shakib Al Hasan,Salman Butt,,4,0,4,99,41,19,20,3,4,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-86,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,100,40,20,21,3,5,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-87,Salman Butt,Shakib Al Hasan,Shoaib Malik,,0,0,0,100,40,12,22,3,6,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-88,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,101,39,21,22,3,1,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-89,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,102,38,13,23,3,2,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-90,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,102,38,21,23,4,3,14,-,caught,Shoaib Malik,Aftab Ahmed,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-91,Salman Butt,Mahmudullah,Misbah-ul-Haq,,1,0,1,103,37,14,24,4,4,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-92,Misbah-ul-Haq,Mahmudullah,Salman Butt,,1,0,1,104,36,1,1,4,5,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-93,Salman Butt,Mahmudullah,Misbah-ul-Haq,,1,0,1,105,35,15,25,4,6,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-94,Salman Butt,Mashrafe Mortaza,Misbah-ul-Haq,,1,0,1,106,34,16,26,4,1,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-95,Misbah-ul-Haq,Mashrafe Mortaza,Salman Butt,,0,0,0,106,34,1,2,5,2,15,-,lbw,Misbah-ul-Haq,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-96,Imran Nazir,Mashrafe Mortaza,Salman Butt,,4,0,4,110,30,4,4,5,3,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-97,Imran Nazir,Mashrafe Mortaza,Salman Butt,,1,0,1,111,29,5,5,5,4,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-98,Salman Butt,Mashrafe Mortaza,Imran Nazir,,3,0,3,114,26,19,27,5,5,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-99,Imran Nazir,Mashrafe Mortaza,Salman Butt,,1,0,1,115,25,6,6,5,6,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-100,Imran Nazir,Mahmudullah,Salman Butt,,1,0,1,116,24,7,7,5,1,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-101,Salman Butt,Mahmudullah,Imran Nazir,,1,0,1,117,23,20,28,5,2,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-102,Imran Nazir,Mahmudullah,Salman Butt,,1,0,1,118,22,8,8,5,3,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-103,Salman Butt,Mahmudullah,Imran Nazir,,1,0,1,119,21,21,29,6,4,16,-,run out,Salman Butt,Shakib Al Hasan;Mushfiqur Rahim;Mahmudullah,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-104,Imran Nazir,Mahmudullah,Kamran Akmal,,6,0,6,125,15,14,9,6,5,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-105,Imran Nazir,Mahmudullah,Kamran Akmal,,0,0,0,125,15,14,10,6,6,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-106,Kamran Akmal,Abdur Razzak,Imran Nazir,,1,0,1,126,14,1,1,6,1,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-107,Imran Nazir,Abdur Razzak,Kamran Akmal,,1,0,1,127,13,15,11,6,2,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-108,Kamran Akmal,Abdur Razzak,Imran Nazir,,0,0,0,127,13,1,2,6,3,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-109,Kamran Akmal,Abdur Razzak,Imran Nazir,,1,0,1,128,12,2,3,6,4,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-110,Imran Nazir,Abdur Razzak,Kamran Akmal,,0,0,0,128,12,15,12,6,5,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-111,Imran Nazir,Abdur Razzak,Kamran Akmal,,1,0,1,129,11,16,13,6,6,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-112,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,4,0,4,133,7,20,14,6,1,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-113,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,1,0,1,134,6,21,15,6,2,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-114,Kamran Akmal,Mashrafe Mortaza,Imran Nazir,,1,0,1,135,5,3,4,6,3,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-115,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,4,0,4,139,1,25,16,6,4,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-116,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,0,0,0,139,1,25,17,6,5,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
-117,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,2,0,2,141,-1,27,18,6,6,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,141
+,batter,bowler,non_striker,replacements,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,1,0,1,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+1,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,2,0,2,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+2,Imran Nazir,Mashrafe Mortaza,Shahid Afridi,,0,0,0,0,140,0,3,0,3,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+3,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,"{'role': [{'in': 'Mohammad Hafeez', 'out': 'Imran Nazir', 'reason': 'injury', 'role': 'batter'}]}",1,0,1,1,139,1,1,0,4,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+4,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,2,0,2,3,137,2,1,0,5,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+5,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,4,0,4,7,133,6,2,0,6,0,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+6,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,7,133,1,2,0,1,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+7,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,2,0,2,9,131,3,3,0,2,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+8,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,9,131,3,4,0,3,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+9,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,4,0,4,13,127,7,5,0,4,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+10,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,13,127,7,6,0,5,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+11,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,13,127,7,7,0,6,1,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+12,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,14,126,6,3,0,1,2,legbyes,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+13,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,4,0,4,18,122,11,8,0,2,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+14,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,0,1,1,19,121,11,9,0,3,2,wides,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+15,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,0,0,0,19,121,11,10,0,4,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+16,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,1,0,1,20,120,12,11,0,5,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+17,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,6,0,6,26,114,12,4,0,6,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+18,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,4,0,4,30,110,16,5,0,7,2,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+19,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,4,0,4,34,106,16,12,0,1,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+20,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,34,106,16,13,0,2,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+21,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,1,1,35,105,16,14,0,3,3,noballs,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+22,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,1,0,1,36,104,17,15,0,4,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+23,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,40,100,20,6,0,5,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+24,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,1,0,1,41,99,21,7,0,6,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+25,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,41,99,17,16,0,7,3,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+26,Shahid Afridi,Abdur Razzak,Mohammad Hafeez,,1,0,1,42,98,22,8,0,1,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+27,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,42,98,17,17,0,2,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+28,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,4,0,4,46,94,21,18,0,3,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+29,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,2,0,2,48,92,23,19,0,4,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+30,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,48,92,23,20,0,5,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+31,Mohammad Hafeez,Abdur Razzak,Shahid Afridi,,0,0,0,48,92,23,21,0,6,4,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+32,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,52,88,26,9,0,1,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+33,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,2,0,2,54,86,28,10,0,2,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+34,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,4,0,4,58,82,32,11,0,3,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+35,Shahid Afridi,Syed Rasel,Mohammad Hafeez,,1,0,1,59,81,33,12,0,4,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+36,Mohammad Hafeez,Syed Rasel,Shahid Afridi,,0,0,0,59,81,23,22,1,5,5,-,caught,Mohammad Hafeez,Tamim Iqbal,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+37,Shahid Afridi,Syed Rasel,Salman Butt,,6,0,6,65,75,39,13,1,6,5,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+38,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,1,1,1,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+39,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,2,1,2,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+40,Salman Butt,Abdur Razzak,Shahid Afridi,,0,0,0,65,75,0,3,1,3,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+41,Salman Butt,Abdur Razzak,Shahid Afridi,,1,0,1,66,74,1,4,1,4,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+42,Shahid Afridi,Abdur Razzak,Salman Butt,,0,0,0,66,74,39,14,1,5,6,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+43,Shahid Afridi,Abdur Razzak,Salman Butt,,0,0,0,66,74,39,15,2,6,6,-,caught,Shahid Afridi,Mushfiqur Rahim,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+44,Salman Butt,Shakib Al Hasan,Younis Khan,,1,0,1,67,73,2,5,2,1,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+45,Younis Khan,Shakib Al Hasan,Salman Butt,,0,0,0,67,73,0,1,2,2,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+46,Younis Khan,Shakib Al Hasan,Salman Butt,,0,0,0,67,73,0,2,2,3,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+47,Younis Khan,Shakib Al Hasan,Salman Butt,,1,0,1,68,72,1,3,2,4,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+48,Salman Butt,Shakib Al Hasan,Younis Khan,,0,0,0,68,72,2,6,2,5,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+49,Salman Butt,Shakib Al Hasan,Younis Khan,,0,0,0,68,72,2,7,2,6,7,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+50,Younis Khan,Abdur Razzak,Salman Butt,,0,0,0,68,72,1,4,2,1,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+51,Younis Khan,Abdur Razzak,Salman Butt,,0,1,1,69,71,1,5,3,2,8,wides,stumped,Younis Khan,Mushfiqur Rahim,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+52,Shoaib Malik,Abdur Razzak,Salman Butt,,0,0,0,69,71,0,1,3,3,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+53,Shoaib Malik,Abdur Razzak,Salman Butt,,1,0,1,70,70,1,2,3,4,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+54,Salman Butt,Abdur Razzak,Shoaib Malik,,0,0,0,70,70,2,8,3,5,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+55,Salman Butt,Abdur Razzak,Shoaib Malik,,1,0,1,71,69,3,9,3,6,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+56,Shoaib Malik,Abdur Razzak,Salman Butt,,1,0,1,72,68,2,3,3,7,8,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+57,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,4,3,1,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+58,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,5,3,2,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+59,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,72,68,2,6,3,3,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+60,Shoaib Malik,Shakib Al Hasan,Salman Butt,,2,0,2,74,66,4,7,3,4,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+61,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,75,65,5,8,3,5,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+62,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,76,64,4,10,3,6,9,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+63,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,77,63,5,11,3,1,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+64,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,77,63,5,9,3,2,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+65,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,77,63,5,10,3,3,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+66,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,78,62,6,11,3,4,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+67,Salman Butt,Mahmudullah,Shoaib Malik,,2,0,2,80,60,7,12,3,5,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+68,Salman Butt,Mahmudullah,Shoaib Malik,,0,1,1,81,59,7,13,3,6,10,wides,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+69,Salman Butt,Mahmudullah,Shoaib Malik,,0,0,0,81,59,7,14,3,7,10,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+70,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,81,59,6,12,3,1,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+71,Shoaib Malik,Shakib Al Hasan,Salman Butt,,0,0,0,81,59,6,13,3,2,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+72,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,82,58,7,14,3,3,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+73,Salman Butt,Shakib Al Hasan,Shoaib Malik,,0,0,0,82,58,7,15,3,4,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+74,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,83,57,8,16,3,5,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+75,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,84,56,8,15,3,6,11,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+76,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,85,55,9,16,3,1,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+77,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,86,54,9,17,3,2,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+78,Shoaib Malik,Mahmudullah,Salman Butt,,4,0,4,90,50,13,17,3,3,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+79,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,91,49,14,18,3,4,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+80,Salman Butt,Mahmudullah,Shoaib Malik,,0,0,0,91,49,9,18,3,5,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+81,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,92,48,10,19,3,6,12,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+82,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,93,47,11,20,3,1,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+83,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,94,46,15,19,3,2,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+84,Salman Butt,Shakib Al Hasan,Shoaib Malik,,1,0,1,95,45,12,21,3,3,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+85,Shoaib Malik,Shakib Al Hasan,Salman Butt,,4,0,4,99,41,19,20,3,4,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+86,Shoaib Malik,Shakib Al Hasan,Salman Butt,,1,0,1,100,40,20,21,3,5,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+87,Salman Butt,Shakib Al Hasan,Shoaib Malik,,0,0,0,100,40,12,22,3,6,13,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+88,Shoaib Malik,Mahmudullah,Salman Butt,,1,0,1,101,39,21,22,3,1,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+89,Salman Butt,Mahmudullah,Shoaib Malik,,1,0,1,102,38,13,23,3,2,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+90,Shoaib Malik,Mahmudullah,Salman Butt,,0,0,0,102,38,21,23,4,3,14,-,caught,Shoaib Malik,Aftab Ahmed,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+91,Salman Butt,Mahmudullah,Misbah-ul-Haq,,1,0,1,103,37,14,24,4,4,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+92,Misbah-ul-Haq,Mahmudullah,Salman Butt,,1,0,1,104,36,1,1,4,5,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+93,Salman Butt,Mahmudullah,Misbah-ul-Haq,,1,0,1,105,35,15,25,4,6,14,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+94,Salman Butt,Mashrafe Mortaza,Misbah-ul-Haq,,1,0,1,106,34,16,26,4,1,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+95,Misbah-ul-Haq,Mashrafe Mortaza,Salman Butt,,0,0,0,106,34,1,2,5,2,15,-,lbw,Misbah-ul-Haq,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+96,Imran Nazir,Mashrafe Mortaza,Salman Butt,,4,0,4,110,30,4,4,5,3,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+97,Imran Nazir,Mashrafe Mortaza,Salman Butt,,1,0,1,111,29,5,5,5,4,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+98,Salman Butt,Mashrafe Mortaza,Imran Nazir,,3,0,3,114,26,19,27,5,5,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+99,Imran Nazir,Mashrafe Mortaza,Salman Butt,,1,0,1,115,25,6,6,5,6,15,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+100,Imran Nazir,Mahmudullah,Salman Butt,,1,0,1,116,24,7,7,5,1,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+101,Salman Butt,Mahmudullah,Imran Nazir,,1,0,1,117,23,20,28,5,2,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+102,Imran Nazir,Mahmudullah,Salman Butt,,1,0,1,118,22,8,8,5,3,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+103,Salman Butt,Mahmudullah,Imran Nazir,,1,0,1,119,21,21,29,6,4,16,-,run out,Salman Butt,Shakib Al Hasan;Mushfiqur Rahim;Mahmudullah,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+104,Imran Nazir,Mahmudullah,Kamran Akmal,,6,0,6,125,15,14,9,6,5,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+105,Imran Nazir,Mahmudullah,Kamran Akmal,,0,0,0,125,15,14,10,6,6,16,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+106,Kamran Akmal,Abdur Razzak,Imran Nazir,,1,0,1,126,14,1,1,6,1,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+107,Imran Nazir,Abdur Razzak,Kamran Akmal,,1,0,1,127,13,15,11,6,2,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+108,Kamran Akmal,Abdur Razzak,Imran Nazir,,0,0,0,127,13,1,2,6,3,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+109,Kamran Akmal,Abdur Razzak,Imran Nazir,,1,0,1,128,12,2,3,6,4,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+110,Imran Nazir,Abdur Razzak,Kamran Akmal,,0,0,0,128,12,15,12,6,5,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+111,Imran Nazir,Abdur Razzak,Kamran Akmal,,1,0,1,129,11,16,13,6,6,17,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+112,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,4,0,4,133,7,20,14,6,1,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+113,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,1,0,1,134,6,21,15,6,2,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+114,Kamran Akmal,Mashrafe Mortaza,Imran Nazir,,1,0,1,135,5,3,4,6,3,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+115,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,4,0,4,139,1,25,16,6,4,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+116,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,0,0,0,139,1,25,17,6,5,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141
+117,Imran Nazir,Mashrafe Mortaza,Kamran Akmal,,2,0,2,141,-1,27,18,6,6,18,-,0,,,field,Pakistan,2,Newlands,2007,09,Bangladesh_Pakistan_2007-09-20,Pakistan,Pakistan,Bangladesh,True,141

@@ -1,87 +1,87 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,T Bavuma,Shaheen Shah Afridi,Q de Kock,1,0,1,1,184,1,1,0,1,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-1,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,1,0,2,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-2,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,2,0,3,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-3,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,3,0,4,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-4,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,4,0,5,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-5,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,5,1,6,caught,Q de Kock,Mohammad Haris,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-6,T Bavuma,Naseem Shah,RR Rossouw,0,1,1,2,183,1,2,1,1,0,,,1,wides,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-7,T Bavuma,Naseem Shah,RR Rossouw,1,0,1,3,182,2,3,1,2,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-8,RR Rossouw,Naseem Shah,T Bavuma,0,0,0,3,182,0,1,1,3,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-9,RR Rossouw,Naseem Shah,T Bavuma,6,0,6,9,176,6,2,1,4,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-10,RR Rossouw,Naseem Shah,T Bavuma,1,0,1,10,175,7,3,1,5,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-11,T Bavuma,Naseem Shah,RR Rossouw,4,0,4,14,171,6,4,1,6,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-12,T Bavuma,Naseem Shah,RR Rossouw,1,0,1,15,170,7,5,1,7,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-13,T Bavuma,Shaheen Shah Afridi,RR Rossouw,1,0,1,16,169,8,6,1,1,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-14,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,4,1,2,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-15,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,5,1,3,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-16,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,6,2,4,caught,RR Rossouw,Naseem Shah,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-17,AK Markram,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,0,1,2,5,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-18,AK Markram,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,0,2,2,6,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-19,T Bavuma,Haris Rauf,AK Markram,4,0,4,20,165,12,7,2,1,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-20,T Bavuma,Haris Rauf,AK Markram,2,0,2,22,163,14,8,2,2,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-21,T Bavuma,Haris Rauf,AK Markram,0,1,1,23,162,14,9,2,3,0,,,3,wides,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-22,T Bavuma,Haris Rauf,AK Markram,4,0,4,27,158,18,10,2,4,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-23,T Bavuma,Haris Rauf,AK Markram,1,0,1,28,157,19,11,2,5,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-24,AK Markram,Haris Rauf,T Bavuma,4,0,4,32,153,4,3,2,6,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-25,AK Markram,Haris Rauf,T Bavuma,4,0,4,36,149,8,4,2,7,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-26,T Bavuma,Naseem Shah,AK Markram,1,0,1,37,148,20,12,2,1,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-27,AK Markram,Naseem Shah,T Bavuma,0,0,0,37,148,8,5,2,2,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-28,AK Markram,Naseem Shah,T Bavuma,0,0,0,37,148,8,6,2,3,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-29,AK Markram,Naseem Shah,T Bavuma,2,0,2,39,146,10,7,2,4,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-30,AK Markram,Naseem Shah,T Bavuma,0,0,0,39,146,10,8,2,5,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-31,AK Markram,Naseem Shah,T Bavuma,0,0,0,39,146,10,9,2,6,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-32,T Bavuma,Mohammad Wasim,AK Markram,4,0,4,43,142,24,13,2,1,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-33,T Bavuma,Mohammad Wasim,AK Markram,0,0,0,43,142,24,14,2,2,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-34,T Bavuma,Mohammad Wasim,AK Markram,1,0,1,44,141,25,15,2,3,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-35,AK Markram,Mohammad Wasim,T Bavuma,1,0,1,45,140,11,10,2,4,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-36,T Bavuma,Mohammad Wasim,AK Markram,2,0,2,47,138,27,16,2,5,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-37,T Bavuma,Mohammad Wasim,AK Markram,1,0,1,48,137,28,17,2,6,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-38,T Bavuma,Haris Rauf,AK Markram,6,0,6,54,131,34,18,2,1,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-39,T Bavuma,Haris Rauf,AK Markram,1,0,1,55,130,35,19,2,2,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-40,AK Markram,Haris Rauf,T Bavuma,4,0,4,59,126,15,11,2,3,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-41,AK Markram,Haris Rauf,T Bavuma,1,0,1,60,125,16,12,2,4,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-42,T Bavuma,Haris Rauf,AK Markram,1,0,1,61,124,36,20,2,5,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-43,AK Markram,Haris Rauf,T Bavuma,4,0,4,65,120,20,13,2,6,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-44,T Bavuma,Shadab Khan,AK Markram,0,0,0,65,120,36,21,3,1,caught,T Bavuma,Mohammad Rizwan,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-45,H Klaasen,Shadab Khan,AK Markram,1,0,1,66,119,1,1,3,2,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-46,AK Markram,Shadab Khan,H Klaasen,0,0,0,66,119,20,14,4,3,bowled,AK Markram,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-47,T Stubbs,Shadab Khan,H Klaasen,0,0,0,66,119,0,1,4,4,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-48,T Stubbs,Shadab Khan,H Klaasen,1,0,1,67,118,1,2,4,5,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-49,H Klaasen,Shadab Khan,T Stubbs,0,0,0,67,118,1,2,4,6,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-50,T Stubbs,Mohammad Nawaz,H Klaasen,1,0,1,68,117,2,3,4,1,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-51,H Klaasen,Mohammad Nawaz,T Stubbs,0,0,0,68,117,1,3,4,2,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-52,H Klaasen,Mohammad Nawaz,T Stubbs,1,0,1,69,116,2,4,4,3,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-53,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,4,4,4,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-54,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,5,4,5,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-55,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,6,4,6,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-56,H Klaasen,Shadab Khan,T Stubbs,1,0,1,70,115,3,5,4,1,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-57,T Stubbs,Shadab Khan,H Klaasen,6,0,6,76,109,8,7,4,2,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-58,T Stubbs,Shadab Khan,H Klaasen,2,0,2,78,107,10,8,4,3,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-59,T Stubbs,Shadab Khan,H Klaasen,0,0,0,78,107,10,9,4,4,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-60,T Stubbs,Shadab Khan,H Klaasen,1,0,1,79,106,11,10,4,5,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-61,H Klaasen,Shadab Khan,T Stubbs,4,0,4,83,102,7,6,4,6,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-62,T Stubbs,Shaheen Shah Afridi,H Klaasen,2,0,2,85,100,13,11,4,1,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-63,T Stubbs,Shaheen Shah Afridi,H Klaasen,1,0,1,86,99,14,12,4,2,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-64,H Klaasen,Shaheen Shah Afridi,T Stubbs,4,0,4,90,95,11,7,4,3,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-65,H Klaasen,Shaheen Shah Afridi,T Stubbs,4,0,4,94,91,15,8,4,4,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-66,H Klaasen,Shaheen Shah Afridi,T Stubbs,0,0,0,94,91,15,9,5,5,caught,H Klaasen,Mohammad Wasim,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-67,WD Parnell,Shaheen Shah Afridi,T Stubbs,1,0,1,95,90,1,1,5,6,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-68,WD Parnell,Mohammad Wasim,T Stubbs,1,0,1,96,89,2,2,5,1,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-69,T Stubbs,Mohammad Wasim,WD Parnell,1,0,1,97,88,15,13,5,2,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-70,WD Parnell,Mohammad Wasim,T Stubbs,1,0,1,98,87,3,3,5,3,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-71,T Stubbs,Mohammad Wasim,WD Parnell,1,0,1,99,86,16,14,5,4,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-72,WD Parnell,Mohammad Wasim,T Stubbs,0,0,0,99,86,3,4,6,5,lbw,WD Parnell,,11,-,"{'by': 'South Africa', 'umpire': 'CB Gaffaney', 'batter': 'WD Parnell', 'decision': 'struck down'}",bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-73,K Rabada,Mohammad Wasim,T Stubbs,0,0,0,99,86,0,1,6,6,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-74,T Stubbs,Naseem Shah,K Rabada,2,0,2,101,84,18,15,6,1,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-75,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,16,6,2,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-76,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,17,6,3,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-77,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,18,7,4,caught,T Stubbs,Mohammad Nawaz,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-78,A Nortje,Naseem Shah,K Rabada,0,0,0,101,84,0,1,7,5,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-79,A Nortje,Naseem Shah,K Rabada,0,0,0,101,84,0,2,7,6,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-80,K Rabada,Haris Rauf,A Nortje,1,0,1,102,83,1,2,7,1,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-81,A Nortje,Haris Rauf,K Rabada,1,0,1,103,82,1,3,8,2,run out,K Rabada,Mohammad Nawaz;Haris Rauf,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-82,A Nortje,Haris Rauf,L Ngidi,0,0,0,103,82,1,4,8,3,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-83,A Nortje,Haris Rauf,L Ngidi,0,0,0,103,82,1,5,9,4,caught,A Nortje,Mohammad Haris,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-84,T Shamsi,Haris Rauf,L Ngidi,1,0,1,104,81,1,1,9,5,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
-85,L Ngidi,Haris Rauf,T Shamsi,4,0,4,108,77,4,1,9,6,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,108
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,T Bavuma,Shaheen Shah Afridi,Q de Kock,1,0,1,1,184,1,1,0,1,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+1,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,1,0,2,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+2,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,2,0,3,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+3,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,3,0,4,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+4,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,4,0,5,0,,,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+5,Q de Kock,Shaheen Shah Afridi,T Bavuma,0,0,0,1,184,0,5,1,6,caught,Q de Kock,Mohammad Haris,0,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+6,T Bavuma,Naseem Shah,RR Rossouw,0,1,1,2,183,1,2,1,1,0,,,1,wides,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+7,T Bavuma,Naseem Shah,RR Rossouw,1,0,1,3,182,2,3,1,2,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+8,RR Rossouw,Naseem Shah,T Bavuma,0,0,0,3,182,0,1,1,3,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+9,RR Rossouw,Naseem Shah,T Bavuma,6,0,6,9,176,6,2,1,4,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+10,RR Rossouw,Naseem Shah,T Bavuma,1,0,1,10,175,7,3,1,5,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+11,T Bavuma,Naseem Shah,RR Rossouw,4,0,4,14,171,6,4,1,6,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+12,T Bavuma,Naseem Shah,RR Rossouw,1,0,1,15,170,7,5,1,7,0,,,1,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+13,T Bavuma,Shaheen Shah Afridi,RR Rossouw,1,0,1,16,169,8,6,1,1,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+14,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,4,1,2,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+15,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,5,1,3,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+16,RR Rossouw,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,7,6,2,4,caught,RR Rossouw,Naseem Shah,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+17,AK Markram,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,0,1,2,5,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+18,AK Markram,Shaheen Shah Afridi,T Bavuma,0,0,0,16,169,0,2,2,6,0,,,2,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+19,T Bavuma,Haris Rauf,AK Markram,4,0,4,20,165,12,7,2,1,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+20,T Bavuma,Haris Rauf,AK Markram,2,0,2,22,163,14,8,2,2,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+21,T Bavuma,Haris Rauf,AK Markram,0,1,1,23,162,14,9,2,3,0,,,3,wides,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+22,T Bavuma,Haris Rauf,AK Markram,4,0,4,27,158,18,10,2,4,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+23,T Bavuma,Haris Rauf,AK Markram,1,0,1,28,157,19,11,2,5,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+24,AK Markram,Haris Rauf,T Bavuma,4,0,4,32,153,4,3,2,6,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+25,AK Markram,Haris Rauf,T Bavuma,4,0,4,36,149,8,4,2,7,0,,,3,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+26,T Bavuma,Naseem Shah,AK Markram,1,0,1,37,148,20,12,2,1,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+27,AK Markram,Naseem Shah,T Bavuma,0,0,0,37,148,8,5,2,2,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+28,AK Markram,Naseem Shah,T Bavuma,0,0,0,37,148,8,6,2,3,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+29,AK Markram,Naseem Shah,T Bavuma,2,0,2,39,146,10,7,2,4,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+30,AK Markram,Naseem Shah,T Bavuma,0,0,0,39,146,10,8,2,5,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+31,AK Markram,Naseem Shah,T Bavuma,0,0,0,39,146,10,9,2,6,0,,,4,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+32,T Bavuma,Mohammad Wasim,AK Markram,4,0,4,43,142,24,13,2,1,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+33,T Bavuma,Mohammad Wasim,AK Markram,0,0,0,43,142,24,14,2,2,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+34,T Bavuma,Mohammad Wasim,AK Markram,1,0,1,44,141,25,15,2,3,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+35,AK Markram,Mohammad Wasim,T Bavuma,1,0,1,45,140,11,10,2,4,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+36,T Bavuma,Mohammad Wasim,AK Markram,2,0,2,47,138,27,16,2,5,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+37,T Bavuma,Mohammad Wasim,AK Markram,1,0,1,48,137,28,17,2,6,0,,,5,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+38,T Bavuma,Haris Rauf,AK Markram,6,0,6,54,131,34,18,2,1,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+39,T Bavuma,Haris Rauf,AK Markram,1,0,1,55,130,35,19,2,2,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+40,AK Markram,Haris Rauf,T Bavuma,4,0,4,59,126,15,11,2,3,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+41,AK Markram,Haris Rauf,T Bavuma,1,0,1,60,125,16,12,2,4,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+42,T Bavuma,Haris Rauf,AK Markram,1,0,1,61,124,36,20,2,5,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+43,AK Markram,Haris Rauf,T Bavuma,4,0,4,65,120,20,13,2,6,0,,,6,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+44,T Bavuma,Shadab Khan,AK Markram,0,0,0,65,120,36,21,3,1,caught,T Bavuma,Mohammad Rizwan,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+45,H Klaasen,Shadab Khan,AK Markram,1,0,1,66,119,1,1,3,2,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+46,AK Markram,Shadab Khan,H Klaasen,0,0,0,66,119,20,14,4,3,bowled,AK Markram,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+47,T Stubbs,Shadab Khan,H Klaasen,0,0,0,66,119,0,1,4,4,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+48,T Stubbs,Shadab Khan,H Klaasen,1,0,1,67,118,1,2,4,5,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+49,H Klaasen,Shadab Khan,T Stubbs,0,0,0,67,118,1,2,4,6,0,,,7,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+50,T Stubbs,Mohammad Nawaz,H Klaasen,1,0,1,68,117,2,3,4,1,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+51,H Klaasen,Mohammad Nawaz,T Stubbs,0,0,0,68,117,1,3,4,2,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+52,H Klaasen,Mohammad Nawaz,T Stubbs,1,0,1,69,116,2,4,4,3,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+53,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,4,4,4,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+54,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,5,4,5,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+55,T Stubbs,Mohammad Nawaz,H Klaasen,0,0,0,69,116,2,6,4,6,0,,,8,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+56,H Klaasen,Shadab Khan,T Stubbs,1,0,1,70,115,3,5,4,1,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+57,T Stubbs,Shadab Khan,H Klaasen,6,0,6,76,109,8,7,4,2,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+58,T Stubbs,Shadab Khan,H Klaasen,2,0,2,78,107,10,8,4,3,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+59,T Stubbs,Shadab Khan,H Klaasen,0,0,0,78,107,10,9,4,4,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+60,T Stubbs,Shadab Khan,H Klaasen,1,0,1,79,106,11,10,4,5,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+61,H Klaasen,Shadab Khan,T Stubbs,4,0,4,83,102,7,6,4,6,0,,,9,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+62,T Stubbs,Shaheen Shah Afridi,H Klaasen,2,0,2,85,100,13,11,4,1,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+63,T Stubbs,Shaheen Shah Afridi,H Klaasen,1,0,1,86,99,14,12,4,2,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+64,H Klaasen,Shaheen Shah Afridi,T Stubbs,4,0,4,90,95,11,7,4,3,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+65,H Klaasen,Shaheen Shah Afridi,T Stubbs,4,0,4,94,91,15,8,4,4,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+66,H Klaasen,Shaheen Shah Afridi,T Stubbs,0,0,0,94,91,15,9,5,5,caught,H Klaasen,Mohammad Wasim,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+67,WD Parnell,Shaheen Shah Afridi,T Stubbs,1,0,1,95,90,1,1,5,6,0,,,10,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+68,WD Parnell,Mohammad Wasim,T Stubbs,1,0,1,96,89,2,2,5,1,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+69,T Stubbs,Mohammad Wasim,WD Parnell,1,0,1,97,88,15,13,5,2,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+70,WD Parnell,Mohammad Wasim,T Stubbs,1,0,1,98,87,3,3,5,3,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+71,T Stubbs,Mohammad Wasim,WD Parnell,1,0,1,99,86,16,14,5,4,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+72,WD Parnell,Mohammad Wasim,T Stubbs,0,0,0,99,86,3,4,6,5,lbw,WD Parnell,,11,-,"{'by': 'South Africa', 'umpire': 'CB Gaffaney', 'batter': 'WD Parnell', 'decision': 'struck down'}",bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+73,K Rabada,Mohammad Wasim,T Stubbs,0,0,0,99,86,0,1,6,6,0,,,11,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+74,T Stubbs,Naseem Shah,K Rabada,2,0,2,101,84,18,15,6,1,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+75,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,16,6,2,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+76,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,17,6,3,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+77,T Stubbs,Naseem Shah,K Rabada,0,0,0,101,84,18,18,7,4,caught,T Stubbs,Mohammad Nawaz,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+78,A Nortje,Naseem Shah,K Rabada,0,0,0,101,84,0,1,7,5,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+79,A Nortje,Naseem Shah,K Rabada,0,0,0,101,84,0,2,7,6,0,,,12,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+80,K Rabada,Haris Rauf,A Nortje,1,0,1,102,83,1,2,7,1,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+81,A Nortje,Haris Rauf,K Rabada,1,0,1,103,82,1,3,8,2,run out,K Rabada,Mohammad Nawaz;Haris Rauf,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+82,A Nortje,Haris Rauf,L Ngidi,0,0,0,103,82,1,4,8,3,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+83,A Nortje,Haris Rauf,L Ngidi,0,0,0,103,82,1,5,9,4,caught,A Nortje,Mohammad Haris,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+84,T Shamsi,Haris Rauf,L Ngidi,1,0,1,104,81,1,1,9,5,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108
+85,L Ngidi,Haris Rauf,T Shamsi,4,0,4,108,77,4,1,9,6,0,,,13,-,,bat,Pakistan,2,Sydney Cricket Ground,2022,11,Pakistan_South Africa_2022-11-03,Pakistan,South Africa,Pakistan,False,108

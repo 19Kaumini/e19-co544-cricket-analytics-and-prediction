@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,AJ Finch,PVD Chameera,BR McDermott,1,0,1,1,156,1,1,0,1,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-1,BR McDermott,PVD Chameera,AJ Finch,0,0,0,1,156,0,1,0,2,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-2,BR McDermott,PVD Chameera,AJ Finch,1,0,1,2,155,1,2,0,3,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-3,AJ Finch,PVD Chameera,BR McDermott,3,0,3,5,152,4,2,0,4,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-4,BR McDermott,PVD Chameera,AJ Finch,0,0,0,5,152,1,3,0,5,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-5,BR McDermott,PVD Chameera,AJ Finch,0,0,0,5,152,1,4,0,6,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-6,AJ Finch,B Fernando,BR McDermott,1,0,1,6,151,5,3,0,1,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-7,BR McDermott,B Fernando,AJ Finch,2,0,2,8,149,3,5,0,2,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-8,BR McDermott,B Fernando,AJ Finch,1,0,1,9,148,4,6,0,3,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-9,AJ Finch,B Fernando,BR McDermott,0,0,0,9,148,5,4,0,4,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-10,AJ Finch,B Fernando,BR McDermott,1,0,1,10,147,6,5,0,5,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-11,BR McDermott,B Fernando,AJ Finch,0,0,0,10,147,4,7,0,6,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-12,AJ Finch,M Theekshana,BR McDermott,0,0,0,10,147,6,6,0,1,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-13,AJ Finch,M Theekshana,BR McDermott,0,1,1,11,146,6,7,0,2,2,"{'by': 'Sri Lanka', 'umpire': 'SAJ Craig', 'batter': 'AJ Finch', 'decision': 'struck down', 'umpires_call': True}",legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-14,BR McDermott,M Theekshana,AJ Finch,0,0,0,11,146,4,8,0,3,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-15,BR McDermott,M Theekshana,AJ Finch,2,0,2,13,144,6,9,0,4,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-16,BR McDermott,M Theekshana,AJ Finch,4,0,4,17,140,10,10,0,5,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-17,BR McDermott,M Theekshana,AJ Finch,1,0,1,18,139,11,11,0,6,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-18,BR McDermott,B Fernando,AJ Finch,1,0,1,19,138,12,12,0,1,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-19,AJ Finch,B Fernando,BR McDermott,1,0,1,20,137,7,8,0,2,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-20,BR McDermott,B Fernando,AJ Finch,0,0,0,20,137,12,13,0,3,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-21,BR McDermott,B Fernando,AJ Finch,1,0,1,21,136,13,14,0,4,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-22,AJ Finch,B Fernando,BR McDermott,0,0,0,21,136,7,9,0,5,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-23,AJ Finch,B Fernando,BR McDermott,0,0,0,21,136,7,10,0,6,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-24,BR McDermott,PWH de Silva,AJ Finch,6,0,6,27,130,19,15,0,1,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-25,BR McDermott,PWH de Silva,AJ Finch,0,1,1,28,129,19,16,0,2,4,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-26,AJ Finch,PWH de Silva,BR McDermott,1,0,1,29,128,8,11,0,3,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-27,BR McDermott,PWH de Silva,AJ Finch,1,0,1,30,127,20,17,0,4,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-28,AJ Finch,PWH de Silva,BR McDermott,0,0,0,30,127,8,12,1,5,4,,-,bowled,AJ Finch,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-29,JP Inglis,PWH de Silva,BR McDermott,0,0,0,30,127,0,1,1,6,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-30,BR McDermott,M Theekshana,JP Inglis,1,0,1,31,126,21,18,1,1,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-31,JP Inglis,M Theekshana,BR McDermott,1,0,1,32,125,1,2,1,2,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-32,BR McDermott,M Theekshana,JP Inglis,0,0,0,32,125,21,19,1,3,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-33,BR McDermott,M Theekshana,JP Inglis,0,0,0,32,125,21,20,1,4,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-34,BR McDermott,M Theekshana,JP Inglis,1,0,1,33,124,22,21,1,5,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-35,JP Inglis,M Theekshana,BR McDermott,4,0,4,37,120,5,3,1,6,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-36,BR McDermott,PWH de Silva,JP Inglis,0,0,0,37,120,22,22,1,1,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-37,BR McDermott,PWH de Silva,JP Inglis,6,0,6,43,114,28,23,1,2,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-38,BR McDermott,PWH de Silva,JP Inglis,1,0,1,44,113,29,24,1,3,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-39,JP Inglis,PWH de Silva,BR McDermott,4,0,4,48,109,9,4,1,4,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-40,JP Inglis,PWH de Silva,BR McDermott,1,0,1,49,108,10,5,1,5,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-41,BR McDermott,PWH de Silva,JP Inglis,0,0,0,49,108,29,25,1,6,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-42,JP Inglis,C Karunaratne,BR McDermott,0,0,0,49,108,10,6,1,1,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-43,JP Inglis,C Karunaratne,BR McDermott,0,0,0,49,108,10,7,1,2,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-44,JP Inglis,C Karunaratne,BR McDermott,1,0,1,50,107,11,8,1,3,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-45,BR McDermott,C Karunaratne,JP Inglis,1,0,1,51,106,30,26,1,4,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-46,JP Inglis,C Karunaratne,BR McDermott,0,0,0,51,106,11,9,1,5,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-47,JP Inglis,C Karunaratne,BR McDermott,0,1,1,52,105,11,10,1,6,7,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-48,JP Inglis,C Karunaratne,BR McDermott,1,0,1,53,104,12,11,1,7,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-49,JP Inglis,MD Shanaka,BR McDermott,2,0,2,55,102,14,12,1,1,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-50,JP Inglis,MD Shanaka,BR McDermott,2,0,2,57,100,16,13,1,2,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-51,JP Inglis,MD Shanaka,BR McDermott,1,0,1,58,99,17,14,1,3,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-52,BR McDermott,MD Shanaka,JP Inglis,1,0,1,59,98,31,27,1,4,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-53,JP Inglis,MD Shanaka,BR McDermott,1,0,1,60,97,18,15,1,5,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-54,BR McDermott,MD Shanaka,JP Inglis,1,0,1,61,96,32,28,1,6,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-55,BR McDermott,PVD Chameera,JP Inglis,6,0,6,67,90,38,29,1,1,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-56,BR McDermott,PVD Chameera,JP Inglis,1,0,1,68,89,39,30,1,2,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-57,JP Inglis,PVD Chameera,BR McDermott,1,0,1,69,88,19,16,1,3,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-58,BR McDermott,PVD Chameera,JP Inglis,0,0,0,69,88,39,31,1,4,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-59,BR McDermott,PVD Chameera,JP Inglis,4,0,4,73,84,43,32,1,5,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-60,BR McDermott,PVD Chameera,JP Inglis,2,0,2,75,82,45,33,1,6,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-61,JP Inglis,C Karunaratne,BR McDermott,0,0,0,75,82,19,17,1,1,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-62,JP Inglis,C Karunaratne,BR McDermott,0,1,1,76,81,19,18,1,2,10,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-63,JP Inglis,C Karunaratne,BR McDermott,4,0,4,80,77,23,19,1,3,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-64,JP Inglis,C Karunaratne,BR McDermott,0,0,0,80,77,23,20,2,4,10,,-,bowled,JP Inglis,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-65,GJ Maxwell,C Karunaratne,BR McDermott,0,0,0,80,77,0,1,2,5,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-66,GJ Maxwell,C Karunaratne,BR McDermott,1,0,1,81,76,1,2,2,6,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-67,BR McDermott,C Karunaratne,GJ Maxwell,0,1,1,82,75,45,34,2,7,10,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-68,BR McDermott,C Karunaratne,GJ Maxwell,1,0,1,83,74,46,35,2,8,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-69,BR McDermott,PWH de Silva,GJ Maxwell,1,0,1,84,73,47,36,2,1,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-70,GJ Maxwell,PWH de Silva,BR McDermott,4,0,4,88,69,5,3,2,2,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-71,GJ Maxwell,PWH de Silva,BR McDermott,2,0,2,90,67,7,4,2,3,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-72,GJ Maxwell,PWH de Silva,BR McDermott,0,0,0,90,67,7,5,3,4,11,,-,caught,GJ Maxwell,C Karunaratne,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-73,BR McDermott,PWH de Silva,SPD Smith,0,0,0,90,67,47,37,3,5,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-74,BR McDermott,PWH de Silva,SPD Smith,2,0,2,92,65,49,38,3,6,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-75,SPD Smith,C Karunaratne,BR McDermott,1,0,1,93,64,1,1,3,1,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-76,BR McDermott,C Karunaratne,SPD Smith,2,0,2,95,62,51,39,3,2,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-77,BR McDermott,C Karunaratne,SPD Smith,1,0,1,96,61,52,40,3,3,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-78,SPD Smith,C Karunaratne,BR McDermott,0,0,0,96,61,1,2,3,4,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-79,SPD Smith,C Karunaratne,BR McDermott,0,0,0,96,61,1,3,3,5,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-80,SPD Smith,C Karunaratne,BR McDermott,1,0,1,97,60,2,4,3,6,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-81,SPD Smith,PWH de Silva,BR McDermott,4,0,4,101,56,6,5,3,1,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-82,SPD Smith,PWH de Silva,BR McDermott,1,0,1,102,55,7,6,3,2,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-83,BR McDermott,PWH de Silva,SPD Smith,1,0,1,103,54,53,41,3,3,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-84,SPD Smith,PWH de Silva,BR McDermott,2,0,2,105,52,9,7,3,4,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-85,SPD Smith,PWH de Silva,BR McDermott,0,0,0,105,52,9,8,4,5,13,,-,bowled,SPD Smith,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-86,MP Stoinis,PWH de Silva,BR McDermott,1,0,1,106,51,1,1,4,6,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-87,MP Stoinis,C Karunaratne,BR McDermott,1,0,1,107,50,2,2,4,1,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-88,BR McDermott,C Karunaratne,MP Stoinis,0,0,0,107,50,53,42,5,2,14,,-,lbw,BR McDermott,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-89,MS Wade,C Karunaratne,MP Stoinis,1,0,1,108,49,1,1,5,3,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-90,MP Stoinis,C Karunaratne,MS Wade,1,0,1,109,48,3,3,5,4,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-91,MS Wade,C Karunaratne,MP Stoinis,1,0,1,110,47,2,2,5,5,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-92,MP Stoinis,C Karunaratne,MS Wade,1,0,1,111,46,4,4,5,6,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-93,MP Stoinis,M Theekshana,MS Wade,0,0,0,111,46,4,5,5,1,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-94,MP Stoinis,M Theekshana,MS Wade,6,0,6,117,40,10,6,5,2,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-95,MP Stoinis,M Theekshana,MS Wade,2,0,2,119,38,12,7,5,3,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-96,MP Stoinis,M Theekshana,MS Wade,4,0,4,123,34,16,8,5,4,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-97,MP Stoinis,M Theekshana,MS Wade,0,0,0,123,34,16,9,5,5,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-98,MP Stoinis,M Theekshana,MS Wade,1,0,1,124,33,17,10,5,6,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-99,MP Stoinis,PVD Chameera,MS Wade,0,0,0,124,33,17,11,5,1,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-100,MP Stoinis,PVD Chameera,MS Wade,4,0,4,128,29,21,12,5,2,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-101,MP Stoinis,PVD Chameera,MS Wade,2,0,2,130,27,23,13,5,3,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-102,MP Stoinis,PVD Chameera,MS Wade,6,0,6,136,21,29,14,5,4,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-103,MP Stoinis,PVD Chameera,MS Wade,1,0,1,137,20,30,15,5,5,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-104,MS Wade,PVD Chameera,MP Stoinis,0,1,1,138,19,2,3,5,6,16,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-105,MS Wade,PVD Chameera,MP Stoinis,2,0,2,140,17,4,4,5,7,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-106,MP Stoinis,B Fernando,MS Wade,0,1,1,141,16,30,16,5,1,17,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-107,MS Wade,B Fernando,MP Stoinis,0,0,0,141,16,4,5,5,2,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-108,MS Wade,B Fernando,MP Stoinis,0,0,0,141,16,4,6,6,3,17,,-,caught,MS Wade,MD Shanaka,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-109,MP Stoinis,B Fernando,PJ Cummins,0,0,0,141,16,30,17,7,4,17,,-,bowled,MP Stoinis,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-110,MA Starc,B Fernando,PJ Cummins,1,0,1,142,15,1,1,7,5,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-111,PJ Cummins,B Fernando,MA Starc,1,0,1,143,14,1,1,7,6,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-112,PJ Cummins,PVD Chameera,MA Starc,1,0,1,144,13,2,2,7,1,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-113,MA Starc,PVD Chameera,PJ Cummins,0,0,0,144,13,1,2,7,2,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-114,MA Starc,PVD Chameera,PJ Cummins,0,0,0,144,13,1,3,8,3,18,,-,bowled,MA Starc,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-115,A Zampa,PVD Chameera,PJ Cummins,1,0,1,145,12,1,1,8,4,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-116,PJ Cummins,PVD Chameera,A Zampa,0,0,0,145,12,2,3,9,5,18,,-,caught,PJ Cummins,C Karunaratne,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-117,A Zampa,PVD Chameera,JR Hazlewood,1,0,1,146,11,2,2,9,6,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-118,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,11,2,3,9,1,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-119,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,11,2,4,9,2,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-120,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,11,2,5,9,3,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-121,A Zampa,B Fernando,JR Hazlewood,0,1,1,147,10,2,6,9,4,19,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-122,JR Hazlewood,B Fernando,A Zampa,0,0,0,147,10,0,1,9,5,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
-123,JR Hazlewood,B Fernando,A Zampa,2,0,2,149,8,2,2,9,6,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,149
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,AJ Finch,PVD Chameera,BR McDermott,1,0,1,1,,1,1,0,1,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+1,BR McDermott,PVD Chameera,AJ Finch,0,0,0,1,,0,1,0,2,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+2,BR McDermott,PVD Chameera,AJ Finch,1,0,1,2,,1,2,0,3,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+3,AJ Finch,PVD Chameera,BR McDermott,3,0,3,5,,4,2,0,4,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+4,BR McDermott,PVD Chameera,AJ Finch,0,0,0,5,,1,3,0,5,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+5,BR McDermott,PVD Chameera,AJ Finch,0,0,0,5,,1,4,0,6,0,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+6,AJ Finch,B Fernando,BR McDermott,1,0,1,6,,5,3,0,1,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+7,BR McDermott,B Fernando,AJ Finch,2,0,2,8,,3,5,0,2,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+8,BR McDermott,B Fernando,AJ Finch,1,0,1,9,,4,6,0,3,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+9,AJ Finch,B Fernando,BR McDermott,0,0,0,9,,5,4,0,4,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+10,AJ Finch,B Fernando,BR McDermott,1,0,1,10,,6,5,0,5,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+11,BR McDermott,B Fernando,AJ Finch,0,0,0,10,,4,7,0,6,1,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+12,AJ Finch,M Theekshana,BR McDermott,0,0,0,10,,6,6,0,1,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+13,AJ Finch,M Theekshana,BR McDermott,0,1,1,11,,6,7,0,2,2,"{'by': 'Sri Lanka', 'umpire': 'SAJ Craig', 'batter': 'AJ Finch', 'decision': 'struck down', 'umpires_call': True}",legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+14,BR McDermott,M Theekshana,AJ Finch,0,0,0,11,,4,8,0,3,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+15,BR McDermott,M Theekshana,AJ Finch,2,0,2,13,,6,9,0,4,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+16,BR McDermott,M Theekshana,AJ Finch,4,0,4,17,,10,10,0,5,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+17,BR McDermott,M Theekshana,AJ Finch,1,0,1,18,,11,11,0,6,2,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+18,BR McDermott,B Fernando,AJ Finch,1,0,1,19,,12,12,0,1,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+19,AJ Finch,B Fernando,BR McDermott,1,0,1,20,,7,8,0,2,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+20,BR McDermott,B Fernando,AJ Finch,0,0,0,20,,12,13,0,3,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+21,BR McDermott,B Fernando,AJ Finch,1,0,1,21,,13,14,0,4,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+22,AJ Finch,B Fernando,BR McDermott,0,0,0,21,,7,9,0,5,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+23,AJ Finch,B Fernando,BR McDermott,0,0,0,21,,7,10,0,6,3,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+24,BR McDermott,PWH de Silva,AJ Finch,6,0,6,27,,19,15,0,1,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+25,BR McDermott,PWH de Silva,AJ Finch,0,1,1,28,,19,16,0,2,4,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+26,AJ Finch,PWH de Silva,BR McDermott,1,0,1,29,,8,11,0,3,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+27,BR McDermott,PWH de Silva,AJ Finch,1,0,1,30,,20,17,0,4,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+28,AJ Finch,PWH de Silva,BR McDermott,0,0,0,30,,8,12,1,5,4,,-,bowled,AJ Finch,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+29,JP Inglis,PWH de Silva,BR McDermott,0,0,0,30,,0,1,1,6,4,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+30,BR McDermott,M Theekshana,JP Inglis,1,0,1,31,,21,18,1,1,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+31,JP Inglis,M Theekshana,BR McDermott,1,0,1,32,,1,2,1,2,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+32,BR McDermott,M Theekshana,JP Inglis,0,0,0,32,,21,19,1,3,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+33,BR McDermott,M Theekshana,JP Inglis,0,0,0,32,,21,20,1,4,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+34,BR McDermott,M Theekshana,JP Inglis,1,0,1,33,,22,21,1,5,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+35,JP Inglis,M Theekshana,BR McDermott,4,0,4,37,,5,3,1,6,5,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+36,BR McDermott,PWH de Silva,JP Inglis,0,0,0,37,,22,22,1,1,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+37,BR McDermott,PWH de Silva,JP Inglis,6,0,6,43,,28,23,1,2,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+38,BR McDermott,PWH de Silva,JP Inglis,1,0,1,44,,29,24,1,3,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+39,JP Inglis,PWH de Silva,BR McDermott,4,0,4,48,,9,4,1,4,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+40,JP Inglis,PWH de Silva,BR McDermott,1,0,1,49,,10,5,1,5,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+41,BR McDermott,PWH de Silva,JP Inglis,0,0,0,49,,29,25,1,6,6,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+42,JP Inglis,C Karunaratne,BR McDermott,0,0,0,49,,10,6,1,1,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+43,JP Inglis,C Karunaratne,BR McDermott,0,0,0,49,,10,7,1,2,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+44,JP Inglis,C Karunaratne,BR McDermott,1,0,1,50,,11,8,1,3,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+45,BR McDermott,C Karunaratne,JP Inglis,1,0,1,51,,30,26,1,4,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+46,JP Inglis,C Karunaratne,BR McDermott,0,0,0,51,,11,9,1,5,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+47,JP Inglis,C Karunaratne,BR McDermott,0,1,1,52,,11,10,1,6,7,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+48,JP Inglis,C Karunaratne,BR McDermott,1,0,1,53,,12,11,1,7,7,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+49,JP Inglis,MD Shanaka,BR McDermott,2,0,2,55,,14,12,1,1,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+50,JP Inglis,MD Shanaka,BR McDermott,2,0,2,57,,16,13,1,2,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+51,JP Inglis,MD Shanaka,BR McDermott,1,0,1,58,,17,14,1,3,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+52,BR McDermott,MD Shanaka,JP Inglis,1,0,1,59,,31,27,1,4,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+53,JP Inglis,MD Shanaka,BR McDermott,1,0,1,60,,18,15,1,5,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+54,BR McDermott,MD Shanaka,JP Inglis,1,0,1,61,,32,28,1,6,8,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+55,BR McDermott,PVD Chameera,JP Inglis,6,0,6,67,,38,29,1,1,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+56,BR McDermott,PVD Chameera,JP Inglis,1,0,1,68,,39,30,1,2,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+57,JP Inglis,PVD Chameera,BR McDermott,1,0,1,69,,19,16,1,3,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+58,BR McDermott,PVD Chameera,JP Inglis,0,0,0,69,,39,31,1,4,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+59,BR McDermott,PVD Chameera,JP Inglis,4,0,4,73,,43,32,1,5,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+60,BR McDermott,PVD Chameera,JP Inglis,2,0,2,75,,45,33,1,6,9,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+61,JP Inglis,C Karunaratne,BR McDermott,0,0,0,75,,19,17,1,1,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+62,JP Inglis,C Karunaratne,BR McDermott,0,1,1,76,,19,18,1,2,10,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+63,JP Inglis,C Karunaratne,BR McDermott,4,0,4,80,,23,19,1,3,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+64,JP Inglis,C Karunaratne,BR McDermott,0,0,0,80,,23,20,2,4,10,,-,bowled,JP Inglis,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+65,GJ Maxwell,C Karunaratne,BR McDermott,0,0,0,80,,0,1,2,5,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+66,GJ Maxwell,C Karunaratne,BR McDermott,1,0,1,81,,1,2,2,6,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+67,BR McDermott,C Karunaratne,GJ Maxwell,0,1,1,82,,45,34,2,7,10,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+68,BR McDermott,C Karunaratne,GJ Maxwell,1,0,1,83,,46,35,2,8,10,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+69,BR McDermott,PWH de Silva,GJ Maxwell,1,0,1,84,,47,36,2,1,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+70,GJ Maxwell,PWH de Silva,BR McDermott,4,0,4,88,,5,3,2,2,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+71,GJ Maxwell,PWH de Silva,BR McDermott,2,0,2,90,,7,4,2,3,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+72,GJ Maxwell,PWH de Silva,BR McDermott,0,0,0,90,,7,5,3,4,11,,-,caught,GJ Maxwell,C Karunaratne,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+73,BR McDermott,PWH de Silva,SPD Smith,0,0,0,90,,47,37,3,5,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+74,BR McDermott,PWH de Silva,SPD Smith,2,0,2,92,,49,38,3,6,11,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+75,SPD Smith,C Karunaratne,BR McDermott,1,0,1,93,,1,1,3,1,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+76,BR McDermott,C Karunaratne,SPD Smith,2,0,2,95,,51,39,3,2,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+77,BR McDermott,C Karunaratne,SPD Smith,1,0,1,96,,52,40,3,3,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+78,SPD Smith,C Karunaratne,BR McDermott,0,0,0,96,,1,2,3,4,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+79,SPD Smith,C Karunaratne,BR McDermott,0,0,0,96,,1,3,3,5,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+80,SPD Smith,C Karunaratne,BR McDermott,1,0,1,97,,2,4,3,6,12,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+81,SPD Smith,PWH de Silva,BR McDermott,4,0,4,101,,6,5,3,1,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+82,SPD Smith,PWH de Silva,BR McDermott,1,0,1,102,,7,6,3,2,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+83,BR McDermott,PWH de Silva,SPD Smith,1,0,1,103,,53,41,3,3,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+84,SPD Smith,PWH de Silva,BR McDermott,2,0,2,105,,9,7,3,4,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+85,SPD Smith,PWH de Silva,BR McDermott,0,0,0,105,,9,8,4,5,13,,-,bowled,SPD Smith,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+86,MP Stoinis,PWH de Silva,BR McDermott,1,0,1,106,,1,1,4,6,13,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+87,MP Stoinis,C Karunaratne,BR McDermott,1,0,1,107,,2,2,4,1,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+88,BR McDermott,C Karunaratne,MP Stoinis,0,0,0,107,,53,42,5,2,14,,-,lbw,BR McDermott,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+89,MS Wade,C Karunaratne,MP Stoinis,1,0,1,108,,1,1,5,3,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+90,MP Stoinis,C Karunaratne,MS Wade,1,0,1,109,,3,3,5,4,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+91,MS Wade,C Karunaratne,MP Stoinis,1,0,1,110,,2,2,5,5,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+92,MP Stoinis,C Karunaratne,MS Wade,1,0,1,111,,4,4,5,6,14,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+93,MP Stoinis,M Theekshana,MS Wade,0,0,0,111,,4,5,5,1,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+94,MP Stoinis,M Theekshana,MS Wade,6,0,6,117,,10,6,5,2,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+95,MP Stoinis,M Theekshana,MS Wade,2,0,2,119,,12,7,5,3,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+96,MP Stoinis,M Theekshana,MS Wade,4,0,4,123,,16,8,5,4,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+97,MP Stoinis,M Theekshana,MS Wade,0,0,0,123,,16,9,5,5,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+98,MP Stoinis,M Theekshana,MS Wade,1,0,1,124,,17,10,5,6,15,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+99,MP Stoinis,PVD Chameera,MS Wade,0,0,0,124,,17,11,5,1,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+100,MP Stoinis,PVD Chameera,MS Wade,4,0,4,128,,21,12,5,2,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+101,MP Stoinis,PVD Chameera,MS Wade,2,0,2,130,,23,13,5,3,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+102,MP Stoinis,PVD Chameera,MS Wade,6,0,6,136,,29,14,5,4,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+103,MP Stoinis,PVD Chameera,MS Wade,1,0,1,137,,30,15,5,5,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+104,MS Wade,PVD Chameera,MP Stoinis,0,1,1,138,,2,3,5,6,16,,wides,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+105,MS Wade,PVD Chameera,MP Stoinis,2,0,2,140,,4,4,5,7,16,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+106,MP Stoinis,B Fernando,MS Wade,0,1,1,141,,30,16,5,1,17,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+107,MS Wade,B Fernando,MP Stoinis,0,0,0,141,,4,5,5,2,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+108,MS Wade,B Fernando,MP Stoinis,0,0,0,141,,4,6,6,3,17,,-,caught,MS Wade,MD Shanaka,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+109,MP Stoinis,B Fernando,PJ Cummins,0,0,0,141,,30,17,7,4,17,,-,bowled,MP Stoinis,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+110,MA Starc,B Fernando,PJ Cummins,1,0,1,142,,1,1,7,5,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+111,PJ Cummins,B Fernando,MA Starc,1,0,1,143,,1,1,7,6,17,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+112,PJ Cummins,PVD Chameera,MA Starc,1,0,1,144,,2,2,7,1,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+113,MA Starc,PVD Chameera,PJ Cummins,0,0,0,144,,1,2,7,2,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+114,MA Starc,PVD Chameera,PJ Cummins,0,0,0,144,,1,3,8,3,18,,-,bowled,MA Starc,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+115,A Zampa,PVD Chameera,PJ Cummins,1,0,1,145,,1,1,8,4,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+116,PJ Cummins,PVD Chameera,A Zampa,0,0,0,145,,2,3,9,5,18,,-,caught,PJ Cummins,C Karunaratne,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+117,A Zampa,PVD Chameera,JR Hazlewood,1,0,1,146,,2,2,9,6,18,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+118,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,,2,3,9,1,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+119,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,,2,4,9,2,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+120,A Zampa,B Fernando,JR Hazlewood,0,0,0,146,,2,5,9,3,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+121,A Zampa,B Fernando,JR Hazlewood,0,1,1,147,,2,6,9,4,19,,legbyes,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+122,JR Hazlewood,B Fernando,A Zampa,0,0,0,147,,0,1,9,5,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149
+123,JR Hazlewood,B Fernando,A Zampa,2,0,2,149,,2,2,9,6,19,,-,0,,,field,Sri Lanka,1,Sydney Cricket Ground,2022,02,Australia_Sri Lanka_2022-02-11,Australia,Australia,Sri Lanka,True,149

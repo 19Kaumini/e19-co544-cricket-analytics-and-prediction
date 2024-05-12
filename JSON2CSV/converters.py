@@ -20,6 +20,7 @@ def convert_over_to_df(over_data):
     over_df["total_runs_delivery"] = over_df["runs"].apply(lambda x: x.get("total"))
     # Cumulative sum of the total score
     global total_score
+    global current_inning
     score = over_df["total_runs_delivery"].cumsum() + total_score
     over_df["current_team_total"] = score
     if current_inning == 1:
@@ -149,11 +150,11 @@ def json_to_csv(match_file, output_file=False):
     all_innings_df = {}
     for idx, inning in enumerate(innings):
         global total_score
+        global current_inning
+        current_inning = idx
         if idx == 1:
             global first_inning_total
             first_inning_total = total_score
-            global current_inning
-            current_inning = 1
 
         global batter_scores
         batter_scores = {}
@@ -186,6 +187,7 @@ def json_to_csv(match_file, output_file=False):
         df["year"] = info["dates"][0].split("-")[0]
         df["month"] = info["dates"][0].split("-")[1]
         df["match_id"] = match_id
+
         # add winning team
         if "result" in info["outcome"]:
             df["winning_team"] = info["outcome"]["result"]
@@ -203,6 +205,13 @@ def json_to_csv(match_file, output_file=False):
             # Handle the case when there is no second inning
             df["batting_team"] = innings[idx]["team"]
             df["bowling_team"] = None
+
+        # outcome
+        outcome = info["outcome"]
+        if "winner" in outcome:
+            df["won"] = outcome["winner"] == df["batting_team"]
+        else:
+            df["won"] = np.nan
 
         team_innings = f"{inning['team']}_{idx+1}"
 

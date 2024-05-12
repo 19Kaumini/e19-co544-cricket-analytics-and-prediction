@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,FH Allen,Shaheen Shah Afridi,DP Conway,1,0,1,1,109,1,1,0,1,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-1,DP Conway,Shaheen Shah Afridi,FH Allen,0,0,0,1,109,0,1,1,2,caught,DP Conway,Saim Ayub,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-2,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,109,0,1,1,3,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-3,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,109,0,2,1,4,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-4,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,109,0,3,1,5,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-5,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,109,0,4,1,6,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-6,FH Allen,Haris Rauf,KS Williamson,1,0,1,2,108,2,2,1,1,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-7,KS Williamson,Haris Rauf,FH Allen,0,0,0,2,108,0,5,1,2,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-8,KS Williamson,Haris Rauf,FH Allen,3,0,3,5,105,3,6,1,3,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-9,FH Allen,Haris Rauf,KS Williamson,0,0,0,5,105,2,3,1,4,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-10,FH Allen,Haris Rauf,KS Williamson,1,0,1,6,104,3,4,1,5,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-11,KS Williamson,Haris Rauf,FH Allen,0,0,0,6,104,3,7,1,6,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-12,FH Allen,Shaheen Shah Afridi,KS Williamson,6,0,6,12,98,9,5,1,1,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-13,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,16,94,13,6,1,2,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-14,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,20,90,17,7,1,3,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-15,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,24,86,21,8,1,4,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-16,FH Allen,Shaheen Shah Afridi,KS Williamson,6,0,6,30,80,27,9,1,5,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-17,FH Allen,Shaheen Shah Afridi,KS Williamson,0,0,0,30,80,27,10,1,6,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-18,KS Williamson,Aamer Jamal,FH Allen,1,0,1,31,79,4,8,1,1,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-19,FH Allen,Aamer Jamal,KS Williamson,6,0,6,37,73,33,11,1,2,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-20,FH Allen,Aamer Jamal,KS Williamson,0,1,1,38,72,33,12,1,3,0,,,3,,noballs,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-21,FH Allen,Aamer Jamal,KS Williamson,0,1,1,39,71,33,13,1,4,0,,,3,,legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-22,KS Williamson,Aamer Jamal,FH Allen,0,1,1,40,70,4,9,1,5,0,,,3,"{'by': 'Pakistan', 'umpire': 'CM Brown', 'batter': 'KS Williamson', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-23,FH Allen,Aamer Jamal,KS Williamson,0,1,1,41,69,33,14,1,6,0,,,3,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-24,FH Allen,Aamer Jamal,KS Williamson,1,0,1,42,68,34,15,1,7,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-25,KS Williamson,Aamer Jamal,FH Allen,1,0,1,43,67,5,10,1,8,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-26,KS Williamson,Abbas Afridi,FH Allen,0,0,0,43,67,5,11,1,1,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-27,KS Williamson,Abbas Afridi,FH Allen,4,0,4,47,63,9,12,1,2,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-28,KS Williamson,Abbas Afridi,FH Allen,2,0,2,49,61,11,13,1,3,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-29,KS Williamson,Abbas Afridi,FH Allen,1,0,1,50,60,12,14,1,4,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-30,FH Allen,Abbas Afridi,KS Williamson,0,0,0,50,60,34,16,2,5,caught,FH Allen,Aamer Jamal,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-31,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,51,59,1,1,2,6,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-32,DJ Mitchell,Aamer Jamal,KS Williamson,1,0,1,52,58,2,2,2,1,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-33,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,52,58,12,15,2,2,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-34,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,56,54,16,16,2,3,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-35,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,54,16,17,2,4,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-36,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,54,16,18,2,5,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-37,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,54,16,19,2,6,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-38,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,57,53,3,3,2,1,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-39,KS Williamson,Abbas Afridi,DJ Mitchell,1,0,1,58,52,17,20,2,2,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-40,DJ Mitchell,Abbas Afridi,KS Williamson,0,1,1,59,51,3,4,2,3,0,,,6,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-41,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,60,50,4,5,2,4,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-42,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,60,50,17,21,2,5,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-43,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,60,50,17,22,2,6,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-44,KS Williamson,Abbas Afridi,DJ Mitchell,1,0,1,61,49,18,23,2,7,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-45,KS Williamson,Usama Mir,DJ Mitchell,4,0,4,65,45,22,24,2,1,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-46,KS Williamson,Usama Mir,DJ Mitchell,0,0,0,65,45,22,25,2,2,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-47,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,66,44,23,26,2,3,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-48,DJ Mitchell,Usama Mir,KS Williamson,2,0,2,68,42,6,6,2,4,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-49,DJ Mitchell,Usama Mir,KS Williamson,1,0,1,69,41,7,7,2,5,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-50,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,70,40,24,27,2,6,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-51,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,72,38,26,28,2,1,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-52,KS Williamson,Haris Rauf,DJ Mitchell,0,0,0,72,38,26,29,2,2,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-53,KS Williamson,Haris Rauf,DJ Mitchell,4,0,4,76,34,30,30,2,3,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-54,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,78,32,32,31,2,4,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-55,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,80,30,34,32,2,5,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-56,KS Williamson,Haris Rauf,DJ Mitchell,1,0,1,81,29,35,33,2,6,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-57,KS Williamson,Usama Mir,DJ Mitchell,4,0,4,85,25,39,34,2,1,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-58,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,86,24,40,35,2,2,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-59,DJ Mitchell,Usama Mir,KS Williamson,6,0,6,92,18,13,8,2,3,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-60,DJ Mitchell,Usama Mir,KS Williamson,6,0,6,98,12,19,9,2,4,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-61,DJ Mitchell,Usama Mir,KS Williamson,1,0,1,99,11,20,10,2,5,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-62,KS Williamson,Usama Mir,DJ Mitchell,0,0,0,99,11,40,36,2,6,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-63,DJ Mitchell,Aamer Jamal,KS Williamson,6,0,6,105,5,26,11,2,1,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-64,DJ Mitchell,Aamer Jamal,KS Williamson,4,0,4,109,1,30,12,2,2,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-65,DJ Mitchell,Aamer Jamal,KS Williamson,1,0,1,110,0,31,13,2,3,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-66,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,114,-4,44,37,2,4,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-67,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,118,-8,48,38,2,5,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-68,KS Williamson,Aamer Jamal,DJ Mitchell,1,0,1,119,-9,49,39,2,6,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-69,KS Williamson,Abbas Afridi,DJ Mitchell,0,1,1,120,-10,49,40,2,1,0,,,11,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-70,KS Williamson,Abbas Afridi,DJ Mitchell,4,0,4,124,-14,53,41,2,2,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-71,KS Williamson,Abbas Afridi,DJ Mitchell,4,0,4,128,-18,57,42,2,3,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-72,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,128,-18,57,43,3,4,caught,KS Williamson,Fakhar Zaman,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-73,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,129,-19,1,1,3,5,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-74,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,130,-20,32,14,3,6,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-75,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,131,-21,2,2,3,7,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-76,GD Phillips,Aamer Jamal,DJ Mitchell,0,1,1,132,-22,2,3,3,1,0,,,12,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-77,GD Phillips,Aamer Jamal,DJ Mitchell,1,0,1,133,-23,3,4,3,2,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-78,DJ Mitchell,Aamer Jamal,GD Phillips,6,0,6,139,-29,38,15,3,3,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-79,DJ Mitchell,Aamer Jamal,GD Phillips,1,0,1,140,-30,39,16,3,4,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-80,GD Phillips,Aamer Jamal,DJ Mitchell,4,0,4,144,-34,7,5,3,5,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-81,GD Phillips,Aamer Jamal,DJ Mitchell,2,0,2,146,-36,9,6,3,6,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-82,GD Phillips,Aamer Jamal,DJ Mitchell,4,0,4,150,-40,13,7,3,7,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-83,DJ Mitchell,Usama Mir,GD Phillips,2,0,2,152,-42,41,17,3,1,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-84,DJ Mitchell,Usama Mir,GD Phillips,1,0,1,153,-43,42,18,3,2,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-85,GD Phillips,Usama Mir,DJ Mitchell,4,0,4,157,-47,17,8,3,3,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-86,GD Phillips,Usama Mir,DJ Mitchell,0,0,0,157,-47,17,9,3,4,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-87,GD Phillips,Usama Mir,DJ Mitchell,1,0,1,158,-48,18,10,3,5,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-88,DJ Mitchell,Usama Mir,GD Phillips,1,0,1,159,-49,43,19,3,6,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-89,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,160,-50,44,20,3,1,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-90,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,161,-51,19,11,3,2,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-91,DJ Mitchell,Abbas Afridi,GD Phillips,2,0,2,163,-53,46,21,3,3,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-92,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,164,-54,47,22,3,4,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-93,GD Phillips,Abbas Afridi,DJ Mitchell,0,0,0,164,-54,19,12,4,5,caught,GD Phillips,Babar Azam,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-94,MS Chapman,Abbas Afridi,DJ Mitchell,4,0,4,168,-58,4,1,4,6,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-95,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,172,-62,51,23,4,1,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-96,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,176,-66,55,24,4,2,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-97,DJ Mitchell,Usama Mir,MS Chapman,1,0,1,177,-67,56,25,4,3,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-98,MS Chapman,Usama Mir,DJ Mitchell,1,0,1,178,-68,5,2,4,4,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-99,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,182,-72,60,26,4,5,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-100,DJ Mitchell,Usama Mir,MS Chapman,1,0,1,183,-73,61,27,4,6,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-101,DJ Mitchell,Shaheen Shah Afridi,MS Chapman,0,0,0,183,-73,61,28,5,1,caught,DJ Mitchell,Saim Ayub,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-102,AF Milne,Shaheen Shah Afridi,MS Chapman,1,0,1,184,-74,1,1,5,2,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-103,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,185,-75,6,3,5,3,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-104,AF Milne,Shaheen Shah Afridi,MS Chapman,0,4,4,189,-79,1,2,5,4,0,,,16,,legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-105,AF Milne,Shaheen Shah Afridi,MS Chapman,0,0,0,189,-79,1,3,5,5,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-106,AF Milne,Shaheen Shah Afridi,MS Chapman,6,0,6,195,-85,7,4,5,6,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-107,MS Chapman,Haris Rauf,AF Milne,1,0,1,196,-86,7,4,5,1,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-108,AF Milne,Haris Rauf,MS Chapman,2,0,2,198,-88,9,5,5,2,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-109,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,-88,9,6,5,3,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-110,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,-88,9,7,5,4,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-111,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,-88,9,8,5,5,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-112,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,-88,9,9,5,6,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-113,MS Chapman,Shaheen Shah Afridi,AF Milne,4,0,4,202,-92,11,5,5,1,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-114,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,203,-93,12,6,5,2,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-115,AF Milne,Shaheen Shah Afridi,MS Chapman,1,0,1,204,-94,10,10,5,3,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-116,MS Chapman,Shaheen Shah Afridi,AF Milne,6,0,6,210,-100,18,7,5,4,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-117,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,211,-101,19,8,5,5,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-118,AF Milne,Shaheen Shah Afridi,MS Chapman,0,0,0,211,-101,10,11,6,6,caught,AF Milne,Saim Ayub,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-119,MS Chapman,Haris Rauf,IS Sodhi,1,0,1,212,-102,20,9,6,1,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-120,IS Sodhi,Haris Rauf,MS Chapman,0,0,0,212,-102,0,1,7,2,bowled,IS Sodhi,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-121,MJ Henry,Haris Rauf,MS Chapman,0,2,2,214,-104,0,1,7,3,0,,,19,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-122,MS Chapman,Haris Rauf,MJ Henry,6,0,6,220,-110,26,10,7,4,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-123,MS Chapman,Haris Rauf,MJ Henry,0,0,0,220,-110,26,11,8,5,caught,MS Chapman,Saim Ayub,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-124,TG Southee,Haris Rauf,MJ Henry,0,0,0,220,-110,0,1,8,6,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
-125,TG Southee,Haris Rauf,MJ Henry,6,0,6,226,-116,6,2,8,7,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,226
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,FH Allen,Shaheen Shah Afridi,DP Conway,1,0,1,1,,1,1,0,1,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+1,DP Conway,Shaheen Shah Afridi,FH Allen,0,0,0,1,,0,1,1,2,caught,DP Conway,Saim Ayub,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+2,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,,0,1,1,3,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+3,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,,0,2,1,4,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+4,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,,0,3,1,5,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+5,KS Williamson,Shaheen Shah Afridi,FH Allen,0,0,0,1,,0,4,1,6,0,,,0,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+6,FH Allen,Haris Rauf,KS Williamson,1,0,1,2,,2,2,1,1,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+7,KS Williamson,Haris Rauf,FH Allen,0,0,0,2,,0,5,1,2,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+8,KS Williamson,Haris Rauf,FH Allen,3,0,3,5,,3,6,1,3,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+9,FH Allen,Haris Rauf,KS Williamson,0,0,0,5,,2,3,1,4,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+10,FH Allen,Haris Rauf,KS Williamson,1,0,1,6,,3,4,1,5,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+11,KS Williamson,Haris Rauf,FH Allen,0,0,0,6,,3,7,1,6,0,,,1,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+12,FH Allen,Shaheen Shah Afridi,KS Williamson,6,0,6,12,,9,5,1,1,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+13,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,16,,13,6,1,2,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+14,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,20,,17,7,1,3,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+15,FH Allen,Shaheen Shah Afridi,KS Williamson,4,0,4,24,,21,8,1,4,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+16,FH Allen,Shaheen Shah Afridi,KS Williamson,6,0,6,30,,27,9,1,5,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+17,FH Allen,Shaheen Shah Afridi,KS Williamson,0,0,0,30,,27,10,1,6,0,,,2,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+18,KS Williamson,Aamer Jamal,FH Allen,1,0,1,31,,4,8,1,1,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+19,FH Allen,Aamer Jamal,KS Williamson,6,0,6,37,,33,11,1,2,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+20,FH Allen,Aamer Jamal,KS Williamson,0,1,1,38,,33,12,1,3,0,,,3,,noballs,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+21,FH Allen,Aamer Jamal,KS Williamson,0,1,1,39,,33,13,1,4,0,,,3,,legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+22,KS Williamson,Aamer Jamal,FH Allen,0,1,1,40,,4,9,1,5,0,,,3,"{'by': 'Pakistan', 'umpire': 'CM Brown', 'batter': 'KS Williamson', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+23,FH Allen,Aamer Jamal,KS Williamson,0,1,1,41,,33,14,1,6,0,,,3,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+24,FH Allen,Aamer Jamal,KS Williamson,1,0,1,42,,34,15,1,7,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+25,KS Williamson,Aamer Jamal,FH Allen,1,0,1,43,,5,10,1,8,0,,,3,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+26,KS Williamson,Abbas Afridi,FH Allen,0,0,0,43,,5,11,1,1,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+27,KS Williamson,Abbas Afridi,FH Allen,4,0,4,47,,9,12,1,2,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+28,KS Williamson,Abbas Afridi,FH Allen,2,0,2,49,,11,13,1,3,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+29,KS Williamson,Abbas Afridi,FH Allen,1,0,1,50,,12,14,1,4,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+30,FH Allen,Abbas Afridi,KS Williamson,0,0,0,50,,34,16,2,5,caught,FH Allen,Aamer Jamal,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+31,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,51,,1,1,2,6,0,,,4,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+32,DJ Mitchell,Aamer Jamal,KS Williamson,1,0,1,52,,2,2,2,1,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+33,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,52,,12,15,2,2,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+34,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,56,,16,16,2,3,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+35,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,,16,17,2,4,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+36,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,,16,18,2,5,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+37,KS Williamson,Aamer Jamal,DJ Mitchell,0,0,0,56,,16,19,2,6,0,,,5,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+38,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,57,,3,3,2,1,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+39,KS Williamson,Abbas Afridi,DJ Mitchell,1,0,1,58,,17,20,2,2,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+40,DJ Mitchell,Abbas Afridi,KS Williamson,0,1,1,59,,3,4,2,3,0,,,6,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+41,DJ Mitchell,Abbas Afridi,KS Williamson,1,0,1,60,,4,5,2,4,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+42,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,60,,17,21,2,5,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+43,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,60,,17,22,2,6,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+44,KS Williamson,Abbas Afridi,DJ Mitchell,1,0,1,61,,18,23,2,7,0,,,6,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+45,KS Williamson,Usama Mir,DJ Mitchell,4,0,4,65,,22,24,2,1,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+46,KS Williamson,Usama Mir,DJ Mitchell,0,0,0,65,,22,25,2,2,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+47,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,66,,23,26,2,3,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+48,DJ Mitchell,Usama Mir,KS Williamson,2,0,2,68,,6,6,2,4,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+49,DJ Mitchell,Usama Mir,KS Williamson,1,0,1,69,,7,7,2,5,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+50,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,70,,24,27,2,6,0,,,7,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+51,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,72,,26,28,2,1,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+52,KS Williamson,Haris Rauf,DJ Mitchell,0,0,0,72,,26,29,2,2,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+53,KS Williamson,Haris Rauf,DJ Mitchell,4,0,4,76,,30,30,2,3,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+54,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,78,,32,31,2,4,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+55,KS Williamson,Haris Rauf,DJ Mitchell,2,0,2,80,,34,32,2,5,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+56,KS Williamson,Haris Rauf,DJ Mitchell,1,0,1,81,,35,33,2,6,0,,,8,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+57,KS Williamson,Usama Mir,DJ Mitchell,4,0,4,85,,39,34,2,1,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+58,KS Williamson,Usama Mir,DJ Mitchell,1,0,1,86,,40,35,2,2,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+59,DJ Mitchell,Usama Mir,KS Williamson,6,0,6,92,,13,8,2,3,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+60,DJ Mitchell,Usama Mir,KS Williamson,6,0,6,98,,19,9,2,4,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+61,DJ Mitchell,Usama Mir,KS Williamson,1,0,1,99,,20,10,2,5,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+62,KS Williamson,Usama Mir,DJ Mitchell,0,0,0,99,,40,36,2,6,0,,,9,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+63,DJ Mitchell,Aamer Jamal,KS Williamson,6,0,6,105,,26,11,2,1,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+64,DJ Mitchell,Aamer Jamal,KS Williamson,4,0,4,109,,30,12,2,2,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+65,DJ Mitchell,Aamer Jamal,KS Williamson,1,0,1,110,,31,13,2,3,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+66,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,114,,44,37,2,4,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+67,KS Williamson,Aamer Jamal,DJ Mitchell,4,0,4,118,,48,38,2,5,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+68,KS Williamson,Aamer Jamal,DJ Mitchell,1,0,1,119,,49,39,2,6,0,,,10,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+69,KS Williamson,Abbas Afridi,DJ Mitchell,0,1,1,120,,49,40,2,1,0,,,11,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+70,KS Williamson,Abbas Afridi,DJ Mitchell,4,0,4,124,,53,41,2,2,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+71,KS Williamson,Abbas Afridi,DJ Mitchell,4,0,4,128,,57,42,2,3,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+72,KS Williamson,Abbas Afridi,DJ Mitchell,0,0,0,128,,57,43,3,4,caught,KS Williamson,Fakhar Zaman,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+73,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,129,,1,1,3,5,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+74,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,130,,32,14,3,6,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+75,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,131,,2,2,3,7,0,,,11,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+76,GD Phillips,Aamer Jamal,DJ Mitchell,0,1,1,132,,2,3,3,1,0,,,12,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+77,GD Phillips,Aamer Jamal,DJ Mitchell,1,0,1,133,,3,4,3,2,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+78,DJ Mitchell,Aamer Jamal,GD Phillips,6,0,6,139,,38,15,3,3,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+79,DJ Mitchell,Aamer Jamal,GD Phillips,1,0,1,140,,39,16,3,4,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+80,GD Phillips,Aamer Jamal,DJ Mitchell,4,0,4,144,,7,5,3,5,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+81,GD Phillips,Aamer Jamal,DJ Mitchell,2,0,2,146,,9,6,3,6,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+82,GD Phillips,Aamer Jamal,DJ Mitchell,4,0,4,150,,13,7,3,7,0,,,12,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+83,DJ Mitchell,Usama Mir,GD Phillips,2,0,2,152,,41,17,3,1,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+84,DJ Mitchell,Usama Mir,GD Phillips,1,0,1,153,,42,18,3,2,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+85,GD Phillips,Usama Mir,DJ Mitchell,4,0,4,157,,17,8,3,3,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+86,GD Phillips,Usama Mir,DJ Mitchell,0,0,0,157,,17,9,3,4,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+87,GD Phillips,Usama Mir,DJ Mitchell,1,0,1,158,,18,10,3,5,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+88,DJ Mitchell,Usama Mir,GD Phillips,1,0,1,159,,43,19,3,6,0,,,13,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+89,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,160,,44,20,3,1,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+90,GD Phillips,Abbas Afridi,DJ Mitchell,1,0,1,161,,19,11,3,2,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+91,DJ Mitchell,Abbas Afridi,GD Phillips,2,0,2,163,,46,21,3,3,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+92,DJ Mitchell,Abbas Afridi,GD Phillips,1,0,1,164,,47,22,3,4,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+93,GD Phillips,Abbas Afridi,DJ Mitchell,0,0,0,164,,19,12,4,5,caught,GD Phillips,Babar Azam,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+94,MS Chapman,Abbas Afridi,DJ Mitchell,4,0,4,168,,4,1,4,6,0,,,14,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+95,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,172,,51,23,4,1,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+96,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,176,,55,24,4,2,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+97,DJ Mitchell,Usama Mir,MS Chapman,1,0,1,177,,56,25,4,3,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+98,MS Chapman,Usama Mir,DJ Mitchell,1,0,1,178,,5,2,4,4,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+99,DJ Mitchell,Usama Mir,MS Chapman,4,0,4,182,,60,26,4,5,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+100,DJ Mitchell,Usama Mir,MS Chapman,1,0,1,183,,61,27,4,6,0,,,15,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+101,DJ Mitchell,Shaheen Shah Afridi,MS Chapman,0,0,0,183,,61,28,5,1,caught,DJ Mitchell,Saim Ayub,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+102,AF Milne,Shaheen Shah Afridi,MS Chapman,1,0,1,184,,1,1,5,2,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+103,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,185,,6,3,5,3,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+104,AF Milne,Shaheen Shah Afridi,MS Chapman,0,4,4,189,,1,2,5,4,0,,,16,,legbyes,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+105,AF Milne,Shaheen Shah Afridi,MS Chapman,0,0,0,189,,1,3,5,5,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+106,AF Milne,Shaheen Shah Afridi,MS Chapman,6,0,6,195,,7,4,5,6,0,,,16,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+107,MS Chapman,Haris Rauf,AF Milne,1,0,1,196,,7,4,5,1,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+108,AF Milne,Haris Rauf,MS Chapman,2,0,2,198,,9,5,5,2,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+109,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,,9,6,5,3,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+110,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,,9,7,5,4,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+111,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,,9,8,5,5,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+112,AF Milne,Haris Rauf,MS Chapman,0,0,0,198,,9,9,5,6,0,,,17,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+113,MS Chapman,Shaheen Shah Afridi,AF Milne,4,0,4,202,,11,5,5,1,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+114,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,203,,12,6,5,2,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+115,AF Milne,Shaheen Shah Afridi,MS Chapman,1,0,1,204,,10,10,5,3,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+116,MS Chapman,Shaheen Shah Afridi,AF Milne,6,0,6,210,,18,7,5,4,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+117,MS Chapman,Shaheen Shah Afridi,AF Milne,1,0,1,211,,19,8,5,5,0,,,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+118,AF Milne,Shaheen Shah Afridi,MS Chapman,0,0,0,211,,10,11,6,6,caught,AF Milne,Saim Ayub,18,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+119,MS Chapman,Haris Rauf,IS Sodhi,1,0,1,212,,20,9,6,1,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+120,IS Sodhi,Haris Rauf,MS Chapman,0,0,0,212,,0,1,7,2,bowled,IS Sodhi,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+121,MJ Henry,Haris Rauf,MS Chapman,0,2,2,214,,0,1,7,3,0,,,19,,wides,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+122,MS Chapman,Haris Rauf,MJ Henry,6,0,6,220,,26,10,7,4,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+123,MS Chapman,Haris Rauf,MJ Henry,0,0,0,220,,26,11,8,5,caught,MS Chapman,Saim Ayub,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+124,TG Southee,Haris Rauf,MJ Henry,0,0,0,220,,0,1,8,6,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226
+125,TG Southee,Haris Rauf,MJ Henry,6,0,6,226,,6,2,8,7,0,,,19,,-,field,Pakistan,1,"Eden Park, Auckland",2024,01,New Zealand_Pakistan_2024-01-12,New Zealand,New Zealand,Pakistan,True,226

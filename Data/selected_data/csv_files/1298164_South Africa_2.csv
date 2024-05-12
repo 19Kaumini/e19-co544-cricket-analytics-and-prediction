@@ -1,120 +1,120 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Q de Kock,B Kumar,T Bavuma,0,0,0,0,133,0,1,0,1,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-1,Q de Kock,B Kumar,T Bavuma,1,0,1,1,132,1,2,0,2,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-2,T Bavuma,B Kumar,Q de Kock,0,0,0,1,132,0,1,0,3,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-3,T Bavuma,B Kumar,Q de Kock,0,0,0,1,132,0,2,0,4,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-4,T Bavuma,B Kumar,Q de Kock,2,0,2,3,130,2,3,0,5,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-5,T Bavuma,B Kumar,Q de Kock,0,0,0,3,130,2,4,0,6,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-6,Q de Kock,Arshdeep Singh,T Bavuma,0,0,0,3,130,1,3,1,1,1,,caught,Q de Kock,KL Rahul,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-7,RR Rossouw,Arshdeep Singh,T Bavuma,0,0,0,3,130,0,1,1,2,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-8,RR Rossouw,Arshdeep Singh,T Bavuma,0,0,0,3,130,0,2,2,3,1,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RR Rossouw', 'decision': 'upheld'}",lbw,RR Rossouw,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-9,AK Markram,Arshdeep Singh,T Bavuma,4,0,4,7,126,4,1,2,4,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-10,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,7,126,4,2,2,5,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-11,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,7,126,4,3,2,6,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-12,T Bavuma,B Kumar,AK Markram,0,0,0,7,126,2,5,2,1,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-13,T Bavuma,B Kumar,AK Markram,1,0,1,8,125,3,6,2,2,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-14,AK Markram,B Kumar,T Bavuma,0,0,0,8,125,4,4,2,3,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-15,AK Markram,B Kumar,T Bavuma,1,0,1,9,124,5,5,2,4,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-16,T Bavuma,B Kumar,AK Markram,0,0,0,9,124,3,7,2,5,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-17,T Bavuma,B Kumar,AK Markram,0,0,0,9,124,3,8,2,6,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-18,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,9,124,5,6,2,1,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-19,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,9,124,5,7,2,2,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-20,AK Markram,Arshdeep Singh,T Bavuma,4,0,4,13,120,9,8,2,3,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-21,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,9,2,4,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-22,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,10,2,5,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-23,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,11,2,6,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-24,T Bavuma,B Kumar,AK Markram,0,0,0,13,120,3,9,2,1,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-25,T Bavuma,B Kumar,AK Markram,0,0,0,13,120,3,10,2,2,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-26,T Bavuma,B Kumar,AK Markram,0,1,1,14,119,3,11,2,3,4,,0,,,legbyes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-27,AK Markram,B Kumar,T Bavuma,1,0,1,15,118,10,12,2,4,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-28,T Bavuma,B Kumar,AK Markram,0,0,0,15,118,3,12,2,5,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-29,T Bavuma,B Kumar,AK Markram,6,0,6,21,112,9,13,2,6,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-30,AK Markram,Mohammed Shami,T Bavuma,1,0,1,22,111,11,13,2,1,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-31,T Bavuma,Mohammed Shami,AK Markram,1,0,1,23,110,10,14,2,2,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-32,AK Markram,Mohammed Shami,T Bavuma,1,0,1,24,109,12,14,2,3,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-33,T Bavuma,Mohammed Shami,AK Markram,0,0,0,24,109,10,15,3,4,5,,caught,T Bavuma,KD Karthik,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-34,DA Miller,Mohammed Shami,AK Markram,0,0,0,24,109,0,1,3,5,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-35,DA Miller,Mohammed Shami,AK Markram,0,0,0,24,109,0,2,3,6,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-36,AK Markram,HH Pandya,DA Miller,1,0,1,25,108,13,15,3,1,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-37,DA Miller,HH Pandya,AK Markram,0,0,0,25,108,0,3,3,2,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-38,DA Miller,HH Pandya,AK Markram,0,0,0,25,108,0,4,3,3,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-39,DA Miller,HH Pandya,AK Markram,1,0,1,26,107,1,5,3,4,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-40,AK Markram,HH Pandya,DA Miller,4,0,4,30,103,17,16,3,5,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-41,AK Markram,HH Pandya,DA Miller,2,0,2,32,101,19,17,3,6,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-42,DA Miller,Mohammed Shami,AK Markram,0,0,0,32,101,1,6,3,1,7,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'DA Miller', 'decision': 'struck down'}",0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-43,DA Miller,Mohammed Shami,AK Markram,0,0,0,32,101,1,7,3,2,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-44,DA Miller,Mohammed Shami,AK Markram,1,0,1,33,100,2,8,3,3,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-45,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,18,3,4,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-46,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,19,3,5,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-47,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,20,3,6,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-48,DA Miller,HH Pandya,AK Markram,1,0,1,34,99,3,9,3,1,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-49,AK Markram,HH Pandya,DA Miller,0,0,0,34,99,19,21,3,2,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-50,AK Markram,HH Pandya,DA Miller,1,0,1,35,98,20,22,3,3,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-51,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,10,3,4,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-52,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,11,3,5,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-53,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,12,3,6,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-54,AK Markram,R Ashwin,DA Miller,1,0,1,36,97,21,23,3,1,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-55,DA Miller,R Ashwin,AK Markram,1,0,1,37,96,4,13,3,2,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-56,AK Markram,R Ashwin,DA Miller,1,0,1,38,95,22,24,3,3,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-57,DA Miller,R Ashwin,AK Markram,0,0,0,38,95,4,14,3,4,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-58,DA Miller,R Ashwin,AK Markram,1,0,1,39,94,5,15,3,5,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-59,AK Markram,R Ashwin,DA Miller,1,0,1,40,93,23,25,3,6,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-60,AK Markram,HH Pandya,DA Miller,2,0,2,42,91,25,26,3,1,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-61,AK Markram,HH Pandya,DA Miller,4,0,4,46,87,29,27,3,2,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-62,AK Markram,HH Pandya,DA Miller,1,0,1,47,86,30,28,3,3,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-63,DA Miller,HH Pandya,AK Markram,4,0,4,51,82,9,16,3,4,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-64,DA Miller,HH Pandya,AK Markram,1,0,1,52,81,10,17,3,5,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-65,AK Markram,HH Pandya,DA Miller,0,4,4,56,77,30,29,3,6,10,,0,,,byes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-66,DA Miller,R Ashwin,AK Markram,1,0,1,57,76,11,18,3,1,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-67,AK Markram,R Ashwin,DA Miller,4,0,4,61,72,34,30,3,2,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-68,AK Markram,R Ashwin,DA Miller,1,0,1,62,71,35,31,3,3,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-69,DA Miller,R Ashwin,AK Markram,1,0,1,63,70,12,19,3,4,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-70,AK Markram,R Ashwin,DA Miller,1,0,1,64,69,36,32,3,5,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-71,DA Miller,R Ashwin,AK Markram,1,0,1,65,68,13,20,3,6,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-72,DA Miller,Mohammed Shami,AK Markram,0,0,0,65,68,13,21,3,1,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-73,DA Miller,Mohammed Shami,AK Markram,2,0,2,67,66,15,22,3,2,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-74,DA Miller,Mohammed Shami,AK Markram,0,0,0,67,66,15,23,3,3,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-75,DA Miller,Mohammed Shami,AK Markram,0,0,0,67,66,15,24,3,4,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-76,DA Miller,Mohammed Shami,AK Markram,1,0,1,68,65,16,25,3,5,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-77,AK Markram,Mohammed Shami,DA Miller,0,0,0,68,65,36,33,3,6,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-78,DA Miller,R Ashwin,AK Markram,6,0,6,74,59,22,26,3,1,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-79,DA Miller,R Ashwin,AK Markram,2,0,2,76,57,24,27,3,2,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-80,DA Miller,R Ashwin,AK Markram,1,0,1,77,56,25,28,3,3,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-81,AK Markram,R Ashwin,DA Miller,1,0,1,78,55,37,34,3,4,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-82,DA Miller,R Ashwin,AK Markram,1,0,1,79,54,26,29,3,5,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-83,AK Markram,R Ashwin,DA Miller,6,0,6,85,48,43,35,3,6,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-84,DA Miller,Arshdeep Singh,AK Markram,1,0,1,86,47,27,30,3,1,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-85,AK Markram,Arshdeep Singh,DA Miller,1,0,1,87,46,44,36,3,2,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-86,DA Miller,Arshdeep Singh,AK Markram,0,1,1,88,45,27,31,3,3,14,,0,,,wides,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-87,DA Miller,Arshdeep Singh,AK Markram,1,0,1,89,44,28,32,3,4,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-88,AK Markram,Arshdeep Singh,DA Miller,4,0,4,93,40,48,37,3,5,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-89,AK Markram,Arshdeep Singh,DA Miller,2,0,2,95,38,50,38,3,6,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-90,AK Markram,Arshdeep Singh,DA Miller,0,0,0,95,38,50,39,3,7,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-91,DA Miller,HH Pandya,AK Markram,2,0,2,97,36,30,33,3,1,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-92,DA Miller,HH Pandya,AK Markram,1,0,1,98,35,31,34,3,2,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-93,AK Markram,HH Pandya,DA Miller,2,0,2,100,33,52,40,3,3,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-94,AK Markram,HH Pandya,DA Miller,0,0,0,100,33,52,41,4,4,15,,caught,AK Markram,SA Yadav,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-95,T Stubbs,HH Pandya,DA Miller,1,0,1,101,32,1,1,4,5,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-96,DA Miller,HH Pandya,T Stubbs,1,0,1,102,31,32,35,4,6,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-97,DA Miller,Arshdeep Singh,T Stubbs,1,0,1,103,30,33,36,4,1,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-98,T Stubbs,Arshdeep Singh,DA Miller,0,0,0,103,30,1,2,4,2,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-99,T Stubbs,Arshdeep Singh,DA Miller,4,0,4,107,26,5,3,4,3,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-100,T Stubbs,Arshdeep Singh,DA Miller,1,0,1,108,25,6,4,4,4,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-101,DA Miller,Arshdeep Singh,T Stubbs,1,0,1,109,24,34,37,4,5,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-102,T Stubbs,Arshdeep Singh,DA Miller,0,0,0,109,24,6,5,4,6,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-103,DA Miller,R Ashwin,T Stubbs,6,0,6,115,18,40,38,4,1,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-104,DA Miller,R Ashwin,T Stubbs,6,0,6,121,12,46,39,4,2,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-105,DA Miller,R Ashwin,T Stubbs,0,1,1,122,11,46,40,4,3,17,,0,,,legbyes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-106,T Stubbs,R Ashwin,DA Miller,0,0,0,122,11,6,6,5,4,17,"{'by': 'South Africa', 'umpire': 'RA Kettleborough', 'batter': 'T Stubbs', 'decision': 'struck down', 'umpires_call': True}",lbw,T Stubbs,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-107,WD Parnell,R Ashwin,DA Miller,0,0,0,122,11,0,1,5,5,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-108,WD Parnell,R Ashwin,DA Miller,0,0,0,122,11,0,2,5,6,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-109,DA Miller,Mohammed Shami,WD Parnell,4,0,4,126,7,50,41,5,1,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-110,DA Miller,Mohammed Shami,WD Parnell,0,0,0,126,7,50,42,5,2,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-111,DA Miller,Mohammed Shami,WD Parnell,0,0,0,126,7,50,43,5,3,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-112,DA Miller,Mohammed Shami,WD Parnell,1,0,1,127,6,51,44,5,4,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-113,WD Parnell,Mohammed Shami,DA Miller,1,0,1,128,5,1,3,5,5,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-114,DA Miller,Mohammed Shami,WD Parnell,0,0,0,128,5,51,45,5,6,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-115,WD Parnell,B Kumar,DA Miller,0,0,0,128,5,1,4,5,1,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-116,WD Parnell,B Kumar,DA Miller,1,0,1,129,4,2,5,5,2,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-117,DA Miller,B Kumar,WD Parnell,4,0,4,133,0,55,46,5,3,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
-118,DA Miller,B Kumar,WD Parnell,4,0,4,137,-4,59,47,5,4,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,137
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,Q de Kock,B Kumar,T Bavuma,0,0,0,0,133,0,1,0,1,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+1,Q de Kock,B Kumar,T Bavuma,1,0,1,1,132,1,2,0,2,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+2,T Bavuma,B Kumar,Q de Kock,0,0,0,1,132,0,1,0,3,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+3,T Bavuma,B Kumar,Q de Kock,0,0,0,1,132,0,2,0,4,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+4,T Bavuma,B Kumar,Q de Kock,2,0,2,3,130,2,3,0,5,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+5,T Bavuma,B Kumar,Q de Kock,0,0,0,3,130,2,4,0,6,0,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+6,Q de Kock,Arshdeep Singh,T Bavuma,0,0,0,3,130,1,3,1,1,1,,caught,Q de Kock,KL Rahul,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+7,RR Rossouw,Arshdeep Singh,T Bavuma,0,0,0,3,130,0,1,1,2,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+8,RR Rossouw,Arshdeep Singh,T Bavuma,0,0,0,3,130,0,2,2,3,1,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'RR Rossouw', 'decision': 'upheld'}",lbw,RR Rossouw,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+9,AK Markram,Arshdeep Singh,T Bavuma,4,0,4,7,126,4,1,2,4,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+10,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,7,126,4,2,2,5,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+11,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,7,126,4,3,2,6,1,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+12,T Bavuma,B Kumar,AK Markram,0,0,0,7,126,2,5,2,1,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+13,T Bavuma,B Kumar,AK Markram,1,0,1,8,125,3,6,2,2,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+14,AK Markram,B Kumar,T Bavuma,0,0,0,8,125,4,4,2,3,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+15,AK Markram,B Kumar,T Bavuma,1,0,1,9,124,5,5,2,4,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+16,T Bavuma,B Kumar,AK Markram,0,0,0,9,124,3,7,2,5,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+17,T Bavuma,B Kumar,AK Markram,0,0,0,9,124,3,8,2,6,2,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+18,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,9,124,5,6,2,1,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+19,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,9,124,5,7,2,2,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+20,AK Markram,Arshdeep Singh,T Bavuma,4,0,4,13,120,9,8,2,3,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+21,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,9,2,4,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+22,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,10,2,5,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+23,AK Markram,Arshdeep Singh,T Bavuma,0,0,0,13,120,9,11,2,6,3,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+24,T Bavuma,B Kumar,AK Markram,0,0,0,13,120,3,9,2,1,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+25,T Bavuma,B Kumar,AK Markram,0,0,0,13,120,3,10,2,2,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+26,T Bavuma,B Kumar,AK Markram,0,1,1,14,119,3,11,2,3,4,,0,,,legbyes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+27,AK Markram,B Kumar,T Bavuma,1,0,1,15,118,10,12,2,4,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+28,T Bavuma,B Kumar,AK Markram,0,0,0,15,118,3,12,2,5,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+29,T Bavuma,B Kumar,AK Markram,6,0,6,21,112,9,13,2,6,4,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+30,AK Markram,Mohammed Shami,T Bavuma,1,0,1,22,111,11,13,2,1,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+31,T Bavuma,Mohammed Shami,AK Markram,1,0,1,23,110,10,14,2,2,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+32,AK Markram,Mohammed Shami,T Bavuma,1,0,1,24,109,12,14,2,3,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+33,T Bavuma,Mohammed Shami,AK Markram,0,0,0,24,109,10,15,3,4,5,,caught,T Bavuma,KD Karthik,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+34,DA Miller,Mohammed Shami,AK Markram,0,0,0,24,109,0,1,3,5,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+35,DA Miller,Mohammed Shami,AK Markram,0,0,0,24,109,0,2,3,6,5,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+36,AK Markram,HH Pandya,DA Miller,1,0,1,25,108,13,15,3,1,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+37,DA Miller,HH Pandya,AK Markram,0,0,0,25,108,0,3,3,2,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+38,DA Miller,HH Pandya,AK Markram,0,0,0,25,108,0,4,3,3,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+39,DA Miller,HH Pandya,AK Markram,1,0,1,26,107,1,5,3,4,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+40,AK Markram,HH Pandya,DA Miller,4,0,4,30,103,17,16,3,5,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+41,AK Markram,HH Pandya,DA Miller,2,0,2,32,101,19,17,3,6,6,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+42,DA Miller,Mohammed Shami,AK Markram,0,0,0,32,101,1,6,3,1,7,"{'by': 'India', 'umpire': 'RA Kettleborough', 'batter': 'DA Miller', 'decision': 'struck down'}",0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+43,DA Miller,Mohammed Shami,AK Markram,0,0,0,32,101,1,7,3,2,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+44,DA Miller,Mohammed Shami,AK Markram,1,0,1,33,100,2,8,3,3,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+45,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,18,3,4,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+46,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,19,3,5,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+47,AK Markram,Mohammed Shami,DA Miller,0,0,0,33,100,19,20,3,6,7,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+48,DA Miller,HH Pandya,AK Markram,1,0,1,34,99,3,9,3,1,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+49,AK Markram,HH Pandya,DA Miller,0,0,0,34,99,19,21,3,2,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+50,AK Markram,HH Pandya,DA Miller,1,0,1,35,98,20,22,3,3,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+51,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,10,3,4,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+52,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,11,3,5,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+53,DA Miller,HH Pandya,AK Markram,0,0,0,35,98,3,12,3,6,8,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+54,AK Markram,R Ashwin,DA Miller,1,0,1,36,97,21,23,3,1,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+55,DA Miller,R Ashwin,AK Markram,1,0,1,37,96,4,13,3,2,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+56,AK Markram,R Ashwin,DA Miller,1,0,1,38,95,22,24,3,3,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+57,DA Miller,R Ashwin,AK Markram,0,0,0,38,95,4,14,3,4,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+58,DA Miller,R Ashwin,AK Markram,1,0,1,39,94,5,15,3,5,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+59,AK Markram,R Ashwin,DA Miller,1,0,1,40,93,23,25,3,6,9,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+60,AK Markram,HH Pandya,DA Miller,2,0,2,42,91,25,26,3,1,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+61,AK Markram,HH Pandya,DA Miller,4,0,4,46,87,29,27,3,2,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+62,AK Markram,HH Pandya,DA Miller,1,0,1,47,86,30,28,3,3,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+63,DA Miller,HH Pandya,AK Markram,4,0,4,51,82,9,16,3,4,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+64,DA Miller,HH Pandya,AK Markram,1,0,1,52,81,10,17,3,5,10,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+65,AK Markram,HH Pandya,DA Miller,0,4,4,56,77,30,29,3,6,10,,0,,,byes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+66,DA Miller,R Ashwin,AK Markram,1,0,1,57,76,11,18,3,1,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+67,AK Markram,R Ashwin,DA Miller,4,0,4,61,72,34,30,3,2,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+68,AK Markram,R Ashwin,DA Miller,1,0,1,62,71,35,31,3,3,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+69,DA Miller,R Ashwin,AK Markram,1,0,1,63,70,12,19,3,4,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+70,AK Markram,R Ashwin,DA Miller,1,0,1,64,69,36,32,3,5,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+71,DA Miller,R Ashwin,AK Markram,1,0,1,65,68,13,20,3,6,11,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+72,DA Miller,Mohammed Shami,AK Markram,0,0,0,65,68,13,21,3,1,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+73,DA Miller,Mohammed Shami,AK Markram,2,0,2,67,66,15,22,3,2,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+74,DA Miller,Mohammed Shami,AK Markram,0,0,0,67,66,15,23,3,3,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+75,DA Miller,Mohammed Shami,AK Markram,0,0,0,67,66,15,24,3,4,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+76,DA Miller,Mohammed Shami,AK Markram,1,0,1,68,65,16,25,3,5,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+77,AK Markram,Mohammed Shami,DA Miller,0,0,0,68,65,36,33,3,6,12,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+78,DA Miller,R Ashwin,AK Markram,6,0,6,74,59,22,26,3,1,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+79,DA Miller,R Ashwin,AK Markram,2,0,2,76,57,24,27,3,2,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+80,DA Miller,R Ashwin,AK Markram,1,0,1,77,56,25,28,3,3,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+81,AK Markram,R Ashwin,DA Miller,1,0,1,78,55,37,34,3,4,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+82,DA Miller,R Ashwin,AK Markram,1,0,1,79,54,26,29,3,5,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+83,AK Markram,R Ashwin,DA Miller,6,0,6,85,48,43,35,3,6,13,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+84,DA Miller,Arshdeep Singh,AK Markram,1,0,1,86,47,27,30,3,1,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+85,AK Markram,Arshdeep Singh,DA Miller,1,0,1,87,46,44,36,3,2,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+86,DA Miller,Arshdeep Singh,AK Markram,0,1,1,88,45,27,31,3,3,14,,0,,,wides,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+87,DA Miller,Arshdeep Singh,AK Markram,1,0,1,89,44,28,32,3,4,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+88,AK Markram,Arshdeep Singh,DA Miller,4,0,4,93,40,48,37,3,5,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+89,AK Markram,Arshdeep Singh,DA Miller,2,0,2,95,38,50,38,3,6,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+90,AK Markram,Arshdeep Singh,DA Miller,0,0,0,95,38,50,39,3,7,14,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+91,DA Miller,HH Pandya,AK Markram,2,0,2,97,36,30,33,3,1,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+92,DA Miller,HH Pandya,AK Markram,1,0,1,98,35,31,34,3,2,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+93,AK Markram,HH Pandya,DA Miller,2,0,2,100,33,52,40,3,3,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+94,AK Markram,HH Pandya,DA Miller,0,0,0,100,33,52,41,4,4,15,,caught,AK Markram,SA Yadav,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+95,T Stubbs,HH Pandya,DA Miller,1,0,1,101,32,1,1,4,5,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+96,DA Miller,HH Pandya,T Stubbs,1,0,1,102,31,32,35,4,6,15,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+97,DA Miller,Arshdeep Singh,T Stubbs,1,0,1,103,30,33,36,4,1,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+98,T Stubbs,Arshdeep Singh,DA Miller,0,0,0,103,30,1,2,4,2,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+99,T Stubbs,Arshdeep Singh,DA Miller,4,0,4,107,26,5,3,4,3,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+100,T Stubbs,Arshdeep Singh,DA Miller,1,0,1,108,25,6,4,4,4,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+101,DA Miller,Arshdeep Singh,T Stubbs,1,0,1,109,24,34,37,4,5,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+102,T Stubbs,Arshdeep Singh,DA Miller,0,0,0,109,24,6,5,4,6,16,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+103,DA Miller,R Ashwin,T Stubbs,6,0,6,115,18,40,38,4,1,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+104,DA Miller,R Ashwin,T Stubbs,6,0,6,121,12,46,39,4,2,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+105,DA Miller,R Ashwin,T Stubbs,0,1,1,122,11,46,40,4,3,17,,0,,,legbyes,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+106,T Stubbs,R Ashwin,DA Miller,0,0,0,122,11,6,6,5,4,17,"{'by': 'South Africa', 'umpire': 'RA Kettleborough', 'batter': 'T Stubbs', 'decision': 'struck down', 'umpires_call': True}",lbw,T Stubbs,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+107,WD Parnell,R Ashwin,DA Miller,0,0,0,122,11,0,1,5,5,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+108,WD Parnell,R Ashwin,DA Miller,0,0,0,122,11,0,2,5,6,17,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+109,DA Miller,Mohammed Shami,WD Parnell,4,0,4,126,7,50,41,5,1,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+110,DA Miller,Mohammed Shami,WD Parnell,0,0,0,126,7,50,42,5,2,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+111,DA Miller,Mohammed Shami,WD Parnell,0,0,0,126,7,50,43,5,3,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+112,DA Miller,Mohammed Shami,WD Parnell,1,0,1,127,6,51,44,5,4,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+113,WD Parnell,Mohammed Shami,DA Miller,1,0,1,128,5,1,3,5,5,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+114,DA Miller,Mohammed Shami,WD Parnell,0,0,0,128,5,51,45,5,6,18,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+115,WD Parnell,B Kumar,DA Miller,0,0,0,128,5,1,4,5,1,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+116,WD Parnell,B Kumar,DA Miller,1,0,1,129,4,2,5,5,2,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+117,DA Miller,B Kumar,WD Parnell,4,0,4,133,0,55,46,5,3,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137
+118,DA Miller,B Kumar,WD Parnell,4,0,4,137,-4,59,47,5,4,19,,0,,,-,bat,India,2,Perth Stadium,2022,10,India_South Africa_2022-10-30,South Africa,South Africa,India,True,137

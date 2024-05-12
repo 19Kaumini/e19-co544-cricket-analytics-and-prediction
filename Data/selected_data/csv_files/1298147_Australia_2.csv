@@ -1,106 +1,106 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,1,0,1,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-1,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,2,0,2,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-2,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,3,0,3,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-3,DA Warner,TA Boult,AJ Finch,4,0,4,4,196,4,4,0,4,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-4,DA Warner,TA Boult,AJ Finch,1,0,1,5,195,5,5,0,5,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-5,AJ Finch,TA Boult,DA Warner,0,0,0,5,195,0,1,0,6,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-6,DA Warner,TG Southee,AJ Finch,0,0,0,5,195,5,6,1,1,1,bowled,DA Warner,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-7,MR Marsh,TG Southee,AJ Finch,0,0,0,5,195,0,1,1,2,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-8,MR Marsh,TG Southee,AJ Finch,1,0,1,6,194,1,2,1,3,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-9,AJ Finch,TG Southee,MR Marsh,0,0,0,6,194,0,2,1,4,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-10,AJ Finch,TG Southee,MR Marsh,0,0,0,6,194,0,3,1,5,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-11,AJ Finch,TG Southee,MR Marsh,1,0,1,7,193,1,4,1,6,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-12,AJ Finch,TA Boult,MR Marsh,6,0,6,13,187,7,5,1,1,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-13,AJ Finch,TA Boult,MR Marsh,4,0,4,17,183,11,6,1,2,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-14,AJ Finch,TA Boult,MR Marsh,0,0,0,17,183,11,7,1,3,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-15,AJ Finch,TA Boult,MR Marsh,0,0,0,17,183,11,8,1,4,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-16,AJ Finch,TA Boult,MR Marsh,2,0,2,19,181,13,9,1,5,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-17,AJ Finch,TA Boult,MR Marsh,0,0,0,19,181,13,10,1,6,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-18,MR Marsh,MJ Santner,AJ Finch,0,0,0,19,181,1,3,1,1,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-19,MR Marsh,MJ Santner,AJ Finch,4,0,4,23,177,5,4,1,2,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-20,MR Marsh,MJ Santner,AJ Finch,0,0,0,23,177,5,5,1,3,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-21,MR Marsh,MJ Santner,AJ Finch,6,0,6,29,171,11,6,1,4,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-22,MR Marsh,MJ Santner,AJ Finch,1,0,1,30,170,12,7,1,5,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-23,AJ Finch,MJ Santner,MR Marsh,0,0,0,30,170,13,11,2,6,3,caught,AJ Finch,KS Williamson,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-24,MR Marsh,TG Southee,GJ Maxwell,0,0,0,30,170,12,8,2,1,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-25,MR Marsh,TG Southee,GJ Maxwell,4,0,4,34,166,16,9,2,2,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-26,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,10,2,3,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-27,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,11,2,4,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-28,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,12,3,5,4,caught,MR Marsh,JDS Neesham,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-29,MP Stoinis,TG Southee,GJ Maxwell,0,0,0,34,166,0,1,3,6,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-30,GJ Maxwell,LH Ferguson,MP Stoinis,1,0,1,35,165,1,1,3,1,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-31,MP Stoinis,LH Ferguson,GJ Maxwell,0,0,0,35,165,0,2,3,2,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-32,MP Stoinis,LH Ferguson,GJ Maxwell,1,0,1,36,164,1,3,3,3,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-33,GJ Maxwell,LH Ferguson,MP Stoinis,0,0,0,36,164,1,2,3,4,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-34,GJ Maxwell,LH Ferguson,MP Stoinis,1,0,1,37,163,2,3,3,5,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-35,MP Stoinis,LH Ferguson,GJ Maxwell,0,0,0,37,163,1,4,3,6,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-36,GJ Maxwell,MJ Santner,MP Stoinis,1,0,1,38,162,3,4,3,1,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-37,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,38,162,1,5,3,2,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-38,MP Stoinis,MJ Santner,GJ Maxwell,1,0,1,39,161,2,6,3,3,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-39,GJ Maxwell,MJ Santner,MP Stoinis,1,0,1,40,160,4,5,3,4,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-40,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,40,160,2,7,3,5,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-41,MP Stoinis,MJ Santner,GJ Maxwell,1,0,1,41,159,3,8,3,6,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-42,MP Stoinis,IS Sodhi,GJ Maxwell,0,0,0,41,159,3,9,3,1,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-43,MP Stoinis,IS Sodhi,GJ Maxwell,2,0,2,43,157,5,10,3,2,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-44,MP Stoinis,IS Sodhi,GJ Maxwell,1,0,1,44,156,6,11,3,3,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-45,GJ Maxwell,IS Sodhi,MP Stoinis,1,0,1,45,155,5,6,3,4,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-46,MP Stoinis,IS Sodhi,GJ Maxwell,1,0,1,46,154,7,12,3,5,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-47,GJ Maxwell,IS Sodhi,MP Stoinis,4,0,4,50,150,9,7,3,6,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-48,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,50,150,7,13,3,1,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-49,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,50,150,7,14,4,2,8,caught,MP Stoinis,GD Phillips,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-50,TH David,MJ Santner,GJ Maxwell,0,0,0,50,150,0,1,4,3,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-51,TH David,MJ Santner,GJ Maxwell,2,0,2,52,148,2,2,4,4,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-52,TH David,MJ Santner,GJ Maxwell,1,0,1,53,147,3,3,4,5,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-53,GJ Maxwell,MJ Santner,TH David,1,0,1,54,146,10,8,4,6,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-54,GJ Maxwell,IS Sodhi,TH David,1,0,1,55,145,11,9,4,1,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-55,TH David,IS Sodhi,GJ Maxwell,0,0,0,55,145,3,4,4,2,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-56,TH David,IS Sodhi,GJ Maxwell,1,0,1,56,144,4,5,4,3,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-57,GJ Maxwell,IS Sodhi,TH David,1,0,1,57,143,12,10,4,4,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-58,TH David,IS Sodhi,GJ Maxwell,1,0,1,58,142,5,6,4,5,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-59,GJ Maxwell,IS Sodhi,TH David,4,0,4,62,138,16,11,4,6,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-60,TH David,MJ Santner,GJ Maxwell,6,0,6,68,132,11,7,4,1,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-61,TH David,MJ Santner,GJ Maxwell,0,0,0,68,132,11,8,5,2,10,caught,TH David,JDS Neesham,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-62,MS Wade,MJ Santner,GJ Maxwell,1,0,1,69,131,1,1,5,3,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-63,GJ Maxwell,MJ Santner,MS Wade,4,0,4,73,127,20,12,5,4,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-64,GJ Maxwell,MJ Santner,MS Wade,0,0,0,73,127,20,13,5,5,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-65,GJ Maxwell,MJ Santner,MS Wade,1,0,1,74,126,21,14,5,6,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-66,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,74,126,21,15,5,1,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-67,GJ Maxwell,IS Sodhi,MS Wade,6,0,6,80,120,27,16,5,2,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-68,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,80,120,27,17,5,3,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-69,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,80,120,27,18,5,4,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-70,GJ Maxwell,IS Sodhi,MS Wade,1,0,1,81,119,28,19,5,5,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-71,MS Wade,IS Sodhi,GJ Maxwell,1,0,1,82,118,2,2,5,6,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-72,MS Wade,LH Ferguson,GJ Maxwell,0,0,0,82,118,2,3,5,1,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-73,MS Wade,LH Ferguson,GJ Maxwell,0,0,0,82,118,2,4,6,2,12,caught,MS Wade,DP Conway,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-74,PJ Cummins,LH Ferguson,GJ Maxwell,0,0,0,82,118,0,1,6,3,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-75,PJ Cummins,LH Ferguson,GJ Maxwell,4,0,4,86,114,4,2,6,4,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-76,PJ Cummins,LH Ferguson,GJ Maxwell,0,0,0,86,114,4,3,6,5,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-77,PJ Cummins,LH Ferguson,GJ Maxwell,1,0,1,87,113,5,4,6,6,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-78,PJ Cummins,IS Sodhi,GJ Maxwell,0,0,0,87,113,5,5,6,1,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-79,PJ Cummins,IS Sodhi,GJ Maxwell,0,1,1,88,112,5,6,6,2,13,0,,,wides,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-80,PJ Cummins,IS Sodhi,GJ Maxwell,1,0,1,89,111,6,7,6,3,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-81,GJ Maxwell,IS Sodhi,PJ Cummins,0,0,0,89,111,28,20,7,4,13,bowled,GJ Maxwell,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-82,MA Starc,IS Sodhi,PJ Cummins,1,0,1,90,110,1,1,7,5,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-83,PJ Cummins,IS Sodhi,MA Starc,1,0,1,91,109,7,8,7,6,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-84,MA Starc,IS Sodhi,PJ Cummins,0,0,0,91,109,1,2,7,7,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-85,PJ Cummins,TA Boult,MA Starc,0,0,0,91,109,7,9,7,1,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-86,PJ Cummins,TA Boult,MA Starc,1,0,1,92,108,8,10,7,2,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-87,MA Starc,TA Boult,PJ Cummins,1,0,1,93,107,2,3,7,3,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-88,PJ Cummins,TA Boult,MA Starc,0,1,1,94,106,8,11,7,4,14,0,,,wides,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-89,PJ Cummins,TA Boult,MA Starc,0,1,1,95,105,8,12,7,5,14,0,,,legbyes,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-90,MA Starc,TA Boult,PJ Cummins,1,0,1,96,104,3,4,7,6,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-91,PJ Cummins,TA Boult,MA Starc,1,0,1,97,103,9,13,7,7,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-92,PJ Cummins,LH Ferguson,MA Starc,4,0,4,101,99,13,14,7,1,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-93,PJ Cummins,LH Ferguson,MA Starc,6,0,6,107,93,19,15,7,2,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-94,PJ Cummins,LH Ferguson,MA Starc,0,0,0,107,93,19,16,7,3,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-95,PJ Cummins,LH Ferguson,MA Starc,1,0,1,108,92,20,17,7,4,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-96,MA Starc,LH Ferguson,PJ Cummins,0,0,0,108,92,3,5,7,5,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-97,MA Starc,LH Ferguson,PJ Cummins,1,0,1,109,91,4,6,7,6,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-98,MA Starc,TA Boult,PJ Cummins,0,0,0,109,91,4,7,8,1,16,bowled,MA Starc,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-99,A Zampa,TA Boult,PJ Cummins,0,0,0,109,91,0,1,8,2,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-100,A Zampa,TA Boult,PJ Cummins,0,0,0,109,91,0,2,9,3,16,bowled,A Zampa,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-101,JR Hazlewood,TA Boult,PJ Cummins,1,0,1,110,90,1,1,9,4,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-102,PJ Cummins,TA Boult,JR Hazlewood,0,0,0,110,90,20,18,9,5,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-103,PJ Cummins,TA Boult,JR Hazlewood,1,0,1,111,89,21,19,9,6,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
-104,PJ Cummins,TG Southee,JR Hazlewood,0,0,0,111,89,21,20,10,1,17,caught,PJ Cummins,DP Conway,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,111
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,1,0,1,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+1,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,2,0,2,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+2,DA Warner,TA Boult,AJ Finch,0,0,0,0,200,0,3,0,3,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+3,DA Warner,TA Boult,AJ Finch,4,0,4,4,196,4,4,0,4,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+4,DA Warner,TA Boult,AJ Finch,1,0,1,5,195,5,5,0,5,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+5,AJ Finch,TA Boult,DA Warner,0,0,0,5,195,0,1,0,6,0,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+6,DA Warner,TG Southee,AJ Finch,0,0,0,5,195,5,6,1,1,1,bowled,DA Warner,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+7,MR Marsh,TG Southee,AJ Finch,0,0,0,5,195,0,1,1,2,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+8,MR Marsh,TG Southee,AJ Finch,1,0,1,6,194,1,2,1,3,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+9,AJ Finch,TG Southee,MR Marsh,0,0,0,6,194,0,2,1,4,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+10,AJ Finch,TG Southee,MR Marsh,0,0,0,6,194,0,3,1,5,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+11,AJ Finch,TG Southee,MR Marsh,1,0,1,7,193,1,4,1,6,1,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+12,AJ Finch,TA Boult,MR Marsh,6,0,6,13,187,7,5,1,1,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+13,AJ Finch,TA Boult,MR Marsh,4,0,4,17,183,11,6,1,2,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+14,AJ Finch,TA Boult,MR Marsh,0,0,0,17,183,11,7,1,3,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+15,AJ Finch,TA Boult,MR Marsh,0,0,0,17,183,11,8,1,4,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+16,AJ Finch,TA Boult,MR Marsh,2,0,2,19,181,13,9,1,5,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+17,AJ Finch,TA Boult,MR Marsh,0,0,0,19,181,13,10,1,6,2,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+18,MR Marsh,MJ Santner,AJ Finch,0,0,0,19,181,1,3,1,1,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+19,MR Marsh,MJ Santner,AJ Finch,4,0,4,23,177,5,4,1,2,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+20,MR Marsh,MJ Santner,AJ Finch,0,0,0,23,177,5,5,1,3,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+21,MR Marsh,MJ Santner,AJ Finch,6,0,6,29,171,11,6,1,4,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+22,MR Marsh,MJ Santner,AJ Finch,1,0,1,30,170,12,7,1,5,3,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+23,AJ Finch,MJ Santner,MR Marsh,0,0,0,30,170,13,11,2,6,3,caught,AJ Finch,KS Williamson,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+24,MR Marsh,TG Southee,GJ Maxwell,0,0,0,30,170,12,8,2,1,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+25,MR Marsh,TG Southee,GJ Maxwell,4,0,4,34,166,16,9,2,2,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+26,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,10,2,3,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+27,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,11,2,4,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+28,MR Marsh,TG Southee,GJ Maxwell,0,0,0,34,166,16,12,3,5,4,caught,MR Marsh,JDS Neesham,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+29,MP Stoinis,TG Southee,GJ Maxwell,0,0,0,34,166,0,1,3,6,4,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+30,GJ Maxwell,LH Ferguson,MP Stoinis,1,0,1,35,165,1,1,3,1,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+31,MP Stoinis,LH Ferguson,GJ Maxwell,0,0,0,35,165,0,2,3,2,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+32,MP Stoinis,LH Ferguson,GJ Maxwell,1,0,1,36,164,1,3,3,3,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+33,GJ Maxwell,LH Ferguson,MP Stoinis,0,0,0,36,164,1,2,3,4,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+34,GJ Maxwell,LH Ferguson,MP Stoinis,1,0,1,37,163,2,3,3,5,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+35,MP Stoinis,LH Ferguson,GJ Maxwell,0,0,0,37,163,1,4,3,6,5,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+36,GJ Maxwell,MJ Santner,MP Stoinis,1,0,1,38,162,3,4,3,1,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+37,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,38,162,1,5,3,2,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+38,MP Stoinis,MJ Santner,GJ Maxwell,1,0,1,39,161,2,6,3,3,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+39,GJ Maxwell,MJ Santner,MP Stoinis,1,0,1,40,160,4,5,3,4,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+40,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,40,160,2,7,3,5,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+41,MP Stoinis,MJ Santner,GJ Maxwell,1,0,1,41,159,3,8,3,6,6,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+42,MP Stoinis,IS Sodhi,GJ Maxwell,0,0,0,41,159,3,9,3,1,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+43,MP Stoinis,IS Sodhi,GJ Maxwell,2,0,2,43,157,5,10,3,2,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+44,MP Stoinis,IS Sodhi,GJ Maxwell,1,0,1,44,156,6,11,3,3,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+45,GJ Maxwell,IS Sodhi,MP Stoinis,1,0,1,45,155,5,6,3,4,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+46,MP Stoinis,IS Sodhi,GJ Maxwell,1,0,1,46,154,7,12,3,5,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+47,GJ Maxwell,IS Sodhi,MP Stoinis,4,0,4,50,150,9,7,3,6,7,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+48,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,50,150,7,13,3,1,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+49,MP Stoinis,MJ Santner,GJ Maxwell,0,0,0,50,150,7,14,4,2,8,caught,MP Stoinis,GD Phillips,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+50,TH David,MJ Santner,GJ Maxwell,0,0,0,50,150,0,1,4,3,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+51,TH David,MJ Santner,GJ Maxwell,2,0,2,52,148,2,2,4,4,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+52,TH David,MJ Santner,GJ Maxwell,1,0,1,53,147,3,3,4,5,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+53,GJ Maxwell,MJ Santner,TH David,1,0,1,54,146,10,8,4,6,8,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+54,GJ Maxwell,IS Sodhi,TH David,1,0,1,55,145,11,9,4,1,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+55,TH David,IS Sodhi,GJ Maxwell,0,0,0,55,145,3,4,4,2,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+56,TH David,IS Sodhi,GJ Maxwell,1,0,1,56,144,4,5,4,3,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+57,GJ Maxwell,IS Sodhi,TH David,1,0,1,57,143,12,10,4,4,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+58,TH David,IS Sodhi,GJ Maxwell,1,0,1,58,142,5,6,4,5,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+59,GJ Maxwell,IS Sodhi,TH David,4,0,4,62,138,16,11,4,6,9,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+60,TH David,MJ Santner,GJ Maxwell,6,0,6,68,132,11,7,4,1,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+61,TH David,MJ Santner,GJ Maxwell,0,0,0,68,132,11,8,5,2,10,caught,TH David,JDS Neesham,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+62,MS Wade,MJ Santner,GJ Maxwell,1,0,1,69,131,1,1,5,3,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+63,GJ Maxwell,MJ Santner,MS Wade,4,0,4,73,127,20,12,5,4,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+64,GJ Maxwell,MJ Santner,MS Wade,0,0,0,73,127,20,13,5,5,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+65,GJ Maxwell,MJ Santner,MS Wade,1,0,1,74,126,21,14,5,6,10,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+66,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,74,126,21,15,5,1,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+67,GJ Maxwell,IS Sodhi,MS Wade,6,0,6,80,120,27,16,5,2,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+68,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,80,120,27,17,5,3,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+69,GJ Maxwell,IS Sodhi,MS Wade,0,0,0,80,120,27,18,5,4,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+70,GJ Maxwell,IS Sodhi,MS Wade,1,0,1,81,119,28,19,5,5,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+71,MS Wade,IS Sodhi,GJ Maxwell,1,0,1,82,118,2,2,5,6,11,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+72,MS Wade,LH Ferguson,GJ Maxwell,0,0,0,82,118,2,3,5,1,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+73,MS Wade,LH Ferguson,GJ Maxwell,0,0,0,82,118,2,4,6,2,12,caught,MS Wade,DP Conway,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+74,PJ Cummins,LH Ferguson,GJ Maxwell,0,0,0,82,118,0,1,6,3,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+75,PJ Cummins,LH Ferguson,GJ Maxwell,4,0,4,86,114,4,2,6,4,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+76,PJ Cummins,LH Ferguson,GJ Maxwell,0,0,0,86,114,4,3,6,5,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+77,PJ Cummins,LH Ferguson,GJ Maxwell,1,0,1,87,113,5,4,6,6,12,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+78,PJ Cummins,IS Sodhi,GJ Maxwell,0,0,0,87,113,5,5,6,1,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+79,PJ Cummins,IS Sodhi,GJ Maxwell,0,1,1,88,112,5,6,6,2,13,0,,,wides,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+80,PJ Cummins,IS Sodhi,GJ Maxwell,1,0,1,89,111,6,7,6,3,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+81,GJ Maxwell,IS Sodhi,PJ Cummins,0,0,0,89,111,28,20,7,4,13,bowled,GJ Maxwell,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+82,MA Starc,IS Sodhi,PJ Cummins,1,0,1,90,110,1,1,7,5,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+83,PJ Cummins,IS Sodhi,MA Starc,1,0,1,91,109,7,8,7,6,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+84,MA Starc,IS Sodhi,PJ Cummins,0,0,0,91,109,1,2,7,7,13,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+85,PJ Cummins,TA Boult,MA Starc,0,0,0,91,109,7,9,7,1,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+86,PJ Cummins,TA Boult,MA Starc,1,0,1,92,108,8,10,7,2,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+87,MA Starc,TA Boult,PJ Cummins,1,0,1,93,107,2,3,7,3,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+88,PJ Cummins,TA Boult,MA Starc,0,1,1,94,106,8,11,7,4,14,0,,,wides,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+89,PJ Cummins,TA Boult,MA Starc,0,1,1,95,105,8,12,7,5,14,0,,,legbyes,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+90,MA Starc,TA Boult,PJ Cummins,1,0,1,96,104,3,4,7,6,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+91,PJ Cummins,TA Boult,MA Starc,1,0,1,97,103,9,13,7,7,14,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+92,PJ Cummins,LH Ferguson,MA Starc,4,0,4,101,99,13,14,7,1,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+93,PJ Cummins,LH Ferguson,MA Starc,6,0,6,107,93,19,15,7,2,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+94,PJ Cummins,LH Ferguson,MA Starc,0,0,0,107,93,19,16,7,3,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+95,PJ Cummins,LH Ferguson,MA Starc,1,0,1,108,92,20,17,7,4,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+96,MA Starc,LH Ferguson,PJ Cummins,0,0,0,108,92,3,5,7,5,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+97,MA Starc,LH Ferguson,PJ Cummins,1,0,1,109,91,4,6,7,6,15,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+98,MA Starc,TA Boult,PJ Cummins,0,0,0,109,91,4,7,8,1,16,bowled,MA Starc,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+99,A Zampa,TA Boult,PJ Cummins,0,0,0,109,91,0,1,8,2,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+100,A Zampa,TA Boult,PJ Cummins,0,0,0,109,91,0,2,9,3,16,bowled,A Zampa,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+101,JR Hazlewood,TA Boult,PJ Cummins,1,0,1,110,90,1,1,9,4,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+102,PJ Cummins,TA Boult,JR Hazlewood,0,0,0,110,90,20,18,9,5,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+103,PJ Cummins,TA Boult,JR Hazlewood,1,0,1,111,89,21,19,9,6,16,0,,,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111
+104,PJ Cummins,TG Southee,JR Hazlewood,0,0,0,111,89,21,20,10,1,17,caught,PJ Cummins,DP Conway,-,field,Australia,2,Sydney Cricket Ground,2022,10,New Zealand_Australia_2022-10-22,New Zealand,Australia,New Zealand,False,111

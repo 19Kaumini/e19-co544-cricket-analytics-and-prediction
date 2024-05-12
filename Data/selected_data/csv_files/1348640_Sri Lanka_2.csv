@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,P Nissanka,HH Pandya,BKG Mendis,0,0,0,0,162,0,1,0,1,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-1,P Nissanka,HH Pandya,BKG Mendis,0,1,1,1,161,0,2,0,2,wides,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-2,P Nissanka,HH Pandya,BKG Mendis,1,0,1,2,160,1,3,0,3,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-3,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,1,0,4,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-4,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,2,0,5,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-5,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,3,0,6,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-6,BKG Mendis,HH Pandya,P Nissanka,1,0,1,3,159,1,4,0,7,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-7,BKG Mendis,Shivam Mavi,P Nissanka,0,0,0,3,159,1,5,0,1,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-8,BKG Mendis,Shivam Mavi,P Nissanka,4,0,4,7,155,5,6,0,2,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-9,BKG Mendis,Shivam Mavi,P Nissanka,4,0,4,11,151,9,7,0,3,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-10,BKG Mendis,Shivam Mavi,P Nissanka,1,0,1,12,150,10,8,0,4,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-11,P Nissanka,Shivam Mavi,BKG Mendis,0,0,0,12,150,1,4,1,5,-,1,bowled,P Nissanka,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-12,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,12,150,0,1,1,6,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-13,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,9,1,1,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-14,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,10,1,2,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-15,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,11,1,3,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-16,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,12,1,4,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-17,BKG Mendis,HH Pandya,DM de Silva,4,0,4,16,146,14,13,1,5,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-18,BKG Mendis,HH Pandya,DM de Silva,0,0,0,16,146,14,14,1,6,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-19,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,16,146,0,2,1,1,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-20,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,16,146,0,3,1,2,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-21,DM de Silva,Shivam Mavi,BKG Mendis,4,0,4,20,142,4,4,1,3,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-22,DM de Silva,Shivam Mavi,BKG Mendis,4,0,4,24,138,8,5,1,4,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-23,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,24,138,8,6,2,5,-,3,caught,DM de Silva,SV Samson,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-24,KIC Asalanka,Shivam Mavi,BKG Mendis,0,0,0,24,138,0,1,2,6,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-25,BKG Mendis,HH Pandya,KIC Asalanka,0,0,0,24,138,14,15,2,1,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-26,BKG Mendis,HH Pandya,KIC Asalanka,1,0,1,25,137,15,16,2,2,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-27,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,2,2,3,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-28,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,3,2,4,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-29,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,4,2,5,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-30,KIC Asalanka,HH Pandya,BKG Mendis,4,0,4,29,133,4,5,2,6,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-31,BKG Mendis,Umran Malik,KIC Asalanka,0,1,1,30,132,15,17,2,1,wides,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-32,BKG Mendis,Umran Malik,KIC Asalanka,4,0,4,34,128,19,18,2,2,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-33,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,35,127,20,19,2,3,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-34,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,6,2,4,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-35,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,7,2,5,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-36,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,8,2,6,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-37,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,9,2,7,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-38,BKG Mendis,YS Chahal,KIC Asalanka,1,0,1,36,126,21,20,2,1,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-39,KIC Asalanka,YS Chahal,BKG Mendis,6,0,6,42,120,10,10,2,2,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-40,KIC Asalanka,YS Chahal,BKG Mendis,0,0,0,42,120,10,11,2,3,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-41,KIC Asalanka,YS Chahal,BKG Mendis,1,0,1,43,119,11,12,2,4,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-42,BKG Mendis,YS Chahal,KIC Asalanka,0,0,0,43,119,21,21,2,5,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-43,BKG Mendis,YS Chahal,KIC Asalanka,1,0,1,44,118,22,22,2,6,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-44,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,45,117,23,23,2,1,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-45,KIC Asalanka,Umran Malik,BKG Mendis,1,0,1,46,116,12,13,2,2,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-46,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,47,115,24,24,2,3,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-47,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,47,115,12,14,2,4,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-48,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,47,115,12,15,3,5,-,7,caught,KIC Asalanka,Ishan Kishan,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-49,PBB Rajapaksa,Umran Malik,BKG Mendis,0,0,0,47,115,0,1,3,6,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-50,BKG Mendis,HV Patel,PBB Rajapaksa,4,0,4,51,111,28,25,3,1,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-51,BKG Mendis,HV Patel,PBB Rajapaksa,0,0,0,51,111,28,26,4,2,-,8,caught,BKG Mendis,SV Samson,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-52,MD Shanaka,HV Patel,PBB Rajapaksa,1,0,1,52,110,1,1,4,3,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-53,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,52,110,0,2,4,4,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-54,PBB Rajapaksa,HV Patel,MD Shanaka,4,0,4,56,106,4,3,4,5,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-55,PBB Rajapaksa,HV Patel,MD Shanaka,1,0,1,57,105,5,4,4,6,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-56,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,58,104,6,5,4,1,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-57,MD Shanaka,AR Patel,PBB Rajapaksa,1,0,1,59,103,2,2,4,2,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-58,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,60,102,7,6,4,3,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-59,MD Shanaka,AR Patel,PBB Rajapaksa,1,0,1,61,101,3,3,4,4,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-60,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,62,100,8,7,4,5,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-61,MD Shanaka,AR Patel,PBB Rajapaksa,4,0,4,66,96,7,4,4,6,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-62,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,66,96,8,8,4,1,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-63,PBB Rajapaksa,HV Patel,MD Shanaka,2,0,2,68,94,10,9,4,2,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-64,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,68,94,10,10,4,3,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-65,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,68,94,10,11,5,4,-,10,caught,PBB Rajapaksa,HH Pandya,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-66,PWH de Silva,HV Patel,MD Shanaka,0,0,0,68,94,0,1,5,5,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-67,PWH de Silva,HV Patel,MD Shanaka,0,0,0,68,94,0,2,5,6,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-68,MD Shanaka,AR Patel,PWH de Silva,2,0,2,70,92,9,5,5,1,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-69,MD Shanaka,AR Patel,PWH de Silva,1,0,1,71,91,10,6,5,2,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-70,PWH de Silva,AR Patel,MD Shanaka,1,0,1,72,90,1,3,5,3,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-71,MD Shanaka,AR Patel,PWH de Silva,6,0,6,78,84,16,7,5,4,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-72,MD Shanaka,AR Patel,PWH de Silva,0,0,0,78,84,16,8,5,5,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-73,MD Shanaka,AR Patel,PWH de Silva,2,0,2,80,82,18,9,5,6,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-74,PWH de Silva,Umran Malik,MD Shanaka,1,0,1,81,81,2,4,5,1,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-75,MD Shanaka,Umran Malik,PWH de Silva,4,0,4,85,77,22,10,5,2,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-76,MD Shanaka,Umran Malik,PWH de Silva,0,0,0,85,77,22,11,5,3,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-77,MD Shanaka,Umran Malik,PWH de Silva,0,0,0,85,77,22,12,5,4,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-78,MD Shanaka,Umran Malik,PWH de Silva,1,0,1,86,76,23,13,5,5,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-79,PWH de Silva,Umran Malik,MD Shanaka,4,0,4,90,72,6,5,5,6,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-80,MD Shanaka,YS Chahal,PWH de Silva,1,0,1,91,71,24,14,5,1,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-81,PWH de Silva,YS Chahal,MD Shanaka,1,0,1,92,70,7,6,5,2,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-82,MD Shanaka,YS Chahal,PWH de Silva,1,0,1,93,69,25,15,5,3,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-83,PWH de Silva,YS Chahal,MD Shanaka,6,0,6,99,63,13,7,5,4,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-84,PWH de Silva,YS Chahal,MD Shanaka,6,0,6,105,57,19,8,5,5,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-85,PWH de Silva,YS Chahal,MD Shanaka,2,0,2,107,55,21,9,5,6,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-86,MD Shanaka,Shivam Mavi,PWH de Silva,0,0,0,107,55,25,16,5,1,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-87,MD Shanaka,Shivam Mavi,PWH de Silva,1,0,1,108,54,26,17,5,2,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-88,PWH de Silva,Shivam Mavi,MD Shanaka,0,0,0,108,54,21,10,6,3,-,14,caught,PWH de Silva,HH Pandya,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-89,C Karunaratne,Shivam Mavi,MD Shanaka,1,0,1,109,53,1,1,6,4,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-90,MD Shanaka,Shivam Mavi,C Karunaratne,0,0,0,109,53,26,18,6,5,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-91,MD Shanaka,Shivam Mavi,C Karunaratne,1,0,1,110,52,27,19,6,6,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-92,MD Shanaka,HV Patel,C Karunaratne,6,0,6,116,46,33,20,6,1,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-93,MD Shanaka,HV Patel,C Karunaratne,1,0,1,117,45,34,21,6,2,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-94,C Karunaratne,HV Patel,MD Shanaka,0,0,0,117,45,1,2,6,3,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-95,C Karunaratne,HV Patel,MD Shanaka,1,0,1,118,44,2,3,6,4,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-96,MD Shanaka,HV Patel,C Karunaratne,4,0,4,122,40,38,22,6,5,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-97,MD Shanaka,HV Patel,C Karunaratne,1,0,1,123,39,39,23,6,6,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-98,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,123,39,39,24,6,1,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-99,MD Shanaka,Umran Malik,C Karunaratne,6,0,6,129,33,45,25,6,2,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-100,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,129,33,45,26,6,3,-,16,0,,,"{'by': 'India', 'umpire': 'KN Ananthapadmanabhan', 'batter': 'MD Shanaka', 'decision': 'struck down'}",field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-101,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,129,33,45,27,7,4,-,16,caught,MD Shanaka,YS Chahal,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-102,M Theekshana,Umran Malik,C Karunaratne,1,0,1,130,32,1,1,7,5,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-103,C Karunaratne,Umran Malik,M Theekshana,1,0,1,131,31,3,4,7,6,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-104,C Karunaratne,Shivam Mavi,M Theekshana,1,0,1,132,30,4,5,7,1,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-105,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,2,7,2,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-106,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,3,7,3,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-107,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,4,8,4,-,17,caught,M Theekshana,SA Yadav,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-108,CAK Rajitha,Shivam Mavi,C Karunaratne,0,1,1,133,29,0,1,8,5,legbyes,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-109,C Karunaratne,Shivam Mavi,CAK Rajitha,1,0,1,134,28,5,6,8,6,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-110,C Karunaratne,HV Patel,CAK Rajitha,0,0,0,134,28,5,7,8,1,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-111,C Karunaratne,HV Patel,CAK Rajitha,2,1,3,137,25,7,8,8,2,noballs,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-112,C Karunaratne,HV Patel,CAK Rajitha,1,0,1,138,24,8,9,8,3,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-113,CAK Rajitha,HV Patel,C Karunaratne,0,1,1,139,23,0,2,8,4,wides,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-114,CAK Rajitha,HV Patel,C Karunaratne,3,0,3,142,20,3,3,8,5,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-115,C Karunaratne,HV Patel,CAK Rajitha,6,0,6,148,14,14,10,8,6,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-116,C Karunaratne,HV Patel,CAK Rajitha,1,0,1,149,13,15,11,8,7,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-117,CAK Rajitha,HV Patel,C Karunaratne,1,0,1,150,12,4,4,8,8,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-118,CAK Rajitha,AR Patel,C Karunaratne,0,1,1,151,11,4,5,8,1,wides,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-119,CAK Rajitha,AR Patel,C Karunaratne,1,0,1,152,10,5,6,8,2,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-120,C Karunaratne,AR Patel,CAK Rajitha,0,0,0,152,10,15,12,8,3,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-121,C Karunaratne,AR Patel,CAK Rajitha,6,0,6,158,4,21,13,8,4,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-122,C Karunaratne,AR Patel,CAK Rajitha,0,0,0,158,4,21,14,8,5,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-123,C Karunaratne,AR Patel,CAK Rajitha,1,0,1,159,3,22,15,9,6,-,19,run out,CAK Rajitha,DJ Hooda;AR Patel,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
-124,C Karunaratne,AR Patel,D Madushanka,1,0,1,160,2,23,16,10,7,-,19,run out,D Madushanka,Ishan Kishan;DJ Hooda,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,160
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,P Nissanka,HH Pandya,BKG Mendis,0,0,0,0,162,0,1,0,1,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+1,P Nissanka,HH Pandya,BKG Mendis,0,1,1,1,161,0,2,0,2,wides,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+2,P Nissanka,HH Pandya,BKG Mendis,1,0,1,2,160,1,3,0,3,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+3,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,1,0,4,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+4,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,2,0,5,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+5,BKG Mendis,HH Pandya,P Nissanka,0,0,0,2,160,0,3,0,6,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+6,BKG Mendis,HH Pandya,P Nissanka,1,0,1,3,159,1,4,0,7,-,0,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+7,BKG Mendis,Shivam Mavi,P Nissanka,0,0,0,3,159,1,5,0,1,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+8,BKG Mendis,Shivam Mavi,P Nissanka,4,0,4,7,155,5,6,0,2,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+9,BKG Mendis,Shivam Mavi,P Nissanka,4,0,4,11,151,9,7,0,3,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+10,BKG Mendis,Shivam Mavi,P Nissanka,1,0,1,12,150,10,8,0,4,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+11,P Nissanka,Shivam Mavi,BKG Mendis,0,0,0,12,150,1,4,1,5,-,1,bowled,P Nissanka,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+12,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,12,150,0,1,1,6,-,1,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+13,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,9,1,1,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+14,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,10,1,2,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+15,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,11,1,3,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+16,BKG Mendis,HH Pandya,DM de Silva,0,0,0,12,150,10,12,1,4,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+17,BKG Mendis,HH Pandya,DM de Silva,4,0,4,16,146,14,13,1,5,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+18,BKG Mendis,HH Pandya,DM de Silva,0,0,0,16,146,14,14,1,6,-,2,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+19,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,16,146,0,2,1,1,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+20,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,16,146,0,3,1,2,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+21,DM de Silva,Shivam Mavi,BKG Mendis,4,0,4,20,142,4,4,1,3,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+22,DM de Silva,Shivam Mavi,BKG Mendis,4,0,4,24,138,8,5,1,4,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+23,DM de Silva,Shivam Mavi,BKG Mendis,0,0,0,24,138,8,6,2,5,-,3,caught,DM de Silva,SV Samson,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+24,KIC Asalanka,Shivam Mavi,BKG Mendis,0,0,0,24,138,0,1,2,6,-,3,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+25,BKG Mendis,HH Pandya,KIC Asalanka,0,0,0,24,138,14,15,2,1,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+26,BKG Mendis,HH Pandya,KIC Asalanka,1,0,1,25,137,15,16,2,2,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+27,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,2,2,3,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+28,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,3,2,4,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+29,KIC Asalanka,HH Pandya,BKG Mendis,0,0,0,25,137,0,4,2,5,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+30,KIC Asalanka,HH Pandya,BKG Mendis,4,0,4,29,133,4,5,2,6,-,4,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+31,BKG Mendis,Umran Malik,KIC Asalanka,0,1,1,30,132,15,17,2,1,wides,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+32,BKG Mendis,Umran Malik,KIC Asalanka,4,0,4,34,128,19,18,2,2,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+33,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,35,127,20,19,2,3,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+34,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,6,2,4,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+35,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,7,2,5,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+36,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,8,2,6,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+37,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,35,127,4,9,2,7,-,5,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+38,BKG Mendis,YS Chahal,KIC Asalanka,1,0,1,36,126,21,20,2,1,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+39,KIC Asalanka,YS Chahal,BKG Mendis,6,0,6,42,120,10,10,2,2,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+40,KIC Asalanka,YS Chahal,BKG Mendis,0,0,0,42,120,10,11,2,3,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+41,KIC Asalanka,YS Chahal,BKG Mendis,1,0,1,43,119,11,12,2,4,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+42,BKG Mendis,YS Chahal,KIC Asalanka,0,0,0,43,119,21,21,2,5,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+43,BKG Mendis,YS Chahal,KIC Asalanka,1,0,1,44,118,22,22,2,6,-,6,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+44,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,45,117,23,23,2,1,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+45,KIC Asalanka,Umran Malik,BKG Mendis,1,0,1,46,116,12,13,2,2,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+46,BKG Mendis,Umran Malik,KIC Asalanka,1,0,1,47,115,24,24,2,3,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+47,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,47,115,12,14,2,4,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+48,KIC Asalanka,Umran Malik,BKG Mendis,0,0,0,47,115,12,15,3,5,-,7,caught,KIC Asalanka,Ishan Kishan,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+49,PBB Rajapaksa,Umran Malik,BKG Mendis,0,0,0,47,115,0,1,3,6,-,7,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+50,BKG Mendis,HV Patel,PBB Rajapaksa,4,0,4,51,111,28,25,3,1,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+51,BKG Mendis,HV Patel,PBB Rajapaksa,0,0,0,51,111,28,26,4,2,-,8,caught,BKG Mendis,SV Samson,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+52,MD Shanaka,HV Patel,PBB Rajapaksa,1,0,1,52,110,1,1,4,3,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+53,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,52,110,0,2,4,4,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+54,PBB Rajapaksa,HV Patel,MD Shanaka,4,0,4,56,106,4,3,4,5,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+55,PBB Rajapaksa,HV Patel,MD Shanaka,1,0,1,57,105,5,4,4,6,-,8,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+56,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,58,104,6,5,4,1,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+57,MD Shanaka,AR Patel,PBB Rajapaksa,1,0,1,59,103,2,2,4,2,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+58,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,60,102,7,6,4,3,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+59,MD Shanaka,AR Patel,PBB Rajapaksa,1,0,1,61,101,3,3,4,4,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+60,PBB Rajapaksa,AR Patel,MD Shanaka,1,0,1,62,100,8,7,4,5,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+61,MD Shanaka,AR Patel,PBB Rajapaksa,4,0,4,66,96,7,4,4,6,-,9,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+62,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,66,96,8,8,4,1,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+63,PBB Rajapaksa,HV Patel,MD Shanaka,2,0,2,68,94,10,9,4,2,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+64,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,68,94,10,10,4,3,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+65,PBB Rajapaksa,HV Patel,MD Shanaka,0,0,0,68,94,10,11,5,4,-,10,caught,PBB Rajapaksa,HH Pandya,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+66,PWH de Silva,HV Patel,MD Shanaka,0,0,0,68,94,0,1,5,5,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+67,PWH de Silva,HV Patel,MD Shanaka,0,0,0,68,94,0,2,5,6,-,10,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+68,MD Shanaka,AR Patel,PWH de Silva,2,0,2,70,92,9,5,5,1,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+69,MD Shanaka,AR Patel,PWH de Silva,1,0,1,71,91,10,6,5,2,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+70,PWH de Silva,AR Patel,MD Shanaka,1,0,1,72,90,1,3,5,3,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+71,MD Shanaka,AR Patel,PWH de Silva,6,0,6,78,84,16,7,5,4,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+72,MD Shanaka,AR Patel,PWH de Silva,0,0,0,78,84,16,8,5,5,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+73,MD Shanaka,AR Patel,PWH de Silva,2,0,2,80,82,18,9,5,6,-,11,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+74,PWH de Silva,Umran Malik,MD Shanaka,1,0,1,81,81,2,4,5,1,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+75,MD Shanaka,Umran Malik,PWH de Silva,4,0,4,85,77,22,10,5,2,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+76,MD Shanaka,Umran Malik,PWH de Silva,0,0,0,85,77,22,11,5,3,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+77,MD Shanaka,Umran Malik,PWH de Silva,0,0,0,85,77,22,12,5,4,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+78,MD Shanaka,Umran Malik,PWH de Silva,1,0,1,86,76,23,13,5,5,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+79,PWH de Silva,Umran Malik,MD Shanaka,4,0,4,90,72,6,5,5,6,-,12,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+80,MD Shanaka,YS Chahal,PWH de Silva,1,0,1,91,71,24,14,5,1,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+81,PWH de Silva,YS Chahal,MD Shanaka,1,0,1,92,70,7,6,5,2,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+82,MD Shanaka,YS Chahal,PWH de Silva,1,0,1,93,69,25,15,5,3,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+83,PWH de Silva,YS Chahal,MD Shanaka,6,0,6,99,63,13,7,5,4,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+84,PWH de Silva,YS Chahal,MD Shanaka,6,0,6,105,57,19,8,5,5,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+85,PWH de Silva,YS Chahal,MD Shanaka,2,0,2,107,55,21,9,5,6,-,13,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+86,MD Shanaka,Shivam Mavi,PWH de Silva,0,0,0,107,55,25,16,5,1,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+87,MD Shanaka,Shivam Mavi,PWH de Silva,1,0,1,108,54,26,17,5,2,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+88,PWH de Silva,Shivam Mavi,MD Shanaka,0,0,0,108,54,21,10,6,3,-,14,caught,PWH de Silva,HH Pandya,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+89,C Karunaratne,Shivam Mavi,MD Shanaka,1,0,1,109,53,1,1,6,4,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+90,MD Shanaka,Shivam Mavi,C Karunaratne,0,0,0,109,53,26,18,6,5,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+91,MD Shanaka,Shivam Mavi,C Karunaratne,1,0,1,110,52,27,19,6,6,-,14,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+92,MD Shanaka,HV Patel,C Karunaratne,6,0,6,116,46,33,20,6,1,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+93,MD Shanaka,HV Patel,C Karunaratne,1,0,1,117,45,34,21,6,2,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+94,C Karunaratne,HV Patel,MD Shanaka,0,0,0,117,45,1,2,6,3,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+95,C Karunaratne,HV Patel,MD Shanaka,1,0,1,118,44,2,3,6,4,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+96,MD Shanaka,HV Patel,C Karunaratne,4,0,4,122,40,38,22,6,5,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+97,MD Shanaka,HV Patel,C Karunaratne,1,0,1,123,39,39,23,6,6,-,15,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+98,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,123,39,39,24,6,1,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+99,MD Shanaka,Umran Malik,C Karunaratne,6,0,6,129,33,45,25,6,2,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+100,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,129,33,45,26,6,3,-,16,0,,,"{'by': 'India', 'umpire': 'KN Ananthapadmanabhan', 'batter': 'MD Shanaka', 'decision': 'struck down'}",field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+101,MD Shanaka,Umran Malik,C Karunaratne,0,0,0,129,33,45,27,7,4,-,16,caught,MD Shanaka,YS Chahal,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+102,M Theekshana,Umran Malik,C Karunaratne,1,0,1,130,32,1,1,7,5,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+103,C Karunaratne,Umran Malik,M Theekshana,1,0,1,131,31,3,4,7,6,-,16,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+104,C Karunaratne,Shivam Mavi,M Theekshana,1,0,1,132,30,4,5,7,1,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+105,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,2,7,2,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+106,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,3,7,3,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+107,M Theekshana,Shivam Mavi,C Karunaratne,0,0,0,132,30,1,4,8,4,-,17,caught,M Theekshana,SA Yadav,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+108,CAK Rajitha,Shivam Mavi,C Karunaratne,0,1,1,133,29,0,1,8,5,legbyes,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+109,C Karunaratne,Shivam Mavi,CAK Rajitha,1,0,1,134,28,5,6,8,6,-,17,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+110,C Karunaratne,HV Patel,CAK Rajitha,0,0,0,134,28,5,7,8,1,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+111,C Karunaratne,HV Patel,CAK Rajitha,2,1,3,137,25,7,8,8,2,noballs,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+112,C Karunaratne,HV Patel,CAK Rajitha,1,0,1,138,24,8,9,8,3,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+113,CAK Rajitha,HV Patel,C Karunaratne,0,1,1,139,23,0,2,8,4,wides,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+114,CAK Rajitha,HV Patel,C Karunaratne,3,0,3,142,20,3,3,8,5,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+115,C Karunaratne,HV Patel,CAK Rajitha,6,0,6,148,14,14,10,8,6,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+116,C Karunaratne,HV Patel,CAK Rajitha,1,0,1,149,13,15,11,8,7,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+117,CAK Rajitha,HV Patel,C Karunaratne,1,0,1,150,12,4,4,8,8,-,18,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+118,CAK Rajitha,AR Patel,C Karunaratne,0,1,1,151,11,4,5,8,1,wides,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+119,CAK Rajitha,AR Patel,C Karunaratne,1,0,1,152,10,5,6,8,2,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+120,C Karunaratne,AR Patel,CAK Rajitha,0,0,0,152,10,15,12,8,3,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+121,C Karunaratne,AR Patel,CAK Rajitha,6,0,6,158,4,21,13,8,4,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+122,C Karunaratne,AR Patel,CAK Rajitha,0,0,0,158,4,21,14,8,5,-,19,0,,,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+123,C Karunaratne,AR Patel,CAK Rajitha,1,0,1,159,3,22,15,9,6,-,19,run out,CAK Rajitha,DJ Hooda;AR Patel,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
+124,C Karunaratne,AR Patel,D Madushanka,1,0,1,160,2,23,16,10,7,-,19,run out,D Madushanka,Ishan Kishan;DJ Hooda,,field,Sri Lanka,2,"Wankhede Stadium, Mumbai",2023,01,India_Sri Lanka_2023-01-03,India,Sri Lanka,India,False,160
