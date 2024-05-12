@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,J Charles,Imad Wasim,E Lewis,1,0,1,1,142,1,1,0,1,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-1,E Lewis,Imad Wasim,J Charles,1,0,1,2,141,1,1,0,2,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-2,J Charles,Imad Wasim,E Lewis,1,0,1,3,140,2,2,0,3,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-3,E Lewis,Imad Wasim,J Charles,0,0,0,3,140,1,2,0,4,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-4,E Lewis,Imad Wasim,J Charles,0,0,0,3,140,1,3,1,5,caught,E Lewis,Mohammad Nawaz (3),0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-5,J Charles,Imad Wasim,ADS Fletcher,0,0,0,3,140,2,3,1,6,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-6,ADS Fletcher,Sohail Tanvir,J Charles,1,0,1,4,139,1,1,1,1,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-7,J Charles,Sohail Tanvir,ADS Fletcher,1,0,1,5,138,3,4,1,2,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-8,ADS Fletcher,Sohail Tanvir,J Charles,0,0,0,5,138,1,2,1,3,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-9,ADS Fletcher,Sohail Tanvir,J Charles,0,0,0,5,138,1,3,1,4,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-10,ADS Fletcher,Sohail Tanvir,J Charles,0,1,1,6,137,1,4,1,5,0,,,1,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-11,ADS Fletcher,Sohail Tanvir,J Charles,1,0,1,7,136,2,5,1,6,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-12,J Charles,Sohail Tanvir,ADS Fletcher,4,0,4,11,132,7,5,1,7,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-13,ADS Fletcher,Imad Wasim,J Charles,0,0,0,11,132,2,6,1,1,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-14,ADS Fletcher,Imad Wasim,J Charles,0,0,0,11,132,2,7,2,2,bowled,ADS Fletcher,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-15,MN Samuels,Imad Wasim,J Charles,4,0,4,15,128,4,1,2,3,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-16,MN Samuels,Imad Wasim,J Charles,0,0,0,15,128,4,2,3,4,lbw,MN Samuels,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-17,DJ Bravo,Imad Wasim,J Charles,0,0,0,15,128,0,1,3,5,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-18,DJ Bravo,Imad Wasim,J Charles,1,0,1,16,127,1,2,3,6,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-19,DJ Bravo,Mohammad Nawaz (3),J Charles,0,0,0,16,127,1,3,3,1,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-20,DJ Bravo,Mohammad Nawaz (3),J Charles,1,0,1,17,126,2,4,3,2,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-21,J Charles,Mohammad Nawaz (3),DJ Bravo,0,0,0,17,126,7,6,3,3,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-22,J Charles,Mohammad Nawaz (3),DJ Bravo,0,0,0,17,126,7,7,4,4,bowled,J Charles,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-23,N Pooran,Mohammad Nawaz (3),DJ Bravo,1,0,1,18,125,1,1,4,5,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-24,DJ Bravo,Mohammad Nawaz (3),N Pooran,0,0,0,18,125,2,5,4,6,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-25,N Pooran,Hasan Ali,DJ Bravo,0,0,0,18,125,1,2,4,1,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-26,N Pooran,Hasan Ali,DJ Bravo,4,0,4,22,121,5,3,4,2,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-27,N Pooran,Hasan Ali,DJ Bravo,0,0,0,22,121,5,4,5,3,caught,N Pooran,Sarfraz Ahmed,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-28,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,121,0,1,5,4,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-29,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,121,0,2,5,5,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-30,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,121,0,3,5,6,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-31,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,22,121,2,6,5,1,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-32,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,22,121,2,7,5,2,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-33,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,23,120,3,8,5,3,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-34,KA Pollard,Mohammad Nawaz (3),DJ Bravo,1,0,1,24,119,1,4,5,4,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-35,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,24,119,3,9,5,5,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-36,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,25,118,4,10,5,6,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-37,DJ Bravo,Shoaib Malik,KA Pollard,0,0,0,25,118,4,11,5,1,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-38,DJ Bravo,Shoaib Malik,KA Pollard,0,1,1,26,117,4,12,5,2,0,,,6,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-39,DJ Bravo,Shoaib Malik,KA Pollard,0,0,0,26,117,4,13,5,3,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-40,DJ Bravo,Shoaib Malik,KA Pollard,1,0,1,27,116,5,14,5,4,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-41,KA Pollard,Shoaib Malik,DJ Bravo,1,0,1,28,115,2,5,5,5,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-42,DJ Bravo,Shoaib Malik,KA Pollard,1,0,1,29,114,6,15,5,6,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-43,KA Pollard,Shoaib Malik,DJ Bravo,1,0,1,30,113,3,6,5,7,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-44,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,31,112,4,7,5,1,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-45,DJ Bravo,Hasan Ali,KA Pollard,4,0,4,35,108,10,16,5,2,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-46,DJ Bravo,Hasan Ali,KA Pollard,1,0,1,36,107,11,17,5,3,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-47,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,37,106,5,8,5,4,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-48,DJ Bravo,Hasan Ali,KA Pollard,1,0,1,38,105,12,18,5,5,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-49,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,39,104,6,9,5,6,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-50,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,39,104,6,10,5,1,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-51,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,39,104,6,11,5,2,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-52,KA Pollard,Imad Wasim,DJ Bravo,1,0,1,40,103,7,12,5,3,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-53,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,41,102,13,19,5,4,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-54,KA Pollard,Imad Wasim,DJ Bravo,1,0,1,42,101,8,13,5,5,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-55,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,43,100,14,20,5,6,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-56,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,43,100,14,21,5,1,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-57,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,44,99,15,22,5,2,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-58,KA Pollard,Mohammad Nawaz (3),DJ Bravo,0,0,0,44,99,8,14,5,3,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-59,KA Pollard,Mohammad Nawaz (3),DJ Bravo,1,0,1,45,98,9,15,5,4,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-60,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,46,97,16,23,5,5,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-61,KA Pollard,Mohammad Nawaz (3),DJ Bravo,0,0,0,46,97,9,16,5,6,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-62,DJ Bravo,Imad Wasim,KA Pollard,0,0,0,46,97,16,24,5,1,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-63,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,47,96,17,25,5,2,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-64,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,47,96,9,17,6,3,bowled,KA Pollard,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-65,CR Brathwaite,Imad Wasim,DJ Bravo,0,0,0,47,96,0,1,6,4,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-66,CR Brathwaite,Imad Wasim,DJ Bravo,0,0,0,47,96,0,2,7,5,caught,CR Brathwaite,Khalid Latif,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-67,SP Narine,Imad Wasim,DJ Bravo,1,0,1,48,95,1,1,7,6,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-68,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,95,1,2,7,1,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-69,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,95,1,3,7,2,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-70,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,95,1,4,8,3,run out,SP Narine,Khalid Latif,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-71,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,95,17,26,8,4,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-72,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,95,17,27,8,5,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-73,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,95,17,28,8,6,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-74,JE Taylor,Mohammad Nawaz (3),DJ Bravo,1,0,1,49,94,1,1,8,1,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-75,DJ Bravo,Mohammad Nawaz (3),JE Taylor,0,0,0,49,94,17,29,8,2,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-76,DJ Bravo,Mohammad Nawaz (3),JE Taylor,1,0,1,50,93,18,30,8,3,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-77,JE Taylor,Mohammad Nawaz (3),DJ Bravo,0,0,0,50,93,1,2,8,4,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-78,JE Taylor,Mohammad Nawaz (3),DJ Bravo,6,0,6,56,87,7,3,8,5,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-79,JE Taylor,Mohammad Nawaz (3),DJ Bravo,0,0,0,56,87,7,4,8,6,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-80,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,56,87,18,31,8,1,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-81,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,56,87,18,32,8,2,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-82,DJ Bravo,Wahab Riaz,JE Taylor,0,1,1,57,86,18,33,8,3,0,,,13,legbyes,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-83,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,57,86,7,5,8,4,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-84,JE Taylor,Wahab Riaz,DJ Bravo,0,1,1,58,85,7,6,8,5,0,,,13,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-85,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,58,85,7,7,8,6,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-86,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,58,85,7,8,8,7,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-87,DJ Bravo,Sohail Tanvir,JE Taylor,6,0,6,64,79,24,34,8,1,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-88,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,65,78,25,35,8,2,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-89,JE Taylor,Sohail Tanvir,DJ Bravo,0,1,1,66,77,7,9,8,3,0,,,14,legbyes,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-90,DJ Bravo,Sohail Tanvir,JE Taylor,4,0,4,70,73,29,36,8,4,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-91,DJ Bravo,Sohail Tanvir,JE Taylor,0,0,0,70,73,29,37,8,5,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-92,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,71,72,30,38,8,6,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-93,DJ Bravo,Hasan Ali,JE Taylor,2,0,2,73,70,32,39,8,1,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-94,DJ Bravo,Hasan Ali,JE Taylor,0,1,1,74,69,32,40,8,2,0,,,15,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-95,DJ Bravo,Hasan Ali,JE Taylor,4,0,4,78,65,36,41,8,3,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-96,DJ Bravo,Hasan Ali,JE Taylor,1,0,1,79,64,37,42,8,4,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-97,JE Taylor,Hasan Ali,DJ Bravo,1,0,1,80,63,8,10,8,5,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-98,DJ Bravo,Hasan Ali,JE Taylor,4,0,4,84,59,41,43,8,6,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-99,DJ Bravo,Hasan Ali,JE Taylor,1,1,2,86,57,42,44,8,7,0,,,15,noballs,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-100,JE Taylor,Hasan Ali,DJ Bravo,4,0,4,90,53,12,11,8,8,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-101,DJ Bravo,Wahab Riaz,JE Taylor,1,1,2,92,51,43,45,8,1,0,,,16,noballs,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-102,JE Taylor,Wahab Riaz,DJ Bravo,4,0,4,96,47,16,12,8,2,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-103,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,47,16,13,8,3,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-104,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,47,16,14,8,4,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-105,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,47,16,15,8,5,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-106,JE Taylor,Wahab Riaz,DJ Bravo,2,0,2,98,45,18,16,8,6,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-107,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,98,45,18,17,8,7,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-108,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,99,44,44,46,8,1,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-109,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,99,44,18,18,8,2,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-110,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,99,44,18,19,8,3,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-111,JE Taylor,Sohail Tanvir,DJ Bravo,1,0,1,100,43,19,20,8,4,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-112,DJ Bravo,Sohail Tanvir,JE Taylor,0,0,0,100,43,44,47,8,5,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-113,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,101,42,45,48,8,6,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-114,DJ Bravo,Wahab Riaz,JE Taylor,2,0,2,103,40,47,49,8,1,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-115,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,103,40,47,50,8,2,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-116,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,103,40,47,51,8,3,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-117,DJ Bravo,Wahab Riaz,JE Taylor,6,0,6,109,34,53,52,8,4,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-118,DJ Bravo,Wahab Riaz,JE Taylor,1,0,1,110,33,54,53,8,5,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-119,JE Taylor,Wahab Riaz,DJ Bravo,2,0,2,112,31,21,21,8,6,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-120,DJ Bravo,Sohail Tanvir,JE Taylor,0,1,1,113,30,54,54,8,1,0,,,19,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-121,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,114,29,55,55,8,2,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-122,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,114,29,21,22,9,3,bowled,JE Taylor,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-123,S Badree,Sohail Tanvir,DJ Bravo,1,0,1,115,28,1,1,9,4,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-124,DJ Bravo,Sohail Tanvir,S Badree,0,0,0,115,28,55,56,9,5,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
-125,DJ Bravo,Sohail Tanvir,S Badree,0,0,0,115,28,55,57,10,6,caught,DJ Bravo,Umar Akmal,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,115
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,J Charles,Imad Wasim,E Lewis,1,0,1,1,,1,1,0,1,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+1,E Lewis,Imad Wasim,J Charles,1,0,1,2,,1,1,0,2,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+2,J Charles,Imad Wasim,E Lewis,1,0,1,3,,2,2,0,3,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+3,E Lewis,Imad Wasim,J Charles,0,0,0,3,,1,2,0,4,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+4,E Lewis,Imad Wasim,J Charles,0,0,0,3,,1,3,1,5,caught,E Lewis,Mohammad Nawaz (3),0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+5,J Charles,Imad Wasim,ADS Fletcher,0,0,0,3,,2,3,1,6,0,,,0,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+6,ADS Fletcher,Sohail Tanvir,J Charles,1,0,1,4,,1,1,1,1,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+7,J Charles,Sohail Tanvir,ADS Fletcher,1,0,1,5,,3,4,1,2,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+8,ADS Fletcher,Sohail Tanvir,J Charles,0,0,0,5,,1,2,1,3,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+9,ADS Fletcher,Sohail Tanvir,J Charles,0,0,0,5,,1,3,1,4,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+10,ADS Fletcher,Sohail Tanvir,J Charles,0,1,1,6,,1,4,1,5,0,,,1,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+11,ADS Fletcher,Sohail Tanvir,J Charles,1,0,1,7,,2,5,1,6,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+12,J Charles,Sohail Tanvir,ADS Fletcher,4,0,4,11,,7,5,1,7,0,,,1,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+13,ADS Fletcher,Imad Wasim,J Charles,0,0,0,11,,2,6,1,1,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+14,ADS Fletcher,Imad Wasim,J Charles,0,0,0,11,,2,7,2,2,bowled,ADS Fletcher,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+15,MN Samuels,Imad Wasim,J Charles,4,0,4,15,,4,1,2,3,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+16,MN Samuels,Imad Wasim,J Charles,0,0,0,15,,4,2,3,4,lbw,MN Samuels,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+17,DJ Bravo,Imad Wasim,J Charles,0,0,0,15,,0,1,3,5,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+18,DJ Bravo,Imad Wasim,J Charles,1,0,1,16,,1,2,3,6,0,,,2,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+19,DJ Bravo,Mohammad Nawaz (3),J Charles,0,0,0,16,,1,3,3,1,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+20,DJ Bravo,Mohammad Nawaz (3),J Charles,1,0,1,17,,2,4,3,2,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+21,J Charles,Mohammad Nawaz (3),DJ Bravo,0,0,0,17,,7,6,3,3,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+22,J Charles,Mohammad Nawaz (3),DJ Bravo,0,0,0,17,,7,7,4,4,bowled,J Charles,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+23,N Pooran,Mohammad Nawaz (3),DJ Bravo,1,0,1,18,,1,1,4,5,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+24,DJ Bravo,Mohammad Nawaz (3),N Pooran,0,0,0,18,,2,5,4,6,0,,,3,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+25,N Pooran,Hasan Ali,DJ Bravo,0,0,0,18,,1,2,4,1,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+26,N Pooran,Hasan Ali,DJ Bravo,4,0,4,22,,5,3,4,2,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+27,N Pooran,Hasan Ali,DJ Bravo,0,0,0,22,,5,4,5,3,caught,N Pooran,Sarfraz Ahmed,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+28,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,,0,1,5,4,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+29,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,,0,2,5,5,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+30,KA Pollard,Hasan Ali,DJ Bravo,0,0,0,22,,0,3,5,6,0,,,4,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+31,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,22,,2,6,5,1,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+32,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,22,,2,7,5,2,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+33,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,23,,3,8,5,3,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+34,KA Pollard,Mohammad Nawaz (3),DJ Bravo,1,0,1,24,,1,4,5,4,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+35,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,24,,3,9,5,5,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+36,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,25,,4,10,5,6,0,,,5,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+37,DJ Bravo,Shoaib Malik,KA Pollard,0,0,0,25,,4,11,5,1,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+38,DJ Bravo,Shoaib Malik,KA Pollard,0,1,1,26,,4,12,5,2,0,,,6,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+39,DJ Bravo,Shoaib Malik,KA Pollard,0,0,0,26,,4,13,5,3,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+40,DJ Bravo,Shoaib Malik,KA Pollard,1,0,1,27,,5,14,5,4,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+41,KA Pollard,Shoaib Malik,DJ Bravo,1,0,1,28,,2,5,5,5,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+42,DJ Bravo,Shoaib Malik,KA Pollard,1,0,1,29,,6,15,5,6,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+43,KA Pollard,Shoaib Malik,DJ Bravo,1,0,1,30,,3,6,5,7,0,,,6,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+44,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,31,,4,7,5,1,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+45,DJ Bravo,Hasan Ali,KA Pollard,4,0,4,35,,10,16,5,2,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+46,DJ Bravo,Hasan Ali,KA Pollard,1,0,1,36,,11,17,5,3,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+47,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,37,,5,8,5,4,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+48,DJ Bravo,Hasan Ali,KA Pollard,1,0,1,38,,12,18,5,5,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+49,KA Pollard,Hasan Ali,DJ Bravo,1,0,1,39,,6,9,5,6,0,,,7,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+50,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,39,,6,10,5,1,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+51,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,39,,6,11,5,2,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+52,KA Pollard,Imad Wasim,DJ Bravo,1,0,1,40,,7,12,5,3,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+53,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,41,,13,19,5,4,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+54,KA Pollard,Imad Wasim,DJ Bravo,1,0,1,42,,8,13,5,5,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+55,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,43,,14,20,5,6,0,,,8,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+56,DJ Bravo,Mohammad Nawaz (3),KA Pollard,0,0,0,43,,14,21,5,1,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+57,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,44,,15,22,5,2,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+58,KA Pollard,Mohammad Nawaz (3),DJ Bravo,0,0,0,44,,8,14,5,3,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+59,KA Pollard,Mohammad Nawaz (3),DJ Bravo,1,0,1,45,,9,15,5,4,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+60,DJ Bravo,Mohammad Nawaz (3),KA Pollard,1,0,1,46,,16,23,5,5,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+61,KA Pollard,Mohammad Nawaz (3),DJ Bravo,0,0,0,46,,9,16,5,6,0,,,9,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+62,DJ Bravo,Imad Wasim,KA Pollard,0,0,0,46,,16,24,5,1,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+63,DJ Bravo,Imad Wasim,KA Pollard,1,0,1,47,,17,25,5,2,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+64,KA Pollard,Imad Wasim,DJ Bravo,0,0,0,47,,9,17,6,3,bowled,KA Pollard,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+65,CR Brathwaite,Imad Wasim,DJ Bravo,0,0,0,47,,0,1,6,4,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+66,CR Brathwaite,Imad Wasim,DJ Bravo,0,0,0,47,,0,2,7,5,caught,CR Brathwaite,Khalid Latif,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+67,SP Narine,Imad Wasim,DJ Bravo,1,0,1,48,,1,1,7,6,0,,,10,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+68,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,,1,2,7,1,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+69,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,,1,3,7,2,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+70,SP Narine,Wahab Riaz,DJ Bravo,0,0,0,48,,1,4,8,3,run out,SP Narine,Khalid Latif,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+71,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,,17,26,8,4,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+72,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,,17,27,8,5,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+73,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,48,,17,28,8,6,0,,,11,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+74,JE Taylor,Mohammad Nawaz (3),DJ Bravo,1,0,1,49,,1,1,8,1,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+75,DJ Bravo,Mohammad Nawaz (3),JE Taylor,0,0,0,49,,17,29,8,2,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+76,DJ Bravo,Mohammad Nawaz (3),JE Taylor,1,0,1,50,,18,30,8,3,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+77,JE Taylor,Mohammad Nawaz (3),DJ Bravo,0,0,0,50,,1,2,8,4,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+78,JE Taylor,Mohammad Nawaz (3),DJ Bravo,6,0,6,56,,7,3,8,5,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+79,JE Taylor,Mohammad Nawaz (3),DJ Bravo,0,0,0,56,,7,4,8,6,0,,,12,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+80,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,56,,18,31,8,1,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+81,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,56,,18,32,8,2,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+82,DJ Bravo,Wahab Riaz,JE Taylor,0,1,1,57,,18,33,8,3,0,,,13,legbyes,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+83,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,57,,7,5,8,4,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+84,JE Taylor,Wahab Riaz,DJ Bravo,0,1,1,58,,7,6,8,5,0,,,13,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+85,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,58,,7,7,8,6,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+86,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,58,,7,8,8,7,0,,,13,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+87,DJ Bravo,Sohail Tanvir,JE Taylor,6,0,6,64,,24,34,8,1,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+88,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,65,,25,35,8,2,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+89,JE Taylor,Sohail Tanvir,DJ Bravo,0,1,1,66,,7,9,8,3,0,,,14,legbyes,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+90,DJ Bravo,Sohail Tanvir,JE Taylor,4,0,4,70,,29,36,8,4,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+91,DJ Bravo,Sohail Tanvir,JE Taylor,0,0,0,70,,29,37,8,5,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+92,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,71,,30,38,8,6,0,,,14,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+93,DJ Bravo,Hasan Ali,JE Taylor,2,0,2,73,,32,39,8,1,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+94,DJ Bravo,Hasan Ali,JE Taylor,0,1,1,74,,32,40,8,2,0,,,15,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+95,DJ Bravo,Hasan Ali,JE Taylor,4,0,4,78,,36,41,8,3,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+96,DJ Bravo,Hasan Ali,JE Taylor,1,0,1,79,,37,42,8,4,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+97,JE Taylor,Hasan Ali,DJ Bravo,1,0,1,80,,8,10,8,5,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+98,DJ Bravo,Hasan Ali,JE Taylor,4,0,4,84,,41,43,8,6,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+99,DJ Bravo,Hasan Ali,JE Taylor,1,1,2,86,,42,44,8,7,0,,,15,noballs,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+100,JE Taylor,Hasan Ali,DJ Bravo,4,0,4,90,,12,11,8,8,0,,,15,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+101,DJ Bravo,Wahab Riaz,JE Taylor,1,1,2,92,,43,45,8,1,0,,,16,noballs,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+102,JE Taylor,Wahab Riaz,DJ Bravo,4,0,4,96,,16,12,8,2,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+103,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,,16,13,8,3,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+104,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,,16,14,8,4,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+105,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,96,,16,15,8,5,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+106,JE Taylor,Wahab Riaz,DJ Bravo,2,0,2,98,,18,16,8,6,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+107,JE Taylor,Wahab Riaz,DJ Bravo,0,0,0,98,,18,17,8,7,0,,,16,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+108,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,99,,44,46,8,1,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+109,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,99,,18,18,8,2,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+110,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,99,,18,19,8,3,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+111,JE Taylor,Sohail Tanvir,DJ Bravo,1,0,1,100,,19,20,8,4,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+112,DJ Bravo,Sohail Tanvir,JE Taylor,0,0,0,100,,44,47,8,5,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+113,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,101,,45,48,8,6,0,,,17,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+114,DJ Bravo,Wahab Riaz,JE Taylor,2,0,2,103,,47,49,8,1,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+115,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,103,,47,50,8,2,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+116,DJ Bravo,Wahab Riaz,JE Taylor,0,0,0,103,,47,51,8,3,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+117,DJ Bravo,Wahab Riaz,JE Taylor,6,0,6,109,,53,52,8,4,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+118,DJ Bravo,Wahab Riaz,JE Taylor,1,0,1,110,,54,53,8,5,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+119,JE Taylor,Wahab Riaz,DJ Bravo,2,0,2,112,,21,21,8,6,0,,,18,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+120,DJ Bravo,Sohail Tanvir,JE Taylor,0,1,1,113,,54,54,8,1,0,,,19,wides,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+121,DJ Bravo,Sohail Tanvir,JE Taylor,1,0,1,114,,55,55,8,2,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+122,JE Taylor,Sohail Tanvir,DJ Bravo,0,0,0,114,,21,22,9,3,bowled,JE Taylor,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+123,S Badree,Sohail Tanvir,DJ Bravo,1,0,1,115,,1,1,9,4,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+124,DJ Bravo,Sohail Tanvir,S Badree,0,0,0,115,,55,56,9,5,0,,,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115
+125,DJ Bravo,Sohail Tanvir,S Badree,0,0,0,115,,55,57,10,6,caught,DJ Bravo,Umar Akmal,19,-,field,Pakistan,1,Dubai International Cricket Stadium,2016,09,Pakistan_West Indies_2016-09-23,Pakistan,West Indies,Pakistan,False,115

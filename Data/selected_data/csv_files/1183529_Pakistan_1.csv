@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,Imam-ul-Haq,MA Starc,Babar Azam,1,0,1,1,149,1,1,0,1,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-1,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,1,149,0,1,0,2,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-2,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,1,149,0,2,0,3,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-3,Babar Azam,MA Starc,Imam-ul-Haq,1,0,1,2,148,1,3,0,4,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-4,Imam-ul-Haq,MA Starc,Babar Azam,0,0,0,2,148,1,2,0,5,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-5,Imam-ul-Haq,MA Starc,Babar Azam,1,0,1,3,147,2,3,0,6,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-6,Imam-ul-Haq,SA Abbott,Babar Azam,1,0,1,4,146,3,4,0,1,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-7,Babar Azam,SA Abbott,Imam-ul-Haq,0,0,0,4,146,1,4,0,2,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-8,Babar Azam,SA Abbott,Imam-ul-Haq,1,0,1,5,145,2,5,0,3,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-9,Imam-ul-Haq,SA Abbott,Babar Azam,0,0,0,5,145,3,5,0,4,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-10,Imam-ul-Haq,SA Abbott,Babar Azam,0,0,0,5,145,3,6,0,5,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-11,Imam-ul-Haq,SA Abbott,Babar Azam,4,0,4,9,141,7,7,0,6,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-12,Babar Azam,MA Starc,Imam-ul-Haq,0,1,1,10,140,2,6,0,1,2,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-13,Babar Azam,MA Starc,Imam-ul-Haq,0,1,1,11,139,2,7,0,2,2,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-14,Babar Azam,MA Starc,Imam-ul-Haq,4,0,4,15,135,6,8,0,3,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-15,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,15,135,6,9,1,4,2,"{'by': 'Pakistan', 'umpire': 'P Wilson', 'batter': 'Babar Azam', 'decision': 'struck down', 'umpires_call': True}",-,lbw,Babar Azam,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-16,Mohammad Rizwan,MA Starc,Imam-ul-Haq,0,0,0,15,135,0,1,2,5,2,,-,bowled,Mohammad Rizwan,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-17,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,135,0,1,2,6,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-18,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,135,0,2,2,7,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-19,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,135,0,3,2,8,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-20,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,15,135,7,8,2,1,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-21,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,15,135,7,9,2,2,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-22,Imam-ul-Haq,KW Richardson,Haris Sohail,2,0,2,17,133,9,10,2,3,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-23,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,17,133,9,11,2,4,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-24,Imam-ul-Haq,KW Richardson,Haris Sohail,1,0,1,18,132,10,12,2,5,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-25,Haris Sohail,KW Richardson,Imam-ul-Haq,0,0,0,18,132,0,4,2,6,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-26,Imam-ul-Haq,SA Abbott,Haris Sohail,0,0,0,18,132,10,13,2,1,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-27,Imam-ul-Haq,SA Abbott,Haris Sohail,4,0,4,22,128,14,14,2,2,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-28,Imam-ul-Haq,SA Abbott,Haris Sohail,0,0,0,22,128,14,15,3,3,4,,-,caught,Imam-ul-Haq,BR McDermott,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-29,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,128,0,5,3,4,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-30,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,128,0,6,3,5,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-31,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,128,0,7,3,6,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-32,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,22,128,0,1,3,1,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-33,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,26,124,4,2,3,2,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-34,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,30,120,8,3,3,3,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-35,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,30,120,8,4,3,4,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-36,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,30,120,8,5,3,5,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-37,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,34,116,12,6,3,6,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-38,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,35,115,1,8,3,1,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-39,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,35,115,12,7,3,2,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-40,Iftikhar Ahmed,B Stanlake,Haris Sohail,2,0,2,37,113,14,8,3,3,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-41,Iftikhar Ahmed,B Stanlake,Haris Sohail,4,0,4,41,109,18,9,3,4,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-42,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,41,109,18,10,3,5,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-43,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,41,109,18,11,3,6,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-44,Haris Sohail,AC Agar,Iftikhar Ahmed,2,0,2,43,107,3,9,3,1,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-45,Haris Sohail,AC Agar,Iftikhar Ahmed,1,0,1,44,106,4,10,3,2,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-46,Iftikhar Ahmed,AC Agar,Haris Sohail,2,0,2,46,104,20,12,3,3,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-47,Iftikhar Ahmed,AC Agar,Haris Sohail,1,0,1,47,103,21,13,3,4,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-48,Haris Sohail,AC Agar,Iftikhar Ahmed,1,0,1,48,102,5,11,3,5,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-49,Iftikhar Ahmed,AC Agar,Haris Sohail,0,0,0,48,102,21,14,3,6,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-50,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,49,101,6,12,3,1,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-51,Iftikhar Ahmed,B Stanlake,Haris Sohail,1,0,1,50,100,22,15,3,2,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-52,Haris Sohail,B Stanlake,Iftikhar Ahmed,0,0,0,50,100,6,13,3,3,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-53,Haris Sohail,B Stanlake,Iftikhar Ahmed,0,1,1,51,99,6,14,3,4,8,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-54,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,52,98,7,15,3,5,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-55,Iftikhar Ahmed,B Stanlake,Haris Sohail,1,0,1,53,97,23,16,3,6,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-56,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,54,96,8,16,3,7,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-57,Haris Sohail,AC Agar,Iftikhar Ahmed,0,0,0,54,96,8,17,4,1,9,,-,caught,Haris Sohail,KW Richardson,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-58,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,55,95,1,1,4,2,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-59,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,56,94,24,17,4,3,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-60,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,57,93,2,2,4,4,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-61,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,58,92,25,18,4,5,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-62,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,59,91,3,3,4,6,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-63,Khushdil Shah,B Stanlake,Iftikhar Ahmed,0,1,1,60,90,3,4,4,1,10,,legbyes,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-64,Iftikhar Ahmed,B Stanlake,Khushdil Shah,0,0,0,60,90,25,19,4,2,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-65,Iftikhar Ahmed,B Stanlake,Khushdil Shah,1,0,1,61,89,26,20,4,3,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-66,Khushdil Shah,B Stanlake,Iftikhar Ahmed,1,0,1,62,88,4,5,4,4,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-67,Iftikhar Ahmed,B Stanlake,Khushdil Shah,1,0,1,63,87,27,21,4,5,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-68,Khushdil Shah,B Stanlake,Iftikhar Ahmed,0,0,0,63,87,4,6,4,6,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-69,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,64,86,28,22,4,1,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-70,Khushdil Shah,AC Agar,Iftikhar Ahmed,0,0,0,64,86,4,7,4,2,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-71,Khushdil Shah,AC Agar,Iftikhar Ahmed,2,0,2,66,84,6,8,4,3,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-72,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,67,83,7,9,4,4,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-73,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,68,82,29,23,4,5,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-74,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,69,81,8,10,4,6,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-75,Khushdil Shah,KW Richardson,Iftikhar Ahmed,0,0,0,69,81,8,11,5,1,12,,-,caught,Khushdil Shah,MA Starc,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-76,Iftikhar Ahmed,KW Richardson,Imad Wasim,4,0,4,73,77,33,24,5,2,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-77,Iftikhar Ahmed,KW Richardson,Imad Wasim,0,0,0,73,77,33,25,5,3,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-78,Iftikhar Ahmed,KW Richardson,Imad Wasim,2,0,2,75,75,35,26,5,4,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-79,Iftikhar Ahmed,KW Richardson,Imad Wasim,0,0,0,75,75,35,27,5,5,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-80,Iftikhar Ahmed,KW Richardson,Imad Wasim,4,0,4,79,71,39,28,5,6,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-81,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,80,70,1,1,5,1,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-82,Iftikhar Ahmed,AC Agar,Imad Wasim,1,0,1,81,69,40,29,5,2,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-83,Imad Wasim,AC Agar,Iftikhar Ahmed,2,0,2,83,67,3,2,5,3,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-84,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,84,66,4,3,5,4,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-85,Iftikhar Ahmed,AC Agar,Imad Wasim,1,0,1,85,65,41,30,5,5,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-86,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,86,64,5,4,5,6,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-87,Imad Wasim,SA Abbott,Iftikhar Ahmed,1,0,1,87,63,6,5,5,1,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-88,Iftikhar Ahmed,SA Abbott,Imad Wasim,1,0,1,88,62,42,31,5,2,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-89,Imad Wasim,SA Abbott,Iftikhar Ahmed,0,0,0,88,62,6,6,6,3,14,,-,caught,Imad Wasim,AC Agar,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-90,Iftikhar Ahmed,SA Abbott,Shadab Khan,0,0,0,88,62,42,32,6,4,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-91,Iftikhar Ahmed,SA Abbott,Shadab Khan,1,0,1,89,61,43,33,6,5,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-92,Shadab Khan,SA Abbott,Iftikhar Ahmed,0,0,0,89,61,0,1,6,6,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-93,Iftikhar Ahmed,B Stanlake,Shadab Khan,1,0,1,90,60,44,34,6,1,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-94,Shadab Khan,B Stanlake,Iftikhar Ahmed,0,0,0,90,60,0,2,6,2,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-95,Shadab Khan,B Stanlake,Iftikhar Ahmed,1,0,1,91,59,1,3,6,3,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-96,Iftikhar Ahmed,B Stanlake,Shadab Khan,0,0,0,91,59,44,35,6,4,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-97,Iftikhar Ahmed,B Stanlake,Shadab Khan,1,0,1,92,58,45,36,6,5,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-98,Shadab Khan,B Stanlake,Iftikhar Ahmed,0,0,0,92,58,1,4,6,6,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-99,Iftikhar Ahmed,KW Richardson,Shadab Khan,0,0,0,92,58,45,37,7,1,16,,-,caught,Iftikhar Ahmed,MA Starc,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-100,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,58,1,5,7,2,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-101,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,58,1,6,7,3,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-102,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,58,1,7,7,4,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-103,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,58,1,8,8,5,16,,-,caught,Shadab Khan,AJ Finch,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-104,Mohammad Hasnain,KW Richardson,Mohammad Amir,4,0,4,96,54,4,1,8,6,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-105,Mohammad Amir,MA Starc,Mohammad Hasnain,0,1,1,97,53,0,1,8,1,17,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-106,Mohammad Amir,MA Starc,Mohammad Hasnain,0,0,0,97,53,0,2,8,2,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-107,Mohammad Amir,MA Starc,Mohammad Hasnain,6,0,6,103,47,6,3,8,3,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-108,Mohammad Amir,MA Starc,Mohammad Hasnain,0,0,0,103,47,6,4,8,4,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-109,Mohammad Amir,MA Starc,Mohammad Hasnain,1,0,1,104,46,7,5,8,5,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-110,Mohammad Hasnain,MA Starc,Mohammad Amir,0,0,0,104,46,4,2,8,6,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-111,Mohammad Hasnain,MA Starc,Mohammad Amir,0,0,0,104,46,4,3,8,7,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-112,Mohammad Amir,KW Richardson,Mohammad Hasnain,1,0,1,105,45,8,6,8,1,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-113,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,45,4,4,8,2,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-114,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,45,4,5,8,3,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-115,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,45,4,6,8,4,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-116,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,45,4,7,8,5,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-117,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,45,4,8,8,6,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-118,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,45,8,7,8,1,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-119,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,45,8,8,8,2,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-120,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,45,8,9,8,3,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-121,Mohammad Amir,SA Abbott,Mohammad Hasnain,1,0,1,106,44,9,10,8,4,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-122,Mohammad Hasnain,SA Abbott,Mohammad Amir,0,0,0,106,44,4,9,8,5,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
-123,Mohammad Hasnain,SA Abbott,Mohammad Amir,0,0,0,106,44,4,10,8,6,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,106
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,Imam-ul-Haq,MA Starc,Babar Azam,1,0,1,1,,1,1,0,1,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+1,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,1,,0,1,0,2,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+2,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,1,,0,2,0,3,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+3,Babar Azam,MA Starc,Imam-ul-Haq,1,0,1,2,,1,3,0,4,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+4,Imam-ul-Haq,MA Starc,Babar Azam,0,0,0,2,,1,2,0,5,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+5,Imam-ul-Haq,MA Starc,Babar Azam,1,0,1,3,,2,3,0,6,0,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+6,Imam-ul-Haq,SA Abbott,Babar Azam,1,0,1,4,,3,4,0,1,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+7,Babar Azam,SA Abbott,Imam-ul-Haq,0,0,0,4,,1,4,0,2,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+8,Babar Azam,SA Abbott,Imam-ul-Haq,1,0,1,5,,2,5,0,3,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+9,Imam-ul-Haq,SA Abbott,Babar Azam,0,0,0,5,,3,5,0,4,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+10,Imam-ul-Haq,SA Abbott,Babar Azam,0,0,0,5,,3,6,0,5,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+11,Imam-ul-Haq,SA Abbott,Babar Azam,4,0,4,9,,7,7,0,6,1,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+12,Babar Azam,MA Starc,Imam-ul-Haq,0,1,1,10,,2,6,0,1,2,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+13,Babar Azam,MA Starc,Imam-ul-Haq,0,1,1,11,,2,7,0,2,2,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+14,Babar Azam,MA Starc,Imam-ul-Haq,4,0,4,15,,6,8,0,3,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+15,Babar Azam,MA Starc,Imam-ul-Haq,0,0,0,15,,6,9,1,4,2,"{'by': 'Pakistan', 'umpire': 'P Wilson', 'batter': 'Babar Azam', 'decision': 'struck down', 'umpires_call': True}",-,lbw,Babar Azam,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+16,Mohammad Rizwan,MA Starc,Imam-ul-Haq,0,0,0,15,,0,1,2,5,2,,-,bowled,Mohammad Rizwan,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+17,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,,0,1,2,6,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+18,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,,0,2,2,7,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+19,Haris Sohail,MA Starc,Imam-ul-Haq,0,0,0,15,,0,3,2,8,2,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+20,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,15,,7,8,2,1,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+21,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,15,,7,9,2,2,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+22,Imam-ul-Haq,KW Richardson,Haris Sohail,2,0,2,17,,9,10,2,3,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+23,Imam-ul-Haq,KW Richardson,Haris Sohail,0,0,0,17,,9,11,2,4,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+24,Imam-ul-Haq,KW Richardson,Haris Sohail,1,0,1,18,,10,12,2,5,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+25,Haris Sohail,KW Richardson,Imam-ul-Haq,0,0,0,18,,0,4,2,6,3,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+26,Imam-ul-Haq,SA Abbott,Haris Sohail,0,0,0,18,,10,13,2,1,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+27,Imam-ul-Haq,SA Abbott,Haris Sohail,4,0,4,22,,14,14,2,2,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+28,Imam-ul-Haq,SA Abbott,Haris Sohail,0,0,0,22,,14,15,3,3,4,,-,caught,Imam-ul-Haq,BR McDermott,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+29,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,,0,5,3,4,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+30,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,,0,6,3,5,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+31,Haris Sohail,SA Abbott,Iftikhar Ahmed,0,0,0,22,,0,7,3,6,4,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+32,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,22,,0,1,3,1,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+33,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,26,,4,2,3,2,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+34,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,30,,8,3,3,3,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+35,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,30,,8,4,3,4,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+36,Iftikhar Ahmed,MA Starc,Haris Sohail,0,0,0,30,,8,5,3,5,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+37,Iftikhar Ahmed,MA Starc,Haris Sohail,4,0,4,34,,12,6,3,6,5,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+38,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,35,,1,8,3,1,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+39,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,35,,12,7,3,2,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+40,Iftikhar Ahmed,B Stanlake,Haris Sohail,2,0,2,37,,14,8,3,3,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+41,Iftikhar Ahmed,B Stanlake,Haris Sohail,4,0,4,41,,18,9,3,4,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+42,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,41,,18,10,3,5,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+43,Iftikhar Ahmed,B Stanlake,Haris Sohail,0,0,0,41,,18,11,3,6,6,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+44,Haris Sohail,AC Agar,Iftikhar Ahmed,2,0,2,43,,3,9,3,1,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+45,Haris Sohail,AC Agar,Iftikhar Ahmed,1,0,1,44,,4,10,3,2,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+46,Iftikhar Ahmed,AC Agar,Haris Sohail,2,0,2,46,,20,12,3,3,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+47,Iftikhar Ahmed,AC Agar,Haris Sohail,1,0,1,47,,21,13,3,4,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+48,Haris Sohail,AC Agar,Iftikhar Ahmed,1,0,1,48,,5,11,3,5,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+49,Iftikhar Ahmed,AC Agar,Haris Sohail,0,0,0,48,,21,14,3,6,7,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+50,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,49,,6,12,3,1,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+51,Iftikhar Ahmed,B Stanlake,Haris Sohail,1,0,1,50,,22,15,3,2,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+52,Haris Sohail,B Stanlake,Iftikhar Ahmed,0,0,0,50,,6,13,3,3,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+53,Haris Sohail,B Stanlake,Iftikhar Ahmed,0,1,1,51,,6,14,3,4,8,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+54,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,52,,7,15,3,5,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+55,Iftikhar Ahmed,B Stanlake,Haris Sohail,1,0,1,53,,23,16,3,6,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+56,Haris Sohail,B Stanlake,Iftikhar Ahmed,1,0,1,54,,8,16,3,7,8,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+57,Haris Sohail,AC Agar,Iftikhar Ahmed,0,0,0,54,,8,17,4,1,9,,-,caught,Haris Sohail,KW Richardson,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+58,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,55,,1,1,4,2,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+59,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,56,,24,17,4,3,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+60,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,57,,2,2,4,4,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+61,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,58,,25,18,4,5,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+62,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,59,,3,3,4,6,9,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+63,Khushdil Shah,B Stanlake,Iftikhar Ahmed,0,1,1,60,,3,4,4,1,10,,legbyes,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+64,Iftikhar Ahmed,B Stanlake,Khushdil Shah,0,0,0,60,,25,19,4,2,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+65,Iftikhar Ahmed,B Stanlake,Khushdil Shah,1,0,1,61,,26,20,4,3,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+66,Khushdil Shah,B Stanlake,Iftikhar Ahmed,1,0,1,62,,4,5,4,4,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+67,Iftikhar Ahmed,B Stanlake,Khushdil Shah,1,0,1,63,,27,21,4,5,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+68,Khushdil Shah,B Stanlake,Iftikhar Ahmed,0,0,0,63,,4,6,4,6,10,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+69,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,64,,28,22,4,1,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+70,Khushdil Shah,AC Agar,Iftikhar Ahmed,0,0,0,64,,4,7,4,2,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+71,Khushdil Shah,AC Agar,Iftikhar Ahmed,2,0,2,66,,6,8,4,3,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+72,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,67,,7,9,4,4,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+73,Iftikhar Ahmed,AC Agar,Khushdil Shah,1,0,1,68,,29,23,4,5,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+74,Khushdil Shah,AC Agar,Iftikhar Ahmed,1,0,1,69,,8,10,4,6,11,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+75,Khushdil Shah,KW Richardson,Iftikhar Ahmed,0,0,0,69,,8,11,5,1,12,,-,caught,Khushdil Shah,MA Starc,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+76,Iftikhar Ahmed,KW Richardson,Imad Wasim,4,0,4,73,,33,24,5,2,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+77,Iftikhar Ahmed,KW Richardson,Imad Wasim,0,0,0,73,,33,25,5,3,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+78,Iftikhar Ahmed,KW Richardson,Imad Wasim,2,0,2,75,,35,26,5,4,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+79,Iftikhar Ahmed,KW Richardson,Imad Wasim,0,0,0,75,,35,27,5,5,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+80,Iftikhar Ahmed,KW Richardson,Imad Wasim,4,0,4,79,,39,28,5,6,12,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+81,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,80,,1,1,5,1,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+82,Iftikhar Ahmed,AC Agar,Imad Wasim,1,0,1,81,,40,29,5,2,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+83,Imad Wasim,AC Agar,Iftikhar Ahmed,2,0,2,83,,3,2,5,3,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+84,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,84,,4,3,5,4,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+85,Iftikhar Ahmed,AC Agar,Imad Wasim,1,0,1,85,,41,30,5,5,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+86,Imad Wasim,AC Agar,Iftikhar Ahmed,1,0,1,86,,5,4,5,6,13,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+87,Imad Wasim,SA Abbott,Iftikhar Ahmed,1,0,1,87,,6,5,5,1,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+88,Iftikhar Ahmed,SA Abbott,Imad Wasim,1,0,1,88,,42,31,5,2,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+89,Imad Wasim,SA Abbott,Iftikhar Ahmed,0,0,0,88,,6,6,6,3,14,,-,caught,Imad Wasim,AC Agar,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+90,Iftikhar Ahmed,SA Abbott,Shadab Khan,0,0,0,88,,42,32,6,4,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+91,Iftikhar Ahmed,SA Abbott,Shadab Khan,1,0,1,89,,43,33,6,5,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+92,Shadab Khan,SA Abbott,Iftikhar Ahmed,0,0,0,89,,0,1,6,6,14,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+93,Iftikhar Ahmed,B Stanlake,Shadab Khan,1,0,1,90,,44,34,6,1,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+94,Shadab Khan,B Stanlake,Iftikhar Ahmed,0,0,0,90,,0,2,6,2,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+95,Shadab Khan,B Stanlake,Iftikhar Ahmed,1,0,1,91,,1,3,6,3,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+96,Iftikhar Ahmed,B Stanlake,Shadab Khan,0,0,0,91,,44,35,6,4,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+97,Iftikhar Ahmed,B Stanlake,Shadab Khan,1,0,1,92,,45,36,6,5,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+98,Shadab Khan,B Stanlake,Iftikhar Ahmed,0,0,0,92,,1,4,6,6,15,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+99,Iftikhar Ahmed,KW Richardson,Shadab Khan,0,0,0,92,,45,37,7,1,16,,-,caught,Iftikhar Ahmed,MA Starc,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+100,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,,1,5,7,2,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+101,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,,1,6,7,3,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+102,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,,1,7,7,4,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+103,Shadab Khan,KW Richardson,Mohammad Amir,0,0,0,92,,1,8,8,5,16,,-,caught,Shadab Khan,AJ Finch,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+104,Mohammad Hasnain,KW Richardson,Mohammad Amir,4,0,4,96,,4,1,8,6,16,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+105,Mohammad Amir,MA Starc,Mohammad Hasnain,0,1,1,97,,0,1,8,1,17,,wides,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+106,Mohammad Amir,MA Starc,Mohammad Hasnain,0,0,0,97,,0,2,8,2,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+107,Mohammad Amir,MA Starc,Mohammad Hasnain,6,0,6,103,,6,3,8,3,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+108,Mohammad Amir,MA Starc,Mohammad Hasnain,0,0,0,103,,6,4,8,4,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+109,Mohammad Amir,MA Starc,Mohammad Hasnain,1,0,1,104,,7,5,8,5,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+110,Mohammad Hasnain,MA Starc,Mohammad Amir,0,0,0,104,,4,2,8,6,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+111,Mohammad Hasnain,MA Starc,Mohammad Amir,0,0,0,104,,4,3,8,7,17,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+112,Mohammad Amir,KW Richardson,Mohammad Hasnain,1,0,1,105,,8,6,8,1,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+113,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,,4,4,8,2,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+114,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,,4,5,8,3,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+115,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,,4,6,8,4,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+116,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,,4,7,8,5,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+117,Mohammad Hasnain,KW Richardson,Mohammad Amir,0,0,0,105,,4,8,8,6,18,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+118,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,,8,7,8,1,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+119,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,,8,8,8,2,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+120,Mohammad Amir,SA Abbott,Mohammad Hasnain,0,0,0,105,,8,9,8,3,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+121,Mohammad Amir,SA Abbott,Mohammad Hasnain,1,0,1,106,,9,10,8,4,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+122,Mohammad Hasnain,SA Abbott,Mohammad Amir,0,0,0,106,,4,9,8,5,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106
+123,Mohammad Hasnain,SA Abbott,Mohammad Amir,0,0,0,106,,4,10,8,6,19,,-,0,,,field,Australia,1,Perth Stadium,2019,11,Australia_Pakistan_2019-11-08,Australia,Pakistan,Australia,False,106

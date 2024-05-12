@@ -1,23 +1,23 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,final_team_total
-0,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,1,0,1,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-1,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,2,0,2,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-2,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,3,0,3,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-3,WTS Porterfield,TT Bresnan,PR Stirling,3,0,3,3,117,3,4,0,4,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-4,PR Stirling,TT Bresnan,WTS Porterfield,0,0,0,3,117,0,1,0,5,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-5,PR Stirling,TT Bresnan,WTS Porterfield,0,0,0,3,117,0,2,0,6,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-6,WTS Porterfield,RJ Sidebottom,PR Stirling,0,0,0,3,117,3,5,0,1,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-7,WTS Porterfield,RJ Sidebottom,PR Stirling,1,0,1,4,116,4,6,0,2,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-8,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,3,0,3,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-9,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,4,0,4,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-10,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,5,0,5,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-11,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,6,1,6,1,caught,PR Stirling,MJ Lumb,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-12,NJ O'Brien,TT Bresnan,WTS Porterfield,0,0,0,4,116,0,1,1,1,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-13,NJ O'Brien,TT Bresnan,WTS Porterfield,1,0,1,5,115,1,2,1,2,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-14,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,5,115,4,7,1,3,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-15,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,5,115,4,8,1,4,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-16,WTS Porterfield,TT Bresnan,NJ O'Brien,0,1,1,6,114,4,9,1,5,2,0,,,wides,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-17,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,6,114,4,10,1,6,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-18,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,6,114,4,11,1,7,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-19,NJ O'Brien,RJ Sidebottom,WTS Porterfield,4,0,4,10,110,5,3,1,1,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-20,NJ O'Brien,RJ Sidebottom,WTS Porterfield,4,0,4,14,106,9,4,1,2,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
-21,NJ O'Brien,RJ Sidebottom,WTS Porterfield,0,0,0,14,106,9,5,1,3,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,14
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,1,0,1,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+1,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,2,0,2,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+2,WTS Porterfield,TT Bresnan,PR Stirling,0,0,0,0,120,0,3,0,3,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+3,WTS Porterfield,TT Bresnan,PR Stirling,3,0,3,3,117,3,4,0,4,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+4,PR Stirling,TT Bresnan,WTS Porterfield,0,0,0,3,117,0,1,0,5,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+5,PR Stirling,TT Bresnan,WTS Porterfield,0,0,0,3,117,0,2,0,6,0,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+6,WTS Porterfield,RJ Sidebottom,PR Stirling,0,0,0,3,117,3,5,0,1,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+7,WTS Porterfield,RJ Sidebottom,PR Stirling,1,0,1,4,116,4,6,0,2,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+8,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,3,0,3,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+9,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,4,0,4,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+10,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,5,0,5,1,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+11,PR Stirling,RJ Sidebottom,WTS Porterfield,0,0,0,4,116,0,6,1,6,1,caught,PR Stirling,MJ Lumb,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+12,NJ O'Brien,TT Bresnan,WTS Porterfield,0,0,0,4,116,0,1,1,1,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+13,NJ O'Brien,TT Bresnan,WTS Porterfield,1,0,1,5,115,1,2,1,2,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+14,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,5,115,4,7,1,3,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+15,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,5,115,4,8,1,4,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+16,WTS Porterfield,TT Bresnan,NJ O'Brien,0,1,1,6,114,4,9,1,5,2,0,,,wides,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+17,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,6,114,4,10,1,6,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+18,WTS Porterfield,TT Bresnan,NJ O'Brien,0,0,0,6,114,4,11,1,7,2,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+19,NJ O'Brien,RJ Sidebottom,WTS Porterfield,4,0,4,10,110,5,3,1,1,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+20,NJ O'Brien,RJ Sidebottom,WTS Porterfield,4,0,4,14,106,9,4,1,2,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
+21,NJ O'Brien,RJ Sidebottom,WTS Porterfield,0,0,0,14,106,9,5,1,3,3,0,,,-,field,Ireland,2,Providence Stadium,2010,05,England_Ireland_2010-05-04,no result,Ireland,England,,14
