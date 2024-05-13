@@ -1,116 +1,116 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,W Madhevere,Mohammad Saifuddin,T Marumani,0,0,0,0,,0,1,0,1,-,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-1,W Madhevere,Mohammad Saifuddin,T Marumani,1,0,1,1,,1,2,0,2,-,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-2,T Marumani,Mohammad Saifuddin,W Madhevere,0,0,0,1,,0,1,0,3,-,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-3,T Marumani,Mohammad Saifuddin,W Madhevere,0,0,0,1,,0,2,0,4,-,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-4,T Marumani,Mohammad Saifuddin,W Madhevere,1,0,1,2,,1,3,0,5,-,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-5,W Madhevere,Mohammad Saifuddin,T Marumani,0,1,1,3,,1,3,0,6,legbyes,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-6,W Madhevere,Mustafizur Rahman,T Marumani,1,0,1,4,,2,4,0,1,-,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-7,T Marumani,Mustafizur Rahman,W Madhevere,6,0,6,10,,7,4,0,2,-,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-8,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,5,0,3,-,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-9,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,6,0,4,-,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-10,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,7,1,5,-,1,caught,T Marumani,Soumya Sarkar,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-11,W Madhevere,Mustafizur Rahman,RW Chakabva,2,0,2,12,,4,5,1,6,-,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-12,RW Chakabva,Shakib Al Hasan,W Madhevere,1,0,1,13,,1,1,1,1,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-13,W Madhevere,Shakib Al Hasan,RW Chakabva,0,0,0,13,,4,6,1,2,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-14,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,14,,5,7,1,3,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-15,RW Chakabva,Shakib Al Hasan,W Madhevere,0,1,1,15,,1,2,1,4,wides,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-16,RW Chakabva,Shakib Al Hasan,W Madhevere,4,0,4,19,,5,3,1,5,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-17,RW Chakabva,Shakib Al Hasan,W Madhevere,0,0,0,19,,5,4,1,6,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-18,RW Chakabva,Shakib Al Hasan,W Madhevere,4,0,4,23,,9,5,1,7,-,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-19,W Madhevere,Shoriful Islam,RW Chakabva,6,0,6,29,,11,8,1,1,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-20,W Madhevere,Shoriful Islam,RW Chakabva,1,0,1,30,,12,9,1,2,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-21,RW Chakabva,Shoriful Islam,W Madhevere,4,0,4,34,,13,6,1,3,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-22,RW Chakabva,Shoriful Islam,W Madhevere,1,0,1,35,,14,7,1,4,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-23,W Madhevere,Shoriful Islam,RW Chakabva,0,0,0,35,,12,10,1,5,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-24,W Madhevere,Shoriful Islam,RW Chakabva,3,0,3,38,,15,11,1,6,-,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-25,W Madhevere,Mustafizur Rahman,RW Chakabva,2,0,2,40,,17,12,1,1,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-26,W Madhevere,Mustafizur Rahman,RW Chakabva,0,0,0,40,,17,13,1,2,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-27,W Madhevere,Mustafizur Rahman,RW Chakabva,0,0,0,40,,17,14,1,3,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-28,W Madhevere,Mustafizur Rahman,RW Chakabva,1,0,1,41,,18,15,1,4,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-29,RW Chakabva,Mustafizur Rahman,W Madhevere,4,0,4,45,,18,8,1,5,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-30,RW Chakabva,Mustafizur Rahman,W Madhevere,1,0,1,46,,19,9,1,6,-,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-31,RW Chakabva,Mohammad Saifuddin,W Madhevere,1,0,1,47,,20,10,1,1,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-32,W Madhevere,Mohammad Saifuddin,RW Chakabva,0,0,0,47,,18,16,1,2,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-33,W Madhevere,Mohammad Saifuddin,RW Chakabva,0,0,0,47,,18,17,1,3,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-34,W Madhevere,Mohammad Saifuddin,RW Chakabva,1,0,1,48,,19,18,1,4,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-35,RW Chakabva,Mohammad Saifuddin,W Madhevere,1,0,1,49,,21,11,1,5,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-36,W Madhevere,Mohammad Saifuddin,RW Chakabva,1,0,1,50,,20,19,1,6,-,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-37,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,51,,21,20,1,1,-,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-38,RW Chakabva,Shakib Al Hasan,W Madhevere,0,0,0,51,,21,12,1,2,-,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-39,RW Chakabva,Shakib Al Hasan,W Madhevere,2,0,2,53,,23,13,1,3,-,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-40,RW Chakabva,Shakib Al Hasan,W Madhevere,1,0,1,54,,24,14,1,4,-,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-41,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,55,,22,21,1,5,-,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-42,RW Chakabva,Shakib Al Hasan,W Madhevere,0,1,1,56,,24,15,1,6,legbyes,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-43,RW Chakabva,Mahedi Hasan,W Madhevere,4,0,4,60,,28,16,1,1,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-44,RW Chakabva,Mahedi Hasan,W Madhevere,1,0,1,61,,29,17,1,2,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-45,W Madhevere,Mahedi Hasan,RW Chakabva,1,0,1,62,,23,22,1,3,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-46,RW Chakabva,Mahedi Hasan,W Madhevere,6,0,6,68,,35,18,1,4,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-47,RW Chakabva,Mahedi Hasan,W Madhevere,6,0,6,74,,41,19,1,5,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-48,RW Chakabva,Mahedi Hasan,W Madhevere,0,0,0,74,,41,20,1,6,-,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-49,W Madhevere,Shakib Al Hasan,RW Chakabva,0,0,0,74,,23,23,2,1,-,8,caught and bowled,W Madhevere,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-50,D Myers,Shakib Al Hasan,RW Chakabva,0,0,0,74,,0,1,2,2,-,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-51,D Myers,Shakib Al Hasan,RW Chakabva,1,0,1,75,,1,2,2,3,-,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-52,RW Chakabva,Shakib Al Hasan,D Myers,1,0,1,76,,42,21,2,4,-,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-53,D Myers,Shakib Al Hasan,RW Chakabva,0,0,0,76,,1,3,2,5,-,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-54,D Myers,Shakib Al Hasan,RW Chakabva,1,0,1,77,,2,4,2,6,-,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-55,D Myers,Mahmudullah,RW Chakabva,2,0,2,79,,4,5,2,1,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-56,D Myers,Mahmudullah,RW Chakabva,1,0,1,80,,5,6,2,2,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-57,RW Chakabva,Mahmudullah,D Myers,1,0,1,81,,43,22,2,3,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-58,D Myers,Mahmudullah,RW Chakabva,4,0,4,85,,9,7,2,4,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-59,D Myers,Mahmudullah,RW Chakabva,2,0,2,87,,11,8,2,5,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-60,D Myers,Mahmudullah,RW Chakabva,4,0,4,91,,15,9,2,6,-,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-61,RW Chakabva,Shoriful Islam,D Myers,0,0,0,91,,43,23,3,1,-,10,run out,RW Chakabva,Nurul Hasan,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-62,D Myers,Shoriful Islam,Sikandar Raza,1,0,1,92,,16,10,3,2,-,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-63,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,1,3,3,-,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-64,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,2,3,4,-,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-65,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,3,4,5,-,10,caught,Sikandar Raza,Nurul Hasan,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-66,TK Musakanda,Shoriful Islam,D Myers,0,0,0,92,,0,1,4,6,-,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-67,D Myers,Soumya Sarkar,TK Musakanda,2,0,2,94,,18,11,4,1,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-68,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,95,,19,12,4,2,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-69,TK Musakanda,Soumya Sarkar,D Myers,1,0,1,96,,1,2,4,3,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-70,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,97,,20,13,4,4,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-71,TK Musakanda,Soumya Sarkar,D Myers,4,0,4,101,,5,3,4,5,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-72,TK Musakanda,Soumya Sarkar,D Myers,0,0,0,101,,5,4,4,6,-,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-73,D Myers,Shakib Al Hasan,TK Musakanda,1,0,1,102,,21,14,4,1,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-74,TK Musakanda,Shakib Al Hasan,D Myers,1,0,1,103,,6,5,4,2,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-75,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,105,,23,15,4,3,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-76,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,107,,25,16,4,4,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-77,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,109,,27,17,4,5,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-78,D Myers,Shakib Al Hasan,TK Musakanda,1,0,1,110,,28,18,4,6,-,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-79,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,111,,29,19,4,1,-,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-80,TK Musakanda,Soumya Sarkar,D Myers,0,0,0,111,,6,6,5,2,-,13,lbw,TK Musakanda,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-81,RP Burl,Soumya Sarkar,D Myers,1,0,1,112,,1,1,5,3,-,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-82,D Myers,Soumya Sarkar,RP Burl,1,0,1,113,,30,20,5,4,-,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-83,RP Burl,Soumya Sarkar,D Myers,1,0,1,114,,2,2,5,5,-,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-84,D Myers,Soumya Sarkar,RP Burl,5,0,5,119,,35,21,5,6,-,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-85,D Myers,Shoriful Islam,RP Burl,0,0,0,119,,35,22,6,1,-,14,bowled,D Myers,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-86,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,1,6,2,-,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-87,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,2,6,3,-,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-88,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,3,6,4,-,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-89,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,4,6,5,-,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-90,LM Jongwe,Shoriful Islam,RP Burl,1,0,1,120,,1,5,6,6,-,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-91,LM Jongwe,Mohammad Saifuddin,RP Burl,2,0,2,122,,3,6,6,1,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-92,LM Jongwe,Mohammad Saifuddin,RP Burl,1,0,1,123,,4,7,6,2,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-93,RP Burl,Mohammad Saifuddin,LM Jongwe,1,0,1,124,,3,3,6,3,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-94,LM Jongwe,Mohammad Saifuddin,RP Burl,2,0,2,126,,6,8,6,4,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-95,LM Jongwe,Mohammad Saifuddin,RP Burl,4,0,4,130,,10,9,6,5,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-96,LM Jongwe,Mohammad Saifuddin,RP Burl,0,0,0,130,,10,10,6,6,-,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-97,RP Burl,Mustafizur Rahman,LM Jongwe,1,0,1,131,,4,4,6,1,-,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-98,LM Jongwe,Mustafizur Rahman,RP Burl,2,0,2,133,,12,11,6,2,-,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-99,LM Jongwe,Mustafizur Rahman,RP Burl,0,0,0,133,,12,12,6,3,-,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-100,LM Jongwe,Mustafizur Rahman,RP Burl,1,0,1,134,,13,13,6,4,-,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-101,RP Burl,Mustafizur Rahman,LM Jongwe,0,1,1,135,,4,5,6,5,legbyes,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-102,LM Jongwe,Mustafizur Rahman,RP Burl,1,0,1,136,,14,14,6,6,-,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-103,LM Jongwe,Mohammad Saifuddin,RP Burl,4,0,4,140,,18,15,6,1,-,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-104,LM Jongwe,Mohammad Saifuddin,RP Burl,0,0,0,140,,18,16,7,2,-,17,bowled,LM Jongwe,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-105,WP Masakadza,Mohammad Saifuddin,RP Burl,2,0,2,142,,2,1,7,3,-,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-106,WP Masakadza,Mohammad Saifuddin,RP Burl,1,0,1,143,,3,2,7,4,-,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-107,RP Burl,Mohammad Saifuddin,WP Masakadza,0,0,0,143,,4,6,8,5,-,17,caught,RP Burl,Shamim Hossain,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-108,R Ngarava,Mohammad Saifuddin,WP Masakadza,0,0,0,143,,0,1,8,6,-,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-109,WP Masakadza,Mustafizur Rahman,R Ngarava,1,0,1,144,,4,3,8,1,-,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-110,R Ngarava,Mustafizur Rahman,WP Masakadza,0,0,0,144,,0,2,9,2,-,18,bowled,R Ngarava,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-111,B Muzarabani,Mustafizur Rahman,WP Masakadza,0,0,0,144,,0,1,9,3,-,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-112,B Muzarabani,Mustafizur Rahman,WP Masakadza,4,0,4,148,,4,2,9,4,-,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-113,B Muzarabani,Mustafizur Rahman,WP Masakadza,4,0,4,152,,8,3,9,5,-,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
-114,B Muzarabani,Mustafizur Rahman,WP Masakadza,0,0,0,152,,8,4,10,6,-,18,bowled,B Muzarabani,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,W Madhevere,Mohammad Saifuddin,T Marumani,0,0,0,0,,0,1,0,-,1.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+1,W Madhevere,Mohammad Saifuddin,T Marumani,1,0,1,1,,1,2,0,-,2.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+2,T Marumani,Mohammad Saifuddin,W Madhevere,0,0,0,1,,0,1,0,-,3.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+3,T Marumani,Mohammad Saifuddin,W Madhevere,0,0,0,1,,0,2,0,-,4.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+4,T Marumani,Mohammad Saifuddin,W Madhevere,1,0,1,2,,1,3,0,-,5.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+5,W Madhevere,Mohammad Saifuddin,T Marumani,0,1,1,3,,1,3,0,legbyes,6.0,0,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+6,W Madhevere,Mustafizur Rahman,T Marumani,1,0,1,4,,2,4,0,-,1.0,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+7,T Marumani,Mustafizur Rahman,W Madhevere,6,0,6,10,,7,4,0,-,2.0,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+8,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,5,0,-,3.0,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+9,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,6,0,-,4.0,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+10,T Marumani,Mustafizur Rahman,W Madhevere,0,0,0,10,,7,7,1,-,5.0,1,caught,T Marumani,Soumya Sarkar,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+11,W Madhevere,Mustafizur Rahman,RW Chakabva,2,0,2,12,,4,5,1,-,6.0,1,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+12,RW Chakabva,Shakib Al Hasan,W Madhevere,1,0,1,13,,1,1,1,-,1.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+13,W Madhevere,Shakib Al Hasan,RW Chakabva,0,0,0,13,,4,6,1,-,2.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+14,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,14,,5,7,1,-,3.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+15,RW Chakabva,Shakib Al Hasan,W Madhevere,0,1,1,15,,1,2,1,wides,3.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+16,RW Chakabva,Shakib Al Hasan,W Madhevere,4,0,4,19,,5,3,1,-,4.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+17,RW Chakabva,Shakib Al Hasan,W Madhevere,0,0,0,19,,5,4,1,-,5.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+18,RW Chakabva,Shakib Al Hasan,W Madhevere,4,0,4,23,,9,5,1,-,6.0,2,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+19,W Madhevere,Shoriful Islam,RW Chakabva,6,0,6,29,,11,8,1,-,1.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+20,W Madhevere,Shoriful Islam,RW Chakabva,1,0,1,30,,12,9,1,-,2.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+21,RW Chakabva,Shoriful Islam,W Madhevere,4,0,4,34,,13,6,1,-,3.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+22,RW Chakabva,Shoriful Islam,W Madhevere,1,0,1,35,,14,7,1,-,4.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+23,W Madhevere,Shoriful Islam,RW Chakabva,0,0,0,35,,12,10,1,-,5.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+24,W Madhevere,Shoriful Islam,RW Chakabva,3,0,3,38,,15,11,1,-,6.0,3,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+25,W Madhevere,Mustafizur Rahman,RW Chakabva,2,0,2,40,,17,12,1,-,1.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+26,W Madhevere,Mustafizur Rahman,RW Chakabva,0,0,0,40,,17,13,1,-,2.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+27,W Madhevere,Mustafizur Rahman,RW Chakabva,0,0,0,40,,17,14,1,-,3.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+28,W Madhevere,Mustafizur Rahman,RW Chakabva,1,0,1,41,,18,15,1,-,4.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+29,RW Chakabva,Mustafizur Rahman,W Madhevere,4,0,4,45,,18,8,1,-,5.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+30,RW Chakabva,Mustafizur Rahman,W Madhevere,1,0,1,46,,19,9,1,-,6.0,4,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+31,RW Chakabva,Mohammad Saifuddin,W Madhevere,1,0,1,47,,20,10,1,-,1.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+32,W Madhevere,Mohammad Saifuddin,RW Chakabva,0,0,0,47,,18,16,1,-,2.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+33,W Madhevere,Mohammad Saifuddin,RW Chakabva,0,0,0,47,,18,17,1,-,3.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+34,W Madhevere,Mohammad Saifuddin,RW Chakabva,1,0,1,48,,19,18,1,-,4.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+35,RW Chakabva,Mohammad Saifuddin,W Madhevere,1,0,1,49,,21,11,1,-,5.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+36,W Madhevere,Mohammad Saifuddin,RW Chakabva,1,0,1,50,,20,19,1,-,6.0,5,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+37,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,51,,21,20,1,-,1.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+38,RW Chakabva,Shakib Al Hasan,W Madhevere,0,0,0,51,,21,12,1,-,2.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+39,RW Chakabva,Shakib Al Hasan,W Madhevere,2,0,2,53,,23,13,1,-,3.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+40,RW Chakabva,Shakib Al Hasan,W Madhevere,1,0,1,54,,24,14,1,-,4.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+41,W Madhevere,Shakib Al Hasan,RW Chakabva,1,0,1,55,,22,21,1,-,5.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+42,RW Chakabva,Shakib Al Hasan,W Madhevere,0,1,1,56,,24,15,1,legbyes,6.0,6,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+43,RW Chakabva,Mahedi Hasan,W Madhevere,4,0,4,60,,28,16,1,-,1.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+44,RW Chakabva,Mahedi Hasan,W Madhevere,1,0,1,61,,29,17,1,-,2.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+45,W Madhevere,Mahedi Hasan,RW Chakabva,1,0,1,62,,23,22,1,-,3.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+46,RW Chakabva,Mahedi Hasan,W Madhevere,6,0,6,68,,35,18,1,-,4.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+47,RW Chakabva,Mahedi Hasan,W Madhevere,6,0,6,74,,41,19,1,-,5.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+48,RW Chakabva,Mahedi Hasan,W Madhevere,0,0,0,74,,41,20,1,-,6.0,7,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+49,W Madhevere,Shakib Al Hasan,RW Chakabva,0,0,0,74,,23,23,2,-,1.0,8,caught and bowled,W Madhevere,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+50,D Myers,Shakib Al Hasan,RW Chakabva,0,0,0,74,,0,1,2,-,2.0,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+51,D Myers,Shakib Al Hasan,RW Chakabva,1,0,1,75,,1,2,2,-,3.0,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+52,RW Chakabva,Shakib Al Hasan,D Myers,1,0,1,76,,42,21,2,-,4.0,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+53,D Myers,Shakib Al Hasan,RW Chakabva,0,0,0,76,,1,3,2,-,5.0,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+54,D Myers,Shakib Al Hasan,RW Chakabva,1,0,1,77,,2,4,2,-,6.0,8,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+55,D Myers,Mahmudullah,RW Chakabva,2,0,2,79,,4,5,2,-,1.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+56,D Myers,Mahmudullah,RW Chakabva,1,0,1,80,,5,6,2,-,2.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+57,RW Chakabva,Mahmudullah,D Myers,1,0,1,81,,43,22,2,-,3.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+58,D Myers,Mahmudullah,RW Chakabva,4,0,4,85,,9,7,2,-,4.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+59,D Myers,Mahmudullah,RW Chakabva,2,0,2,87,,11,8,2,-,5.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+60,D Myers,Mahmudullah,RW Chakabva,4,0,4,91,,15,9,2,-,6.0,9,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+61,RW Chakabva,Shoriful Islam,D Myers,0,0,0,91,,43,23,3,-,1.0,10,run out,RW Chakabva,Nurul Hasan,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+62,D Myers,Shoriful Islam,Sikandar Raza,1,0,1,92,,16,10,3,-,2.0,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+63,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,1,3,-,3.0,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+64,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,2,3,-,4.0,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+65,Sikandar Raza,Shoriful Islam,D Myers,0,0,0,92,,0,3,4,-,5.0,10,caught,Sikandar Raza,Nurul Hasan,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+66,TK Musakanda,Shoriful Islam,D Myers,0,0,0,92,,0,1,4,-,6.0,10,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+67,D Myers,Soumya Sarkar,TK Musakanda,2,0,2,94,,18,11,4,-,1.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+68,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,95,,19,12,4,-,2.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+69,TK Musakanda,Soumya Sarkar,D Myers,1,0,1,96,,1,2,4,-,3.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+70,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,97,,20,13,4,-,4.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+71,TK Musakanda,Soumya Sarkar,D Myers,4,0,4,101,,5,3,4,-,5.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+72,TK Musakanda,Soumya Sarkar,D Myers,0,0,0,101,,5,4,4,-,6.0,11,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+73,D Myers,Shakib Al Hasan,TK Musakanda,1,0,1,102,,21,14,4,-,1.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+74,TK Musakanda,Shakib Al Hasan,D Myers,1,0,1,103,,6,5,4,-,2.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+75,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,105,,23,15,4,-,3.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+76,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,107,,25,16,4,-,4.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+77,D Myers,Shakib Al Hasan,TK Musakanda,2,0,2,109,,27,17,4,-,5.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+78,D Myers,Shakib Al Hasan,TK Musakanda,1,0,1,110,,28,18,4,-,6.0,12,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+79,D Myers,Soumya Sarkar,TK Musakanda,1,0,1,111,,29,19,4,-,1.0,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+80,TK Musakanda,Soumya Sarkar,D Myers,0,0,0,111,,6,6,5,-,2.0,13,lbw,TK Musakanda,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+81,RP Burl,Soumya Sarkar,D Myers,1,0,1,112,,1,1,5,-,3.0,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+82,D Myers,Soumya Sarkar,RP Burl,1,0,1,113,,30,20,5,-,4.0,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+83,RP Burl,Soumya Sarkar,D Myers,1,0,1,114,,2,2,5,-,5.0,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+84,D Myers,Soumya Sarkar,RP Burl,5,0,5,119,,35,21,5,-,6.0,13,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+85,D Myers,Shoriful Islam,RP Burl,0,0,0,119,,35,22,6,-,1.0,14,bowled,D Myers,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+86,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,1,6,-,2.0,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+87,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,2,6,-,3.0,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+88,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,3,6,-,4.0,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+89,LM Jongwe,Shoriful Islam,RP Burl,0,0,0,119,,0,4,6,-,5.0,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+90,LM Jongwe,Shoriful Islam,RP Burl,1,0,1,120,,1,5,6,-,6.0,14,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+91,LM Jongwe,Mohammad Saifuddin,RP Burl,2,0,2,122,,3,6,6,-,1.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+92,LM Jongwe,Mohammad Saifuddin,RP Burl,1,0,1,123,,4,7,6,-,2.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+93,RP Burl,Mohammad Saifuddin,LM Jongwe,1,0,1,124,,3,3,6,-,3.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+94,LM Jongwe,Mohammad Saifuddin,RP Burl,2,0,2,126,,6,8,6,-,4.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+95,LM Jongwe,Mohammad Saifuddin,RP Burl,4,0,4,130,,10,9,6,-,5.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+96,LM Jongwe,Mohammad Saifuddin,RP Burl,0,0,0,130,,10,10,6,-,6.0,15,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+97,RP Burl,Mustafizur Rahman,LM Jongwe,1,0,1,131,,4,4,6,-,1.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+98,LM Jongwe,Mustafizur Rahman,RP Burl,2,0,2,133,,12,11,6,-,2.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+99,LM Jongwe,Mustafizur Rahman,RP Burl,0,0,0,133,,12,12,6,-,3.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+100,LM Jongwe,Mustafizur Rahman,RP Burl,1,0,1,134,,13,13,6,-,4.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+101,RP Burl,Mustafizur Rahman,LM Jongwe,0,1,1,135,,4,5,6,legbyes,5.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+102,LM Jongwe,Mustafizur Rahman,RP Burl,1,0,1,136,,14,14,6,-,6.0,16,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+103,LM Jongwe,Mohammad Saifuddin,RP Burl,4,0,4,140,,18,15,6,-,1.0,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+104,LM Jongwe,Mohammad Saifuddin,RP Burl,0,0,0,140,,18,16,7,-,2.0,17,bowled,LM Jongwe,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+105,WP Masakadza,Mohammad Saifuddin,RP Burl,2,0,2,142,,2,1,7,-,3.0,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+106,WP Masakadza,Mohammad Saifuddin,RP Burl,1,0,1,143,,3,2,7,-,4.0,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+107,RP Burl,Mohammad Saifuddin,WP Masakadza,0,0,0,143,,4,6,8,-,5.0,17,caught,RP Burl,Shamim Hossain,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+108,R Ngarava,Mohammad Saifuddin,WP Masakadza,0,0,0,143,,0,1,8,-,6.0,17,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+109,WP Masakadza,Mustafizur Rahman,R Ngarava,1,0,1,144,,4,3,8,-,1.0,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+110,R Ngarava,Mustafizur Rahman,WP Masakadza,0,0,0,144,,0,2,9,-,2.0,18,bowled,R Ngarava,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+111,B Muzarabani,Mustafizur Rahman,WP Masakadza,0,0,0,144,,0,1,9,-,3.0,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+112,B Muzarabani,Mustafizur Rahman,WP Masakadza,4,0,4,148,,4,2,9,-,4.0,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+113,B Muzarabani,Mustafizur Rahman,WP Masakadza,4,0,4,152,,8,3,9,-,5.0,18,0,,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152
+114,B Muzarabani,Mustafizur Rahman,WP Masakadza,0,0,0,152,,8,4,10,-,6.0,18,bowled,B Muzarabani,,bat,Zimbabwe,1,Harare Sports Club,2021,07,Zimbabwe_Bangladesh_2021-07-22,Bangladesh,Zimbabwe,Bangladesh,False,152

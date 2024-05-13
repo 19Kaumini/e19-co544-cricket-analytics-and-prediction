@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,1,0,1,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-1,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,2,0,2,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-2,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,3,0,3,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-3,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,4,0,4,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-4,Naeem Islam,Mohammad Hafeez,Imrul Kayes,1,0,1,1,134,1,5,0,5,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-5,Imrul Kayes,Mohammad Hafeez,Naeem Islam,0,0,0,1,134,0,1,0,6,0,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-6,Naeem Islam,Umar Gul,Imrul Kayes,2,0,2,3,132,3,6,0,1,1,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-7,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,7,0,2,1,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-8,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,8,0,3,1,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-9,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,9,1,4,1,lbw,Naeem Islam,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-10,Alok Kapali,Umar Gul,Imrul Kayes,0,0,0,3,132,0,1,1,5,1,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-11,Alok Kapali,Umar Gul,Imrul Kayes,0,0,0,3,132,0,2,1,6,1,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-12,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,0,0,3,132,0,2,1,1,2,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-13,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,0,0,3,132,0,3,1,2,2,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-14,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,1,1,4,131,0,4,1,3,2,0,,,legbyes,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-15,Alok Kapali,Mohammad Hafeez,Imrul Kayes,0,0,0,4,131,0,3,2,4,2,caught,Alok Kapali,Misbah-ul-Haq,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-16,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,4,131,0,1,2,5,2,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-17,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,3,0,3,7,128,3,2,2,6,2,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-18,Shakib Al Hasan,Umar Gul,Imrul Kayes,0,0,0,7,128,3,3,2,1,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-19,Shakib Al Hasan,Umar Gul,Imrul Kayes,0,0,0,7,128,3,4,2,2,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-20,Shakib Al Hasan,Umar Gul,Imrul Kayes,1,0,1,8,127,4,5,2,3,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-21,Imrul Kayes,Umar Gul,Shakib Al Hasan,1,0,1,9,126,1,5,2,4,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-22,Shakib Al Hasan,Umar Gul,Imrul Kayes,1,0,1,10,125,5,6,2,5,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-23,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,1,1,11,124,1,6,2,6,3,0,,,wides,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-24,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,1,1,12,123,1,7,2,7,3,0,,,wides,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-25,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,0,0,12,123,1,8,2,8,3,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-26,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,12,123,5,7,2,1,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-27,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,12,123,5,8,2,2,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-28,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,1,0,1,13,122,6,9,2,3,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-29,Imrul Kayes,Mohammad Hafeez,Shakib Al Hasan,1,0,1,14,121,2,9,2,4,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-30,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,1,0,1,15,120,7,10,2,5,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-31,Imrul Kayes,Mohammad Hafeez,Shakib Al Hasan,0,0,0,15,120,2,10,2,6,4,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-32,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,11,2,1,5,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-33,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,12,2,2,5,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-34,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,13,3,3,5,run out,Imrul Kayes,Mohammad Hafeez;Umar Akmal,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-35,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,0,0,0,15,120,0,1,3,4,5,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-36,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,0,0,0,15,120,0,2,3,5,5,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-37,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,1,0,1,16,119,1,3,3,6,5,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-38,Mushfiqur Rahim,Mohammad Hafeez,Shakib Al Hasan,1,0,1,17,118,2,4,3,1,6,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-39,Shakib Al Hasan,Mohammad Hafeez,Mushfiqur Rahim,0,0,0,17,118,7,14,4,2,6,bowled,Shakib Al Hasan,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-40,Mahmudullah,Mohammad Hafeez,Mushfiqur Rahim,0,1,1,18,117,0,1,4,3,6,0,,,legbyes,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-41,Mushfiqur Rahim,Mohammad Hafeez,Mahmudullah,1,0,1,19,116,3,5,4,4,6,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-42,Mahmudullah,Mohammad Hafeez,Mushfiqur Rahim,1,0,1,20,115,1,2,4,5,6,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-43,Mushfiqur Rahim,Mohammad Hafeez,Mahmudullah,1,0,1,21,114,4,6,4,6,6,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-44,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,1,0,1,22,113,5,7,4,1,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-45,Mahmudullah,Shahid Afridi,Mushfiqur Rahim,0,0,0,22,113,1,3,4,2,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-46,Mahmudullah,Shahid Afridi,Mushfiqur Rahim,1,0,1,23,112,2,4,4,3,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-47,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,8,4,4,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-48,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,9,4,5,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-49,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,10,4,6,7,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-50,Mahmudullah,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,2,5,5,1,8,caught,Mahmudullah,Umar Akmal,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-51,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,1,5,2,8,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-52,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,2,5,3,8,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-53,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,3,5,4,8,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-54,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,4,0,4,27,108,4,4,5,5,8,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-55,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,27,108,4,5,5,6,8,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-56,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,28,107,6,11,5,1,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-57,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,2,0,2,30,105,6,6,5,2,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-58,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,1,0,1,31,104,7,7,5,3,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-59,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,0,0,0,31,104,6,12,5,4,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-60,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,32,103,7,13,5,5,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-61,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,0,0,0,32,103,7,8,5,6,9,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-62,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,0,0,0,32,103,7,14,5,1,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-63,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,1,0,1,33,102,8,15,5,2,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-64,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,1,0,1,34,101,8,9,5,3,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-65,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,1,0,1,35,100,9,16,5,4,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-66,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,2,0,2,37,98,10,10,5,5,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-67,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,37,98,10,11,5,6,10,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-68,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,38,97,10,17,5,1,11,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-69,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,1,0,1,39,96,11,12,5,2,11,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-70,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,0,0,0,39,96,10,18,6,3,11,run out,Mushfiqur Rahim,Imran Farhat;Umar Akmal,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-71,Farhad Reza,Shahid Afridi,Nasir Hossain,0,0,0,39,96,0,1,6,4,11,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-72,Farhad Reza,Shahid Afridi,Nasir Hossain,1,0,1,40,95,1,2,6,5,11,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-73,Nasir Hossain,Shahid Afridi,Farhad Reza,0,0,0,40,95,11,13,6,6,11,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-74,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,40,95,1,3,6,1,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-75,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,1,1,41,94,1,4,6,2,12,0,,,wides,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-76,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,41,94,1,5,6,3,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-77,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,41,94,1,6,6,4,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-78,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,1,1,42,93,1,7,6,5,12,0,,,wides,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-79,Farhad Reza,Saeed Ajmal,Nasir Hossain,1,0,1,43,92,2,8,6,6,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-80,Nasir Hossain,Saeed Ajmal,Farhad Reza,0,0,0,43,92,11,14,6,7,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-81,Nasir Hossain,Saeed Ajmal,Farhad Reza,0,0,0,43,92,11,15,6,8,12,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-82,Farhad Reza,Shahid Afridi,Nasir Hossain,2,0,2,45,90,4,9,6,1,13,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-83,Farhad Reza,Shahid Afridi,Nasir Hossain,0,4,4,49,86,4,10,6,2,13,0,,,legbyes,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-84,Farhad Reza,Shahid Afridi,Nasir Hossain,2,0,2,51,84,6,11,6,3,13,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-85,Farhad Reza,Shahid Afridi,Nasir Hossain,0,0,0,51,84,6,12,7,4,13,lbw,Farhad Reza,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-86,Abdur Razzak,Shahid Afridi,Nasir Hossain,1,0,1,52,83,1,1,7,5,13,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-87,Nasir Hossain,Shahid Afridi,Abdur Razzak,0,0,0,52,83,11,16,7,6,13,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-88,Abdur Razzak,Saeed Ajmal,Nasir Hossain,0,0,0,52,83,1,2,7,1,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-89,Abdur Razzak,Saeed Ajmal,Nasir Hossain,1,0,1,53,82,2,3,7,2,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-90,Nasir Hossain,Saeed Ajmal,Abdur Razzak,2,0,2,55,80,13,17,7,3,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-91,Nasir Hossain,Saeed Ajmal,Abdur Razzak,0,0,0,55,80,13,18,7,4,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-92,Nasir Hossain,Saeed Ajmal,Abdur Razzak,1,0,1,56,79,14,19,7,5,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-93,Abdur Razzak,Saeed Ajmal,Nasir Hossain,4,0,4,60,75,6,4,7,6,14,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-94,Nasir Hossain,Sohail Tanvir,Abdur Razzak,1,0,1,61,74,15,20,7,1,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-95,Abdur Razzak,Sohail Tanvir,Nasir Hossain,0,0,0,61,74,6,5,7,2,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-96,Abdur Razzak,Sohail Tanvir,Nasir Hossain,0,0,0,61,74,6,6,7,3,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-97,Abdur Razzak,Sohail Tanvir,Nasir Hossain,1,0,1,62,73,7,7,7,4,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-98,Nasir Hossain,Sohail Tanvir,Abdur Razzak,0,0,0,62,73,15,21,7,5,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-99,Nasir Hossain,Sohail Tanvir,Abdur Razzak,4,0,4,66,69,19,22,7,6,15,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-100,Abdur Razzak,Shoaib Malik,Nasir Hossain,2,0,2,68,67,9,8,7,1,16,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-101,Abdur Razzak,Shoaib Malik,Nasir Hossain,0,0,0,68,67,9,9,8,2,16,caught,Abdur Razzak,Shahid Afridi,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-102,Nasir Hossain,Shoaib Malik,Shafiul Islam,1,0,1,69,66,20,23,8,3,16,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-103,Shafiul Islam,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,1,9,4,16,lbw,Shafiul Islam,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-104,Rubel Hossain,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,1,9,5,16,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-105,Rubel Hossain,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,2,9,6,16,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-106,Nasir Hossain,Sohail Tanvir,Rubel Hossain,2,0,2,71,64,22,24,9,1,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-107,Nasir Hossain,Sohail Tanvir,Rubel Hossain,2,0,2,73,62,24,25,9,2,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-108,Nasir Hossain,Sohail Tanvir,Rubel Hossain,0,0,0,73,62,24,26,9,3,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-109,Nasir Hossain,Sohail Tanvir,Rubel Hossain,1,0,1,74,61,25,27,9,4,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-110,Rubel Hossain,Sohail Tanvir,Nasir Hossain,0,0,0,74,61,0,3,9,5,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-111,Rubel Hossain,Sohail Tanvir,Nasir Hossain,0,0,0,74,61,0,4,9,6,17,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-112,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,74,61,25,28,9,1,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-113,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,1,1,75,60,25,29,9,2,18,0,,,wides,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-114,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,75,60,25,30,9,3,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-115,Nasir Hossain,Shoaib Malik,Rubel Hossain,2,0,2,77,58,27,31,9,4,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-116,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,77,58,27,32,9,5,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-117,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,77,58,27,33,9,6,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-118,Nasir Hossain,Shoaib Malik,Rubel Hossain,1,0,1,78,57,28,34,9,7,18,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-119,Nasir Hossain,Saeed Ajmal,Rubel Hossain,6,0,6,84,51,34,35,9,1,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-120,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,36,9,2,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-121,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,37,9,3,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-122,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,38,9,4,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-123,Nasir Hossain,Saeed Ajmal,Rubel Hossain,1,0,1,85,50,35,39,9,5,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
-124,Rubel Hossain,Saeed Ajmal,Nasir Hossain,0,0,0,85,50,0,5,9,6,19,0,,,-,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,1,0,-,1.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+1,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,2,0,-,2.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+2,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,3,0,-,3.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+3,Naeem Islam,Mohammad Hafeez,Imrul Kayes,0,0,0,0,135,0,4,0,-,4.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+4,Naeem Islam,Mohammad Hafeez,Imrul Kayes,1,0,1,1,134,1,5,0,-,5.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+5,Imrul Kayes,Mohammad Hafeez,Naeem Islam,0,0,0,1,134,0,1,0,-,6.0,0,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+6,Naeem Islam,Umar Gul,Imrul Kayes,2,0,2,3,132,3,6,0,-,1.0,1,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+7,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,7,0,-,2.0,1,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+8,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,8,0,-,3.0,1,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+9,Naeem Islam,Umar Gul,Imrul Kayes,0,0,0,3,132,3,9,1,-,4.0,1,lbw,Naeem Islam,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+10,Alok Kapali,Umar Gul,Imrul Kayes,0,0,0,3,132,0,1,1,-,5.0,1,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+11,Alok Kapali,Umar Gul,Imrul Kayes,0,0,0,3,132,0,2,1,-,6.0,1,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+12,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,0,0,3,132,0,2,1,-,1.0,2,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+13,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,0,0,3,132,0,3,1,-,2.0,2,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+14,Imrul Kayes,Mohammad Hafeez,Alok Kapali,0,1,1,4,131,0,4,1,legbyes,3.0,2,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+15,Alok Kapali,Mohammad Hafeez,Imrul Kayes,0,0,0,4,131,0,3,2,-,4.0,2,caught,Alok Kapali,Misbah-ul-Haq,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+16,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,4,131,0,1,2,-,5.0,2,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+17,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,3,0,3,7,128,3,2,2,-,6.0,2,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+18,Shakib Al Hasan,Umar Gul,Imrul Kayes,0,0,0,7,128,3,3,2,-,1.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+19,Shakib Al Hasan,Umar Gul,Imrul Kayes,0,0,0,7,128,3,4,2,-,2.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+20,Shakib Al Hasan,Umar Gul,Imrul Kayes,1,0,1,8,127,4,5,2,-,3.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+21,Imrul Kayes,Umar Gul,Shakib Al Hasan,1,0,1,9,126,1,5,2,-,4.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+22,Shakib Al Hasan,Umar Gul,Imrul Kayes,1,0,1,10,125,5,6,2,-,5.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+23,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,1,1,11,124,1,6,2,wides,5.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+24,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,1,1,12,123,1,7,2,wides,5.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+25,Imrul Kayes,Umar Gul,Shakib Al Hasan,0,0,0,12,123,1,8,2,-,6.0,3,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+26,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,12,123,5,7,2,-,1.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+27,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,0,0,0,12,123,5,8,2,-,2.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+28,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,1,0,1,13,122,6,9,2,-,3.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+29,Imrul Kayes,Mohammad Hafeez,Shakib Al Hasan,1,0,1,14,121,2,9,2,-,4.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+30,Shakib Al Hasan,Mohammad Hafeez,Imrul Kayes,1,0,1,15,120,7,10,2,-,5.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+31,Imrul Kayes,Mohammad Hafeez,Shakib Al Hasan,0,0,0,15,120,2,10,2,-,6.0,4,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+32,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,11,2,-,1.0,5,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+33,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,12,2,-,2.0,5,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+34,Shakib Al Hasan,Saeed Ajmal,Imrul Kayes,0,0,0,15,120,7,13,3,-,3.0,5,run out,Imrul Kayes,Mohammad Hafeez;Umar Akmal,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+35,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,0,0,0,15,120,0,1,3,-,4.0,5,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+36,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,0,0,0,15,120,0,2,3,-,5.0,5,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+37,Mushfiqur Rahim,Saeed Ajmal,Shakib Al Hasan,1,0,1,16,119,1,3,3,-,6.0,5,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+38,Mushfiqur Rahim,Mohammad Hafeez,Shakib Al Hasan,1,0,1,17,118,2,4,3,-,1.0,6,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+39,Shakib Al Hasan,Mohammad Hafeez,Mushfiqur Rahim,0,0,0,17,118,7,14,4,-,2.0,6,bowled,Shakib Al Hasan,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+40,Mahmudullah,Mohammad Hafeez,Mushfiqur Rahim,0,1,1,18,117,0,1,4,legbyes,3.0,6,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+41,Mushfiqur Rahim,Mohammad Hafeez,Mahmudullah,1,0,1,19,116,3,5,4,-,4.0,6,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+42,Mahmudullah,Mohammad Hafeez,Mushfiqur Rahim,1,0,1,20,115,1,2,4,-,5.0,6,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+43,Mushfiqur Rahim,Mohammad Hafeez,Mahmudullah,1,0,1,21,114,4,6,4,-,6.0,6,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+44,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,1,0,1,22,113,5,7,4,-,1.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+45,Mahmudullah,Shahid Afridi,Mushfiqur Rahim,0,0,0,22,113,1,3,4,-,2.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+46,Mahmudullah,Shahid Afridi,Mushfiqur Rahim,1,0,1,23,112,2,4,4,-,3.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+47,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,8,4,-,4.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+48,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,9,4,-,5.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+49,Mushfiqur Rahim,Shahid Afridi,Mahmudullah,0,0,0,23,112,5,10,4,-,6.0,7,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+50,Mahmudullah,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,2,5,5,-,1.0,8,caught,Mahmudullah,Umar Akmal,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+51,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,1,5,-,2.0,8,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+52,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,2,5,-,3.0,8,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+53,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,23,112,0,3,5,-,4.0,8,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+54,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,4,0,4,27,108,4,4,5,-,5.0,8,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+55,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,27,108,4,5,5,-,6.0,8,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+56,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,28,107,6,11,5,-,1.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+57,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,2,0,2,30,105,6,6,5,-,2.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+58,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,1,0,1,31,104,7,7,5,-,3.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+59,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,0,0,0,31,104,6,12,5,-,4.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+60,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,32,103,7,13,5,-,5.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+61,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,0,0,0,32,103,7,8,5,-,6.0,9,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+62,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,0,0,0,32,103,7,14,5,-,1.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+63,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,1,0,1,33,102,8,15,5,-,2.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+64,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,1,0,1,34,101,8,9,5,-,3.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+65,Mushfiqur Rahim,Aizaz Cheema,Nasir Hossain,1,0,1,35,100,9,16,5,-,4.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+66,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,2,0,2,37,98,10,10,5,-,5.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+67,Nasir Hossain,Aizaz Cheema,Mushfiqur Rahim,0,0,0,37,98,10,11,5,-,6.0,10,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+68,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,1,0,1,38,97,10,17,5,-,1.0,11,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+69,Nasir Hossain,Shahid Afridi,Mushfiqur Rahim,1,0,1,39,96,11,12,5,-,2.0,11,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+70,Mushfiqur Rahim,Shahid Afridi,Nasir Hossain,0,0,0,39,96,10,18,6,-,3.0,11,run out,Mushfiqur Rahim,Imran Farhat;Umar Akmal,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+71,Farhad Reza,Shahid Afridi,Nasir Hossain,0,0,0,39,96,0,1,6,-,4.0,11,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+72,Farhad Reza,Shahid Afridi,Nasir Hossain,1,0,1,40,95,1,2,6,-,5.0,11,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+73,Nasir Hossain,Shahid Afridi,Farhad Reza,0,0,0,40,95,11,13,6,-,6.0,11,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+74,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,40,95,1,3,6,-,1.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+75,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,1,1,41,94,1,4,6,wides,1.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+76,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,41,94,1,5,6,-,2.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+77,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,0,0,41,94,1,6,6,-,3.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+78,Farhad Reza,Saeed Ajmal,Nasir Hossain,0,1,1,42,93,1,7,6,wides,3.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+79,Farhad Reza,Saeed Ajmal,Nasir Hossain,1,0,1,43,92,2,8,6,-,4.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+80,Nasir Hossain,Saeed Ajmal,Farhad Reza,0,0,0,43,92,11,14,6,-,5.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+81,Nasir Hossain,Saeed Ajmal,Farhad Reza,0,0,0,43,92,11,15,6,-,6.0,12,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+82,Farhad Reza,Shahid Afridi,Nasir Hossain,2,0,2,45,90,4,9,6,-,1.0,13,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+83,Farhad Reza,Shahid Afridi,Nasir Hossain,0,4,4,49,86,4,10,6,legbyes,2.0,13,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+84,Farhad Reza,Shahid Afridi,Nasir Hossain,2,0,2,51,84,6,11,6,-,3.0,13,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+85,Farhad Reza,Shahid Afridi,Nasir Hossain,0,0,0,51,84,6,12,7,-,4.0,13,lbw,Farhad Reza,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+86,Abdur Razzak,Shahid Afridi,Nasir Hossain,1,0,1,52,83,1,1,7,-,5.0,13,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+87,Nasir Hossain,Shahid Afridi,Abdur Razzak,0,0,0,52,83,11,16,7,-,6.0,13,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+88,Abdur Razzak,Saeed Ajmal,Nasir Hossain,0,0,0,52,83,1,2,7,-,1.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+89,Abdur Razzak,Saeed Ajmal,Nasir Hossain,1,0,1,53,82,2,3,7,-,2.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+90,Nasir Hossain,Saeed Ajmal,Abdur Razzak,2,0,2,55,80,13,17,7,-,3.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+91,Nasir Hossain,Saeed Ajmal,Abdur Razzak,0,0,0,55,80,13,18,7,-,4.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+92,Nasir Hossain,Saeed Ajmal,Abdur Razzak,1,0,1,56,79,14,19,7,-,5.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+93,Abdur Razzak,Saeed Ajmal,Nasir Hossain,4,0,4,60,75,6,4,7,-,6.0,14,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+94,Nasir Hossain,Sohail Tanvir,Abdur Razzak,1,0,1,61,74,15,20,7,-,1.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+95,Abdur Razzak,Sohail Tanvir,Nasir Hossain,0,0,0,61,74,6,5,7,-,2.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+96,Abdur Razzak,Sohail Tanvir,Nasir Hossain,0,0,0,61,74,6,6,7,-,3.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+97,Abdur Razzak,Sohail Tanvir,Nasir Hossain,1,0,1,62,73,7,7,7,-,4.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+98,Nasir Hossain,Sohail Tanvir,Abdur Razzak,0,0,0,62,73,15,21,7,-,5.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+99,Nasir Hossain,Sohail Tanvir,Abdur Razzak,4,0,4,66,69,19,22,7,-,6.0,15,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+100,Abdur Razzak,Shoaib Malik,Nasir Hossain,2,0,2,68,67,9,8,7,-,1.0,16,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+101,Abdur Razzak,Shoaib Malik,Nasir Hossain,0,0,0,68,67,9,9,8,-,2.0,16,caught,Abdur Razzak,Shahid Afridi,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+102,Nasir Hossain,Shoaib Malik,Shafiul Islam,1,0,1,69,66,20,23,8,-,3.0,16,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+103,Shafiul Islam,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,1,9,-,4.0,16,lbw,Shafiul Islam,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+104,Rubel Hossain,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,1,9,-,5.0,16,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+105,Rubel Hossain,Shoaib Malik,Nasir Hossain,0,0,0,69,66,0,2,9,-,6.0,16,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+106,Nasir Hossain,Sohail Tanvir,Rubel Hossain,2,0,2,71,64,22,24,9,-,1.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+107,Nasir Hossain,Sohail Tanvir,Rubel Hossain,2,0,2,73,62,24,25,9,-,2.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+108,Nasir Hossain,Sohail Tanvir,Rubel Hossain,0,0,0,73,62,24,26,9,-,3.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+109,Nasir Hossain,Sohail Tanvir,Rubel Hossain,1,0,1,74,61,25,27,9,-,4.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+110,Rubel Hossain,Sohail Tanvir,Nasir Hossain,0,0,0,74,61,0,3,9,-,5.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+111,Rubel Hossain,Sohail Tanvir,Nasir Hossain,0,0,0,74,61,0,4,9,-,6.0,17,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+112,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,74,61,25,28,9,-,1.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+113,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,1,1,75,60,25,29,9,wides,1.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+114,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,75,60,25,30,9,-,2.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+115,Nasir Hossain,Shoaib Malik,Rubel Hossain,2,0,2,77,58,27,31,9,-,3.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+116,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,77,58,27,32,9,-,4.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+117,Nasir Hossain,Shoaib Malik,Rubel Hossain,0,0,0,77,58,27,33,9,-,5.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+118,Nasir Hossain,Shoaib Malik,Rubel Hossain,1,0,1,78,57,28,34,9,-,6.0,18,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+119,Nasir Hossain,Saeed Ajmal,Rubel Hossain,6,0,6,84,51,34,35,9,-,1.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+120,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,36,9,-,2.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+121,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,37,9,-,3.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+122,Nasir Hossain,Saeed Ajmal,Rubel Hossain,0,0,0,84,51,34,38,9,-,4.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+123,Nasir Hossain,Saeed Ajmal,Rubel Hossain,1,0,1,85,50,35,39,9,-,5.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85
+124,Rubel Hossain,Saeed Ajmal,Nasir Hossain,0,0,0,85,50,0,5,9,-,6.0,19,0,,,bat,Pakistan,2,Shere Bangla National Stadium,2011,11,Bangladesh_Pakistan_2011-11-29,Pakistan,Bangladesh,Pakistan,False,85

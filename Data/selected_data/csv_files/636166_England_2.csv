@@ -1,107 +1,107 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,LJ Wright,MA Starc,AD Hales,1,0,1,1,194,1,1,0,1,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-1,AD Hales,MA Starc,LJ Wright,0,0,0,1,194,0,1,0,2,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-2,AD Hales,MA Starc,LJ Wright,0,0,0,1,194,0,2,0,3,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-3,AD Hales,MA Starc,LJ Wright,1,0,1,2,193,1,3,0,4,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-4,LJ Wright,MA Starc,AD Hales,2,0,2,4,191,3,2,0,5,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-5,LJ Wright,MA Starc,AD Hales,1,0,1,5,190,4,3,0,6,0,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-6,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,4,0,1,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-7,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,5,0,2,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-8,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,6,0,3,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-9,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,7,0,4,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-10,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,8,0,5,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-11,LJ Wright,NM Coulter-Nile,AD Hales,4,0,4,9,186,8,9,0,6,1,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-12,AD Hales,MA Starc,LJ Wright,0,1,1,10,185,1,4,0,1,2,wides,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-13,AD Hales,MA Starc,LJ Wright,0,0,0,10,185,1,5,0,2,2,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-14,AD Hales,MA Starc,LJ Wright,1,0,1,11,184,2,6,0,3,2,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-15,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,10,0,4,2,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-16,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,11,0,5,2,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-17,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,12,1,6,2,-,caught,LJ Wright,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-18,BA Stokes,MA Starc,AD Hales,0,4,4,15,180,0,1,1,7,2,legbyes,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-19,AD Hales,NM Coulter-Nile,BA Stokes,0,0,0,15,180,2,7,1,1,3,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-20,AD Hales,NM Coulter-Nile,BA Stokes,4,0,4,19,176,6,8,1,2,3,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-21,AD Hales,NM Coulter-Nile,BA Stokes,0,0,0,19,176,6,9,2,3,3,-,caught,AD Hales,JM Muirhead,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-22,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,1,2,4,3,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-23,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,2,2,5,3,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-24,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,3,2,6,3,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-25,BA Stokes,GJ Maxwell,JE Root,4,0,4,23,172,4,2,2,1,4,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-26,BA Stokes,GJ Maxwell,JE Root,1,0,1,24,171,5,3,2,2,4,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-27,JE Root,GJ Maxwell,BA Stokes,0,0,0,24,171,0,4,2,3,4,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-28,JE Root,GJ Maxwell,BA Stokes,0,0,0,24,171,0,5,2,4,4,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-29,JE Root,GJ Maxwell,BA Stokes,1,0,1,25,170,1,6,2,5,4,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-30,BA Stokes,GJ Maxwell,JE Root,0,0,0,25,170,5,4,3,6,4,-,caught,BA Stokes,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-31,JE Root,BCJ Cutting,EJG Morgan,0,0,0,25,170,1,7,3,1,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-32,JE Root,BCJ Cutting,EJG Morgan,0,0,0,25,170,1,8,3,2,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-33,JE Root,BCJ Cutting,EJG Morgan,4,0,4,29,166,5,9,3,3,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-34,JE Root,BCJ Cutting,EJG Morgan,1,0,1,30,165,6,10,3,4,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-35,EJG Morgan,BCJ Cutting,JE Root,1,0,1,31,164,1,1,3,5,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-36,JE Root,BCJ Cutting,EJG Morgan,0,0,0,31,164,6,11,3,6,5,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-37,EJG Morgan,GJ Maxwell,JE Root,2,0,2,33,162,3,2,3,1,6,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-38,EJG Morgan,GJ Maxwell,JE Root,1,0,1,34,161,4,3,3,2,6,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-39,JE Root,GJ Maxwell,EJG Morgan,0,0,0,34,161,6,12,3,3,6,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-40,JE Root,GJ Maxwell,EJG Morgan,0,2,2,36,159,6,13,3,4,6,byes,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-41,JE Root,GJ Maxwell,EJG Morgan,1,0,1,37,158,7,14,3,5,6,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-42,EJG Morgan,GJ Maxwell,JE Root,6,0,6,43,152,10,4,3,6,6,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-43,JE Root,DT Christian,EJG Morgan,0,0,0,43,152,7,15,3,1,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-44,JE Root,DT Christian,EJG Morgan,1,0,1,44,151,8,16,3,2,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-45,EJG Morgan,DT Christian,JE Root,6,0,6,50,145,16,5,3,3,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-46,EJG Morgan,DT Christian,JE Root,1,0,1,51,144,17,6,3,4,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-47,JE Root,DT Christian,EJG Morgan,1,0,1,52,143,9,17,3,5,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-48,EJG Morgan,DT Christian,JE Root,1,0,1,53,142,18,7,3,6,7,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-49,EJG Morgan,GJ Maxwell,JE Root,4,0,4,57,138,22,8,3,1,8,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-50,EJG Morgan,GJ Maxwell,JE Root,1,0,1,58,137,23,9,3,2,8,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-51,JE Root,GJ Maxwell,EJG Morgan,2,0,2,60,135,11,18,3,3,8,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-52,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,19,3,4,8,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-53,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,20,3,5,8,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-54,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,21,4,6,8,-,caught,JE Root,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-55,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,60,135,0,1,4,1,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-56,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,60,135,0,2,4,2,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-57,JC Buttler,BCJ Cutting,EJG Morgan,1,0,1,61,134,1,3,4,3,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-58,EJG Morgan,BCJ Cutting,JC Buttler,0,1,1,62,133,23,10,4,4,9,wides,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-59,EJG Morgan,BCJ Cutting,JC Buttler,1,0,1,63,132,24,11,4,5,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-60,JC Buttler,BCJ Cutting,EJG Morgan,4,0,4,67,128,5,4,4,6,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-61,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,67,128,5,5,4,7,9,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-62,EJG Morgan,GJ Maxwell,JC Buttler,4,0,4,71,124,28,12,4,1,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-63,EJG Morgan,GJ Maxwell,JC Buttler,0,0,0,71,124,28,13,4,2,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-64,EJG Morgan,GJ Maxwell,JC Buttler,0,0,0,71,124,28,14,4,3,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-65,EJG Morgan,GJ Maxwell,JC Buttler,1,0,1,72,123,29,15,4,4,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-66,JC Buttler,GJ Maxwell,EJG Morgan,1,0,1,73,122,6,6,4,5,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-67,EJG Morgan,GJ Maxwell,JC Buttler,2,0,2,75,120,31,16,4,6,10,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-68,JC Buttler,DT Christian,EJG Morgan,1,0,1,76,119,7,7,4,1,11,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-69,EJG Morgan,DT Christian,JC Buttler,1,0,1,77,118,32,17,4,2,11,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-70,JC Buttler,DT Christian,EJG Morgan,1,0,1,78,117,8,8,4,3,11,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-71,EJG Morgan,DT Christian,JC Buttler,0,0,0,78,117,32,18,4,4,11,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-72,EJG Morgan,DT Christian,JC Buttler,1,0,1,79,116,33,19,4,5,11,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-73,JC Buttler,DT Christian,EJG Morgan,0,0,0,79,116,8,9,5,6,11,-,caught,JC Buttler,GJ Maxwell,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-74,RS Bopara,BCJ Cutting,EJG Morgan,1,0,1,80,115,1,1,5,1,12,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-75,EJG Morgan,BCJ Cutting,RS Bopara,1,0,1,81,114,34,20,5,2,12,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-76,RS Bopara,BCJ Cutting,EJG Morgan,1,0,1,82,113,2,2,5,3,12,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-77,EJG Morgan,BCJ Cutting,RS Bopara,0,0,0,82,113,34,21,6,4,12,-,caught,EJG Morgan,MA Starc,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-78,TT Bresnan,BCJ Cutting,RS Bopara,1,0,1,83,112,1,1,6,5,12,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-79,RS Bopara,BCJ Cutting,TT Bresnan,1,0,1,84,111,3,3,6,6,12,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-80,RS Bopara,NM Coulter-Nile,TT Bresnan,1,0,1,85,110,4,4,6,1,13,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-81,TT Bresnan,NM Coulter-Nile,RS Bopara,2,0,2,87,108,3,2,6,2,13,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-82,TT Bresnan,NM Coulter-Nile,RS Bopara,4,0,4,91,104,7,3,6,3,13,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-83,TT Bresnan,NM Coulter-Nile,RS Bopara,1,0,1,92,103,8,4,6,4,13,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-84,RS Bopara,NM Coulter-Nile,TT Bresnan,0,0,0,92,103,4,5,7,5,13,-,bowled,RS Bopara,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-85,CJ Jordan,NM Coulter-Nile,TT Bresnan,0,0,0,92,103,0,1,7,6,13,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-86,TT Bresnan,JM Muirhead,CJ Jordan,0,0,0,92,103,8,5,7,1,14,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-87,TT Bresnan,JM Muirhead,CJ Jordan,6,0,6,98,97,14,6,7,2,14,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-88,TT Bresnan,JM Muirhead,CJ Jordan,0,0,0,98,97,14,7,8,3,14,-,stumped,TT Bresnan,MS Wade,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-89,SCJ Broad,JM Muirhead,CJ Jordan,0,0,0,98,97,0,1,8,4,14,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-90,SCJ Broad,JM Muirhead,CJ Jordan,1,0,1,99,96,1,2,8,5,14,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-91,CJ Jordan,JM Muirhead,SCJ Broad,0,0,0,99,96,0,2,8,6,14,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-92,SCJ Broad,NM Coulter-Nile,CJ Jordan,1,0,1,100,95,2,3,8,1,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-93,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,3,8,2,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-94,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,4,8,3,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-95,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,5,8,4,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-96,CJ Jordan,NM Coulter-Nile,SCJ Broad,4,0,4,104,91,4,6,8,5,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-97,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,104,91,4,7,8,6,15,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-98,SCJ Broad,JM Muirhead,CJ Jordan,0,0,0,104,91,2,4,9,1,16,-,bowled,SCJ Broad,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-99,JW Dernbach,JM Muirhead,CJ Jordan,0,0,0,104,91,0,1,9,2,16,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-100,JW Dernbach,JM Muirhead,CJ Jordan,1,0,1,105,90,1,2,9,3,16,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-101,CJ Jordan,JM Muirhead,JW Dernbach,4,0,4,109,86,8,8,9,4,16,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-102,CJ Jordan,JM Muirhead,JW Dernbach,0,0,0,109,86,8,9,9,5,16,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-103,CJ Jordan,JM Muirhead,JW Dernbach,1,0,1,110,85,9,10,9,6,16,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-104,CJ Jordan,MA Starc,JW Dernbach,0,0,0,110,85,9,11,9,1,17,-,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
-105,CJ Jordan,MA Starc,JW Dernbach,1,0,1,111,84,10,12,10,2,17,-,run out,JW Dernbach,DT Christian;MS Wade,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,LJ Wright,MA Starc,AD Hales,1,0,1,1,194,1,1,0,-,1.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+1,AD Hales,MA Starc,LJ Wright,0,0,0,1,194,0,1,0,-,2.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+2,AD Hales,MA Starc,LJ Wright,0,0,0,1,194,0,2,0,-,3.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+3,AD Hales,MA Starc,LJ Wright,1,0,1,2,193,1,3,0,-,4.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+4,LJ Wright,MA Starc,AD Hales,2,0,2,4,191,3,2,0,-,5.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+5,LJ Wright,MA Starc,AD Hales,1,0,1,5,190,4,3,0,-,6.0,0,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+6,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,4,0,-,1.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+7,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,5,0,-,2.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+8,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,6,0,-,3.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+9,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,7,0,-,4.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+10,LJ Wright,NM Coulter-Nile,AD Hales,0,0,0,5,190,4,8,0,-,5.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+11,LJ Wright,NM Coulter-Nile,AD Hales,4,0,4,9,186,8,9,0,-,6.0,1,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+12,AD Hales,MA Starc,LJ Wright,0,1,1,10,185,1,4,0,wides,0.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+13,AD Hales,MA Starc,LJ Wright,0,0,0,10,185,1,5,0,-,1.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+14,AD Hales,MA Starc,LJ Wright,1,0,1,11,184,2,6,0,-,2.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+15,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,10,0,-,3.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+16,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,11,0,-,4.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+17,LJ Wright,MA Starc,AD Hales,0,0,0,11,184,8,12,1,-,5.0,2,caught,LJ Wright,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+18,BA Stokes,MA Starc,AD Hales,0,4,4,15,180,0,1,1,legbyes,6.0,2,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+19,AD Hales,NM Coulter-Nile,BA Stokes,0,0,0,15,180,2,7,1,-,1.0,3,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+20,AD Hales,NM Coulter-Nile,BA Stokes,4,0,4,19,176,6,8,1,-,2.0,3,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+21,AD Hales,NM Coulter-Nile,BA Stokes,0,0,0,19,176,6,9,2,-,3.0,3,caught,AD Hales,JM Muirhead,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+22,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,1,2,-,4.0,3,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+23,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,2,2,-,5.0,3,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+24,JE Root,NM Coulter-Nile,BA Stokes,0,0,0,19,176,0,3,2,-,6.0,3,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+25,BA Stokes,GJ Maxwell,JE Root,4,0,4,23,172,4,2,2,-,1.0,4,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+26,BA Stokes,GJ Maxwell,JE Root,1,0,1,24,171,5,3,2,-,2.0,4,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+27,JE Root,GJ Maxwell,BA Stokes,0,0,0,24,171,0,4,2,-,3.0,4,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+28,JE Root,GJ Maxwell,BA Stokes,0,0,0,24,171,0,5,2,-,4.0,4,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+29,JE Root,GJ Maxwell,BA Stokes,1,0,1,25,170,1,6,2,-,5.0,4,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+30,BA Stokes,GJ Maxwell,JE Root,0,0,0,25,170,5,4,3,-,6.0,4,caught,BA Stokes,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+31,JE Root,BCJ Cutting,EJG Morgan,0,0,0,25,170,1,7,3,-,1.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+32,JE Root,BCJ Cutting,EJG Morgan,0,0,0,25,170,1,8,3,-,2.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+33,JE Root,BCJ Cutting,EJG Morgan,4,0,4,29,166,5,9,3,-,3.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+34,JE Root,BCJ Cutting,EJG Morgan,1,0,1,30,165,6,10,3,-,4.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+35,EJG Morgan,BCJ Cutting,JE Root,1,0,1,31,164,1,1,3,-,5.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+36,JE Root,BCJ Cutting,EJG Morgan,0,0,0,31,164,6,11,3,-,6.0,5,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+37,EJG Morgan,GJ Maxwell,JE Root,2,0,2,33,162,3,2,3,-,1.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+38,EJG Morgan,GJ Maxwell,JE Root,1,0,1,34,161,4,3,3,-,2.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+39,JE Root,GJ Maxwell,EJG Morgan,0,0,0,34,161,6,12,3,-,3.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+40,JE Root,GJ Maxwell,EJG Morgan,0,2,2,36,159,6,13,3,byes,4.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+41,JE Root,GJ Maxwell,EJG Morgan,1,0,1,37,158,7,14,3,-,5.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+42,EJG Morgan,GJ Maxwell,JE Root,6,0,6,43,152,10,4,3,-,6.0,6,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+43,JE Root,DT Christian,EJG Morgan,0,0,0,43,152,7,15,3,-,1.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+44,JE Root,DT Christian,EJG Morgan,1,0,1,44,151,8,16,3,-,2.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+45,EJG Morgan,DT Christian,JE Root,6,0,6,50,145,16,5,3,-,3.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+46,EJG Morgan,DT Christian,JE Root,1,0,1,51,144,17,6,3,-,4.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+47,JE Root,DT Christian,EJG Morgan,1,0,1,52,143,9,17,3,-,5.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+48,EJG Morgan,DT Christian,JE Root,1,0,1,53,142,18,7,3,-,6.0,7,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+49,EJG Morgan,GJ Maxwell,JE Root,4,0,4,57,138,22,8,3,-,1.0,8,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+50,EJG Morgan,GJ Maxwell,JE Root,1,0,1,58,137,23,9,3,-,2.0,8,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+51,JE Root,GJ Maxwell,EJG Morgan,2,0,2,60,135,11,18,3,-,3.0,8,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+52,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,19,3,-,4.0,8,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+53,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,20,3,-,5.0,8,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+54,JE Root,GJ Maxwell,EJG Morgan,0,0,0,60,135,11,21,4,-,6.0,8,caught,JE Root,BCJ Cutting,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+55,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,60,135,0,1,4,-,1.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+56,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,60,135,0,2,4,-,2.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+57,JC Buttler,BCJ Cutting,EJG Morgan,1,0,1,61,134,1,3,4,-,3.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+58,EJG Morgan,BCJ Cutting,JC Buttler,0,1,1,62,133,23,10,4,wides,3.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+59,EJG Morgan,BCJ Cutting,JC Buttler,1,0,1,63,132,24,11,4,-,4.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+60,JC Buttler,BCJ Cutting,EJG Morgan,4,0,4,67,128,5,4,4,-,5.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+61,JC Buttler,BCJ Cutting,EJG Morgan,0,0,0,67,128,5,5,4,-,6.0,9,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+62,EJG Morgan,GJ Maxwell,JC Buttler,4,0,4,71,124,28,12,4,-,1.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+63,EJG Morgan,GJ Maxwell,JC Buttler,0,0,0,71,124,28,13,4,-,2.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+64,EJG Morgan,GJ Maxwell,JC Buttler,0,0,0,71,124,28,14,4,-,3.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+65,EJG Morgan,GJ Maxwell,JC Buttler,1,0,1,72,123,29,15,4,-,4.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+66,JC Buttler,GJ Maxwell,EJG Morgan,1,0,1,73,122,6,6,4,-,5.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+67,EJG Morgan,GJ Maxwell,JC Buttler,2,0,2,75,120,31,16,4,-,6.0,10,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+68,JC Buttler,DT Christian,EJG Morgan,1,0,1,76,119,7,7,4,-,1.0,11,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+69,EJG Morgan,DT Christian,JC Buttler,1,0,1,77,118,32,17,4,-,2.0,11,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+70,JC Buttler,DT Christian,EJG Morgan,1,0,1,78,117,8,8,4,-,3.0,11,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+71,EJG Morgan,DT Christian,JC Buttler,0,0,0,78,117,32,18,4,-,4.0,11,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+72,EJG Morgan,DT Christian,JC Buttler,1,0,1,79,116,33,19,4,-,5.0,11,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+73,JC Buttler,DT Christian,EJG Morgan,0,0,0,79,116,8,9,5,-,6.0,11,caught,JC Buttler,GJ Maxwell,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+74,RS Bopara,BCJ Cutting,EJG Morgan,1,0,1,80,115,1,1,5,-,1.0,12,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+75,EJG Morgan,BCJ Cutting,RS Bopara,1,0,1,81,114,34,20,5,-,2.0,12,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+76,RS Bopara,BCJ Cutting,EJG Morgan,1,0,1,82,113,2,2,5,-,3.0,12,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+77,EJG Morgan,BCJ Cutting,RS Bopara,0,0,0,82,113,34,21,6,-,4.0,12,caught,EJG Morgan,MA Starc,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+78,TT Bresnan,BCJ Cutting,RS Bopara,1,0,1,83,112,1,1,6,-,5.0,12,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+79,RS Bopara,BCJ Cutting,TT Bresnan,1,0,1,84,111,3,3,6,-,6.0,12,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+80,RS Bopara,NM Coulter-Nile,TT Bresnan,1,0,1,85,110,4,4,6,-,1.0,13,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+81,TT Bresnan,NM Coulter-Nile,RS Bopara,2,0,2,87,108,3,2,6,-,2.0,13,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+82,TT Bresnan,NM Coulter-Nile,RS Bopara,4,0,4,91,104,7,3,6,-,3.0,13,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+83,TT Bresnan,NM Coulter-Nile,RS Bopara,1,0,1,92,103,8,4,6,-,4.0,13,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+84,RS Bopara,NM Coulter-Nile,TT Bresnan,0,0,0,92,103,4,5,7,-,5.0,13,bowled,RS Bopara,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+85,CJ Jordan,NM Coulter-Nile,TT Bresnan,0,0,0,92,103,0,1,7,-,6.0,13,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+86,TT Bresnan,JM Muirhead,CJ Jordan,0,0,0,92,103,8,5,7,-,1.0,14,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+87,TT Bresnan,JM Muirhead,CJ Jordan,6,0,6,98,97,14,6,7,-,2.0,14,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+88,TT Bresnan,JM Muirhead,CJ Jordan,0,0,0,98,97,14,7,8,-,3.0,14,stumped,TT Bresnan,MS Wade,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+89,SCJ Broad,JM Muirhead,CJ Jordan,0,0,0,98,97,0,1,8,-,4.0,14,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+90,SCJ Broad,JM Muirhead,CJ Jordan,1,0,1,99,96,1,2,8,-,5.0,14,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+91,CJ Jordan,JM Muirhead,SCJ Broad,0,0,0,99,96,0,2,8,-,6.0,14,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+92,SCJ Broad,NM Coulter-Nile,CJ Jordan,1,0,1,100,95,2,3,8,-,1.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+93,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,3,8,-,2.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+94,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,4,8,-,3.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+95,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,100,95,0,5,8,-,4.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+96,CJ Jordan,NM Coulter-Nile,SCJ Broad,4,0,4,104,91,4,6,8,-,5.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+97,CJ Jordan,NM Coulter-Nile,SCJ Broad,0,0,0,104,91,4,7,8,-,6.0,15,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+98,SCJ Broad,JM Muirhead,CJ Jordan,0,0,0,104,91,2,4,9,-,1.0,16,bowled,SCJ Broad,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+99,JW Dernbach,JM Muirhead,CJ Jordan,0,0,0,104,91,0,1,9,-,2.0,16,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+100,JW Dernbach,JM Muirhead,CJ Jordan,1,0,1,105,90,1,2,9,-,3.0,16,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+101,CJ Jordan,JM Muirhead,JW Dernbach,4,0,4,109,86,8,8,9,-,4.0,16,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+102,CJ Jordan,JM Muirhead,JW Dernbach,0,0,0,109,86,8,9,9,-,5.0,16,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+103,CJ Jordan,JM Muirhead,JW Dernbach,1,0,1,110,85,9,10,9,-,6.0,16,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+104,CJ Jordan,MA Starc,JW Dernbach,0,0,0,110,85,9,11,9,-,1.0,17,0,,,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111
+105,CJ Jordan,MA Starc,JW Dernbach,1,0,1,111,84,10,12,10,-,2.0,17,run out,JW Dernbach,DT Christian;MS Wade,bat,Australia,2,Stadium Australia,2014,02,Australia_England_2014-02-02,Australia,England,Australia,False,111

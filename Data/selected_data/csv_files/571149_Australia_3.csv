@@ -1,8 +1,8 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,DA Warner,Umar Gul,SR Watson,1,0,1,1,,1,1,0,1,-,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-1,SR Watson,Umar Gul,DA Warner,2,0,2,3,,2,1,0,2,-,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-2,SR Watson,Umar Gul,DA Warner,1,0,1,4,,3,2,0,3,-,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-3,DA Warner,Umar Gul,SR Watson,4,0,4,8,,5,2,0,4,-,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-4,DA Warner,Umar Gul,SR Watson,0,1,1,9,,5,3,0,5,wides,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-5,DA Warner,Umar Gul,SR Watson,0,0,0,9,,5,4,1,6,-,caught,DA Warner,Umar Akmal,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
-6,GJ Bailey,Umar Gul,SR Watson,2,0,2,11,,2,1,1,7,-,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,DA Warner,Umar Gul,SR Watson,1,0,1,1,,1,1,0,-,1.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+1,SR Watson,Umar Gul,DA Warner,2,0,2,3,,2,1,0,-,2.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+2,SR Watson,Umar Gul,DA Warner,1,0,1,4,,3,2,0,-,3.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+3,DA Warner,Umar Gul,SR Watson,4,0,4,8,,5,2,0,-,4.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+4,DA Warner,Umar Gul,SR Watson,0,1,1,9,,5,3,0,wides,4.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+5,DA Warner,Umar Gul,SR Watson,0,0,0,9,,5,4,1,-,5.0,caught,DA Warner,Umar Akmal,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11
+6,GJ Bailey,Umar Gul,SR Watson,2,0,2,11,,2,1,1,-,6.0,0,,,0,bat,Pakistan,3,Dubai International Cricket Stadium,2012,09,Australia_Pakistan_2012-09-07,tie,Australia,Pakistan,,11

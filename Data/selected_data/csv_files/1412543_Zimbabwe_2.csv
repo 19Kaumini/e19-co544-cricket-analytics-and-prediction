@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,review,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,1,0,1,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-1,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,2,0,2,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-2,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,3,0,3,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-3,TS Kamunhukamwe,D Madushanka,CR Ervine,1,0,1,1,172,1,4,0,4,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-4,CR Ervine,D Madushanka,TS Kamunhukamwe,0,0,0,1,172,0,1,0,5,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-5,CR Ervine,D Madushanka,TS Kamunhukamwe,3,0,3,4,169,3,2,0,6,0,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-6,CR Ervine,M Theekshana,TS Kamunhukamwe,0,0,0,4,169,3,3,0,1,1,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-7,CR Ervine,M Theekshana,TS Kamunhukamwe,1,0,1,5,168,4,4,0,2,1,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-8,TS Kamunhukamwe,M Theekshana,CR Ervine,2,0,2,7,166,3,5,0,3,1,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-9,TS Kamunhukamwe,M Theekshana,CR Ervine,1,0,1,8,165,4,6,0,4,1,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-10,CR Ervine,M Theekshana,TS Kamunhukamwe,1,0,1,9,164,5,5,0,5,1,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-11,TS Kamunhukamwe,M Theekshana,CR Ervine,0,1,1,10,163,4,7,0,6,1,,wides,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-12,TS Kamunhukamwe,M Theekshana,CR Ervine,0,0,0,10,163,4,8,0,7,1,"{'by': 'Zimbabwe', 'umpire': 'RR Wimalasiri', 'batter': 'TS Kamunhukamwe', 'decision': 'upheld', 'type': 'wicket'}",-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-13,CR Ervine,PVD Chameera,TS Kamunhukamwe,0,0,0,10,163,5,6,0,1,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-14,CR Ervine,PVD Chameera,TS Kamunhukamwe,0,0,0,10,163,5,7,0,2,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-15,CR Ervine,PVD Chameera,TS Kamunhukamwe,1,0,1,11,162,6,8,0,3,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-16,TS Kamunhukamwe,PVD Chameera,CR Ervine,2,0,2,13,160,6,9,0,4,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-17,TS Kamunhukamwe,PVD Chameera,CR Ervine,0,1,1,14,159,6,10,0,5,2,,wides,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-18,TS Kamunhukamwe,PVD Chameera,CR Ervine,4,0,4,18,155,10,11,0,6,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-19,TS Kamunhukamwe,PVD Chameera,CR Ervine,1,0,1,19,154,11,12,0,7,2,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-20,TS Kamunhukamwe,D Madushanka,CR Ervine,1,0,1,20,153,12,13,0,1,3,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-21,CR Ervine,D Madushanka,TS Kamunhukamwe,0,1,1,21,152,6,9,0,2,3,,wides,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-22,CR Ervine,D Madushanka,TS Kamunhukamwe,1,0,1,22,151,7,10,0,3,3,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-23,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,22,151,12,14,0,4,3,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-24,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,22,151,12,15,1,5,3,,-,caught,TS Kamunhukamwe,PWH de Silva,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-25,BJ Bennett,D Madushanka,CR Ervine,0,0,0,22,151,0,1,1,6,3,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-26,BJ Bennett,D Madushanka,CR Ervine,0,0,0,22,151,0,2,1,7,3,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-27,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,22,151,7,11,1,1,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-28,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,22,151,7,12,1,2,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-29,CR Ervine,PVD Chameera,BJ Bennett,1,0,1,23,150,8,13,1,3,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-30,BJ Bennett,PVD Chameera,CR Ervine,1,0,1,24,149,1,3,1,4,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-31,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,24,149,8,14,1,5,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-32,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,24,149,8,15,1,6,4,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-33,BJ Bennett,M Theekshana,CR Ervine,1,0,1,25,148,2,4,1,1,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-34,CR Ervine,M Theekshana,BJ Bennett,4,0,4,29,144,12,16,1,2,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-35,CR Ervine,M Theekshana,BJ Bennett,0,0,0,29,144,12,17,1,3,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-36,CR Ervine,M Theekshana,BJ Bennett,2,0,2,31,142,14,18,1,4,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-37,CR Ervine,M Theekshana,BJ Bennett,0,0,0,31,142,14,19,1,5,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-38,CR Ervine,M Theekshana,BJ Bennett,0,0,0,31,142,14,20,1,6,5,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-39,BJ Bennett,KIC Asalanka,CR Ervine,1,0,1,32,141,3,5,1,1,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-40,CR Ervine,KIC Asalanka,BJ Bennett,0,0,0,32,141,14,21,1,2,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-41,CR Ervine,KIC Asalanka,BJ Bennett,4,0,4,36,137,18,22,1,3,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-42,CR Ervine,KIC Asalanka,BJ Bennett,0,0,0,36,137,18,23,1,4,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-43,CR Ervine,KIC Asalanka,BJ Bennett,2,0,2,38,135,20,24,1,5,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-44,CR Ervine,KIC Asalanka,BJ Bennett,1,0,1,39,134,21,25,1,6,6,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-45,CR Ervine,PWH de Silva,BJ Bennett,4,0,4,43,130,25,26,1,1,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-46,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,44,129,26,27,1,2,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-47,BJ Bennett,PWH de Silva,CR Ervine,1,0,1,45,128,4,6,1,3,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-48,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,47,126,28,28,1,4,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-49,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,48,125,29,29,1,5,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-50,BJ Bennett,PWH de Silva,CR Ervine,0,0,0,48,125,4,7,1,6,7,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-51,CR Ervine,AD Mathews,BJ Bennett,4,0,4,52,121,33,30,1,1,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-52,CR Ervine,AD Mathews,BJ Bennett,1,0,1,53,120,34,31,1,2,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-53,BJ Bennett,AD Mathews,CR Ervine,3,0,3,56,117,7,8,1,3,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-54,CR Ervine,AD Mathews,BJ Bennett,0,1,1,57,116,34,32,1,4,8,,wides,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-55,CR Ervine,AD Mathews,BJ Bennett,1,0,1,58,115,35,33,1,5,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-56,BJ Bennett,AD Mathews,CR Ervine,1,0,1,59,114,8,9,1,6,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-57,CR Ervine,AD Mathews,BJ Bennett,0,0,0,59,114,35,34,1,7,8,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-58,BJ Bennett,PWH de Silva,CR Ervine,0,1,1,60,113,8,10,1,1,9,,legbyes,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-59,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,62,111,37,35,1,2,9,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-60,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,63,110,38,36,1,3,9,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-61,BJ Bennett,PWH de Silva,CR Ervine,4,0,4,67,106,12,11,1,4,9,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-62,BJ Bennett,PWH de Silva,CR Ervine,0,0,0,67,106,12,12,1,5,9,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-63,BJ Bennett,PWH de Silva,CR Ervine,2,0,2,69,104,14,13,1,6,9,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-64,CR Ervine,MD Shanaka,BJ Bennett,6,0,6,75,98,44,37,1,1,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-65,CR Ervine,MD Shanaka,BJ Bennett,1,0,1,76,97,45,38,1,2,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-66,BJ Bennett,MD Shanaka,CR Ervine,4,0,4,80,93,18,14,1,3,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-67,BJ Bennett,MD Shanaka,CR Ervine,0,0,0,80,93,18,15,1,4,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-68,BJ Bennett,MD Shanaka,CR Ervine,1,0,1,81,92,19,16,1,5,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-69,CR Ervine,MD Shanaka,BJ Bennett,1,0,1,82,91,46,39,1,6,10,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-70,CR Ervine,PWH de Silva,BJ Bennett,4,0,4,86,87,50,40,1,1,11,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-71,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,88,85,52,41,1,2,11,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-72,CR Ervine,PWH de Silva,BJ Bennett,0,0,0,88,85,52,42,1,3,11,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-73,CR Ervine,PWH de Silva,BJ Bennett,0,1,1,89,84,52,43,1,4,11,,legbyes,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-74,BJ Bennett,PWH de Silva,CR Ervine,2,0,2,91,82,21,17,1,5,11,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-75,BJ Bennett,PWH de Silva,CR Ervine,4,0,4,95,78,25,18,1,6,11,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-76,CR Ervine,M Theekshana,BJ Bennett,1,0,1,96,77,53,44,1,1,12,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-77,BJ Bennett,M Theekshana,CR Ervine,0,0,0,96,77,25,19,1,2,12,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-78,BJ Bennett,M Theekshana,CR Ervine,0,0,0,96,77,25,20,2,3,12,,-,bowled,BJ Bennett,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-79,Sikandar Raza,M Theekshana,CR Ervine,0,0,0,96,77,0,1,2,4,12,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-80,Sikandar Raza,M Theekshana,CR Ervine,4,0,4,100,73,4,2,2,5,12,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-81,Sikandar Raza,M Theekshana,CR Ervine,0,0,0,100,73,4,3,2,6,12,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-82,CR Ervine,PVD Chameera,Sikandar Raza,1,0,1,101,72,54,45,2,1,13,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-83,Sikandar Raza,PVD Chameera,CR Ervine,4,0,4,105,68,8,4,2,2,13,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-84,Sikandar Raza,PVD Chameera,CR Ervine,0,0,0,105,68,8,5,3,3,13,,-,caught,Sikandar Raza,S Samarawickrama,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-85,SC Williams,PVD Chameera,CR Ervine,1,0,1,106,67,1,1,3,4,13,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-86,CR Ervine,PVD Chameera,SC Williams,1,0,1,107,66,55,46,3,5,13,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-87,SC Williams,PVD Chameera,CR Ervine,0,0,0,107,66,1,2,3,6,13,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-88,CR Ervine,M Theekshana,SC Williams,4,0,4,111,62,59,47,3,1,14,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-89,CR Ervine,M Theekshana,SC Williams,1,0,1,112,61,60,48,3,2,14,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-90,SC Williams,M Theekshana,CR Ervine,0,0,0,112,61,1,3,4,3,14,,-,bowled,SC Williams,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-91,RP Burl,M Theekshana,CR Ervine,0,1,1,113,60,0,1,4,4,14,,noballs,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-92,RP Burl,M Theekshana,CR Ervine,1,0,1,114,59,1,2,4,5,14,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-93,CR Ervine,M Theekshana,RP Burl,0,0,0,114,59,60,49,4,6,14,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-94,CR Ervine,M Theekshana,RP Burl,0,0,0,114,59,60,50,4,7,14,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-95,RP Burl,D Madushanka,CR Ervine,0,0,0,114,59,1,3,4,1,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-96,RP Burl,D Madushanka,CR Ervine,0,0,0,114,59,1,4,4,2,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-97,RP Burl,D Madushanka,CR Ervine,0,1,1,115,58,1,5,4,3,15,,wides,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-98,RP Burl,D Madushanka,CR Ervine,4,0,4,119,54,5,6,4,4,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-99,RP Burl,D Madushanka,CR Ervine,1,0,1,120,53,6,7,4,5,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-100,CR Ervine,D Madushanka,RP Burl,0,0,0,120,53,60,51,4,6,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-101,CR Ervine,D Madushanka,RP Burl,1,0,1,121,52,61,52,4,7,15,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-102,CR Ervine,PWH de Silva,RP Burl,2,0,2,123,50,63,53,4,1,16,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-103,CR Ervine,PWH de Silva,RP Burl,6,0,6,129,44,69,54,4,2,16,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-104,CR Ervine,PWH de Silva,RP Burl,1,0,1,130,43,70,55,4,3,16,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-105,RP Burl,PWH de Silva,CR Ervine,1,0,1,131,42,7,8,4,4,16,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-106,CR Ervine,PWH de Silva,RP Burl,0,0,0,131,42,70,56,5,5,16,,-,caught,CR Ervine,M Theekshana,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-107,LM Jongwe,PWH de Silva,RP Burl,1,0,1,132,41,1,1,5,6,16,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-108,LM Jongwe,PVD Chameera,RP Burl,4,0,4,136,37,5,2,5,1,17,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-109,LM Jongwe,PVD Chameera,RP Burl,1,0,1,137,36,6,3,5,2,17,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-110,RP Burl,PVD Chameera,LM Jongwe,6,0,6,143,30,13,9,5,3,17,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-111,RP Burl,PVD Chameera,LM Jongwe,0,0,0,143,30,13,10,6,4,17,"{'by': 'Sri Lanka', 'umpire': 'RR Wimalasiri', 'batter': 'RP Burl', 'decision': 'upheld', 'type': 'wicket'}",-,caught,RP Burl,BKG Mendis,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-112,C Madande,PVD Chameera,LM Jongwe,1,0,1,144,29,1,1,6,5,17,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-113,LM Jongwe,PVD Chameera,C Madande,0,0,0,144,29,6,4,6,6,17,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-114,C Madande,D Madushanka,LM Jongwe,1,0,1,145,28,2,2,6,1,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-115,LM Jongwe,D Madushanka,C Madande,1,0,1,146,27,7,5,6,2,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-116,C Madande,D Madushanka,LM Jongwe,6,0,6,152,21,8,3,6,3,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-117,C Madande,D Madushanka,LM Jongwe,1,0,1,153,20,9,4,6,4,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-118,LM Jongwe,D Madushanka,C Madande,0,0,0,153,20,7,6,6,5,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-119,LM Jongwe,D Madushanka,C Madande,1,0,1,154,19,8,7,6,6,18,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-120,LM Jongwe,AD Mathews,C Madande,6,1,7,161,12,14,8,6,1,19,,noballs,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-121,LM Jongwe,AD Mathews,C Madande,4,0,4,165,8,18,9,6,2,19,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-122,LM Jongwe,AD Mathews,C Madande,6,0,6,171,2,24,10,6,3,19,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-123,LM Jongwe,AD Mathews,C Madande,0,0,0,171,2,24,11,6,4,19,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-124,LM Jongwe,AD Mathews,C Madande,1,0,1,172,1,25,12,6,5,19,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
-125,C Madande,AD Mathews,LM Jongwe,6,0,6,178,-5,15,5,6,6,19,,-,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,review,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,1,0,-,1.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+1,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,2,0,-,2.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+2,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,0,173,0,3,0,-,3.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+3,TS Kamunhukamwe,D Madushanka,CR Ervine,1,0,1,1,172,1,4,0,-,4.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+4,CR Ervine,D Madushanka,TS Kamunhukamwe,0,0,0,1,172,0,1,0,-,5.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+5,CR Ervine,D Madushanka,TS Kamunhukamwe,3,0,3,4,169,3,2,0,-,6.0,0,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+6,CR Ervine,M Theekshana,TS Kamunhukamwe,0,0,0,4,169,3,3,0,-,1.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+7,CR Ervine,M Theekshana,TS Kamunhukamwe,1,0,1,5,168,4,4,0,-,2.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+8,TS Kamunhukamwe,M Theekshana,CR Ervine,2,0,2,7,166,3,5,0,-,3.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+9,TS Kamunhukamwe,M Theekshana,CR Ervine,1,0,1,8,165,4,6,0,-,4.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+10,CR Ervine,M Theekshana,TS Kamunhukamwe,1,0,1,9,164,5,5,0,-,5.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+11,TS Kamunhukamwe,M Theekshana,CR Ervine,0,1,1,10,163,4,7,0,wides,5.0,1,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+12,TS Kamunhukamwe,M Theekshana,CR Ervine,0,0,0,10,163,4,8,0,-,6.0,1,"{'by': 'Zimbabwe', 'umpire': 'RR Wimalasiri', 'batter': 'TS Kamunhukamwe', 'decision': 'upheld', 'type': 'wicket'}",0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+13,CR Ervine,PVD Chameera,TS Kamunhukamwe,0,0,0,10,163,5,6,0,-,1.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+14,CR Ervine,PVD Chameera,TS Kamunhukamwe,0,0,0,10,163,5,7,0,-,2.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+15,CR Ervine,PVD Chameera,TS Kamunhukamwe,1,0,1,11,162,6,8,0,-,3.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+16,TS Kamunhukamwe,PVD Chameera,CR Ervine,2,0,2,13,160,6,9,0,-,4.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+17,TS Kamunhukamwe,PVD Chameera,CR Ervine,0,1,1,14,159,6,10,0,wides,4.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+18,TS Kamunhukamwe,PVD Chameera,CR Ervine,4,0,4,18,155,10,11,0,-,5.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+19,TS Kamunhukamwe,PVD Chameera,CR Ervine,1,0,1,19,154,11,12,0,-,6.0,2,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+20,TS Kamunhukamwe,D Madushanka,CR Ervine,1,0,1,20,153,12,13,0,-,1.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+21,CR Ervine,D Madushanka,TS Kamunhukamwe,0,1,1,21,152,6,9,0,wides,1.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+22,CR Ervine,D Madushanka,TS Kamunhukamwe,1,0,1,22,151,7,10,0,-,2.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+23,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,22,151,12,14,0,-,3.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+24,TS Kamunhukamwe,D Madushanka,CR Ervine,0,0,0,22,151,12,15,1,-,4.0,3,,caught,TS Kamunhukamwe,PWH de Silva,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+25,BJ Bennett,D Madushanka,CR Ervine,0,0,0,22,151,0,1,1,-,5.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+26,BJ Bennett,D Madushanka,CR Ervine,0,0,0,22,151,0,2,1,-,6.0,3,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+27,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,22,151,7,11,1,-,1.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+28,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,22,151,7,12,1,-,2.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+29,CR Ervine,PVD Chameera,BJ Bennett,1,0,1,23,150,8,13,1,-,3.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+30,BJ Bennett,PVD Chameera,CR Ervine,1,0,1,24,149,1,3,1,-,4.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+31,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,24,149,8,14,1,-,5.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+32,CR Ervine,PVD Chameera,BJ Bennett,0,0,0,24,149,8,15,1,-,6.0,4,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+33,BJ Bennett,M Theekshana,CR Ervine,1,0,1,25,148,2,4,1,-,1.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+34,CR Ervine,M Theekshana,BJ Bennett,4,0,4,29,144,12,16,1,-,2.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+35,CR Ervine,M Theekshana,BJ Bennett,0,0,0,29,144,12,17,1,-,3.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+36,CR Ervine,M Theekshana,BJ Bennett,2,0,2,31,142,14,18,1,-,4.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+37,CR Ervine,M Theekshana,BJ Bennett,0,0,0,31,142,14,19,1,-,5.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+38,CR Ervine,M Theekshana,BJ Bennett,0,0,0,31,142,14,20,1,-,6.0,5,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+39,BJ Bennett,KIC Asalanka,CR Ervine,1,0,1,32,141,3,5,1,-,1.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+40,CR Ervine,KIC Asalanka,BJ Bennett,0,0,0,32,141,14,21,1,-,2.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+41,CR Ervine,KIC Asalanka,BJ Bennett,4,0,4,36,137,18,22,1,-,3.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+42,CR Ervine,KIC Asalanka,BJ Bennett,0,0,0,36,137,18,23,1,-,4.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+43,CR Ervine,KIC Asalanka,BJ Bennett,2,0,2,38,135,20,24,1,-,5.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+44,CR Ervine,KIC Asalanka,BJ Bennett,1,0,1,39,134,21,25,1,-,6.0,6,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+45,CR Ervine,PWH de Silva,BJ Bennett,4,0,4,43,130,25,26,1,-,1.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+46,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,44,129,26,27,1,-,2.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+47,BJ Bennett,PWH de Silva,CR Ervine,1,0,1,45,128,4,6,1,-,3.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+48,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,47,126,28,28,1,-,4.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+49,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,48,125,29,29,1,-,5.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+50,BJ Bennett,PWH de Silva,CR Ervine,0,0,0,48,125,4,7,1,-,6.0,7,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+51,CR Ervine,AD Mathews,BJ Bennett,4,0,4,52,121,33,30,1,-,1.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+52,CR Ervine,AD Mathews,BJ Bennett,1,0,1,53,120,34,31,1,-,2.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+53,BJ Bennett,AD Mathews,CR Ervine,3,0,3,56,117,7,8,1,-,3.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+54,CR Ervine,AD Mathews,BJ Bennett,0,1,1,57,116,34,32,1,wides,3.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+55,CR Ervine,AD Mathews,BJ Bennett,1,0,1,58,115,35,33,1,-,4.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+56,BJ Bennett,AD Mathews,CR Ervine,1,0,1,59,114,8,9,1,-,5.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+57,CR Ervine,AD Mathews,BJ Bennett,0,0,0,59,114,35,34,1,-,6.0,8,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+58,BJ Bennett,PWH de Silva,CR Ervine,0,1,1,60,113,8,10,1,legbyes,1.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+59,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,62,111,37,35,1,-,2.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+60,CR Ervine,PWH de Silva,BJ Bennett,1,0,1,63,110,38,36,1,-,3.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+61,BJ Bennett,PWH de Silva,CR Ervine,4,0,4,67,106,12,11,1,-,4.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+62,BJ Bennett,PWH de Silva,CR Ervine,0,0,0,67,106,12,12,1,-,5.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+63,BJ Bennett,PWH de Silva,CR Ervine,2,0,2,69,104,14,13,1,-,6.0,9,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+64,CR Ervine,MD Shanaka,BJ Bennett,6,0,6,75,98,44,37,1,-,1.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+65,CR Ervine,MD Shanaka,BJ Bennett,1,0,1,76,97,45,38,1,-,2.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+66,BJ Bennett,MD Shanaka,CR Ervine,4,0,4,80,93,18,14,1,-,3.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+67,BJ Bennett,MD Shanaka,CR Ervine,0,0,0,80,93,18,15,1,-,4.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+68,BJ Bennett,MD Shanaka,CR Ervine,1,0,1,81,92,19,16,1,-,5.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+69,CR Ervine,MD Shanaka,BJ Bennett,1,0,1,82,91,46,39,1,-,6.0,10,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+70,CR Ervine,PWH de Silva,BJ Bennett,4,0,4,86,87,50,40,1,-,1.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+71,CR Ervine,PWH de Silva,BJ Bennett,2,0,2,88,85,52,41,1,-,2.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+72,CR Ervine,PWH de Silva,BJ Bennett,0,0,0,88,85,52,42,1,-,3.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+73,CR Ervine,PWH de Silva,BJ Bennett,0,1,1,89,84,52,43,1,legbyes,4.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+74,BJ Bennett,PWH de Silva,CR Ervine,2,0,2,91,82,21,17,1,-,5.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+75,BJ Bennett,PWH de Silva,CR Ervine,4,0,4,95,78,25,18,1,-,6.0,11,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+76,CR Ervine,M Theekshana,BJ Bennett,1,0,1,96,77,53,44,1,-,1.0,12,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+77,BJ Bennett,M Theekshana,CR Ervine,0,0,0,96,77,25,19,1,-,2.0,12,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+78,BJ Bennett,M Theekshana,CR Ervine,0,0,0,96,77,25,20,2,-,3.0,12,,bowled,BJ Bennett,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+79,Sikandar Raza,M Theekshana,CR Ervine,0,0,0,96,77,0,1,2,-,4.0,12,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+80,Sikandar Raza,M Theekshana,CR Ervine,4,0,4,100,73,4,2,2,-,5.0,12,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+81,Sikandar Raza,M Theekshana,CR Ervine,0,0,0,100,73,4,3,2,-,6.0,12,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+82,CR Ervine,PVD Chameera,Sikandar Raza,1,0,1,101,72,54,45,2,-,1.0,13,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+83,Sikandar Raza,PVD Chameera,CR Ervine,4,0,4,105,68,8,4,2,-,2.0,13,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+84,Sikandar Raza,PVD Chameera,CR Ervine,0,0,0,105,68,8,5,3,-,3.0,13,,caught,Sikandar Raza,S Samarawickrama,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+85,SC Williams,PVD Chameera,CR Ervine,1,0,1,106,67,1,1,3,-,4.0,13,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+86,CR Ervine,PVD Chameera,SC Williams,1,0,1,107,66,55,46,3,-,5.0,13,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+87,SC Williams,PVD Chameera,CR Ervine,0,0,0,107,66,1,2,3,-,6.0,13,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+88,CR Ervine,M Theekshana,SC Williams,4,0,4,111,62,59,47,3,-,1.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+89,CR Ervine,M Theekshana,SC Williams,1,0,1,112,61,60,48,3,-,2.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+90,SC Williams,M Theekshana,CR Ervine,0,0,0,112,61,1,3,4,-,3.0,14,,bowled,SC Williams,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+91,RP Burl,M Theekshana,CR Ervine,0,1,1,113,60,0,1,4,noballs,3.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+92,RP Burl,M Theekshana,CR Ervine,1,0,1,114,59,1,2,4,-,4.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+93,CR Ervine,M Theekshana,RP Burl,0,0,0,114,59,60,49,4,-,5.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+94,CR Ervine,M Theekshana,RP Burl,0,0,0,114,59,60,50,4,-,6.0,14,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+95,RP Burl,D Madushanka,CR Ervine,0,0,0,114,59,1,3,4,-,1.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+96,RP Burl,D Madushanka,CR Ervine,0,0,0,114,59,1,4,4,-,2.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+97,RP Burl,D Madushanka,CR Ervine,0,1,1,115,58,1,5,4,wides,2.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+98,RP Burl,D Madushanka,CR Ervine,4,0,4,119,54,5,6,4,-,3.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+99,RP Burl,D Madushanka,CR Ervine,1,0,1,120,53,6,7,4,-,4.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+100,CR Ervine,D Madushanka,RP Burl,0,0,0,120,53,60,51,4,-,5.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+101,CR Ervine,D Madushanka,RP Burl,1,0,1,121,52,61,52,4,-,6.0,15,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+102,CR Ervine,PWH de Silva,RP Burl,2,0,2,123,50,63,53,4,-,1.0,16,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+103,CR Ervine,PWH de Silva,RP Burl,6,0,6,129,44,69,54,4,-,2.0,16,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+104,CR Ervine,PWH de Silva,RP Burl,1,0,1,130,43,70,55,4,-,3.0,16,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+105,RP Burl,PWH de Silva,CR Ervine,1,0,1,131,42,7,8,4,-,4.0,16,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+106,CR Ervine,PWH de Silva,RP Burl,0,0,0,131,42,70,56,5,-,5.0,16,,caught,CR Ervine,M Theekshana,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+107,LM Jongwe,PWH de Silva,RP Burl,1,0,1,132,41,1,1,5,-,6.0,16,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+108,LM Jongwe,PVD Chameera,RP Burl,4,0,4,136,37,5,2,5,-,1.0,17,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+109,LM Jongwe,PVD Chameera,RP Burl,1,0,1,137,36,6,3,5,-,2.0,17,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+110,RP Burl,PVD Chameera,LM Jongwe,6,0,6,143,30,13,9,5,-,3.0,17,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+111,RP Burl,PVD Chameera,LM Jongwe,0,0,0,143,30,13,10,6,-,4.0,17,"{'by': 'Sri Lanka', 'umpire': 'RR Wimalasiri', 'batter': 'RP Burl', 'decision': 'upheld', 'type': 'wicket'}",caught,RP Burl,BKG Mendis,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+112,C Madande,PVD Chameera,LM Jongwe,1,0,1,144,29,1,1,6,-,5.0,17,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+113,LM Jongwe,PVD Chameera,C Madande,0,0,0,144,29,6,4,6,-,6.0,17,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+114,C Madande,D Madushanka,LM Jongwe,1,0,1,145,28,2,2,6,-,1.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+115,LM Jongwe,D Madushanka,C Madande,1,0,1,146,27,7,5,6,-,2.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+116,C Madande,D Madushanka,LM Jongwe,6,0,6,152,21,8,3,6,-,3.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+117,C Madande,D Madushanka,LM Jongwe,1,0,1,153,20,9,4,6,-,4.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+118,LM Jongwe,D Madushanka,C Madande,0,0,0,153,20,7,6,6,-,5.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+119,LM Jongwe,D Madushanka,C Madande,1,0,1,154,19,8,7,6,-,6.0,18,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+120,LM Jongwe,AD Mathews,C Madande,6,1,7,161,12,14,8,6,noballs,0.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+121,LM Jongwe,AD Mathews,C Madande,4,0,4,165,8,18,9,6,-,1.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+122,LM Jongwe,AD Mathews,C Madande,6,0,6,171,2,24,10,6,-,2.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+123,LM Jongwe,AD Mathews,C Madande,0,0,0,171,2,24,11,6,-,3.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+124,LM Jongwe,AD Mathews,C Madande,1,0,1,172,1,25,12,6,-,4.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178
+125,C Madande,AD Mathews,LM Jongwe,6,0,6,178,-5,15,5,6,-,5.0,19,,0,,,field,Zimbabwe,2,"R Premadasa Stadium, Colombo",2024,01,Sri Lanka_Zimbabwe_2024-01-16,Zimbabwe,Zimbabwe,Sri Lanka,True,178

@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,1,0,1,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-1,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,2,0,2,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-2,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,3,0,3,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-3,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,4,0,4,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-4,JJ Roy,TA Boult,AD Hales,4,0,4,4,192,4,5,0,5,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-5,JJ Roy,TA Boult,AD Hales,4,0,4,8,188,8,6,0,6,0,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-6,AD Hales,MJ Santner,JJ Roy,0,0,0,8,188,0,1,0,1,1,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-7,AD Hales,MJ Santner,JJ Roy,1,0,1,9,187,1,2,0,2,1,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-8,JJ Roy,MJ Santner,AD Hales,0,1,1,10,186,8,7,0,3,1,legbyes,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-9,AD Hales,MJ Santner,JJ Roy,0,0,0,10,186,1,3,0,4,1,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-10,AD Hales,MJ Santner,JJ Roy,4,0,4,14,182,5,4,0,5,1,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-11,AD Hales,MJ Santner,JJ Roy,0,0,0,14,182,5,5,0,6,1,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-12,JJ Roy,TG Southee,AD Hales,0,0,0,14,182,8,8,1,1,2,-,caught,JJ Roy,TA Boult,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-13,DJ Malan,TG Southee,AD Hales,0,0,0,14,182,0,1,1,2,2,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-14,DJ Malan,TG Southee,AD Hales,0,0,0,14,182,0,2,1,3,2,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-15,DJ Malan,TG Southee,AD Hales,1,0,1,15,181,1,3,1,4,2,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-16,AD Hales,TG Southee,DJ Malan,4,0,4,19,177,9,6,1,5,2,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-17,AD Hales,TG Southee,DJ Malan,4,0,4,23,173,13,7,1,6,2,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-18,DJ Malan,MJ Santner,AD Hales,1,0,1,24,172,2,4,1,1,3,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-19,AD Hales,MJ Santner,DJ Malan,0,0,0,24,172,13,8,1,2,3,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-20,AD Hales,MJ Santner,DJ Malan,4,0,4,28,168,17,9,1,3,3,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-21,AD Hales,MJ Santner,DJ Malan,2,0,2,30,166,19,10,1,4,3,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-22,AD Hales,MJ Santner,DJ Malan,0,1,1,31,165,19,11,1,5,3,legbyes,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-23,DJ Malan,MJ Santner,AD Hales,0,0,0,31,165,2,5,1,6,3,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-24,AD Hales,TA Boult,DJ Malan,6,0,6,37,159,25,12,1,1,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-25,AD Hales,TA Boult,DJ Malan,0,0,0,37,159,25,13,1,2,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-26,AD Hales,TA Boult,DJ Malan,0,0,0,37,159,25,14,1,3,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-27,AD Hales,TA Boult,DJ Malan,4,0,4,41,155,29,15,1,4,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-28,AD Hales,TA Boult,DJ Malan,6,0,6,47,149,35,16,1,5,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-29,AD Hales,TA Boult,DJ Malan,4,0,4,51,145,39,17,1,6,4,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-30,DJ Malan,TG Southee,AD Hales,0,0,0,51,145,2,6,1,1,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-31,DJ Malan,TG Southee,AD Hales,0,0,0,51,145,2,7,1,2,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-32,DJ Malan,TG Southee,AD Hales,1,0,1,52,144,3,8,1,3,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-33,AD Hales,TG Southee,DJ Malan,1,0,1,53,143,40,18,1,4,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-34,DJ Malan,TG Southee,AD Hales,4,0,4,57,139,7,9,1,5,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-35,DJ Malan,TG Southee,AD Hales,3,0,3,60,136,10,10,1,6,5,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-36,DJ Malan,IS Sodhi,AD Hales,0,0,0,60,136,10,11,1,1,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-37,DJ Malan,IS Sodhi,AD Hales,0,0,0,60,136,10,12,1,2,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-38,DJ Malan,IS Sodhi,AD Hales,4,0,4,64,132,14,13,1,3,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-39,DJ Malan,IS Sodhi,AD Hales,1,0,1,65,131,15,14,1,4,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-40,AD Hales,IS Sodhi,DJ Malan,0,0,0,65,131,40,19,1,5,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-41,AD Hales,IS Sodhi,DJ Malan,6,0,6,71,125,46,20,1,6,6,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-42,DJ Malan,C Munro,AD Hales,1,0,1,72,124,16,15,1,1,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-43,AD Hales,C Munro,DJ Malan,0,0,0,72,124,46,21,1,2,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-44,AD Hales,C Munro,DJ Malan,0,0,0,72,124,46,22,1,3,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-45,AD Hales,C Munro,DJ Malan,1,0,1,73,123,47,23,1,4,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-46,DJ Malan,C Munro,AD Hales,0,0,0,73,123,16,16,1,5,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-47,DJ Malan,C Munro,AD Hales,1,0,1,74,122,17,17,1,6,7,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-48,DJ Malan,IS Sodhi,AD Hales,4,0,4,78,118,21,18,1,1,8,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-49,DJ Malan,IS Sodhi,AD Hales,1,0,1,79,117,22,19,1,2,8,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-50,AD Hales,IS Sodhi,DJ Malan,0,0,0,79,117,47,24,2,3,8,-,caught,AD Hales,C de Grandhomme,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-51,JM Vince,IS Sodhi,DJ Malan,0,0,0,79,117,0,1,2,4,8,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-52,JM Vince,IS Sodhi,DJ Malan,2,0,2,81,115,2,2,2,5,8,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-53,JM Vince,IS Sodhi,DJ Malan,1,0,1,82,114,3,3,2,6,8,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-54,JM Vince,C Munro,DJ Malan,0,0,0,82,114,3,4,2,1,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-55,JM Vince,C Munro,DJ Malan,6,0,6,88,108,9,5,2,2,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-56,JM Vince,C Munro,DJ Malan,1,0,1,89,107,10,6,2,3,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-57,DJ Malan,C Munro,JM Vince,0,0,0,89,107,22,20,2,4,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-58,DJ Malan,C Munro,JM Vince,0,0,0,89,107,22,21,2,5,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-59,DJ Malan,C Munro,JM Vince,1,0,1,90,106,23,22,2,6,9,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-60,DJ Malan,C de Grandhomme,JM Vince,0,0,0,90,106,23,23,2,1,10,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-61,DJ Malan,C de Grandhomme,JM Vince,4,0,4,94,102,27,24,2,2,10,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-62,DJ Malan,C de Grandhomme,JM Vince,1,0,1,95,101,28,25,2,3,10,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-63,JM Vince,C de Grandhomme,DJ Malan,0,0,0,95,101,10,7,3,4,10,-,run out,JM Vince,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-64,DJ Malan,C de Grandhomme,JC Buttler,1,0,1,96,100,29,26,3,5,10,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-65,JC Buttler,C de Grandhomme,DJ Malan,1,0,1,97,99,1,1,3,6,10,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-66,JC Buttler,IS Sodhi,DJ Malan,0,0,0,97,99,1,2,3,1,11,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-67,JC Buttler,IS Sodhi,DJ Malan,1,0,1,98,98,2,3,3,2,11,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-68,DJ Malan,IS Sodhi,JC Buttler,6,0,6,104,92,35,27,3,3,11,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-69,DJ Malan,IS Sodhi,JC Buttler,4,0,4,108,88,39,28,3,4,11,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-70,DJ Malan,IS Sodhi,JC Buttler,1,0,1,109,87,40,29,3,5,11,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-71,JC Buttler,IS Sodhi,DJ Malan,0,0,0,109,87,2,4,4,6,11,-,caught,JC Buttler,TG Southee,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-72,SW Billings,C de Grandhomme,DJ Malan,1,0,1,110,86,1,1,4,1,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-73,DJ Malan,C de Grandhomme,SW Billings,1,0,1,111,85,41,30,4,2,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-74,SW Billings,C de Grandhomme,DJ Malan,0,0,0,111,85,1,2,4,3,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-75,SW Billings,C de Grandhomme,DJ Malan,1,0,1,112,84,2,3,4,4,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-76,DJ Malan,C de Grandhomme,SW Billings,4,0,4,116,80,45,31,4,5,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-77,DJ Malan,C de Grandhomme,SW Billings,1,0,1,117,79,46,32,4,6,12,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-78,DJ Malan,TG Southee,SW Billings,0,0,0,117,79,46,33,4,1,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-79,DJ Malan,TG Southee,SW Billings,1,0,1,118,78,47,34,4,2,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-80,SW Billings,TG Southee,DJ Malan,2,0,2,120,76,4,4,4,3,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-81,SW Billings,TG Southee,DJ Malan,0,0,0,120,76,4,5,4,4,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-82,SW Billings,TG Southee,DJ Malan,4,0,4,124,72,8,6,4,5,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-83,SW Billings,TG Southee,DJ Malan,1,0,1,125,71,9,7,4,6,13,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-84,SW Billings,MJ Santner,DJ Malan,0,0,0,125,71,9,8,4,1,14,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-85,SW Billings,MJ Santner,DJ Malan,1,0,1,126,70,10,9,4,2,14,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-86,DJ Malan,MJ Santner,SW Billings,1,0,1,127,69,48,35,4,3,14,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-87,SW Billings,MJ Santner,DJ Malan,2,0,2,129,67,12,10,4,4,14,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-88,SW Billings,MJ Santner,DJ Malan,0,0,0,129,67,12,11,5,5,14,-,caught,SW Billings,IS Sodhi,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-89,DJ Malan,MJ Santner,DJ Willey,2,0,2,131,65,50,36,5,6,14,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-90,DJ Willey,IS Sodhi,DJ Malan,6,0,6,137,59,6,1,5,1,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-91,DJ Willey,IS Sodhi,DJ Malan,1,0,1,138,58,7,2,5,2,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-92,DJ Malan,IS Sodhi,DJ Willey,1,0,1,139,57,51,37,5,3,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-93,DJ Willey,IS Sodhi,DJ Malan,2,0,2,141,55,9,3,5,4,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-94,DJ Willey,IS Sodhi,DJ Malan,2,0,2,143,53,11,4,5,5,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-95,DJ Willey,IS Sodhi,DJ Malan,6,0,6,149,47,17,5,5,6,15,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-96,DJ Malan,MJ Santner,DJ Willey,2,0,2,151,45,53,38,5,1,16,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-97,DJ Malan,MJ Santner,DJ Willey,0,1,1,152,44,53,39,5,2,16,wides,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-98,DJ Malan,MJ Santner,DJ Willey,6,0,6,158,38,59,40,5,3,16,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-99,DJ Malan,MJ Santner,DJ Willey,0,0,0,158,38,59,41,6,4,16,-,caught,DJ Malan,TA Boult,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-100,DJ Willey,MJ Santner,CJ Jordan,1,0,1,159,37,18,6,6,5,16,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-101,CJ Jordan,MJ Santner,DJ Willey,0,0,0,159,37,0,1,6,6,16,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-102,CJ Jordan,MJ Santner,DJ Willey,1,0,1,160,36,1,2,6,7,16,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-103,CJ Jordan,TA Boult,DJ Willey,0,2,2,162,34,1,3,6,1,17,byes,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-104,CJ Jordan,TA Boult,DJ Willey,1,0,1,163,33,2,4,6,2,17,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-105,DJ Willey,TA Boult,CJ Jordan,1,0,1,164,32,19,7,6,3,17,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-106,CJ Jordan,TA Boult,DJ Willey,4,0,4,168,28,6,5,6,4,17,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-107,CJ Jordan,TA Boult,DJ Willey,0,0,0,168,28,6,6,7,5,17,-,bowled,CJ Jordan,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-108,LE Plunkett,TA Boult,DJ Willey,0,0,0,168,28,0,1,8,6,17,-,bowled,LE Plunkett,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-109,DJ Willey,TG Southee,AU Rashid,1,0,1,169,27,20,8,8,1,18,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-110,AU Rashid,TG Southee,DJ Willey,0,1,1,170,26,0,1,8,2,18,wides,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-111,AU Rashid,TG Southee,DJ Willey,0,0,0,170,26,0,2,8,3,18,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-112,AU Rashid,TG Southee,DJ Willey,1,0,1,171,25,1,3,8,4,18,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-113,DJ Willey,TG Southee,AU Rashid,0,0,0,171,25,20,9,8,5,18,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-114,DJ Willey,TG Southee,AU Rashid,1,0,1,172,24,21,10,8,6,18,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-115,AU Rashid,TG Southee,DJ Willey,0,0,0,172,24,1,4,9,7,18,-,run out,DJ Willey,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-116,AU Rashid,TA Boult,MA Wood,2,0,2,174,22,3,5,9,1,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-117,AU Rashid,TA Boult,MA Wood,1,0,1,175,21,4,6,9,2,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-118,MA Wood,TA Boult,AU Rashid,4,0,4,179,17,4,1,9,3,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-119,MA Wood,TA Boult,AU Rashid,0,0,0,179,17,4,2,9,4,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-120,MA Wood,TA Boult,AU Rashid,1,0,1,180,16,5,3,9,5,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
-121,AU Rashid,TA Boult,MA Wood,4,0,4,184,12,8,7,9,6,19,-,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,1,0,-,1.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+1,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,2,0,-,2.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+2,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,3,0,-,3.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+3,JJ Roy,TA Boult,AD Hales,0,0,0,0,196,0,4,0,-,4.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+4,JJ Roy,TA Boult,AD Hales,4,0,4,4,192,4,5,0,-,5.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+5,JJ Roy,TA Boult,AD Hales,4,0,4,8,188,8,6,0,-,6.0,0,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+6,AD Hales,MJ Santner,JJ Roy,0,0,0,8,188,0,1,0,-,1.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+7,AD Hales,MJ Santner,JJ Roy,1,0,1,9,187,1,2,0,-,2.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+8,JJ Roy,MJ Santner,AD Hales,0,1,1,10,186,8,7,0,legbyes,3.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+9,AD Hales,MJ Santner,JJ Roy,0,0,0,10,186,1,3,0,-,4.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+10,AD Hales,MJ Santner,JJ Roy,4,0,4,14,182,5,4,0,-,5.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+11,AD Hales,MJ Santner,JJ Roy,0,0,0,14,182,5,5,0,-,6.0,1,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+12,JJ Roy,TG Southee,AD Hales,0,0,0,14,182,8,8,1,-,1.0,2,caught,JJ Roy,TA Boult,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+13,DJ Malan,TG Southee,AD Hales,0,0,0,14,182,0,1,1,-,2.0,2,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+14,DJ Malan,TG Southee,AD Hales,0,0,0,14,182,0,2,1,-,3.0,2,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+15,DJ Malan,TG Southee,AD Hales,1,0,1,15,181,1,3,1,-,4.0,2,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+16,AD Hales,TG Southee,DJ Malan,4,0,4,19,177,9,6,1,-,5.0,2,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+17,AD Hales,TG Southee,DJ Malan,4,0,4,23,173,13,7,1,-,6.0,2,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+18,DJ Malan,MJ Santner,AD Hales,1,0,1,24,172,2,4,1,-,1.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+19,AD Hales,MJ Santner,DJ Malan,0,0,0,24,172,13,8,1,-,2.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+20,AD Hales,MJ Santner,DJ Malan,4,0,4,28,168,17,9,1,-,3.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+21,AD Hales,MJ Santner,DJ Malan,2,0,2,30,166,19,10,1,-,4.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+22,AD Hales,MJ Santner,DJ Malan,0,1,1,31,165,19,11,1,legbyes,5.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+23,DJ Malan,MJ Santner,AD Hales,0,0,0,31,165,2,5,1,-,6.0,3,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+24,AD Hales,TA Boult,DJ Malan,6,0,6,37,159,25,12,1,-,1.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+25,AD Hales,TA Boult,DJ Malan,0,0,0,37,159,25,13,1,-,2.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+26,AD Hales,TA Boult,DJ Malan,0,0,0,37,159,25,14,1,-,3.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+27,AD Hales,TA Boult,DJ Malan,4,0,4,41,155,29,15,1,-,4.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+28,AD Hales,TA Boult,DJ Malan,6,0,6,47,149,35,16,1,-,5.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+29,AD Hales,TA Boult,DJ Malan,4,0,4,51,145,39,17,1,-,6.0,4,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+30,DJ Malan,TG Southee,AD Hales,0,0,0,51,145,2,6,1,-,1.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+31,DJ Malan,TG Southee,AD Hales,0,0,0,51,145,2,7,1,-,2.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+32,DJ Malan,TG Southee,AD Hales,1,0,1,52,144,3,8,1,-,3.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+33,AD Hales,TG Southee,DJ Malan,1,0,1,53,143,40,18,1,-,4.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+34,DJ Malan,TG Southee,AD Hales,4,0,4,57,139,7,9,1,-,5.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+35,DJ Malan,TG Southee,AD Hales,3,0,3,60,136,10,10,1,-,6.0,5,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+36,DJ Malan,IS Sodhi,AD Hales,0,0,0,60,136,10,11,1,-,1.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+37,DJ Malan,IS Sodhi,AD Hales,0,0,0,60,136,10,12,1,-,2.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+38,DJ Malan,IS Sodhi,AD Hales,4,0,4,64,132,14,13,1,-,3.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+39,DJ Malan,IS Sodhi,AD Hales,1,0,1,65,131,15,14,1,-,4.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+40,AD Hales,IS Sodhi,DJ Malan,0,0,0,65,131,40,19,1,-,5.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+41,AD Hales,IS Sodhi,DJ Malan,6,0,6,71,125,46,20,1,-,6.0,6,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+42,DJ Malan,C Munro,AD Hales,1,0,1,72,124,16,15,1,-,1.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+43,AD Hales,C Munro,DJ Malan,0,0,0,72,124,46,21,1,-,2.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+44,AD Hales,C Munro,DJ Malan,0,0,0,72,124,46,22,1,-,3.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+45,AD Hales,C Munro,DJ Malan,1,0,1,73,123,47,23,1,-,4.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+46,DJ Malan,C Munro,AD Hales,0,0,0,73,123,16,16,1,-,5.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+47,DJ Malan,C Munro,AD Hales,1,0,1,74,122,17,17,1,-,6.0,7,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+48,DJ Malan,IS Sodhi,AD Hales,4,0,4,78,118,21,18,1,-,1.0,8,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+49,DJ Malan,IS Sodhi,AD Hales,1,0,1,79,117,22,19,1,-,2.0,8,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+50,AD Hales,IS Sodhi,DJ Malan,0,0,0,79,117,47,24,2,-,3.0,8,caught,AD Hales,C de Grandhomme,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+51,JM Vince,IS Sodhi,DJ Malan,0,0,0,79,117,0,1,2,-,4.0,8,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+52,JM Vince,IS Sodhi,DJ Malan,2,0,2,81,115,2,2,2,-,5.0,8,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+53,JM Vince,IS Sodhi,DJ Malan,1,0,1,82,114,3,3,2,-,6.0,8,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+54,JM Vince,C Munro,DJ Malan,0,0,0,82,114,3,4,2,-,1.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+55,JM Vince,C Munro,DJ Malan,6,0,6,88,108,9,5,2,-,2.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+56,JM Vince,C Munro,DJ Malan,1,0,1,89,107,10,6,2,-,3.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+57,DJ Malan,C Munro,JM Vince,0,0,0,89,107,22,20,2,-,4.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+58,DJ Malan,C Munro,JM Vince,0,0,0,89,107,22,21,2,-,5.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+59,DJ Malan,C Munro,JM Vince,1,0,1,90,106,23,22,2,-,6.0,9,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+60,DJ Malan,C de Grandhomme,JM Vince,0,0,0,90,106,23,23,2,-,1.0,10,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+61,DJ Malan,C de Grandhomme,JM Vince,4,0,4,94,102,27,24,2,-,2.0,10,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+62,DJ Malan,C de Grandhomme,JM Vince,1,0,1,95,101,28,25,2,-,3.0,10,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+63,JM Vince,C de Grandhomme,DJ Malan,0,0,0,95,101,10,7,3,-,4.0,10,run out,JM Vince,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+64,DJ Malan,C de Grandhomme,JC Buttler,1,0,1,96,100,29,26,3,-,5.0,10,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+65,JC Buttler,C de Grandhomme,DJ Malan,1,0,1,97,99,1,1,3,-,6.0,10,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+66,JC Buttler,IS Sodhi,DJ Malan,0,0,0,97,99,1,2,3,-,1.0,11,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+67,JC Buttler,IS Sodhi,DJ Malan,1,0,1,98,98,2,3,3,-,2.0,11,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+68,DJ Malan,IS Sodhi,JC Buttler,6,0,6,104,92,35,27,3,-,3.0,11,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+69,DJ Malan,IS Sodhi,JC Buttler,4,0,4,108,88,39,28,3,-,4.0,11,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+70,DJ Malan,IS Sodhi,JC Buttler,1,0,1,109,87,40,29,3,-,5.0,11,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+71,JC Buttler,IS Sodhi,DJ Malan,0,0,0,109,87,2,4,4,-,6.0,11,caught,JC Buttler,TG Southee,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+72,SW Billings,C de Grandhomme,DJ Malan,1,0,1,110,86,1,1,4,-,1.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+73,DJ Malan,C de Grandhomme,SW Billings,1,0,1,111,85,41,30,4,-,2.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+74,SW Billings,C de Grandhomme,DJ Malan,0,0,0,111,85,1,2,4,-,3.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+75,SW Billings,C de Grandhomme,DJ Malan,1,0,1,112,84,2,3,4,-,4.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+76,DJ Malan,C de Grandhomme,SW Billings,4,0,4,116,80,45,31,4,-,5.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+77,DJ Malan,C de Grandhomme,SW Billings,1,0,1,117,79,46,32,4,-,6.0,12,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+78,DJ Malan,TG Southee,SW Billings,0,0,0,117,79,46,33,4,-,1.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+79,DJ Malan,TG Southee,SW Billings,1,0,1,118,78,47,34,4,-,2.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+80,SW Billings,TG Southee,DJ Malan,2,0,2,120,76,4,4,4,-,3.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+81,SW Billings,TG Southee,DJ Malan,0,0,0,120,76,4,5,4,-,4.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+82,SW Billings,TG Southee,DJ Malan,4,0,4,124,72,8,6,4,-,5.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+83,SW Billings,TG Southee,DJ Malan,1,0,1,125,71,9,7,4,-,6.0,13,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+84,SW Billings,MJ Santner,DJ Malan,0,0,0,125,71,9,8,4,-,1.0,14,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+85,SW Billings,MJ Santner,DJ Malan,1,0,1,126,70,10,9,4,-,2.0,14,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+86,DJ Malan,MJ Santner,SW Billings,1,0,1,127,69,48,35,4,-,3.0,14,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+87,SW Billings,MJ Santner,DJ Malan,2,0,2,129,67,12,10,4,-,4.0,14,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+88,SW Billings,MJ Santner,DJ Malan,0,0,0,129,67,12,11,5,-,5.0,14,caught,SW Billings,IS Sodhi,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+89,DJ Malan,MJ Santner,DJ Willey,2,0,2,131,65,50,36,5,-,6.0,14,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+90,DJ Willey,IS Sodhi,DJ Malan,6,0,6,137,59,6,1,5,-,1.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+91,DJ Willey,IS Sodhi,DJ Malan,1,0,1,138,58,7,2,5,-,2.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+92,DJ Malan,IS Sodhi,DJ Willey,1,0,1,139,57,51,37,5,-,3.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+93,DJ Willey,IS Sodhi,DJ Malan,2,0,2,141,55,9,3,5,-,4.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+94,DJ Willey,IS Sodhi,DJ Malan,2,0,2,143,53,11,4,5,-,5.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+95,DJ Willey,IS Sodhi,DJ Malan,6,0,6,149,47,17,5,5,-,6.0,15,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+96,DJ Malan,MJ Santner,DJ Willey,2,0,2,151,45,53,38,5,-,1.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+97,DJ Malan,MJ Santner,DJ Willey,0,1,1,152,44,53,39,5,wides,1.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+98,DJ Malan,MJ Santner,DJ Willey,6,0,6,158,38,59,40,5,-,2.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+99,DJ Malan,MJ Santner,DJ Willey,0,0,0,158,38,59,41,6,-,3.0,16,caught,DJ Malan,TA Boult,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+100,DJ Willey,MJ Santner,CJ Jordan,1,0,1,159,37,18,6,6,-,4.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+101,CJ Jordan,MJ Santner,DJ Willey,0,0,0,159,37,0,1,6,-,5.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+102,CJ Jordan,MJ Santner,DJ Willey,1,0,1,160,36,1,2,6,-,6.0,16,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+103,CJ Jordan,TA Boult,DJ Willey,0,2,2,162,34,1,3,6,byes,1.0,17,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+104,CJ Jordan,TA Boult,DJ Willey,1,0,1,163,33,2,4,6,-,2.0,17,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+105,DJ Willey,TA Boult,CJ Jordan,1,0,1,164,32,19,7,6,-,3.0,17,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+106,CJ Jordan,TA Boult,DJ Willey,4,0,4,168,28,6,5,6,-,4.0,17,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+107,CJ Jordan,TA Boult,DJ Willey,0,0,0,168,28,6,6,7,-,5.0,17,bowled,CJ Jordan,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+108,LE Plunkett,TA Boult,DJ Willey,0,0,0,168,28,0,1,8,-,6.0,17,bowled,LE Plunkett,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+109,DJ Willey,TG Southee,AU Rashid,1,0,1,169,27,20,8,8,-,1.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+110,AU Rashid,TG Southee,DJ Willey,0,1,1,170,26,0,1,8,wides,1.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+111,AU Rashid,TG Southee,DJ Willey,0,0,0,170,26,0,2,8,-,2.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+112,AU Rashid,TG Southee,DJ Willey,1,0,1,171,25,1,3,8,-,3.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+113,DJ Willey,TG Southee,AU Rashid,0,0,0,171,25,20,9,8,-,4.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+114,DJ Willey,TG Southee,AU Rashid,1,0,1,172,24,21,10,8,-,5.0,18,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+115,AU Rashid,TG Southee,DJ Willey,0,0,0,172,24,1,4,9,-,6.0,18,run out,DJ Willey,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+116,AU Rashid,TA Boult,MA Wood,2,0,2,174,22,3,5,9,-,1.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+117,AU Rashid,TA Boult,MA Wood,1,0,1,175,21,4,6,9,-,2.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+118,MA Wood,TA Boult,AU Rashid,4,0,4,179,17,4,1,9,-,3.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+119,MA Wood,TA Boult,AU Rashid,0,0,0,179,17,4,2,9,-,4.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+120,MA Wood,TA Boult,AU Rashid,1,0,1,180,16,5,3,9,-,5.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184
+121,AU Rashid,TA Boult,MA Wood,4,0,4,184,12,8,7,9,-,6.0,19,0,,,field,England,2,Westpac Stadium,2018,02,New Zealand_England_2018-02-13,New Zealand,England,New Zealand,False,184

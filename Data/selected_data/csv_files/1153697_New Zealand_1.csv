@@ -1,129 +1,129 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,TL Seifert,B Kumar,C Munro,0,0,0,0,,0,1,0,1,-,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-1,TL Seifert,B Kumar,C Munro,1,0,1,1,,1,2,0,2,-,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-2,C Munro,B Kumar,TL Seifert,0,0,0,1,,0,1,0,3,-,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-3,C Munro,B Kumar,TL Seifert,0,1,1,2,,0,2,0,4,legbyes,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-4,TL Seifert,B Kumar,C Munro,0,0,0,2,,1,3,0,5,-,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-5,TL Seifert,B Kumar,C Munro,0,1,1,3,,1,4,0,6,wides,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-6,TL Seifert,B Kumar,C Munro,0,0,0,3,,1,5,0,7,-,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-7,C Munro,KK Ahmed,TL Seifert,1,0,1,4,,1,3,0,1,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-8,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,6,0,2,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-9,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,7,0,3,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-10,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,8,0,4,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-11,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,9,0,5,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-12,TL Seifert,KK Ahmed,C Munro,1,0,1,5,,2,10,0,6,-,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-13,TL Seifert,B Kumar,C Munro,4,0,4,9,,6,11,0,1,-,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-14,TL Seifert,B Kumar,C Munro,6,0,6,15,,12,12,0,2,-,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-15,TL Seifert,B Kumar,C Munro,0,0,0,15,,12,13,1,3,-,2,caught,TL Seifert,MS Dhoni,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-16,KS Williamson,B Kumar,C Munro,1,0,1,16,,1,1,1,4,-,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-17,C Munro,B Kumar,KS Williamson,1,0,1,17,,2,4,1,5,-,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-18,KS Williamson,B Kumar,C Munro,0,0,0,17,,1,2,1,6,-,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-19,C Munro,KK Ahmed,KS Williamson,2,0,2,19,,4,5,1,1,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-20,C Munro,KK Ahmed,KS Williamson,0,0,0,19,,4,6,1,2,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-21,C Munro,KK Ahmed,KS Williamson,0,0,0,19,,4,7,1,3,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-22,C Munro,KK Ahmed,KS Williamson,6,0,6,25,,10,8,1,4,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-23,C Munro,KK Ahmed,KS Williamson,1,0,1,26,,11,9,1,5,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-24,KS Williamson,KK Ahmed,C Munro,4,0,4,30,,5,3,1,6,-,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-25,C Munro,HH Pandya,KS Williamson,1,0,1,31,,12,10,1,1,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-26,KS Williamson,HH Pandya,C Munro,4,0,4,35,,9,4,1,2,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-27,KS Williamson,HH Pandya,C Munro,0,0,0,35,,9,5,1,3,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-28,KS Williamson,HH Pandya,C Munro,4,0,4,39,,13,6,1,4,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-29,KS Williamson,HH Pandya,C Munro,1,0,1,40,,14,7,1,5,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-30,C Munro,HH Pandya,KS Williamson,0,0,0,40,,12,11,1,6,-,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-31,KS Williamson,KH Pandya,C Munro,1,0,1,41,,15,8,1,1,-,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-32,C Munro,KH Pandya,KS Williamson,0,0,0,41,,12,12,2,2,-,5,caught,C Munro,RG Sharma,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-33,DJ Mitchell,KH Pandya,KS Williamson,1,0,1,42,,1,1,2,3,-,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-34,KS Williamson,KH Pandya,DJ Mitchell,0,0,0,42,,15,9,2,4,-,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-35,KS Williamson,KH Pandya,DJ Mitchell,1,0,1,43,,16,10,2,5,-,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-36,DJ Mitchell,KH Pandya,KS Williamson,0,0,0,43,,1,2,3,6,-,5,lbw,DJ Mitchell,,"{'by': 'New Zealand', 'umpire': 'CM Brown', 'batter': 'DJ Mitchell', 'decision': 'struck down'}",bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-37,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,44,,17,11,3,1,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-38,LRPL Taylor,YS Chahal,KS Williamson,0,0,0,44,,0,1,3,2,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-39,LRPL Taylor,YS Chahal,KS Williamson,1,0,1,45,,1,2,3,3,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-40,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,46,,18,12,3,4,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-41,LRPL Taylor,YS Chahal,KS Williamson,1,0,1,47,,2,3,3,5,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-42,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,48,,19,13,3,6,-,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-43,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,48,,19,14,3,1,-,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-44,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,48,,19,15,3,2,-,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-45,KS Williamson,KH Pandya,LRPL Taylor,1,0,1,49,,20,16,3,3,-,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-46,LRPL Taylor,KH Pandya,KS Williamson,1,0,1,50,,3,4,3,4,-,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-47,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,50,,20,17,4,5,-,7,lbw,KS Williamson,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-48,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,51,,1,1,4,6,-,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-49,C de Grandhomme,YS Chahal,LRPL Taylor,0,0,0,51,,1,2,4,1,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-50,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,52,,2,3,4,2,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-51,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,53,,4,5,4,3,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-52,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,54,,3,4,4,4,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-53,LRPL Taylor,YS Chahal,C de Grandhomme,0,1,1,55,,4,6,4,5,wides,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-54,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,55,,4,7,4,6,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-55,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,56,,5,8,4,7,-,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-56,LRPL Taylor,KH Pandya,C de Grandhomme,0,0,0,56,,5,9,4,1,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-57,LRPL Taylor,KH Pandya,C de Grandhomme,0,0,0,56,,5,10,4,2,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-58,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,57,,6,11,4,3,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-59,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,58,,4,5,4,4,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-60,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,59,,7,12,4,5,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-61,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,60,,5,6,4,6,-,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-62,C de Grandhomme,YS Chahal,LRPL Taylor,6,0,6,66,,11,7,4,1,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-63,C de Grandhomme,YS Chahal,LRPL Taylor,4,0,4,70,,15,8,4,2,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-64,C de Grandhomme,YS Chahal,LRPL Taylor,6,0,6,76,,21,9,4,3,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-65,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,77,,22,10,4,4,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-66,LRPL Taylor,YS Chahal,C de Grandhomme,2,0,2,79,,9,13,4,5,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-67,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,79,,9,14,4,6,-,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-68,C de Grandhomme,KH Pandya,LRPL Taylor,2,0,2,81,,24,11,4,1,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-69,C de Grandhomme,KH Pandya,LRPL Taylor,6,0,6,87,,30,12,4,2,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-70,C de Grandhomme,KH Pandya,LRPL Taylor,6,0,6,93,,36,13,4,3,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-71,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,94,,37,14,4,4,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-72,LRPL Taylor,KH Pandya,C de Grandhomme,2,0,2,96,,11,15,4,5,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-73,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,97,,12,16,4,6,-,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-74,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,97,,12,17,4,1,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-75,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,98,,13,18,4,2,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-76,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,99,,38,15,4,3,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-77,LRPL Taylor,YS Chahal,C de Grandhomme,4,0,4,103,,17,19,4,4,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-78,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,104,,18,20,4,5,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-79,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,105,,39,16,4,6,-,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-80,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,107,,41,17,4,1,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-81,C de Grandhomme,HH Pandya,LRPL Taylor,0,0,0,107,,41,18,4,2,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-82,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,108,,41,19,4,3,wides,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-83,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,109,,41,20,4,4,wides,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-84,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,110,,42,21,4,5,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-85,LRPL Taylor,HH Pandya,C de Grandhomme,1,0,1,111,,19,21,4,6,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-86,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,113,,44,22,4,7,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-87,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,114,,45,23,4,8,-,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-88,C de Grandhomme,KK Ahmed,LRPL Taylor,0,0,0,114,,45,24,4,1,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-89,C de Grandhomme,KK Ahmed,LRPL Taylor,0,0,0,114,,45,25,4,2,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-90,C de Grandhomme,KK Ahmed,LRPL Taylor,1,0,1,115,,46,26,4,3,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-91,LRPL Taylor,KK Ahmed,C de Grandhomme,4,0,4,119,,23,22,4,4,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-92,LRPL Taylor,KK Ahmed,C de Grandhomme,1,0,1,120,,24,23,4,5,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-93,C de Grandhomme,KK Ahmed,LRPL Taylor,1,0,1,121,,47,27,4,6,-,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-94,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,122,,48,28,4,1,-,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-95,LRPL Taylor,HH Pandya,C de Grandhomme,0,1,1,123,,24,24,4,2,wides,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-96,LRPL Taylor,HH Pandya,C de Grandhomme,1,0,1,124,,25,25,4,3,-,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-97,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,125,,48,29,4,4,wides,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-98,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,127,,50,30,4,5,-,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-99,C de Grandhomme,HH Pandya,LRPL Taylor,0,0,0,127,,50,31,5,6,-,15,caught,C de Grandhomme,RG Sharma,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-100,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,128,,1,1,5,7,-,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-101,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,129,,26,26,5,8,-,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-102,LRPL Taylor,B Kumar,MJ Santner,2,0,2,131,,28,27,5,1,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-103,LRPL Taylor,B Kumar,MJ Santner,1,0,1,132,,29,28,5,2,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-104,MJ Santner,B Kumar,LRPL Taylor,1,0,1,133,,2,2,5,3,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-105,LRPL Taylor,B Kumar,MJ Santner,1,0,1,134,,30,29,5,4,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-106,MJ Santner,B Kumar,LRPL Taylor,1,0,1,135,,3,3,5,5,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-107,LRPL Taylor,B Kumar,MJ Santner,1,0,1,136,,31,30,5,6,-,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-108,LRPL Taylor,HH Pandya,MJ Santner,4,0,4,140,,35,31,5,1,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-109,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,141,,36,32,5,2,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-110,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,142,,4,4,5,3,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-111,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,143,,37,33,5,4,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-112,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,144,,5,5,5,5,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-113,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,145,,38,34,5,6,-,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-114,LRPL Taylor,B Kumar,MJ Santner,1,0,1,146,,39,35,5,1,-,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-115,MJ Santner,B Kumar,LRPL Taylor,1,0,1,147,,6,6,5,2,-,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-116,LRPL Taylor,B Kumar,MJ Santner,2,0,2,149,,41,36,5,3,-,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-117,LRPL Taylor,B Kumar,MJ Santner,0,0,0,149,,41,37,5,4,-,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-118,LRPL Taylor,B Kumar,MJ Santner,0,1,1,150,,41,38,5,5,wides,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-119,LRPL Taylor,B Kumar,MJ Santner,0,1,1,151,,41,39,5,6,wides,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-120,LRPL Taylor,B Kumar,MJ Santner,1,0,1,152,,42,40,5,7,-,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-121,MJ Santner,B Kumar,LRPL Taylor,1,0,1,153,,7,7,6,8,-,18,run out,LRPL Taylor,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-122,SC Kuggeleijn,KK Ahmed,MJ Santner,1,0,1,154,,1,1,6,1,-,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-123,MJ Santner,KK Ahmed,SC Kuggeleijn,0,0,0,154,,7,8,7,2,-,19,bowled,MJ Santner,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-124,TG Southee,KK Ahmed,SC Kuggeleijn,1,0,1,155,,1,1,7,3,-,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-125,SC Kuggeleijn,KK Ahmed,TG Southee,1,0,1,156,,2,2,7,4,-,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-126,TG Southee,KK Ahmed,SC Kuggeleijn,2,0,2,158,,3,2,7,5,-,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
-127,TG Southee,KK Ahmed,SC Kuggeleijn,0,0,0,158,,3,3,8,6,-,19,bowled,TG Southee,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,TL Seifert,B Kumar,C Munro,0,0,0,0,,0,1,0,-,1.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+1,TL Seifert,B Kumar,C Munro,1,0,1,1,,1,2,0,-,2.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+2,C Munro,B Kumar,TL Seifert,0,0,0,1,,0,1,0,-,3.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+3,C Munro,B Kumar,TL Seifert,0,1,1,2,,0,2,0,legbyes,4.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+4,TL Seifert,B Kumar,C Munro,0,0,0,2,,1,3,0,-,5.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+5,TL Seifert,B Kumar,C Munro,0,1,1,3,,1,4,0,wides,5.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+6,TL Seifert,B Kumar,C Munro,0,0,0,3,,1,5,0,-,6.0,0,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+7,C Munro,KK Ahmed,TL Seifert,1,0,1,4,,1,3,0,-,1.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+8,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,6,0,-,2.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+9,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,7,0,-,3.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+10,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,8,0,-,4.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+11,TL Seifert,KK Ahmed,C Munro,0,0,0,4,,1,9,0,-,5.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+12,TL Seifert,KK Ahmed,C Munro,1,0,1,5,,2,10,0,-,6.0,1,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+13,TL Seifert,B Kumar,C Munro,4,0,4,9,,6,11,0,-,1.0,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+14,TL Seifert,B Kumar,C Munro,6,0,6,15,,12,12,0,-,2.0,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+15,TL Seifert,B Kumar,C Munro,0,0,0,15,,12,13,1,-,3.0,2,caught,TL Seifert,MS Dhoni,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+16,KS Williamson,B Kumar,C Munro,1,0,1,16,,1,1,1,-,4.0,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+17,C Munro,B Kumar,KS Williamson,1,0,1,17,,2,4,1,-,5.0,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+18,KS Williamson,B Kumar,C Munro,0,0,0,17,,1,2,1,-,6.0,2,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+19,C Munro,KK Ahmed,KS Williamson,2,0,2,19,,4,5,1,-,1.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+20,C Munro,KK Ahmed,KS Williamson,0,0,0,19,,4,6,1,-,2.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+21,C Munro,KK Ahmed,KS Williamson,0,0,0,19,,4,7,1,-,3.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+22,C Munro,KK Ahmed,KS Williamson,6,0,6,25,,10,8,1,-,4.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+23,C Munro,KK Ahmed,KS Williamson,1,0,1,26,,11,9,1,-,5.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+24,KS Williamson,KK Ahmed,C Munro,4,0,4,30,,5,3,1,-,6.0,3,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+25,C Munro,HH Pandya,KS Williamson,1,0,1,31,,12,10,1,-,1.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+26,KS Williamson,HH Pandya,C Munro,4,0,4,35,,9,4,1,-,2.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+27,KS Williamson,HH Pandya,C Munro,0,0,0,35,,9,5,1,-,3.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+28,KS Williamson,HH Pandya,C Munro,4,0,4,39,,13,6,1,-,4.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+29,KS Williamson,HH Pandya,C Munro,1,0,1,40,,14,7,1,-,5.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+30,C Munro,HH Pandya,KS Williamson,0,0,0,40,,12,11,1,-,6.0,4,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+31,KS Williamson,KH Pandya,C Munro,1,0,1,41,,15,8,1,-,1.0,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+32,C Munro,KH Pandya,KS Williamson,0,0,0,41,,12,12,2,-,2.0,5,caught,C Munro,RG Sharma,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+33,DJ Mitchell,KH Pandya,KS Williamson,1,0,1,42,,1,1,2,-,3.0,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+34,KS Williamson,KH Pandya,DJ Mitchell,0,0,0,42,,15,9,2,-,4.0,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+35,KS Williamson,KH Pandya,DJ Mitchell,1,0,1,43,,16,10,2,-,5.0,5,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+36,DJ Mitchell,KH Pandya,KS Williamson,0,0,0,43,,1,2,3,-,6.0,5,lbw,DJ Mitchell,,"{'by': 'New Zealand', 'umpire': 'CM Brown', 'batter': 'DJ Mitchell', 'decision': 'struck down'}",bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+37,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,44,,17,11,3,-,1.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+38,LRPL Taylor,YS Chahal,KS Williamson,0,0,0,44,,0,1,3,-,2.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+39,LRPL Taylor,YS Chahal,KS Williamson,1,0,1,45,,1,2,3,-,3.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+40,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,46,,18,12,3,-,4.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+41,LRPL Taylor,YS Chahal,KS Williamson,1,0,1,47,,2,3,3,-,5.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+42,KS Williamson,YS Chahal,LRPL Taylor,1,0,1,48,,19,13,3,-,6.0,6,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+43,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,48,,19,14,3,-,1.0,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+44,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,48,,19,15,3,-,2.0,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+45,KS Williamson,KH Pandya,LRPL Taylor,1,0,1,49,,20,16,3,-,3.0,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+46,LRPL Taylor,KH Pandya,KS Williamson,1,0,1,50,,3,4,3,-,4.0,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+47,KS Williamson,KH Pandya,LRPL Taylor,0,0,0,50,,20,17,4,-,5.0,7,lbw,KS Williamson,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+48,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,51,,1,1,4,-,6.0,7,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+49,C de Grandhomme,YS Chahal,LRPL Taylor,0,0,0,51,,1,2,4,-,1.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+50,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,52,,2,3,4,-,2.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+51,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,53,,4,5,4,-,3.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+52,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,54,,3,4,4,-,4.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+53,LRPL Taylor,YS Chahal,C de Grandhomme,0,1,1,55,,4,6,4,wides,4.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+54,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,55,,4,7,4,-,5.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+55,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,56,,5,8,4,-,6.0,8,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+56,LRPL Taylor,KH Pandya,C de Grandhomme,0,0,0,56,,5,9,4,-,1.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+57,LRPL Taylor,KH Pandya,C de Grandhomme,0,0,0,56,,5,10,4,-,2.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+58,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,57,,6,11,4,-,3.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+59,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,58,,4,5,4,-,4.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+60,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,59,,7,12,4,-,5.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+61,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,60,,5,6,4,-,6.0,9,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+62,C de Grandhomme,YS Chahal,LRPL Taylor,6,0,6,66,,11,7,4,-,1.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+63,C de Grandhomme,YS Chahal,LRPL Taylor,4,0,4,70,,15,8,4,-,2.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+64,C de Grandhomme,YS Chahal,LRPL Taylor,6,0,6,76,,21,9,4,-,3.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+65,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,77,,22,10,4,-,4.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+66,LRPL Taylor,YS Chahal,C de Grandhomme,2,0,2,79,,9,13,4,-,5.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+67,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,79,,9,14,4,-,6.0,10,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+68,C de Grandhomme,KH Pandya,LRPL Taylor,2,0,2,81,,24,11,4,-,1.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+69,C de Grandhomme,KH Pandya,LRPL Taylor,6,0,6,87,,30,12,4,-,2.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+70,C de Grandhomme,KH Pandya,LRPL Taylor,6,0,6,93,,36,13,4,-,3.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+71,C de Grandhomme,KH Pandya,LRPL Taylor,1,0,1,94,,37,14,4,-,4.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+72,LRPL Taylor,KH Pandya,C de Grandhomme,2,0,2,96,,11,15,4,-,5.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+73,LRPL Taylor,KH Pandya,C de Grandhomme,1,0,1,97,,12,16,4,-,6.0,11,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+74,LRPL Taylor,YS Chahal,C de Grandhomme,0,0,0,97,,12,17,4,-,1.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+75,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,98,,13,18,4,-,2.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+76,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,99,,38,15,4,-,3.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+77,LRPL Taylor,YS Chahal,C de Grandhomme,4,0,4,103,,17,19,4,-,4.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+78,LRPL Taylor,YS Chahal,C de Grandhomme,1,0,1,104,,18,20,4,-,5.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+79,C de Grandhomme,YS Chahal,LRPL Taylor,1,0,1,105,,39,16,4,-,6.0,12,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+80,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,107,,41,17,4,-,1.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+81,C de Grandhomme,HH Pandya,LRPL Taylor,0,0,0,107,,41,18,4,-,2.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+82,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,108,,41,19,4,wides,2.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+83,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,109,,41,20,4,wides,2.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+84,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,110,,42,21,4,-,3.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+85,LRPL Taylor,HH Pandya,C de Grandhomme,1,0,1,111,,19,21,4,-,4.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+86,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,113,,44,22,4,-,5.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+87,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,114,,45,23,4,-,6.0,13,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+88,C de Grandhomme,KK Ahmed,LRPL Taylor,0,0,0,114,,45,24,4,-,1.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+89,C de Grandhomme,KK Ahmed,LRPL Taylor,0,0,0,114,,45,25,4,-,2.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+90,C de Grandhomme,KK Ahmed,LRPL Taylor,1,0,1,115,,46,26,4,-,3.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+91,LRPL Taylor,KK Ahmed,C de Grandhomme,4,0,4,119,,23,22,4,-,4.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+92,LRPL Taylor,KK Ahmed,C de Grandhomme,1,0,1,120,,24,23,4,-,5.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+93,C de Grandhomme,KK Ahmed,LRPL Taylor,1,0,1,121,,47,27,4,-,6.0,14,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+94,C de Grandhomme,HH Pandya,LRPL Taylor,1,0,1,122,,48,28,4,-,1.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+95,LRPL Taylor,HH Pandya,C de Grandhomme,0,1,1,123,,24,24,4,wides,1.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+96,LRPL Taylor,HH Pandya,C de Grandhomme,1,0,1,124,,25,25,4,-,2.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+97,C de Grandhomme,HH Pandya,LRPL Taylor,0,1,1,125,,48,29,4,wides,2.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+98,C de Grandhomme,HH Pandya,LRPL Taylor,2,0,2,127,,50,30,4,-,3.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+99,C de Grandhomme,HH Pandya,LRPL Taylor,0,0,0,127,,50,31,5,-,4.0,15,caught,C de Grandhomme,RG Sharma,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+100,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,128,,1,1,5,-,5.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+101,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,129,,26,26,5,-,6.0,15,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+102,LRPL Taylor,B Kumar,MJ Santner,2,0,2,131,,28,27,5,-,1.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+103,LRPL Taylor,B Kumar,MJ Santner,1,0,1,132,,29,28,5,-,2.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+104,MJ Santner,B Kumar,LRPL Taylor,1,0,1,133,,2,2,5,-,3.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+105,LRPL Taylor,B Kumar,MJ Santner,1,0,1,134,,30,29,5,-,4.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+106,MJ Santner,B Kumar,LRPL Taylor,1,0,1,135,,3,3,5,-,5.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+107,LRPL Taylor,B Kumar,MJ Santner,1,0,1,136,,31,30,5,-,6.0,16,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+108,LRPL Taylor,HH Pandya,MJ Santner,4,0,4,140,,35,31,5,-,1.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+109,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,141,,36,32,5,-,2.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+110,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,142,,4,4,5,-,3.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+111,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,143,,37,33,5,-,4.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+112,MJ Santner,HH Pandya,LRPL Taylor,1,0,1,144,,5,5,5,-,5.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+113,LRPL Taylor,HH Pandya,MJ Santner,1,0,1,145,,38,34,5,-,6.0,17,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+114,LRPL Taylor,B Kumar,MJ Santner,1,0,1,146,,39,35,5,-,1.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+115,MJ Santner,B Kumar,LRPL Taylor,1,0,1,147,,6,6,5,-,2.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+116,LRPL Taylor,B Kumar,MJ Santner,2,0,2,149,,41,36,5,-,3.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+117,LRPL Taylor,B Kumar,MJ Santner,0,0,0,149,,41,37,5,-,4.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+118,LRPL Taylor,B Kumar,MJ Santner,0,1,1,150,,41,38,5,wides,4.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+119,LRPL Taylor,B Kumar,MJ Santner,0,1,1,151,,41,39,5,wides,4.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+120,LRPL Taylor,B Kumar,MJ Santner,1,0,1,152,,42,40,5,-,5.0,18,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+121,MJ Santner,B Kumar,LRPL Taylor,1,0,1,153,,7,7,6,-,6.0,18,run out,LRPL Taylor,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+122,SC Kuggeleijn,KK Ahmed,MJ Santner,1,0,1,154,,1,1,6,-,1.0,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+123,MJ Santner,KK Ahmed,SC Kuggeleijn,0,0,0,154,,7,8,7,-,2.0,19,bowled,MJ Santner,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+124,TG Southee,KK Ahmed,SC Kuggeleijn,1,0,1,155,,1,1,7,-,3.0,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+125,SC Kuggeleijn,KK Ahmed,TG Southee,1,0,1,156,,2,2,7,-,4.0,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+126,TG Southee,KK Ahmed,SC Kuggeleijn,2,0,2,158,,3,2,7,-,5.0,19,0,,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158
+127,TG Southee,KK Ahmed,SC Kuggeleijn,0,0,0,158,,3,3,8,-,6.0,19,bowled,TG Southee,,,bat,New Zealand,1,Eden Park,2019,02,New Zealand_India_2019-02-08,India,New Zealand,India,False,158

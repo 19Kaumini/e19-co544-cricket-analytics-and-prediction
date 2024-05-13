@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,1,0,1,0,,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-1,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,2,0,2,0,,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-2,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,3,1,3,bowled,RE Levi,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-3,JH Kallis,XJ Doherty,HM Amla,1,0,1,1,,1,1,1,4,0,,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-4,HM Amla,XJ Doherty,JH Kallis,1,0,1,2,,1,1,1,5,0,,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-5,JH Kallis,XJ Doherty,HM Amla,0,0,0,2,,1,2,1,6,0,,,0,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-6,HM Amla,MA Starc,JH Kallis,0,0,0,2,,1,2,1,1,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-7,HM Amla,MA Starc,JH Kallis,1,0,1,3,,2,3,1,2,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-8,JH Kallis,MA Starc,HM Amla,0,0,0,3,,1,3,1,3,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-9,JH Kallis,MA Starc,HM Amla,0,0,0,3,,1,4,1,4,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-10,JH Kallis,MA Starc,HM Amla,4,0,4,7,,5,5,1,5,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-11,JH Kallis,MA Starc,HM Amla,1,0,1,8,,6,6,1,6,0,,,1,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-12,JH Kallis,XJ Doherty,HM Amla,0,0,0,8,,6,7,2,1,caught,JH Kallis,MS Wade,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-13,JP Duminy,XJ Doherty,HM Amla,0,0,0,8,,0,1,2,2,0,,,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-14,JP Duminy,XJ Doherty,HM Amla,1,0,1,9,,1,2,2,3,0,,,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-15,HM Amla,XJ Doherty,JP Duminy,6,0,6,15,,8,4,2,4,0,,,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-16,HM Amla,XJ Doherty,JP Duminy,0,0,0,15,,8,5,2,5,0,,,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-17,HM Amla,XJ Doherty,JP Duminy,1,0,1,16,,9,6,2,6,0,,,2,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-18,HM Amla,MA Starc,JP Duminy,0,0,0,16,,9,7,2,1,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-19,HM Amla,MA Starc,JP Duminy,0,0,0,16,,9,8,2,2,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-20,HM Amla,MA Starc,JP Duminy,1,0,1,17,,10,9,2,3,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-21,JP Duminy,MA Starc,HM Amla,0,1,1,18,,1,3,2,4,0,,,3,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-22,JP Duminy,MA Starc,HM Amla,0,0,0,18,,1,4,2,5,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-23,JP Duminy,MA Starc,HM Amla,0,0,0,18,,1,5,2,6,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-24,JP Duminy,MA Starc,HM Amla,4,0,4,22,,5,6,2,7,0,,,3,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-25,HM Amla,PJ Cummins,JP Duminy,1,0,1,23,,11,10,2,1,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-26,JP Duminy,PJ Cummins,HM Amla,0,0,0,23,,5,7,2,2,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-27,JP Duminy,PJ Cummins,HM Amla,1,0,1,24,,6,8,2,3,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-28,HM Amla,PJ Cummins,JP Duminy,4,0,4,28,,15,11,2,4,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-29,HM Amla,PJ Cummins,JP Duminy,1,0,1,29,,16,12,2,5,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-30,JP Duminy,PJ Cummins,HM Amla,1,0,1,30,,7,9,2,6,0,,,4,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-31,JP Duminy,SR Watson,HM Amla,1,0,1,31,,8,10,2,1,0,,,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-32,HM Amla,SR Watson,JP Duminy,1,0,1,32,,17,13,2,2,0,,,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-33,JP Duminy,SR Watson,HM Amla,1,0,1,33,,9,11,2,3,0,,,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-34,HM Amla,SR Watson,JP Duminy,0,0,0,33,,17,14,2,4,0,,,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-35,HM Amla,SR Watson,JP Duminy,0,0,0,33,,17,15,3,5,caught,HM Amla,MS Wade,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-36,AB de Villiers,SR Watson,JP Duminy,1,0,1,34,,1,1,3,6,0,,,5,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-37,AB de Villiers,PJ Cummins,JP Duminy,0,0,0,34,,1,2,3,1,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-38,AB de Villiers,PJ Cummins,JP Duminy,0,0,0,34,,1,3,3,2,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-39,AB de Villiers,PJ Cummins,JP Duminy,0,1,1,35,,1,4,3,3,0,,,6,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-40,AB de Villiers,PJ Cummins,JP Duminy,1,0,1,36,,2,5,3,4,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-41,JP Duminy,PJ Cummins,AB de Villiers,4,0,4,40,,13,12,3,5,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-42,JP Duminy,PJ Cummins,AB de Villiers,1,0,1,41,,14,13,3,6,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-43,AB de Villiers,PJ Cummins,JP Duminy,1,0,1,42,,3,6,3,7,0,,,6,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-44,AB de Villiers,GB Hogg,JP Duminy,1,0,1,43,,4,7,3,1,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-45,JP Duminy,GB Hogg,AB de Villiers,4,0,4,47,,18,14,3,2,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-46,JP Duminy,GB Hogg,AB de Villiers,1,0,1,48,,19,15,3,3,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-47,AB de Villiers,GB Hogg,JP Duminy,1,0,1,49,,5,8,3,4,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-48,JP Duminy,GB Hogg,AB de Villiers,0,0,0,49,,19,16,3,5,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-49,JP Duminy,GB Hogg,AB de Villiers,0,0,0,49,,19,17,3,6,0,,,7,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-50,AB de Villiers,SR Watson,JP Duminy,1,0,1,50,,6,9,3,1,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-51,JP Duminy,SR Watson,AB de Villiers,0,0,0,50,,19,18,3,2,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-52,JP Duminy,SR Watson,AB de Villiers,4,0,4,54,,23,19,3,3,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-53,JP Duminy,SR Watson,AB de Villiers,1,0,1,55,,24,20,3,4,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-54,AB de Villiers,SR Watson,JP Duminy,1,0,1,56,,7,10,3,5,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-55,JP Duminy,SR Watson,AB de Villiers,1,0,1,57,,25,21,3,6,0,,,8,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-56,JP Duminy,GJ Maxwell,AB de Villiers,2,0,2,59,,27,22,3,1,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-57,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,60,,28,23,3,2,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-58,AB de Villiers,GJ Maxwell,JP Duminy,1,0,1,61,,8,11,3,3,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-59,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,62,,29,24,3,4,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-60,AB de Villiers,GJ Maxwell,JP Duminy,1,0,1,63,,9,12,3,5,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-61,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,64,,30,25,3,6,0,,,9,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-62,JP Duminy,XJ Doherty,AB de Villiers,0,0,0,64,,30,26,4,1,stumped,JP Duminy,MS Wade,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-63,F Behardien,XJ Doherty,AB de Villiers,1,0,1,65,,1,1,4,2,0,,,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-64,AB de Villiers,XJ Doherty,F Behardien,1,0,1,66,,10,13,4,3,0,,,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-65,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,2,4,4,0,,,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-66,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,3,4,5,0,,,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-67,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,4,4,6,0,,,10,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-68,AB de Villiers,GB Hogg,F Behardien,2,0,2,68,,12,14,4,1,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-69,AB de Villiers,GB Hogg,F Behardien,1,0,1,69,,13,15,4,2,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-70,F Behardien,GB Hogg,AB de Villiers,1,0,1,70,,2,5,4,3,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-71,AB de Villiers,GB Hogg,F Behardien,1,0,1,71,,14,16,4,4,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-72,F Behardien,GB Hogg,AB de Villiers,1,0,1,72,,3,6,4,5,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-73,AB de Villiers,GB Hogg,F Behardien,1,0,1,73,,15,17,4,6,0,,,11,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-74,AB de Villiers,MA Starc,F Behardien,1,0,1,74,,16,18,4,1,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-75,F Behardien,MA Starc,AB de Villiers,1,0,1,75,,4,7,4,2,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-76,AB de Villiers,MA Starc,F Behardien,2,0,2,77,,18,19,4,3,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-77,AB de Villiers,MA Starc,F Behardien,0,0,0,77,,18,20,4,4,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-78,AB de Villiers,MA Starc,F Behardien,0,0,0,77,,18,21,4,5,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-79,AB de Villiers,MA Starc,F Behardien,1,0,1,78,,19,22,4,6,0,,,12,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-80,AB de Villiers,XJ Doherty,F Behardien,0,2,2,80,,19,23,4,1,0,,,13,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-81,F Behardien,XJ Doherty,AB de Villiers,2,0,2,82,,6,8,4,2,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-82,F Behardien,XJ Doherty,AB de Villiers,0,0,0,82,,6,9,4,3,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-83,F Behardien,XJ Doherty,AB de Villiers,1,0,1,83,,7,10,4,4,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-84,AB de Villiers,XJ Doherty,F Behardien,1,0,1,84,,20,24,4,5,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-85,F Behardien,XJ Doherty,AB de Villiers,1,0,1,85,,8,11,4,6,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-86,AB de Villiers,XJ Doherty,F Behardien,1,0,1,86,,21,25,4,7,0,,,13,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-87,AB de Villiers,SR Watson,F Behardien,0,0,0,86,,21,26,5,1,caught,AB de Villiers,GJ Bailey,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-88,RJ Peterson,SR Watson,F Behardien,1,0,1,87,,1,1,5,2,0,,,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-89,F Behardien,SR Watson,RJ Peterson,0,0,0,87,,8,12,5,3,0,,,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-90,F Behardien,SR Watson,RJ Peterson,4,0,4,91,,12,13,5,4,0,,,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-91,F Behardien,SR Watson,RJ Peterson,0,0,0,91,,12,14,5,5,0,,,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-92,F Behardien,SR Watson,RJ Peterson,1,0,1,92,,13,15,5,6,0,,,14,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-93,F Behardien,GB Hogg,RJ Peterson,0,2,2,94,,13,16,5,1,0,,,15,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-94,RJ Peterson,GB Hogg,F Behardien,4,0,4,98,,5,2,5,2,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-95,RJ Peterson,GB Hogg,F Behardien,1,0,1,99,,6,3,5,3,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-96,F Behardien,GB Hogg,RJ Peterson,0,0,0,99,,13,17,5,4,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-97,F Behardien,GB Hogg,RJ Peterson,0,0,0,99,,13,18,5,5,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-98,F Behardien,GB Hogg,RJ Peterson,1,0,1,100,,14,19,5,6,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-99,RJ Peterson,GB Hogg,F Behardien,4,0,4,104,,10,4,5,7,0,,,15,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-100,F Behardien,PJ Cummins,RJ Peterson,1,0,1,105,,15,20,5,1,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-101,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,5,5,2,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-102,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,6,5,3,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-103,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,7,5,4,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-104,RJ Peterson,PJ Cummins,F Behardien,1,0,1,106,,11,8,5,5,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-105,F Behardien,PJ Cummins,RJ Peterson,1,0,1,107,,16,21,5,6,0,,,16,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-106,F Behardien,SR Watson,RJ Peterson,1,0,1,108,,17,22,5,1,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-107,RJ Peterson,SR Watson,F Behardien,1,0,1,109,,12,9,5,2,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-108,F Behardien,SR Watson,RJ Peterson,0,1,1,110,,17,23,5,3,0,,,17,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-109,F Behardien,SR Watson,RJ Peterson,1,0,1,111,,18,24,5,4,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-110,RJ Peterson,SR Watson,F Behardien,4,0,4,115,,16,10,5,5,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-111,RJ Peterson,SR Watson,F Behardien,1,0,1,116,,17,11,5,6,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-112,F Behardien,SR Watson,RJ Peterson,2,0,2,118,,20,25,5,7,0,,,17,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-113,RJ Peterson,PJ Cummins,F Behardien,0,0,0,118,,17,12,5,1,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-114,RJ Peterson,PJ Cummins,F Behardien,2,0,2,120,,19,13,5,2,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-115,RJ Peterson,PJ Cummins,F Behardien,1,0,1,121,,20,14,5,3,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-116,F Behardien,PJ Cummins,RJ Peterson,4,0,4,125,,24,26,5,4,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-117,F Behardien,PJ Cummins,RJ Peterson,0,0,0,125,,24,27,5,5,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-118,F Behardien,PJ Cummins,RJ Peterson,0,1,1,126,,24,28,5,6,0,,,18,wides,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-119,F Behardien,PJ Cummins,RJ Peterson,6,0,6,132,,30,29,5,7,0,,,18,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-120,RJ Peterson,MA Starc,F Behardien,4,0,4,136,,24,15,5,1,0,,,19,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-121,RJ Peterson,MA Starc,F Behardien,4,0,4,140,,28,16,5,2,0,,,19,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-122,RJ Peterson,MA Starc,F Behardien,0,0,0,140,,28,17,5,3,0,,,19,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-123,RJ Peterson,MA Starc,F Behardien,4,0,4,144,,32,18,5,4,0,,,19,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-124,RJ Peterson,MA Starc,F Behardien,0,1,1,145,,32,19,5,5,0,,,19,byes,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
-125,F Behardien,MA Starc,RJ Peterson,1,0,1,146,,31,30,5,6,0,,,19,-,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,1,0,-,1.0,0,,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+1,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,2,0,-,2.0,0,,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+2,RE Levi,XJ Doherty,HM Amla,0,0,0,0,,0,3,1,-,3.0,bowled,RE Levi,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+3,JH Kallis,XJ Doherty,HM Amla,1,0,1,1,,1,1,1,-,4.0,0,,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+4,HM Amla,XJ Doherty,JH Kallis,1,0,1,2,,1,1,1,-,5.0,0,,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+5,JH Kallis,XJ Doherty,HM Amla,0,0,0,2,,1,2,1,-,6.0,0,,,0,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+6,HM Amla,MA Starc,JH Kallis,0,0,0,2,,1,2,1,-,1.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+7,HM Amla,MA Starc,JH Kallis,1,0,1,3,,2,3,1,-,2.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+8,JH Kallis,MA Starc,HM Amla,0,0,0,3,,1,3,1,-,3.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+9,JH Kallis,MA Starc,HM Amla,0,0,0,3,,1,4,1,-,4.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+10,JH Kallis,MA Starc,HM Amla,4,0,4,7,,5,5,1,-,5.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+11,JH Kallis,MA Starc,HM Amla,1,0,1,8,,6,6,1,-,6.0,0,,,1,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+12,JH Kallis,XJ Doherty,HM Amla,0,0,0,8,,6,7,2,-,1.0,caught,JH Kallis,MS Wade,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+13,JP Duminy,XJ Doherty,HM Amla,0,0,0,8,,0,1,2,-,2.0,0,,,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+14,JP Duminy,XJ Doherty,HM Amla,1,0,1,9,,1,2,2,-,3.0,0,,,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+15,HM Amla,XJ Doherty,JP Duminy,6,0,6,15,,8,4,2,-,4.0,0,,,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+16,HM Amla,XJ Doherty,JP Duminy,0,0,0,15,,8,5,2,-,5.0,0,,,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+17,HM Amla,XJ Doherty,JP Duminy,1,0,1,16,,9,6,2,-,6.0,0,,,2,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+18,HM Amla,MA Starc,JP Duminy,0,0,0,16,,9,7,2,-,1.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+19,HM Amla,MA Starc,JP Duminy,0,0,0,16,,9,8,2,-,2.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+20,HM Amla,MA Starc,JP Duminy,1,0,1,17,,10,9,2,-,3.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+21,JP Duminy,MA Starc,HM Amla,0,1,1,18,,1,3,2,wides,3.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+22,JP Duminy,MA Starc,HM Amla,0,0,0,18,,1,4,2,-,4.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+23,JP Duminy,MA Starc,HM Amla,0,0,0,18,,1,5,2,-,5.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+24,JP Duminy,MA Starc,HM Amla,4,0,4,22,,5,6,2,-,6.0,0,,,3,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+25,HM Amla,PJ Cummins,JP Duminy,1,0,1,23,,11,10,2,-,1.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+26,JP Duminy,PJ Cummins,HM Amla,0,0,0,23,,5,7,2,-,2.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+27,JP Duminy,PJ Cummins,HM Amla,1,0,1,24,,6,8,2,-,3.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+28,HM Amla,PJ Cummins,JP Duminy,4,0,4,28,,15,11,2,-,4.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+29,HM Amla,PJ Cummins,JP Duminy,1,0,1,29,,16,12,2,-,5.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+30,JP Duminy,PJ Cummins,HM Amla,1,0,1,30,,7,9,2,-,6.0,0,,,4,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+31,JP Duminy,SR Watson,HM Amla,1,0,1,31,,8,10,2,-,1.0,0,,,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+32,HM Amla,SR Watson,JP Duminy,1,0,1,32,,17,13,2,-,2.0,0,,,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+33,JP Duminy,SR Watson,HM Amla,1,0,1,33,,9,11,2,-,3.0,0,,,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+34,HM Amla,SR Watson,JP Duminy,0,0,0,33,,17,14,2,-,4.0,0,,,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+35,HM Amla,SR Watson,JP Duminy,0,0,0,33,,17,15,3,-,5.0,caught,HM Amla,MS Wade,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+36,AB de Villiers,SR Watson,JP Duminy,1,0,1,34,,1,1,3,-,6.0,0,,,5,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+37,AB de Villiers,PJ Cummins,JP Duminy,0,0,0,34,,1,2,3,-,1.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+38,AB de Villiers,PJ Cummins,JP Duminy,0,0,0,34,,1,3,3,-,2.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+39,AB de Villiers,PJ Cummins,JP Duminy,0,1,1,35,,1,4,3,wides,2.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+40,AB de Villiers,PJ Cummins,JP Duminy,1,0,1,36,,2,5,3,-,3.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+41,JP Duminy,PJ Cummins,AB de Villiers,4,0,4,40,,13,12,3,-,4.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+42,JP Duminy,PJ Cummins,AB de Villiers,1,0,1,41,,14,13,3,-,5.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+43,AB de Villiers,PJ Cummins,JP Duminy,1,0,1,42,,3,6,3,-,6.0,0,,,6,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+44,AB de Villiers,GB Hogg,JP Duminy,1,0,1,43,,4,7,3,-,1.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+45,JP Duminy,GB Hogg,AB de Villiers,4,0,4,47,,18,14,3,-,2.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+46,JP Duminy,GB Hogg,AB de Villiers,1,0,1,48,,19,15,3,-,3.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+47,AB de Villiers,GB Hogg,JP Duminy,1,0,1,49,,5,8,3,-,4.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+48,JP Duminy,GB Hogg,AB de Villiers,0,0,0,49,,19,16,3,-,5.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+49,JP Duminy,GB Hogg,AB de Villiers,0,0,0,49,,19,17,3,-,6.0,0,,,7,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+50,AB de Villiers,SR Watson,JP Duminy,1,0,1,50,,6,9,3,-,1.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+51,JP Duminy,SR Watson,AB de Villiers,0,0,0,50,,19,18,3,-,2.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+52,JP Duminy,SR Watson,AB de Villiers,4,0,4,54,,23,19,3,-,3.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+53,JP Duminy,SR Watson,AB de Villiers,1,0,1,55,,24,20,3,-,4.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+54,AB de Villiers,SR Watson,JP Duminy,1,0,1,56,,7,10,3,-,5.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+55,JP Duminy,SR Watson,AB de Villiers,1,0,1,57,,25,21,3,-,6.0,0,,,8,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+56,JP Duminy,GJ Maxwell,AB de Villiers,2,0,2,59,,27,22,3,-,1.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+57,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,60,,28,23,3,-,2.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+58,AB de Villiers,GJ Maxwell,JP Duminy,1,0,1,61,,8,11,3,-,3.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+59,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,62,,29,24,3,-,4.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+60,AB de Villiers,GJ Maxwell,JP Duminy,1,0,1,63,,9,12,3,-,5.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+61,JP Duminy,GJ Maxwell,AB de Villiers,1,0,1,64,,30,25,3,-,6.0,0,,,9,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+62,JP Duminy,XJ Doherty,AB de Villiers,0,0,0,64,,30,26,4,-,1.0,stumped,JP Duminy,MS Wade,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+63,F Behardien,XJ Doherty,AB de Villiers,1,0,1,65,,1,1,4,-,2.0,0,,,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+64,AB de Villiers,XJ Doherty,F Behardien,1,0,1,66,,10,13,4,-,3.0,0,,,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+65,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,2,4,-,4.0,0,,,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+66,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,3,4,-,5.0,0,,,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+67,F Behardien,XJ Doherty,AB de Villiers,0,0,0,66,,1,4,4,-,6.0,0,,,10,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+68,AB de Villiers,GB Hogg,F Behardien,2,0,2,68,,12,14,4,-,1.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+69,AB de Villiers,GB Hogg,F Behardien,1,0,1,69,,13,15,4,-,2.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+70,F Behardien,GB Hogg,AB de Villiers,1,0,1,70,,2,5,4,-,3.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+71,AB de Villiers,GB Hogg,F Behardien,1,0,1,71,,14,16,4,-,4.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+72,F Behardien,GB Hogg,AB de Villiers,1,0,1,72,,3,6,4,-,5.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+73,AB de Villiers,GB Hogg,F Behardien,1,0,1,73,,15,17,4,-,6.0,0,,,11,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+74,AB de Villiers,MA Starc,F Behardien,1,0,1,74,,16,18,4,-,1.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+75,F Behardien,MA Starc,AB de Villiers,1,0,1,75,,4,7,4,-,2.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+76,AB de Villiers,MA Starc,F Behardien,2,0,2,77,,18,19,4,-,3.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+77,AB de Villiers,MA Starc,F Behardien,0,0,0,77,,18,20,4,-,4.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+78,AB de Villiers,MA Starc,F Behardien,0,0,0,77,,18,21,4,-,5.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+79,AB de Villiers,MA Starc,F Behardien,1,0,1,78,,19,22,4,-,6.0,0,,,12,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+80,AB de Villiers,XJ Doherty,F Behardien,0,2,2,80,,19,23,4,wides,0.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+81,F Behardien,XJ Doherty,AB de Villiers,2,0,2,82,,6,8,4,-,1.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+82,F Behardien,XJ Doherty,AB de Villiers,0,0,0,82,,6,9,4,-,2.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+83,F Behardien,XJ Doherty,AB de Villiers,1,0,1,83,,7,10,4,-,3.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+84,AB de Villiers,XJ Doherty,F Behardien,1,0,1,84,,20,24,4,-,4.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+85,F Behardien,XJ Doherty,AB de Villiers,1,0,1,85,,8,11,4,-,5.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+86,AB de Villiers,XJ Doherty,F Behardien,1,0,1,86,,21,25,4,-,6.0,0,,,13,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+87,AB de Villiers,SR Watson,F Behardien,0,0,0,86,,21,26,5,-,1.0,caught,AB de Villiers,GJ Bailey,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+88,RJ Peterson,SR Watson,F Behardien,1,0,1,87,,1,1,5,-,2.0,0,,,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+89,F Behardien,SR Watson,RJ Peterson,0,0,0,87,,8,12,5,-,3.0,0,,,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+90,F Behardien,SR Watson,RJ Peterson,4,0,4,91,,12,13,5,-,4.0,0,,,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+91,F Behardien,SR Watson,RJ Peterson,0,0,0,91,,12,14,5,-,5.0,0,,,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+92,F Behardien,SR Watson,RJ Peterson,1,0,1,92,,13,15,5,-,6.0,0,,,14,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+93,F Behardien,GB Hogg,RJ Peterson,0,2,2,94,,13,16,5,wides,0.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+94,RJ Peterson,GB Hogg,F Behardien,4,0,4,98,,5,2,5,-,1.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+95,RJ Peterson,GB Hogg,F Behardien,1,0,1,99,,6,3,5,-,2.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+96,F Behardien,GB Hogg,RJ Peterson,0,0,0,99,,13,17,5,-,3.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+97,F Behardien,GB Hogg,RJ Peterson,0,0,0,99,,13,18,5,-,4.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+98,F Behardien,GB Hogg,RJ Peterson,1,0,1,100,,14,19,5,-,5.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+99,RJ Peterson,GB Hogg,F Behardien,4,0,4,104,,10,4,5,-,6.0,0,,,15,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+100,F Behardien,PJ Cummins,RJ Peterson,1,0,1,105,,15,20,5,-,1.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+101,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,5,5,-,2.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+102,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,6,5,-,3.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+103,RJ Peterson,PJ Cummins,F Behardien,0,0,0,105,,10,7,5,-,4.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+104,RJ Peterson,PJ Cummins,F Behardien,1,0,1,106,,11,8,5,-,5.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+105,F Behardien,PJ Cummins,RJ Peterson,1,0,1,107,,16,21,5,-,6.0,0,,,16,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+106,F Behardien,SR Watson,RJ Peterson,1,0,1,108,,17,22,5,-,1.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+107,RJ Peterson,SR Watson,F Behardien,1,0,1,109,,12,9,5,-,2.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+108,F Behardien,SR Watson,RJ Peterson,0,1,1,110,,17,23,5,wides,2.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+109,F Behardien,SR Watson,RJ Peterson,1,0,1,111,,18,24,5,-,3.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+110,RJ Peterson,SR Watson,F Behardien,4,0,4,115,,16,10,5,-,4.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+111,RJ Peterson,SR Watson,F Behardien,1,0,1,116,,17,11,5,-,5.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+112,F Behardien,SR Watson,RJ Peterson,2,0,2,118,,20,25,5,-,6.0,0,,,17,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+113,RJ Peterson,PJ Cummins,F Behardien,0,0,0,118,,17,12,5,-,1.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+114,RJ Peterson,PJ Cummins,F Behardien,2,0,2,120,,19,13,5,-,2.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+115,RJ Peterson,PJ Cummins,F Behardien,1,0,1,121,,20,14,5,-,3.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+116,F Behardien,PJ Cummins,RJ Peterson,4,0,4,125,,24,26,5,-,4.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+117,F Behardien,PJ Cummins,RJ Peterson,0,0,0,125,,24,27,5,-,5.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+118,F Behardien,PJ Cummins,RJ Peterson,0,1,1,126,,24,28,5,wides,5.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+119,F Behardien,PJ Cummins,RJ Peterson,6,0,6,132,,30,29,5,-,6.0,0,,,18,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+120,RJ Peterson,MA Starc,F Behardien,4,0,4,136,,24,15,5,-,1.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+121,RJ Peterson,MA Starc,F Behardien,4,0,4,140,,28,16,5,-,2.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+122,RJ Peterson,MA Starc,F Behardien,0,0,0,140,,28,17,5,-,3.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+123,RJ Peterson,MA Starc,F Behardien,4,0,4,144,,32,18,5,-,4.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+124,RJ Peterson,MA Starc,F Behardien,0,1,1,145,,32,19,5,byes,5.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146
+125,F Behardien,MA Starc,RJ Peterson,1,0,1,146,,31,30,5,-,6.0,0,,,19,field,Australia,1,R Premadasa Stadium,2012,09,Australia_South Africa_2012-09-30,Australia,South Africa,Australia,False,146

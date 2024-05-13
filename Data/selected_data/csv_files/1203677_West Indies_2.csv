@@ -1,14 +1,14 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,LMP Simmons,PR Stirling,E Lewis,0,0,0,0,147,0,1,0,1,0,,,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-1,LMP Simmons,PR Stirling,E Lewis,6,0,6,6,141,6,2,0,2,0,,,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-2,LMP Simmons,PR Stirling,E Lewis,0,0,0,6,141,6,3,0,3,0,,,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-3,LMP Simmons,PR Stirling,E Lewis,4,0,4,10,137,10,4,0,4,0,,,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-4,LMP Simmons,PR Stirling,E Lewis,0,0,0,10,137,10,5,1,5,caught,LMP Simmons,HT Tector,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-5,SO Hetmyer,PR Stirling,E Lewis,1,0,1,11,136,1,1,1,6,0,,,0,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-6,SO Hetmyer,Simi Singh,E Lewis,0,0,0,11,136,1,2,1,1,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-7,SO Hetmyer,Simi Singh,E Lewis,2,0,2,13,134,3,3,1,2,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-8,SO Hetmyer,Simi Singh,E Lewis,1,0,1,14,133,4,4,1,3,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-9,E Lewis,Simi Singh,SO Hetmyer,0,0,0,14,133,0,1,1,4,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-10,E Lewis,Simi Singh,SO Hetmyer,0,0,0,14,133,0,2,1,5,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-11,E Lewis,Simi Singh,SO Hetmyer,2,0,2,16,131,2,3,1,6,0,,,1,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
-12,SO Hetmyer,BJ McCarthy,E Lewis,0,0,0,16,131,4,5,1,1,0,,,2,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,LMP Simmons,PR Stirling,E Lewis,0,0,0,0,147,0,1,0,-,1.0,0,,,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+1,LMP Simmons,PR Stirling,E Lewis,6,0,6,6,141,6,2,0,-,2.0,0,,,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+2,LMP Simmons,PR Stirling,E Lewis,0,0,0,6,141,6,3,0,-,3.0,0,,,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+3,LMP Simmons,PR Stirling,E Lewis,4,0,4,10,137,10,4,0,-,4.0,0,,,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+4,LMP Simmons,PR Stirling,E Lewis,0,0,0,10,137,10,5,1,-,5.0,caught,LMP Simmons,HT Tector,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+5,SO Hetmyer,PR Stirling,E Lewis,1,0,1,11,136,1,1,1,-,6.0,0,,,0,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+6,SO Hetmyer,Simi Singh,E Lewis,0,0,0,11,136,1,2,1,-,1.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+7,SO Hetmyer,Simi Singh,E Lewis,2,0,2,13,134,3,3,1,-,2.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+8,SO Hetmyer,Simi Singh,E Lewis,1,0,1,14,133,4,4,1,-,3.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+9,E Lewis,Simi Singh,SO Hetmyer,0,0,0,14,133,0,1,1,-,4.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+10,E Lewis,Simi Singh,SO Hetmyer,0,0,0,14,133,0,2,1,-,5.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+11,E Lewis,Simi Singh,SO Hetmyer,2,0,2,16,131,2,3,1,-,6.0,0,,,1,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16
+12,SO Hetmyer,BJ McCarthy,E Lewis,0,0,0,16,131,4,5,1,-,1.0,0,,,2,field,West Indies,2,"Warner Park, St Kitts",2020,01,West Indies_Ireland_2020-01-18,no result,West Indies,Ireland,,16

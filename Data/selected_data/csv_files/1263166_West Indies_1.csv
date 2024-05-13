@@ -1,9 +1,9 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,ADS Fletcher,Mohammad Hafeez,CH Gayle,0,0,0,0,,0,1,0,1,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-1,ADS Fletcher,Mohammad Hafeez,CH Gayle,6,0,6,6,,6,2,0,2,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-2,ADS Fletcher,Mohammad Hafeez,CH Gayle,1,0,1,7,,7,3,0,3,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-3,CH Gayle,Mohammad Hafeez,ADS Fletcher,0,0,0,7,,0,1,0,4,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-4,CH Gayle,Mohammad Hafeez,ADS Fletcher,1,0,1,8,,1,2,0,5,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-5,ADS Fletcher,Mohammad Hafeez,CH Gayle,1,0,1,9,,8,4,0,6,0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-6,ADS Fletcher,Mohammad Wasim,CH Gayle,0,0,0,9,,8,5,0,1,1,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
-7,ADS Fletcher,Mohammad Wasim,CH Gayle,6,0,6,15,,14,6,0,2,1,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,ADS Fletcher,Mohammad Hafeez,CH Gayle,0,0,0,0,,0,1,0,-,1.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+1,ADS Fletcher,Mohammad Hafeez,CH Gayle,6,0,6,6,,6,2,0,-,2.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+2,ADS Fletcher,Mohammad Hafeez,CH Gayle,1,0,1,7,,7,3,0,-,3.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+3,CH Gayle,Mohammad Hafeez,ADS Fletcher,0,0,0,7,,0,1,0,-,4.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+4,CH Gayle,Mohammad Hafeez,ADS Fletcher,1,0,1,8,,1,2,0,-,5.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+5,ADS Fletcher,Mohammad Hafeez,CH Gayle,1,0,1,9,,8,4,0,-,6.0,0,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+6,ADS Fletcher,Mohammad Wasim,CH Gayle,0,0,0,9,,8,5,0,-,1.0,1,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15
+7,ADS Fletcher,Mohammad Wasim,CH Gayle,6,0,6,15,,14,6,0,-,2.0,1,0,bat,West Indies,1,"Providence Stadium, Guyana",2021,08,West Indies_Pakistan_2021-08-01,no result,West Indies,,,15

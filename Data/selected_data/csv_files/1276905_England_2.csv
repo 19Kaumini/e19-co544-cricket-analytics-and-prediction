@@ -1,104 +1,104 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,review,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,JJ Roy,B Kumar,JC Buttler,0,0,0,0,170,0,1,1,1,caught,JJ Roy,RG Sharma,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-1,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,1,1,2,0,,,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-2,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,2,1,3,0,,,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-3,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,3,1,4,0,,,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-4,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,4,1,5,0,,,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-5,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,5,1,6,0,,,0,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-6,JC Buttler,JJ Bumrah,DJ Malan,1,0,1,1,169,1,1,1,1,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-7,DJ Malan,JJ Bumrah,JC Buttler,1,0,1,2,168,1,6,1,2,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-8,JC Buttler,JJ Bumrah,DJ Malan,1,0,1,3,167,2,2,1,3,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-9,DJ Malan,JJ Bumrah,JC Buttler,4,0,4,7,163,5,7,1,4,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-10,DJ Malan,JJ Bumrah,JC Buttler,1,0,1,8,162,6,8,1,5,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-11,JC Buttler,JJ Bumrah,DJ Malan,0,0,0,8,162,2,3,1,6,0,,,1,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-12,DJ Malan,B Kumar,JC Buttler,1,0,1,9,161,7,9,1,1,0,,,2,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-13,JC Buttler,B Kumar,DJ Malan,2,0,2,11,159,4,4,1,2,0,,,2,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-14,JC Buttler,B Kumar,DJ Malan,0,0,0,11,159,4,5,2,3,caught,JC Buttler,RR Pant,2,"{'by': 'India', 'umpire': 'DJ Millns', 'batter': 'JC Buttler', 'decision': 'upheld'}",-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-15,LS Livingstone,B Kumar,DJ Malan,4,0,4,15,155,4,1,2,4,0,,,2,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-16,LS Livingstone,B Kumar,DJ Malan,4,0,4,19,151,8,2,2,5,0,,,2,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-17,LS Livingstone,B Kumar,DJ Malan,0,0,0,19,151,8,3,2,6,0,,,2,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-18,DJ Malan,HH Pandya,LS Livingstone,1,0,1,20,150,8,10,2,1,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-19,LS Livingstone,HH Pandya,DJ Malan,2,0,2,22,148,10,4,2,2,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-20,LS Livingstone,HH Pandya,DJ Malan,0,0,0,22,148,10,5,2,3,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-21,LS Livingstone,HH Pandya,DJ Malan,4,0,4,26,144,14,6,2,4,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-22,LS Livingstone,HH Pandya,DJ Malan,0,0,0,26,144,14,7,2,5,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-23,LS Livingstone,HH Pandya,DJ Malan,1,0,1,27,143,15,8,2,6,0,,,3,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-24,LS Livingstone,JJ Bumrah,DJ Malan,0,0,0,27,143,15,9,3,1,bowled,LS Livingstone,,4,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-25,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,1,3,2,0,,,4,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-26,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,2,3,3,0,,,4,"{'by': 'India', 'umpire': 'DJ Millns', 'batter': 'HC Brook', 'decision': 'struck down'}",-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-27,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,3,3,4,0,,,4,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-28,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,4,3,5,0,,,4,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-29,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,5,3,6,0,,,4,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-30,DJ Malan,HV Patel,HC Brook,0,0,0,27,143,8,11,3,1,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-31,DJ Malan,HV Patel,HC Brook,0,0,0,27,143,8,12,3,2,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-32,DJ Malan,HV Patel,HC Brook,4,0,4,31,139,12,13,3,3,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-33,DJ Malan,HV Patel,HC Brook,0,0,0,31,139,12,14,3,4,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-34,DJ Malan,HV Patel,HC Brook,1,0,1,32,138,13,15,3,5,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-35,HC Brook,HV Patel,DJ Malan,4,0,4,36,134,4,6,3,6,0,,,5,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-36,DJ Malan,YS Chahal,HC Brook,1,0,1,37,133,14,16,3,1,0,,,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-37,HC Brook,YS Chahal,DJ Malan,4,0,4,41,129,8,7,3,2,0,,,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-38,HC Brook,YS Chahal,DJ Malan,0,0,0,41,129,8,8,3,3,0,,,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-39,HC Brook,YS Chahal,DJ Malan,0,0,0,41,129,8,9,4,4,caught,HC Brook,SA Yadav,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-40,DJ Malan,YS Chahal,MM Ali,0,0,0,41,129,14,17,4,5,0,,,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-41,DJ Malan,YS Chahal,MM Ali,1,0,1,42,128,15,18,4,6,0,,,6,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-42,DJ Malan,HH Pandya,MM Ali,0,0,0,42,128,15,19,4,1,0,,,7,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-43,DJ Malan,HH Pandya,MM Ali,1,0,1,43,127,16,20,4,2,0,,,7,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-44,MM Ali,HH Pandya,DJ Malan,1,0,1,44,126,1,1,4,3,0,,,7,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-45,DJ Malan,HH Pandya,MM Ali,1,0,1,45,125,17,21,4,4,0,,,7,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-46,MM Ali,HH Pandya,DJ Malan,0,1,1,46,124,1,2,4,5,0,,,7,,legbyes,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-47,DJ Malan,HH Pandya,MM Ali,0,0,0,46,124,17,22,4,6,0,,,7,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-48,MM Ali,HV Patel,DJ Malan,0,0,0,46,124,1,3,4,1,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-49,MM Ali,HV Patel,DJ Malan,4,0,4,50,120,5,4,4,2,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-50,MM Ali,HV Patel,DJ Malan,1,0,1,51,119,6,5,4,3,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-51,DJ Malan,HV Patel,MM Ali,1,0,1,52,118,18,23,4,4,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-52,MM Ali,HV Patel,DJ Malan,0,1,1,53,117,6,6,4,5,0,,,8,,wides,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-53,MM Ali,HV Patel,DJ Malan,1,0,1,54,116,7,7,4,6,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-54,DJ Malan,HV Patel,MM Ali,1,0,1,55,115,19,24,4,7,0,,,8,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-55,DJ Malan,YS Chahal,MM Ali,0,0,0,55,115,19,25,5,1,caught,DJ Malan,HV Patel,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-56,SM Curran,YS Chahal,MM Ali,0,0,0,55,115,0,1,5,2,0,,,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-57,SM Curran,YS Chahal,MM Ali,1,0,1,56,114,1,2,5,3,0,,,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-58,MM Ali,YS Chahal,SM Curran,1,0,1,57,113,8,8,5,4,0,,,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-59,SM Curran,YS Chahal,MM Ali,1,0,1,58,112,2,3,5,5,0,,,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-60,MM Ali,YS Chahal,SM Curran,1,0,1,59,111,9,9,5,6,0,,,9,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-61,MM Ali,JJ Bumrah,SM Curran,1,0,1,60,110,10,10,5,1,0,,,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-62,SM Curran,JJ Bumrah,MM Ali,0,0,0,60,110,2,4,6,2,caught,SM Curran,HH Pandya,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-63,MM Ali,JJ Bumrah,DJ Willey,1,0,1,61,109,11,11,6,3,0,,,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-64,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,1,6,4,0,,,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-65,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,2,6,5,0,,,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-66,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,3,6,6,0,,,10,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-67,MM Ali,RA Jadeja,DJ Willey,1,0,1,62,108,12,12,6,1,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-68,DJ Willey,RA Jadeja,MM Ali,0,0,0,62,108,0,4,6,2,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-69,DJ Willey,RA Jadeja,MM Ali,1,0,1,63,107,1,5,6,3,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-70,MM Ali,RA Jadeja,DJ Willey,1,0,1,64,106,13,13,6,4,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-71,DJ Willey,RA Jadeja,MM Ali,1,0,1,65,105,2,6,6,5,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-72,MM Ali,RA Jadeja,DJ Willey,4,0,4,69,101,17,14,6,6,0,,,11,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-73,DJ Willey,HV Patel,MM Ali,0,0,0,69,101,2,7,6,1,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-74,DJ Willey,HV Patel,MM Ali,0,0,0,69,101,2,8,6,2,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-75,DJ Willey,HV Patel,MM Ali,1,0,1,70,100,3,9,6,3,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-76,MM Ali,HV Patel,DJ Willey,0,0,0,70,100,17,15,6,4,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-77,MM Ali,HV Patel,DJ Willey,0,0,0,70,100,17,16,6,5,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-78,MM Ali,HV Patel,DJ Willey,4,0,4,74,96,21,17,6,6,0,,,12,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-79,DJ Willey,RA Jadeja,MM Ali,1,0,1,75,95,4,10,6,1,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-80,MM Ali,RA Jadeja,DJ Willey,1,0,1,76,94,22,18,6,2,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-81,DJ Willey,RA Jadeja,MM Ali,4,0,4,80,90,8,11,6,3,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-82,DJ Willey,RA Jadeja,MM Ali,1,0,1,81,89,9,12,6,4,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-83,MM Ali,RA Jadeja,DJ Willey,6,0,6,87,83,28,19,6,5,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-84,MM Ali,RA Jadeja,DJ Willey,1,0,1,88,82,29,20,6,6,0,,,13,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-85,MM Ali,HH Pandya,DJ Willey,6,0,6,94,76,35,21,6,1,0,,,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-86,MM Ali,HH Pandya,DJ Willey,0,0,0,94,76,35,22,7,2,caught,MM Ali,RG Sharma,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-87,CJ Jordan,HH Pandya,DJ Willey,1,0,1,95,75,1,1,8,3,run out,CJ Jordan,RG Sharma;YS Chahal,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-88,DJ Willey,HH Pandya,RJ Gleeson,4,0,4,99,71,13,13,8,4,0,,,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-89,DJ Willey,HH Pandya,RJ Gleeson,6,0,6,105,65,19,14,8,5,0,,,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-90,DJ Willey,HH Pandya,RJ Gleeson,1,0,1,106,64,20,15,8,6,0,,,14,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-91,DJ Willey,B Kumar,RJ Gleeson,1,0,1,107,63,21,16,8,1,0,,,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-92,RJ Gleeson,B Kumar,DJ Willey,2,0,2,109,61,2,1,8,2,0,,,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-93,RJ Gleeson,B Kumar,DJ Willey,0,0,0,109,61,2,2,8,3,0,,,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-94,RJ Gleeson,B Kumar,DJ Willey,0,0,0,109,61,2,3,9,4,caught,RJ Gleeson,V Kohli,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-95,DJ Willey,B Kumar,MW Parkinson,1,0,1,110,60,22,17,9,5,0,,,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-96,MW Parkinson,B Kumar,DJ Willey,0,0,0,110,60,0,1,9,6,0,,,15,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-97,DJ Willey,HV Patel,MW Parkinson,6,0,6,116,54,28,18,9,1,0,,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-98,DJ Willey,HV Patel,MW Parkinson,4,0,4,120,50,32,19,9,2,0,,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-99,DJ Willey,HV Patel,MW Parkinson,0,0,0,120,50,32,20,9,3,0,,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-100,DJ Willey,HV Patel,MW Parkinson,0,0,0,120,50,32,21,9,4,0,,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-101,DJ Willey,HV Patel,MW Parkinson,1,0,1,121,49,33,22,9,5,0,,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
-102,MW Parkinson,HV Patel,DJ Willey,0,0,0,121,49,0,2,10,6,bowled,MW Parkinson,,16,,-,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,JJ Roy,B Kumar,JC Buttler,0,0,0,0,170,0,1,1,-,1.0,caught,JJ Roy,RG Sharma,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+1,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,1,1,-,2.0,0,,,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+2,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,2,1,-,3.0,0,,,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+3,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,3,1,-,4.0,0,,,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+4,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,4,1,-,5.0,0,,,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+5,DJ Malan,B Kumar,JC Buttler,0,0,0,0,170,0,5,1,-,6.0,0,,,0,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+6,JC Buttler,JJ Bumrah,DJ Malan,1,0,1,1,169,1,1,1,-,1.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+7,DJ Malan,JJ Bumrah,JC Buttler,1,0,1,2,168,1,6,1,-,2.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+8,JC Buttler,JJ Bumrah,DJ Malan,1,0,1,3,167,2,2,1,-,3.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+9,DJ Malan,JJ Bumrah,JC Buttler,4,0,4,7,163,5,7,1,-,4.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+10,DJ Malan,JJ Bumrah,JC Buttler,1,0,1,8,162,6,8,1,-,5.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+11,JC Buttler,JJ Bumrah,DJ Malan,0,0,0,8,162,2,3,1,-,6.0,0,,,1,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+12,DJ Malan,B Kumar,JC Buttler,1,0,1,9,161,7,9,1,-,1.0,0,,,2,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+13,JC Buttler,B Kumar,DJ Malan,2,0,2,11,159,4,4,1,-,2.0,0,,,2,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+14,JC Buttler,B Kumar,DJ Malan,0,0,0,11,159,4,5,2,-,3.0,caught,JC Buttler,RR Pant,2,"{'by': 'India', 'umpire': 'DJ Millns', 'batter': 'JC Buttler', 'decision': 'upheld'}",field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+15,LS Livingstone,B Kumar,DJ Malan,4,0,4,15,155,4,1,2,-,4.0,0,,,2,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+16,LS Livingstone,B Kumar,DJ Malan,4,0,4,19,151,8,2,2,-,5.0,0,,,2,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+17,LS Livingstone,B Kumar,DJ Malan,0,0,0,19,151,8,3,2,-,6.0,0,,,2,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+18,DJ Malan,HH Pandya,LS Livingstone,1,0,1,20,150,8,10,2,-,1.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+19,LS Livingstone,HH Pandya,DJ Malan,2,0,2,22,148,10,4,2,-,2.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+20,LS Livingstone,HH Pandya,DJ Malan,0,0,0,22,148,10,5,2,-,3.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+21,LS Livingstone,HH Pandya,DJ Malan,4,0,4,26,144,14,6,2,-,4.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+22,LS Livingstone,HH Pandya,DJ Malan,0,0,0,26,144,14,7,2,-,5.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+23,LS Livingstone,HH Pandya,DJ Malan,1,0,1,27,143,15,8,2,-,6.0,0,,,3,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+24,LS Livingstone,JJ Bumrah,DJ Malan,0,0,0,27,143,15,9,3,-,1.0,bowled,LS Livingstone,,4,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+25,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,1,3,-,2.0,0,,,4,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+26,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,2,3,-,3.0,0,,,4,"{'by': 'India', 'umpire': 'DJ Millns', 'batter': 'HC Brook', 'decision': 'struck down'}",field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+27,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,3,3,-,4.0,0,,,4,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+28,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,4,3,-,5.0,0,,,4,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+29,HC Brook,JJ Bumrah,DJ Malan,0,0,0,27,143,0,5,3,-,6.0,0,,,4,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+30,DJ Malan,HV Patel,HC Brook,0,0,0,27,143,8,11,3,-,1.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+31,DJ Malan,HV Patel,HC Brook,0,0,0,27,143,8,12,3,-,2.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+32,DJ Malan,HV Patel,HC Brook,4,0,4,31,139,12,13,3,-,3.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+33,DJ Malan,HV Patel,HC Brook,0,0,0,31,139,12,14,3,-,4.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+34,DJ Malan,HV Patel,HC Brook,1,0,1,32,138,13,15,3,-,5.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+35,HC Brook,HV Patel,DJ Malan,4,0,4,36,134,4,6,3,-,6.0,0,,,5,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+36,DJ Malan,YS Chahal,HC Brook,1,0,1,37,133,14,16,3,-,1.0,0,,,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+37,HC Brook,YS Chahal,DJ Malan,4,0,4,41,129,8,7,3,-,2.0,0,,,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+38,HC Brook,YS Chahal,DJ Malan,0,0,0,41,129,8,8,3,-,3.0,0,,,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+39,HC Brook,YS Chahal,DJ Malan,0,0,0,41,129,8,9,4,-,4.0,caught,HC Brook,SA Yadav,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+40,DJ Malan,YS Chahal,MM Ali,0,0,0,41,129,14,17,4,-,5.0,0,,,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+41,DJ Malan,YS Chahal,MM Ali,1,0,1,42,128,15,18,4,-,6.0,0,,,6,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+42,DJ Malan,HH Pandya,MM Ali,0,0,0,42,128,15,19,4,-,1.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+43,DJ Malan,HH Pandya,MM Ali,1,0,1,43,127,16,20,4,-,2.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+44,MM Ali,HH Pandya,DJ Malan,1,0,1,44,126,1,1,4,-,3.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+45,DJ Malan,HH Pandya,MM Ali,1,0,1,45,125,17,21,4,-,4.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+46,MM Ali,HH Pandya,DJ Malan,0,1,1,46,124,1,2,4,legbyes,5.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+47,DJ Malan,HH Pandya,MM Ali,0,0,0,46,124,17,22,4,-,6.0,0,,,7,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+48,MM Ali,HV Patel,DJ Malan,0,0,0,46,124,1,3,4,-,1.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+49,MM Ali,HV Patel,DJ Malan,4,0,4,50,120,5,4,4,-,2.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+50,MM Ali,HV Patel,DJ Malan,1,0,1,51,119,6,5,4,-,3.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+51,DJ Malan,HV Patel,MM Ali,1,0,1,52,118,18,23,4,-,4.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+52,MM Ali,HV Patel,DJ Malan,0,1,1,53,117,6,6,4,wides,4.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+53,MM Ali,HV Patel,DJ Malan,1,0,1,54,116,7,7,4,-,5.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+54,DJ Malan,HV Patel,MM Ali,1,0,1,55,115,19,24,4,-,6.0,0,,,8,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+55,DJ Malan,YS Chahal,MM Ali,0,0,0,55,115,19,25,5,-,1.0,caught,DJ Malan,HV Patel,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+56,SM Curran,YS Chahal,MM Ali,0,0,0,55,115,0,1,5,-,2.0,0,,,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+57,SM Curran,YS Chahal,MM Ali,1,0,1,56,114,1,2,5,-,3.0,0,,,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+58,MM Ali,YS Chahal,SM Curran,1,0,1,57,113,8,8,5,-,4.0,0,,,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+59,SM Curran,YS Chahal,MM Ali,1,0,1,58,112,2,3,5,-,5.0,0,,,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+60,MM Ali,YS Chahal,SM Curran,1,0,1,59,111,9,9,5,-,6.0,0,,,9,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+61,MM Ali,JJ Bumrah,SM Curran,1,0,1,60,110,10,10,5,-,1.0,0,,,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+62,SM Curran,JJ Bumrah,MM Ali,0,0,0,60,110,2,4,6,-,2.0,caught,SM Curran,HH Pandya,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+63,MM Ali,JJ Bumrah,DJ Willey,1,0,1,61,109,11,11,6,-,3.0,0,,,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+64,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,1,6,-,4.0,0,,,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+65,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,2,6,-,5.0,0,,,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+66,DJ Willey,JJ Bumrah,MM Ali,0,0,0,61,109,0,3,6,-,6.0,0,,,10,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+67,MM Ali,RA Jadeja,DJ Willey,1,0,1,62,108,12,12,6,-,1.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+68,DJ Willey,RA Jadeja,MM Ali,0,0,0,62,108,0,4,6,-,2.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+69,DJ Willey,RA Jadeja,MM Ali,1,0,1,63,107,1,5,6,-,3.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+70,MM Ali,RA Jadeja,DJ Willey,1,0,1,64,106,13,13,6,-,4.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+71,DJ Willey,RA Jadeja,MM Ali,1,0,1,65,105,2,6,6,-,5.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+72,MM Ali,RA Jadeja,DJ Willey,4,0,4,69,101,17,14,6,-,6.0,0,,,11,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+73,DJ Willey,HV Patel,MM Ali,0,0,0,69,101,2,7,6,-,1.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+74,DJ Willey,HV Patel,MM Ali,0,0,0,69,101,2,8,6,-,2.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+75,DJ Willey,HV Patel,MM Ali,1,0,1,70,100,3,9,6,-,3.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+76,MM Ali,HV Patel,DJ Willey,0,0,0,70,100,17,15,6,-,4.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+77,MM Ali,HV Patel,DJ Willey,0,0,0,70,100,17,16,6,-,5.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+78,MM Ali,HV Patel,DJ Willey,4,0,4,74,96,21,17,6,-,6.0,0,,,12,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+79,DJ Willey,RA Jadeja,MM Ali,1,0,1,75,95,4,10,6,-,1.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+80,MM Ali,RA Jadeja,DJ Willey,1,0,1,76,94,22,18,6,-,2.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+81,DJ Willey,RA Jadeja,MM Ali,4,0,4,80,90,8,11,6,-,3.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+82,DJ Willey,RA Jadeja,MM Ali,1,0,1,81,89,9,12,6,-,4.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+83,MM Ali,RA Jadeja,DJ Willey,6,0,6,87,83,28,19,6,-,5.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+84,MM Ali,RA Jadeja,DJ Willey,1,0,1,88,82,29,20,6,-,6.0,0,,,13,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+85,MM Ali,HH Pandya,DJ Willey,6,0,6,94,76,35,21,6,-,1.0,0,,,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+86,MM Ali,HH Pandya,DJ Willey,0,0,0,94,76,35,22,7,-,2.0,caught,MM Ali,RG Sharma,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+87,CJ Jordan,HH Pandya,DJ Willey,1,0,1,95,75,1,1,8,-,3.0,run out,CJ Jordan,RG Sharma;YS Chahal,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+88,DJ Willey,HH Pandya,RJ Gleeson,4,0,4,99,71,13,13,8,-,4.0,0,,,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+89,DJ Willey,HH Pandya,RJ Gleeson,6,0,6,105,65,19,14,8,-,5.0,0,,,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+90,DJ Willey,HH Pandya,RJ Gleeson,1,0,1,106,64,20,15,8,-,6.0,0,,,14,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+91,DJ Willey,B Kumar,RJ Gleeson,1,0,1,107,63,21,16,8,-,1.0,0,,,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+92,RJ Gleeson,B Kumar,DJ Willey,2,0,2,109,61,2,1,8,-,2.0,0,,,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+93,RJ Gleeson,B Kumar,DJ Willey,0,0,0,109,61,2,2,8,-,3.0,0,,,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+94,RJ Gleeson,B Kumar,DJ Willey,0,0,0,109,61,2,3,9,-,4.0,caught,RJ Gleeson,V Kohli,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+95,DJ Willey,B Kumar,MW Parkinson,1,0,1,110,60,22,17,9,-,5.0,0,,,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+96,MW Parkinson,B Kumar,DJ Willey,0,0,0,110,60,0,1,9,-,6.0,0,,,15,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+97,DJ Willey,HV Patel,MW Parkinson,6,0,6,116,54,28,18,9,-,1.0,0,,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+98,DJ Willey,HV Patel,MW Parkinson,4,0,4,120,50,32,19,9,-,2.0,0,,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+99,DJ Willey,HV Patel,MW Parkinson,0,0,0,120,50,32,20,9,-,3.0,0,,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+100,DJ Willey,HV Patel,MW Parkinson,0,0,0,120,50,32,21,9,-,4.0,0,,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+101,DJ Willey,HV Patel,MW Parkinson,1,0,1,121,49,33,22,9,-,5.0,0,,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121
+102,MW Parkinson,HV Patel,DJ Willey,0,0,0,121,49,0,2,10,-,6.0,bowled,MW Parkinson,,16,,field,England,2,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,England,India,False,121

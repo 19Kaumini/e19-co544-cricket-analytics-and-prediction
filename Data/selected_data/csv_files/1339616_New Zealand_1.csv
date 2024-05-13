@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,5,5,5,,0,1,0,1,wides,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-1,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,4,0,4,9,,4,2,0,2,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-2,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,10,,5,3,0,3,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-3,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,0,0,0,10,,0,1,0,4,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-4,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,1,0,1,11,,1,2,0,5,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-5,TWM Latham,Shaheen Shah Afridi,CJ Bowes,"{'by': 'Pakistan', 'umpire': 'Ahsan Raza', 'batter': 'TWM Latham', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,11,,5,4,0,6,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-6,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,11,,5,5,0,7,-,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-7,CJ Bowes,Naseem Shah,TWM Latham,"{'by': 'Pakistan', 'umpire': 'Faisal Afridi', 'batter': 'CJ Bowes', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,11,,1,3,0,1,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-8,CJ Bowes,Naseem Shah,TWM Latham,,4,0,4,15,,5,4,0,2,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-9,CJ Bowes,Naseem Shah,TWM Latham,,0,0,0,15,,5,5,0,3,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-10,CJ Bowes,Naseem Shah,TWM Latham,,1,0,1,16,,6,6,0,4,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-11,TWM Latham,Naseem Shah,CJ Bowes,,1,0,1,17,,6,6,0,5,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-12,CJ Bowes,Naseem Shah,TWM Latham,,0,0,0,17,,6,7,0,6,-,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-13,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,18,,7,7,0,1,-,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-14,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,1,0,1,19,,7,8,0,2,-,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-15,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,19,,7,8,0,3,-,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-16,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,19,,7,9,0,4,-,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-17,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,20,,8,10,0,5,-,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-18,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,0,0,0,20,,7,9,1,6,-,2,bowled,CJ Bowes,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-19,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,20,,8,11,1,1,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-20,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,20,,8,12,1,2,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-21,TWM Latham,Faheem Ashraf,WA Young,,1,0,1,21,,9,13,1,3,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-22,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,1,1,4,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-23,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,2,1,5,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-24,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,3,1,6,-,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-25,TWM Latham,Naseem Shah,WA Young,,4,0,4,25,,13,14,1,1,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-26,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,15,1,2,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-27,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,16,1,3,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-28,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,17,1,4,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-29,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,18,1,5,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-30,TWM Latham,Naseem Shah,WA Young,,1,0,1,26,,14,19,1,6,-,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-31,TWM Latham,Haris Rauf,WA Young,,4,0,4,30,,18,20,1,1,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-32,TWM Latham,Haris Rauf,WA Young,,0,0,0,30,,18,21,1,2,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-33,TWM Latham,Haris Rauf,WA Young,,1,0,1,31,,19,22,1,3,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-34,WA Young,Haris Rauf,TWM Latham,,0,0,0,31,,0,4,1,4,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-35,WA Young,Haris Rauf,TWM Latham,,4,0,4,35,,4,5,1,5,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-36,WA Young,Haris Rauf,TWM Latham,,0,0,0,35,,4,6,1,6,-,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-37,TWM Latham,Shadab Khan,WA Young,"{'by': 'Pakistan', 'umpire': 'Ahsan Raza', 'batter': 'TWM Latham', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,35,,19,23,1,1,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-38,TWM Latham,Shadab Khan,WA Young,,2,0,2,37,,21,24,1,2,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-39,TWM Latham,Shadab Khan,WA Young,,1,0,1,38,,22,25,1,3,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-40,WA Young,Shadab Khan,TWM Latham,,0,0,0,38,,4,7,1,4,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-41,WA Young,Shadab Khan,TWM Latham,,6,0,6,44,,10,8,1,5,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-42,WA Young,Shadab Khan,TWM Latham,,1,0,1,45,,11,9,1,6,-,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-43,WA Young,Faheem Ashraf,TWM Latham,,1,0,1,46,,12,10,1,1,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-44,TWM Latham,Faheem Ashraf,WA Young,,1,0,1,47,,23,26,1,2,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-45,WA Young,Faheem Ashraf,TWM Latham,,4,0,4,51,,16,11,1,3,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-46,WA Young,Faheem Ashraf,TWM Latham,,1,0,1,52,,17,12,1,4,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-47,TWM Latham,Faheem Ashraf,WA Young,,4,0,4,56,,27,27,1,5,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-48,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,56,,27,28,1,6,-,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-49,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,13,1,1,-,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-50,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,14,1,2,-,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-51,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,15,2,3,-,8,caught,WA Young,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-52,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,56,,0,1,2,4,-,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-53,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,57,,1,2,2,5,-,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-54,TWM Latham,Shadab Khan,DJ Mitchell,,0,0,0,57,,27,29,2,6,-,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-55,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,58,,2,3,2,1,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-56,TWM Latham,Imad Wasim,DJ Mitchell,,4,0,4,62,,31,30,2,2,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-57,TWM Latham,Imad Wasim,DJ Mitchell,,1,0,1,63,,32,31,2,3,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-58,DJ Mitchell,Imad Wasim,TWM Latham,,0,0,0,63,,2,4,2,4,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-59,DJ Mitchell,Imad Wasim,TWM Latham,,0,0,0,63,,2,5,2,5,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-60,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,64,,3,6,2,6,-,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-61,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,65,,4,7,2,1,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-62,TWM Latham,Shadab Khan,DJ Mitchell,,1,0,1,66,,33,32,2,2,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-63,DJ Mitchell,Shadab Khan,TWM Latham,,2,0,2,68,,6,8,2,3,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-64,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,69,,7,9,2,4,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-65,TWM Latham,Shadab Khan,DJ Mitchell,,1,0,1,70,,34,33,2,5,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-66,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,71,,8,10,2,6,-,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-67,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,72,,9,11,2,1,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-68,TWM Latham,Imad Wasim,DJ Mitchell,,4,0,4,76,,38,34,2,2,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-69,TWM Latham,Imad Wasim,DJ Mitchell,,1,0,1,77,,39,35,2,3,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-70,DJ Mitchell,Imad Wasim,TWM Latham,,2,0,2,79,,11,12,2,4,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-71,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,80,,12,13,2,5,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-72,TWM Latham,Imad Wasim,DJ Mitchell,,6,0,6,86,,45,36,2,6,-,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-73,DJ Mitchell,Shadab Khan,TWM Latham,,6,0,6,92,,18,14,2,1,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-74,DJ Mitchell,Shadab Khan,TWM Latham,,4,0,4,96,,22,15,2,2,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-75,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,96,,22,16,2,3,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-76,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,96,,22,17,2,4,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-77,DJ Mitchell,Shadab Khan,TWM Latham,,4,0,4,100,,26,18,2,5,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-78,DJ Mitchell,Shadab Khan,TWM Latham,,2,0,2,102,,28,19,2,6,-,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-79,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,103,,46,37,2,1,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-80,DJ Mitchell,Haris Rauf,TWM Latham,,1,0,1,104,,29,20,2,2,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-81,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,105,,47,38,2,3,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-82,DJ Mitchell,Haris Rauf,TWM Latham,,1,0,1,106,,30,21,2,4,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-83,TWM Latham,Haris Rauf,DJ Mitchell,,0,0,0,106,,47,39,2,5,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-84,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,107,,48,40,2,6,-,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-85,TWM Latham,Naseem Shah,DJ Mitchell,,1,0,1,108,,49,41,2,1,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-86,DJ Mitchell,Naseem Shah,TWM Latham,,0,0,0,108,,30,22,2,2,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-87,DJ Mitchell,Naseem Shah,TWM Latham,,1,0,1,109,,31,23,2,3,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-88,TWM Latham,Naseem Shah,DJ Mitchell,,1,0,1,110,,50,42,2,4,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-89,DJ Mitchell,Naseem Shah,TWM Latham,,2,0,2,112,,33,24,2,5,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-90,DJ Mitchell,Naseem Shah,TWM Latham,,0,0,0,112,,33,25,2,6,-,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-91,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,6,0,6,118,,56,43,2,1,-,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-92,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,2,0,2,120,,58,44,2,2,-,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-93,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,1,0,1,121,,59,45,2,3,-,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-94,DJ Mitchell,Shaheen Shah Afridi,TWM Latham,,0,0,0,121,,33,26,3,4,-,15,caught,DJ Mitchell,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-95,MS Chapman,Shaheen Shah Afridi,TWM Latham,,1,0,1,122,,1,1,3,5,-,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-96,TWM Latham,Shaheen Shah Afridi,MS Chapman,,1,0,1,123,,60,46,3,6,-,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-97,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,123,,60,47,3,1,-,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-98,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,123,,60,48,3,2,-,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-99,TWM Latham,Haris Rauf,MS Chapman,,4,0,4,127,,64,49,3,3,-,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-100,TWM Latham,Haris Rauf,MS Chapman,,0,1,1,128,,64,50,3,4,wides,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-101,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,128,,64,51,4,5,-,16,caught,TWM Latham,Mohammad Rizwan,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-102,JDS Neesham,Haris Rauf,MS Chapman,,0,1,1,129,,0,1,4,6,wides,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-103,JDS Neesham,Haris Rauf,MS Chapman,,1,0,1,130,,1,2,4,7,-,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-104,MS Chapman,Haris Rauf,JDS Neesham,,0,0,0,130,,1,2,4,8,-,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-105,JDS Neesham,Naseem Shah,MS Chapman,,4,0,4,134,,5,3,4,1,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-106,JDS Neesham,Naseem Shah,MS Chapman,,1,0,1,135,,6,4,4,2,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-107,MS Chapman,Naseem Shah,JDS Neesham,,2,0,2,137,,3,3,4,3,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-108,MS Chapman,Naseem Shah,JDS Neesham,,6,0,6,143,,9,4,4,4,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-109,MS Chapman,Naseem Shah,JDS Neesham,,0,0,0,143,,9,5,4,5,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-110,MS Chapman,Naseem Shah,JDS Neesham,,1,0,1,144,,10,6,4,6,-,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-111,MS Chapman,Haris Rauf,JDS Neesham,,1,0,1,145,,11,7,4,1,-,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-112,JDS Neesham,Haris Rauf,MS Chapman,,4,0,4,149,,10,5,4,2,-,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-113,JDS Neesham,Haris Rauf,MS Chapman,,0,0,0,149,,10,6,4,3,-,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-114,JDS Neesham,Haris Rauf,MS Chapman,,0,0,0,149,,10,7,5,4,-,18,caught,JDS Neesham,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-115,R Ravindra,Haris Rauf,MS Chapman,,1,0,1,150,,1,1,5,5,-,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-116,MS Chapman,Haris Rauf,R Ravindra,,4,0,4,154,,15,8,5,6,-,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-117,R Ravindra,Shaheen Shah Afridi,MS Chapman,,4,0,4,158,,5,2,5,1,-,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-118,R Ravindra,Shaheen Shah Afridi,MS Chapman,,1,0,1,159,,6,3,5,2,-,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-119,MS Chapman,Shaheen Shah Afridi,R Ravindra,,1,0,1,160,,16,9,5,3,-,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-120,R Ravindra,Shaheen Shah Afridi,MS Chapman,,0,0,0,160,,6,4,5,4,-,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-121,R Ravindra,Shaheen Shah Afridi,MS Chapman,,2,0,2,162,,8,5,5,5,-,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
-122,R Ravindra,Shaheen Shah Afridi,MS Chapman,,0,1,1,163,,8,6,5,6,byes,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+,batter,bowler,non_striker,review,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,5,5,5,,0,1,0,wides,0.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+1,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,4,0,4,9,,4,2,0,-,1.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+2,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,10,,5,3,0,-,2.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+3,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,0,0,0,10,,0,1,0,-,3.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+4,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,1,0,1,11,,1,2,0,-,4.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+5,TWM Latham,Shaheen Shah Afridi,CJ Bowes,"{'by': 'Pakistan', 'umpire': 'Ahsan Raza', 'batter': 'TWM Latham', 'decision': 'struck down', 'type': 'wicket', 'umpires_call': True}",0,0,0,11,,5,4,0,-,5.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+6,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,11,,5,5,0,-,6.0,0,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+7,CJ Bowes,Naseem Shah,TWM Latham,"{'by': 'Pakistan', 'umpire': 'Faisal Afridi', 'batter': 'CJ Bowes', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,11,,1,3,0,-,1.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+8,CJ Bowes,Naseem Shah,TWM Latham,,4,0,4,15,,5,4,0,-,2.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+9,CJ Bowes,Naseem Shah,TWM Latham,,0,0,0,15,,5,5,0,-,3.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+10,CJ Bowes,Naseem Shah,TWM Latham,,1,0,1,16,,6,6,0,-,4.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+11,TWM Latham,Naseem Shah,CJ Bowes,,1,0,1,17,,6,6,0,-,5.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+12,CJ Bowes,Naseem Shah,TWM Latham,,0,0,0,17,,6,7,0,-,6.0,1,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+13,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,18,,7,7,0,-,1.0,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+14,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,1,0,1,19,,7,8,0,-,2.0,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+15,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,19,,7,8,0,-,3.0,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+16,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,0,0,0,19,,7,9,0,-,4.0,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+17,TWM Latham,Shaheen Shah Afridi,CJ Bowes,,1,0,1,20,,8,10,0,-,5.0,2,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+18,CJ Bowes,Shaheen Shah Afridi,TWM Latham,,0,0,0,20,,7,9,1,-,6.0,2,bowled,CJ Bowes,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+19,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,20,,8,11,1,-,1.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+20,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,20,,8,12,1,-,2.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+21,TWM Latham,Faheem Ashraf,WA Young,,1,0,1,21,,9,13,1,-,3.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+22,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,1,1,-,4.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+23,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,2,1,-,5.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+24,WA Young,Faheem Ashraf,TWM Latham,,0,0,0,21,,0,3,1,-,6.0,3,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+25,TWM Latham,Naseem Shah,WA Young,,4,0,4,25,,13,14,1,-,1.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+26,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,15,1,-,2.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+27,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,16,1,-,3.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+28,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,17,1,-,4.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+29,TWM Latham,Naseem Shah,WA Young,,0,0,0,25,,13,18,1,-,5.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+30,TWM Latham,Naseem Shah,WA Young,,1,0,1,26,,14,19,1,-,6.0,4,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+31,TWM Latham,Haris Rauf,WA Young,,4,0,4,30,,18,20,1,-,1.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+32,TWM Latham,Haris Rauf,WA Young,,0,0,0,30,,18,21,1,-,2.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+33,TWM Latham,Haris Rauf,WA Young,,1,0,1,31,,19,22,1,-,3.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+34,WA Young,Haris Rauf,TWM Latham,,0,0,0,31,,0,4,1,-,4.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+35,WA Young,Haris Rauf,TWM Latham,,4,0,4,35,,4,5,1,-,5.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+36,WA Young,Haris Rauf,TWM Latham,,0,0,0,35,,4,6,1,-,6.0,5,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+37,TWM Latham,Shadab Khan,WA Young,"{'by': 'Pakistan', 'umpire': 'Ahsan Raza', 'batter': 'TWM Latham', 'decision': 'struck down', 'type': 'wicket'}",0,0,0,35,,19,23,1,-,1.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+38,TWM Latham,Shadab Khan,WA Young,,2,0,2,37,,21,24,1,-,2.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+39,TWM Latham,Shadab Khan,WA Young,,1,0,1,38,,22,25,1,-,3.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+40,WA Young,Shadab Khan,TWM Latham,,0,0,0,38,,4,7,1,-,4.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+41,WA Young,Shadab Khan,TWM Latham,,6,0,6,44,,10,8,1,-,5.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+42,WA Young,Shadab Khan,TWM Latham,,1,0,1,45,,11,9,1,-,6.0,6,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+43,WA Young,Faheem Ashraf,TWM Latham,,1,0,1,46,,12,10,1,-,1.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+44,TWM Latham,Faheem Ashraf,WA Young,,1,0,1,47,,23,26,1,-,2.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+45,WA Young,Faheem Ashraf,TWM Latham,,4,0,4,51,,16,11,1,-,3.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+46,WA Young,Faheem Ashraf,TWM Latham,,1,0,1,52,,17,12,1,-,4.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+47,TWM Latham,Faheem Ashraf,WA Young,,4,0,4,56,,27,27,1,-,5.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+48,TWM Latham,Faheem Ashraf,WA Young,,0,0,0,56,,27,28,1,-,6.0,7,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+49,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,13,1,-,1.0,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+50,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,14,1,-,2.0,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+51,WA Young,Shadab Khan,TWM Latham,,0,0,0,56,,17,15,2,-,3.0,8,caught,WA Young,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+52,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,56,,0,1,2,-,4.0,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+53,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,57,,1,2,2,-,5.0,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+54,TWM Latham,Shadab Khan,DJ Mitchell,,0,0,0,57,,27,29,2,-,6.0,8,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+55,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,58,,2,3,2,-,1.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+56,TWM Latham,Imad Wasim,DJ Mitchell,,4,0,4,62,,31,30,2,-,2.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+57,TWM Latham,Imad Wasim,DJ Mitchell,,1,0,1,63,,32,31,2,-,3.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+58,DJ Mitchell,Imad Wasim,TWM Latham,,0,0,0,63,,2,4,2,-,4.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+59,DJ Mitchell,Imad Wasim,TWM Latham,,0,0,0,63,,2,5,2,-,5.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+60,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,64,,3,6,2,-,6.0,9,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+61,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,65,,4,7,2,-,1.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+62,TWM Latham,Shadab Khan,DJ Mitchell,,1,0,1,66,,33,32,2,-,2.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+63,DJ Mitchell,Shadab Khan,TWM Latham,,2,0,2,68,,6,8,2,-,3.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+64,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,69,,7,9,2,-,4.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+65,TWM Latham,Shadab Khan,DJ Mitchell,,1,0,1,70,,34,33,2,-,5.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+66,DJ Mitchell,Shadab Khan,TWM Latham,,1,0,1,71,,8,10,2,-,6.0,10,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+67,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,72,,9,11,2,-,1.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+68,TWM Latham,Imad Wasim,DJ Mitchell,,4,0,4,76,,38,34,2,-,2.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+69,TWM Latham,Imad Wasim,DJ Mitchell,,1,0,1,77,,39,35,2,-,3.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+70,DJ Mitchell,Imad Wasim,TWM Latham,,2,0,2,79,,11,12,2,-,4.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+71,DJ Mitchell,Imad Wasim,TWM Latham,,1,0,1,80,,12,13,2,-,5.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+72,TWM Latham,Imad Wasim,DJ Mitchell,,6,0,6,86,,45,36,2,-,6.0,11,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+73,DJ Mitchell,Shadab Khan,TWM Latham,,6,0,6,92,,18,14,2,-,1.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+74,DJ Mitchell,Shadab Khan,TWM Latham,,4,0,4,96,,22,15,2,-,2.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+75,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,96,,22,16,2,-,3.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+76,DJ Mitchell,Shadab Khan,TWM Latham,,0,0,0,96,,22,17,2,-,4.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+77,DJ Mitchell,Shadab Khan,TWM Latham,,4,0,4,100,,26,18,2,-,5.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+78,DJ Mitchell,Shadab Khan,TWM Latham,,2,0,2,102,,28,19,2,-,6.0,12,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+79,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,103,,46,37,2,-,1.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+80,DJ Mitchell,Haris Rauf,TWM Latham,,1,0,1,104,,29,20,2,-,2.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+81,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,105,,47,38,2,-,3.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+82,DJ Mitchell,Haris Rauf,TWM Latham,,1,0,1,106,,30,21,2,-,4.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+83,TWM Latham,Haris Rauf,DJ Mitchell,,0,0,0,106,,47,39,2,-,5.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+84,TWM Latham,Haris Rauf,DJ Mitchell,,1,0,1,107,,48,40,2,-,6.0,13,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+85,TWM Latham,Naseem Shah,DJ Mitchell,,1,0,1,108,,49,41,2,-,1.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+86,DJ Mitchell,Naseem Shah,TWM Latham,,0,0,0,108,,30,22,2,-,2.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+87,DJ Mitchell,Naseem Shah,TWM Latham,,1,0,1,109,,31,23,2,-,3.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+88,TWM Latham,Naseem Shah,DJ Mitchell,,1,0,1,110,,50,42,2,-,4.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+89,DJ Mitchell,Naseem Shah,TWM Latham,,2,0,2,112,,33,24,2,-,5.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+90,DJ Mitchell,Naseem Shah,TWM Latham,,0,0,0,112,,33,25,2,-,6.0,14,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+91,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,6,0,6,118,,56,43,2,-,1.0,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+92,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,2,0,2,120,,58,44,2,-,2.0,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+93,TWM Latham,Shaheen Shah Afridi,DJ Mitchell,,1,0,1,121,,59,45,2,-,3.0,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+94,DJ Mitchell,Shaheen Shah Afridi,TWM Latham,,0,0,0,121,,33,26,3,-,4.0,15,caught,DJ Mitchell,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+95,MS Chapman,Shaheen Shah Afridi,TWM Latham,,1,0,1,122,,1,1,3,-,5.0,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+96,TWM Latham,Shaheen Shah Afridi,MS Chapman,,1,0,1,123,,60,46,3,-,6.0,15,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+97,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,123,,60,47,3,-,1.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+98,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,123,,60,48,3,-,2.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+99,TWM Latham,Haris Rauf,MS Chapman,,4,0,4,127,,64,49,3,-,3.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+100,TWM Latham,Haris Rauf,MS Chapman,,0,1,1,128,,64,50,3,wides,3.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+101,TWM Latham,Haris Rauf,MS Chapman,,0,0,0,128,,64,51,4,-,4.0,16,caught,TWM Latham,Mohammad Rizwan,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+102,JDS Neesham,Haris Rauf,MS Chapman,,0,1,1,129,,0,1,4,wides,4.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+103,JDS Neesham,Haris Rauf,MS Chapman,,1,0,1,130,,1,2,4,-,5.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+104,MS Chapman,Haris Rauf,JDS Neesham,,0,0,0,130,,1,2,4,-,6.0,16,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+105,JDS Neesham,Naseem Shah,MS Chapman,,4,0,4,134,,5,3,4,-,1.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+106,JDS Neesham,Naseem Shah,MS Chapman,,1,0,1,135,,6,4,4,-,2.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+107,MS Chapman,Naseem Shah,JDS Neesham,,2,0,2,137,,3,3,4,-,3.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+108,MS Chapman,Naseem Shah,JDS Neesham,,6,0,6,143,,9,4,4,-,4.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+109,MS Chapman,Naseem Shah,JDS Neesham,,0,0,0,143,,9,5,4,-,5.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+110,MS Chapman,Naseem Shah,JDS Neesham,,1,0,1,144,,10,6,4,-,6.0,17,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+111,MS Chapman,Haris Rauf,JDS Neesham,,1,0,1,145,,11,7,4,-,1.0,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+112,JDS Neesham,Haris Rauf,MS Chapman,,4,0,4,149,,10,5,4,-,2.0,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+113,JDS Neesham,Haris Rauf,MS Chapman,,0,0,0,149,,10,6,4,-,3.0,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+114,JDS Neesham,Haris Rauf,MS Chapman,,0,0,0,149,,10,7,5,-,4.0,18,caught,JDS Neesham,Fakhar Zaman,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+115,R Ravindra,Haris Rauf,MS Chapman,,1,0,1,150,,1,1,5,-,5.0,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+116,MS Chapman,Haris Rauf,R Ravindra,,4,0,4,154,,15,8,5,-,6.0,18,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+117,R Ravindra,Shaheen Shah Afridi,MS Chapman,,4,0,4,158,,5,2,5,-,1.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+118,R Ravindra,Shaheen Shah Afridi,MS Chapman,,1,0,1,159,,6,3,5,-,2.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+119,MS Chapman,Shaheen Shah Afridi,R Ravindra,,1,0,1,160,,16,9,5,-,3.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+120,R Ravindra,Shaheen Shah Afridi,MS Chapman,,0,0,0,160,,6,4,5,-,4.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+121,R Ravindra,Shaheen Shah Afridi,MS Chapman,,2,0,2,162,,8,5,5,-,5.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163
+122,R Ravindra,Shaheen Shah Afridi,MS Chapman,,0,1,1,163,,8,6,5,byes,6.0,19,0,,,bat,New Zealand,1,"Gaddafi Stadium, Lahore",2023,04,New Zealand_Pakistan_2023-04-17,New Zealand,New Zealand,Pakistan,True,163

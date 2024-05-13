@@ -1,90 +1,90 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,wicket_type,player_out,fielder,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,LMP Simmons,MM Ali,E Lewis,0,0,0,0,,0,1,0,1,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-1,LMP Simmons,MM Ali,E Lewis,0,0,0,0,,0,2,0,2,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-2,LMP Simmons,MM Ali,E Lewis,1,0,1,1,,1,3,0,3,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-3,E Lewis,MM Ali,LMP Simmons,0,0,0,1,,0,1,0,4,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-4,E Lewis,MM Ali,LMP Simmons,0,0,0,1,,0,2,0,5,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-5,E Lewis,MM Ali,LMP Simmons,6,0,6,7,,6,3,0,6,0,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-6,LMP Simmons,CR Woakes,E Lewis,1,0,1,8,,2,4,0,1,1,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-7,E Lewis,CR Woakes,LMP Simmons,0,0,0,8,,6,4,0,2,1,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-8,E Lewis,CR Woakes,LMP Simmons,0,0,0,8,,6,5,1,3,1,caught,E Lewis,MM Ali,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-9,LMP Simmons,CR Woakes,CH Gayle,1,0,1,9,,3,5,1,4,1,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-10,CH Gayle,CR Woakes,LMP Simmons,0,0,0,9,,0,1,1,5,1,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-11,CH Gayle,CR Woakes,LMP Simmons,0,0,0,9,,0,2,1,6,1,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-12,LMP Simmons,MM Ali,CH Gayle,0,0,0,9,,3,6,1,1,2,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-13,LMP Simmons,MM Ali,CH Gayle,0,0,0,9,,3,7,2,2,2,caught,LMP Simmons,LS Livingstone,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-14,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,1,2,3,2,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-15,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,2,2,4,2,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-16,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,3,2,5,2,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-17,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,4,2,6,2,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-18,CH Gayle,CR Woakes,SO Hetmyer,4,0,4,13,,4,3,2,1,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-19,CH Gayle,CR Woakes,SO Hetmyer,4,0,4,17,,8,4,2,2,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-20,CH Gayle,CR Woakes,SO Hetmyer,0,0,0,17,,8,5,2,3,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-21,CH Gayle,CR Woakes,SO Hetmyer,0,0,0,17,,8,6,2,4,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-22,CH Gayle,CR Woakes,SO Hetmyer,1,0,1,18,,9,7,2,5,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-23,SO Hetmyer,CR Woakes,CH Gayle,1,0,1,19,,1,5,2,6,3,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-24,SO Hetmyer,MM Ali,CH Gayle,4,0,4,23,,5,6,2,1,4,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-25,SO Hetmyer,MM Ali,CH Gayle,4,0,4,27,,9,7,2,2,4,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-26,SO Hetmyer,MM Ali,CH Gayle,0,0,0,27,,9,8,2,3,4,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-27,SO Hetmyer,MM Ali,CH Gayle,0,0,0,27,,9,9,3,4,4,caught,SO Hetmyer,EJG Morgan,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-28,DJ Bravo,MM Ali,CH Gayle,0,0,0,27,,0,1,3,5,4,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-29,DJ Bravo,MM Ali,CH Gayle,0,0,0,27,,0,2,3,6,4,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-30,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,8,3,1,5,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-31,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,9,3,2,5,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-32,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,10,3,3,5,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-33,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,11,3,4,5,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-34,CH Gayle,TS Mills,DJ Bravo,4,0,4,31,,13,12,3,5,5,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-35,CH Gayle,TS Mills,DJ Bravo,0,0,0,31,,13,13,4,6,5,caught,CH Gayle,DJ Malan,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-36,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,1,4,1,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-37,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,2,4,2,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-38,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,3,4,3,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-39,N Pooran,MM Ali,DJ Bravo,1,0,1,32,,1,4,4,4,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-40,DJ Bravo,MM Ali,N Pooran,1,0,1,33,,1,3,4,5,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-41,N Pooran,MM Ali,DJ Bravo,0,0,0,33,,1,5,4,6,6,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-42,DJ Bravo,CJ Jordan,N Pooran,4,0,4,37,,5,4,4,1,7,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-43,DJ Bravo,CJ Jordan,N Pooran,0,0,0,37,,5,5,5,2,7,caught,DJ Bravo,JM Bairstow,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-44,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,1,5,3,7,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-45,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,2,5,4,7,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-46,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,3,5,5,7,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-47,KA Pollard,CJ Jordan,N Pooran,1,0,1,38,,1,4,5,6,7,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-48,KA Pollard,TS Mills,N Pooran,0,1,1,39,,1,5,5,1,8,0,,,wides,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-49,KA Pollard,TS Mills,N Pooran,1,0,1,40,,2,6,5,2,8,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-50,N Pooran,TS Mills,KA Pollard,0,1,1,41,,1,6,5,3,8,0,,,wides,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-51,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,7,5,4,8,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-52,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,8,5,5,8,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-53,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,9,5,6,8,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-54,N Pooran,TS Mills,KA Pollard,0,1,1,42,,1,10,5,7,8,0,,,wides,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-55,N Pooran,TS Mills,KA Pollard,0,0,0,42,,1,11,6,8,8,caught,N Pooran,JC Buttler,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-56,AD Russell,TS Mills,KA Pollard,0,0,0,42,,0,1,6,9,8,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-57,KA Pollard,CJ Jordan,AD Russell,2,0,2,44,,4,7,6,1,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-58,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,8,6,2,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-59,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,9,6,3,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-60,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,10,6,4,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-61,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,11,6,5,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-62,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,12,6,6,9,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-63,AD Russell,AU Rashid,KA Pollard,0,0,0,44,,0,2,7,1,10,bowled,AD Russell,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-64,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,1,7,2,10,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-65,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,2,7,3,10,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-66,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,3,7,4,10,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-67,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,4,7,5,10,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-68,AJ Hosein,AU Rashid,KA Pollard,1,0,1,45,,1,5,7,6,10,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-69,AJ Hosein,TS Mills,KA Pollard,1,0,1,46,,2,6,7,1,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-70,KA Pollard,TS Mills,AJ Hosein,1,0,1,47,,5,13,7,2,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-71,AJ Hosein,TS Mills,KA Pollard,1,0,1,48,,3,7,7,3,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-72,KA Pollard,TS Mills,AJ Hosein,1,0,1,49,,6,14,7,4,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-73,AJ Hosein,TS Mills,KA Pollard,0,0,0,49,,3,8,7,5,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-74,AJ Hosein,TS Mills,KA Pollard,0,0,0,49,,3,9,7,6,11,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-75,KA Pollard,AU Rashid,AJ Hosein,0,0,0,49,,6,15,8,1,12,caught,KA Pollard,JM Bairstow,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-76,OC McCoy,AU Rashid,AJ Hosein,0,0,0,49,,0,1,9,2,12,caught,OC McCoy,JJ Roy,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-77,R Rampaul,AU Rashid,AJ Hosein,0,0,0,49,,0,1,9,3,12,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-78,R Rampaul,AU Rashid,AJ Hosein,0,0,0,49,,0,2,9,4,12,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-79,R Rampaul,AU Rashid,AJ Hosein,1,0,1,50,,1,3,9,5,12,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-80,AJ Hosein,AU Rashid,R Rampaul,0,0,0,50,,3,10,9,6,12,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-81,R Rampaul,TS Mills,AJ Hosein,1,0,1,51,,2,4,9,1,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-82,AJ Hosein,TS Mills,R Rampaul,2,0,2,53,,5,11,9,2,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-83,AJ Hosein,TS Mills,R Rampaul,0,0,0,53,,5,12,9,3,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-84,AJ Hosein,TS Mills,R Rampaul,1,0,1,54,,6,13,9,4,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-85,R Rampaul,TS Mills,AJ Hosein,0,0,0,54,,2,5,9,5,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-86,R Rampaul,TS Mills,AJ Hosein,1,0,1,55,,3,6,9,6,13,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-87,R Rampaul,AU Rashid,AJ Hosein,0,0,0,55,,3,7,9,1,14,0,,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
-88,R Rampaul,AU Rashid,AJ Hosein,0,0,0,55,,3,8,10,2,14,bowled,R Rampaul,,-,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,LMP Simmons,MM Ali,E Lewis,0,0,0,0,,0,1,0,-,1.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+1,LMP Simmons,MM Ali,E Lewis,0,0,0,0,,0,2,0,-,2.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+2,LMP Simmons,MM Ali,E Lewis,1,0,1,1,,1,3,0,-,3.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+3,E Lewis,MM Ali,LMP Simmons,0,0,0,1,,0,1,0,-,4.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+4,E Lewis,MM Ali,LMP Simmons,0,0,0,1,,0,2,0,-,5.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+5,E Lewis,MM Ali,LMP Simmons,6,0,6,7,,6,3,0,-,6.0,0,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+6,LMP Simmons,CR Woakes,E Lewis,1,0,1,8,,2,4,0,-,1.0,1,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+7,E Lewis,CR Woakes,LMP Simmons,0,0,0,8,,6,4,0,-,2.0,1,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+8,E Lewis,CR Woakes,LMP Simmons,0,0,0,8,,6,5,1,-,3.0,1,caught,E Lewis,MM Ali,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+9,LMP Simmons,CR Woakes,CH Gayle,1,0,1,9,,3,5,1,-,4.0,1,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+10,CH Gayle,CR Woakes,LMP Simmons,0,0,0,9,,0,1,1,-,5.0,1,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+11,CH Gayle,CR Woakes,LMP Simmons,0,0,0,9,,0,2,1,-,6.0,1,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+12,LMP Simmons,MM Ali,CH Gayle,0,0,0,9,,3,6,1,-,1.0,2,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+13,LMP Simmons,MM Ali,CH Gayle,0,0,0,9,,3,7,2,-,2.0,2,caught,LMP Simmons,LS Livingstone,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+14,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,1,2,-,3.0,2,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+15,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,2,2,-,4.0,2,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+16,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,3,2,-,5.0,2,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+17,SO Hetmyer,MM Ali,CH Gayle,0,0,0,9,,0,4,2,-,6.0,2,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+18,CH Gayle,CR Woakes,SO Hetmyer,4,0,4,13,,4,3,2,-,1.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+19,CH Gayle,CR Woakes,SO Hetmyer,4,0,4,17,,8,4,2,-,2.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+20,CH Gayle,CR Woakes,SO Hetmyer,0,0,0,17,,8,5,2,-,3.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+21,CH Gayle,CR Woakes,SO Hetmyer,0,0,0,17,,8,6,2,-,4.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+22,CH Gayle,CR Woakes,SO Hetmyer,1,0,1,18,,9,7,2,-,5.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+23,SO Hetmyer,CR Woakes,CH Gayle,1,0,1,19,,1,5,2,-,6.0,3,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+24,SO Hetmyer,MM Ali,CH Gayle,4,0,4,23,,5,6,2,-,1.0,4,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+25,SO Hetmyer,MM Ali,CH Gayle,4,0,4,27,,9,7,2,-,2.0,4,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+26,SO Hetmyer,MM Ali,CH Gayle,0,0,0,27,,9,8,2,-,3.0,4,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+27,SO Hetmyer,MM Ali,CH Gayle,0,0,0,27,,9,9,3,-,4.0,4,caught,SO Hetmyer,EJG Morgan,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+28,DJ Bravo,MM Ali,CH Gayle,0,0,0,27,,0,1,3,-,5.0,4,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+29,DJ Bravo,MM Ali,CH Gayle,0,0,0,27,,0,2,3,-,6.0,4,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+30,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,8,3,-,1.0,5,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+31,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,9,3,-,2.0,5,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+32,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,10,3,-,3.0,5,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+33,CH Gayle,TS Mills,DJ Bravo,0,0,0,27,,9,11,3,-,4.0,5,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+34,CH Gayle,TS Mills,DJ Bravo,4,0,4,31,,13,12,3,-,5.0,5,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+35,CH Gayle,TS Mills,DJ Bravo,0,0,0,31,,13,13,4,-,6.0,5,caught,CH Gayle,DJ Malan,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+36,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,1,4,-,1.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+37,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,2,4,-,2.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+38,N Pooran,MM Ali,DJ Bravo,0,0,0,31,,0,3,4,-,3.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+39,N Pooran,MM Ali,DJ Bravo,1,0,1,32,,1,4,4,-,4.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+40,DJ Bravo,MM Ali,N Pooran,1,0,1,33,,1,3,4,-,5.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+41,N Pooran,MM Ali,DJ Bravo,0,0,0,33,,1,5,4,-,6.0,6,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+42,DJ Bravo,CJ Jordan,N Pooran,4,0,4,37,,5,4,4,-,1.0,7,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+43,DJ Bravo,CJ Jordan,N Pooran,0,0,0,37,,5,5,5,-,2.0,7,caught,DJ Bravo,JM Bairstow,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+44,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,1,5,-,3.0,7,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+45,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,2,5,-,4.0,7,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+46,KA Pollard,CJ Jordan,N Pooran,0,0,0,37,,0,3,5,-,5.0,7,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+47,KA Pollard,CJ Jordan,N Pooran,1,0,1,38,,1,4,5,-,6.0,7,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+48,KA Pollard,TS Mills,N Pooran,0,1,1,39,,1,5,5,wides,0.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+49,KA Pollard,TS Mills,N Pooran,1,0,1,40,,2,6,5,-,1.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+50,N Pooran,TS Mills,KA Pollard,0,1,1,41,,1,6,5,wides,1.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+51,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,7,5,-,2.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+52,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,8,5,-,3.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+53,N Pooran,TS Mills,KA Pollard,0,0,0,41,,1,9,5,-,4.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+54,N Pooran,TS Mills,KA Pollard,0,1,1,42,,1,10,5,wides,4.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+55,N Pooran,TS Mills,KA Pollard,0,0,0,42,,1,11,6,-,5.0,8,caught,N Pooran,JC Buttler,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+56,AD Russell,TS Mills,KA Pollard,0,0,0,42,,0,1,6,-,6.0,8,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+57,KA Pollard,CJ Jordan,AD Russell,2,0,2,44,,4,7,6,-,1.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+58,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,8,6,-,2.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+59,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,9,6,-,3.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+60,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,10,6,-,4.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+61,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,11,6,-,5.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+62,KA Pollard,CJ Jordan,AD Russell,0,0,0,44,,4,12,6,-,6.0,9,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+63,AD Russell,AU Rashid,KA Pollard,0,0,0,44,,0,2,7,-,1.0,10,bowled,AD Russell,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+64,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,1,7,-,2.0,10,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+65,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,2,7,-,3.0,10,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+66,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,3,7,-,4.0,10,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+67,AJ Hosein,AU Rashid,KA Pollard,0,0,0,44,,0,4,7,-,5.0,10,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+68,AJ Hosein,AU Rashid,KA Pollard,1,0,1,45,,1,5,7,-,6.0,10,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+69,AJ Hosein,TS Mills,KA Pollard,1,0,1,46,,2,6,7,-,1.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+70,KA Pollard,TS Mills,AJ Hosein,1,0,1,47,,5,13,7,-,2.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+71,AJ Hosein,TS Mills,KA Pollard,1,0,1,48,,3,7,7,-,3.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+72,KA Pollard,TS Mills,AJ Hosein,1,0,1,49,,6,14,7,-,4.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+73,AJ Hosein,TS Mills,KA Pollard,0,0,0,49,,3,8,7,-,5.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+74,AJ Hosein,TS Mills,KA Pollard,0,0,0,49,,3,9,7,-,6.0,11,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+75,KA Pollard,AU Rashid,AJ Hosein,0,0,0,49,,6,15,8,-,1.0,12,caught,KA Pollard,JM Bairstow,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+76,OC McCoy,AU Rashid,AJ Hosein,0,0,0,49,,0,1,9,-,2.0,12,caught,OC McCoy,JJ Roy,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+77,R Rampaul,AU Rashid,AJ Hosein,0,0,0,49,,0,1,9,-,3.0,12,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+78,R Rampaul,AU Rashid,AJ Hosein,0,0,0,49,,0,2,9,-,4.0,12,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+79,R Rampaul,AU Rashid,AJ Hosein,1,0,1,50,,1,3,9,-,5.0,12,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+80,AJ Hosein,AU Rashid,R Rampaul,0,0,0,50,,3,10,9,-,6.0,12,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+81,R Rampaul,TS Mills,AJ Hosein,1,0,1,51,,2,4,9,-,1.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+82,AJ Hosein,TS Mills,R Rampaul,2,0,2,53,,5,11,9,-,2.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+83,AJ Hosein,TS Mills,R Rampaul,0,0,0,53,,5,12,9,-,3.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+84,AJ Hosein,TS Mills,R Rampaul,1,0,1,54,,6,13,9,-,4.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+85,R Rampaul,TS Mills,AJ Hosein,0,0,0,54,,2,5,9,-,5.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+86,R Rampaul,TS Mills,AJ Hosein,1,0,1,55,,3,6,9,-,6.0,13,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+87,R Rampaul,AU Rashid,AJ Hosein,0,0,0,55,,3,7,9,-,1.0,14,0,,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55
+88,R Rampaul,AU Rashid,AJ Hosein,0,0,0,55,,3,8,10,-,2.0,14,bowled,R Rampaul,,field,England,1,Dubai International Cricket Stadium,2021,10,West Indies_England_2021-10-23,England,West Indies,England,False,55

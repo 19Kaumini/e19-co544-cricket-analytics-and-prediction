@@ -1,79 +1,79 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,PR Stirling,UT Yadav,JNK Shannon,0,0,0,0,213,0,1,0,1,0,,,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-1,PR Stirling,UT Yadav,JNK Shannon,0,0,0,0,213,0,2,1,2,caught,PR Stirling,SK Raina,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-2,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,1,1,3,0,,,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-3,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,2,1,4,0,,,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-4,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,3,1,5,0,,,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-5,WTS Porterfield,UT Yadav,JNK Shannon,1,0,1,1,212,1,4,1,6,0,,,0,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-6,WTS Porterfield,S Kaul,JNK Shannon,0,0,0,1,212,1,5,1,1,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-7,WTS Porterfield,S Kaul,JNK Shannon,0,0,0,1,212,1,6,1,2,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-8,WTS Porterfield,S Kaul,JNK Shannon,1,0,1,2,211,2,7,1,3,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-9,JNK Shannon,S Kaul,WTS Porterfield,0,0,0,2,211,0,1,1,4,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-10,JNK Shannon,S Kaul,WTS Porterfield,0,0,0,2,211,0,2,1,5,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-11,JNK Shannon,S Kaul,WTS Porterfield,2,0,2,4,209,2,3,1,6,0,,,1,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-12,WTS Porterfield,UT Yadav,JNK Shannon,4,0,4,8,205,6,8,1,1,0,,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-13,WTS Porterfield,UT Yadav,JNK Shannon,2,0,2,10,203,8,9,1,2,0,,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-14,WTS Porterfield,UT Yadav,JNK Shannon,6,0,6,16,197,14,10,1,3,0,,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-15,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,16,197,14,11,2,4,bowled,WTS Porterfield,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-16,A Balbirnie,UT Yadav,JNK Shannon,2,0,2,18,195,2,1,2,5,0,,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-17,A Balbirnie,UT Yadav,JNK Shannon,4,0,4,22,191,6,2,2,6,0,,,2,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-18,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,4,2,1,0,,,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-19,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,5,2,2,0,,,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-20,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,6,2,3,0,,,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-21,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,7,3,4,caught,JNK Shannon,KL Rahul,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-22,GC Wilson,S Kaul,A Balbirnie,0,0,0,22,191,0,1,3,5,0,,,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-23,GC Wilson,S Kaul,A Balbirnie,0,1,1,23,190,0,2,3,6,0,,,3,wides,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-24,GC Wilson,S Kaul,A Balbirnie,0,0,0,23,190,0,3,3,7,0,,,3,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-25,A Balbirnie,HH Pandya,GC Wilson,1,0,1,24,189,7,3,3,1,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-26,GC Wilson,HH Pandya,A Balbirnie,0,0,0,24,189,0,4,3,2,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-27,GC Wilson,HH Pandya,A Balbirnie,1,0,1,25,188,1,5,3,3,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-28,A Balbirnie,HH Pandya,GC Wilson,0,0,0,25,188,7,4,3,4,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-29,A Balbirnie,HH Pandya,GC Wilson,1,0,1,26,187,8,5,3,5,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-30,GC Wilson,HH Pandya,A Balbirnie,1,0,1,27,186,2,6,3,6,0,,,4,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-31,GC Wilson,YS Chahal,A Balbirnie,0,0,0,27,186,2,7,3,1,0,,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-32,GC Wilson,YS Chahal,A Balbirnie,1,0,1,28,185,3,8,3,2,0,,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-33,A Balbirnie,YS Chahal,GC Wilson,1,0,1,29,184,9,6,3,3,0,,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-34,GC Wilson,YS Chahal,A Balbirnie,0,0,0,29,184,3,9,3,4,0,,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-35,GC Wilson,YS Chahal,A Balbirnie,1,0,1,30,183,4,10,3,5,0,,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-36,A Balbirnie,YS Chahal,GC Wilson,0,0,0,30,183,9,7,4,6,bowled,A Balbirnie,,5,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-37,GC Wilson,HH Pandya,KJ O'Brien,0,1,1,31,182,4,11,4,1,0,,,6,wides,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-38,GC Wilson,HH Pandya,KJ O'Brien,1,0,1,32,181,5,12,4,2,0,,,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-39,KJ O'Brien,HH Pandya,GC Wilson,0,0,0,32,181,0,1,4,3,0,,,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-40,KJ O'Brien,HH Pandya,GC Wilson,0,0,0,32,181,0,2,5,4,caught,KJ O'Brien,Kuldeep Yadav,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-41,GC Wilson,HH Pandya,Simi Singh,4,0,4,36,177,9,13,5,5,0,,,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-42,GC Wilson,HH Pandya,Simi Singh,0,0,0,36,177,9,14,5,6,0,,,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-43,GC Wilson,HH Pandya,Simi Singh,0,0,0,36,177,9,15,5,7,0,,,6,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-44,Simi Singh,YS Chahal,GC Wilson,0,0,0,36,177,0,1,5,1,0,,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-45,Simi Singh,YS Chahal,GC Wilson,0,0,0,36,177,0,2,6,2,lbw,Simi Singh,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-46,SR Thompson,YS Chahal,GC Wilson,1,0,1,37,176,1,1,6,3,0,,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-47,GC Wilson,YS Chahal,SR Thompson,1,0,1,38,175,10,16,6,4,0,,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-48,SR Thompson,YS Chahal,GC Wilson,1,0,1,39,174,2,2,6,5,0,,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-49,GC Wilson,YS Chahal,SR Thompson,1,0,1,40,173,11,17,6,6,0,,,7,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-50,GC Wilson,Kuldeep Yadav,SR Thompson,4,0,4,44,169,15,18,6,1,0,,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-51,GC Wilson,Kuldeep Yadav,SR Thompson,0,0,0,44,169,15,19,6,2,0,,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-52,GC Wilson,Kuldeep Yadav,SR Thompson,0,0,0,44,169,15,20,7,3,bowled,GC Wilson,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-53,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,44,169,0,1,7,4,0,,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-54,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,44,169,0,2,7,5,0,,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-55,GH Dockrell,Kuldeep Yadav,SR Thompson,1,0,1,45,168,1,3,7,6,0,,,8,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-56,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,4,7,1,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-57,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,5,7,2,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-58,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,6,7,3,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-59,GH Dockrell,YS Chahal,SR Thompson,3,0,3,48,165,4,7,7,4,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-60,SR Thompson,YS Chahal,GH Dockrell,4,0,4,52,161,6,3,7,5,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-61,SR Thompson,YS Chahal,GH Dockrell,4,0,4,56,157,10,4,7,6,0,,,9,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-62,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,56,157,4,8,8,1,caught,GH Dockrell,UT Yadav,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-63,SR Thompson,Kuldeep Yadav,WB Rankin,1,0,1,57,156,11,5,8,2,0,,,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-64,WB Rankin,Kuldeep Yadav,SR Thompson,0,0,0,57,156,0,1,8,3,0,,,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-65,WB Rankin,Kuldeep Yadav,SR Thompson,1,0,1,58,155,1,2,8,4,0,,,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-66,SR Thompson,Kuldeep Yadav,WB Rankin,1,0,1,59,154,12,6,8,5,0,,,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-67,WB Rankin,Kuldeep Yadav,SR Thompson,6,0,6,65,148,7,3,8,6,0,,,10,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-68,SR Thompson,YS Chahal,WB Rankin,0,0,0,65,148,12,7,8,1,0,,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-69,SR Thompson,YS Chahal,WB Rankin,1,0,1,66,147,13,8,8,2,0,,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-70,WB Rankin,YS Chahal,SR Thompson,0,0,0,66,147,7,4,8,3,0,,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-71,WB Rankin,YS Chahal,SR Thompson,0,1,1,67,146,7,5,8,4,0,,,11,wides,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-72,WB Rankin,YS Chahal,SR Thompson,1,0,1,68,145,8,6,8,5,0,,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-73,SR Thompson,YS Chahal,WB Rankin,0,0,0,68,145,13,9,9,6,bowled,SR Thompson,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-74,PKD Chase,YS Chahal,WB Rankin,0,0,0,68,145,0,1,9,7,0,,,11,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-75,WB Rankin,Kuldeep Yadav,PKD Chase,0,0,0,68,145,8,7,9,1,0,,,12,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-76,WB Rankin,Kuldeep Yadav,PKD Chase,2,0,2,70,143,10,8,9,2,0,,,12,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
-77,WB Rankin,Kuldeep Yadav,PKD Chase,0,0,0,70,143,10,9,10,3,stumped,WB Rankin,KD Karthik,12,-,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,PR Stirling,UT Yadav,JNK Shannon,0,0,0,0,213,0,1,0,-,1.0,0,,,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+1,PR Stirling,UT Yadav,JNK Shannon,0,0,0,0,213,0,2,1,-,2.0,caught,PR Stirling,SK Raina,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+2,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,1,1,-,3.0,0,,,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+3,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,2,1,-,4.0,0,,,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+4,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,0,213,0,3,1,-,5.0,0,,,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+5,WTS Porterfield,UT Yadav,JNK Shannon,1,0,1,1,212,1,4,1,-,6.0,0,,,0,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+6,WTS Porterfield,S Kaul,JNK Shannon,0,0,0,1,212,1,5,1,-,1.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+7,WTS Porterfield,S Kaul,JNK Shannon,0,0,0,1,212,1,6,1,-,2.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+8,WTS Porterfield,S Kaul,JNK Shannon,1,0,1,2,211,2,7,1,-,3.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+9,JNK Shannon,S Kaul,WTS Porterfield,0,0,0,2,211,0,1,1,-,4.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+10,JNK Shannon,S Kaul,WTS Porterfield,0,0,0,2,211,0,2,1,-,5.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+11,JNK Shannon,S Kaul,WTS Porterfield,2,0,2,4,209,2,3,1,-,6.0,0,,,1,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+12,WTS Porterfield,UT Yadav,JNK Shannon,4,0,4,8,205,6,8,1,-,1.0,0,,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+13,WTS Porterfield,UT Yadav,JNK Shannon,2,0,2,10,203,8,9,1,-,2.0,0,,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+14,WTS Porterfield,UT Yadav,JNK Shannon,6,0,6,16,197,14,10,1,-,3.0,0,,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+15,WTS Porterfield,UT Yadav,JNK Shannon,0,0,0,16,197,14,11,2,-,4.0,bowled,WTS Porterfield,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+16,A Balbirnie,UT Yadav,JNK Shannon,2,0,2,18,195,2,1,2,-,5.0,0,,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+17,A Balbirnie,UT Yadav,JNK Shannon,4,0,4,22,191,6,2,2,-,6.0,0,,,2,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+18,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,4,2,-,1.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+19,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,5,2,-,2.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+20,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,6,2,-,3.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+21,JNK Shannon,S Kaul,A Balbirnie,0,0,0,22,191,2,7,3,-,4.0,caught,JNK Shannon,KL Rahul,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+22,GC Wilson,S Kaul,A Balbirnie,0,0,0,22,191,0,1,3,-,5.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+23,GC Wilson,S Kaul,A Balbirnie,0,1,1,23,190,0,2,3,wides,5.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+24,GC Wilson,S Kaul,A Balbirnie,0,0,0,23,190,0,3,3,-,6.0,0,,,3,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+25,A Balbirnie,HH Pandya,GC Wilson,1,0,1,24,189,7,3,3,-,1.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+26,GC Wilson,HH Pandya,A Balbirnie,0,0,0,24,189,0,4,3,-,2.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+27,GC Wilson,HH Pandya,A Balbirnie,1,0,1,25,188,1,5,3,-,3.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+28,A Balbirnie,HH Pandya,GC Wilson,0,0,0,25,188,7,4,3,-,4.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+29,A Balbirnie,HH Pandya,GC Wilson,1,0,1,26,187,8,5,3,-,5.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+30,GC Wilson,HH Pandya,A Balbirnie,1,0,1,27,186,2,6,3,-,6.0,0,,,4,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+31,GC Wilson,YS Chahal,A Balbirnie,0,0,0,27,186,2,7,3,-,1.0,0,,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+32,GC Wilson,YS Chahal,A Balbirnie,1,0,1,28,185,3,8,3,-,2.0,0,,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+33,A Balbirnie,YS Chahal,GC Wilson,1,0,1,29,184,9,6,3,-,3.0,0,,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+34,GC Wilson,YS Chahal,A Balbirnie,0,0,0,29,184,3,9,3,-,4.0,0,,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+35,GC Wilson,YS Chahal,A Balbirnie,1,0,1,30,183,4,10,3,-,5.0,0,,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+36,A Balbirnie,YS Chahal,GC Wilson,0,0,0,30,183,9,7,4,-,6.0,bowled,A Balbirnie,,5,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+37,GC Wilson,HH Pandya,KJ O'Brien,0,1,1,31,182,4,11,4,wides,0.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+38,GC Wilson,HH Pandya,KJ O'Brien,1,0,1,32,181,5,12,4,-,1.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+39,KJ O'Brien,HH Pandya,GC Wilson,0,0,0,32,181,0,1,4,-,2.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+40,KJ O'Brien,HH Pandya,GC Wilson,0,0,0,32,181,0,2,5,-,3.0,caught,KJ O'Brien,Kuldeep Yadav,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+41,GC Wilson,HH Pandya,Simi Singh,4,0,4,36,177,9,13,5,-,4.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+42,GC Wilson,HH Pandya,Simi Singh,0,0,0,36,177,9,14,5,-,5.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+43,GC Wilson,HH Pandya,Simi Singh,0,0,0,36,177,9,15,5,-,6.0,0,,,6,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+44,Simi Singh,YS Chahal,GC Wilson,0,0,0,36,177,0,1,5,-,1.0,0,,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+45,Simi Singh,YS Chahal,GC Wilson,0,0,0,36,177,0,2,6,-,2.0,lbw,Simi Singh,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+46,SR Thompson,YS Chahal,GC Wilson,1,0,1,37,176,1,1,6,-,3.0,0,,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+47,GC Wilson,YS Chahal,SR Thompson,1,0,1,38,175,10,16,6,-,4.0,0,,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+48,SR Thompson,YS Chahal,GC Wilson,1,0,1,39,174,2,2,6,-,5.0,0,,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+49,GC Wilson,YS Chahal,SR Thompson,1,0,1,40,173,11,17,6,-,6.0,0,,,7,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+50,GC Wilson,Kuldeep Yadav,SR Thompson,4,0,4,44,169,15,18,6,-,1.0,0,,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+51,GC Wilson,Kuldeep Yadav,SR Thompson,0,0,0,44,169,15,19,6,-,2.0,0,,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+52,GC Wilson,Kuldeep Yadav,SR Thompson,0,0,0,44,169,15,20,7,-,3.0,bowled,GC Wilson,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+53,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,44,169,0,1,7,-,4.0,0,,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+54,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,44,169,0,2,7,-,5.0,0,,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+55,GH Dockrell,Kuldeep Yadav,SR Thompson,1,0,1,45,168,1,3,7,-,6.0,0,,,8,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+56,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,4,7,-,1.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+57,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,5,7,-,2.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+58,GH Dockrell,YS Chahal,SR Thompson,0,0,0,45,168,1,6,7,-,3.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+59,GH Dockrell,YS Chahal,SR Thompson,3,0,3,48,165,4,7,7,-,4.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+60,SR Thompson,YS Chahal,GH Dockrell,4,0,4,52,161,6,3,7,-,5.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+61,SR Thompson,YS Chahal,GH Dockrell,4,0,4,56,157,10,4,7,-,6.0,0,,,9,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+62,GH Dockrell,Kuldeep Yadav,SR Thompson,0,0,0,56,157,4,8,8,-,1.0,caught,GH Dockrell,UT Yadav,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+63,SR Thompson,Kuldeep Yadav,WB Rankin,1,0,1,57,156,11,5,8,-,2.0,0,,,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+64,WB Rankin,Kuldeep Yadav,SR Thompson,0,0,0,57,156,0,1,8,-,3.0,0,,,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+65,WB Rankin,Kuldeep Yadav,SR Thompson,1,0,1,58,155,1,2,8,-,4.0,0,,,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+66,SR Thompson,Kuldeep Yadav,WB Rankin,1,0,1,59,154,12,6,8,-,5.0,0,,,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+67,WB Rankin,Kuldeep Yadav,SR Thompson,6,0,6,65,148,7,3,8,-,6.0,0,,,10,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+68,SR Thompson,YS Chahal,WB Rankin,0,0,0,65,148,12,7,8,-,1.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+69,SR Thompson,YS Chahal,WB Rankin,1,0,1,66,147,13,8,8,-,2.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+70,WB Rankin,YS Chahal,SR Thompson,0,0,0,66,147,7,4,8,-,3.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+71,WB Rankin,YS Chahal,SR Thompson,0,1,1,67,146,7,5,8,wides,3.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+72,WB Rankin,YS Chahal,SR Thompson,1,0,1,68,145,8,6,8,-,4.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+73,SR Thompson,YS Chahal,WB Rankin,0,0,0,68,145,13,9,9,-,5.0,bowled,SR Thompson,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+74,PKD Chase,YS Chahal,WB Rankin,0,0,0,68,145,0,1,9,-,6.0,0,,,11,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+75,WB Rankin,Kuldeep Yadav,PKD Chase,0,0,0,68,145,8,7,9,-,1.0,0,,,12,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+76,WB Rankin,Kuldeep Yadav,PKD Chase,2,0,2,70,143,10,8,9,-,2.0,0,,,12,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70
+77,WB Rankin,Kuldeep Yadav,PKD Chase,0,0,0,70,143,10,9,10,-,3.0,stumped,WB Rankin,KD Karthik,12,field,Ireland,2,"The Village, Malahide",2018,06,India_Ireland_2018-06-29,India,Ireland,India,False,70

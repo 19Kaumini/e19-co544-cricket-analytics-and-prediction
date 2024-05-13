@@ -1,87 +1,87 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,FH Allen,SM Curran,DP Conway,0,0,0,0,198,0,1,0,1,-,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-1,FH Allen,SM Curran,DP Conway,0,0,0,0,198,0,2,0,2,-,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-2,FH Allen,SM Curran,DP Conway,1,0,1,1,197,1,3,0,3,-,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-3,DP Conway,SM Curran,FH Allen,0,1,1,2,196,0,1,0,4,legbyes,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-4,FH Allen,SM Curran,DP Conway,1,0,1,3,195,2,4,0,5,-,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-5,DP Conway,SM Curran,FH Allen,0,0,0,3,195,0,2,0,6,-,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-6,FH Allen,AAP Atkinson,DP Conway,1,0,1,4,194,3,5,0,1,-,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-7,DP Conway,AAP Atkinson,FH Allen,2,0,2,6,192,2,3,0,2,-,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-8,DP Conway,AAP Atkinson,FH Allen,0,0,0,6,192,2,4,0,3,-,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-9,DP Conway,AAP Atkinson,FH Allen,0,0,0,6,192,2,5,1,4,-,1,caught,DP Conway,LS Livingstone,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-10,TL Seifert,AAP Atkinson,FH Allen,0,0,0,6,192,0,1,1,5,-,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-11,TL Seifert,AAP Atkinson,FH Allen,2,0,2,8,190,2,2,1,6,-,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-12,FH Allen,SM Curran,TL Seifert,0,0,0,8,190,3,6,2,1,-,2,caught,FH Allen,WG Jacks,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-13,GD Phillips,SM Curran,TL Seifert,1,0,1,9,189,1,1,2,2,-,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-14,TL Seifert,SM Curran,GD Phillips,1,0,1,10,188,3,3,2,3,-,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-15,GD Phillips,SM Curran,TL Seifert,1,0,1,11,187,2,2,2,4,-,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-16,TL Seifert,SM Curran,GD Phillips,1,0,1,12,186,4,4,2,5,-,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-17,GD Phillips,SM Curran,TL Seifert,1,0,1,13,185,3,3,2,6,-,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-18,GD Phillips,AAP Atkinson,TL Seifert,0,0,0,13,185,3,4,2,1,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-19,GD Phillips,AAP Atkinson,TL Seifert,4,0,4,17,181,7,5,2,2,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-20,GD Phillips,AAP Atkinson,TL Seifert,1,0,1,18,180,8,6,2,3,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-21,TL Seifert,AAP Atkinson,GD Phillips,0,0,0,18,180,4,5,2,4,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-22,TL Seifert,AAP Atkinson,GD Phillips,1,0,1,19,179,5,6,2,5,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-23,GD Phillips,AAP Atkinson,TL Seifert,1,0,1,20,178,9,7,2,6,-,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-24,GD Phillips,SM Curran,TL Seifert,0,0,0,20,178,9,8,2,1,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-25,GD Phillips,SM Curran,TL Seifert,1,0,1,21,177,10,9,2,2,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-26,TL Seifert,SM Curran,GD Phillips,0,0,0,21,177,5,7,2,3,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-27,TL Seifert,SM Curran,GD Phillips,0,1,1,22,176,5,8,2,4,wides,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-28,TL Seifert,SM Curran,GD Phillips,0,1,1,23,175,5,9,2,5,noballs,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-29,TL Seifert,SM Curran,GD Phillips,0,0,0,23,175,5,10,2,6,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-30,TL Seifert,SM Curran,GD Phillips,4,0,4,27,171,9,11,2,7,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-31,TL Seifert,SM Curran,GD Phillips,4,0,4,31,167,13,12,2,8,-,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-32,GD Phillips,BA Carse,TL Seifert,4,0,4,35,163,14,10,2,1,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-33,GD Phillips,BA Carse,TL Seifert,1,0,1,36,162,15,11,2,2,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-34,TL Seifert,BA Carse,GD Phillips,1,0,1,37,161,14,13,2,3,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-35,GD Phillips,BA Carse,TL Seifert,4,0,4,41,157,19,12,2,4,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-36,GD Phillips,BA Carse,TL Seifert,0,0,0,41,157,19,13,2,5,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-37,GD Phillips,BA Carse,TL Seifert,1,0,1,42,156,20,14,2,6,-,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-38,GD Phillips,AU Rashid,TL Seifert,2,0,2,44,154,22,15,2,1,-,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-39,GD Phillips,AU Rashid,TL Seifert,0,0,0,44,154,22,16,2,2,-,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-40,GD Phillips,AU Rashid,TL Seifert,0,0,0,44,154,22,17,3,3,-,6,caught,GD Phillips,HC Brook,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-41,MS Chapman,AU Rashid,TL Seifert,1,0,1,45,153,1,1,3,4,-,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-42,TL Seifert,AU Rashid,MS Chapman,1,0,1,46,152,15,14,3,5,-,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-43,MS Chapman,AU Rashid,TL Seifert,1,0,1,47,151,2,2,3,6,-,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-44,MS Chapman,MM Ali,TL Seifert,1,0,1,48,150,3,3,3,1,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-45,TL Seifert,MM Ali,MS Chapman,0,0,0,48,150,15,15,3,2,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-46,TL Seifert,MM Ali,MS Chapman,2,0,2,50,148,17,16,3,3,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-47,TL Seifert,MM Ali,MS Chapman,1,0,1,51,147,18,17,3,4,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-48,MS Chapman,MM Ali,TL Seifert,1,0,1,52,146,4,4,3,5,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-49,TL Seifert,MM Ali,MS Chapman,4,0,4,56,142,22,18,3,6,-,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-50,MS Chapman,LS Livingstone,TL Seifert,6,0,6,62,136,10,5,3,1,-,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-51,MS Chapman,LS Livingstone,TL Seifert,4,0,4,66,132,14,6,3,2,-,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-52,MS Chapman,LS Livingstone,TL Seifert,1,0,1,67,131,15,7,3,3,-,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-53,TL Seifert,LS Livingstone,MS Chapman,4,0,4,71,127,26,19,3,4,-,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-54,TL Seifert,LS Livingstone,MS Chapman,1,0,1,72,126,27,20,3,5,-,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-55,MS Chapman,LS Livingstone,TL Seifert,0,0,0,72,126,15,8,4,6,-,8,caught,MS Chapman,HC Brook,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-56,TL Seifert,BA Carse,DJ Mitchell,1,0,1,73,125,28,21,4,1,-,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-57,DJ Mitchell,BA Carse,TL Seifert,0,1,1,74,124,0,1,4,2,wides,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-58,DJ Mitchell,BA Carse,TL Seifert,0,0,0,74,124,0,2,5,3,-,9,caught,DJ Mitchell,JC Buttler,"{'by': 'England', 'umpire': 'MJ Saggers', 'batter': 'DJ Mitchell', 'decision': 'upheld', 'type': 'wicket'}",bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-59,MJ Santner,BA Carse,TL Seifert,0,0,0,74,124,0,1,5,4,-,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-60,MJ Santner,BA Carse,TL Seifert,1,0,1,75,123,1,2,5,5,-,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-61,TL Seifert,BA Carse,MJ Santner,0,0,0,75,123,28,22,5,6,-,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-62,TL Seifert,BA Carse,MJ Santner,2,0,2,77,121,30,23,5,7,-,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-63,MJ Santner,AU Rashid,TL Seifert,0,0,0,77,121,1,3,5,1,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-64,MJ Santner,AU Rashid,TL Seifert,0,0,0,77,121,1,4,5,2,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-65,MJ Santner,AU Rashid,TL Seifert,1,0,1,78,120,2,5,5,3,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-66,TL Seifert,AU Rashid,MJ Santner,0,0,0,78,120,30,24,5,4,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-67,TL Seifert,AU Rashid,MJ Santner,1,0,1,79,119,31,25,5,5,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-68,MJ Santner,AU Rashid,TL Seifert,4,0,4,83,115,6,6,5,6,-,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-69,TL Seifert,WG Jacks,MJ Santner,1,0,1,84,114,32,26,5,1,-,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-70,MJ Santner,WG Jacks,TL Seifert,1,0,1,85,113,7,7,5,2,-,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-71,TL Seifert,WG Jacks,MJ Santner,1,0,1,86,112,33,27,5,3,-,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-72,MJ Santner,WG Jacks,TL Seifert,1,0,1,87,111,8,8,5,4,-,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-73,TL Seifert,WG Jacks,MJ Santner,1,0,1,88,110,34,28,5,5,-,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-74,MJ Santner,WG Jacks,TL Seifert,0,0,0,88,110,8,9,6,6,-,11,bowled,MJ Santner,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-75,TL Seifert,AU Rashid,AF Milne,3,0,3,91,107,37,29,6,1,-,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-76,AF Milne,AU Rashid,TL Seifert,1,0,1,92,106,1,1,6,2,-,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-77,TL Seifert,AU Rashid,AF Milne,1,0,1,93,105,38,30,6,3,-,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-78,AF Milne,AU Rashid,TL Seifert,1,0,1,94,104,2,2,6,4,-,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-79,TL Seifert,AU Rashid,AF Milne,1,0,1,95,103,39,31,6,5,-,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-80,AF Milne,AU Rashid,TL Seifert,0,0,0,95,103,2,3,7,6,-,12,caught,AF Milne,MM Ali,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-81,TL Seifert,AAP Atkinson,IS Sodhi,0,0,0,95,103,39,32,8,1,-,13,caught,TL Seifert,JC Buttler,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-82,TG Southee,AAP Atkinson,IS Sodhi,2,0,2,97,101,2,1,8,2,-,13,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-83,TG Southee,AAP Atkinson,IS Sodhi,6,0,6,103,95,8,2,8,3,-,13,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-84,TG Southee,AAP Atkinson,IS Sodhi,0,0,0,103,95,8,3,9,4,-,13,lbw,TG Southee,,"{'by': 'New Zealand', 'umpire': 'MJ Saggers', 'batter': 'TG Southee', 'decision': 'struck down', 'type': 'wicket'}",bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
-85,LH Ferguson,AAP Atkinson,IS Sodhi,0,0,0,103,95,0,1,10,5,-,13,bowled,LH Ferguson,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,FH Allen,SM Curran,DP Conway,0,0,0,0,198,0,1,0,-,1.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+1,FH Allen,SM Curran,DP Conway,0,0,0,0,198,0,2,0,-,2.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+2,FH Allen,SM Curran,DP Conway,1,0,1,1,197,1,3,0,-,3.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+3,DP Conway,SM Curran,FH Allen,0,1,1,2,196,0,1,0,legbyes,4.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+4,FH Allen,SM Curran,DP Conway,1,0,1,3,195,2,4,0,-,5.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+5,DP Conway,SM Curran,FH Allen,0,0,0,3,195,0,2,0,-,6.0,0,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+6,FH Allen,AAP Atkinson,DP Conway,1,0,1,4,194,3,5,0,-,1.0,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+7,DP Conway,AAP Atkinson,FH Allen,2,0,2,6,192,2,3,0,-,2.0,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+8,DP Conway,AAP Atkinson,FH Allen,0,0,0,6,192,2,4,0,-,3.0,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+9,DP Conway,AAP Atkinson,FH Allen,0,0,0,6,192,2,5,1,-,4.0,1,caught,DP Conway,LS Livingstone,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+10,TL Seifert,AAP Atkinson,FH Allen,0,0,0,6,192,0,1,1,-,5.0,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+11,TL Seifert,AAP Atkinson,FH Allen,2,0,2,8,190,2,2,1,-,6.0,1,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+12,FH Allen,SM Curran,TL Seifert,0,0,0,8,190,3,6,2,-,1.0,2,caught,FH Allen,WG Jacks,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+13,GD Phillips,SM Curran,TL Seifert,1,0,1,9,189,1,1,2,-,2.0,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+14,TL Seifert,SM Curran,GD Phillips,1,0,1,10,188,3,3,2,-,3.0,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+15,GD Phillips,SM Curran,TL Seifert,1,0,1,11,187,2,2,2,-,4.0,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+16,TL Seifert,SM Curran,GD Phillips,1,0,1,12,186,4,4,2,-,5.0,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+17,GD Phillips,SM Curran,TL Seifert,1,0,1,13,185,3,3,2,-,6.0,2,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+18,GD Phillips,AAP Atkinson,TL Seifert,0,0,0,13,185,3,4,2,-,1.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+19,GD Phillips,AAP Atkinson,TL Seifert,4,0,4,17,181,7,5,2,-,2.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+20,GD Phillips,AAP Atkinson,TL Seifert,1,0,1,18,180,8,6,2,-,3.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+21,TL Seifert,AAP Atkinson,GD Phillips,0,0,0,18,180,4,5,2,-,4.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+22,TL Seifert,AAP Atkinson,GD Phillips,1,0,1,19,179,5,6,2,-,5.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+23,GD Phillips,AAP Atkinson,TL Seifert,1,0,1,20,178,9,7,2,-,6.0,3,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+24,GD Phillips,SM Curran,TL Seifert,0,0,0,20,178,9,8,2,-,1.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+25,GD Phillips,SM Curran,TL Seifert,1,0,1,21,177,10,9,2,-,2.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+26,TL Seifert,SM Curran,GD Phillips,0,0,0,21,177,5,7,2,-,3.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+27,TL Seifert,SM Curran,GD Phillips,0,1,1,22,176,5,8,2,wides,3.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+28,TL Seifert,SM Curran,GD Phillips,0,1,1,23,175,5,9,2,noballs,3.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+29,TL Seifert,SM Curran,GD Phillips,0,0,0,23,175,5,10,2,-,4.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+30,TL Seifert,SM Curran,GD Phillips,4,0,4,27,171,9,11,2,-,5.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+31,TL Seifert,SM Curran,GD Phillips,4,0,4,31,167,13,12,2,-,6.0,4,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+32,GD Phillips,BA Carse,TL Seifert,4,0,4,35,163,14,10,2,-,1.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+33,GD Phillips,BA Carse,TL Seifert,1,0,1,36,162,15,11,2,-,2.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+34,TL Seifert,BA Carse,GD Phillips,1,0,1,37,161,14,13,2,-,3.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+35,GD Phillips,BA Carse,TL Seifert,4,0,4,41,157,19,12,2,-,4.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+36,GD Phillips,BA Carse,TL Seifert,0,0,0,41,157,19,13,2,-,5.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+37,GD Phillips,BA Carse,TL Seifert,1,0,1,42,156,20,14,2,-,6.0,5,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+38,GD Phillips,AU Rashid,TL Seifert,2,0,2,44,154,22,15,2,-,1.0,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+39,GD Phillips,AU Rashid,TL Seifert,0,0,0,44,154,22,16,2,-,2.0,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+40,GD Phillips,AU Rashid,TL Seifert,0,0,0,44,154,22,17,3,-,3.0,6,caught,GD Phillips,HC Brook,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+41,MS Chapman,AU Rashid,TL Seifert,1,0,1,45,153,1,1,3,-,4.0,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+42,TL Seifert,AU Rashid,MS Chapman,1,0,1,46,152,15,14,3,-,5.0,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+43,MS Chapman,AU Rashid,TL Seifert,1,0,1,47,151,2,2,3,-,6.0,6,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+44,MS Chapman,MM Ali,TL Seifert,1,0,1,48,150,3,3,3,-,1.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+45,TL Seifert,MM Ali,MS Chapman,0,0,0,48,150,15,15,3,-,2.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+46,TL Seifert,MM Ali,MS Chapman,2,0,2,50,148,17,16,3,-,3.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+47,TL Seifert,MM Ali,MS Chapman,1,0,1,51,147,18,17,3,-,4.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+48,MS Chapman,MM Ali,TL Seifert,1,0,1,52,146,4,4,3,-,5.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+49,TL Seifert,MM Ali,MS Chapman,4,0,4,56,142,22,18,3,-,6.0,7,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+50,MS Chapman,LS Livingstone,TL Seifert,6,0,6,62,136,10,5,3,-,1.0,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+51,MS Chapman,LS Livingstone,TL Seifert,4,0,4,66,132,14,6,3,-,2.0,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+52,MS Chapman,LS Livingstone,TL Seifert,1,0,1,67,131,15,7,3,-,3.0,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+53,TL Seifert,LS Livingstone,MS Chapman,4,0,4,71,127,26,19,3,-,4.0,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+54,TL Seifert,LS Livingstone,MS Chapman,1,0,1,72,126,27,20,3,-,5.0,8,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+55,MS Chapman,LS Livingstone,TL Seifert,0,0,0,72,126,15,8,4,-,6.0,8,caught,MS Chapman,HC Brook,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+56,TL Seifert,BA Carse,DJ Mitchell,1,0,1,73,125,28,21,4,-,1.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+57,DJ Mitchell,BA Carse,TL Seifert,0,1,1,74,124,0,1,4,wides,1.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+58,DJ Mitchell,BA Carse,TL Seifert,0,0,0,74,124,0,2,5,-,2.0,9,caught,DJ Mitchell,JC Buttler,"{'by': 'England', 'umpire': 'MJ Saggers', 'batter': 'DJ Mitchell', 'decision': 'upheld', 'type': 'wicket'}",bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+59,MJ Santner,BA Carse,TL Seifert,0,0,0,74,124,0,1,5,-,3.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+60,MJ Santner,BA Carse,TL Seifert,1,0,1,75,123,1,2,5,-,4.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+61,TL Seifert,BA Carse,MJ Santner,0,0,0,75,123,28,22,5,-,5.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+62,TL Seifert,BA Carse,MJ Santner,2,0,2,77,121,30,23,5,-,6.0,9,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+63,MJ Santner,AU Rashid,TL Seifert,0,0,0,77,121,1,3,5,-,1.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+64,MJ Santner,AU Rashid,TL Seifert,0,0,0,77,121,1,4,5,-,2.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+65,MJ Santner,AU Rashid,TL Seifert,1,0,1,78,120,2,5,5,-,3.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+66,TL Seifert,AU Rashid,MJ Santner,0,0,0,78,120,30,24,5,-,4.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+67,TL Seifert,AU Rashid,MJ Santner,1,0,1,79,119,31,25,5,-,5.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+68,MJ Santner,AU Rashid,TL Seifert,4,0,4,83,115,6,6,5,-,6.0,10,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+69,TL Seifert,WG Jacks,MJ Santner,1,0,1,84,114,32,26,5,-,1.0,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+70,MJ Santner,WG Jacks,TL Seifert,1,0,1,85,113,7,7,5,-,2.0,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+71,TL Seifert,WG Jacks,MJ Santner,1,0,1,86,112,33,27,5,-,3.0,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+72,MJ Santner,WG Jacks,TL Seifert,1,0,1,87,111,8,8,5,-,4.0,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+73,TL Seifert,WG Jacks,MJ Santner,1,0,1,88,110,34,28,5,-,5.0,11,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+74,MJ Santner,WG Jacks,TL Seifert,0,0,0,88,110,8,9,6,-,6.0,11,bowled,MJ Santner,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+75,TL Seifert,AU Rashid,AF Milne,3,0,3,91,107,37,29,6,-,1.0,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+76,AF Milne,AU Rashid,TL Seifert,1,0,1,92,106,1,1,6,-,2.0,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+77,TL Seifert,AU Rashid,AF Milne,1,0,1,93,105,38,30,6,-,3.0,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+78,AF Milne,AU Rashid,TL Seifert,1,0,1,94,104,2,2,6,-,4.0,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+79,TL Seifert,AU Rashid,AF Milne,1,0,1,95,103,39,31,6,-,5.0,12,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+80,AF Milne,AU Rashid,TL Seifert,0,0,0,95,103,2,3,7,-,6.0,12,caught,AF Milne,MM Ali,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+81,TL Seifert,AAP Atkinson,IS Sodhi,0,0,0,95,103,39,32,8,-,1.0,13,caught,TL Seifert,JC Buttler,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+82,TG Southee,AAP Atkinson,IS Sodhi,2,0,2,97,101,2,1,8,-,2.0,13,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+83,TG Southee,AAP Atkinson,IS Sodhi,6,0,6,103,95,8,2,8,-,3.0,13,0,,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+84,TG Southee,AAP Atkinson,IS Sodhi,0,0,0,103,95,8,3,9,-,4.0,13,lbw,TG Southee,,"{'by': 'New Zealand', 'umpire': 'MJ Saggers', 'batter': 'TG Southee', 'decision': 'struck down', 'type': 'wicket'}",bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103
+85,LH Ferguson,AAP Atkinson,IS Sodhi,0,0,0,103,95,0,1,10,-,5.0,13,bowled,LH Ferguson,,,bat,England,2,"Old Trafford, Manchester",2023,09,England_New Zealand_2023-09-01,England,New Zealand,England,False,103

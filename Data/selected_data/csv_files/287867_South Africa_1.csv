@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,extra_type,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,GC Smith,JM Anderson,JP Duminy,1,0,1,1,,1,1,0,1,-,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-1,JP Duminy,JM Anderson,GC Smith,0,0,0,1,,0,1,0,2,-,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-2,JP Duminy,JM Anderson,GC Smith,0,0,0,1,,0,2,0,3,-,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-3,JP Duminy,JM Anderson,GC Smith,0,1,1,2,,0,3,0,4,wides,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-4,JP Duminy,JM Anderson,GC Smith,0,1,1,3,,0,4,0,5,wides,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-5,JP Duminy,JM Anderson,GC Smith,0,1,1,4,,0,5,0,6,legbyes,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-6,GC Smith,JM Anderson,JP Duminy,4,0,4,8,,5,2,0,7,-,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-7,GC Smith,JM Anderson,JP Duminy,0,0,0,8,,5,3,0,8,-,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-8,JP Duminy,SCJ Broad,GC Smith,0,0,0,8,,0,6,1,1,-,1,caught,JP Duminy,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-9,AB de Villiers,SCJ Broad,GC Smith,0,0,0,8,,0,1,1,2,-,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-10,AB de Villiers,SCJ Broad,GC Smith,0,0,0,8,,0,2,1,3,-,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-11,AB de Villiers,SCJ Broad,GC Smith,4,0,4,12,,4,3,1,4,-,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-12,AB de Villiers,SCJ Broad,GC Smith,4,0,4,16,,8,4,1,5,-,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-13,AB de Villiers,SCJ Broad,GC Smith,2,0,2,18,,10,5,1,6,-,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-14,GC Smith,A Flintoff,AB de Villiers,0,0,0,18,,5,4,1,1,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-15,GC Smith,A Flintoff,AB de Villiers,4,0,4,22,,9,5,1,2,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-16,GC Smith,A Flintoff,AB de Villiers,1,0,1,23,,10,6,1,3,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-17,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,6,1,4,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-18,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,7,1,5,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-19,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,8,1,6,-,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-20,GC Smith,JM Anderson,AB de Villiers,0,0,0,23,,10,7,1,1,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-21,GC Smith,JM Anderson,AB de Villiers,4,0,4,27,,14,8,1,2,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-22,GC Smith,JM Anderson,AB de Villiers,0,0,0,27,,14,9,1,3,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-23,GC Smith,JM Anderson,AB de Villiers,0,0,0,27,,14,10,1,4,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-24,GC Smith,JM Anderson,AB de Villiers,4,0,4,31,,18,11,1,5,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-25,GC Smith,JM Anderson,AB de Villiers,1,0,1,32,,19,12,1,6,-,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-26,GC Smith,SCJ Broad,AB de Villiers,0,1,1,33,,19,13,1,1,wides,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-27,GC Smith,SCJ Broad,AB de Villiers,0,0,0,33,,19,14,2,2,-,4,caught,GC Smith,AD Mascarenhas,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-28,AB de Villiers,SCJ Broad,JM Kemp,0,0,0,33,,10,9,2,3,-,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-29,AB de Villiers,SCJ Broad,JM Kemp,4,0,4,37,,14,10,2,4,-,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-30,AB de Villiers,SCJ Broad,JM Kemp,0,0,0,37,,14,11,2,5,-,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-31,AB de Villiers,SCJ Broad,JM Kemp,4,0,4,41,,18,12,2,6,-,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-32,AB de Villiers,SCJ Broad,JM Kemp,0,1,1,42,,18,13,2,7,legbyes,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-33,AB de Villiers,A Flintoff,JM Kemp,0,0,0,42,,18,14,3,1,-,5,caught,AB de Villiers,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-34,MV Boucher,A Flintoff,JM Kemp,1,0,1,43,,1,1,3,2,-,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-35,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,1,3,3,-,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-36,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,2,3,4,-,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-37,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,3,3,5,-,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-38,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,4,3,6,-,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-39,MV Boucher,SCJ Broad,JM Kemp,0,0,0,43,,1,2,3,1,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-40,MV Boucher,SCJ Broad,JM Kemp,0,0,0,43,,1,3,3,2,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-41,MV Boucher,SCJ Broad,JM Kemp,4,0,4,47,,5,4,3,3,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-42,MV Boucher,SCJ Broad,JM Kemp,1,0,1,48,,6,5,3,4,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-43,JM Kemp,SCJ Broad,MV Boucher,1,0,1,49,,1,5,3,5,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-44,MV Boucher,SCJ Broad,JM Kemp,0,0,0,49,,6,6,3,6,-,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-45,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,49,,1,6,3,1,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-46,JM Kemp,AD Mascarenhas,MV Boucher,3,0,3,52,,4,7,3,2,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-47,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,53,,7,7,3,3,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-48,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,53,,4,8,3,4,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-49,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,53,,4,9,3,5,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-50,JM Kemp,AD Mascarenhas,MV Boucher,1,0,1,54,,5,10,3,6,-,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-51,JM Kemp,CP Schofield,MV Boucher,1,0,1,55,,6,11,3,1,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-52,MV Boucher,CP Schofield,JM Kemp,0,0,0,55,,7,8,3,2,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-53,MV Boucher,CP Schofield,JM Kemp,0,0,0,55,,7,9,3,3,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-54,MV Boucher,CP Schofield,JM Kemp,0,1,1,56,,7,10,3,4,wides,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-55,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,11,3,5,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-56,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,12,3,6,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-57,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,13,3,7,-,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-58,JM Kemp,JN Snape,MV Boucher,1,0,1,57,,7,12,3,1,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-59,MV Boucher,JN Snape,JM Kemp,1,0,1,58,,8,14,3,2,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-60,JM Kemp,JN Snape,MV Boucher,1,0,1,59,,8,13,3,3,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-61,MV Boucher,JN Snape,JM Kemp,2,0,2,61,,10,15,3,4,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-62,MV Boucher,JN Snape,JM Kemp,1,0,1,62,,11,16,3,5,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-63,JM Kemp,JN Snape,MV Boucher,6,0,6,68,,14,14,3,6,-,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-64,MV Boucher,CP Schofield,JM Kemp,4,0,4,72,,15,17,3,1,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-65,MV Boucher,CP Schofield,JM Kemp,1,0,1,73,,16,18,3,2,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-66,JM Kemp,CP Schofield,MV Boucher,1,0,1,74,,15,15,3,3,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-67,MV Boucher,CP Schofield,JM Kemp,1,0,1,75,,17,19,3,4,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-68,JM Kemp,CP Schofield,MV Boucher,1,0,1,76,,16,16,3,5,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-69,MV Boucher,CP Schofield,JM Kemp,1,0,1,77,,18,20,3,6,-,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-70,MV Boucher,AD Mascarenhas,JM Kemp,4,0,4,81,,22,21,3,1,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-71,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,82,,23,22,3,2,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-72,JM Kemp,AD Mascarenhas,MV Boucher,1,0,1,83,,17,17,3,3,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-73,MV Boucher,AD Mascarenhas,JM Kemp,0,0,0,83,,23,23,3,4,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-74,MV Boucher,AD Mascarenhas,JM Kemp,2,0,2,85,,25,24,3,5,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-75,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,86,,26,25,3,6,-,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-76,MV Boucher,JM Anderson,JM Kemp,1,0,1,87,,27,26,3,1,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-77,JM Kemp,JM Anderson,MV Boucher,0,0,0,87,,17,18,3,2,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-78,JM Kemp,JM Anderson,MV Boucher,1,0,1,88,,18,19,3,3,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-79,MV Boucher,JM Anderson,JM Kemp,0,0,0,88,,27,27,3,4,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-80,MV Boucher,JM Anderson,JM Kemp,1,0,1,89,,28,28,3,5,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-81,JM Kemp,JM Anderson,MV Boucher,0,0,0,89,,18,20,3,6,-,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-82,MV Boucher,CP Schofield,JM Kemp,1,0,1,90,,29,29,3,1,-,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-83,JM Kemp,CP Schofield,MV Boucher,1,0,1,91,,19,21,3,2,-,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-84,MV Boucher,CP Schofield,JM Kemp,0,0,0,91,,29,30,4,3,-,13,caught,MV Boucher,KP Pietersen,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-85,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,22,4,4,-,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-86,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,23,4,5,-,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-87,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,24,4,6,-,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-88,SM Pollock,JM Anderson,JM Kemp,0,0,0,91,,0,1,5,1,-,14,caught,SM Pollock,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-89,JM Kemp,JM Anderson,JA Morkel,1,0,1,92,,20,25,5,2,-,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-90,JA Morkel,JM Anderson,JM Kemp,0,0,0,92,,0,1,5,3,-,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-91,JA Morkel,JM Anderson,JM Kemp,0,0,0,92,,0,2,5,4,-,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-92,JA Morkel,JM Anderson,JM Kemp,1,0,1,93,,1,3,5,5,-,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-93,JM Kemp,JM Anderson,JA Morkel,1,0,1,94,,21,26,5,6,-,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-94,JM Kemp,AD Mascarenhas,JA Morkel,0,0,0,94,,21,27,6,1,-,15,caught,JM Kemp,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-95,JA Morkel,AD Mascarenhas,VD Philander,1,0,1,95,,2,4,6,2,-,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-96,VD Philander,AD Mascarenhas,JA Morkel,1,0,1,96,,1,1,6,3,-,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-97,JA Morkel,AD Mascarenhas,VD Philander,6,0,6,102,,8,5,6,4,-,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-98,JA Morkel,AD Mascarenhas,VD Philander,1,0,1,103,,9,6,6,5,-,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-99,VD Philander,AD Mascarenhas,JA Morkel,1,0,1,104,,2,2,6,6,-,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-100,VD Philander,A Flintoff,JA Morkel,0,1,1,105,,2,3,6,1,wides,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-101,VD Philander,A Flintoff,JA Morkel,1,0,1,106,,3,4,6,2,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-102,JA Morkel,A Flintoff,VD Philander,0,0,0,106,,9,7,6,3,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-103,JA Morkel,A Flintoff,VD Philander,1,0,1,107,,10,8,6,4,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-104,VD Philander,A Flintoff,JA Morkel,1,0,1,108,,4,5,6,5,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-105,JA Morkel,A Flintoff,VD Philander,4,0,4,112,,14,9,6,6,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-106,JA Morkel,A Flintoff,VD Philander,0,0,0,112,,14,10,6,7,-,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-107,VD Philander,CP Schofield,JA Morkel,1,0,1,113,,5,6,6,1,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-108,JA Morkel,CP Schofield,VD Philander,1,0,1,114,,15,11,6,2,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-109,VD Philander,CP Schofield,JA Morkel,1,0,1,115,,6,7,6,3,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-110,JA Morkel,CP Schofield,VD Philander,6,0,6,121,,21,12,6,4,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-111,JA Morkel,CP Schofield,VD Philander,6,0,6,127,,27,13,6,5,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-112,JA Morkel,CP Schofield,VD Philander,6,0,6,133,,33,14,6,6,-,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-113,VD Philander,SCJ Broad,JA Morkel,0,0,0,133,,6,8,7,1,-,18,bowled,VD Philander,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-114,JJ van der Wath,SCJ Broad,JA Morkel,1,0,1,134,,1,1,7,2,-,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-115,JA Morkel,SCJ Broad,JJ van der Wath,1,0,1,135,,34,15,7,3,-,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-116,JJ van der Wath,SCJ Broad,JA Morkel,0,2,2,137,,1,2,7,4,wides,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-117,JA Morkel,SCJ Broad,JJ van der Wath,4,0,4,141,,38,16,7,5,-,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-118,JA Morkel,SCJ Broad,JJ van der Wath,0,0,0,141,,38,17,7,6,-,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-119,JA Morkel,SCJ Broad,JJ van der Wath,4,0,4,145,,42,18,7,7,-,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-120,JJ van der Wath,A Flintoff,JA Morkel,1,0,1,146,,2,3,7,1,-,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-121,JA Morkel,A Flintoff,JJ van der Wath,1,0,1,147,,43,19,7,2,-,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-122,JJ van der Wath,A Flintoff,JA Morkel,4,0,4,151,,6,4,7,3,-,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-123,JJ van der Wath,A Flintoff,JA Morkel,2,0,2,153,,8,5,7,4,-,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-124,JJ van der Wath,A Flintoff,JA Morkel,1,0,1,154,,9,6,7,5,-,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
-125,JA Morkel,A Flintoff,JJ van der Wath,0,0,0,154,,43,20,8,6,-,19,caught,JA Morkel,JN Snape,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,GC Smith,JM Anderson,JP Duminy,1,0,1,1,,1,1,0,-,1.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+1,JP Duminy,JM Anderson,GC Smith,0,0,0,1,,0,1,0,-,2.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+2,JP Duminy,JM Anderson,GC Smith,0,0,0,1,,0,2,0,-,3.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+3,JP Duminy,JM Anderson,GC Smith,0,1,1,2,,0,3,0,wides,3.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+4,JP Duminy,JM Anderson,GC Smith,0,1,1,3,,0,4,0,wides,3.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+5,JP Duminy,JM Anderson,GC Smith,0,1,1,4,,0,5,0,legbyes,4.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+6,GC Smith,JM Anderson,JP Duminy,4,0,4,8,,5,2,0,-,5.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+7,GC Smith,JM Anderson,JP Duminy,0,0,0,8,,5,3,0,-,6.0,0,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+8,JP Duminy,SCJ Broad,GC Smith,0,0,0,8,,0,6,1,-,1.0,1,caught,JP Duminy,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+9,AB de Villiers,SCJ Broad,GC Smith,0,0,0,8,,0,1,1,-,2.0,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+10,AB de Villiers,SCJ Broad,GC Smith,0,0,0,8,,0,2,1,-,3.0,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+11,AB de Villiers,SCJ Broad,GC Smith,4,0,4,12,,4,3,1,-,4.0,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+12,AB de Villiers,SCJ Broad,GC Smith,4,0,4,16,,8,4,1,-,5.0,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+13,AB de Villiers,SCJ Broad,GC Smith,2,0,2,18,,10,5,1,-,6.0,1,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+14,GC Smith,A Flintoff,AB de Villiers,0,0,0,18,,5,4,1,-,1.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+15,GC Smith,A Flintoff,AB de Villiers,4,0,4,22,,9,5,1,-,2.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+16,GC Smith,A Flintoff,AB de Villiers,1,0,1,23,,10,6,1,-,3.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+17,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,6,1,-,4.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+18,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,7,1,-,5.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+19,AB de Villiers,A Flintoff,GC Smith,0,0,0,23,,10,8,1,-,6.0,2,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+20,GC Smith,JM Anderson,AB de Villiers,0,0,0,23,,10,7,1,-,1.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+21,GC Smith,JM Anderson,AB de Villiers,4,0,4,27,,14,8,1,-,2.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+22,GC Smith,JM Anderson,AB de Villiers,0,0,0,27,,14,9,1,-,3.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+23,GC Smith,JM Anderson,AB de Villiers,0,0,0,27,,14,10,1,-,4.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+24,GC Smith,JM Anderson,AB de Villiers,4,0,4,31,,18,11,1,-,5.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+25,GC Smith,JM Anderson,AB de Villiers,1,0,1,32,,19,12,1,-,6.0,3,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+26,GC Smith,SCJ Broad,AB de Villiers,0,1,1,33,,19,13,1,wides,0.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+27,GC Smith,SCJ Broad,AB de Villiers,0,0,0,33,,19,14,2,-,1.0,4,caught,GC Smith,AD Mascarenhas,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+28,AB de Villiers,SCJ Broad,JM Kemp,0,0,0,33,,10,9,2,-,2.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+29,AB de Villiers,SCJ Broad,JM Kemp,4,0,4,37,,14,10,2,-,3.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+30,AB de Villiers,SCJ Broad,JM Kemp,0,0,0,37,,14,11,2,-,4.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+31,AB de Villiers,SCJ Broad,JM Kemp,4,0,4,41,,18,12,2,-,5.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+32,AB de Villiers,SCJ Broad,JM Kemp,0,1,1,42,,18,13,2,legbyes,6.0,4,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+33,AB de Villiers,A Flintoff,JM Kemp,0,0,0,42,,18,14,3,-,1.0,5,caught,AB de Villiers,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+34,MV Boucher,A Flintoff,JM Kemp,1,0,1,43,,1,1,3,-,2.0,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+35,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,1,3,-,3.0,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+36,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,2,3,-,4.0,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+37,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,3,3,-,5.0,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+38,JM Kemp,A Flintoff,MV Boucher,0,0,0,43,,0,4,3,-,6.0,5,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+39,MV Boucher,SCJ Broad,JM Kemp,0,0,0,43,,1,2,3,-,1.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+40,MV Boucher,SCJ Broad,JM Kemp,0,0,0,43,,1,3,3,-,2.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+41,MV Boucher,SCJ Broad,JM Kemp,4,0,4,47,,5,4,3,-,3.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+42,MV Boucher,SCJ Broad,JM Kemp,1,0,1,48,,6,5,3,-,4.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+43,JM Kemp,SCJ Broad,MV Boucher,1,0,1,49,,1,5,3,-,5.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+44,MV Boucher,SCJ Broad,JM Kemp,0,0,0,49,,6,6,3,-,6.0,6,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+45,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,49,,1,6,3,-,1.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+46,JM Kemp,AD Mascarenhas,MV Boucher,3,0,3,52,,4,7,3,-,2.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+47,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,53,,7,7,3,-,3.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+48,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,53,,4,8,3,-,4.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+49,JM Kemp,AD Mascarenhas,MV Boucher,0,0,0,53,,4,9,3,-,5.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+50,JM Kemp,AD Mascarenhas,MV Boucher,1,0,1,54,,5,10,3,-,6.0,7,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+51,JM Kemp,CP Schofield,MV Boucher,1,0,1,55,,6,11,3,-,1.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+52,MV Boucher,CP Schofield,JM Kemp,0,0,0,55,,7,8,3,-,2.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+53,MV Boucher,CP Schofield,JM Kemp,0,0,0,55,,7,9,3,-,3.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+54,MV Boucher,CP Schofield,JM Kemp,0,1,1,56,,7,10,3,wides,3.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+55,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,11,3,-,4.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+56,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,12,3,-,5.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+57,MV Boucher,CP Schofield,JM Kemp,0,0,0,56,,7,13,3,-,6.0,8,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+58,JM Kemp,JN Snape,MV Boucher,1,0,1,57,,7,12,3,-,1.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+59,MV Boucher,JN Snape,JM Kemp,1,0,1,58,,8,14,3,-,2.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+60,JM Kemp,JN Snape,MV Boucher,1,0,1,59,,8,13,3,-,3.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+61,MV Boucher,JN Snape,JM Kemp,2,0,2,61,,10,15,3,-,4.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+62,MV Boucher,JN Snape,JM Kemp,1,0,1,62,,11,16,3,-,5.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+63,JM Kemp,JN Snape,MV Boucher,6,0,6,68,,14,14,3,-,6.0,9,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+64,MV Boucher,CP Schofield,JM Kemp,4,0,4,72,,15,17,3,-,1.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+65,MV Boucher,CP Schofield,JM Kemp,1,0,1,73,,16,18,3,-,2.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+66,JM Kemp,CP Schofield,MV Boucher,1,0,1,74,,15,15,3,-,3.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+67,MV Boucher,CP Schofield,JM Kemp,1,0,1,75,,17,19,3,-,4.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+68,JM Kemp,CP Schofield,MV Boucher,1,0,1,76,,16,16,3,-,5.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+69,MV Boucher,CP Schofield,JM Kemp,1,0,1,77,,18,20,3,-,6.0,10,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+70,MV Boucher,AD Mascarenhas,JM Kemp,4,0,4,81,,22,21,3,-,1.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+71,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,82,,23,22,3,-,2.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+72,JM Kemp,AD Mascarenhas,MV Boucher,1,0,1,83,,17,17,3,-,3.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+73,MV Boucher,AD Mascarenhas,JM Kemp,0,0,0,83,,23,23,3,-,4.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+74,MV Boucher,AD Mascarenhas,JM Kemp,2,0,2,85,,25,24,3,-,5.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+75,MV Boucher,AD Mascarenhas,JM Kemp,1,0,1,86,,26,25,3,-,6.0,11,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+76,MV Boucher,JM Anderson,JM Kemp,1,0,1,87,,27,26,3,-,1.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+77,JM Kemp,JM Anderson,MV Boucher,0,0,0,87,,17,18,3,-,2.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+78,JM Kemp,JM Anderson,MV Boucher,1,0,1,88,,18,19,3,-,3.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+79,MV Boucher,JM Anderson,JM Kemp,0,0,0,88,,27,27,3,-,4.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+80,MV Boucher,JM Anderson,JM Kemp,1,0,1,89,,28,28,3,-,5.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+81,JM Kemp,JM Anderson,MV Boucher,0,0,0,89,,18,20,3,-,6.0,12,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+82,MV Boucher,CP Schofield,JM Kemp,1,0,1,90,,29,29,3,-,1.0,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+83,JM Kemp,CP Schofield,MV Boucher,1,0,1,91,,19,21,3,-,2.0,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+84,MV Boucher,CP Schofield,JM Kemp,0,0,0,91,,29,30,4,-,3.0,13,caught,MV Boucher,KP Pietersen,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+85,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,22,4,-,4.0,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+86,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,23,4,-,5.0,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+87,JM Kemp,CP Schofield,SM Pollock,0,0,0,91,,19,24,4,-,6.0,13,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+88,SM Pollock,JM Anderson,JM Kemp,0,0,0,91,,0,1,5,-,1.0,14,caught,SM Pollock,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+89,JM Kemp,JM Anderson,JA Morkel,1,0,1,92,,20,25,5,-,2.0,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+90,JA Morkel,JM Anderson,JM Kemp,0,0,0,92,,0,1,5,-,3.0,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+91,JA Morkel,JM Anderson,JM Kemp,0,0,0,92,,0,2,5,-,4.0,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+92,JA Morkel,JM Anderson,JM Kemp,1,0,1,93,,1,3,5,-,5.0,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+93,JM Kemp,JM Anderson,JA Morkel,1,0,1,94,,21,26,5,-,6.0,14,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+94,JM Kemp,AD Mascarenhas,JA Morkel,0,0,0,94,,21,27,6,-,1.0,15,caught,JM Kemp,MJ Prior,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+95,JA Morkel,AD Mascarenhas,VD Philander,1,0,1,95,,2,4,6,-,2.0,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+96,VD Philander,AD Mascarenhas,JA Morkel,1,0,1,96,,1,1,6,-,3.0,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+97,JA Morkel,AD Mascarenhas,VD Philander,6,0,6,102,,8,5,6,-,4.0,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+98,JA Morkel,AD Mascarenhas,VD Philander,1,0,1,103,,9,6,6,-,5.0,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+99,VD Philander,AD Mascarenhas,JA Morkel,1,0,1,104,,2,2,6,-,6.0,15,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+100,VD Philander,A Flintoff,JA Morkel,0,1,1,105,,2,3,6,wides,0.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+101,VD Philander,A Flintoff,JA Morkel,1,0,1,106,,3,4,6,-,1.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+102,JA Morkel,A Flintoff,VD Philander,0,0,0,106,,9,7,6,-,2.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+103,JA Morkel,A Flintoff,VD Philander,1,0,1,107,,10,8,6,-,3.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+104,VD Philander,A Flintoff,JA Morkel,1,0,1,108,,4,5,6,-,4.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+105,JA Morkel,A Flintoff,VD Philander,4,0,4,112,,14,9,6,-,5.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+106,JA Morkel,A Flintoff,VD Philander,0,0,0,112,,14,10,6,-,6.0,16,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+107,VD Philander,CP Schofield,JA Morkel,1,0,1,113,,5,6,6,-,1.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+108,JA Morkel,CP Schofield,VD Philander,1,0,1,114,,15,11,6,-,2.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+109,VD Philander,CP Schofield,JA Morkel,1,0,1,115,,6,7,6,-,3.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+110,JA Morkel,CP Schofield,VD Philander,6,0,6,121,,21,12,6,-,4.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+111,JA Morkel,CP Schofield,VD Philander,6,0,6,127,,27,13,6,-,5.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+112,JA Morkel,CP Schofield,VD Philander,6,0,6,133,,33,14,6,-,6.0,17,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+113,VD Philander,SCJ Broad,JA Morkel,0,0,0,133,,6,8,7,-,1.0,18,bowled,VD Philander,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+114,JJ van der Wath,SCJ Broad,JA Morkel,1,0,1,134,,1,1,7,-,2.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+115,JA Morkel,SCJ Broad,JJ van der Wath,1,0,1,135,,34,15,7,-,3.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+116,JJ van der Wath,SCJ Broad,JA Morkel,0,2,2,137,,1,2,7,wides,3.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+117,JA Morkel,SCJ Broad,JJ van der Wath,4,0,4,141,,38,16,7,-,4.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+118,JA Morkel,SCJ Broad,JJ van der Wath,0,0,0,141,,38,17,7,-,5.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+119,JA Morkel,SCJ Broad,JJ van der Wath,4,0,4,145,,42,18,7,-,6.0,18,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+120,JJ van der Wath,A Flintoff,JA Morkel,1,0,1,146,,2,3,7,-,1.0,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+121,JA Morkel,A Flintoff,JJ van der Wath,1,0,1,147,,43,19,7,-,2.0,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+122,JJ van der Wath,A Flintoff,JA Morkel,4,0,4,151,,6,4,7,-,3.0,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+123,JJ van der Wath,A Flintoff,JA Morkel,2,0,2,153,,8,5,7,-,4.0,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+124,JJ van der Wath,A Flintoff,JA Morkel,1,0,1,154,,9,6,7,-,5.0,19,0,,,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154
+125,JA Morkel,A Flintoff,JJ van der Wath,0,0,0,154,,43,20,8,-,6.0,19,caught,JA Morkel,JN Snape,field,England,1,Newlands,2007,09,South Africa_England_2007-09-16,South Africa,South Africa,England,True,154

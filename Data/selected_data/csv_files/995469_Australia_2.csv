@@ -1,111 +1,111 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,DA Warner,RAS Lakmal,GJ Maxwell,2,0,2,2,126,2,1,0,1,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-1,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,2,0,2,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-2,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,3,0,3,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-3,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,4,0,4,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-4,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,5,0,5,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-5,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,6,0,6,0,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-6,GJ Maxwell,SMSM Senanayake,DA Warner,0,0,0,2,126,0,1,0,1,1,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-7,GJ Maxwell,SMSM Senanayake,DA Warner,4,0,4,6,122,4,2,0,2,1,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-8,GJ Maxwell,SMSM Senanayake,DA Warner,0,0,0,6,122,4,3,0,3,1,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-9,GJ Maxwell,SMSM Senanayake,DA Warner,1,0,1,7,121,5,4,0,4,1,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-10,DA Warner,SMSM Senanayake,GJ Maxwell,4,0,4,11,117,6,7,0,5,1,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-11,DA Warner,SMSM Senanayake,GJ Maxwell,0,1,1,12,116,6,8,0,6,1,legbyes,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-12,DA Warner,RAS Lakmal,GJ Maxwell,4,0,4,16,112,10,9,0,1,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-13,DA Warner,RAS Lakmal,GJ Maxwell,3,0,3,19,109,13,10,0,2,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-14,GJ Maxwell,RAS Lakmal,DA Warner,0,1,1,20,108,5,5,0,3,2,wides,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-15,GJ Maxwell,RAS Lakmal,DA Warner,1,0,1,21,107,6,6,0,4,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-16,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,21,107,13,11,0,5,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-17,DA Warner,RAS Lakmal,GJ Maxwell,4,0,4,25,103,17,12,0,6,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-18,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,25,103,17,13,0,7,2,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-19,GJ Maxwell,SS Pathirana,DA Warner,0,0,0,25,103,6,7,0,1,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-20,GJ Maxwell,SS Pathirana,DA Warner,6,0,6,31,97,12,8,0,2,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-21,GJ Maxwell,SS Pathirana,DA Warner,0,0,0,31,97,12,9,0,3,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-22,GJ Maxwell,SS Pathirana,DA Warner,4,0,4,35,93,16,10,0,4,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-23,GJ Maxwell,SS Pathirana,DA Warner,1,0,1,36,92,17,11,0,5,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-24,DA Warner,SS Pathirana,GJ Maxwell,0,0,0,36,92,17,14,0,6,3,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-25,GJ Maxwell,SMSM Senanayake,DA Warner,4,0,4,40,88,21,12,0,1,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-26,GJ Maxwell,SMSM Senanayake,DA Warner,6,0,6,46,82,27,13,0,2,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-27,GJ Maxwell,SMSM Senanayake,DA Warner,1,0,1,47,81,28,14,0,3,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-28,DA Warner,SMSM Senanayake,GJ Maxwell,1,0,1,48,80,18,15,0,4,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-29,GJ Maxwell,SMSM Senanayake,DA Warner,2,0,2,50,78,30,15,0,5,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-30,GJ Maxwell,SMSM Senanayake,DA Warner,6,0,6,56,72,36,16,0,6,4,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-31,DA Warner,NLTC Perera,GJ Maxwell,0,0,0,56,72,18,16,0,1,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-32,DA Warner,NLTC Perera,GJ Maxwell,1,0,1,57,71,19,17,0,2,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-33,GJ Maxwell,NLTC Perera,DA Warner,6,0,6,63,65,42,17,0,3,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-34,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,67,61,46,18,0,4,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-35,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,71,57,50,19,0,5,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-36,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,75,53,54,20,0,6,5,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-37,DA Warner,S Prasanna,GJ Maxwell,0,0,0,75,53,19,18,0,1,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-38,DA Warner,S Prasanna,GJ Maxwell,0,2,2,77,51,19,19,0,2,6,wides,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-39,GJ Maxwell,S Prasanna,DA Warner,1,0,1,78,50,55,21,0,3,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-40,DA Warner,S Prasanna,GJ Maxwell,1,0,1,79,49,20,20,0,4,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-41,GJ Maxwell,S Prasanna,DA Warner,4,0,4,83,45,59,22,0,5,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-42,GJ Maxwell,S Prasanna,DA Warner,0,0,0,83,45,59,23,0,6,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-43,GJ Maxwell,S Prasanna,DA Warner,1,0,1,84,44,60,24,0,7,6,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-44,GJ Maxwell,DM de Silva,DA Warner,1,0,1,85,43,61,25,0,1,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-45,DA Warner,DM de Silva,GJ Maxwell,1,0,1,86,42,21,21,0,2,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-46,GJ Maxwell,DM de Silva,DA Warner,2,0,2,88,40,63,26,0,3,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-47,GJ Maxwell,DM de Silva,DA Warner,1,0,1,89,39,64,27,0,4,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-48,DA Warner,DM de Silva,GJ Maxwell,1,0,1,90,38,22,22,0,5,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-49,GJ Maxwell,DM de Silva,DA Warner,2,0,2,92,36,66,28,0,6,7,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-50,DA Warner,S Prasanna,GJ Maxwell,1,0,1,93,35,23,23,0,1,8,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-51,GJ Maxwell,S Prasanna,DA Warner,0,0,0,93,35,66,29,0,2,8,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-52,GJ Maxwell,S Prasanna,DA Warner,0,0,0,93,35,66,30,1,3,8,-,bowled,GJ Maxwell,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-53,MC Henriques,S Prasanna,DA Warner,0,0,0,93,35,0,1,1,4,8,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-54,MC Henriques,S Prasanna,DA Warner,1,0,1,94,34,1,2,1,5,8,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-55,DA Warner,S Prasanna,MC Henriques,0,1,1,95,33,23,24,1,6,8,wides,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-56,DA Warner,S Prasanna,MC Henriques,2,0,2,97,31,25,25,1,7,8,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-57,MC Henriques,SS Pathirana,DA Warner,0,0,0,97,31,1,3,2,1,9,-,stumped,MC Henriques,MDKJ Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-58,JP Faulkner,SS Pathirana,DA Warner,1,0,1,98,30,1,1,2,2,9,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-59,DA Warner,SS Pathirana,JP Faulkner,0,0,0,98,30,25,26,3,3,9,-,caught,DA Warner,NLTC Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-60,MS Wade,SS Pathirana,JP Faulkner,0,0,0,98,30,0,1,3,4,9,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-61,MS Wade,SS Pathirana,JP Faulkner,1,0,1,99,29,1,2,3,5,9,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-62,JP Faulkner,SS Pathirana,MS Wade,0,0,0,99,29,1,2,3,6,9,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-63,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,3,3,1,10,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-64,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,4,3,2,10,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-65,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,5,3,3,10,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-66,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,6,4,4,10,-,run out,JP Faulkner,LD Chandimal;MDKJ Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-67,UT Khawaja,S Prasanna,MS Wade,0,0,0,99,29,0,1,4,5,10,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-68,UT Khawaja,S Prasanna,MS Wade,0,0,0,99,29,0,2,4,6,10,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-69,MS Wade,SMSM Senanayake,UT Khawaja,1,0,1,100,28,2,7,4,1,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-70,UT Khawaja,SMSM Senanayake,MS Wade,1,0,1,101,27,1,3,4,2,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-71,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,101,27,2,8,4,3,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-72,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,101,27,2,9,4,4,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-73,MS Wade,SMSM Senanayake,UT Khawaja,2,0,2,103,25,4,10,4,5,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-74,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,103,25,4,11,4,6,11,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-75,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,4,4,1,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-76,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,5,4,2,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-77,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,6,4,3,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-78,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,7,4,4,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-79,UT Khawaja,S Prasanna,MS Wade,1,0,1,104,24,2,8,4,5,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-80,MS Wade,S Prasanna,UT Khawaja,1,0,1,105,23,5,12,4,6,12,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-81,MS Wade,DM de Silva,UT Khawaja,0,0,0,105,23,5,13,4,1,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-82,MS Wade,DM de Silva,UT Khawaja,1,0,1,106,22,6,14,4,2,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-83,UT Khawaja,DM de Silva,MS Wade,1,0,1,107,21,3,9,4,3,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-84,MS Wade,DM de Silva,UT Khawaja,1,0,1,108,20,7,15,4,4,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-85,UT Khawaja,DM de Silva,MS Wade,0,0,0,108,20,3,10,4,5,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-86,UT Khawaja,DM de Silva,MS Wade,1,0,1,109,19,4,11,4,6,13,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-87,UT Khawaja,TM Dilshan,MS Wade,0,0,0,109,19,4,12,4,1,14,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-88,UT Khawaja,TM Dilshan,MS Wade,1,0,1,110,18,5,13,4,2,14,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-89,MS Wade,TM Dilshan,UT Khawaja,1,0,1,111,17,8,16,4,3,14,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-90,UT Khawaja,TM Dilshan,MS Wade,1,0,1,112,16,6,14,4,4,14,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-91,MS Wade,TM Dilshan,UT Khawaja,1,0,1,113,15,9,17,4,5,14,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-92,UT Khawaja,TM Dilshan,MS Wade,0,0,0,113,15,6,15,5,6,14,-,lbw,UT Khawaja,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-93,MS Wade,SMSM Senanayake,TM Head,1,0,1,114,14,10,18,5,1,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-94,TM Head,SMSM Senanayake,MS Wade,1,0,1,115,13,1,1,5,2,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-95,MS Wade,SMSM Senanayake,TM Head,1,0,1,116,12,11,19,5,3,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-96,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,2,5,4,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-97,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,3,5,5,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-98,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,4,5,6,15,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-99,MS Wade,TM Dilshan,TM Head,0,0,0,116,12,11,20,5,1,16,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-100,MS Wade,TM Dilshan,TM Head,3,0,3,119,9,14,21,5,2,16,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-101,TM Head,TM Dilshan,MS Wade,0,0,0,119,9,1,5,5,3,16,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-102,TM Head,TM Dilshan,MS Wade,1,0,1,120,8,2,6,5,4,16,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-103,MS Wade,TM Dilshan,TM Head,0,0,0,120,8,14,22,5,5,16,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-104,MS Wade,TM Dilshan,TM Head,0,0,0,120,8,14,23,6,6,16,-,caught,MS Wade,LD Chandimal,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-105,TM Head,SS Pathirana,PM Nevill,1,0,1,121,7,3,7,6,1,17,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-106,PM Nevill,SS Pathirana,TM Head,3,0,3,124,4,3,1,6,2,17,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-107,TM Head,SS Pathirana,PM Nevill,0,0,0,124,4,3,8,6,3,17,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-108,TM Head,SS Pathirana,PM Nevill,0,0,0,124,4,3,9,6,4,17,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
-109,TM Head,SS Pathirana,PM Nevill,6,0,6,130,-2,9,10,6,5,17,-,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,DA Warner,RAS Lakmal,GJ Maxwell,2,0,2,2,126,2,1,0,-,1.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+1,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,2,0,-,2.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+2,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,3,0,-,3.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+3,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,4,0,-,4.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+4,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,5,0,-,5.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+5,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,2,126,2,6,0,-,6.0,0,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+6,GJ Maxwell,SMSM Senanayake,DA Warner,0,0,0,2,126,0,1,0,-,1.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+7,GJ Maxwell,SMSM Senanayake,DA Warner,4,0,4,6,122,4,2,0,-,2.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+8,GJ Maxwell,SMSM Senanayake,DA Warner,0,0,0,6,122,4,3,0,-,3.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+9,GJ Maxwell,SMSM Senanayake,DA Warner,1,0,1,7,121,5,4,0,-,4.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+10,DA Warner,SMSM Senanayake,GJ Maxwell,4,0,4,11,117,6,7,0,-,5.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+11,DA Warner,SMSM Senanayake,GJ Maxwell,0,1,1,12,116,6,8,0,legbyes,6.0,1,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+12,DA Warner,RAS Lakmal,GJ Maxwell,4,0,4,16,112,10,9,0,-,1.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+13,DA Warner,RAS Lakmal,GJ Maxwell,3,0,3,19,109,13,10,0,-,2.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+14,GJ Maxwell,RAS Lakmal,DA Warner,0,1,1,20,108,5,5,0,wides,2.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+15,GJ Maxwell,RAS Lakmal,DA Warner,1,0,1,21,107,6,6,0,-,3.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+16,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,21,107,13,11,0,-,4.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+17,DA Warner,RAS Lakmal,GJ Maxwell,4,0,4,25,103,17,12,0,-,5.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+18,DA Warner,RAS Lakmal,GJ Maxwell,0,0,0,25,103,17,13,0,-,6.0,2,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+19,GJ Maxwell,SS Pathirana,DA Warner,0,0,0,25,103,6,7,0,-,1.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+20,GJ Maxwell,SS Pathirana,DA Warner,6,0,6,31,97,12,8,0,-,2.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+21,GJ Maxwell,SS Pathirana,DA Warner,0,0,0,31,97,12,9,0,-,3.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+22,GJ Maxwell,SS Pathirana,DA Warner,4,0,4,35,93,16,10,0,-,4.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+23,GJ Maxwell,SS Pathirana,DA Warner,1,0,1,36,92,17,11,0,-,5.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+24,DA Warner,SS Pathirana,GJ Maxwell,0,0,0,36,92,17,14,0,-,6.0,3,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+25,GJ Maxwell,SMSM Senanayake,DA Warner,4,0,4,40,88,21,12,0,-,1.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+26,GJ Maxwell,SMSM Senanayake,DA Warner,6,0,6,46,82,27,13,0,-,2.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+27,GJ Maxwell,SMSM Senanayake,DA Warner,1,0,1,47,81,28,14,0,-,3.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+28,DA Warner,SMSM Senanayake,GJ Maxwell,1,0,1,48,80,18,15,0,-,4.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+29,GJ Maxwell,SMSM Senanayake,DA Warner,2,0,2,50,78,30,15,0,-,5.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+30,GJ Maxwell,SMSM Senanayake,DA Warner,6,0,6,56,72,36,16,0,-,6.0,4,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+31,DA Warner,NLTC Perera,GJ Maxwell,0,0,0,56,72,18,16,0,-,1.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+32,DA Warner,NLTC Perera,GJ Maxwell,1,0,1,57,71,19,17,0,-,2.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+33,GJ Maxwell,NLTC Perera,DA Warner,6,0,6,63,65,42,17,0,-,3.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+34,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,67,61,46,18,0,-,4.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+35,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,71,57,50,19,0,-,5.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+36,GJ Maxwell,NLTC Perera,DA Warner,4,0,4,75,53,54,20,0,-,6.0,5,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+37,DA Warner,S Prasanna,GJ Maxwell,0,0,0,75,53,19,18,0,-,1.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+38,DA Warner,S Prasanna,GJ Maxwell,0,2,2,77,51,19,19,0,wides,1.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+39,GJ Maxwell,S Prasanna,DA Warner,1,0,1,78,50,55,21,0,-,2.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+40,DA Warner,S Prasanna,GJ Maxwell,1,0,1,79,49,20,20,0,-,3.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+41,GJ Maxwell,S Prasanna,DA Warner,4,0,4,83,45,59,22,0,-,4.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+42,GJ Maxwell,S Prasanna,DA Warner,0,0,0,83,45,59,23,0,-,5.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+43,GJ Maxwell,S Prasanna,DA Warner,1,0,1,84,44,60,24,0,-,6.0,6,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+44,GJ Maxwell,DM de Silva,DA Warner,1,0,1,85,43,61,25,0,-,1.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+45,DA Warner,DM de Silva,GJ Maxwell,1,0,1,86,42,21,21,0,-,2.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+46,GJ Maxwell,DM de Silva,DA Warner,2,0,2,88,40,63,26,0,-,3.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+47,GJ Maxwell,DM de Silva,DA Warner,1,0,1,89,39,64,27,0,-,4.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+48,DA Warner,DM de Silva,GJ Maxwell,1,0,1,90,38,22,22,0,-,5.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+49,GJ Maxwell,DM de Silva,DA Warner,2,0,2,92,36,66,28,0,-,6.0,7,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+50,DA Warner,S Prasanna,GJ Maxwell,1,0,1,93,35,23,23,0,-,1.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+51,GJ Maxwell,S Prasanna,DA Warner,0,0,0,93,35,66,29,0,-,2.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+52,GJ Maxwell,S Prasanna,DA Warner,0,0,0,93,35,66,30,1,-,3.0,8,bowled,GJ Maxwell,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+53,MC Henriques,S Prasanna,DA Warner,0,0,0,93,35,0,1,1,-,4.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+54,MC Henriques,S Prasanna,DA Warner,1,0,1,94,34,1,2,1,-,5.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+55,DA Warner,S Prasanna,MC Henriques,0,1,1,95,33,23,24,1,wides,5.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+56,DA Warner,S Prasanna,MC Henriques,2,0,2,97,31,25,25,1,-,6.0,8,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+57,MC Henriques,SS Pathirana,DA Warner,0,0,0,97,31,1,3,2,-,1.0,9,stumped,MC Henriques,MDKJ Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+58,JP Faulkner,SS Pathirana,DA Warner,1,0,1,98,30,1,1,2,-,2.0,9,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+59,DA Warner,SS Pathirana,JP Faulkner,0,0,0,98,30,25,26,3,-,3.0,9,caught,DA Warner,NLTC Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+60,MS Wade,SS Pathirana,JP Faulkner,0,0,0,98,30,0,1,3,-,4.0,9,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+61,MS Wade,SS Pathirana,JP Faulkner,1,0,1,99,29,1,2,3,-,5.0,9,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+62,JP Faulkner,SS Pathirana,MS Wade,0,0,0,99,29,1,2,3,-,6.0,9,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+63,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,3,3,-,1.0,10,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+64,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,4,3,-,2.0,10,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+65,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,5,3,-,3.0,10,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+66,MS Wade,S Prasanna,JP Faulkner,0,0,0,99,29,1,6,4,-,4.0,10,run out,JP Faulkner,LD Chandimal;MDKJ Perera,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+67,UT Khawaja,S Prasanna,MS Wade,0,0,0,99,29,0,1,4,-,5.0,10,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+68,UT Khawaja,S Prasanna,MS Wade,0,0,0,99,29,0,2,4,-,6.0,10,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+69,MS Wade,SMSM Senanayake,UT Khawaja,1,0,1,100,28,2,7,4,-,1.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+70,UT Khawaja,SMSM Senanayake,MS Wade,1,0,1,101,27,1,3,4,-,2.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+71,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,101,27,2,8,4,-,3.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+72,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,101,27,2,9,4,-,4.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+73,MS Wade,SMSM Senanayake,UT Khawaja,2,0,2,103,25,4,10,4,-,5.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+74,MS Wade,SMSM Senanayake,UT Khawaja,0,0,0,103,25,4,11,4,-,6.0,11,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+75,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,4,4,-,1.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+76,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,5,4,-,2.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+77,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,6,4,-,3.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+78,UT Khawaja,S Prasanna,MS Wade,0,0,0,103,25,1,7,4,-,4.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+79,UT Khawaja,S Prasanna,MS Wade,1,0,1,104,24,2,8,4,-,5.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+80,MS Wade,S Prasanna,UT Khawaja,1,0,1,105,23,5,12,4,-,6.0,12,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+81,MS Wade,DM de Silva,UT Khawaja,0,0,0,105,23,5,13,4,-,1.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+82,MS Wade,DM de Silva,UT Khawaja,1,0,1,106,22,6,14,4,-,2.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+83,UT Khawaja,DM de Silva,MS Wade,1,0,1,107,21,3,9,4,-,3.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+84,MS Wade,DM de Silva,UT Khawaja,1,0,1,108,20,7,15,4,-,4.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+85,UT Khawaja,DM de Silva,MS Wade,0,0,0,108,20,3,10,4,-,5.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+86,UT Khawaja,DM de Silva,MS Wade,1,0,1,109,19,4,11,4,-,6.0,13,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+87,UT Khawaja,TM Dilshan,MS Wade,0,0,0,109,19,4,12,4,-,1.0,14,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+88,UT Khawaja,TM Dilshan,MS Wade,1,0,1,110,18,5,13,4,-,2.0,14,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+89,MS Wade,TM Dilshan,UT Khawaja,1,0,1,111,17,8,16,4,-,3.0,14,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+90,UT Khawaja,TM Dilshan,MS Wade,1,0,1,112,16,6,14,4,-,4.0,14,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+91,MS Wade,TM Dilshan,UT Khawaja,1,0,1,113,15,9,17,4,-,5.0,14,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+92,UT Khawaja,TM Dilshan,MS Wade,0,0,0,113,15,6,15,5,-,6.0,14,lbw,UT Khawaja,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+93,MS Wade,SMSM Senanayake,TM Head,1,0,1,114,14,10,18,5,-,1.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+94,TM Head,SMSM Senanayake,MS Wade,1,0,1,115,13,1,1,5,-,2.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+95,MS Wade,SMSM Senanayake,TM Head,1,0,1,116,12,11,19,5,-,3.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+96,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,2,5,-,4.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+97,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,3,5,-,5.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+98,TM Head,SMSM Senanayake,MS Wade,0,0,0,116,12,1,4,5,-,6.0,15,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+99,MS Wade,TM Dilshan,TM Head,0,0,0,116,12,11,20,5,-,1.0,16,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+100,MS Wade,TM Dilshan,TM Head,3,0,3,119,9,14,21,5,-,2.0,16,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+101,TM Head,TM Dilshan,MS Wade,0,0,0,119,9,1,5,5,-,3.0,16,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+102,TM Head,TM Dilshan,MS Wade,1,0,1,120,8,2,6,5,-,4.0,16,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+103,MS Wade,TM Dilshan,TM Head,0,0,0,120,8,14,22,5,-,5.0,16,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+104,MS Wade,TM Dilshan,TM Head,0,0,0,120,8,14,23,6,-,6.0,16,caught,MS Wade,LD Chandimal,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+105,TM Head,SS Pathirana,PM Nevill,1,0,1,121,7,3,7,6,-,1.0,17,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+106,PM Nevill,SS Pathirana,TM Head,3,0,3,124,4,3,1,6,-,2.0,17,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+107,TM Head,SS Pathirana,PM Nevill,0,0,0,124,4,3,8,6,-,3.0,17,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+108,TM Head,SS Pathirana,PM Nevill,0,0,0,124,4,3,9,6,-,4.0,17,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130
+109,TM Head,SS Pathirana,PM Nevill,6,0,6,130,-2,9,10,6,-,5.0,17,0,,,bat,Sri Lanka,2,R Premadasa Stadium,2016,09,Sri Lanka_Australia_2016-09-09,Australia,Australia,Sri Lanka,True,130

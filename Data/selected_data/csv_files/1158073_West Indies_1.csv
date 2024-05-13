@@ -1,80 +1,80 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,SD Hope,DJ Willey,JD Campbell,0,0,0,0,,0,1,1,1,caught,SD Hope,AD Hales,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-1,SO Hetmyer,DJ Willey,JD Campbell,1,0,1,1,,1,1,1,2,0,,,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-2,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,1,1,3,0,,,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-3,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,2,1,4,0,,,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-4,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,3,1,5,0,,,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-5,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,4,1,6,0,,,0,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-6,SO Hetmyer,TK Curran,JD Campbell,4,0,4,5,,5,2,1,1,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-7,SO Hetmyer,TK Curran,JD Campbell,0,0,0,5,,5,3,1,2,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-8,SO Hetmyer,TK Curran,JD Campbell,1,0,1,6,,6,4,1,3,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-9,JD Campbell,TK Curran,SO Hetmyer,1,0,1,7,,1,5,1,4,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-10,SO Hetmyer,TK Curran,JD Campbell,2,0,2,9,,8,5,1,5,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-11,SO Hetmyer,TK Curran,JD Campbell,0,0,0,9,,8,6,1,6,0,,,1,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-12,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,9,,1,6,1,1,0,,,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-13,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,9,,1,7,1,2,0,,,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-14,JD Campbell,DJ Willey,SO Hetmyer,1,0,1,10,,2,8,1,3,0,,,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-15,SO Hetmyer,DJ Willey,JD Campbell,0,0,0,10,,8,7,2,4,caught,SO Hetmyer,CJ Jordan,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-16,DM Bravo,DJ Willey,JD Campbell,0,0,0,10,,0,1,2,5,0,,,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-17,DM Bravo,DJ Willey,JD Campbell,4,0,4,14,,4,2,2,6,0,,,2,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-18,JD Campbell,CJ Jordan,DM Bravo,0,0,0,14,,2,9,2,1,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-19,JD Campbell,CJ Jordan,DM Bravo,4,0,4,18,,6,10,2,2,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-20,JD Campbell,CJ Jordan,DM Bravo,0,0,0,18,,6,11,2,3,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-21,JD Campbell,CJ Jordan,DM Bravo,4,0,4,22,,10,12,2,4,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-22,JD Campbell,CJ Jordan,DM Bravo,1,0,1,23,,11,13,2,5,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-23,DM Bravo,CJ Jordan,JD Campbell,0,1,1,24,,4,3,2,6,0,,,3,wides,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-24,DM Bravo,CJ Jordan,JD Campbell,0,0,0,24,,4,4,2,7,0,,,3,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-25,JD Campbell,DJ Willey,DM Bravo,0,0,0,24,,11,14,3,1,caught,JD Campbell,JL Denly,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-26,DM Bravo,DJ Willey,JO Holder,0,0,0,24,,4,5,3,2,0,,,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-27,DM Bravo,DJ Willey,JO Holder,0,0,0,24,,4,6,4,3,caught,DM Bravo,JM Bairstow,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-28,N Pooran,DJ Willey,JO Holder,0,0,0,24,,0,1,4,4,0,,,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-29,N Pooran,DJ Willey,JO Holder,1,0,1,25,,1,2,4,5,0,,,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-30,JO Holder,DJ Willey,N Pooran,0,0,0,25,,0,1,4,6,0,,,4,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-31,N Pooran,CJ Jordan,JO Holder,1,0,1,26,,2,3,4,1,0,,,5,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-32,JO Holder,CJ Jordan,N Pooran,0,1,1,27,,0,2,4,2,0,,,5,byes,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-33,N Pooran,CJ Jordan,JO Holder,0,0,0,27,,2,4,4,3,0,,,5,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-34,N Pooran,CJ Jordan,JO Holder,1,0,1,28,,3,5,4,4,0,,,5,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-35,JO Holder,CJ Jordan,N Pooran,1,0,1,29,,1,3,4,5,0,,,5,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-36,N Pooran,CJ Jordan,JO Holder,1,0,1,30,,4,6,4,6,0,,,5,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-37,N Pooran,JL Denly,JO Holder,1,0,1,31,,5,7,4,1,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-38,JO Holder,JL Denly,N Pooran,1,0,1,32,,2,4,4,2,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-39,N Pooran,JL Denly,JO Holder,0,0,0,32,,5,8,4,3,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-40,N Pooran,JL Denly,JO Holder,1,0,1,33,,6,9,4,4,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-41,JO Holder,JL Denly,N Pooran,0,0,0,33,,2,5,4,5,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-42,JO Holder,JL Denly,N Pooran,1,0,1,34,,3,6,4,6,0,,,6,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-43,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,7,4,1,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-44,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,8,4,2,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-45,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,9,4,3,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-46,JO Holder,MA Wood,N Pooran,1,0,1,35,,4,10,4,4,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-47,N Pooran,MA Wood,JO Holder,0,0,0,35,,6,10,4,5,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-48,N Pooran,MA Wood,JO Holder,1,0,1,36,,7,11,4,6,0,,,7,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-49,N Pooran,JL Denly,JO Holder,1,0,1,37,,8,12,4,1,0,,,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-50,JO Holder,JL Denly,N Pooran,1,0,1,38,,5,11,4,2,0,,,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-51,N Pooran,JL Denly,JO Holder,1,0,1,39,,9,13,4,3,0,,,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-52,JO Holder,JL Denly,N Pooran,6,0,6,45,,11,12,4,4,0,,,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-53,JO Holder,JL Denly,N Pooran,0,0,0,45,,11,13,5,5,caught,JO Holder,CJ Jordan,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-54,N Pooran,JL Denly,FA Allen,1,0,1,46,,10,14,5,6,0,,,8,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-55,N Pooran,MA Wood,FA Allen,1,0,1,47,,11,15,5,1,0,,,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-56,FA Allen,MA Wood,N Pooran,1,0,1,48,,1,1,5,2,0,,,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-57,N Pooran,MA Wood,FA Allen,0,0,0,48,,11,16,5,3,0,,,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-58,N Pooran,MA Wood,FA Allen,0,0,0,48,,11,17,6,4,caught,N Pooran,CJ Jordan,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-59,CR Brathwaite,MA Wood,FA Allen,0,0,0,48,,0,1,6,5,0,,,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-60,CR Brathwaite,MA Wood,FA Allen,0,0,0,48,,0,2,6,6,0,,,9,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-61,FA Allen,AU Rashid,CR Brathwaite,0,0,0,48,,1,2,6,1,0,,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-62,FA Allen,AU Rashid,CR Brathwaite,6,0,6,54,,7,3,6,2,0,,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-63,FA Allen,AU Rashid,CR Brathwaite,0,0,0,54,,7,4,7,3,bowled,FA Allen,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-64,D Bishoo,AU Rashid,CR Brathwaite,1,0,1,55,,1,1,7,4,0,,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-65,CR Brathwaite,AU Rashid,D Bishoo,0,0,0,55,,0,3,7,5,0,,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-66,CR Brathwaite,AU Rashid,D Bishoo,0,0,0,55,,0,4,7,6,0,,,10,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-67,D Bishoo,MA Wood,CR Brathwaite,1,0,1,56,,2,2,7,1,0,,,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-68,CR Brathwaite,MA Wood,D Bishoo,0,0,0,56,,0,5,8,2,caught,CR Brathwaite,JM Bairstow,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-69,SS Cottrell,MA Wood,D Bishoo,4,0,4,60,,4,1,8,3,0,,,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-70,SS Cottrell,MA Wood,D Bishoo,0,0,0,60,,4,2,8,4,0,,,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-71,SS Cottrell,MA Wood,D Bishoo,0,0,0,60,,4,3,9,5,bowled,SS Cottrell,,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-72,OC McCoy,MA Wood,D Bishoo,0,0,0,60,,0,1,9,6,0,,,11,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-73,D Bishoo,AU Rashid,OC McCoy,1,0,1,61,,3,3,9,1,0,,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-74,OC McCoy,AU Rashid,D Bishoo,0,0,0,61,,0,2,9,2,0,,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-75,OC McCoy,AU Rashid,D Bishoo,6,0,6,67,,6,3,9,3,0,,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-76,OC McCoy,AU Rashid,D Bishoo,4,0,4,71,,10,4,9,4,0,,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-77,OC McCoy,AU Rashid,D Bishoo,0,0,0,71,,10,5,9,5,0,,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
-78,OC McCoy,AU Rashid,D Bishoo,0,0,0,71,,10,6,10,6,bowled,OC McCoy,,12,-,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,SD Hope,DJ Willey,JD Campbell,0,0,0,0,,0,1,1,-,1.0,caught,SD Hope,AD Hales,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+1,SO Hetmyer,DJ Willey,JD Campbell,1,0,1,1,,1,1,1,-,2.0,0,,,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+2,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,1,1,-,3.0,0,,,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+3,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,2,1,-,4.0,0,,,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+4,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,3,1,-,5.0,0,,,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+5,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,1,,0,4,1,-,6.0,0,,,0,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+6,SO Hetmyer,TK Curran,JD Campbell,4,0,4,5,,5,2,1,-,1.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+7,SO Hetmyer,TK Curran,JD Campbell,0,0,0,5,,5,3,1,-,2.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+8,SO Hetmyer,TK Curran,JD Campbell,1,0,1,6,,6,4,1,-,3.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+9,JD Campbell,TK Curran,SO Hetmyer,1,0,1,7,,1,5,1,-,4.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+10,SO Hetmyer,TK Curran,JD Campbell,2,0,2,9,,8,5,1,-,5.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+11,SO Hetmyer,TK Curran,JD Campbell,0,0,0,9,,8,6,1,-,6.0,0,,,1,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+12,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,9,,1,6,1,-,1.0,0,,,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+13,JD Campbell,DJ Willey,SO Hetmyer,0,0,0,9,,1,7,1,-,2.0,0,,,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+14,JD Campbell,DJ Willey,SO Hetmyer,1,0,1,10,,2,8,1,-,3.0,0,,,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+15,SO Hetmyer,DJ Willey,JD Campbell,0,0,0,10,,8,7,2,-,4.0,caught,SO Hetmyer,CJ Jordan,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+16,DM Bravo,DJ Willey,JD Campbell,0,0,0,10,,0,1,2,-,5.0,0,,,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+17,DM Bravo,DJ Willey,JD Campbell,4,0,4,14,,4,2,2,-,6.0,0,,,2,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+18,JD Campbell,CJ Jordan,DM Bravo,0,0,0,14,,2,9,2,-,1.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+19,JD Campbell,CJ Jordan,DM Bravo,4,0,4,18,,6,10,2,-,2.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+20,JD Campbell,CJ Jordan,DM Bravo,0,0,0,18,,6,11,2,-,3.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+21,JD Campbell,CJ Jordan,DM Bravo,4,0,4,22,,10,12,2,-,4.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+22,JD Campbell,CJ Jordan,DM Bravo,1,0,1,23,,11,13,2,-,5.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+23,DM Bravo,CJ Jordan,JD Campbell,0,1,1,24,,4,3,2,wides,5.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+24,DM Bravo,CJ Jordan,JD Campbell,0,0,0,24,,4,4,2,-,6.0,0,,,3,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+25,JD Campbell,DJ Willey,DM Bravo,0,0,0,24,,11,14,3,-,1.0,caught,JD Campbell,JL Denly,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+26,DM Bravo,DJ Willey,JO Holder,0,0,0,24,,4,5,3,-,2.0,0,,,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+27,DM Bravo,DJ Willey,JO Holder,0,0,0,24,,4,6,4,-,3.0,caught,DM Bravo,JM Bairstow,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+28,N Pooran,DJ Willey,JO Holder,0,0,0,24,,0,1,4,-,4.0,0,,,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+29,N Pooran,DJ Willey,JO Holder,1,0,1,25,,1,2,4,-,5.0,0,,,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+30,JO Holder,DJ Willey,N Pooran,0,0,0,25,,0,1,4,-,6.0,0,,,4,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+31,N Pooran,CJ Jordan,JO Holder,1,0,1,26,,2,3,4,-,1.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+32,JO Holder,CJ Jordan,N Pooran,0,1,1,27,,0,2,4,byes,2.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+33,N Pooran,CJ Jordan,JO Holder,0,0,0,27,,2,4,4,-,3.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+34,N Pooran,CJ Jordan,JO Holder,1,0,1,28,,3,5,4,-,4.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+35,JO Holder,CJ Jordan,N Pooran,1,0,1,29,,1,3,4,-,5.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+36,N Pooran,CJ Jordan,JO Holder,1,0,1,30,,4,6,4,-,6.0,0,,,5,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+37,N Pooran,JL Denly,JO Holder,1,0,1,31,,5,7,4,-,1.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+38,JO Holder,JL Denly,N Pooran,1,0,1,32,,2,4,4,-,2.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+39,N Pooran,JL Denly,JO Holder,0,0,0,32,,5,8,4,-,3.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+40,N Pooran,JL Denly,JO Holder,1,0,1,33,,6,9,4,-,4.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+41,JO Holder,JL Denly,N Pooran,0,0,0,33,,2,5,4,-,5.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+42,JO Holder,JL Denly,N Pooran,1,0,1,34,,3,6,4,-,6.0,0,,,6,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+43,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,7,4,-,1.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+44,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,8,4,-,2.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+45,JO Holder,MA Wood,N Pooran,0,0,0,34,,3,9,4,-,3.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+46,JO Holder,MA Wood,N Pooran,1,0,1,35,,4,10,4,-,4.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+47,N Pooran,MA Wood,JO Holder,0,0,0,35,,6,10,4,-,5.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+48,N Pooran,MA Wood,JO Holder,1,0,1,36,,7,11,4,-,6.0,0,,,7,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+49,N Pooran,JL Denly,JO Holder,1,0,1,37,,8,12,4,-,1.0,0,,,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+50,JO Holder,JL Denly,N Pooran,1,0,1,38,,5,11,4,-,2.0,0,,,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+51,N Pooran,JL Denly,JO Holder,1,0,1,39,,9,13,4,-,3.0,0,,,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+52,JO Holder,JL Denly,N Pooran,6,0,6,45,,11,12,4,-,4.0,0,,,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+53,JO Holder,JL Denly,N Pooran,0,0,0,45,,11,13,5,-,5.0,caught,JO Holder,CJ Jordan,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+54,N Pooran,JL Denly,FA Allen,1,0,1,46,,10,14,5,-,6.0,0,,,8,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+55,N Pooran,MA Wood,FA Allen,1,0,1,47,,11,15,5,-,1.0,0,,,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+56,FA Allen,MA Wood,N Pooran,1,0,1,48,,1,1,5,-,2.0,0,,,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+57,N Pooran,MA Wood,FA Allen,0,0,0,48,,11,16,5,-,3.0,0,,,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+58,N Pooran,MA Wood,FA Allen,0,0,0,48,,11,17,6,-,4.0,caught,N Pooran,CJ Jordan,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+59,CR Brathwaite,MA Wood,FA Allen,0,0,0,48,,0,1,6,-,5.0,0,,,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+60,CR Brathwaite,MA Wood,FA Allen,0,0,0,48,,0,2,6,-,6.0,0,,,9,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+61,FA Allen,AU Rashid,CR Brathwaite,0,0,0,48,,1,2,6,-,1.0,0,,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+62,FA Allen,AU Rashid,CR Brathwaite,6,0,6,54,,7,3,6,-,2.0,0,,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+63,FA Allen,AU Rashid,CR Brathwaite,0,0,0,54,,7,4,7,-,3.0,bowled,FA Allen,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+64,D Bishoo,AU Rashid,CR Brathwaite,1,0,1,55,,1,1,7,-,4.0,0,,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+65,CR Brathwaite,AU Rashid,D Bishoo,0,0,0,55,,0,3,7,-,5.0,0,,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+66,CR Brathwaite,AU Rashid,D Bishoo,0,0,0,55,,0,4,7,-,6.0,0,,,10,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+67,D Bishoo,MA Wood,CR Brathwaite,1,0,1,56,,2,2,7,-,1.0,0,,,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+68,CR Brathwaite,MA Wood,D Bishoo,0,0,0,56,,0,5,8,-,2.0,caught,CR Brathwaite,JM Bairstow,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+69,SS Cottrell,MA Wood,D Bishoo,4,0,4,60,,4,1,8,-,3.0,0,,,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+70,SS Cottrell,MA Wood,D Bishoo,0,0,0,60,,4,2,8,-,4.0,0,,,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+71,SS Cottrell,MA Wood,D Bishoo,0,0,0,60,,4,3,9,-,5.0,bowled,SS Cottrell,,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+72,OC McCoy,MA Wood,D Bishoo,0,0,0,60,,0,1,9,-,6.0,0,,,11,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+73,D Bishoo,AU Rashid,OC McCoy,1,0,1,61,,3,3,9,-,1.0,0,,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+74,OC McCoy,AU Rashid,D Bishoo,0,0,0,61,,0,2,9,-,2.0,0,,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+75,OC McCoy,AU Rashid,D Bishoo,6,0,6,67,,6,3,9,-,3.0,0,,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+76,OC McCoy,AU Rashid,D Bishoo,4,0,4,71,,10,4,9,-,4.0,0,,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+77,OC McCoy,AU Rashid,D Bishoo,0,0,0,71,,10,5,9,-,5.0,0,,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71
+78,OC McCoy,AU Rashid,D Bishoo,0,0,0,71,,10,6,10,-,6.0,bowled,OC McCoy,,12,bat,West Indies,1,"Warner Park, St Kitts",2019,03,West Indies_England_2019-03-10,England,West Indies,England,False,71

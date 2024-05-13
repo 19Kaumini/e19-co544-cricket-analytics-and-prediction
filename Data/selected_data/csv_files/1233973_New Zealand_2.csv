@@ -1,105 +1,105 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,over,extra_type,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,MJ Guptill,JA Richardson,TL Seifert,0,0,0,0,208,0,1,0,1,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-1,MJ Guptill,JA Richardson,TL Seifert,2,0,2,2,206,2,2,0,2,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-2,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,3,0,3,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-3,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,4,0,4,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-4,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,5,0,5,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-5,MJ Guptill,JA Richardson,TL Seifert,6,0,6,8,200,8,6,0,6,0,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-6,TL Seifert,RP Meredith,MJ Guptill,0,0,0,8,200,0,1,0,1,1,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-7,TL Seifert,RP Meredith,MJ Guptill,0,1,1,9,199,0,2,0,2,1,legbyes,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-8,MJ Guptill,RP Meredith,TL Seifert,6,0,6,15,193,14,7,0,3,1,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-9,MJ Guptill,RP Meredith,TL Seifert,1,0,1,16,192,15,8,0,4,1,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-10,TL Seifert,RP Meredith,MJ Guptill,4,0,4,20,188,4,3,0,5,1,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-11,TL Seifert,RP Meredith,MJ Guptill,0,0,0,20,188,4,4,1,6,1,-,caught,TL Seifert,MP Stoinis,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-12,KS Williamson,A Zampa,MJ Guptill,1,0,1,21,187,1,1,1,1,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-13,MJ Guptill,A Zampa,KS Williamson,1,0,1,22,186,16,9,1,2,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-14,KS Williamson,A Zampa,MJ Guptill,6,0,6,28,180,7,2,1,3,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-15,KS Williamson,A Zampa,MJ Guptill,1,0,1,29,179,8,3,1,4,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-16,MJ Guptill,A Zampa,KS Williamson,0,0,0,29,179,16,10,1,5,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-17,MJ Guptill,A Zampa,KS Williamson,4,0,4,33,175,20,11,1,6,2,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-18,KS Williamson,JA Richardson,MJ Guptill,1,0,1,34,174,9,4,1,1,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-19,MJ Guptill,JA Richardson,KS Williamson,6,0,6,40,168,26,12,1,2,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-20,MJ Guptill,JA Richardson,KS Williamson,2,0,2,42,166,28,13,1,3,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-21,MJ Guptill,JA Richardson,KS Williamson,0,0,0,42,166,28,14,1,4,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-22,MJ Guptill,JA Richardson,KS Williamson,4,0,4,46,162,32,15,1,5,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-23,MJ Guptill,JA Richardson,KS Williamson,1,0,1,47,161,33,16,1,6,3,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-24,MJ Guptill,RP Meredith,KS Williamson,0,0,0,47,161,33,17,1,1,4,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-25,MJ Guptill,RP Meredith,KS Williamson,1,0,1,48,160,34,18,1,2,4,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-26,KS Williamson,RP Meredith,MJ Guptill,0,0,0,48,160,9,5,1,3,4,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-27,KS Williamson,RP Meredith,MJ Guptill,0,0,0,48,160,9,6,2,4,4,-,lbw,KS Williamson,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-28,DP Conway,RP Meredith,MJ Guptill,0,0,0,48,160,0,1,2,5,4,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-29,DP Conway,RP Meredith,MJ Guptill,4,0,4,52,156,4,2,2,6,4,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-30,MJ Guptill,KW Richardson,DP Conway,0,1,1,53,155,34,19,2,1,5,wides,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-31,MJ Guptill,KW Richardson,DP Conway,1,0,1,54,154,35,20,2,2,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-32,DP Conway,KW Richardson,MJ Guptill,1,0,1,55,153,5,3,2,3,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-33,MJ Guptill,KW Richardson,DP Conway,1,0,1,56,152,36,21,2,4,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-34,DP Conway,KW Richardson,MJ Guptill,1,0,1,57,151,6,4,2,5,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-35,MJ Guptill,KW Richardson,DP Conway,1,0,1,58,150,37,22,2,6,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-36,DP Conway,KW Richardson,MJ Guptill,1,0,1,59,149,7,5,2,7,5,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-37,DP Conway,AC Agar,MJ Guptill,0,0,0,59,149,7,6,2,1,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-38,DP Conway,AC Agar,MJ Guptill,4,0,4,63,145,11,7,2,2,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-39,DP Conway,AC Agar,MJ Guptill,0,0,0,63,145,11,8,2,3,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-40,DP Conway,AC Agar,MJ Guptill,0,0,0,63,145,11,9,2,4,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-41,DP Conway,AC Agar,MJ Guptill,4,0,4,67,141,15,10,2,5,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-42,DP Conway,AC Agar,MJ Guptill,4,0,4,71,137,19,11,2,6,6,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-43,MJ Guptill,MP Stoinis,DP Conway,0,0,0,71,137,37,23,2,1,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-44,MJ Guptill,MP Stoinis,DP Conway,0,0,0,71,137,37,24,2,2,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-45,MJ Guptill,MP Stoinis,DP Conway,2,0,2,73,135,39,25,2,3,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-46,MJ Guptill,MP Stoinis,DP Conway,2,0,2,75,133,41,26,2,4,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-47,MJ Guptill,MP Stoinis,DP Conway,1,0,1,76,132,42,27,2,5,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-48,DP Conway,MP Stoinis,MJ Guptill,1,0,1,77,131,20,12,2,6,7,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-49,DP Conway,A Zampa,MJ Guptill,1,0,1,78,130,21,13,2,1,8,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-50,MJ Guptill,A Zampa,DP Conway,1,0,1,79,129,43,28,2,2,8,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-51,DP Conway,A Zampa,MJ Guptill,1,0,1,80,128,22,14,2,3,8,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-52,MJ Guptill,A Zampa,DP Conway,0,0,0,80,128,43,29,3,4,8,-,caught,MJ Guptill,AC Agar,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-53,DP Conway,A Zampa,GD Phillips,1,0,1,81,127,23,15,3,5,8,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-54,GD Phillips,A Zampa,DP Conway,0,0,0,81,127,0,1,3,6,8,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-55,DP Conway,GJ Maxwell,GD Phillips,6,0,6,87,121,29,16,3,1,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-56,DP Conway,GJ Maxwell,GD Phillips,1,0,1,88,120,30,17,3,2,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-57,GD Phillips,GJ Maxwell,DP Conway,0,0,0,88,120,0,2,3,3,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-58,GD Phillips,GJ Maxwell,DP Conway,6,0,6,94,114,6,3,3,4,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-59,GD Phillips,GJ Maxwell,DP Conway,1,0,1,95,113,7,4,3,5,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-60,DP Conway,GJ Maxwell,GD Phillips,1,0,1,96,112,31,18,3,6,9,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-61,DP Conway,RP Meredith,GD Phillips,0,0,0,96,112,31,19,3,1,10,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-62,DP Conway,RP Meredith,GD Phillips,1,0,1,97,111,32,20,3,2,10,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-63,GD Phillips,RP Meredith,DP Conway,1,0,1,98,110,8,5,3,3,10,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-64,DP Conway,RP Meredith,GD Phillips,0,0,0,98,110,32,21,3,4,10,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-65,DP Conway,RP Meredith,GD Phillips,1,0,1,99,109,33,22,3,5,10,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-66,GD Phillips,RP Meredith,DP Conway,0,0,0,99,109,8,6,3,6,10,-,0,,,"{'by': 'Australia', 'umpire': 'WR Knights', 'batter': 'GD Phillips', 'decision': 'struck down'}",field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-67,DP Conway,KW Richardson,GD Phillips,0,0,0,99,109,33,23,3,1,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-68,DP Conway,KW Richardson,GD Phillips,4,0,4,103,105,37,24,3,2,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-69,DP Conway,KW Richardson,GD Phillips,1,0,1,104,104,38,25,3,3,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-70,GD Phillips,KW Richardson,DP Conway,2,0,2,106,102,10,7,3,4,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-71,GD Phillips,KW Richardson,DP Conway,2,0,2,108,100,12,8,3,5,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-72,GD Phillips,KW Richardson,DP Conway,1,0,1,109,99,13,9,3,6,11,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-73,GD Phillips,AC Agar,DP Conway,0,0,0,109,99,13,10,4,1,12,-,caught,GD Phillips,KW Richardson,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-74,DP Conway,AC Agar,JDS Neesham,0,0,0,109,99,38,26,4,2,12,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-75,DP Conway,AC Agar,JDS Neesham,0,0,0,109,99,38,27,5,3,12,-,caught,DP Conway,MP Stoinis,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-76,MS Chapman,AC Agar,JDS Neesham,1,0,1,110,98,1,1,5,4,12,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-77,JDS Neesham,AC Agar,MS Chapman,0,0,0,110,98,0,1,6,5,12,-,caught,JDS Neesham,MS Wade,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-78,TG Southee,AC Agar,MS Chapman,1,0,1,111,97,1,1,6,6,12,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-79,TG Southee,RP Meredith,MS Chapman,0,0,0,111,97,1,2,6,1,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-80,TG Southee,RP Meredith,MS Chapman,2,0,2,113,95,3,3,6,2,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-81,TG Southee,RP Meredith,MS Chapman,1,0,1,114,94,4,4,6,3,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-82,MS Chapman,RP Meredith,TG Southee,0,0,0,114,94,1,2,6,4,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-83,MS Chapman,RP Meredith,TG Southee,1,0,1,115,93,2,3,6,5,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-84,TG Southee,RP Meredith,MS Chapman,1,0,1,116,92,5,5,6,6,13,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-85,TG Southee,AC Agar,MS Chapman,0,0,0,116,92,5,6,7,1,14,-,caught,TG Southee,GJ Maxwell,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-86,MS Chapman,AC Agar,KA Jamieson,2,0,2,118,90,4,4,7,2,14,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-87,MS Chapman,AC Agar,KA Jamieson,1,0,1,119,89,5,5,7,3,14,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-88,KA Jamieson,AC Agar,MS Chapman,0,0,0,119,89,0,1,7,4,14,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-89,KA Jamieson,AC Agar,MS Chapman,0,0,0,119,89,0,2,7,5,14,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-90,KA Jamieson,AC Agar,MS Chapman,1,0,1,120,88,1,3,7,6,14,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-91,KA Jamieson,JA Richardson,MS Chapman,4,0,4,124,84,5,4,7,1,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-92,KA Jamieson,JA Richardson,MS Chapman,0,0,0,124,84,5,5,7,2,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-93,KA Jamieson,JA Richardson,MS Chapman,1,0,1,125,83,6,6,7,3,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-94,MS Chapman,JA Richardson,KA Jamieson,4,0,4,129,79,9,6,7,4,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-95,MS Chapman,JA Richardson,KA Jamieson,2,0,2,131,77,11,7,7,5,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-96,MS Chapman,JA Richardson,KA Jamieson,1,0,1,132,76,12,8,7,6,15,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-97,MS Chapman,AC Agar,KA Jamieson,6,0,6,138,70,18,9,7,1,16,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-98,MS Chapman,AC Agar,KA Jamieson,0,0,0,138,70,18,10,8,2,16,-,caught,MS Chapman,A Zampa,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-99,KA Jamieson,AC Agar,IS Sodhi,1,0,1,139,69,7,7,8,3,16,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-100,IS Sodhi,AC Agar,KA Jamieson,1,0,1,140,68,1,1,8,4,16,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-101,KA Jamieson,AC Agar,IS Sodhi,4,0,4,144,64,11,8,8,5,16,-,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-102,KA Jamieson,AC Agar,IS Sodhi,0,0,0,144,64,11,9,9,6,16,-,lbw,KA Jamieson,,"{'by': 'New Zealand', 'umpire': 'WR Knights', 'batter': 'KA Jamieson', 'decision': 'struck down', 'umpires_call': True}",field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
-103,IS Sodhi,KW Richardson,TA Boult,0,0,0,144,64,1,2,10,1,17,-,caught and bowled,IS Sodhi,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,MJ Guptill,JA Richardson,TL Seifert,0,0,0,0,208,0,1,0,-,1.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+1,MJ Guptill,JA Richardson,TL Seifert,2,0,2,2,206,2,2,0,-,2.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+2,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,3,0,-,3.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+3,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,4,0,-,4.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+4,MJ Guptill,JA Richardson,TL Seifert,0,0,0,2,206,2,5,0,-,5.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+5,MJ Guptill,JA Richardson,TL Seifert,6,0,6,8,200,8,6,0,-,6.0,0,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+6,TL Seifert,RP Meredith,MJ Guptill,0,0,0,8,200,0,1,0,-,1.0,1,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+7,TL Seifert,RP Meredith,MJ Guptill,0,1,1,9,199,0,2,0,legbyes,2.0,1,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+8,MJ Guptill,RP Meredith,TL Seifert,6,0,6,15,193,14,7,0,-,3.0,1,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+9,MJ Guptill,RP Meredith,TL Seifert,1,0,1,16,192,15,8,0,-,4.0,1,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+10,TL Seifert,RP Meredith,MJ Guptill,4,0,4,20,188,4,3,0,-,5.0,1,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+11,TL Seifert,RP Meredith,MJ Guptill,0,0,0,20,188,4,4,1,-,6.0,1,caught,TL Seifert,MP Stoinis,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+12,KS Williamson,A Zampa,MJ Guptill,1,0,1,21,187,1,1,1,-,1.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+13,MJ Guptill,A Zampa,KS Williamson,1,0,1,22,186,16,9,1,-,2.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+14,KS Williamson,A Zampa,MJ Guptill,6,0,6,28,180,7,2,1,-,3.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+15,KS Williamson,A Zampa,MJ Guptill,1,0,1,29,179,8,3,1,-,4.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+16,MJ Guptill,A Zampa,KS Williamson,0,0,0,29,179,16,10,1,-,5.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+17,MJ Guptill,A Zampa,KS Williamson,4,0,4,33,175,20,11,1,-,6.0,2,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+18,KS Williamson,JA Richardson,MJ Guptill,1,0,1,34,174,9,4,1,-,1.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+19,MJ Guptill,JA Richardson,KS Williamson,6,0,6,40,168,26,12,1,-,2.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+20,MJ Guptill,JA Richardson,KS Williamson,2,0,2,42,166,28,13,1,-,3.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+21,MJ Guptill,JA Richardson,KS Williamson,0,0,0,42,166,28,14,1,-,4.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+22,MJ Guptill,JA Richardson,KS Williamson,4,0,4,46,162,32,15,1,-,5.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+23,MJ Guptill,JA Richardson,KS Williamson,1,0,1,47,161,33,16,1,-,6.0,3,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+24,MJ Guptill,RP Meredith,KS Williamson,0,0,0,47,161,33,17,1,-,1.0,4,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+25,MJ Guptill,RP Meredith,KS Williamson,1,0,1,48,160,34,18,1,-,2.0,4,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+26,KS Williamson,RP Meredith,MJ Guptill,0,0,0,48,160,9,5,1,-,3.0,4,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+27,KS Williamson,RP Meredith,MJ Guptill,0,0,0,48,160,9,6,2,-,4.0,4,lbw,KS Williamson,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+28,DP Conway,RP Meredith,MJ Guptill,0,0,0,48,160,0,1,2,-,5.0,4,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+29,DP Conway,RP Meredith,MJ Guptill,4,0,4,52,156,4,2,2,-,6.0,4,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+30,MJ Guptill,KW Richardson,DP Conway,0,1,1,53,155,34,19,2,wides,0.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+31,MJ Guptill,KW Richardson,DP Conway,1,0,1,54,154,35,20,2,-,1.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+32,DP Conway,KW Richardson,MJ Guptill,1,0,1,55,153,5,3,2,-,2.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+33,MJ Guptill,KW Richardson,DP Conway,1,0,1,56,152,36,21,2,-,3.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+34,DP Conway,KW Richardson,MJ Guptill,1,0,1,57,151,6,4,2,-,4.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+35,MJ Guptill,KW Richardson,DP Conway,1,0,1,58,150,37,22,2,-,5.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+36,DP Conway,KW Richardson,MJ Guptill,1,0,1,59,149,7,5,2,-,6.0,5,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+37,DP Conway,AC Agar,MJ Guptill,0,0,0,59,149,7,6,2,-,1.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+38,DP Conway,AC Agar,MJ Guptill,4,0,4,63,145,11,7,2,-,2.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+39,DP Conway,AC Agar,MJ Guptill,0,0,0,63,145,11,8,2,-,3.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+40,DP Conway,AC Agar,MJ Guptill,0,0,0,63,145,11,9,2,-,4.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+41,DP Conway,AC Agar,MJ Guptill,4,0,4,67,141,15,10,2,-,5.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+42,DP Conway,AC Agar,MJ Guptill,4,0,4,71,137,19,11,2,-,6.0,6,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+43,MJ Guptill,MP Stoinis,DP Conway,0,0,0,71,137,37,23,2,-,1.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+44,MJ Guptill,MP Stoinis,DP Conway,0,0,0,71,137,37,24,2,-,2.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+45,MJ Guptill,MP Stoinis,DP Conway,2,0,2,73,135,39,25,2,-,3.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+46,MJ Guptill,MP Stoinis,DP Conway,2,0,2,75,133,41,26,2,-,4.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+47,MJ Guptill,MP Stoinis,DP Conway,1,0,1,76,132,42,27,2,-,5.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+48,DP Conway,MP Stoinis,MJ Guptill,1,0,1,77,131,20,12,2,-,6.0,7,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+49,DP Conway,A Zampa,MJ Guptill,1,0,1,78,130,21,13,2,-,1.0,8,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+50,MJ Guptill,A Zampa,DP Conway,1,0,1,79,129,43,28,2,-,2.0,8,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+51,DP Conway,A Zampa,MJ Guptill,1,0,1,80,128,22,14,2,-,3.0,8,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+52,MJ Guptill,A Zampa,DP Conway,0,0,0,80,128,43,29,3,-,4.0,8,caught,MJ Guptill,AC Agar,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+53,DP Conway,A Zampa,GD Phillips,1,0,1,81,127,23,15,3,-,5.0,8,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+54,GD Phillips,A Zampa,DP Conway,0,0,0,81,127,0,1,3,-,6.0,8,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+55,DP Conway,GJ Maxwell,GD Phillips,6,0,6,87,121,29,16,3,-,1.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+56,DP Conway,GJ Maxwell,GD Phillips,1,0,1,88,120,30,17,3,-,2.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+57,GD Phillips,GJ Maxwell,DP Conway,0,0,0,88,120,0,2,3,-,3.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+58,GD Phillips,GJ Maxwell,DP Conway,6,0,6,94,114,6,3,3,-,4.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+59,GD Phillips,GJ Maxwell,DP Conway,1,0,1,95,113,7,4,3,-,5.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+60,DP Conway,GJ Maxwell,GD Phillips,1,0,1,96,112,31,18,3,-,6.0,9,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+61,DP Conway,RP Meredith,GD Phillips,0,0,0,96,112,31,19,3,-,1.0,10,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+62,DP Conway,RP Meredith,GD Phillips,1,0,1,97,111,32,20,3,-,2.0,10,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+63,GD Phillips,RP Meredith,DP Conway,1,0,1,98,110,8,5,3,-,3.0,10,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+64,DP Conway,RP Meredith,GD Phillips,0,0,0,98,110,32,21,3,-,4.0,10,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+65,DP Conway,RP Meredith,GD Phillips,1,0,1,99,109,33,22,3,-,5.0,10,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+66,GD Phillips,RP Meredith,DP Conway,0,0,0,99,109,8,6,3,-,6.0,10,0,,,"{'by': 'Australia', 'umpire': 'WR Knights', 'batter': 'GD Phillips', 'decision': 'struck down'}",field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+67,DP Conway,KW Richardson,GD Phillips,0,0,0,99,109,33,23,3,-,1.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+68,DP Conway,KW Richardson,GD Phillips,4,0,4,103,105,37,24,3,-,2.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+69,DP Conway,KW Richardson,GD Phillips,1,0,1,104,104,38,25,3,-,3.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+70,GD Phillips,KW Richardson,DP Conway,2,0,2,106,102,10,7,3,-,4.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+71,GD Phillips,KW Richardson,DP Conway,2,0,2,108,100,12,8,3,-,5.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+72,GD Phillips,KW Richardson,DP Conway,1,0,1,109,99,13,9,3,-,6.0,11,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+73,GD Phillips,AC Agar,DP Conway,0,0,0,109,99,13,10,4,-,1.0,12,caught,GD Phillips,KW Richardson,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+74,DP Conway,AC Agar,JDS Neesham,0,0,0,109,99,38,26,4,-,2.0,12,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+75,DP Conway,AC Agar,JDS Neesham,0,0,0,109,99,38,27,5,-,3.0,12,caught,DP Conway,MP Stoinis,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+76,MS Chapman,AC Agar,JDS Neesham,1,0,1,110,98,1,1,5,-,4.0,12,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+77,JDS Neesham,AC Agar,MS Chapman,0,0,0,110,98,0,1,6,-,5.0,12,caught,JDS Neesham,MS Wade,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+78,TG Southee,AC Agar,MS Chapman,1,0,1,111,97,1,1,6,-,6.0,12,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+79,TG Southee,RP Meredith,MS Chapman,0,0,0,111,97,1,2,6,-,1.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+80,TG Southee,RP Meredith,MS Chapman,2,0,2,113,95,3,3,6,-,2.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+81,TG Southee,RP Meredith,MS Chapman,1,0,1,114,94,4,4,6,-,3.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+82,MS Chapman,RP Meredith,TG Southee,0,0,0,114,94,1,2,6,-,4.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+83,MS Chapman,RP Meredith,TG Southee,1,0,1,115,93,2,3,6,-,5.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+84,TG Southee,RP Meredith,MS Chapman,1,0,1,116,92,5,5,6,-,6.0,13,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+85,TG Southee,AC Agar,MS Chapman,0,0,0,116,92,5,6,7,-,1.0,14,caught,TG Southee,GJ Maxwell,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+86,MS Chapman,AC Agar,KA Jamieson,2,0,2,118,90,4,4,7,-,2.0,14,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+87,MS Chapman,AC Agar,KA Jamieson,1,0,1,119,89,5,5,7,-,3.0,14,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+88,KA Jamieson,AC Agar,MS Chapman,0,0,0,119,89,0,1,7,-,4.0,14,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+89,KA Jamieson,AC Agar,MS Chapman,0,0,0,119,89,0,2,7,-,5.0,14,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+90,KA Jamieson,AC Agar,MS Chapman,1,0,1,120,88,1,3,7,-,6.0,14,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+91,KA Jamieson,JA Richardson,MS Chapman,4,0,4,124,84,5,4,7,-,1.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+92,KA Jamieson,JA Richardson,MS Chapman,0,0,0,124,84,5,5,7,-,2.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+93,KA Jamieson,JA Richardson,MS Chapman,1,0,1,125,83,6,6,7,-,3.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+94,MS Chapman,JA Richardson,KA Jamieson,4,0,4,129,79,9,6,7,-,4.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+95,MS Chapman,JA Richardson,KA Jamieson,2,0,2,131,77,11,7,7,-,5.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+96,MS Chapman,JA Richardson,KA Jamieson,1,0,1,132,76,12,8,7,-,6.0,15,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+97,MS Chapman,AC Agar,KA Jamieson,6,0,6,138,70,18,9,7,-,1.0,16,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+98,MS Chapman,AC Agar,KA Jamieson,0,0,0,138,70,18,10,8,-,2.0,16,caught,MS Chapman,A Zampa,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+99,KA Jamieson,AC Agar,IS Sodhi,1,0,1,139,69,7,7,8,-,3.0,16,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+100,IS Sodhi,AC Agar,KA Jamieson,1,0,1,140,68,1,1,8,-,4.0,16,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+101,KA Jamieson,AC Agar,IS Sodhi,4,0,4,144,64,11,8,8,-,5.0,16,0,,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+102,KA Jamieson,AC Agar,IS Sodhi,0,0,0,144,64,11,9,9,-,6.0,16,lbw,KA Jamieson,,"{'by': 'New Zealand', 'umpire': 'WR Knights', 'batter': 'KA Jamieson', 'decision': 'struck down', 'umpires_call': True}",field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144
+103,IS Sodhi,KW Richardson,TA Boult,0,0,0,144,64,1,2,10,-,1.0,17,caught and bowled,IS Sodhi,,,field,New Zealand,2,Westpac Stadium,2021,03,Australia_New Zealand_2021-03-03,Australia,New Zealand,Australia,False,144

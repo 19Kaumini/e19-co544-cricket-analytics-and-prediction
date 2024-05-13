@@ -1,7 +1,7 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,CL White,TG Southee,DA Warner,2,0,2,2,,2,1,0,1,0,,,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
-1,CL White,TG Southee,DA Warner,1,0,1,3,,3,2,0,2,0,,,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
-2,DA Warner,TG Southee,CL White,0,0,0,3,,0,1,0,3,0,,,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
-3,DA Warner,TG Southee,CL White,0,0,0,3,,0,2,1,4,caught,DA Warner,NL McCullum,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
-4,CL White,TG Southee,BJ Haddin,1,0,1,4,,4,3,1,5,0,,,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
-5,BJ Haddin,TG Southee,CL White,2,0,2,6,,2,1,1,6,0,,,0,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,CL White,TG Southee,DA Warner,2,0,2,2,,2,1,0,-,1.0,0,,,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+1,CL White,TG Southee,DA Warner,1,0,1,3,,3,2,0,-,2.0,0,,,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+2,DA Warner,TG Southee,CL White,0,0,0,3,,0,1,0,-,3.0,0,,,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+3,DA Warner,TG Southee,CL White,0,0,0,3,,0,2,1,-,4.0,caught,DA Warner,NL McCullum,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+4,CL White,TG Southee,BJ Haddin,1,0,1,4,,4,3,1,-,5.0,0,,,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6
+5,BJ Haddin,TG Southee,CL White,2,0,2,6,,2,1,1,-,6.0,0,,,0,bat,New Zealand,3,AMI Stadium,2010,02,New Zealand_Australia_2010-02-28,tie,Australia,New Zealand,,6

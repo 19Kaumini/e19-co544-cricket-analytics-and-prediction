@@ -1,102 +1,102 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,1,0,1,0,,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-1,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,2,0,2,0,,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-2,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,3,1,3,bowled,AJ Finch,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-3,CA Lynn,Imad Wasim,DJM Short,1,0,1,1,154,1,1,1,4,0,,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-4,DJM Short,Imad Wasim,CA Lynn,4,0,4,5,150,4,1,1,5,0,,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-5,DJM Short,Imad Wasim,CA Lynn,0,0,0,5,150,4,2,2,6,bowled,DJM Short,,0,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-6,CA Lynn,Faheem Ashraf,GJ Maxwell,0,0,0,5,150,1,2,2,1,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-7,CA Lynn,Faheem Ashraf,GJ Maxwell,0,0,0,5,150,1,3,2,2,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-8,CA Lynn,Faheem Ashraf,GJ Maxwell,1,0,1,6,149,2,4,2,3,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-9,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,6,149,0,1,2,4,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-10,GJ Maxwell,Faheem Ashraf,CA Lynn,1,0,1,7,148,1,2,2,5,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-11,CA Lynn,Faheem Ashraf,GJ Maxwell,4,0,4,11,144,6,5,2,6,0,,,1,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-12,GJ Maxwell,Imad Wasim,CA Lynn,0,0,0,11,144,1,3,2,1,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-13,GJ Maxwell,Imad Wasim,CA Lynn,0,0,0,11,144,1,4,2,2,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-14,GJ Maxwell,Imad Wasim,CA Lynn,1,0,1,12,143,2,5,2,3,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-15,CA Lynn,Imad Wasim,GJ Maxwell,0,0,0,12,143,6,6,2,4,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-16,CA Lynn,Imad Wasim,GJ Maxwell,2,0,2,14,141,8,7,2,5,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-17,CA Lynn,Imad Wasim,GJ Maxwell,1,0,1,15,140,9,8,2,6,0,,,2,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-18,CA Lynn,Faheem Ashraf,GJ Maxwell,0,1,1,16,139,9,9,2,1,0,,,3,byes,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-19,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,16,139,2,6,2,2,0,,,3,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-20,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,16,139,2,7,3,3,bowled,GJ Maxwell,,3,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-21,BR McDermott,Faheem Ashraf,CA Lynn,0,0,0,16,139,0,1,3,4,0,,,3,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-22,BR McDermott,Faheem Ashraf,CA Lynn,0,0,0,16,139,0,2,4,5,run out,BR McDermott,,3,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-23,CA Lynn,Faheem Ashraf,AT Carey,0,0,0,16,139,9,10,4,6,0,,,3,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-24,AT Carey,Imad Wasim,CA Lynn,0,0,0,16,139,0,1,4,1,0,,,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-25,AT Carey,Imad Wasim,CA Lynn,1,0,1,17,138,1,2,4,2,0,,,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-26,CA Lynn,Imad Wasim,AT Carey,0,0,0,17,138,9,11,4,3,0,,,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-27,CA Lynn,Imad Wasim,AT Carey,4,0,4,21,134,13,12,4,4,0,,,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-28,CA Lynn,Imad Wasim,AT Carey,1,0,1,22,133,14,13,4,5,0,,,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-29,AT Carey,Imad Wasim,CA Lynn,0,0,0,22,133,1,3,5,6,caught,AT Carey,Sarfraz Ahmed,4,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-30,CA Lynn,Faheem Ashraf,AC Agar,0,0,0,22,133,14,14,5,1,0,,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-31,CA Lynn,Faheem Ashraf,AC Agar,0,0,0,22,133,14,15,6,2,bowled,CA Lynn,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-32,NM Coulter-Nile,Faheem Ashraf,AC Agar,0,0,0,22,133,0,1,6,3,0,,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-33,NM Coulter-Nile,Faheem Ashraf,AC Agar,0,0,0,22,133,0,2,6,4,0,,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-34,NM Coulter-Nile,Faheem Ashraf,AC Agar,1,0,1,23,132,1,3,6,5,0,,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-35,AC Agar,Faheem Ashraf,NM Coulter-Nile,3,0,3,26,129,3,1,6,6,0,,,5,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-36,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,26,129,3,2,6,1,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-37,AC Agar,Hasan Ali,NM Coulter-Nile,1,0,1,27,128,4,3,6,2,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-38,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,4,6,3,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-39,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,5,6,4,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-40,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,6,6,5,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-41,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,7,6,6,0,,,6,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-42,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,1,0,1,28,127,5,4,6,1,0,,,7,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-43,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,2,0,2,30,125,3,8,6,2,0,,,7,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-44,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,0,0,30,125,3,9,6,3,0,,,7,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-45,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,0,0,30,125,3,10,6,4,0,,,7,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-46,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,1,1,31,124,3,11,6,5,0,,,7,legbyes,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-47,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,0,1,1,32,123,5,5,6,6,0,,,7,legbyes,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-48,AC Agar,Imad Wasim,NM Coulter-Nile,0,0,0,32,123,5,6,6,1,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-49,AC Agar,Imad Wasim,NM Coulter-Nile,1,0,1,33,122,6,7,6,2,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-50,NM Coulter-Nile,Imad Wasim,AC Agar,1,0,1,34,121,4,12,6,3,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-51,AC Agar,Imad Wasim,NM Coulter-Nile,1,0,1,35,120,7,8,6,4,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-52,NM Coulter-Nile,Imad Wasim,AC Agar,2,0,2,37,118,6,13,6,5,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-53,NM Coulter-Nile,Imad Wasim,AC Agar,0,0,0,37,118,6,14,6,6,0,,,8,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-54,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,38,117,8,9,6,1,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-55,NM Coulter-Nile,Shadab Khan,AC Agar,0,0,0,38,117,6,15,6,2,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-56,NM Coulter-Nile,Shadab Khan,AC Agar,0,0,0,38,117,6,16,6,3,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-57,NM Coulter-Nile,Shadab Khan,AC Agar,1,0,1,39,116,7,17,6,4,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-58,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,39,116,8,10,6,5,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-59,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,39,116,8,11,6,6,0,,,9,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-60,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,4,0,4,43,112,11,18,6,1,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-61,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,4,0,4,47,108,15,19,6,2,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-62,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,1,0,1,48,107,16,20,6,3,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-63,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,4,0,4,52,103,12,12,6,4,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-64,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,52,103,12,13,6,5,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-65,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,1,0,1,53,102,13,14,6,6,0,,,10,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-66,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,15,6,1,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-67,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,16,6,2,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-68,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,17,6,3,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-69,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,54,101,14,18,6,4,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-70,NM Coulter-Nile,Shadab Khan,AC Agar,1,0,1,55,100,17,21,6,5,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-71,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,56,99,15,19,6,6,0,,,11,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-72,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,56,99,15,20,6,1,0,,,12,-,"{'by': 'Australia', 'batter': 'AC Agar', 'decision': 'upheld'}",field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-73,AC Agar,Hasan Ali,NM Coulter-Nile,4,0,4,60,95,19,21,6,2,0,,,12,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-74,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,60,95,19,22,6,3,0,,,12,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-75,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,60,95,19,23,7,4,caught,AC Agar,Sarfraz Ahmed,12,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-76,A Zampa,Hasan Ali,NM Coulter-Nile,1,0,1,61,94,1,1,7,5,0,,,12,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-77,NM Coulter-Nile,Hasan Ali,A Zampa,0,0,0,61,94,17,22,7,6,0,,,12,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-78,A Zampa,Shadab Khan,NM Coulter-Nile,1,0,1,62,93,2,2,7,1,0,,,13,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-79,NM Coulter-Nile,Shadab Khan,A Zampa,0,1,1,63,92,17,23,7,2,0,,,13,legbyes,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-80,A Zampa,Shadab Khan,NM Coulter-Nile,0,0,0,63,92,2,3,7,3,0,,,13,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-81,A Zampa,Shadab Khan,NM Coulter-Nile,1,0,1,64,91,3,4,7,4,0,,,13,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-82,NM Coulter-Nile,Shadab Khan,A Zampa,4,0,4,68,87,21,24,7,5,0,,,13,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-83,NM Coulter-Nile,Shadab Khan,A Zampa,4,0,4,72,83,25,25,7,6,0,,,13,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-84,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,5,7,1,0,,,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-85,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,6,7,2,0,,,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-86,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,7,8,3,caught,A Zampa,Hasan Ali,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-87,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,2,0,2,74,81,2,1,8,4,0,,,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-88,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,4,0,4,78,77,6,2,8,5,0,,,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-89,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,78,77,6,3,9,6,bowled,AJ Tye,,14,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-90,NM Coulter-Nile,Hasan Ali,B Stanlake,4,0,4,82,73,29,26,9,1,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-91,NM Coulter-Nile,Hasan Ali,B Stanlake,1,0,1,83,72,30,27,9,2,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-92,B Stanlake,Hasan Ali,NM Coulter-Nile,0,0,0,83,72,0,1,9,3,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-93,B Stanlake,Hasan Ali,NM Coulter-Nile,0,0,0,83,72,0,2,9,4,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-94,B Stanlake,Hasan Ali,NM Coulter-Nile,1,0,1,84,71,1,3,9,5,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-95,NM Coulter-Nile,Hasan Ali,B Stanlake,4,0,4,88,67,34,28,9,6,0,,,15,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-96,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,4,9,1,0,,,16,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-97,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,5,9,2,0,,,16,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-98,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,6,9,3,0,,,16,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-99,B Stanlake,Shadab Khan,NM Coulter-Nile,1,0,1,89,66,2,7,9,4,0,,,16,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
-100,NM Coulter-Nile,Shadab Khan,B Stanlake,0,0,0,89,66,34,29,10,5,bowled,NM Coulter-Nile,,16,-,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,1,0,-,1.0,0,,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+1,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,2,0,-,2.0,0,,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+2,AJ Finch,Imad Wasim,DJM Short,0,0,0,0,155,0,3,1,-,3.0,bowled,AJ Finch,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+3,CA Lynn,Imad Wasim,DJM Short,1,0,1,1,154,1,1,1,-,4.0,0,,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+4,DJM Short,Imad Wasim,CA Lynn,4,0,4,5,150,4,1,1,-,5.0,0,,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+5,DJM Short,Imad Wasim,CA Lynn,0,0,0,5,150,4,2,2,-,6.0,bowled,DJM Short,,0,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+6,CA Lynn,Faheem Ashraf,GJ Maxwell,0,0,0,5,150,1,2,2,-,1.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+7,CA Lynn,Faheem Ashraf,GJ Maxwell,0,0,0,5,150,1,3,2,-,2.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+8,CA Lynn,Faheem Ashraf,GJ Maxwell,1,0,1,6,149,2,4,2,-,3.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+9,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,6,149,0,1,2,-,4.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+10,GJ Maxwell,Faheem Ashraf,CA Lynn,1,0,1,7,148,1,2,2,-,5.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+11,CA Lynn,Faheem Ashraf,GJ Maxwell,4,0,4,11,144,6,5,2,-,6.0,0,,,1,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+12,GJ Maxwell,Imad Wasim,CA Lynn,0,0,0,11,144,1,3,2,-,1.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+13,GJ Maxwell,Imad Wasim,CA Lynn,0,0,0,11,144,1,4,2,-,2.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+14,GJ Maxwell,Imad Wasim,CA Lynn,1,0,1,12,143,2,5,2,-,3.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+15,CA Lynn,Imad Wasim,GJ Maxwell,0,0,0,12,143,6,6,2,-,4.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+16,CA Lynn,Imad Wasim,GJ Maxwell,2,0,2,14,141,8,7,2,-,5.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+17,CA Lynn,Imad Wasim,GJ Maxwell,1,0,1,15,140,9,8,2,-,6.0,0,,,2,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+18,CA Lynn,Faheem Ashraf,GJ Maxwell,0,1,1,16,139,9,9,2,byes,1.0,0,,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+19,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,16,139,2,6,2,-,2.0,0,,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+20,GJ Maxwell,Faheem Ashraf,CA Lynn,0,0,0,16,139,2,7,3,-,3.0,bowled,GJ Maxwell,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+21,BR McDermott,Faheem Ashraf,CA Lynn,0,0,0,16,139,0,1,3,-,4.0,0,,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+22,BR McDermott,Faheem Ashraf,CA Lynn,0,0,0,16,139,0,2,4,-,5.0,run out,BR McDermott,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+23,CA Lynn,Faheem Ashraf,AT Carey,0,0,0,16,139,9,10,4,-,6.0,0,,,3,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+24,AT Carey,Imad Wasim,CA Lynn,0,0,0,16,139,0,1,4,-,1.0,0,,,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+25,AT Carey,Imad Wasim,CA Lynn,1,0,1,17,138,1,2,4,-,2.0,0,,,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+26,CA Lynn,Imad Wasim,AT Carey,0,0,0,17,138,9,11,4,-,3.0,0,,,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+27,CA Lynn,Imad Wasim,AT Carey,4,0,4,21,134,13,12,4,-,4.0,0,,,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+28,CA Lynn,Imad Wasim,AT Carey,1,0,1,22,133,14,13,4,-,5.0,0,,,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+29,AT Carey,Imad Wasim,CA Lynn,0,0,0,22,133,1,3,5,-,6.0,caught,AT Carey,Sarfraz Ahmed,4,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+30,CA Lynn,Faheem Ashraf,AC Agar,0,0,0,22,133,14,14,5,-,1.0,0,,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+31,CA Lynn,Faheem Ashraf,AC Agar,0,0,0,22,133,14,15,6,-,2.0,bowled,CA Lynn,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+32,NM Coulter-Nile,Faheem Ashraf,AC Agar,0,0,0,22,133,0,1,6,-,3.0,0,,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+33,NM Coulter-Nile,Faheem Ashraf,AC Agar,0,0,0,22,133,0,2,6,-,4.0,0,,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+34,NM Coulter-Nile,Faheem Ashraf,AC Agar,1,0,1,23,132,1,3,6,-,5.0,0,,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+35,AC Agar,Faheem Ashraf,NM Coulter-Nile,3,0,3,26,129,3,1,6,-,6.0,0,,,5,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+36,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,26,129,3,2,6,-,1.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+37,AC Agar,Hasan Ali,NM Coulter-Nile,1,0,1,27,128,4,3,6,-,2.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+38,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,4,6,-,3.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+39,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,5,6,-,4.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+40,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,6,6,-,5.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+41,NM Coulter-Nile,Hasan Ali,AC Agar,0,0,0,27,128,1,7,6,-,6.0,0,,,6,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+42,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,1,0,1,28,127,5,4,6,-,1.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+43,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,2,0,2,30,125,3,8,6,-,2.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+44,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,0,0,30,125,3,9,6,-,3.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+45,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,0,0,30,125,3,10,6,-,4.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+46,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,0,1,1,31,124,3,11,6,legbyes,5.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+47,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,0,1,1,32,123,5,5,6,legbyes,6.0,0,,,7,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+48,AC Agar,Imad Wasim,NM Coulter-Nile,0,0,0,32,123,5,6,6,-,1.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+49,AC Agar,Imad Wasim,NM Coulter-Nile,1,0,1,33,122,6,7,6,-,2.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+50,NM Coulter-Nile,Imad Wasim,AC Agar,1,0,1,34,121,4,12,6,-,3.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+51,AC Agar,Imad Wasim,NM Coulter-Nile,1,0,1,35,120,7,8,6,-,4.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+52,NM Coulter-Nile,Imad Wasim,AC Agar,2,0,2,37,118,6,13,6,-,5.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+53,NM Coulter-Nile,Imad Wasim,AC Agar,0,0,0,37,118,6,14,6,-,6.0,0,,,8,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+54,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,38,117,8,9,6,-,1.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+55,NM Coulter-Nile,Shadab Khan,AC Agar,0,0,0,38,117,6,15,6,-,2.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+56,NM Coulter-Nile,Shadab Khan,AC Agar,0,0,0,38,117,6,16,6,-,3.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+57,NM Coulter-Nile,Shadab Khan,AC Agar,1,0,1,39,116,7,17,6,-,4.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+58,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,39,116,8,10,6,-,5.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+59,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,39,116,8,11,6,-,6.0,0,,,9,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+60,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,4,0,4,43,112,11,18,6,-,1.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+61,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,4,0,4,47,108,15,19,6,-,2.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+62,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,1,0,1,48,107,16,20,6,-,3.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+63,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,4,0,4,52,103,12,12,6,-,4.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+64,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,52,103,12,13,6,-,5.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+65,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,1,0,1,53,102,13,14,6,-,6.0,0,,,10,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+66,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,15,6,-,1.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+67,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,16,6,-,2.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+68,AC Agar,Shadab Khan,NM Coulter-Nile,0,0,0,53,102,13,17,6,-,3.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+69,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,54,101,14,18,6,-,4.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+70,NM Coulter-Nile,Shadab Khan,AC Agar,1,0,1,55,100,17,21,6,-,5.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+71,AC Agar,Shadab Khan,NM Coulter-Nile,1,0,1,56,99,15,19,6,-,6.0,0,,,11,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+72,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,56,99,15,20,6,-,1.0,0,,,12,"{'by': 'Australia', 'batter': 'AC Agar', 'decision': 'upheld'}",field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+73,AC Agar,Hasan Ali,NM Coulter-Nile,4,0,4,60,95,19,21,6,-,2.0,0,,,12,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+74,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,60,95,19,22,6,-,3.0,0,,,12,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+75,AC Agar,Hasan Ali,NM Coulter-Nile,0,0,0,60,95,19,23,7,-,4.0,caught,AC Agar,Sarfraz Ahmed,12,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+76,A Zampa,Hasan Ali,NM Coulter-Nile,1,0,1,61,94,1,1,7,-,5.0,0,,,12,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+77,NM Coulter-Nile,Hasan Ali,A Zampa,0,0,0,61,94,17,22,7,-,6.0,0,,,12,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+78,A Zampa,Shadab Khan,NM Coulter-Nile,1,0,1,62,93,2,2,7,-,1.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+79,NM Coulter-Nile,Shadab Khan,A Zampa,0,1,1,63,92,17,23,7,legbyes,2.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+80,A Zampa,Shadab Khan,NM Coulter-Nile,0,0,0,63,92,2,3,7,-,3.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+81,A Zampa,Shadab Khan,NM Coulter-Nile,1,0,1,64,91,3,4,7,-,4.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+82,NM Coulter-Nile,Shadab Khan,A Zampa,4,0,4,68,87,21,24,7,-,5.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+83,NM Coulter-Nile,Shadab Khan,A Zampa,4,0,4,72,83,25,25,7,-,6.0,0,,,13,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+84,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,5,7,-,1.0,0,,,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+85,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,6,7,-,2.0,0,,,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+86,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,72,83,3,7,8,-,3.0,caught,A Zampa,Hasan Ali,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+87,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,2,0,2,74,81,2,1,8,-,4.0,0,,,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+88,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,4,0,4,78,77,6,2,8,-,5.0,0,,,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+89,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,0,0,0,78,77,6,3,9,-,6.0,bowled,AJ Tye,,14,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+90,NM Coulter-Nile,Hasan Ali,B Stanlake,4,0,4,82,73,29,26,9,-,1.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+91,NM Coulter-Nile,Hasan Ali,B Stanlake,1,0,1,83,72,30,27,9,-,2.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+92,B Stanlake,Hasan Ali,NM Coulter-Nile,0,0,0,83,72,0,1,9,-,3.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+93,B Stanlake,Hasan Ali,NM Coulter-Nile,0,0,0,83,72,0,2,9,-,4.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+94,B Stanlake,Hasan Ali,NM Coulter-Nile,1,0,1,84,71,1,3,9,-,5.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+95,NM Coulter-Nile,Hasan Ali,B Stanlake,4,0,4,88,67,34,28,9,-,6.0,0,,,15,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+96,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,4,9,-,1.0,0,,,16,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+97,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,5,9,-,2.0,0,,,16,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+98,B Stanlake,Shadab Khan,NM Coulter-Nile,0,0,0,88,67,1,6,9,-,3.0,0,,,16,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+99,B Stanlake,Shadab Khan,NM Coulter-Nile,1,0,1,89,66,2,7,9,-,4.0,0,,,16,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89
+100,NM Coulter-Nile,Shadab Khan,B Stanlake,0,0,0,89,66,34,29,10,-,5.0,bowled,NM Coulter-Nile,,16,,field,Australia,2,Sheikh Zayed Stadium,2018,10,Pakistan_Australia_2018-10-24,Pakistan,Australia,Pakistan,False,89

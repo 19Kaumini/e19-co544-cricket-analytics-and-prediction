@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,delivery,wicket_type,player_out,fielder,over,extra_type,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,1,0,1,0,,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-1,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,2,0,2,0,,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-2,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,3,0,3,0,,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-3,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,4,0,4,0,,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-4,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,5,1,5,lbw,P Nissanka,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-5,DM de Silva,TG Southee,BKG Mendis,0,0,0,0,167,0,1,1,6,0,,,0,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-6,BKG Mendis,TA Boult,DM de Silva,4,0,4,4,163,4,1,1,1,0,,,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-7,BKG Mendis,TA Boult,DM de Silva,0,0,0,4,163,4,2,1,2,0,,,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-8,BKG Mendis,TA Boult,DM de Silva,0,0,0,4,163,4,3,2,3,caught,BKG Mendis,DP Conway,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-9,KIC Asalanka,TA Boult,DM de Silva,1,0,1,5,162,1,1,2,4,0,,,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-10,DM de Silva,TA Boult,KIC Asalanka,0,0,0,5,162,0,2,2,5,0,,,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-11,DM de Silva,TA Boult,KIC Asalanka,0,0,0,5,162,0,3,3,6,bowled,DM de Silva,,1,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-12,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,2,3,1,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-13,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,3,3,2,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-14,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,4,3,3,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-15,KIC Asalanka,TG Southee,PBB Rajapaksa,1,0,1,6,161,2,5,3,4,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-16,PBB Rajapaksa,TG Southee,KIC Asalanka,0,0,0,6,161,0,1,3,5,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-17,PBB Rajapaksa,TG Southee,KIC Asalanka,0,0,0,6,161,0,2,3,6,0,,,2,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-18,KIC Asalanka,TA Boult,PBB Rajapaksa,2,0,2,8,159,4,6,3,1,0,,,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-19,KIC Asalanka,TA Boult,PBB Rajapaksa,0,0,0,8,159,4,7,3,2,0,,,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-20,KIC Asalanka,TA Boult,PBB Rajapaksa,0,0,0,8,159,4,8,4,3,caught,KIC Asalanka,FH Allen,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-21,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,1,4,4,0,,,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-22,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,2,4,5,0,,,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-23,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,3,4,6,0,,,3,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-24,PBB Rajapaksa,LH Ferguson,C Karunaratne,0,0,0,8,159,0,3,4,1,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-25,PBB Rajapaksa,LH Ferguson,C Karunaratne,0,0,0,8,159,0,4,4,2,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-26,PBB Rajapaksa,LH Ferguson,C Karunaratne,6,0,6,14,153,6,5,4,3,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-27,PBB Rajapaksa,LH Ferguson,C Karunaratne,4,0,4,18,149,10,6,4,4,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-28,PBB Rajapaksa,LH Ferguson,C Karunaratne,1,0,1,19,148,11,7,4,5,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-29,C Karunaratne,LH Ferguson,PBB Rajapaksa,0,1,1,20,147,0,4,4,6,0,,,4,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-30,C Karunaratne,LH Ferguson,PBB Rajapaksa,0,0,0,20,147,0,5,4,7,0,,,4,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-31,PBB Rajapaksa,TA Boult,C Karunaratne,0,0,0,20,147,11,8,4,1,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-32,PBB Rajapaksa,TA Boult,C Karunaratne,1,0,1,21,146,12,9,4,2,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-33,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,21,146,0,6,4,3,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-34,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,21,146,0,7,4,4,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-35,C Karunaratne,TA Boult,PBB Rajapaksa,3,0,3,24,143,3,8,4,5,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-36,PBB Rajapaksa,TA Boult,C Karunaratne,0,0,0,24,143,12,10,4,6,0,,,5,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-37,C Karunaratne,MJ Santner,PBB Rajapaksa,0,0,0,24,143,3,9,5,1,caught,C Karunaratne,TA Boult,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-38,MD Shanaka,MJ Santner,PBB Rajapaksa,4,0,4,28,139,4,1,5,2,0,,,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-39,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,28,139,4,2,5,3,0,,,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-40,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,28,139,4,3,5,4,0,,,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-41,MD Shanaka,MJ Santner,PBB Rajapaksa,1,0,1,29,138,5,4,5,5,0,,,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-42,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,30,137,13,11,5,6,0,,,6,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-43,PBB Rajapaksa,IS Sodhi,MD Shanaka,6,0,6,36,131,19,12,5,1,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-44,PBB Rajapaksa,IS Sodhi,MD Shanaka,1,0,1,37,130,20,13,5,2,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-45,MD Shanaka,IS Sodhi,PBB Rajapaksa,0,0,0,37,130,5,5,5,3,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-46,MD Shanaka,IS Sodhi,PBB Rajapaksa,1,0,1,38,129,6,6,5,4,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-47,PBB Rajapaksa,IS Sodhi,MD Shanaka,4,0,4,42,125,24,14,5,5,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-48,PBB Rajapaksa,IS Sodhi,MD Shanaka,1,0,1,43,124,25,15,5,6,0,,,7,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-49,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,44,123,26,16,5,1,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-50,MD Shanaka,MJ Santner,PBB Rajapaksa,4,0,4,48,119,10,7,5,2,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-51,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,48,119,10,8,5,3,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-52,MD Shanaka,MJ Santner,PBB Rajapaksa,1,0,1,49,118,11,9,5,4,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-53,PBB Rajapaksa,MJ Santner,MD Shanaka,2,0,2,51,116,28,17,5,5,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-54,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,52,115,29,18,5,6,0,,,8,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-55,PBB Rajapaksa,LH Ferguson,MD Shanaka,1,0,1,53,114,30,19,5,1,0,,,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-56,MD Shanaka,LH Ferguson,PBB Rajapaksa,0,0,0,53,114,11,10,5,2,0,,,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-57,MD Shanaka,LH Ferguson,PBB Rajapaksa,1,0,1,54,113,12,11,5,3,0,,,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-58,PBB Rajapaksa,LH Ferguson,MD Shanaka,4,0,4,58,109,34,20,5,4,0,,,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-59,PBB Rajapaksa,LH Ferguson,MD Shanaka,0,0,0,58,109,34,21,5,5,0,,,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-60,PBB Rajapaksa,LH Ferguson,MD Shanaka,0,0,0,58,109,34,22,6,6,caught,PBB Rajapaksa,KS Williamson,9,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-61,MD Shanaka,MJ Santner,PWH de Silva,1,0,1,59,108,13,12,6,1,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-62,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,59,108,0,1,6,2,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-63,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,59,108,0,2,6,3,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-64,PWH de Silva,MJ Santner,MD Shanaka,4,0,4,63,104,4,3,6,4,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-65,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,63,104,4,4,6,5,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-66,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,63,104,4,5,6,6,0,,,10,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-67,MD Shanaka,IS Sodhi,PWH de Silva,0,0,0,63,104,13,13,6,1,0,,,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-68,MD Shanaka,IS Sodhi,PWH de Silva,0,0,0,63,104,13,14,6,2,0,,,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-69,MD Shanaka,IS Sodhi,PWH de Silva,1,0,1,64,103,14,15,6,3,0,,,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-70,PWH de Silva,IS Sodhi,MD Shanaka,0,0,0,64,103,4,6,7,4,caught,PWH de Silva,KS Williamson,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-71,M Theekshana,IS Sodhi,MD Shanaka,0,0,0,64,103,0,1,7,5,0,,,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-72,M Theekshana,IS Sodhi,MD Shanaka,0,0,0,64,103,0,2,7,6,0,,,11,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-73,MD Shanaka,MJ Santner,M Theekshana,0,0,0,64,103,14,16,7,1,0,,,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-74,MD Shanaka,MJ Santner,M Theekshana,1,0,1,65,102,15,17,7,2,0,,,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-75,M Theekshana,MJ Santner,MD Shanaka,0,0,0,65,102,0,3,8,3,caught,M Theekshana,JDS Neesham,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-76,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,1,8,4,0,,,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-77,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,2,8,5,0,,,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-78,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,3,8,6,0,,,12,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-79,MD Shanaka,LH Ferguson,CAK Rajitha,4,0,4,69,98,19,18,8,1,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-80,MD Shanaka,LH Ferguson,CAK Rajitha,1,0,1,70,97,20,19,8,2,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-81,CAK Rajitha,LH Ferguson,MD Shanaka,2,0,2,72,95,2,4,8,3,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-82,CAK Rajitha,LH Ferguson,MD Shanaka,0,1,1,73,94,2,5,8,4,0,,,13,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-83,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,6,8,5,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-84,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,7,8,6,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-85,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,8,8,7,0,,,13,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-86,MD Shanaka,TG Southee,CAK Rajitha,1,0,1,74,93,21,20,8,1,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-87,CAK Rajitha,TG Southee,MD Shanaka,0,0,0,74,93,2,9,8,2,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-88,CAK Rajitha,TG Southee,MD Shanaka,1,0,1,75,92,3,10,8,3,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-89,MD Shanaka,TG Southee,CAK Rajitha,6,0,6,81,86,27,21,8,4,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-90,MD Shanaka,TG Southee,CAK Rajitha,0,0,0,81,86,27,22,8,5,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-91,MD Shanaka,TG Southee,CAK Rajitha,1,0,1,82,85,28,23,8,6,0,,,14,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-92,MD Shanaka,LH Ferguson,CAK Rajitha,0,0,0,82,85,28,24,8,1,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-93,MD Shanaka,LH Ferguson,CAK Rajitha,2,0,2,84,83,30,25,8,2,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-94,MD Shanaka,LH Ferguson,CAK Rajitha,0,0,0,84,83,30,26,8,3,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-95,MD Shanaka,LH Ferguson,CAK Rajitha,4,0,4,88,79,34,27,8,4,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-96,MD Shanaka,LH Ferguson,CAK Rajitha,1,0,1,89,78,35,28,8,5,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-97,CAK Rajitha,LH Ferguson,MD Shanaka,0,1,1,90,77,3,11,8,6,0,,,15,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-98,CAK Rajitha,LH Ferguson,MD Shanaka,1,0,1,91,76,4,12,8,7,0,,,15,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-99,CAK Rajitha,TA Boult,MD Shanaka,0,1,1,92,75,4,13,8,1,0,,,16,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-100,CAK Rajitha,TA Boult,MD Shanaka,0,0,0,92,75,4,14,8,2,0,,,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-101,CAK Rajitha,TA Boult,MD Shanaka,1,0,1,93,74,5,15,8,3,0,,,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-102,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,29,8,4,0,,,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-103,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,30,8,5,0,,,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-104,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,31,8,6,0,,,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-105,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,32,9,7,caught,MD Shanaka,DJ Mitchell,16,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-106,CAK Rajitha,IS Sodhi,CBRLS Kumara,0,1,1,94,73,5,16,9,1,0,,,17,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-107,CAK Rajitha,IS Sodhi,CBRLS Kumara,0,0,0,94,73,5,17,9,2,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-108,CAK Rajitha,IS Sodhi,CBRLS Kumara,1,0,1,95,72,6,18,9,3,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-109,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,95,72,0,1,9,4,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-110,CBRLS Kumara,IS Sodhi,CAK Rajitha,4,0,4,99,68,4,2,9,5,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-111,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,99,68,4,3,9,6,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-112,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,99,68,4,4,9,7,0,,,17,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-113,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,19,9,1,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-114,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,20,9,2,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-115,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,21,9,3,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-116,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,22,9,4,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-117,CAK Rajitha,TG Southee,CBRLS Kumara,0,1,1,100,67,6,23,9,5,0,,,18,wides,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-118,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,100,67,6,24,9,6,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-119,CAK Rajitha,TG Southee,CBRLS Kumara,1,0,1,101,66,7,25,9,7,0,,,18,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-120,CAK Rajitha,IS Sodhi,CBRLS Kumara,1,0,1,102,65,8,26,9,1,0,,,19,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
-121,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,102,65,4,5,10,2,stumped,CBRLS Kumara,DP Conway,19,-,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
+0,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,1,0,-,1.0,0,,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+1,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,2,0,-,2.0,0,,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+2,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,3,0,-,3.0,0,,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+3,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,4,0,-,4.0,0,,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+4,P Nissanka,TG Southee,BKG Mendis,0,0,0,0,167,0,5,1,-,5.0,lbw,P Nissanka,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+5,DM de Silva,TG Southee,BKG Mendis,0,0,0,0,167,0,1,1,-,6.0,0,,,0,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+6,BKG Mendis,TA Boult,DM de Silva,4,0,4,4,163,4,1,1,-,1.0,0,,,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+7,BKG Mendis,TA Boult,DM de Silva,0,0,0,4,163,4,2,1,-,2.0,0,,,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+8,BKG Mendis,TA Boult,DM de Silva,0,0,0,4,163,4,3,2,-,3.0,caught,BKG Mendis,DP Conway,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+9,KIC Asalanka,TA Boult,DM de Silva,1,0,1,5,162,1,1,2,-,4.0,0,,,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+10,DM de Silva,TA Boult,KIC Asalanka,0,0,0,5,162,0,2,2,-,5.0,0,,,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+11,DM de Silva,TA Boult,KIC Asalanka,0,0,0,5,162,0,3,3,-,6.0,bowled,DM de Silva,,1,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+12,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,2,3,-,1.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+13,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,3,3,-,2.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+14,KIC Asalanka,TG Southee,PBB Rajapaksa,0,0,0,5,162,1,4,3,-,3.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+15,KIC Asalanka,TG Southee,PBB Rajapaksa,1,0,1,6,161,2,5,3,-,4.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+16,PBB Rajapaksa,TG Southee,KIC Asalanka,0,0,0,6,161,0,1,3,-,5.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+17,PBB Rajapaksa,TG Southee,KIC Asalanka,0,0,0,6,161,0,2,3,-,6.0,0,,,2,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+18,KIC Asalanka,TA Boult,PBB Rajapaksa,2,0,2,8,159,4,6,3,-,1.0,0,,,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+19,KIC Asalanka,TA Boult,PBB Rajapaksa,0,0,0,8,159,4,7,3,-,2.0,0,,,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+20,KIC Asalanka,TA Boult,PBB Rajapaksa,0,0,0,8,159,4,8,4,-,3.0,caught,KIC Asalanka,FH Allen,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+21,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,1,4,-,4.0,0,,,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+22,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,2,4,-,5.0,0,,,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+23,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,8,159,0,3,4,-,6.0,0,,,3,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+24,PBB Rajapaksa,LH Ferguson,C Karunaratne,0,0,0,8,159,0,3,4,-,1.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+25,PBB Rajapaksa,LH Ferguson,C Karunaratne,0,0,0,8,159,0,4,4,-,2.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+26,PBB Rajapaksa,LH Ferguson,C Karunaratne,6,0,6,14,153,6,5,4,-,3.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+27,PBB Rajapaksa,LH Ferguson,C Karunaratne,4,0,4,18,149,10,6,4,-,4.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+28,PBB Rajapaksa,LH Ferguson,C Karunaratne,1,0,1,19,148,11,7,4,-,5.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+29,C Karunaratne,LH Ferguson,PBB Rajapaksa,0,1,1,20,147,0,4,4,wides,5.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+30,C Karunaratne,LH Ferguson,PBB Rajapaksa,0,0,0,20,147,0,5,4,-,6.0,0,,,4,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+31,PBB Rajapaksa,TA Boult,C Karunaratne,0,0,0,20,147,11,8,4,-,1.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+32,PBB Rajapaksa,TA Boult,C Karunaratne,1,0,1,21,146,12,9,4,-,2.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+33,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,21,146,0,6,4,-,3.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+34,C Karunaratne,TA Boult,PBB Rajapaksa,0,0,0,21,146,0,7,4,-,4.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+35,C Karunaratne,TA Boult,PBB Rajapaksa,3,0,3,24,143,3,8,4,-,5.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+36,PBB Rajapaksa,TA Boult,C Karunaratne,0,0,0,24,143,12,10,4,-,6.0,0,,,5,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+37,C Karunaratne,MJ Santner,PBB Rajapaksa,0,0,0,24,143,3,9,5,-,1.0,caught,C Karunaratne,TA Boult,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+38,MD Shanaka,MJ Santner,PBB Rajapaksa,4,0,4,28,139,4,1,5,-,2.0,0,,,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+39,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,28,139,4,2,5,-,3.0,0,,,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+40,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,28,139,4,3,5,-,4.0,0,,,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+41,MD Shanaka,MJ Santner,PBB Rajapaksa,1,0,1,29,138,5,4,5,-,5.0,0,,,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+42,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,30,137,13,11,5,-,6.0,0,,,6,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+43,PBB Rajapaksa,IS Sodhi,MD Shanaka,6,0,6,36,131,19,12,5,-,1.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+44,PBB Rajapaksa,IS Sodhi,MD Shanaka,1,0,1,37,130,20,13,5,-,2.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+45,MD Shanaka,IS Sodhi,PBB Rajapaksa,0,0,0,37,130,5,5,5,-,3.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+46,MD Shanaka,IS Sodhi,PBB Rajapaksa,1,0,1,38,129,6,6,5,-,4.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+47,PBB Rajapaksa,IS Sodhi,MD Shanaka,4,0,4,42,125,24,14,5,-,5.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+48,PBB Rajapaksa,IS Sodhi,MD Shanaka,1,0,1,43,124,25,15,5,-,6.0,0,,,7,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+49,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,44,123,26,16,5,-,1.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+50,MD Shanaka,MJ Santner,PBB Rajapaksa,4,0,4,48,119,10,7,5,-,2.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+51,MD Shanaka,MJ Santner,PBB Rajapaksa,0,0,0,48,119,10,8,5,-,3.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+52,MD Shanaka,MJ Santner,PBB Rajapaksa,1,0,1,49,118,11,9,5,-,4.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+53,PBB Rajapaksa,MJ Santner,MD Shanaka,2,0,2,51,116,28,17,5,-,5.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+54,PBB Rajapaksa,MJ Santner,MD Shanaka,1,0,1,52,115,29,18,5,-,6.0,0,,,8,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+55,PBB Rajapaksa,LH Ferguson,MD Shanaka,1,0,1,53,114,30,19,5,-,1.0,0,,,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+56,MD Shanaka,LH Ferguson,PBB Rajapaksa,0,0,0,53,114,11,10,5,-,2.0,0,,,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+57,MD Shanaka,LH Ferguson,PBB Rajapaksa,1,0,1,54,113,12,11,5,-,3.0,0,,,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+58,PBB Rajapaksa,LH Ferguson,MD Shanaka,4,0,4,58,109,34,20,5,-,4.0,0,,,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+59,PBB Rajapaksa,LH Ferguson,MD Shanaka,0,0,0,58,109,34,21,5,-,5.0,0,,,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+60,PBB Rajapaksa,LH Ferguson,MD Shanaka,0,0,0,58,109,34,22,6,-,6.0,caught,PBB Rajapaksa,KS Williamson,9,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+61,MD Shanaka,MJ Santner,PWH de Silva,1,0,1,59,108,13,12,6,-,1.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+62,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,59,108,0,1,6,-,2.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+63,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,59,108,0,2,6,-,3.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+64,PWH de Silva,MJ Santner,MD Shanaka,4,0,4,63,104,4,3,6,-,4.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+65,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,63,104,4,4,6,-,5.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+66,PWH de Silva,MJ Santner,MD Shanaka,0,0,0,63,104,4,5,6,-,6.0,0,,,10,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+67,MD Shanaka,IS Sodhi,PWH de Silva,0,0,0,63,104,13,13,6,-,1.0,0,,,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+68,MD Shanaka,IS Sodhi,PWH de Silva,0,0,0,63,104,13,14,6,-,2.0,0,,,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+69,MD Shanaka,IS Sodhi,PWH de Silva,1,0,1,64,103,14,15,6,-,3.0,0,,,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+70,PWH de Silva,IS Sodhi,MD Shanaka,0,0,0,64,103,4,6,7,-,4.0,caught,PWH de Silva,KS Williamson,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+71,M Theekshana,IS Sodhi,MD Shanaka,0,0,0,64,103,0,1,7,-,5.0,0,,,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+72,M Theekshana,IS Sodhi,MD Shanaka,0,0,0,64,103,0,2,7,-,6.0,0,,,11,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+73,MD Shanaka,MJ Santner,M Theekshana,0,0,0,64,103,14,16,7,-,1.0,0,,,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+74,MD Shanaka,MJ Santner,M Theekshana,1,0,1,65,102,15,17,7,-,2.0,0,,,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+75,M Theekshana,MJ Santner,MD Shanaka,0,0,0,65,102,0,3,8,-,3.0,caught,M Theekshana,JDS Neesham,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+76,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,1,8,-,4.0,0,,,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+77,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,2,8,-,5.0,0,,,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+78,CAK Rajitha,MJ Santner,MD Shanaka,0,0,0,65,102,0,3,8,-,6.0,0,,,12,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+79,MD Shanaka,LH Ferguson,CAK Rajitha,4,0,4,69,98,19,18,8,-,1.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+80,MD Shanaka,LH Ferguson,CAK Rajitha,1,0,1,70,97,20,19,8,-,2.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+81,CAK Rajitha,LH Ferguson,MD Shanaka,2,0,2,72,95,2,4,8,-,3.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+82,CAK Rajitha,LH Ferguson,MD Shanaka,0,1,1,73,94,2,5,8,wides,3.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+83,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,6,8,-,4.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+84,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,7,8,-,5.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+85,CAK Rajitha,LH Ferguson,MD Shanaka,0,0,0,73,94,2,8,8,-,6.0,0,,,13,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+86,MD Shanaka,TG Southee,CAK Rajitha,1,0,1,74,93,21,20,8,-,1.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+87,CAK Rajitha,TG Southee,MD Shanaka,0,0,0,74,93,2,9,8,-,2.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+88,CAK Rajitha,TG Southee,MD Shanaka,1,0,1,75,92,3,10,8,-,3.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+89,MD Shanaka,TG Southee,CAK Rajitha,6,0,6,81,86,27,21,8,-,4.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+90,MD Shanaka,TG Southee,CAK Rajitha,0,0,0,81,86,27,22,8,-,5.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+91,MD Shanaka,TG Southee,CAK Rajitha,1,0,1,82,85,28,23,8,-,6.0,0,,,14,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+92,MD Shanaka,LH Ferguson,CAK Rajitha,0,0,0,82,85,28,24,8,-,1.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+93,MD Shanaka,LH Ferguson,CAK Rajitha,2,0,2,84,83,30,25,8,-,2.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+94,MD Shanaka,LH Ferguson,CAK Rajitha,0,0,0,84,83,30,26,8,-,3.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+95,MD Shanaka,LH Ferguson,CAK Rajitha,4,0,4,88,79,34,27,8,-,4.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+96,MD Shanaka,LH Ferguson,CAK Rajitha,1,0,1,89,78,35,28,8,-,5.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+97,CAK Rajitha,LH Ferguson,MD Shanaka,0,1,1,90,77,3,11,8,wides,5.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+98,CAK Rajitha,LH Ferguson,MD Shanaka,1,0,1,91,76,4,12,8,-,6.0,0,,,15,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+99,CAK Rajitha,TA Boult,MD Shanaka,0,1,1,92,75,4,13,8,wides,0.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+100,CAK Rajitha,TA Boult,MD Shanaka,0,0,0,92,75,4,14,8,-,1.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+101,CAK Rajitha,TA Boult,MD Shanaka,1,0,1,93,74,5,15,8,-,2.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+102,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,29,8,-,3.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+103,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,30,8,-,4.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+104,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,31,8,-,5.0,0,,,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+105,MD Shanaka,TA Boult,CAK Rajitha,0,0,0,93,74,35,32,9,-,6.0,caught,MD Shanaka,DJ Mitchell,16,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+106,CAK Rajitha,IS Sodhi,CBRLS Kumara,0,1,1,94,73,5,16,9,wides,0.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+107,CAK Rajitha,IS Sodhi,CBRLS Kumara,0,0,0,94,73,5,17,9,-,1.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+108,CAK Rajitha,IS Sodhi,CBRLS Kumara,1,0,1,95,72,6,18,9,-,2.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+109,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,95,72,0,1,9,-,3.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+110,CBRLS Kumara,IS Sodhi,CAK Rajitha,4,0,4,99,68,4,2,9,-,4.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+111,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,99,68,4,3,9,-,5.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+112,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,99,68,4,4,9,-,6.0,0,,,17,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+113,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,19,9,-,1.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+114,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,20,9,-,2.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+115,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,21,9,-,3.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+116,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,99,68,6,22,9,-,4.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+117,CAK Rajitha,TG Southee,CBRLS Kumara,0,1,1,100,67,6,23,9,wides,4.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+118,CAK Rajitha,TG Southee,CBRLS Kumara,0,0,0,100,67,6,24,9,-,5.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+119,CAK Rajitha,TG Southee,CBRLS Kumara,1,0,1,101,66,7,25,9,-,6.0,0,,,18,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+120,CAK Rajitha,IS Sodhi,CBRLS Kumara,1,0,1,102,65,8,26,9,-,1.0,0,,,19,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
+121,CBRLS Kumara,IS Sodhi,CAK Rajitha,0,0,0,102,65,4,5,10,-,2.0,stumped,CBRLS Kumara,DP Conway,19,bat,New Zealand,2,Sydney Cricket Ground,2022,10,New Zealand_Sri Lanka_2022-10-29,New Zealand,Sri Lanka,New Zealand,False,102
