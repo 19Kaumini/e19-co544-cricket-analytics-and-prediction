@@ -33,10 +33,23 @@ def convert_over_to_df(over_data):
     over_df["balls_faced"] = [{} for _ in range(len(over_df))]
     over_df["wickets_fallen"] = [wickets_fallen for _ in range(len(over_df))]
 
+    if "extras" in over_df.columns:
+        over_df["extra_type"] = over_df["extras"].apply(
+            lambda x: "".join(list(x.keys())) if type(x) == dict else np.nan
+        )
+    else:
+        over_df["extra_type"] = np.nan
+
+    delivery = 0
+    extras_arr = ["wides", "noballs"]
     for idx, row in over_df.iterrows():
 
         batter = row["batter"]
         runs = row["runs_by_bat"]
+
+        if row["extra_type"] not in extras_arr:
+            delivery += 1
+        over_df.at[idx, "delivery"] = delivery
 
         if batter in balls_faced:
             balls_faced[batter] += 1
@@ -50,12 +63,7 @@ def convert_over_to_df(over_data):
             batter_scores[batter] = runs
         over_df.at[idx, "batter_runs"] = batter_scores.copy()[batter]
 
-    over_df["delivery"] = np.arange(1, len(over_df) + 1)
-
-    if "extras" in over_df.columns:
-        over_df["extra_type"] = over_df["extras"].apply(
-            lambda x: "".join(list(x.keys())) if type(x) == dict else np.nan
-        )
+    # over_df["delivery"] = np.arange(1, len(over_df) + 1)
 
     if "wickets" in over_df.columns:
 
