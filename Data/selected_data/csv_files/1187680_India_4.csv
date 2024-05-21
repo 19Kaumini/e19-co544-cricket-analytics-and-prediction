@@ -1,6 +1,6 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,KL Rahul,TG Southee,V Kohli,6,0,6,6,,6,1,0,-,1.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16
-1,KL Rahul,TG Southee,V Kohli,4,0,4,10,,10,2,0,-,2.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16
-2,KL Rahul,TG Southee,V Kohli,0,0,0,10,,10,3,1,-,3.0,caught,KL Rahul,SC Kuggeleijn,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16
-3,V Kohli,TG Southee,SV Samson,2,0,2,12,,2,1,1,-,4.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16
-4,V Kohli,TG Southee,SV Samson,4,0,4,16,,6,2,1,-,5.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,KL Rahul,TG Southee,V Kohli,6,0,6,6,,6,1,0,-,1.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16,,Right hand Bat,Right arm Medium
+1,KL Rahul,TG Southee,V Kohli,4,0,4,10,,10,2,0,-,2.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16,,Right hand Bat,Right arm Medium
+2,KL Rahul,TG Southee,V Kohli,0,0,0,10,,10,3,1,-,3.0,caught,KL Rahul,SC Kuggeleijn,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16,,Right hand Bat,Right arm Medium
+3,V Kohli,TG Southee,SV Samson,2,0,2,12,,2,1,1,-,4.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16,Right hand Bat,,Right arm Medium
+4,V Kohli,TG Southee,SV Samson,4,0,4,16,,6,2,1,-,5.0,0,,,0,field,New Zealand,4,Westpac Stadium,2020,01,New Zealand_India_2020-01-31,tie,India,India,,16,Right hand Bat,,Right arm Medium

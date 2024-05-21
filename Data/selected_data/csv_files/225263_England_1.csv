@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,1,,1,1,0,-,1.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-1,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,1,,0,1,0,-,2.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-2,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,2,,1,2,0,-,3.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-3,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,3,,2,2,0,-,4.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-4,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,3,,1,3,0,-,5.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-5,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,3,,1,4,0,-,6.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-6,ME Trescothick,Mohammad Asif,IR Bell,1,0,1,4,,3,3,0,-,1.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-7,IR Bell,Mohammad Asif,ME Trescothick,0,0,0,4,,1,5,0,-,2.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-8,IR Bell,Mohammad Asif,ME Trescothick,0,0,0,4,,1,6,0,-,3.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-9,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,5,,2,7,0,-,4.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-10,ME Trescothick,Mohammad Asif,IR Bell,4,0,4,9,,7,4,0,-,5.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-11,ME Trescothick,Mohammad Asif,IR Bell,0,0,0,9,,7,5,0,-,6.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-12,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,9,,2,8,0,-,1.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-13,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,10,,3,9,0,-,2.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-14,ME Trescothick,Shoaib Akhtar,IR Bell,0,0,0,10,,7,6,0,-,3.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-15,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,14,,11,7,0,-,4.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-16,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,18,,15,8,0,-,5.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-17,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,22,,19,9,0,-,6.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-18,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,23,,4,10,0,-,1.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-19,ME Trescothick,Mohammad Asif,IR Bell,0,1,1,24,,19,10,0,legbyes,2.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-20,IR Bell,Mohammad Asif,ME Trescothick,4,0,4,28,,8,11,0,-,3.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-21,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,29,,9,12,0,-,4.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-22,ME Trescothick,Mohammad Asif,IR Bell,0,0,0,29,,19,11,0,-,5.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-23,ME Trescothick,Mohammad Asif,IR Bell,4,0,4,33,,23,12,0,-,6.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-24,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,33,,9,13,0,-,1.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-25,IR Bell,Shoaib Akhtar,ME Trescothick,4,0,4,37,,13,14,0,-,2.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-26,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,37,,13,15,0,-,3.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-27,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,38,,14,16,0,-,4.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-28,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,39,,24,13,0,-,5.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-29,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,39,,14,17,1,-,6.0,4,caught,IR Bell,Younis Khan,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-30,ME Trescothick,Mohammad Asif,KP Pietersen,0,1,1,40,,24,14,1,legbyes,1.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-31,KP Pietersen,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,2,-,2.0,5,bowled,KP Pietersen,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-32,AJ Strauss,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,2,-,3.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-33,AJ Strauss,Mohammad Asif,ME Trescothick,0,0,0,40,,0,2,3,-,4.0,5,caught,AJ Strauss,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-34,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,3,-,5.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-35,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,40,,0,2,3,-,6.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-36,ME Trescothick,Naved-ul-Hasan,PD Collingwood,1,0,1,41,,25,15,3,-,1.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-37,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,3,3,-,2.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-38,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,4,3,-,3.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-39,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,5,3,-,4.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-40,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,6,3,-,5.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-41,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,1,1,42,,0,7,3,noballs,5.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-42,PD Collingwood,Naved-ul-Hasan,ME Trescothick,2,0,2,44,,2,8,3,-,6.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-43,ME Trescothick,Mohammad Asif,PD Collingwood,0,0,0,44,,25,16,3,-,1.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-44,ME Trescothick,Mohammad Asif,PD Collingwood,0,0,0,44,,25,17,3,-,2.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-45,ME Trescothick,Mohammad Asif,PD Collingwood,1,0,1,45,,26,18,3,-,3.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-46,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,45,,2,9,3,-,4.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-47,PD Collingwood,Mohammad Asif,ME Trescothick,0,1,1,46,,2,10,3,legbyes,5.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-48,ME Trescothick,Mohammad Asif,PD Collingwood,4,0,4,50,,30,19,3,-,6.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-49,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,50,,2,11,4,-,1.0,8,caught,PD Collingwood,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-50,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,51,,1,1,4,-,2.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-51,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,1,0,1,52,,31,20,4,-,3.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-52,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,53,,2,2,4,-,4.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-53,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,4,0,4,57,,35,21,4,-,5.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-54,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,0,0,0,57,,35,22,4,-,6.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-55,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,58,,3,3,4,-,1.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-56,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,0,0,58,,35,23,4,-,2.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-57,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,59,,36,24,4,-,3.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-58,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,59,,3,4,4,-,4.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-59,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,59,,3,5,4,-,5.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-60,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,60,,4,6,4,-,6.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-61,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,0,0,0,60,,4,7,4,-,1.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-62,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,61,,5,8,4,-,2.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-63,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,1,0,1,62,,37,25,4,-,3.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-64,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,2,0,2,64,,7,9,4,-,4.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-65,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,2,0,2,66,,9,10,4,-,5.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-66,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,4,0,4,70,,13,11,4,-,6.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-67,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,71,,38,26,4,-,1.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-68,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,1,1,72,,13,12,4,legbyes,2.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-69,ME Trescothick,Shahid Afridi,JWM Dalrymple,4,0,4,76,,42,27,4,-,3.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-70,ME Trescothick,Shahid Afridi,JWM Dalrymple,4,0,4,80,,46,28,4,-,4.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-71,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,0,0,80,,46,29,4,-,5.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-72,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,1,1,81,,46,30,4,wides,5.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-73,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,82,,47,31,4,-,6.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-74,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,83,,48,32,4,-,1.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-75,JWM Dalrymple,Abdul Razzaq,ME Trescothick,0,0,0,83,,13,13,4,-,2.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-76,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,84,,14,14,4,-,3.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-77,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,85,,49,33,4,-,4.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-78,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,86,,15,15,4,-,5.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-79,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,87,,50,34,4,-,6.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-80,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,88,,51,35,4,-,1.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-81,JWM Dalrymple,Shahid Afridi,ME Trescothick,4,0,4,92,,19,16,4,-,2.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-82,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,1,1,93,,19,17,4,wides,2.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-83,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,93,,19,18,4,-,3.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-84,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,93,,19,19,4,-,4.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-85,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,94,,20,20,4,-,5.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-86,ME Trescothick,Shahid Afridi,JWM Dalrymple,2,0,2,96,,53,36,4,-,6.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-87,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,97,,21,21,4,-,1.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-88,ME Trescothick,Abdul Razzaq,JWM Dalrymple,0,0,0,97,,53,37,5,-,2.0,14,caught,ME Trescothick,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-89,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,98,,1,1,5,-,3.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-90,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,99,,22,22,5,-,4.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-91,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,100,,2,2,5,-,5.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-92,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,101,,23,23,5,-,6.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-93,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,102,,24,24,5,-,1.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-94,MH Yardy,Shahid Afridi,JWM Dalrymple,1,0,1,103,,3,3,5,-,2.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-95,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,104,,25,25,5,-,3.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-96,MH Yardy,Shahid Afridi,JWM Dalrymple,1,0,1,105,,4,4,5,-,4.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-97,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,106,,26,26,5,-,5.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-98,MH Yardy,Shahid Afridi,JWM Dalrymple,0,0,0,106,,4,5,5,-,6.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-99,JWM Dalrymple,Abdul Razzaq,MH Yardy,0,1,1,107,,26,27,5,legbyes,1.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-100,MH Yardy,Abdul Razzaq,JWM Dalrymple,4,0,4,111,,8,6,5,-,2.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-101,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,112,,9,7,5,-,3.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-102,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,113,,27,28,5,-,4.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-103,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,114,,10,8,5,-,5.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-104,JWM Dalrymple,Abdul Razzaq,MH Yardy,0,0,0,114,,27,29,6,-,6.0,16,caught,JWM Dalrymple,Shoaib Akhtar,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-105,CMW Read,Naved-ul-Hasan,MH Yardy,0,0,0,114,,0,1,6,-,1.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-106,CMW Read,Naved-ul-Hasan,MH Yardy,1,0,1,115,,1,2,6,-,2.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-107,MH Yardy,Naved-ul-Hasan,CMW Read,1,0,1,116,,11,9,6,-,3.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-108,CMW Read,Naved-ul-Hasan,MH Yardy,0,0,0,116,,1,3,6,-,4.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-109,CMW Read,Naved-ul-Hasan,MH Yardy,2,0,2,118,,3,4,6,-,5.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-110,CMW Read,Naved-ul-Hasan,MH Yardy,1,0,1,119,,4,5,6,-,6.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-111,CMW Read,Shoaib Akhtar,MH Yardy,0,0,0,119,,4,6,6,-,1.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-112,CMW Read,Shoaib Akhtar,MH Yardy,4,0,4,123,,8,7,6,-,2.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-113,CMW Read,Shoaib Akhtar,MH Yardy,1,0,1,124,,9,8,6,-,3.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-114,MH Yardy,Shoaib Akhtar,CMW Read,0,1,1,125,,11,10,6,legbyes,4.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-115,CMW Read,Shoaib Akhtar,MH Yardy,4,0,4,129,,13,9,6,-,5.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-116,CMW Read,Shoaib Akhtar,MH Yardy,0,1,1,130,,13,10,6,byes,6.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-117,CMW Read,Abdul Razzaq,MH Yardy,0,0,0,130,,13,11,7,-,1.0,19,caught,CMW Read,Naved-ul-Hasan,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-118,MH Yardy,Abdul Razzaq,SI Mahmood,1,0,1,131,,12,11,7,-,2.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-119,SI Mahmood,Abdul Razzaq,MH Yardy,0,1,1,132,,0,1,7,legbyes,3.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-120,MH Yardy,Abdul Razzaq,SI Mahmood,6,0,6,138,,18,12,7,-,4.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-121,MH Yardy,Abdul Razzaq,SI Mahmood,4,0,4,142,,22,13,7,-,5.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
-122,MH Yardy,Abdul Razzaq,SI Mahmood,2,0,2,144,,24,14,7,-,6.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,1,,1,1,0,-,1.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+1,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,1,,0,1,0,-,2.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+2,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,2,,1,2,0,-,3.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+3,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,3,,2,2,0,-,4.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+4,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,3,,1,3,0,-,5.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+5,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,3,,1,4,0,-,6.0,0,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+6,ME Trescothick,Mohammad Asif,IR Bell,1,0,1,4,,3,3,0,-,1.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+7,IR Bell,Mohammad Asif,ME Trescothick,0,0,0,4,,1,5,0,-,2.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+8,IR Bell,Mohammad Asif,ME Trescothick,0,0,0,4,,1,6,0,-,3.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+9,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,5,,2,7,0,-,4.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+10,ME Trescothick,Mohammad Asif,IR Bell,4,0,4,9,,7,4,0,-,5.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+11,ME Trescothick,Mohammad Asif,IR Bell,0,0,0,9,,7,5,0,-,6.0,1,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+12,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,9,,2,8,0,-,1.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+13,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,10,,3,9,0,-,2.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+14,ME Trescothick,Shoaib Akhtar,IR Bell,0,0,0,10,,7,6,0,-,3.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+15,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,14,,11,7,0,-,4.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+16,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,18,,15,8,0,-,5.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+17,ME Trescothick,Shoaib Akhtar,IR Bell,4,0,4,22,,19,9,0,-,6.0,2,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+18,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,23,,4,10,0,-,1.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+19,ME Trescothick,Mohammad Asif,IR Bell,0,1,1,24,,19,10,0,legbyes,2.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+20,IR Bell,Mohammad Asif,ME Trescothick,4,0,4,28,,8,11,0,-,3.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+21,IR Bell,Mohammad Asif,ME Trescothick,1,0,1,29,,9,12,0,-,4.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+22,ME Trescothick,Mohammad Asif,IR Bell,0,0,0,29,,19,11,0,-,5.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+23,ME Trescothick,Mohammad Asif,IR Bell,4,0,4,33,,23,12,0,-,6.0,3,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+24,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,33,,9,13,0,-,1.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+25,IR Bell,Shoaib Akhtar,ME Trescothick,4,0,4,37,,13,14,0,-,2.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+26,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,37,,13,15,0,-,3.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+27,IR Bell,Shoaib Akhtar,ME Trescothick,1,0,1,38,,14,16,0,-,4.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+28,ME Trescothick,Shoaib Akhtar,IR Bell,1,0,1,39,,24,13,0,-,5.0,4,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+29,IR Bell,Shoaib Akhtar,ME Trescothick,0,0,0,39,,14,17,1,-,6.0,4,caught,IR Bell,Younis Khan,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+30,ME Trescothick,Mohammad Asif,KP Pietersen,0,1,1,40,,24,14,1,legbyes,1.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+31,KP Pietersen,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,2,-,2.0,5,bowled,KP Pietersen,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+32,AJ Strauss,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,2,-,3.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Left hand Bat,Right arm Fast
+33,AJ Strauss,Mohammad Asif,ME Trescothick,0,0,0,40,,0,2,3,-,4.0,5,caught,AJ Strauss,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Left hand Bat,Right arm Fast
+34,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,40,,0,1,3,-,5.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+35,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,40,,0,2,3,-,6.0,5,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+36,ME Trescothick,Naved-ul-Hasan,PD Collingwood,1,0,1,41,,25,15,3,-,1.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Medium
+37,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,3,3,-,2.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+38,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,4,3,-,3.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+39,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,5,3,-,4.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+40,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,41,,0,6,3,-,5.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+41,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,1,1,42,,0,7,3,noballs,5.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+42,PD Collingwood,Naved-ul-Hasan,ME Trescothick,2,0,2,44,,2,8,3,-,6.0,6,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+43,ME Trescothick,Mohammad Asif,PD Collingwood,0,0,0,44,,25,16,3,-,1.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+44,ME Trescothick,Mohammad Asif,PD Collingwood,0,0,0,44,,25,17,3,-,2.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+45,ME Trescothick,Mohammad Asif,PD Collingwood,1,0,1,45,,26,18,3,-,3.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+46,PD Collingwood,Mohammad Asif,ME Trescothick,0,0,0,45,,2,9,3,-,4.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+47,PD Collingwood,Mohammad Asif,ME Trescothick,0,1,1,46,,2,10,3,legbyes,5.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+48,ME Trescothick,Mohammad Asif,PD Collingwood,4,0,4,50,,30,19,3,-,6.0,7,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+49,PD Collingwood,Naved-ul-Hasan,ME Trescothick,0,0,0,50,,2,11,4,-,1.0,8,caught,PD Collingwood,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+50,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,51,,1,1,4,-,2.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+51,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,1,0,1,52,,31,20,4,-,3.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Medium
+52,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,53,,2,2,4,-,4.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+53,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,4,0,4,57,,35,21,4,-,5.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Medium
+54,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,0,0,0,57,,35,22,4,-,6.0,8,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Medium
+55,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,58,,3,3,4,-,1.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+56,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,0,0,58,,35,23,4,-,2.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+57,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,59,,36,24,4,-,3.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+58,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,59,,3,4,4,-,4.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+59,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,59,,3,5,4,-,5.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+60,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,60,,4,6,4,-,6.0,9,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+61,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,0,0,0,60,,4,7,4,-,1.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+62,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,1,0,1,61,,5,8,4,-,2.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+63,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,1,0,1,62,,37,25,4,-,3.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Medium
+64,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,2,0,2,64,,7,9,4,-,4.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+65,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,2,0,2,66,,9,10,4,-,5.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+66,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,4,0,4,70,,13,11,4,-,6.0,10,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Medium
+67,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,71,,38,26,4,-,1.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+68,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,1,1,72,,13,12,4,legbyes,2.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+69,ME Trescothick,Shahid Afridi,JWM Dalrymple,4,0,4,76,,42,27,4,-,3.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+70,ME Trescothick,Shahid Afridi,JWM Dalrymple,4,0,4,80,,46,28,4,-,4.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+71,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,0,0,80,,46,29,4,-,5.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+72,ME Trescothick,Shahid Afridi,JWM Dalrymple,0,1,1,81,,46,30,4,wides,5.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+73,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,82,,47,31,4,-,6.0,11,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+74,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,83,,48,32,4,-,1.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+75,JWM Dalrymple,Abdul Razzaq,ME Trescothick,0,0,0,83,,13,13,4,-,2.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+76,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,84,,14,14,4,-,3.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+77,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,85,,49,33,4,-,4.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+78,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,86,,15,15,4,-,5.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+79,ME Trescothick,Abdul Razzaq,JWM Dalrymple,1,0,1,87,,50,34,4,-,6.0,12,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+80,ME Trescothick,Shahid Afridi,JWM Dalrymple,1,0,1,88,,51,35,4,-,1.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+81,JWM Dalrymple,Shahid Afridi,ME Trescothick,4,0,4,92,,19,16,4,-,2.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+82,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,1,1,93,,19,17,4,wides,2.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+83,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,93,,19,18,4,-,3.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+84,JWM Dalrymple,Shahid Afridi,ME Trescothick,0,0,0,93,,19,19,4,-,4.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+85,JWM Dalrymple,Shahid Afridi,ME Trescothick,1,0,1,94,,20,20,4,-,5.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+86,ME Trescothick,Shahid Afridi,JWM Dalrymple,2,0,2,96,,53,36,4,-,6.0,13,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+87,JWM Dalrymple,Abdul Razzaq,ME Trescothick,1,0,1,97,,21,21,4,-,1.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+88,ME Trescothick,Abdul Razzaq,JWM Dalrymple,0,0,0,97,,53,37,5,-,2.0,14,caught,ME Trescothick,Kamran Akmal,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+89,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,98,,1,1,5,-,3.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+90,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,99,,22,22,5,-,4.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+91,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,100,,2,2,5,-,5.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+92,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,101,,23,23,5,-,6.0,14,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+93,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,102,,24,24,5,-,1.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+94,MH Yardy,Shahid Afridi,JWM Dalrymple,1,0,1,103,,3,3,5,-,2.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+95,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,104,,25,25,5,-,3.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+96,MH Yardy,Shahid Afridi,JWM Dalrymple,1,0,1,105,,4,4,5,-,4.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+97,JWM Dalrymple,Shahid Afridi,MH Yardy,1,0,1,106,,26,26,5,-,5.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Legbreak
+98,MH Yardy,Shahid Afridi,JWM Dalrymple,0,0,0,106,,4,5,5,-,6.0,15,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Legbreak
+99,JWM Dalrymple,Abdul Razzaq,MH Yardy,0,1,1,107,,26,27,5,legbyes,1.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+100,MH Yardy,Abdul Razzaq,JWM Dalrymple,4,0,4,111,,8,6,5,-,2.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+101,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,112,,9,7,5,-,3.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+102,JWM Dalrymple,Abdul Razzaq,MH Yardy,1,0,1,113,,27,28,5,-,4.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+103,MH Yardy,Abdul Razzaq,JWM Dalrymple,1,0,1,114,,10,8,5,-,5.0,16,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+104,JWM Dalrymple,Abdul Razzaq,MH Yardy,0,0,0,114,,27,29,6,-,6.0,16,caught,JWM Dalrymple,Shoaib Akhtar,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+105,CMW Read,Naved-ul-Hasan,MH Yardy,0,0,0,114,,0,1,6,-,1.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Medium
+106,CMW Read,Naved-ul-Hasan,MH Yardy,1,0,1,115,,1,2,6,-,2.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Medium
+107,MH Yardy,Naved-ul-Hasan,CMW Read,1,0,1,116,,11,9,6,-,3.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,,Right arm Medium
+108,CMW Read,Naved-ul-Hasan,MH Yardy,0,0,0,116,,1,3,6,-,4.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Medium
+109,CMW Read,Naved-ul-Hasan,MH Yardy,2,0,2,118,,3,4,6,-,5.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Medium
+110,CMW Read,Naved-ul-Hasan,MH Yardy,1,0,1,119,,4,5,6,-,6.0,17,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Medium
+111,CMW Read,Shoaib Akhtar,MH Yardy,0,0,0,119,,4,6,6,-,1.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+112,CMW Read,Shoaib Akhtar,MH Yardy,4,0,4,123,,8,7,6,-,2.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+113,CMW Read,Shoaib Akhtar,MH Yardy,1,0,1,124,,9,8,6,-,3.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+114,MH Yardy,Shoaib Akhtar,CMW Read,0,1,1,125,,11,10,6,legbyes,4.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,,Right arm Fast
+115,CMW Read,Shoaib Akhtar,MH Yardy,4,0,4,129,,13,9,6,-,5.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+116,CMW Read,Shoaib Akhtar,MH Yardy,0,1,1,130,,13,10,6,byes,6.0,18,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+117,CMW Read,Abdul Razzaq,MH Yardy,0,0,0,130,,13,11,7,-,1.0,19,caught,CMW Read,Naved-ul-Hasan,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,,Left hand Bat,Right arm Fast
+118,MH Yardy,Abdul Razzaq,SI Mahmood,1,0,1,131,,12,11,7,-,2.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+119,SI Mahmood,Abdul Razzaq,MH Yardy,0,1,1,132,,0,1,7,legbyes,3.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Right hand Bat,Left hand Bat,Right arm Fast
+120,MH Yardy,Abdul Razzaq,SI Mahmood,6,0,6,138,,18,12,7,-,4.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+121,MH Yardy,Abdul Razzaq,SI Mahmood,4,0,4,142,,22,13,7,-,5.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast
+122,MH Yardy,Abdul Razzaq,SI Mahmood,2,0,2,144,,24,14,7,-,6.0,19,0,,,bat,England,1,County Ground,2006,08,England_Pakistan_2006-08-28,Pakistan,England,Pakistan,False,144,Left hand Bat,Right hand Bat,Right arm Fast

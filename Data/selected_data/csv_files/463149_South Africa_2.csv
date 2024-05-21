@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,MN van Wyk,P Kumar,HM Amla,0,0,0,0,168,0,1,0,-,1.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-1,MN van Wyk,P Kumar,HM Amla,1,0,1,1,167,1,2,0,-,2.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-2,HM Amla,P Kumar,MN van Wyk,1,0,1,2,166,1,1,0,-,3.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-3,MN van Wyk,P Kumar,HM Amla,0,4,4,6,162,1,3,0,byes,4.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-4,MN van Wyk,P Kumar,HM Amla,0,0,0,6,162,1,4,0,-,5.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-5,MN van Wyk,P Kumar,HM Amla,0,0,0,6,162,1,5,0,-,6.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-6,HM Amla,A Nehra,MN van Wyk,0,0,0,6,162,1,2,0,-,1.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-7,HM Amla,A Nehra,MN van Wyk,0,0,0,6,162,1,3,1,-,2.0,1,bowled,HM Amla,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-8,CA Ingram,A Nehra,MN van Wyk,0,0,0,6,162,0,1,1,-,3.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-9,CA Ingram,A Nehra,MN van Wyk,1,0,1,7,161,1,2,1,-,4.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-10,MN van Wyk,A Nehra,CA Ingram,0,0,0,7,161,1,6,1,-,5.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-11,MN van Wyk,A Nehra,CA Ingram,0,1,1,8,160,1,7,1,legbyes,6.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-12,MN van Wyk,MM Patel,CA Ingram,6,0,6,14,154,7,8,1,-,1.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-13,MN van Wyk,MM Patel,CA Ingram,4,0,4,18,150,11,9,1,-,2.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-14,MN van Wyk,MM Patel,CA Ingram,4,0,4,22,146,15,10,1,-,3.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-15,MN van Wyk,MM Patel,CA Ingram,1,0,1,23,145,16,11,1,-,4.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-16,CA Ingram,MM Patel,MN van Wyk,0,0,0,23,145,1,3,1,-,5.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-17,CA Ingram,MM Patel,MN van Wyk,0,0,0,23,145,1,4,1,-,6.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-18,MN van Wyk,A Nehra,CA Ingram,6,0,6,29,139,22,12,1,-,1.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-19,MN van Wyk,A Nehra,CA Ingram,1,0,1,30,138,23,13,1,-,2.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-20,CA Ingram,A Nehra,MN van Wyk,0,0,0,30,138,1,5,1,-,3.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-21,CA Ingram,A Nehra,MN van Wyk,1,0,1,31,137,2,6,1,-,4.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-22,MN van Wyk,A Nehra,CA Ingram,0,0,0,31,137,23,14,1,-,5.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-23,MN van Wyk,A Nehra,CA Ingram,0,0,0,31,137,23,15,1,-,6.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-24,CA Ingram,MM Patel,MN van Wyk,0,0,0,31,137,2,7,1,-,1.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-25,CA Ingram,MM Patel,MN van Wyk,0,0,0,31,137,2,8,2,-,2.0,4,caught,CA Ingram,P Kumar,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-26,AB de Villiers,MM Patel,MN van Wyk,0,0,0,31,137,0,1,2,-,3.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-27,AB de Villiers,MM Patel,MN van Wyk,1,0,1,32,136,1,2,2,-,4.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-28,MN van Wyk,MM Patel,AB de Villiers,6,0,6,38,130,29,16,2,-,5.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-29,MN van Wyk,MM Patel,AB de Villiers,4,0,4,42,126,33,17,2,-,6.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-30,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,43,125,2,3,2,-,1.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-31,MN van Wyk,R Ashwin,AB de Villiers,4,0,4,47,121,37,18,2,-,2.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-32,MN van Wyk,R Ashwin,AB de Villiers,0,1,1,48,120,37,19,2,wides,2.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-33,MN van Wyk,R Ashwin,AB de Villiers,6,0,6,54,114,43,20,2,-,3.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-34,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,55,113,44,21,2,-,4.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-35,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,56,112,3,4,2,-,5.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-36,MN van Wyk,R Ashwin,AB de Villiers,3,0,3,59,109,47,22,2,-,6.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-37,MN van Wyk,Yuvraj Singh,AB de Villiers,1,0,1,60,108,48,23,2,-,1.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-38,AB de Villiers,Yuvraj Singh,MN van Wyk,0,0,0,60,108,3,5,2,-,2.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-39,AB de Villiers,Yuvraj Singh,MN van Wyk,4,0,4,64,104,7,6,2,-,3.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-40,AB de Villiers,Yuvraj Singh,MN van Wyk,4,0,4,68,100,11,7,2,-,4.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-41,AB de Villiers,Yuvraj Singh,MN van Wyk,1,0,1,69,99,12,8,2,-,5.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-42,MN van Wyk,Yuvraj Singh,AB de Villiers,0,0,0,69,99,48,24,2,-,6.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-43,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,70,98,13,9,2,-,1.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-44,MN van Wyk,R Ashwin,AB de Villiers,6,0,6,76,92,54,25,2,-,2.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-45,MN van Wyk,R Ashwin,AB de Villiers,0,0,0,76,92,54,26,2,-,3.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-46,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,77,91,55,27,2,-,4.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-47,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,78,90,14,10,2,-,5.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-48,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,79,89,56,28,2,-,6.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-49,MN van Wyk,P Kumar,AB de Villiers,0,0,0,79,89,56,29,2,-,1.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-50,MN van Wyk,P Kumar,AB de Villiers,0,1,1,80,88,56,30,2,wides,1.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-51,MN van Wyk,P Kumar,AB de Villiers,2,0,2,82,86,58,31,2,-,2.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-52,MN van Wyk,P Kumar,AB de Villiers,4,0,4,86,82,62,32,2,-,3.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-53,MN van Wyk,P Kumar,AB de Villiers,0,0,0,86,82,62,33,2,-,4.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-54,MN van Wyk,P Kumar,AB de Villiers,0,0,0,86,82,62,34,2,-,5.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-55,MN van Wyk,P Kumar,AB de Villiers,1,0,1,87,81,63,35,2,-,6.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-56,MN van Wyk,Yuvraj Singh,AB de Villiers,1,0,1,88,80,64,36,3,-,1.0,9,run out,AB de Villiers,A Nehra;SK Raina,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-57,MN van Wyk,Yuvraj Singh,JP Duminy,1,0,1,89,79,65,37,3,-,2.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-58,JP Duminy,Yuvraj Singh,MN van Wyk,0,0,0,89,79,0,1,3,-,3.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-59,JP Duminy,Yuvraj Singh,MN van Wyk,0,0,0,89,79,0,2,4,-,4.0,9,lbw,JP Duminy,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-60,DA Miller,Yuvraj Singh,MN van Wyk,1,0,1,90,78,1,1,4,-,5.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-61,MN van Wyk,Yuvraj Singh,DA Miller,1,0,1,91,77,66,38,4,-,6.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-62,MN van Wyk,P Kumar,DA Miller,1,0,1,92,76,67,39,4,-,1.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-63,DA Miller,P Kumar,MN van Wyk,1,0,1,93,75,2,2,4,-,2.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-64,MN van Wyk,P Kumar,DA Miller,0,0,0,93,75,67,40,4,-,3.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-65,MN van Wyk,P Kumar,DA Miller,0,0,0,93,75,67,41,5,-,4.0,10,caught,MN van Wyk,A Nehra,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-66,J Botha,P Kumar,DA Miller,4,0,4,97,71,4,1,5,-,5.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-67,J Botha,P Kumar,DA Miller,1,0,1,98,70,5,2,5,-,6.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-68,J Botha,Yuvraj Singh,DA Miller,0,0,0,98,70,5,3,5,-,1.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-69,J Botha,Yuvraj Singh,DA Miller,0,0,0,98,70,5,4,5,-,2.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-70,J Botha,Yuvraj Singh,DA Miller,0,1,1,99,69,5,5,5,legbyes,3.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-71,DA Miller,Yuvraj Singh,J Botha,0,0,0,99,69,2,3,5,-,4.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-72,DA Miller,Yuvraj Singh,J Botha,0,0,0,99,69,2,4,5,-,5.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-73,DA Miller,Yuvraj Singh,J Botha,2,0,2,101,67,4,5,5,-,6.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-74,J Botha,YK Pathan,DA Miller,0,0,0,101,67,5,6,5,-,1.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-75,J Botha,YK Pathan,DA Miller,1,0,1,102,66,6,7,5,-,2.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-76,DA Miller,YK Pathan,J Botha,0,0,0,102,66,4,6,5,-,3.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-77,DA Miller,YK Pathan,J Botha,6,0,6,108,60,10,7,5,-,4.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-78,DA Miller,YK Pathan,J Botha,0,0,0,108,60,10,8,6,-,5.0,12,lbw,DA Miller,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-79,RJ Peterson,YK Pathan,J Botha,1,0,1,109,59,1,1,6,-,6.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-80,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,109,59,1,2,6,-,1.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-81,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,109,59,1,3,6,-,2.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-82,RJ Peterson,Yuvraj Singh,J Botha,1,0,1,110,58,2,4,6,-,3.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-83,J Botha,Yuvraj Singh,RJ Peterson,2,0,2,112,56,8,8,6,-,4.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-84,J Botha,Yuvraj Singh,RJ Peterson,1,0,1,113,55,9,9,6,-,5.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-85,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,113,55,2,5,6,-,6.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-86,J Botha,YK Pathan,RJ Peterson,0,0,0,113,55,9,10,6,-,1.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-87,J Botha,YK Pathan,RJ Peterson,6,0,6,119,49,15,11,6,-,2.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-88,J Botha,YK Pathan,RJ Peterson,1,0,1,120,48,16,12,6,-,3.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-89,RJ Peterson,YK Pathan,J Botha,0,0,0,120,48,2,6,7,-,4.0,14,caught,RJ Peterson,V Kohli,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-90,WD Parnell,YK Pathan,J Botha,1,0,1,121,47,1,1,7,-,5.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-91,J Botha,YK Pathan,WD Parnell,0,0,0,121,47,16,13,7,-,6.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-92,WD Parnell,R Ashwin,J Botha,0,0,0,121,47,1,2,7,-,1.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-93,WD Parnell,R Ashwin,J Botha,0,0,0,121,47,1,3,7,-,2.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-94,WD Parnell,R Ashwin,J Botha,1,0,1,122,46,2,4,7,-,3.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-95,J Botha,R Ashwin,WD Parnell,1,0,1,123,45,17,14,7,-,4.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-96,WD Parnell,R Ashwin,J Botha,1,0,1,124,44,3,5,7,-,5.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-97,J Botha,R Ashwin,WD Parnell,1,0,1,125,43,18,15,7,-,6.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-98,J Botha,YK Pathan,WD Parnell,1,0,1,126,42,19,16,7,-,1.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-99,WD Parnell,YK Pathan,J Botha,0,0,0,126,42,3,6,7,-,2.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-100,WD Parnell,YK Pathan,J Botha,0,0,0,126,42,3,7,7,-,3.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-101,WD Parnell,YK Pathan,J Botha,1,0,1,127,41,4,8,7,-,4.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-102,J Botha,YK Pathan,WD Parnell,1,0,1,128,40,20,17,7,-,5.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-103,WD Parnell,YK Pathan,J Botha,3,0,3,131,37,7,9,7,-,6.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-104,WD Parnell,A Nehra,J Botha,4,0,4,135,33,11,10,7,-,1.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-105,WD Parnell,A Nehra,J Botha,1,0,1,136,32,12,11,7,-,2.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-106,J Botha,A Nehra,WD Parnell,1,0,1,137,31,21,18,7,-,3.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-107,WD Parnell,A Nehra,J Botha,1,0,1,138,30,13,12,7,-,4.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-108,J Botha,A Nehra,WD Parnell,1,0,1,139,29,22,19,7,-,5.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-109,WD Parnell,A Nehra,J Botha,1,0,1,140,28,14,13,7,-,6.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-110,WD Parnell,R Ashwin,J Botha,0,1,1,141,27,14,14,7,wides,0.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-111,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,15,7,-,1.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-112,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,16,7,-,2.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-113,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,17,8,-,3.0,18,caught,WD Parnell,YK Pathan,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-114,J Botha,R Ashwin,J Theron,1,0,1,142,26,23,20,8,-,4.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-115,J Theron,R Ashwin,J Botha,0,0,0,142,26,0,1,8,-,5.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-116,J Theron,R Ashwin,J Botha,0,0,0,142,26,0,2,8,-,6.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-117,J Botha,A Nehra,J Theron,2,0,2,144,24,25,21,8,-,1.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-118,J Botha,A Nehra,J Theron,0,0,0,144,24,25,22,9,-,2.0,19,caught,J Botha,RG Sharma,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-119,J Theron,A Nehra,M Ntini,0,1,1,145,23,0,3,9,legbyes,3.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-120,M Ntini,A Nehra,J Theron,0,0,0,145,23,0,1,9,-,4.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-121,M Ntini,A Nehra,J Theron,1,0,1,146,22,1,2,9,-,5.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
-122,J Theron,A Nehra,M Ntini,1,0,1,147,21,1,4,9,-,6.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,MN van Wyk,P Kumar,HM Amla,0,0,0,0,168,0,1,0,-,1.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+1,MN van Wyk,P Kumar,HM Amla,1,0,1,1,167,1,2,0,-,2.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+2,HM Amla,P Kumar,MN van Wyk,1,0,1,2,166,1,1,0,-,3.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+3,MN van Wyk,P Kumar,HM Amla,0,4,4,6,162,1,3,0,byes,4.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+4,MN van Wyk,P Kumar,HM Amla,0,0,0,6,162,1,4,0,-,5.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+5,MN van Wyk,P Kumar,HM Amla,0,0,0,6,162,1,5,0,-,6.0,0,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+6,HM Amla,A Nehra,MN van Wyk,0,0,0,6,162,1,2,0,-,1.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+7,HM Amla,A Nehra,MN van Wyk,0,0,0,6,162,1,3,1,-,2.0,1,bowled,HM Amla,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+8,CA Ingram,A Nehra,MN van Wyk,0,0,0,6,162,0,1,1,-,3.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+9,CA Ingram,A Nehra,MN van Wyk,1,0,1,7,161,1,2,1,-,4.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+10,MN van Wyk,A Nehra,CA Ingram,0,0,0,7,161,1,6,1,-,5.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+11,MN van Wyk,A Nehra,CA Ingram,0,1,1,8,160,1,7,1,legbyes,6.0,1,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+12,MN van Wyk,MM Patel,CA Ingram,6,0,6,14,154,7,8,1,-,1.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+13,MN van Wyk,MM Patel,CA Ingram,4,0,4,18,150,11,9,1,-,2.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+14,MN van Wyk,MM Patel,CA Ingram,4,0,4,22,146,15,10,1,-,3.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+15,MN van Wyk,MM Patel,CA Ingram,1,0,1,23,145,16,11,1,-,4.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+16,CA Ingram,MM Patel,MN van Wyk,0,0,0,23,145,1,3,1,-,5.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Medium
+17,CA Ingram,MM Patel,MN van Wyk,0,0,0,23,145,1,4,1,-,6.0,2,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Medium
+18,MN van Wyk,A Nehra,CA Ingram,6,0,6,29,139,22,12,1,-,1.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+19,MN van Wyk,A Nehra,CA Ingram,1,0,1,30,138,23,13,1,-,2.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+20,CA Ingram,A Nehra,MN van Wyk,0,0,0,30,138,1,5,1,-,3.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+21,CA Ingram,A Nehra,MN van Wyk,1,0,1,31,137,2,6,1,-,4.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+22,MN van Wyk,A Nehra,CA Ingram,0,0,0,31,137,23,14,1,-,5.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+23,MN van Wyk,A Nehra,CA Ingram,0,0,0,31,137,23,15,1,-,6.0,3,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+24,CA Ingram,MM Patel,MN van Wyk,0,0,0,31,137,2,7,1,-,1.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Medium
+25,CA Ingram,MM Patel,MN van Wyk,0,0,0,31,137,2,8,2,-,2.0,4,caught,CA Ingram,P Kumar,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Medium
+26,AB de Villiers,MM Patel,MN van Wyk,0,0,0,31,137,0,1,2,-,3.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+27,AB de Villiers,MM Patel,MN van Wyk,1,0,1,32,136,1,2,2,-,4.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+28,MN van Wyk,MM Patel,AB de Villiers,6,0,6,38,130,29,16,2,-,5.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+29,MN van Wyk,MM Patel,AB de Villiers,4,0,4,42,126,33,17,2,-,6.0,4,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+30,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,43,125,2,3,2,-,1.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+31,MN van Wyk,R Ashwin,AB de Villiers,4,0,4,47,121,37,18,2,-,2.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+32,MN van Wyk,R Ashwin,AB de Villiers,0,1,1,48,120,37,19,2,wides,2.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+33,MN van Wyk,R Ashwin,AB de Villiers,6,0,6,54,114,43,20,2,-,3.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+34,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,55,113,44,21,2,-,4.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+35,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,56,112,3,4,2,-,5.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+36,MN van Wyk,R Ashwin,AB de Villiers,3,0,3,59,109,47,22,2,-,6.0,5,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+37,MN van Wyk,Yuvraj Singh,AB de Villiers,1,0,1,60,108,48,23,2,-,1.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+38,AB de Villiers,Yuvraj Singh,MN van Wyk,0,0,0,60,108,3,5,2,-,2.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+39,AB de Villiers,Yuvraj Singh,MN van Wyk,4,0,4,64,104,7,6,2,-,3.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+40,AB de Villiers,Yuvraj Singh,MN van Wyk,4,0,4,68,100,11,7,2,-,4.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+41,AB de Villiers,Yuvraj Singh,MN van Wyk,1,0,1,69,99,12,8,2,-,5.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+42,MN van Wyk,Yuvraj Singh,AB de Villiers,0,0,0,69,99,48,24,2,-,6.0,6,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+43,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,70,98,13,9,2,-,1.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+44,MN van Wyk,R Ashwin,AB de Villiers,6,0,6,76,92,54,25,2,-,2.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+45,MN van Wyk,R Ashwin,AB de Villiers,0,0,0,76,92,54,26,2,-,3.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+46,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,77,91,55,27,2,-,4.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+47,AB de Villiers,R Ashwin,MN van Wyk,1,0,1,78,90,14,10,2,-,5.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+48,MN van Wyk,R Ashwin,AB de Villiers,1,0,1,79,89,56,28,2,-,6.0,7,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+49,MN van Wyk,P Kumar,AB de Villiers,0,0,0,79,89,56,29,2,-,1.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+50,MN van Wyk,P Kumar,AB de Villiers,0,1,1,80,88,56,30,2,wides,1.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+51,MN van Wyk,P Kumar,AB de Villiers,2,0,2,82,86,58,31,2,-,2.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+52,MN van Wyk,P Kumar,AB de Villiers,4,0,4,86,82,62,32,2,-,3.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+53,MN van Wyk,P Kumar,AB de Villiers,0,0,0,86,82,62,33,2,-,4.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+54,MN van Wyk,P Kumar,AB de Villiers,0,0,0,86,82,62,34,2,-,5.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+55,MN van Wyk,P Kumar,AB de Villiers,1,0,1,87,81,63,35,2,-,6.0,8,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Medium
+56,MN van Wyk,Yuvraj Singh,AB de Villiers,1,0,1,88,80,64,36,3,-,1.0,9,run out,AB de Villiers,A Nehra;SK Raina,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Orthodox
+57,MN van Wyk,Yuvraj Singh,JP Duminy,1,0,1,89,79,65,37,3,-,2.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+58,JP Duminy,Yuvraj Singh,MN van Wyk,0,0,0,89,79,0,1,3,-,3.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+59,JP Duminy,Yuvraj Singh,MN van Wyk,0,0,0,89,79,0,2,4,-,4.0,9,lbw,JP Duminy,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+60,DA Miller,Yuvraj Singh,MN van Wyk,1,0,1,90,78,1,1,4,-,5.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+61,MN van Wyk,Yuvraj Singh,DA Miller,1,0,1,91,77,66,38,4,-,6.0,9,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+62,MN van Wyk,P Kumar,DA Miller,1,0,1,92,76,67,39,4,-,1.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+63,DA Miller,P Kumar,MN van Wyk,1,0,1,93,75,2,2,4,-,2.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Medium
+64,MN van Wyk,P Kumar,DA Miller,0,0,0,93,75,67,40,4,-,3.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+65,MN van Wyk,P Kumar,DA Miller,0,0,0,93,75,67,41,5,-,4.0,10,caught,MN van Wyk,A Nehra,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+66,J Botha,P Kumar,DA Miller,4,0,4,97,71,4,1,5,-,5.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+67,J Botha,P Kumar,DA Miller,1,0,1,98,70,5,2,5,-,6.0,10,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Medium
+68,J Botha,Yuvraj Singh,DA Miller,0,0,0,98,70,5,3,5,-,1.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+69,J Botha,Yuvraj Singh,DA Miller,0,0,0,98,70,5,4,5,-,2.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+70,J Botha,Yuvraj Singh,DA Miller,0,1,1,99,69,5,5,5,legbyes,3.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+71,DA Miller,Yuvraj Singh,J Botha,0,0,0,99,69,2,3,5,-,4.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+72,DA Miller,Yuvraj Singh,J Botha,0,0,0,99,69,2,4,5,-,5.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+73,DA Miller,Yuvraj Singh,J Botha,2,0,2,101,67,4,5,5,-,6.0,11,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+74,J Botha,YK Pathan,DA Miller,0,0,0,101,67,5,6,5,-,1.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+75,J Botha,YK Pathan,DA Miller,1,0,1,102,66,6,7,5,-,2.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+76,DA Miller,YK Pathan,J Botha,0,0,0,102,66,4,6,5,-,3.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+77,DA Miller,YK Pathan,J Botha,6,0,6,108,60,10,7,5,-,4.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+78,DA Miller,YK Pathan,J Botha,0,0,0,108,60,10,8,6,-,5.0,12,lbw,DA Miller,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+79,RJ Peterson,YK Pathan,J Botha,1,0,1,109,59,1,1,6,-,6.0,12,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+80,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,109,59,1,2,6,-,1.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+81,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,109,59,1,3,6,-,2.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+82,RJ Peterson,Yuvraj Singh,J Botha,1,0,1,110,58,2,4,6,-,3.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+83,J Botha,Yuvraj Singh,RJ Peterson,2,0,2,112,56,8,8,6,-,4.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+84,J Botha,Yuvraj Singh,RJ Peterson,1,0,1,113,55,9,9,6,-,5.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Orthodox
+85,RJ Peterson,Yuvraj Singh,J Botha,0,0,0,113,55,2,5,6,-,6.0,13,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Orthodox
+86,J Botha,YK Pathan,RJ Peterson,0,0,0,113,55,9,10,6,-,1.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+87,J Botha,YK Pathan,RJ Peterson,6,0,6,119,49,15,11,6,-,2.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+88,J Botha,YK Pathan,RJ Peterson,1,0,1,120,48,16,12,6,-,3.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+89,RJ Peterson,YK Pathan,J Botha,0,0,0,120,48,2,6,7,-,4.0,14,caught,RJ Peterson,V Kohli,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+90,WD Parnell,YK Pathan,J Botha,1,0,1,121,47,1,1,7,-,5.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+91,J Botha,YK Pathan,WD Parnell,0,0,0,121,47,16,13,7,-,6.0,14,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+92,WD Parnell,R Ashwin,J Botha,0,0,0,121,47,1,2,7,-,1.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+93,WD Parnell,R Ashwin,J Botha,0,0,0,121,47,1,3,7,-,2.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+94,WD Parnell,R Ashwin,J Botha,1,0,1,122,46,2,4,7,-,3.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+95,J Botha,R Ashwin,WD Parnell,1,0,1,123,45,17,14,7,-,4.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+96,WD Parnell,R Ashwin,J Botha,1,0,1,124,44,3,5,7,-,5.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+97,J Botha,R Ashwin,WD Parnell,1,0,1,125,43,18,15,7,-,6.0,15,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+98,J Botha,YK Pathan,WD Parnell,1,0,1,126,42,19,16,7,-,1.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+99,WD Parnell,YK Pathan,J Botha,0,0,0,126,42,3,6,7,-,2.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+100,WD Parnell,YK Pathan,J Botha,0,0,0,126,42,3,7,7,-,3.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+101,WD Parnell,YK Pathan,J Botha,1,0,1,127,41,4,8,7,-,4.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+102,J Botha,YK Pathan,WD Parnell,1,0,1,128,40,20,17,7,-,5.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Right arm Offbreak
+103,WD Parnell,YK Pathan,J Botha,3,0,3,131,37,7,9,7,-,6.0,16,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+104,WD Parnell,A Nehra,J Botha,4,0,4,135,33,11,10,7,-,1.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+105,WD Parnell,A Nehra,J Botha,1,0,1,136,32,12,11,7,-,2.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+106,J Botha,A Nehra,WD Parnell,1,0,1,137,31,21,18,7,-,3.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+107,WD Parnell,A Nehra,J Botha,1,0,1,138,30,13,12,7,-,4.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+108,J Botha,A Nehra,WD Parnell,1,0,1,139,29,22,19,7,-,5.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Left hand Bat,Left arm Medium
+109,WD Parnell,A Nehra,J Botha,1,0,1,140,28,14,13,7,-,6.0,17,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Left arm Medium
+110,WD Parnell,R Ashwin,J Botha,0,1,1,141,27,14,14,7,wides,0.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+111,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,15,7,-,1.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+112,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,16,7,-,2.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+113,WD Parnell,R Ashwin,J Botha,0,0,0,141,27,14,17,8,-,3.0,18,caught,WD Parnell,YK Pathan,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Left hand Bat,Right hand Bat,Right arm Offbreak
+114,J Botha,R Ashwin,J Theron,1,0,1,142,26,23,20,8,-,4.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+115,J Theron,R Ashwin,J Botha,0,0,0,142,26,0,1,8,-,5.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+116,J Theron,R Ashwin,J Botha,0,0,0,142,26,0,2,8,-,6.0,18,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Right arm Offbreak
+117,J Botha,A Nehra,J Theron,2,0,2,144,24,25,21,8,-,1.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+118,J Botha,A Nehra,J Theron,0,0,0,144,24,25,22,9,-,2.0,19,caught,J Botha,RG Sharma,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+119,J Theron,A Nehra,M Ntini,0,1,1,145,23,0,3,9,legbyes,3.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+120,M Ntini,A Nehra,J Theron,0,0,0,145,23,0,1,9,-,4.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+121,M Ntini,A Nehra,J Theron,1,0,1,146,22,1,2,9,-,5.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium
+122,J Theron,A Nehra,M Ntini,1,0,1,147,21,1,4,9,-,6.0,19,0,,,bat,India,2,Moses Mabhida Stadium,2011,01,South Africa_India_2011-01-09,India,South Africa,India,False,147,Right hand Bat,Right hand Bat,Left arm Medium

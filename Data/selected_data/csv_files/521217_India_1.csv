@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RV Uthappa,ST Finn,AM Rahane,1,0,1,1,,1,1,0,-,1.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-1,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,1,0,-,2.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-2,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,2,0,-,3.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-3,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,3,1,-,4.0,caught,AM Rahane,C Kieswetter,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-4,V Kohli,ST Finn,RV Uthappa,0,0,0,1,,0,1,1,-,5.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-5,V Kohli,ST Finn,RV Uthappa,4,0,4,5,,4,2,1,-,6.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-6,RV Uthappa,TT Bresnan,V Kohli,0,0,0,5,,1,2,1,-,1.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-7,RV Uthappa,TT Bresnan,V Kohli,0,0,0,5,,1,3,2,-,2.0,caught,RV Uthappa,C Kieswetter,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-8,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,1,2,-,3.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-9,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,2,2,-,4.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-10,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,3,2,-,5.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-11,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,4,2,-,6.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-12,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,3,2,-,1.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-13,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,4,2,-,2.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-14,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,5,2,-,3.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-15,V Kohli,ST Finn,SK Raina,1,0,1,6,,5,6,2,-,4.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-16,SK Raina,ST Finn,V Kohli,0,0,0,6,,0,5,2,-,5.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-17,SK Raina,ST Finn,V Kohli,6,0,6,12,,6,6,2,-,6.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-18,V Kohli,TT Bresnan,SK Raina,0,0,0,12,,5,7,2,-,1.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-19,V Kohli,TT Bresnan,SK Raina,4,0,4,16,,9,8,2,-,2.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-20,V Kohli,TT Bresnan,SK Raina,0,0,0,16,,9,9,2,-,3.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-21,V Kohli,TT Bresnan,SK Raina,0,0,0,16,,9,10,2,-,4.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-22,V Kohli,TT Bresnan,SK Raina,4,0,4,20,,13,11,2,-,5.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-23,V Kohli,TT Bresnan,SK Raina,1,0,1,21,,14,12,2,-,6.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-24,V Kohli,JW Dernbach,SK Raina,0,0,0,21,,14,13,2,-,1.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-25,V Kohli,JW Dernbach,SK Raina,1,0,1,22,,15,14,2,-,2.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-26,SK Raina,JW Dernbach,V Kohli,0,0,0,22,,6,7,2,-,3.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-27,SK Raina,JW Dernbach,V Kohli,4,0,4,26,,10,8,2,-,4.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-28,SK Raina,JW Dernbach,V Kohli,0,0,0,26,,10,9,2,-,5.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-29,SK Raina,JW Dernbach,V Kohli,0,0,0,26,,10,10,2,-,6.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-30,V Kohli,TT Bresnan,SK Raina,0,0,0,26,,15,15,2,-,1.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-31,V Kohli,TT Bresnan,SK Raina,0,0,0,26,,15,16,3,-,2.0,caught,V Kohli,AD Hales,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-32,SK Raina,TT Bresnan,MK Tiwary,1,0,1,27,,11,11,3,-,3.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-33,MK Tiwary,TT Bresnan,SK Raina,1,0,1,28,,1,1,3,-,4.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-34,SK Raina,TT Bresnan,MK Tiwary,0,0,0,28,,11,12,3,-,5.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-35,SK Raina,TT Bresnan,MK Tiwary,4,0,4,32,,15,13,3,-,6.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-36,MK Tiwary,SR Patel,SK Raina,1,0,1,33,,2,2,3,-,1.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-37,SK Raina,SR Patel,MK Tiwary,0,1,1,34,,15,14,3,legbyes,2.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-38,MK Tiwary,SR Patel,SK Raina,2,0,2,36,,4,3,3,-,3.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-39,MK Tiwary,SR Patel,SK Raina,1,0,1,37,,5,4,3,-,4.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-40,SK Raina,SR Patel,MK Tiwary,0,0,0,37,,15,15,3,-,5.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-41,SK Raina,SR Patel,MK Tiwary,1,0,1,38,,16,16,3,-,6.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-42,SK Raina,GP Swann,MK Tiwary,4,0,4,42,,20,17,3,-,1.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-43,SK Raina,GP Swann,MK Tiwary,1,0,1,43,,21,18,3,-,2.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-44,MK Tiwary,GP Swann,SK Raina,1,0,1,44,,6,5,3,-,3.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-45,SK Raina,GP Swann,MK Tiwary,6,0,6,50,,27,19,3,-,4.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-46,SK Raina,GP Swann,MK Tiwary,2,0,2,52,,29,20,3,-,5.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-47,SK Raina,GP Swann,MK Tiwary,2,0,2,54,,31,21,3,-,6.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-48,MK Tiwary,SR Patel,SK Raina,0,0,0,54,,6,6,3,-,1.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-49,MK Tiwary,SR Patel,SK Raina,0,0,0,54,,6,7,3,-,2.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-50,MK Tiwary,SR Patel,SK Raina,2,0,2,56,,8,8,3,-,3.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-51,MK Tiwary,SR Patel,SK Raina,2,0,2,58,,10,9,3,-,4.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-52,MK Tiwary,SR Patel,SK Raina,2,0,2,60,,12,10,3,-,5.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-53,MK Tiwary,SR Patel,SK Raina,1,0,1,61,,13,11,3,-,6.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-54,MK Tiwary,JW Dernbach,SK Raina,1,0,1,62,,14,12,3,-,1.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-55,SK Raina,JW Dernbach,MK Tiwary,1,0,1,63,,32,22,3,-,2.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-56,MK Tiwary,JW Dernbach,SK Raina,1,0,1,64,,15,13,3,-,3.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-57,SK Raina,JW Dernbach,MK Tiwary,1,0,1,65,,33,23,3,-,4.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-58,MK Tiwary,JW Dernbach,SK Raina,0,0,0,65,,15,14,3,-,5.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-59,MK Tiwary,JW Dernbach,SK Raina,0,0,0,65,,15,15,3,-,6.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-60,SK Raina,SR Patel,MK Tiwary,0,0,0,65,,33,24,3,-,1.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-61,SK Raina,SR Patel,MK Tiwary,1,0,1,66,,34,25,3,-,2.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-62,MK Tiwary,SR Patel,SK Raina,0,0,0,66,,15,16,3,-,3.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-63,MK Tiwary,SR Patel,SK Raina,0,0,0,66,,15,17,4,-,4.0,bowled,MK Tiwary,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-64,MS Dhoni,SR Patel,SK Raina,0,0,0,66,,0,1,4,-,5.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-65,MS Dhoni,SR Patel,SK Raina,0,0,0,66,,0,2,4,-,6.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-66,SK Raina,ST Finn,MS Dhoni,4,0,4,70,,38,26,4,-,1.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-67,SK Raina,ST Finn,MS Dhoni,1,0,1,71,,39,27,4,-,2.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-68,MS Dhoni,ST Finn,SK Raina,3,0,3,74,,3,3,4,-,3.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-69,SK Raina,ST Finn,MS Dhoni,0,0,0,74,,39,28,4,-,4.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-70,SK Raina,ST Finn,MS Dhoni,0,0,0,74,,39,29,5,-,5.0,caught,SK Raina,JM Bairstow,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-71,RA Jadeja,ST Finn,MS Dhoni,0,0,0,74,,0,1,6,-,6.0,bowled,RA Jadeja,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-72,MS Dhoni,GP Swann,YK Pathan,0,0,0,74,,3,4,6,-,1.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-73,MS Dhoni,GP Swann,YK Pathan,1,0,1,75,,4,5,6,-,2.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-74,YK Pathan,GP Swann,MS Dhoni,0,0,0,75,,0,1,6,-,3.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-75,YK Pathan,GP Swann,MS Dhoni,4,0,4,79,,4,2,6,-,4.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-76,YK Pathan,GP Swann,MS Dhoni,1,0,1,80,,5,3,6,-,5.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-77,MS Dhoni,GP Swann,YK Pathan,1,0,1,81,,5,6,6,-,6.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-78,MS Dhoni,ST Finn,YK Pathan,1,0,1,82,,6,7,6,-,1.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-79,YK Pathan,ST Finn,MS Dhoni,1,0,1,83,,6,4,6,-,2.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-80,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,8,6,-,3.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-81,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,9,6,-,4.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-82,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,10,6,-,5.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-83,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,11,6,-,6.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-84,YK Pathan,RS Bopara,MS Dhoni,0,0,0,83,,6,5,6,-,1.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-85,YK Pathan,RS Bopara,MS Dhoni,1,0,1,84,,7,6,6,-,2.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-86,MS Dhoni,RS Bopara,YK Pathan,0,0,0,84,,6,12,6,-,3.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-87,MS Dhoni,RS Bopara,YK Pathan,1,0,1,85,,7,13,6,-,4.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-88,YK Pathan,RS Bopara,MS Dhoni,2,0,2,87,,9,7,6,-,5.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-89,YK Pathan,RS Bopara,MS Dhoni,0,0,0,87,,9,8,6,-,6.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-90,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,87,,7,14,6,-,1.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-91,MS Dhoni,TT Bresnan,YK Pathan,1,0,1,88,,8,15,6,-,2.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-92,YK Pathan,TT Bresnan,MS Dhoni,1,0,1,89,,10,9,6,-,3.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-93,MS Dhoni,TT Bresnan,YK Pathan,2,0,2,91,,10,16,6,-,4.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-94,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,91,,10,17,6,-,5.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-95,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,91,,10,18,6,-,6.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-96,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,10,6,-,1.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-97,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,11,6,-,2.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-98,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,12,7,-,3.0,bowled,YK Pathan,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-99,P Kumar,RS Bopara,MS Dhoni,0,0,0,91,,0,1,7,-,4.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-100,P Kumar,RS Bopara,MS Dhoni,0,0,0,91,,0,2,8,-,5.0,bowled,P Kumar,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-101,R Ashwin,RS Bopara,MS Dhoni,0,0,0,91,,0,1,8,-,6.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-102,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,91,,10,19,8,-,1.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-103,MS Dhoni,JW Dernbach,R Ashwin,1,0,1,92,,11,20,8,-,2.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-104,R Ashwin,JW Dernbach,MS Dhoni,0,0,0,92,,0,2,8,-,3.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-105,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,93,,1,3,8,-,4.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-106,MS Dhoni,JW Dernbach,R Ashwin,1,0,1,94,,12,21,8,-,5.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-107,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,95,,2,4,8,-,6.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-108,R Ashwin,RS Bopara,MS Dhoni,4,0,4,99,,6,5,8,-,1.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-109,R Ashwin,RS Bopara,MS Dhoni,0,0,0,99,,6,6,8,-,2.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-110,R Ashwin,RS Bopara,MS Dhoni,0,1,1,100,,6,7,8,wides,2.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-111,R Ashwin,RS Bopara,MS Dhoni,1,0,1,101,,7,8,8,-,3.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-112,MS Dhoni,RS Bopara,R Ashwin,1,0,1,102,,13,22,8,-,4.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-113,R Ashwin,RS Bopara,MS Dhoni,4,0,4,106,,11,9,8,-,5.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-114,R Ashwin,RS Bopara,MS Dhoni,1,0,1,107,,12,10,8,-,6.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-115,R Ashwin,JW Dernbach,MS Dhoni,4,0,4,111,,16,11,8,-,1.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-116,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,112,,17,12,8,-,2.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-117,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,112,,13,23,8,-,3.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-118,MS Dhoni,JW Dernbach,R Ashwin,2,0,2,114,,15,24,8,-,4.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-119,MS Dhoni,JW Dernbach,R Ashwin,6,0,6,120,,21,25,8,-,5.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
-120,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,120,,21,26,9,-,6.0,run out,MS Dhoni,JW Dernbach,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,RV Uthappa,ST Finn,AM Rahane,1,0,1,1,,1,1,0,-,1.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+1,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,1,0,-,2.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+2,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,2,0,-,3.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+3,AM Rahane,ST Finn,RV Uthappa,0,0,0,1,,0,3,1,-,4.0,caught,AM Rahane,C Kieswetter,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+4,V Kohli,ST Finn,RV Uthappa,0,0,0,1,,0,1,1,-,5.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+5,V Kohli,ST Finn,RV Uthappa,4,0,4,5,,4,2,1,-,6.0,0,,,0,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+6,RV Uthappa,TT Bresnan,V Kohli,0,0,0,5,,1,2,1,-,1.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+7,RV Uthappa,TT Bresnan,V Kohli,0,0,0,5,,1,3,2,-,2.0,caught,RV Uthappa,C Kieswetter,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+8,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,1,2,-,3.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+9,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,2,2,-,4.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+10,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,3,2,-,5.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+11,SK Raina,TT Bresnan,V Kohli,0,0,0,5,,0,4,2,-,6.0,0,,,1,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+12,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,3,2,-,1.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+13,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,4,2,-,2.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+14,V Kohli,ST Finn,SK Raina,0,0,0,5,,4,5,2,-,3.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+15,V Kohli,ST Finn,SK Raina,1,0,1,6,,5,6,2,-,4.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+16,SK Raina,ST Finn,V Kohli,0,0,0,6,,0,5,2,-,5.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+17,SK Raina,ST Finn,V Kohli,6,0,6,12,,6,6,2,-,6.0,0,,,2,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+18,V Kohli,TT Bresnan,SK Raina,0,0,0,12,,5,7,2,-,1.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+19,V Kohli,TT Bresnan,SK Raina,4,0,4,16,,9,8,2,-,2.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+20,V Kohli,TT Bresnan,SK Raina,0,0,0,16,,9,9,2,-,3.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+21,V Kohli,TT Bresnan,SK Raina,0,0,0,16,,9,10,2,-,4.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+22,V Kohli,TT Bresnan,SK Raina,4,0,4,20,,13,11,2,-,5.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+23,V Kohli,TT Bresnan,SK Raina,1,0,1,21,,14,12,2,-,6.0,0,,,3,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+24,V Kohli,JW Dernbach,SK Raina,0,0,0,21,,14,13,2,-,1.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+25,V Kohli,JW Dernbach,SK Raina,1,0,1,22,,15,14,2,-,2.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+26,SK Raina,JW Dernbach,V Kohli,0,0,0,22,,6,7,2,-,3.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+27,SK Raina,JW Dernbach,V Kohli,4,0,4,26,,10,8,2,-,4.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+28,SK Raina,JW Dernbach,V Kohli,0,0,0,26,,10,9,2,-,5.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+29,SK Raina,JW Dernbach,V Kohli,0,0,0,26,,10,10,2,-,6.0,0,,,4,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+30,V Kohli,TT Bresnan,SK Raina,0,0,0,26,,15,15,2,-,1.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+31,V Kohli,TT Bresnan,SK Raina,0,0,0,26,,15,16,3,-,2.0,caught,V Kohli,AD Hales,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+32,SK Raina,TT Bresnan,MK Tiwary,1,0,1,27,,11,11,3,-,3.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+33,MK Tiwary,TT Bresnan,SK Raina,1,0,1,28,,1,1,3,-,4.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Medium
+34,SK Raina,TT Bresnan,MK Tiwary,0,0,0,28,,11,12,3,-,5.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+35,SK Raina,TT Bresnan,MK Tiwary,4,0,4,32,,15,13,3,-,6.0,0,,,5,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Medium
+36,MK Tiwary,SR Patel,SK Raina,1,0,1,33,,2,2,3,-,1.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+37,SK Raina,SR Patel,MK Tiwary,0,1,1,34,,15,14,3,legbyes,2.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Left arm Orthodox
+38,MK Tiwary,SR Patel,SK Raina,2,0,2,36,,4,3,3,-,3.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+39,MK Tiwary,SR Patel,SK Raina,1,0,1,37,,5,4,3,-,4.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+40,SK Raina,SR Patel,MK Tiwary,0,0,0,37,,15,15,3,-,5.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Left arm Orthodox
+41,SK Raina,SR Patel,MK Tiwary,1,0,1,38,,16,16,3,-,6.0,0,,,6,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Left arm Orthodox
+42,SK Raina,GP Swann,MK Tiwary,4,0,4,42,,20,17,3,-,1.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Offbreak
+43,SK Raina,GP Swann,MK Tiwary,1,0,1,43,,21,18,3,-,2.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Offbreak
+44,MK Tiwary,GP Swann,SK Raina,1,0,1,44,,6,5,3,-,3.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Offbreak
+45,SK Raina,GP Swann,MK Tiwary,6,0,6,50,,27,19,3,-,4.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Offbreak
+46,SK Raina,GP Swann,MK Tiwary,2,0,2,52,,29,20,3,-,5.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Offbreak
+47,SK Raina,GP Swann,MK Tiwary,2,0,2,54,,31,21,3,-,6.0,0,,,7,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Offbreak
+48,MK Tiwary,SR Patel,SK Raina,0,0,0,54,,6,6,3,-,1.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+49,MK Tiwary,SR Patel,SK Raina,0,0,0,54,,6,7,3,-,2.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+50,MK Tiwary,SR Patel,SK Raina,2,0,2,56,,8,8,3,-,3.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+51,MK Tiwary,SR Patel,SK Raina,2,0,2,58,,10,9,3,-,4.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+52,MK Tiwary,SR Patel,SK Raina,2,0,2,60,,12,10,3,-,5.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+53,MK Tiwary,SR Patel,SK Raina,1,0,1,61,,13,11,3,-,6.0,0,,,8,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+54,MK Tiwary,JW Dernbach,SK Raina,1,0,1,62,,14,12,3,-,1.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+55,SK Raina,JW Dernbach,MK Tiwary,1,0,1,63,,32,22,3,-,2.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+56,MK Tiwary,JW Dernbach,SK Raina,1,0,1,64,,15,13,3,-,3.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+57,SK Raina,JW Dernbach,MK Tiwary,1,0,1,65,,33,23,3,-,4.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+58,MK Tiwary,JW Dernbach,SK Raina,0,0,0,65,,15,14,3,-,5.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+59,MK Tiwary,JW Dernbach,SK Raina,0,0,0,65,,15,15,3,-,6.0,0,,,9,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+60,SK Raina,SR Patel,MK Tiwary,0,0,0,65,,33,24,3,-,1.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Left arm Orthodox
+61,SK Raina,SR Patel,MK Tiwary,1,0,1,66,,34,25,3,-,2.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Left arm Orthodox
+62,MK Tiwary,SR Patel,SK Raina,0,0,0,66,,15,16,3,-,3.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+63,MK Tiwary,SR Patel,SK Raina,0,0,0,66,,15,17,4,-,4.0,bowled,MK Tiwary,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+64,MS Dhoni,SR Patel,SK Raina,0,0,0,66,,0,1,4,-,5.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+65,MS Dhoni,SR Patel,SK Raina,0,0,0,66,,0,2,4,-,6.0,0,,,10,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Left arm Orthodox
+66,SK Raina,ST Finn,MS Dhoni,4,0,4,70,,38,26,4,-,1.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+67,SK Raina,ST Finn,MS Dhoni,1,0,1,71,,39,27,4,-,2.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+68,MS Dhoni,ST Finn,SK Raina,3,0,3,74,,3,3,4,-,3.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Left hand Bat,Right arm Fast
+69,SK Raina,ST Finn,MS Dhoni,0,0,0,74,,39,28,4,-,4.0,0,,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+70,SK Raina,ST Finn,MS Dhoni,0,0,0,74,,39,29,5,-,5.0,caught,SK Raina,JM Bairstow,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+71,RA Jadeja,ST Finn,MS Dhoni,0,0,0,74,,0,1,6,-,6.0,bowled,RA Jadeja,,11,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Left hand Bat,Right hand Bat,Right arm Fast
+72,MS Dhoni,GP Swann,YK Pathan,0,0,0,74,,3,4,6,-,1.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+73,MS Dhoni,GP Swann,YK Pathan,1,0,1,75,,4,5,6,-,2.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+74,YK Pathan,GP Swann,MS Dhoni,0,0,0,75,,0,1,6,-,3.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+75,YK Pathan,GP Swann,MS Dhoni,4,0,4,79,,4,2,6,-,4.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+76,YK Pathan,GP Swann,MS Dhoni,1,0,1,80,,5,3,6,-,5.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+77,MS Dhoni,GP Swann,YK Pathan,1,0,1,81,,5,6,6,-,6.0,0,,,12,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Offbreak
+78,MS Dhoni,ST Finn,YK Pathan,1,0,1,82,,6,7,6,-,1.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+79,YK Pathan,ST Finn,MS Dhoni,1,0,1,83,,6,4,6,-,2.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+80,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,8,6,-,3.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+81,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,9,6,-,4.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+82,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,10,6,-,5.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+83,MS Dhoni,ST Finn,YK Pathan,0,0,0,83,,6,11,6,-,6.0,0,,,13,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+84,YK Pathan,RS Bopara,MS Dhoni,0,0,0,83,,6,5,6,-,1.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+85,YK Pathan,RS Bopara,MS Dhoni,1,0,1,84,,7,6,6,-,2.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+86,MS Dhoni,RS Bopara,YK Pathan,0,0,0,84,,6,12,6,-,3.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+87,MS Dhoni,RS Bopara,YK Pathan,1,0,1,85,,7,13,6,-,4.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+88,YK Pathan,RS Bopara,MS Dhoni,2,0,2,87,,9,7,6,-,5.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+89,YK Pathan,RS Bopara,MS Dhoni,0,0,0,87,,9,8,6,-,6.0,0,,,14,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+90,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,87,,7,14,6,-,1.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+91,MS Dhoni,TT Bresnan,YK Pathan,1,0,1,88,,8,15,6,-,2.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+92,YK Pathan,TT Bresnan,MS Dhoni,1,0,1,89,,10,9,6,-,3.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+93,MS Dhoni,TT Bresnan,YK Pathan,2,0,2,91,,10,16,6,-,4.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+94,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,91,,10,17,6,-,5.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+95,MS Dhoni,TT Bresnan,YK Pathan,0,0,0,91,,10,18,6,-,6.0,0,,,15,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+96,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,10,6,-,1.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+97,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,11,6,-,2.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+98,YK Pathan,RS Bopara,MS Dhoni,0,0,0,91,,10,12,7,-,3.0,bowled,YK Pathan,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+99,P Kumar,RS Bopara,MS Dhoni,0,0,0,91,,0,1,7,-,4.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+100,P Kumar,RS Bopara,MS Dhoni,0,0,0,91,,0,2,8,-,5.0,bowled,P Kumar,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+101,R Ashwin,RS Bopara,MS Dhoni,0,0,0,91,,0,1,8,-,6.0,0,,,16,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+102,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,91,,10,19,8,-,1.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+103,MS Dhoni,JW Dernbach,R Ashwin,1,0,1,92,,11,20,8,-,2.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+104,R Ashwin,JW Dernbach,MS Dhoni,0,0,0,92,,0,2,8,-,3.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+105,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,93,,1,3,8,-,4.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+106,MS Dhoni,JW Dernbach,R Ashwin,1,0,1,94,,12,21,8,-,5.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+107,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,95,,2,4,8,-,6.0,0,,,17,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+108,R Ashwin,RS Bopara,MS Dhoni,4,0,4,99,,6,5,8,-,1.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+109,R Ashwin,RS Bopara,MS Dhoni,0,0,0,99,,6,6,8,-,2.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+110,R Ashwin,RS Bopara,MS Dhoni,0,1,1,100,,6,7,8,wides,2.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+111,R Ashwin,RS Bopara,MS Dhoni,1,0,1,101,,7,8,8,-,3.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+112,MS Dhoni,RS Bopara,R Ashwin,1,0,1,102,,13,22,8,-,4.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+113,R Ashwin,RS Bopara,MS Dhoni,4,0,4,106,,11,9,8,-,5.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+114,R Ashwin,RS Bopara,MS Dhoni,1,0,1,107,,12,10,8,-,6.0,0,,,18,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Medium
+115,R Ashwin,JW Dernbach,MS Dhoni,4,0,4,111,,16,11,8,-,1.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+116,R Ashwin,JW Dernbach,MS Dhoni,1,0,1,112,,17,12,8,-,2.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+117,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,112,,13,23,8,-,3.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+118,MS Dhoni,JW Dernbach,R Ashwin,2,0,2,114,,15,24,8,-,4.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+119,MS Dhoni,JW Dernbach,R Ashwin,6,0,6,120,,21,25,8,-,5.0,0,,,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast
+120,MS Dhoni,JW Dernbach,R Ashwin,0,0,0,120,,21,26,9,-,6.0,run out,MS Dhoni,JW Dernbach,19,bat,India,1,Eden Gardens,2011,10,India_England_2011-10-29,England,India,England,False,120,Right hand Bat,Right hand Bat,Right arm Fast

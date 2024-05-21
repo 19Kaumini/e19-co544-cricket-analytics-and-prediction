@@ -1,106 +1,106 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,G Gambhir,Raza Hasan,V Sehwag,0,1,1,1,127,0,1,0,wides,0.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-1,G Gambhir,Raza Hasan,V Sehwag,0,0,0,1,127,0,2,0,-,1.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-2,G Gambhir,Raza Hasan,V Sehwag,0,0,0,1,127,0,3,1,-,2.0,caught and bowled,G Gambhir,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-3,V Kohli,Raza Hasan,V Sehwag,0,0,0,1,127,0,1,1,-,3.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-4,V Kohli,Raza Hasan,V Sehwag,0,0,0,1,127,0,2,1,-,4.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-5,V Kohli,Raza Hasan,V Sehwag,4,0,4,5,123,4,3,1,-,5.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-6,V Kohli,Raza Hasan,V Sehwag,1,0,1,6,122,5,4,1,-,6.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-7,V Kohli,Umar Gul,V Sehwag,0,0,0,6,122,5,5,1,-,1.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-8,V Kohli,Umar Gul,V Sehwag,1,0,1,7,121,6,6,1,-,2.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-9,V Sehwag,Umar Gul,V Kohli,0,0,0,7,121,0,1,1,-,3.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-10,V Sehwag,Umar Gul,V Kohli,1,0,1,8,120,1,2,1,-,4.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-11,V Kohli,Umar Gul,V Sehwag,1,0,1,9,119,7,7,1,-,5.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-12,V Sehwag,Umar Gul,V Kohli,0,0,0,9,119,1,3,1,-,6.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-13,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,8,1,-,1.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-14,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,9,1,-,2.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-15,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,10,1,-,3.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-16,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,11,1,-,4.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-17,V Kohli,Raza Hasan,V Sehwag,1,0,1,10,118,8,12,1,-,5.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-18,V Sehwag,Raza Hasan,V Kohli,1,0,1,11,117,2,4,1,-,6.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-19,V Sehwag,Umar Gul,V Kohli,4,0,4,15,113,6,5,1,-,1.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-20,V Sehwag,Umar Gul,V Kohli,0,0,0,15,113,6,6,1,-,2.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-21,V Sehwag,Umar Gul,V Kohli,0,0,0,15,113,6,7,1,-,3.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-22,V Sehwag,Umar Gul,V Kohli,1,0,1,16,112,7,8,1,-,4.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-23,V Kohli,Umar Gul,V Sehwag,1,0,1,17,111,9,13,1,-,5.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-24,V Sehwag,Umar Gul,V Kohli,0,1,1,18,110,7,9,1,wides,5.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-25,V Sehwag,Umar Gul,V Kohli,4,0,4,22,106,11,10,1,-,6.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-26,V Kohli,Raza Hasan,V Sehwag,1,0,1,23,105,10,14,1,-,1.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-27,V Sehwag,Raza Hasan,V Kohli,1,0,1,24,104,12,11,1,-,2.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-28,V Kohli,Raza Hasan,V Sehwag,0,0,0,24,104,10,15,1,-,3.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-29,V Kohli,Raza Hasan,V Sehwag,1,0,1,25,103,11,16,1,-,4.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-30,V Sehwag,Raza Hasan,V Kohli,4,0,4,29,99,16,12,1,-,5.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-31,V Sehwag,Raza Hasan,V Kohli,1,0,1,30,98,17,13,1,-,6.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-32,V Sehwag,Saeed Ajmal,V Kohli,0,0,0,30,98,17,14,1,-,1.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-33,V Sehwag,Saeed Ajmal,V Kohli,1,0,1,31,97,18,15,1,-,2.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-34,V Kohli,Saeed Ajmal,V Sehwag,0,0,0,31,97,11,17,1,-,3.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-35,V Kohli,Saeed Ajmal,V Sehwag,4,0,4,35,93,15,18,1,-,4.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-36,V Kohli,Saeed Ajmal,V Sehwag,1,0,1,36,92,16,19,1,-,5.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-37,V Sehwag,Saeed Ajmal,V Kohli,0,0,0,36,92,18,16,1,-,6.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-38,V Kohli,Shahid Afridi,V Sehwag,0,0,0,36,92,16,20,1,-,1.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-39,V Kohli,Shahid Afridi,V Sehwag,1,0,1,37,91,17,21,1,-,2.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-40,V Sehwag,Shahid Afridi,V Kohli,1,0,1,38,90,19,17,1,-,3.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-41,V Kohli,Shahid Afridi,V Sehwag,6,0,6,44,84,23,22,1,-,4.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-42,V Kohli,Shahid Afridi,V Sehwag,0,0,0,44,84,23,23,1,-,5.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-43,V Kohli,Shahid Afridi,V Sehwag,1,0,1,45,83,24,24,1,-,6.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-44,V Kohli,Raza Hasan,V Sehwag,1,0,1,46,82,25,25,1,-,1.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-45,V Sehwag,Raza Hasan,V Kohli,1,0,1,47,81,20,18,1,-,2.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-46,V Kohli,Raza Hasan,V Sehwag,1,0,1,48,80,26,26,1,-,3.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-47,V Sehwag,Raza Hasan,V Kohli,1,0,1,49,79,21,19,1,-,4.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-48,V Kohli,Raza Hasan,V Sehwag,1,0,1,50,78,27,27,1,-,5.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-49,V Sehwag,Raza Hasan,V Kohli,1,0,1,51,77,22,20,1,-,6.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-50,V Sehwag,Shahid Afridi,V Kohli,1,0,1,52,76,23,21,1,-,1.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-51,V Kohli,Shahid Afridi,V Sehwag,0,0,0,52,76,27,28,1,-,2.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-52,V Kohli,Shahid Afridi,V Sehwag,4,0,4,56,72,31,29,1,-,3.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-53,V Kohli,Shahid Afridi,V Sehwag,1,0,1,57,71,32,30,1,-,4.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-54,V Sehwag,Shahid Afridi,V Kohli,1,0,1,58,70,24,22,1,-,5.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-55,V Kohli,Shahid Afridi,V Sehwag,1,0,1,59,69,33,31,1,-,6.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-56,V Kohli,Yasir Arafat,V Sehwag,4,0,4,63,65,37,32,1,-,1.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-57,V Kohli,Yasir Arafat,V Sehwag,4,0,4,67,61,41,33,1,-,2.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-58,V Kohli,Yasir Arafat,V Sehwag,1,0,1,68,60,42,34,1,-,3.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-59,V Sehwag,Yasir Arafat,V Kohli,1,0,1,69,59,25,23,1,-,4.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-60,V Kohli,Yasir Arafat,V Sehwag,0,0,0,69,59,42,35,1,-,5.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-61,V Kohli,Yasir Arafat,V Sehwag,1,0,1,70,58,43,36,1,-,6.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-62,V Kohli,Shahid Afridi,V Sehwag,1,0,1,71,57,44,37,1,-,1.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-63,V Sehwag,Shahid Afridi,V Kohli,4,0,4,75,53,29,24,1,-,2.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-64,V Sehwag,Shahid Afridi,V Kohli,0,0,0,75,53,29,25,2,-,3.0,caught,V Sehwag,Umar Gul,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-65,Yuvraj Singh,Shahid Afridi,V Kohli,0,0,0,75,53,0,1,2,-,4.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-66,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,76,52,1,2,2,-,5.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-67,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,77,51,45,38,2,-,6.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-68,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,77,51,45,39,2,-,1.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-69,V Kohli,Saeed Ajmal,Yuvraj Singh,4,0,4,81,47,49,40,2,-,2.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-70,V Kohli,Saeed Ajmal,Yuvraj Singh,2,0,2,83,45,51,41,2,-,3.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-71,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,84,44,52,42,2,-,4.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-72,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,84,44,1,3,2,-,5.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-73,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,84,44,1,4,2,-,6.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-74,V Kohli,Mohammad Hafeez,Yuvraj Singh,0,0,0,84,44,52,43,2,-,1.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-75,V Kohli,Mohammad Hafeez,Yuvraj Singh,0,0,0,84,44,52,44,2,-,2.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-76,V Kohli,Mohammad Hafeez,Yuvraj Singh,1,0,1,85,43,53,45,2,-,3.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-77,Yuvraj Singh,Mohammad Hafeez,V Kohli,1,0,1,86,42,2,5,2,-,4.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-78,V Kohli,Mohammad Hafeez,Yuvraj Singh,1,0,1,87,41,54,46,2,-,5.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-79,Yuvraj Singh,Mohammad Hafeez,V Kohli,4,0,4,91,37,6,6,2,-,6.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-80,V Kohli,Saeed Ajmal,Yuvraj Singh,6,0,6,97,31,60,47,2,-,1.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-81,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,98,30,61,48,2,-,2.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-82,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,98,30,6,7,2,-,3.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-83,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,99,29,7,8,2,-,4.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-84,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,99,29,61,49,2,-,5.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-85,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,100,28,62,50,2,-,6.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-86,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,101,27,63,51,2,-,1.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-87,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,102,26,8,9,2,-,2.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-88,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,103,25,64,52,2,-,3.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-89,Yuvraj Singh,Shahid Afridi,V Kohli,4,0,4,107,21,12,10,2,-,4.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-90,Yuvraj Singh,Shahid Afridi,V Kohli,2,0,2,109,19,14,11,2,-,5.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-91,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,110,18,15,12,2,-,6.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-92,Yuvraj Singh,Umar Gul,V Kohli,1,0,1,111,17,16,13,2,-,1.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-93,V Kohli,Umar Gul,Yuvraj Singh,1,0,1,112,16,65,53,2,-,2.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-94,Yuvraj Singh,Umar Gul,V Kohli,1,0,1,113,15,17,14,2,-,3.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-95,V Kohli,Umar Gul,Yuvraj Singh,4,0,4,117,11,69,54,2,-,4.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-96,V Kohli,Umar Gul,Yuvraj Singh,2,0,2,119,9,71,55,2,-,5.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-97,V Kohli,Umar Gul,Yuvraj Singh,2,1,3,122,6,73,56,2,noballs,5.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-98,V Kohli,Umar Gul,Yuvraj Singh,4,0,4,126,2,77,57,2,-,6.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-99,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,127,1,18,15,2,-,1.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-100,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,58,2,-,2.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-101,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,59,2,-,3.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-102,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,60,2,-,4.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-103,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,128,0,78,61,2,-,5.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
-104,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,129,-1,19,16,2,-,6.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,G Gambhir,Raza Hasan,V Sehwag,0,1,1,1,127,0,1,0,wides,0.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Left arm Orthodox
+1,G Gambhir,Raza Hasan,V Sehwag,0,0,0,1,127,0,2,0,-,1.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Left arm Orthodox
+2,G Gambhir,Raza Hasan,V Sehwag,0,0,0,1,127,0,3,1,-,2.0,caught and bowled,G Gambhir,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Left arm Orthodox
+3,V Kohli,Raza Hasan,V Sehwag,0,0,0,1,127,0,1,1,-,3.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+4,V Kohli,Raza Hasan,V Sehwag,0,0,0,1,127,0,2,1,-,4.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+5,V Kohli,Raza Hasan,V Sehwag,4,0,4,5,123,4,3,1,-,5.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+6,V Kohli,Raza Hasan,V Sehwag,1,0,1,6,122,5,4,1,-,6.0,0,,,0,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+7,V Kohli,Umar Gul,V Sehwag,0,0,0,6,122,5,5,1,-,1.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+8,V Kohli,Umar Gul,V Sehwag,1,0,1,7,121,6,6,1,-,2.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+9,V Sehwag,Umar Gul,V Kohli,0,0,0,7,121,0,1,1,-,3.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+10,V Sehwag,Umar Gul,V Kohli,1,0,1,8,120,1,2,1,-,4.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+11,V Kohli,Umar Gul,V Sehwag,1,0,1,9,119,7,7,1,-,5.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+12,V Sehwag,Umar Gul,V Kohli,0,0,0,9,119,1,3,1,-,6.0,0,,,1,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+13,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,8,1,-,1.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+14,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,9,1,-,2.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+15,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,10,1,-,3.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+16,V Kohli,Raza Hasan,V Sehwag,0,0,0,9,119,7,11,1,-,4.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+17,V Kohli,Raza Hasan,V Sehwag,1,0,1,10,118,8,12,1,-,5.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+18,V Sehwag,Raza Hasan,V Kohli,1,0,1,11,117,2,4,1,-,6.0,0,,,2,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+19,V Sehwag,Umar Gul,V Kohli,4,0,4,15,113,6,5,1,-,1.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+20,V Sehwag,Umar Gul,V Kohli,0,0,0,15,113,6,6,1,-,2.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+21,V Sehwag,Umar Gul,V Kohli,0,0,0,15,113,6,7,1,-,3.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+22,V Sehwag,Umar Gul,V Kohli,1,0,1,16,112,7,8,1,-,4.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+23,V Kohli,Umar Gul,V Sehwag,1,0,1,17,111,9,13,1,-,5.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+24,V Sehwag,Umar Gul,V Kohli,0,1,1,18,110,7,9,1,wides,5.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+25,V Sehwag,Umar Gul,V Kohli,4,0,4,22,106,11,10,1,-,6.0,0,,,3,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+26,V Kohli,Raza Hasan,V Sehwag,1,0,1,23,105,10,14,1,-,1.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+27,V Sehwag,Raza Hasan,V Kohli,1,0,1,24,104,12,11,1,-,2.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+28,V Kohli,Raza Hasan,V Sehwag,0,0,0,24,104,10,15,1,-,3.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+29,V Kohli,Raza Hasan,V Sehwag,1,0,1,25,103,11,16,1,-,4.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+30,V Sehwag,Raza Hasan,V Kohli,4,0,4,29,99,16,12,1,-,5.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+31,V Sehwag,Raza Hasan,V Kohli,1,0,1,30,98,17,13,1,-,6.0,0,,,4,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+32,V Sehwag,Saeed Ajmal,V Kohli,0,0,0,30,98,17,14,1,-,1.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+33,V Sehwag,Saeed Ajmal,V Kohli,1,0,1,31,97,18,15,1,-,2.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+34,V Kohli,Saeed Ajmal,V Sehwag,0,0,0,31,97,11,17,1,-,3.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+35,V Kohli,Saeed Ajmal,V Sehwag,4,0,4,35,93,15,18,1,-,4.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+36,V Kohli,Saeed Ajmal,V Sehwag,1,0,1,36,92,16,19,1,-,5.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+37,V Sehwag,Saeed Ajmal,V Kohli,0,0,0,36,92,18,16,1,-,6.0,0,,,5,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Offbreak
+38,V Kohli,Shahid Afridi,V Sehwag,0,0,0,36,92,16,20,1,-,1.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+39,V Kohli,Shahid Afridi,V Sehwag,1,0,1,37,91,17,21,1,-,2.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+40,V Sehwag,Shahid Afridi,V Kohli,1,0,1,38,90,19,17,1,-,3.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+41,V Kohli,Shahid Afridi,V Sehwag,6,0,6,44,84,23,22,1,-,4.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+42,V Kohli,Shahid Afridi,V Sehwag,0,0,0,44,84,23,23,1,-,5.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+43,V Kohli,Shahid Afridi,V Sehwag,1,0,1,45,83,24,24,1,-,6.0,0,,,6,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+44,V Kohli,Raza Hasan,V Sehwag,1,0,1,46,82,25,25,1,-,1.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+45,V Sehwag,Raza Hasan,V Kohli,1,0,1,47,81,20,18,1,-,2.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+46,V Kohli,Raza Hasan,V Sehwag,1,0,1,48,80,26,26,1,-,3.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+47,V Sehwag,Raza Hasan,V Kohli,1,0,1,49,79,21,19,1,-,4.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+48,V Kohli,Raza Hasan,V Sehwag,1,0,1,50,78,27,27,1,-,5.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+49,V Sehwag,Raza Hasan,V Kohli,1,0,1,51,77,22,20,1,-,6.0,0,,,7,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Left arm Orthodox
+50,V Sehwag,Shahid Afridi,V Kohli,1,0,1,52,76,23,21,1,-,1.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+51,V Kohli,Shahid Afridi,V Sehwag,0,0,0,52,76,27,28,1,-,2.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+52,V Kohli,Shahid Afridi,V Sehwag,4,0,4,56,72,31,29,1,-,3.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+53,V Kohli,Shahid Afridi,V Sehwag,1,0,1,57,71,32,30,1,-,4.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+54,V Sehwag,Shahid Afridi,V Kohli,1,0,1,58,70,24,22,1,-,5.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+55,V Kohli,Shahid Afridi,V Sehwag,1,0,1,59,69,33,31,1,-,6.0,0,,,8,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+56,V Kohli,Yasir Arafat,V Sehwag,4,0,4,63,65,37,32,1,-,1.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+57,V Kohli,Yasir Arafat,V Sehwag,4,0,4,67,61,41,33,1,-,2.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+58,V Kohli,Yasir Arafat,V Sehwag,1,0,1,68,60,42,34,1,-,3.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+59,V Sehwag,Yasir Arafat,V Kohli,1,0,1,69,59,25,23,1,-,4.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+60,V Kohli,Yasir Arafat,V Sehwag,0,0,0,69,59,42,35,1,-,5.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+61,V Kohli,Yasir Arafat,V Sehwag,1,0,1,70,58,43,36,1,-,6.0,0,,,9,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Fast
+62,V Kohli,Shahid Afridi,V Sehwag,1,0,1,71,57,44,37,1,-,1.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+63,V Sehwag,Shahid Afridi,V Kohli,4,0,4,75,53,29,24,1,-,2.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+64,V Sehwag,Shahid Afridi,V Kohli,0,0,0,75,53,29,25,2,-,3.0,caught,V Sehwag,Umar Gul,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Right hand Bat,Right arm Legbreak
+65,Yuvraj Singh,Shahid Afridi,V Kohli,0,0,0,75,53,0,1,2,-,4.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+66,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,76,52,1,2,2,-,5.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+67,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,77,51,45,38,2,-,6.0,0,,,10,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Legbreak
+68,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,77,51,45,39,2,-,1.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+69,V Kohli,Saeed Ajmal,Yuvraj Singh,4,0,4,81,47,49,40,2,-,2.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+70,V Kohli,Saeed Ajmal,Yuvraj Singh,2,0,2,83,45,51,41,2,-,3.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+71,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,84,44,52,42,2,-,4.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+72,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,84,44,1,3,2,-,5.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+73,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,84,44,1,4,2,-,6.0,0,,,11,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+74,V Kohli,Mohammad Hafeez,Yuvraj Singh,0,0,0,84,44,52,43,2,-,1.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+75,V Kohli,Mohammad Hafeez,Yuvraj Singh,0,0,0,84,44,52,44,2,-,2.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+76,V Kohli,Mohammad Hafeez,Yuvraj Singh,1,0,1,85,43,53,45,2,-,3.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+77,Yuvraj Singh,Mohammad Hafeez,V Kohli,1,0,1,86,42,2,5,2,-,4.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+78,V Kohli,Mohammad Hafeez,Yuvraj Singh,1,0,1,87,41,54,46,2,-,5.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+79,Yuvraj Singh,Mohammad Hafeez,V Kohli,4,0,4,91,37,6,6,2,-,6.0,0,,,12,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+80,V Kohli,Saeed Ajmal,Yuvraj Singh,6,0,6,97,31,60,47,2,-,1.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+81,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,98,30,61,48,2,-,2.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+82,Yuvraj Singh,Saeed Ajmal,V Kohli,0,0,0,98,30,6,7,2,-,3.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+83,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,99,29,7,8,2,-,4.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+84,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,99,29,61,49,2,-,5.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+85,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,100,28,62,50,2,-,6.0,0,,,13,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+86,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,101,27,63,51,2,-,1.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Legbreak
+87,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,102,26,8,9,2,-,2.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+88,V Kohli,Shahid Afridi,Yuvraj Singh,1,0,1,103,25,64,52,2,-,3.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Legbreak
+89,Yuvraj Singh,Shahid Afridi,V Kohli,4,0,4,107,21,12,10,2,-,4.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+90,Yuvraj Singh,Shahid Afridi,V Kohli,2,0,2,109,19,14,11,2,-,5.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+91,Yuvraj Singh,Shahid Afridi,V Kohli,1,0,1,110,18,15,12,2,-,6.0,0,,,14,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Legbreak
+92,Yuvraj Singh,Umar Gul,V Kohli,1,0,1,111,17,16,13,2,-,1.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Fast
+93,V Kohli,Umar Gul,Yuvraj Singh,1,0,1,112,16,65,53,2,-,2.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Fast
+94,Yuvraj Singh,Umar Gul,V Kohli,1,0,1,113,15,17,14,2,-,3.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Fast
+95,V Kohli,Umar Gul,Yuvraj Singh,4,0,4,117,11,69,54,2,-,4.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Fast
+96,V Kohli,Umar Gul,Yuvraj Singh,2,0,2,119,9,71,55,2,-,5.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Fast
+97,V Kohli,Umar Gul,Yuvraj Singh,2,1,3,122,6,73,56,2,noballs,5.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Fast
+98,V Kohli,Umar Gul,Yuvraj Singh,4,0,4,126,2,77,57,2,-,6.0,0,,,15,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Fast
+99,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,127,1,18,15,2,-,1.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak
+100,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,58,2,-,2.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+101,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,59,2,-,3.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+102,V Kohli,Saeed Ajmal,Yuvraj Singh,0,0,0,127,1,77,60,2,-,4.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+103,V Kohli,Saeed Ajmal,Yuvraj Singh,1,0,1,128,0,78,61,2,-,5.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Right hand Bat,Left hand Bat,Right arm Offbreak
+104,Yuvraj Singh,Saeed Ajmal,V Kohli,1,0,1,129,-1,19,16,2,-,6.0,0,,,16,bat,Pakistan,2,R Premadasa Stadium,2012,09,India_Pakistan_2012-09-30,India,India,Pakistan,True,129,Left hand Bat,Right hand Bat,Right arm Offbreak

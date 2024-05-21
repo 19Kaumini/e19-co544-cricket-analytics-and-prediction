@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,1,0,-,1.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-1,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,2,0,-,2.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-2,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,3,0,-,3.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-3,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,4,0,-,4.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-4,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,5,0,-,5.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-5,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,6,0,-,6.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-6,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,1,0,-,1.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-7,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,2,0,-,2.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-8,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,3,0,-,3.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-9,RG Sharma,TL Chatara,KL Rahul,1,0,1,1,,1,4,0,-,4.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-10,KL Rahul,TL Chatara,RG Sharma,1,0,1,2,,1,7,0,-,5.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-11,RG Sharma,TL Chatara,KL Rahul,4,0,4,6,,5,5,0,-,6.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-12,KL Rahul,R Ngarava,RG Sharma,3,0,3,9,,4,8,0,-,1.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-13,RG Sharma,R Ngarava,KL Rahul,0,0,0,9,,5,6,0,-,2.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-14,RG Sharma,R Ngarava,KL Rahul,1,0,1,10,,6,7,0,-,3.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-15,KL Rahul,R Ngarava,RG Sharma,6,0,6,16,,10,9,0,-,4.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-16,KL Rahul,R Ngarava,RG Sharma,1,0,1,17,,11,10,0,-,5.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-17,RG Sharma,R Ngarava,KL Rahul,1,0,1,18,,7,8,0,-,6.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-18,RG Sharma,B Muzarabani,KL Rahul,2,0,2,20,,9,9,0,-,1.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-19,RG Sharma,B Muzarabani,KL Rahul,2,0,2,22,,11,10,0,-,2.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-20,RG Sharma,B Muzarabani,KL Rahul,0,1,1,23,,11,11,0,wides,2.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-21,RG Sharma,B Muzarabani,KL Rahul,0,0,0,23,,11,12,0,-,3.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-22,RG Sharma,B Muzarabani,KL Rahul,4,0,4,27,,15,13,0,-,4.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-23,RG Sharma,B Muzarabani,KL Rahul,0,0,0,27,,15,14,1,-,5.0,3,caught,RG Sharma,WP Masakadza,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-24,V Kohli,B Muzarabani,KL Rahul,4,0,4,31,,4,1,1,-,6.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-25,KL Rahul,TL Chatara,V Kohli,1,0,1,32,,12,11,1,-,1.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-26,V Kohli,TL Chatara,KL Rahul,0,0,0,32,,4,2,1,-,2.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-27,V Kohli,TL Chatara,KL Rahul,1,0,1,33,,5,3,1,-,3.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-28,KL Rahul,TL Chatara,V Kohli,1,0,1,34,,13,12,1,-,4.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-29,V Kohli,TL Chatara,KL Rahul,1,0,1,35,,6,4,1,-,5.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-30,KL Rahul,TL Chatara,V Kohli,1,0,1,36,,14,13,1,-,6.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-31,KL Rahul,B Muzarabani,V Kohli,0,0,0,36,,14,14,1,-,1.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-32,KL Rahul,B Muzarabani,V Kohli,4,0,4,40,,18,15,1,-,2.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-33,KL Rahul,B Muzarabani,V Kohli,1,0,1,41,,19,16,1,-,3.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-34,V Kohli,B Muzarabani,KL Rahul,3,0,3,44,,9,5,1,-,4.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-35,KL Rahul,B Muzarabani,V Kohli,1,0,1,45,,20,17,1,-,5.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-36,V Kohli,B Muzarabani,KL Rahul,1,0,1,46,,10,6,1,-,6.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-37,V Kohli,WP Masakadza,KL Rahul,0,0,0,46,,10,7,1,-,1.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-38,V Kohli,WP Masakadza,KL Rahul,4,0,4,50,,14,8,1,-,2.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-39,V Kohli,WP Masakadza,KL Rahul,2,0,2,52,,16,9,1,-,3.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-40,V Kohli,WP Masakadza,KL Rahul,1,0,1,53,,17,10,1,-,4.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-41,KL Rahul,WP Masakadza,V Kohli,0,0,0,53,,20,18,1,-,5.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-42,KL Rahul,WP Masakadza,V Kohli,1,0,1,54,,21,19,1,-,6.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-43,KL Rahul,RP Burl,V Kohli,1,0,1,55,,22,20,1,-,1.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-44,V Kohli,RP Burl,KL Rahul,1,0,1,56,,18,11,1,-,2.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-45,KL Rahul,RP Burl,V Kohli,2,0,2,58,,24,21,1,-,3.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-46,KL Rahul,RP Burl,V Kohli,6,0,6,64,,30,22,1,-,4.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-47,KL Rahul,RP Burl,V Kohli,4,0,4,68,,34,23,1,-,5.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-48,KL Rahul,RP Burl,V Kohli,0,0,0,68,,34,24,1,-,6.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-49,V Kohli,Sikandar Raza,KL Rahul,0,0,0,68,,18,12,1,-,1.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-50,V Kohli,Sikandar Raza,KL Rahul,0,0,0,68,,18,13,1,-,2.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-51,V Kohli,Sikandar Raza,KL Rahul,1,0,1,69,,19,14,1,-,3.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-52,KL Rahul,Sikandar Raza,V Kohli,0,0,0,69,,34,25,1,-,4.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-53,KL Rahul,Sikandar Raza,V Kohli,1,0,1,70,,35,26,1,-,5.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-54,V Kohli,Sikandar Raza,KL Rahul,1,0,1,71,,20,15,1,-,6.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-55,V Kohli,TL Chatara,KL Rahul,1,0,1,72,,21,16,1,-,1.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-56,KL Rahul,TL Chatara,V Kohli,1,0,1,73,,36,27,1,-,2.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-57,V Kohli,TL Chatara,KL Rahul,1,0,1,74,,22,17,1,-,3.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-58,KL Rahul,TL Chatara,V Kohli,4,0,4,78,,40,28,1,-,4.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-59,KL Rahul,TL Chatara,V Kohli,1,0,1,79,,41,29,1,-,5.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-60,V Kohli,TL Chatara,KL Rahul,0,0,0,79,,22,18,1,-,6.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-61,KL Rahul,Sikandar Raza,V Kohli,1,0,1,80,,42,30,1,-,1.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-62,V Kohli,Sikandar Raza,KL Rahul,1,0,1,81,,23,19,1,-,2.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-63,KL Rahul,Sikandar Raza,V Kohli,1,0,1,82,,43,31,1,-,3.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-64,V Kohli,Sikandar Raza,KL Rahul,1,0,1,83,,24,20,1,-,4.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-65,KL Rahul,Sikandar Raza,V Kohli,1,0,1,84,,44,32,1,-,5.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-66,V Kohli,Sikandar Raza,KL Rahul,1,0,1,85,,25,21,1,-,6.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-67,V Kohli,SC Williams,KL Rahul,0,0,0,85,,25,22,1,-,1.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-68,V Kohli,SC Williams,KL Rahul,0,0,0,85,,25,23,1,-,2.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-69,V Kohli,SC Williams,KL Rahul,1,0,1,86,,26,24,1,-,3.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-70,KL Rahul,SC Williams,V Kohli,1,0,1,87,,45,33,1,-,4.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-71,V Kohli,SC Williams,KL Rahul,0,0,0,87,,26,25,2,-,5.0,11,caught,V Kohli,RP Burl,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-72,SA Yadav,SC Williams,KL Rahul,2,0,2,89,,2,1,2,-,6.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-73,KL Rahul,Sikandar Raza,SA Yadav,6,0,6,95,,51,34,2,-,1.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-74,KL Rahul,Sikandar Raza,SA Yadav,0,0,0,95,,51,35,3,-,2.0,12,caught,KL Rahul,WP Masakadza,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-75,RR Pant,Sikandar Raza,SA Yadav,1,0,1,96,,1,1,3,-,3.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-76,SA Yadav,Sikandar Raza,RR Pant,1,0,1,97,,3,2,3,-,4.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-77,RR Pant,Sikandar Raza,SA Yadav,0,0,0,97,,1,2,3,-,5.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-78,RR Pant,Sikandar Raza,SA Yadav,1,0,1,98,,2,3,3,-,6.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-79,RR Pant,SC Williams,SA Yadav,1,0,1,99,,3,4,3,-,1.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-80,SA Yadav,SC Williams,RR Pant,1,0,1,100,,4,3,3,-,2.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-81,RR Pant,SC Williams,SA Yadav,0,1,1,101,,3,5,3,wides,2.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-82,RR Pant,SC Williams,SA Yadav,0,0,0,101,,3,6,4,-,3.0,13,caught,RR Pant,RP Burl,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-83,HH Pandya,SC Williams,SA Yadav,0,0,0,101,,0,1,4,-,4.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-84,HH Pandya,SC Williams,SA Yadav,0,1,1,102,,0,2,4,wides,4.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-85,HH Pandya,SC Williams,SA Yadav,0,0,0,102,,0,3,4,-,5.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-86,HH Pandya,SC Williams,SA Yadav,1,0,1,103,,1,4,4,-,6.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-87,HH Pandya,WP Masakadza,SA Yadav,0,1,1,104,,1,5,4,wides,0.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-88,HH Pandya,WP Masakadza,SA Yadav,0,0,0,104,,1,6,4,-,1.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-89,HH Pandya,WP Masakadza,SA Yadav,1,0,1,105,,2,7,4,-,2.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-90,SA Yadav,WP Masakadza,HH Pandya,0,0,0,105,,4,4,4,-,3.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-91,SA Yadav,WP Masakadza,HH Pandya,1,0,1,106,,5,5,4,-,4.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-92,HH Pandya,WP Masakadza,SA Yadav,1,0,1,107,,3,8,4,-,5.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-93,SA Yadav,WP Masakadza,HH Pandya,0,0,0,107,,5,6,4,-,6.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-94,HH Pandya,B Muzarabani,SA Yadav,1,0,1,108,,4,9,4,-,1.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-95,SA Yadav,B Muzarabani,HH Pandya,4,0,4,112,,9,7,4,-,2.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-96,SA Yadav,B Muzarabani,HH Pandya,4,0,4,116,,13,8,4,-,3.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-97,SA Yadav,B Muzarabani,HH Pandya,1,0,1,117,,14,9,4,-,4.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-98,HH Pandya,B Muzarabani,SA Yadav,4,0,4,121,,8,10,4,-,5.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-99,HH Pandya,B Muzarabani,SA Yadav,0,4,4,125,,8,11,4,legbyes,6.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-100,SA Yadav,R Ngarava,HH Pandya,4,0,4,129,,18,10,4,-,1.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-101,SA Yadav,R Ngarava,HH Pandya,0,0,0,129,,18,11,4,-,2.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-102,SA Yadav,R Ngarava,HH Pandya,6,0,6,135,,24,12,4,-,3.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-103,SA Yadav,R Ngarava,HH Pandya,0,1,1,136,,24,13,4,legbyes,4.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-104,HH Pandya,R Ngarava,SA Yadav,1,0,1,137,,9,12,4,-,5.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-105,SA Yadav,R Ngarava,HH Pandya,0,0,0,137,,24,14,4,-,6.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-106,HH Pandya,TL Chatara,SA Yadav,1,0,1,138,,10,13,4,-,1.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-107,SA Yadav,TL Chatara,HH Pandya,4,0,4,142,,28,15,4,-,2.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-108,SA Yadav,TL Chatara,HH Pandya,2,0,2,144,,30,16,4,-,3.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-109,SA Yadav,TL Chatara,HH Pandya,1,0,1,145,,31,17,4,-,4.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-110,HH Pandya,TL Chatara,SA Yadav,1,0,1,146,,11,14,4,-,5.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-111,SA Yadav,TL Chatara,HH Pandya,6,0,6,152,,37,18,4,-,6.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-112,HH Pandya,B Muzarabani,SA Yadav,4,0,4,156,,15,15,4,-,1.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-113,HH Pandya,B Muzarabani,SA Yadav,2,0,2,158,,17,16,4,-,2.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-114,HH Pandya,B Muzarabani,SA Yadav,1,0,1,159,,18,17,4,-,3.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-115,SA Yadav,B Muzarabani,HH Pandya,4,0,4,163,,41,19,4,-,4.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-116,SA Yadav,B Muzarabani,HH Pandya,2,0,2,165,,43,20,4,-,5.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-117,SA Yadav,B Muzarabani,HH Pandya,0,0,0,165,,43,21,4,-,6.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-118,HH Pandya,R Ngarava,SA Yadav,0,1,1,166,,18,18,4,noballs,0.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-119,HH Pandya,R Ngarava,SA Yadav,0,0,0,166,,18,19,4,-,1.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-120,HH Pandya,R Ngarava,SA Yadav,0,0,0,166,,18,20,5,-,2.0,19,caught,HH Pandya,B Muzarabani,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-121,AR Patel,R Ngarava,SA Yadav,0,2,2,168,,0,1,5,wides,2.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-122,SA Yadav,R Ngarava,AR Patel,6,0,6,174,,49,22,5,-,3.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-123,SA Yadav,R Ngarava,AR Patel,2,0,2,176,,51,23,5,-,4.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-124,SA Yadav,R Ngarava,AR Patel,4,0,4,180,,55,24,5,-,5.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
-125,SA Yadav,R Ngarava,AR Patel,6,0,6,186,,61,25,5,-,6.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,1,0,-,1.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+1,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,2,0,-,2.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+2,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,3,0,-,3.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+3,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,4,0,-,4.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+4,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,5,0,-,5.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+5,KL Rahul,R Ngarava,RG Sharma,0,0,0,0,,0,6,0,-,6.0,0,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+6,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,1,0,-,1.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+7,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,2,0,-,2.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+8,RG Sharma,TL Chatara,KL Rahul,0,0,0,0,,0,3,0,-,3.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+9,RG Sharma,TL Chatara,KL Rahul,1,0,1,1,,1,4,0,-,4.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+10,KL Rahul,TL Chatara,RG Sharma,1,0,1,2,,1,7,0,-,5.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+11,RG Sharma,TL Chatara,KL Rahul,4,0,4,6,,5,5,0,-,6.0,1,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+12,KL Rahul,R Ngarava,RG Sharma,3,0,3,9,,4,8,0,-,1.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+13,RG Sharma,R Ngarava,KL Rahul,0,0,0,9,,5,6,0,-,2.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Fast
+14,RG Sharma,R Ngarava,KL Rahul,1,0,1,10,,6,7,0,-,3.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Fast
+15,KL Rahul,R Ngarava,RG Sharma,6,0,6,16,,10,9,0,-,4.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+16,KL Rahul,R Ngarava,RG Sharma,1,0,1,17,,11,10,0,-,5.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Fast
+17,RG Sharma,R Ngarava,KL Rahul,1,0,1,18,,7,8,0,-,6.0,2,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Fast
+18,RG Sharma,B Muzarabani,KL Rahul,2,0,2,20,,9,9,0,-,1.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+19,RG Sharma,B Muzarabani,KL Rahul,2,0,2,22,,11,10,0,-,2.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+20,RG Sharma,B Muzarabani,KL Rahul,0,1,1,23,,11,11,0,wides,2.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+21,RG Sharma,B Muzarabani,KL Rahul,0,0,0,23,,11,12,0,-,3.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+22,RG Sharma,B Muzarabani,KL Rahul,4,0,4,27,,15,13,0,-,4.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+23,RG Sharma,B Muzarabani,KL Rahul,0,0,0,27,,15,14,1,-,5.0,3,caught,RG Sharma,WP Masakadza,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+24,V Kohli,B Muzarabani,KL Rahul,4,0,4,31,,4,1,1,-,6.0,3,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+25,KL Rahul,TL Chatara,V Kohli,1,0,1,32,,12,11,1,-,1.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+26,V Kohli,TL Chatara,KL Rahul,0,0,0,32,,4,2,1,-,2.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+27,V Kohli,TL Chatara,KL Rahul,1,0,1,33,,5,3,1,-,3.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+28,KL Rahul,TL Chatara,V Kohli,1,0,1,34,,13,12,1,-,4.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+29,V Kohli,TL Chatara,KL Rahul,1,0,1,35,,6,4,1,-,5.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+30,KL Rahul,TL Chatara,V Kohli,1,0,1,36,,14,13,1,-,6.0,4,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+31,KL Rahul,B Muzarabani,V Kohli,0,0,0,36,,14,14,1,-,1.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+32,KL Rahul,B Muzarabani,V Kohli,4,0,4,40,,18,15,1,-,2.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+33,KL Rahul,B Muzarabani,V Kohli,1,0,1,41,,19,16,1,-,3.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+34,V Kohli,B Muzarabani,KL Rahul,3,0,3,44,,9,5,1,-,4.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+35,KL Rahul,B Muzarabani,V Kohli,1,0,1,45,,20,17,1,-,5.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+36,V Kohli,B Muzarabani,KL Rahul,1,0,1,46,,10,6,1,-,6.0,5,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+37,V Kohli,WP Masakadza,KL Rahul,0,0,0,46,,10,7,1,-,1.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+38,V Kohli,WP Masakadza,KL Rahul,4,0,4,50,,14,8,1,-,2.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+39,V Kohli,WP Masakadza,KL Rahul,2,0,2,52,,16,9,1,-,3.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+40,V Kohli,WP Masakadza,KL Rahul,1,0,1,53,,17,10,1,-,4.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+41,KL Rahul,WP Masakadza,V Kohli,0,0,0,53,,20,18,1,-,5.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+42,KL Rahul,WP Masakadza,V Kohli,1,0,1,54,,21,19,1,-,6.0,6,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+43,KL Rahul,RP Burl,V Kohli,1,0,1,55,,22,20,1,-,1.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Legbreak
+44,V Kohli,RP Burl,KL Rahul,1,0,1,56,,18,11,1,-,2.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Legbreak
+45,KL Rahul,RP Burl,V Kohli,2,0,2,58,,24,21,1,-,3.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Legbreak
+46,KL Rahul,RP Burl,V Kohli,6,0,6,64,,30,22,1,-,4.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Legbreak
+47,KL Rahul,RP Burl,V Kohli,4,0,4,68,,34,23,1,-,5.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Legbreak
+48,KL Rahul,RP Burl,V Kohli,0,0,0,68,,34,24,1,-,6.0,7,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Legbreak
+49,V Kohli,Sikandar Raza,KL Rahul,0,0,0,68,,18,12,1,-,1.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+50,V Kohli,Sikandar Raza,KL Rahul,0,0,0,68,,18,13,1,-,2.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+51,V Kohli,Sikandar Raza,KL Rahul,1,0,1,69,,19,14,1,-,3.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+52,KL Rahul,Sikandar Raza,V Kohli,0,0,0,69,,34,25,1,-,4.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+53,KL Rahul,Sikandar Raza,V Kohli,1,0,1,70,,35,26,1,-,5.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+54,V Kohli,Sikandar Raza,KL Rahul,1,0,1,71,,20,15,1,-,6.0,8,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+55,V Kohli,TL Chatara,KL Rahul,1,0,1,72,,21,16,1,-,1.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+56,KL Rahul,TL Chatara,V Kohli,1,0,1,73,,36,27,1,-,2.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+57,V Kohli,TL Chatara,KL Rahul,1,0,1,74,,22,17,1,-,3.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+58,KL Rahul,TL Chatara,V Kohli,4,0,4,78,,40,28,1,-,4.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+59,KL Rahul,TL Chatara,V Kohli,1,0,1,79,,41,29,1,-,5.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Fast
+60,V Kohli,TL Chatara,KL Rahul,0,0,0,79,,22,18,1,-,6.0,9,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Fast
+61,KL Rahul,Sikandar Raza,V Kohli,1,0,1,80,,42,30,1,-,1.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+62,V Kohli,Sikandar Raza,KL Rahul,1,0,1,81,,23,19,1,-,2.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+63,KL Rahul,Sikandar Raza,V Kohli,1,0,1,82,,43,31,1,-,3.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+64,V Kohli,Sikandar Raza,KL Rahul,1,0,1,83,,24,20,1,-,4.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+65,KL Rahul,Sikandar Raza,V Kohli,1,0,1,84,,44,32,1,-,5.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+66,V Kohli,Sikandar Raza,KL Rahul,1,0,1,85,,25,21,1,-,6.0,10,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+67,V Kohli,SC Williams,KL Rahul,0,0,0,85,,25,22,1,-,1.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+68,V Kohli,SC Williams,KL Rahul,0,0,0,85,,25,23,1,-,2.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+69,V Kohli,SC Williams,KL Rahul,1,0,1,86,,26,24,1,-,3.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+70,KL Rahul,SC Williams,V Kohli,1,0,1,87,,45,33,1,-,4.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+71,V Kohli,SC Williams,KL Rahul,0,0,0,87,,26,25,2,-,5.0,11,caught,V Kohli,RP Burl,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+72,SA Yadav,SC Williams,KL Rahul,2,0,2,89,,2,1,2,-,6.0,11,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+73,KL Rahul,Sikandar Raza,SA Yadav,6,0,6,95,,51,34,2,-,1.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+74,KL Rahul,Sikandar Raza,SA Yadav,0,0,0,95,,51,35,3,-,2.0,12,caught,KL Rahul,WP Masakadza,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+75,RR Pant,Sikandar Raza,SA Yadav,1,0,1,96,,1,1,3,-,3.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+76,SA Yadav,Sikandar Raza,RR Pant,1,0,1,97,,3,2,3,-,4.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Right arm Offbreak
+77,RR Pant,Sikandar Raza,SA Yadav,0,0,0,97,,1,2,3,-,5.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+78,RR Pant,Sikandar Raza,SA Yadav,1,0,1,98,,2,3,3,-,6.0,12,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Right arm Offbreak
+79,RR Pant,SC Williams,SA Yadav,1,0,1,99,,3,4,3,-,1.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+80,SA Yadav,SC Williams,RR Pant,1,0,1,100,,4,3,3,-,2.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,,Left arm Orthodox
+81,RR Pant,SC Williams,SA Yadav,0,1,1,101,,3,5,3,wides,2.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+82,RR Pant,SC Williams,SA Yadav,0,0,0,101,,3,6,4,-,3.0,13,caught,RR Pant,RP Burl,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,,Right hand Bat,Left arm Orthodox
+83,HH Pandya,SC Williams,SA Yadav,0,0,0,101,,0,1,4,-,4.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+84,HH Pandya,SC Williams,SA Yadav,0,1,1,102,,0,2,4,wides,4.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+85,HH Pandya,SC Williams,SA Yadav,0,0,0,102,,0,3,4,-,5.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+86,HH Pandya,SC Williams,SA Yadav,1,0,1,103,,1,4,4,-,6.0,13,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+87,HH Pandya,WP Masakadza,SA Yadav,0,1,1,104,,1,5,4,wides,0.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+88,HH Pandya,WP Masakadza,SA Yadav,0,0,0,104,,1,6,4,-,1.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+89,HH Pandya,WP Masakadza,SA Yadav,1,0,1,105,,2,7,4,-,2.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+90,SA Yadav,WP Masakadza,HH Pandya,0,0,0,105,,4,4,4,-,3.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+91,SA Yadav,WP Masakadza,HH Pandya,1,0,1,106,,5,5,4,-,4.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+92,HH Pandya,WP Masakadza,SA Yadav,1,0,1,107,,3,8,4,-,5.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+93,SA Yadav,WP Masakadza,HH Pandya,0,0,0,107,,5,6,4,-,6.0,14,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Orthodox
+94,HH Pandya,B Muzarabani,SA Yadav,1,0,1,108,,4,9,4,-,1.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+95,SA Yadav,B Muzarabani,HH Pandya,4,0,4,112,,9,7,4,-,2.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+96,SA Yadav,B Muzarabani,HH Pandya,4,0,4,116,,13,8,4,-,3.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+97,SA Yadav,B Muzarabani,HH Pandya,1,0,1,117,,14,9,4,-,4.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+98,HH Pandya,B Muzarabani,SA Yadav,4,0,4,121,,8,10,4,-,5.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+99,HH Pandya,B Muzarabani,SA Yadav,0,4,4,125,,8,11,4,legbyes,6.0,15,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+100,SA Yadav,R Ngarava,HH Pandya,4,0,4,129,,18,10,4,-,1.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+101,SA Yadav,R Ngarava,HH Pandya,0,0,0,129,,18,11,4,-,2.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+102,SA Yadav,R Ngarava,HH Pandya,6,0,6,135,,24,12,4,-,3.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+103,SA Yadav,R Ngarava,HH Pandya,0,1,1,136,,24,13,4,legbyes,4.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+104,HH Pandya,R Ngarava,SA Yadav,1,0,1,137,,9,12,4,-,5.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+105,SA Yadav,R Ngarava,HH Pandya,0,0,0,137,,24,14,4,-,6.0,16,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+106,HH Pandya,TL Chatara,SA Yadav,1,0,1,138,,10,13,4,-,1.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+107,SA Yadav,TL Chatara,HH Pandya,4,0,4,142,,28,15,4,-,2.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+108,SA Yadav,TL Chatara,HH Pandya,2,0,2,144,,30,16,4,-,3.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+109,SA Yadav,TL Chatara,HH Pandya,1,0,1,145,,31,17,4,-,4.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+110,HH Pandya,TL Chatara,SA Yadav,1,0,1,146,,11,14,4,-,5.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+111,SA Yadav,TL Chatara,HH Pandya,6,0,6,152,,37,18,4,-,6.0,17,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+112,HH Pandya,B Muzarabani,SA Yadav,4,0,4,156,,15,15,4,-,1.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+113,HH Pandya,B Muzarabani,SA Yadav,2,0,2,158,,17,16,4,-,2.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+114,HH Pandya,B Muzarabani,SA Yadav,1,0,1,159,,18,17,4,-,3.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+115,SA Yadav,B Muzarabani,HH Pandya,4,0,4,163,,41,19,4,-,4.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+116,SA Yadav,B Muzarabani,HH Pandya,2,0,2,165,,43,20,4,-,5.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+117,SA Yadav,B Muzarabani,HH Pandya,0,0,0,165,,43,21,4,-,6.0,18,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Right arm Fast
+118,HH Pandya,R Ngarava,SA Yadav,0,1,1,166,,18,18,4,noballs,0.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+119,HH Pandya,R Ngarava,SA Yadav,0,0,0,166,,18,19,4,-,1.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+120,HH Pandya,R Ngarava,SA Yadav,0,0,0,166,,18,20,5,-,2.0,19,caught,HH Pandya,B Muzarabani,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Right hand Bat,Left arm Fast
+121,AR Patel,R Ngarava,SA Yadav,0,2,2,168,,0,1,5,wides,2.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Left hand Bat,Right hand Bat,Left arm Fast
+122,SA Yadav,R Ngarava,AR Patel,6,0,6,174,,49,22,5,-,3.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Left hand Bat,Left arm Fast
+123,SA Yadav,R Ngarava,AR Patel,2,0,2,176,,51,23,5,-,4.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Left hand Bat,Left arm Fast
+124,SA Yadav,R Ngarava,AR Patel,4,0,4,180,,55,24,5,-,5.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Left hand Bat,Left arm Fast
+125,SA Yadav,R Ngarava,AR Patel,6,0,6,186,,61,25,5,-,6.0,19,0,,,bat,India,1,Melbourne Cricket Ground,2022,11,India_Zimbabwe_2022-11-06,India,India,Zimbabwe,True,186,Right hand Bat,Left hand Bat,Left arm Fast

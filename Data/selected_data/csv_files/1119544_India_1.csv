@@ -1,124 +1,124 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,1,0,-,1.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-1,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,2,0,-,2.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-2,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,3,0,-,3.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-3,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,4,0,-,4.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-4,RG Sharma,DJ Willey,S Dhawan,1,0,1,1,,1,5,0,-,5.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-5,S Dhawan,DJ Willey,RG Sharma,0,0,0,1,,0,1,0,-,6.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-6,RG Sharma,JT Ball,S Dhawan,0,1,1,2,,1,6,0,legbyes,1.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-7,S Dhawan,JT Ball,RG Sharma,0,0,0,2,,0,2,0,-,2.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-8,S Dhawan,JT Ball,RG Sharma,1,0,1,3,,1,3,0,-,3.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-9,RG Sharma,JT Ball,S Dhawan,4,0,4,7,,5,7,0,-,4.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-10,RG Sharma,JT Ball,S Dhawan,0,0,0,7,,5,8,0,-,5.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-11,RG Sharma,JT Ball,S Dhawan,0,0,0,7,,5,9,1,-,6.0,1,caught,RG Sharma,JC Buttler,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-12,KL Rahul,DJ Willey,S Dhawan,1,0,1,8,,1,1,1,-,1.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-13,S Dhawan,DJ Willey,KL Rahul,0,0,0,8,,1,4,1,-,2.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-14,S Dhawan,DJ Willey,KL Rahul,1,0,1,9,,2,5,1,-,3.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-15,KL Rahul,DJ Willey,S Dhawan,3,0,3,12,,4,2,1,-,4.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-16,S Dhawan,DJ Willey,KL Rahul,1,0,1,13,,3,6,1,-,5.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-17,KL Rahul,DJ Willey,S Dhawan,0,0,0,13,,4,3,1,-,6.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-18,S Dhawan,JT Ball,KL Rahul,1,0,1,14,,4,7,1,-,1.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-19,KL Rahul,JT Ball,S Dhawan,1,0,1,15,,5,4,1,-,2.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-20,S Dhawan,JT Ball,KL Rahul,1,0,1,16,,5,8,1,-,3.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-21,KL Rahul,JT Ball,S Dhawan,1,0,1,17,,6,5,1,-,4.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-22,S Dhawan,JT Ball,KL Rahul,4,0,4,21,,9,9,1,-,5.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-23,S Dhawan,JT Ball,KL Rahul,1,0,1,22,,10,10,1,-,6.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-24,S Dhawan,LE Plunkett,KL Rahul,0,0,0,22,,10,11,1,-,1.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-25,S Dhawan,LE Plunkett,KL Rahul,0,0,0,22,,10,12,2,-,2.0,4,run out,S Dhawan,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-26,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,6,2,-,3.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-27,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,7,2,-,4.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-28,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,8,3,-,5.0,4,bowled,KL Rahul,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-29,SK Raina,LE Plunkett,V Kohli,1,0,1,23,,1,1,3,-,6.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-30,SK Raina,CJ Jordan,V Kohli,4,0,4,27,,5,2,3,-,1.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-31,SK Raina,CJ Jordan,V Kohli,1,0,1,28,,6,3,3,-,2.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-32,V Kohli,CJ Jordan,SK Raina,1,0,1,29,,1,1,3,-,3.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-33,SK Raina,CJ Jordan,V Kohli,0,0,0,29,,6,4,3,-,4.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-34,SK Raina,CJ Jordan,V Kohli,2,0,2,31,,8,5,3,-,5.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-35,SK Raina,CJ Jordan,V Kohli,0,0,0,31,,8,6,3,-,6.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-36,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,2,3,-,1.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-37,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,3,3,-,2.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-38,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,4,3,-,3.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-39,V Kohli,LE Plunkett,SK Raina,1,0,1,32,,2,5,3,-,4.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-40,SK Raina,LE Plunkett,V Kohli,0,0,0,32,,8,7,3,-,5.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-41,SK Raina,LE Plunkett,V Kohli,4,0,4,36,,12,8,3,-,6.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-42,V Kohli,CJ Jordan,SK Raina,0,0,0,36,,2,6,3,-,1.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-43,V Kohli,CJ Jordan,SK Raina,1,0,1,37,,3,7,3,-,2.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-44,SK Raina,CJ Jordan,V Kohli,1,0,1,38,,13,9,3,-,3.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-45,V Kohli,CJ Jordan,SK Raina,1,0,1,39,,4,8,3,-,4.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-46,SK Raina,CJ Jordan,V Kohli,1,0,1,40,,14,10,3,-,5.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-47,V Kohli,CJ Jordan,SK Raina,1,0,1,41,,5,9,3,-,6.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-48,V Kohli,AU Rashid,SK Raina,0,0,0,41,,5,10,3,-,1.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-49,V Kohli,AU Rashid,SK Raina,2,0,2,43,,7,11,3,-,2.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-50,V Kohli,AU Rashid,SK Raina,0,0,0,43,,7,12,3,-,3.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-51,V Kohli,AU Rashid,SK Raina,2,0,2,45,,9,13,3,-,4.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-52,V Kohli,AU Rashid,SK Raina,2,0,2,47,,11,14,3,-,5.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-53,V Kohli,AU Rashid,SK Raina,1,0,1,48,,12,15,3,-,6.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-54,V Kohli,LE Plunkett,SK Raina,0,0,0,48,,12,16,3,-,1.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-55,V Kohli,LE Plunkett,SK Raina,0,0,0,48,,12,17,3,-,2.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-56,V Kohli,LE Plunkett,SK Raina,1,0,1,49,,13,18,3,-,3.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-57,SK Raina,LE Plunkett,V Kohli,1,0,1,50,,15,11,3,-,4.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-58,V Kohli,LE Plunkett,SK Raina,1,0,1,51,,14,19,3,-,5.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-59,SK Raina,LE Plunkett,V Kohli,1,0,1,52,,16,12,3,-,6.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-60,SK Raina,AU Rashid,V Kohli,1,0,1,53,,17,13,3,-,1.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-61,V Kohli,AU Rashid,SK Raina,2,0,2,55,,16,20,3,-,2.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-62,V Kohli,AU Rashid,SK Raina,1,0,1,56,,17,21,3,-,3.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-63,SK Raina,AU Rashid,V Kohli,1,0,1,57,,18,14,3,-,4.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-64,V Kohli,AU Rashid,SK Raina,4,0,4,61,,21,22,3,-,5.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-65,V Kohli,AU Rashid,SK Raina,6,0,6,67,,27,23,3,-,6.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-66,SK Raina,JT Ball,V Kohli,6,0,6,73,,24,15,3,-,1.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-67,SK Raina,JT Ball,V Kohli,1,0,1,74,,25,16,3,-,2.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-68,V Kohli,JT Ball,SK Raina,1,0,1,75,,28,24,3,-,3.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-69,SK Raina,JT Ball,V Kohli,1,0,1,76,,26,17,3,-,4.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-70,V Kohli,JT Ball,SK Raina,0,1,1,77,,28,25,3,wides,4.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-71,V Kohli,JT Ball,SK Raina,1,0,1,78,,29,26,3,-,5.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-72,SK Raina,JT Ball,V Kohli,1,0,1,79,,27,18,3,-,6.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-73,SK Raina,AU Rashid,V Kohli,0,0,0,79,,27,19,3,-,1.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-74,SK Raina,AU Rashid,V Kohli,0,0,0,79,,27,20,4,-,2.0,12,stumped,SK Raina,JC Buttler,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-75,MS Dhoni,AU Rashid,V Kohli,1,0,1,80,,1,1,4,-,3.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-76,V Kohli,AU Rashid,MS Dhoni,0,0,0,80,,29,27,4,-,4.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-77,V Kohli,AU Rashid,MS Dhoni,1,0,1,81,,30,28,4,-,5.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-78,MS Dhoni,AU Rashid,V Kohli,1,0,1,82,,2,2,4,-,6.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-79,MS Dhoni,LE Plunkett,V Kohli,0,0,0,82,,2,3,4,-,1.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-80,MS Dhoni,LE Plunkett,V Kohli,4,0,4,86,,6,4,4,-,2.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-81,MS Dhoni,LE Plunkett,V Kohli,0,0,0,86,,6,5,4,-,3.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-82,MS Dhoni,LE Plunkett,V Kohli,1,0,1,87,,7,6,4,-,4.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-83,V Kohli,LE Plunkett,MS Dhoni,2,0,2,89,,32,29,4,-,5.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-84,V Kohli,LE Plunkett,MS Dhoni,0,0,0,89,,32,30,4,-,6.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-85,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,7,4,-,1.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-86,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,8,4,-,2.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-87,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,9,4,-,3.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-88,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,10,4,-,4.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-89,MS Dhoni,AU Rashid,V Kohli,4,0,4,93,,11,11,4,-,5.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-90,MS Dhoni,AU Rashid,V Kohli,0,0,0,93,,11,12,4,-,6.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-91,V Kohli,DJ Willey,MS Dhoni,2,0,2,95,,34,31,4,-,1.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-92,V Kohli,DJ Willey,MS Dhoni,0,0,0,95,,34,32,4,-,2.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-93,V Kohli,DJ Willey,MS Dhoni,2,0,2,97,,36,33,4,-,3.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-94,V Kohli,DJ Willey,MS Dhoni,1,0,1,98,,37,34,4,-,4.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-95,MS Dhoni,DJ Willey,V Kohli,0,1,1,99,,11,13,4,legbyes,5.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-96,V Kohli,DJ Willey,MS Dhoni,2,0,2,101,,39,35,4,-,6.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-97,MS Dhoni,CJ Jordan,V Kohli,1,0,1,102,,12,14,4,-,1.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-98,V Kohli,CJ Jordan,MS Dhoni,1,0,1,103,,40,36,4,-,2.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-99,MS Dhoni,CJ Jordan,V Kohli,1,0,1,104,,13,15,4,-,3.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-100,V Kohli,CJ Jordan,MS Dhoni,6,0,6,110,,46,37,4,-,4.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-101,V Kohli,CJ Jordan,MS Dhoni,1,0,1,111,,47,38,4,-,5.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-102,MS Dhoni,CJ Jordan,V Kohli,0,0,0,111,,13,16,4,-,6.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-103,V Kohli,DJ Willey,MS Dhoni,0,0,0,111,,47,39,5,-,1.0,17,caught,V Kohli,JE Root,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-104,HH Pandya,DJ Willey,MS Dhoni,1,0,1,112,,1,1,5,-,2.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-105,MS Dhoni,DJ Willey,HH Pandya,1,0,1,113,,14,17,5,-,3.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-106,HH Pandya,DJ Willey,MS Dhoni,0,0,0,113,,1,2,5,-,4.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-107,HH Pandya,DJ Willey,MS Dhoni,2,0,2,115,,3,3,5,-,5.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-108,HH Pandya,DJ Willey,MS Dhoni,0,0,0,115,,3,4,5,-,6.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-109,MS Dhoni,CJ Jordan,HH Pandya,2,0,2,117,,16,18,5,-,1.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-110,MS Dhoni,CJ Jordan,HH Pandya,1,0,1,118,,17,19,5,-,2.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-111,HH Pandya,CJ Jordan,MS Dhoni,0,0,0,118,,3,5,5,-,3.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-112,HH Pandya,CJ Jordan,MS Dhoni,0,0,0,118,,3,6,5,-,4.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-113,HH Pandya,CJ Jordan,MS Dhoni,6,0,6,124,,9,7,5,-,5.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-114,HH Pandya,CJ Jordan,MS Dhoni,2,0,2,126,,11,8,5,-,6.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-115,MS Dhoni,JT Ball,HH Pandya,2,0,2,128,,19,20,5,-,1.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-116,MS Dhoni,JT Ball,HH Pandya,4,0,4,132,,23,21,5,-,2.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-117,MS Dhoni,JT Ball,HH Pandya,0,1,1,133,,23,22,5,wides,2.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-118,MS Dhoni,JT Ball,HH Pandya,1,0,1,134,,24,23,5,-,3.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-119,HH Pandya,JT Ball,MS Dhoni,0,5,5,139,,11,9,5,byesnoballs,4.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-120,HH Pandya,JT Ball,MS Dhoni,1,0,1,140,,12,10,5,-,5.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-121,MS Dhoni,JT Ball,HH Pandya,4,0,4,144,,28,24,5,-,6.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
-122,MS Dhoni,JT Ball,HH Pandya,4,0,4,148,,32,25,5,-,7.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,1,0,-,1.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Left arm Fast
+1,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,2,0,-,2.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Left arm Fast
+2,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,3,0,-,3.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Left arm Fast
+3,RG Sharma,DJ Willey,S Dhawan,0,0,0,0,,0,4,0,-,4.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Left arm Fast
+4,RG Sharma,DJ Willey,S Dhawan,1,0,1,1,,1,5,0,-,5.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Left arm Fast
+5,S Dhawan,DJ Willey,RG Sharma,0,0,0,1,,0,1,0,-,6.0,0,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Left arm Fast
+6,RG Sharma,JT Ball,S Dhawan,0,1,1,2,,1,6,0,legbyes,1.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+7,S Dhawan,JT Ball,RG Sharma,0,0,0,2,,0,2,0,-,2.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+8,S Dhawan,JT Ball,RG Sharma,1,0,1,3,,1,3,0,-,3.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+9,RG Sharma,JT Ball,S Dhawan,4,0,4,7,,5,7,0,-,4.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+10,RG Sharma,JT Ball,S Dhawan,0,0,0,7,,5,8,0,-,5.0,1,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+11,RG Sharma,JT Ball,S Dhawan,0,0,0,7,,5,9,1,-,6.0,1,caught,RG Sharma,JC Buttler,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+12,KL Rahul,DJ Willey,S Dhawan,1,0,1,8,,1,1,1,-,1.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Left hand Bat,Left arm Fast
+13,S Dhawan,DJ Willey,KL Rahul,0,0,0,8,,1,4,1,-,2.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Left arm Fast
+14,S Dhawan,DJ Willey,KL Rahul,1,0,1,9,,2,5,1,-,3.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Left arm Fast
+15,KL Rahul,DJ Willey,S Dhawan,3,0,3,12,,4,2,1,-,4.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Left hand Bat,Left arm Fast
+16,S Dhawan,DJ Willey,KL Rahul,1,0,1,13,,3,6,1,-,5.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Left arm Fast
+17,KL Rahul,DJ Willey,S Dhawan,0,0,0,13,,4,3,1,-,6.0,2,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Left hand Bat,Left arm Fast
+18,S Dhawan,JT Ball,KL Rahul,1,0,1,14,,4,7,1,-,1.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+19,KL Rahul,JT Ball,S Dhawan,1,0,1,15,,5,4,1,-,2.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Left hand Bat,Right arm Fast
+20,S Dhawan,JT Ball,KL Rahul,1,0,1,16,,5,8,1,-,3.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+21,KL Rahul,JT Ball,S Dhawan,1,0,1,17,,6,5,1,-,4.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Left hand Bat,Right arm Fast
+22,S Dhawan,JT Ball,KL Rahul,4,0,4,21,,9,9,1,-,5.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+23,S Dhawan,JT Ball,KL Rahul,1,0,1,22,,10,10,1,-,6.0,3,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+24,S Dhawan,LE Plunkett,KL Rahul,0,0,0,22,,10,11,1,-,1.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+25,S Dhawan,LE Plunkett,KL Rahul,0,0,0,22,,10,12,2,-,2.0,4,run out,S Dhawan,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,,Right arm Fast
+26,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,6,2,-,3.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Right hand Bat,Right arm Fast
+27,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,7,2,-,4.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Right hand Bat,Right arm Fast
+28,KL Rahul,LE Plunkett,V Kohli,0,0,0,22,,6,8,3,-,5.0,4,bowled,KL Rahul,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,,Right hand Bat,Right arm Fast
+29,SK Raina,LE Plunkett,V Kohli,1,0,1,23,,1,1,3,-,6.0,4,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+30,SK Raina,CJ Jordan,V Kohli,4,0,4,27,,5,2,3,-,1.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+31,SK Raina,CJ Jordan,V Kohli,1,0,1,28,,6,3,3,-,2.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+32,V Kohli,CJ Jordan,SK Raina,1,0,1,29,,1,1,3,-,3.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+33,SK Raina,CJ Jordan,V Kohli,0,0,0,29,,6,4,3,-,4.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+34,SK Raina,CJ Jordan,V Kohli,2,0,2,31,,8,5,3,-,5.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+35,SK Raina,CJ Jordan,V Kohli,0,0,0,31,,8,6,3,-,6.0,5,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+36,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,2,3,-,1.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+37,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,3,3,-,2.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+38,V Kohli,LE Plunkett,SK Raina,0,0,0,31,,1,4,3,-,3.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+39,V Kohli,LE Plunkett,SK Raina,1,0,1,32,,2,5,3,-,4.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+40,SK Raina,LE Plunkett,V Kohli,0,0,0,32,,8,7,3,-,5.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+41,SK Raina,LE Plunkett,V Kohli,4,0,4,36,,12,8,3,-,6.0,6,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+42,V Kohli,CJ Jordan,SK Raina,0,0,0,36,,2,6,3,-,1.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+43,V Kohli,CJ Jordan,SK Raina,1,0,1,37,,3,7,3,-,2.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+44,SK Raina,CJ Jordan,V Kohli,1,0,1,38,,13,9,3,-,3.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+45,V Kohli,CJ Jordan,SK Raina,1,0,1,39,,4,8,3,-,4.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+46,SK Raina,CJ Jordan,V Kohli,1,0,1,40,,14,10,3,-,5.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+47,V Kohli,CJ Jordan,SK Raina,1,0,1,41,,5,9,3,-,6.0,7,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+48,V Kohli,AU Rashid,SK Raina,0,0,0,41,,5,10,3,-,1.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+49,V Kohli,AU Rashid,SK Raina,2,0,2,43,,7,11,3,-,2.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+50,V Kohli,AU Rashid,SK Raina,0,0,0,43,,7,12,3,-,3.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+51,V Kohli,AU Rashid,SK Raina,2,0,2,45,,9,13,3,-,4.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+52,V Kohli,AU Rashid,SK Raina,2,0,2,47,,11,14,3,-,5.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+53,V Kohli,AU Rashid,SK Raina,1,0,1,48,,12,15,3,-,6.0,8,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+54,V Kohli,LE Plunkett,SK Raina,0,0,0,48,,12,16,3,-,1.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+55,V Kohli,LE Plunkett,SK Raina,0,0,0,48,,12,17,3,-,2.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+56,V Kohli,LE Plunkett,SK Raina,1,0,1,49,,13,18,3,-,3.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+57,SK Raina,LE Plunkett,V Kohli,1,0,1,50,,15,11,3,-,4.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+58,V Kohli,LE Plunkett,SK Raina,1,0,1,51,,14,19,3,-,5.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+59,SK Raina,LE Plunkett,V Kohli,1,0,1,52,,16,12,3,-,6.0,9,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+60,SK Raina,AU Rashid,V Kohli,1,0,1,53,,17,13,3,-,1.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Legbreak
+61,V Kohli,AU Rashid,SK Raina,2,0,2,55,,16,20,3,-,2.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+62,V Kohli,AU Rashid,SK Raina,1,0,1,56,,17,21,3,-,3.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+63,SK Raina,AU Rashid,V Kohli,1,0,1,57,,18,14,3,-,4.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Legbreak
+64,V Kohli,AU Rashid,SK Raina,4,0,4,61,,21,22,3,-,5.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+65,V Kohli,AU Rashid,SK Raina,6,0,6,67,,27,23,3,-,6.0,10,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Legbreak
+66,SK Raina,JT Ball,V Kohli,6,0,6,73,,24,15,3,-,1.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+67,SK Raina,JT Ball,V Kohli,1,0,1,74,,25,16,3,-,2.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+68,V Kohli,JT Ball,SK Raina,1,0,1,75,,28,24,3,-,3.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+69,SK Raina,JT Ball,V Kohli,1,0,1,76,,26,17,3,-,4.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+70,V Kohli,JT Ball,SK Raina,0,1,1,77,,28,25,3,wides,4.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+71,V Kohli,JT Ball,SK Raina,1,0,1,78,,29,26,3,-,5.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Left hand Bat,Right arm Fast
+72,SK Raina,JT Ball,V Kohli,1,0,1,79,,27,18,3,-,6.0,11,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Fast
+73,SK Raina,AU Rashid,V Kohli,0,0,0,79,,27,19,3,-,1.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Legbreak
+74,SK Raina,AU Rashid,V Kohli,0,0,0,79,,27,20,4,-,2.0,12,stumped,SK Raina,JC Buttler,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Left hand Bat,Right hand Bat,Right arm Legbreak
+75,MS Dhoni,AU Rashid,V Kohli,1,0,1,80,,1,1,4,-,3.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+76,V Kohli,AU Rashid,MS Dhoni,0,0,0,80,,29,27,4,-,4.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+77,V Kohli,AU Rashid,MS Dhoni,1,0,1,81,,30,28,4,-,5.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+78,MS Dhoni,AU Rashid,V Kohli,1,0,1,82,,2,2,4,-,6.0,12,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+79,MS Dhoni,LE Plunkett,V Kohli,0,0,0,82,,2,3,4,-,1.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+80,MS Dhoni,LE Plunkett,V Kohli,4,0,4,86,,6,4,4,-,2.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+81,MS Dhoni,LE Plunkett,V Kohli,0,0,0,86,,6,5,4,-,3.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+82,MS Dhoni,LE Plunkett,V Kohli,1,0,1,87,,7,6,4,-,4.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+83,V Kohli,LE Plunkett,MS Dhoni,2,0,2,89,,32,29,4,-,5.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+84,V Kohli,LE Plunkett,MS Dhoni,0,0,0,89,,32,30,4,-,6.0,13,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+85,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,7,4,-,1.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+86,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,8,4,-,2.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+87,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,9,4,-,3.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+88,MS Dhoni,AU Rashid,V Kohli,0,0,0,89,,7,10,4,-,4.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+89,MS Dhoni,AU Rashid,V Kohli,4,0,4,93,,11,11,4,-,5.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+90,MS Dhoni,AU Rashid,V Kohli,0,0,0,93,,11,12,4,-,6.0,14,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Legbreak
+91,V Kohli,DJ Willey,MS Dhoni,2,0,2,95,,34,31,4,-,1.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+92,V Kohli,DJ Willey,MS Dhoni,0,0,0,95,,34,32,4,-,2.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+93,V Kohli,DJ Willey,MS Dhoni,2,0,2,97,,36,33,4,-,3.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+94,V Kohli,DJ Willey,MS Dhoni,1,0,1,98,,37,34,4,-,4.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+95,MS Dhoni,DJ Willey,V Kohli,0,1,1,99,,11,13,4,legbyes,5.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+96,V Kohli,DJ Willey,MS Dhoni,2,0,2,101,,39,35,4,-,6.0,15,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+97,MS Dhoni,CJ Jordan,V Kohli,1,0,1,102,,12,14,4,-,1.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+98,V Kohli,CJ Jordan,MS Dhoni,1,0,1,103,,40,36,4,-,2.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+99,MS Dhoni,CJ Jordan,V Kohli,1,0,1,104,,13,15,4,-,3.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+100,V Kohli,CJ Jordan,MS Dhoni,6,0,6,110,,46,37,4,-,4.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+101,V Kohli,CJ Jordan,MS Dhoni,1,0,1,111,,47,38,4,-,5.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+102,MS Dhoni,CJ Jordan,V Kohli,0,0,0,111,,13,16,4,-,6.0,16,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+103,V Kohli,DJ Willey,MS Dhoni,0,0,0,111,,47,39,5,-,1.0,17,caught,V Kohli,JE Root,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+104,HH Pandya,DJ Willey,MS Dhoni,1,0,1,112,,1,1,5,-,2.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+105,MS Dhoni,DJ Willey,HH Pandya,1,0,1,113,,14,17,5,-,3.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+106,HH Pandya,DJ Willey,MS Dhoni,0,0,0,113,,1,2,5,-,4.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+107,HH Pandya,DJ Willey,MS Dhoni,2,0,2,115,,3,3,5,-,5.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+108,HH Pandya,DJ Willey,MS Dhoni,0,0,0,115,,3,4,5,-,6.0,17,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Left arm Fast
+109,MS Dhoni,CJ Jordan,HH Pandya,2,0,2,117,,16,18,5,-,1.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+110,MS Dhoni,CJ Jordan,HH Pandya,1,0,1,118,,17,19,5,-,2.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+111,HH Pandya,CJ Jordan,MS Dhoni,0,0,0,118,,3,5,5,-,3.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+112,HH Pandya,CJ Jordan,MS Dhoni,0,0,0,118,,3,6,5,-,4.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+113,HH Pandya,CJ Jordan,MS Dhoni,6,0,6,124,,9,7,5,-,5.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+114,HH Pandya,CJ Jordan,MS Dhoni,2,0,2,126,,11,8,5,-,6.0,18,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+115,MS Dhoni,JT Ball,HH Pandya,2,0,2,128,,19,20,5,-,1.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+116,MS Dhoni,JT Ball,HH Pandya,4,0,4,132,,23,21,5,-,2.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+117,MS Dhoni,JT Ball,HH Pandya,0,1,1,133,,23,22,5,wides,2.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+118,MS Dhoni,JT Ball,HH Pandya,1,0,1,134,,24,23,5,-,3.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+119,HH Pandya,JT Ball,MS Dhoni,0,5,5,139,,11,9,5,byesnoballs,4.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+120,HH Pandya,JT Ball,MS Dhoni,1,0,1,140,,12,10,5,-,5.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+121,MS Dhoni,JT Ball,HH Pandya,4,0,4,144,,28,24,5,-,6.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast
+122,MS Dhoni,JT Ball,HH Pandya,4,0,4,148,,32,25,5,-,7.0,19,0,,,field,England,1,Sophia Gardens,2018,07,India_England_2018-07-06,England,India,England,False,148,Right hand Bat,Right hand Bat,Right arm Fast

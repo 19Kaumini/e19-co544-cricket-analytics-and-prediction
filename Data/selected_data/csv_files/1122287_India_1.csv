@@ -1,127 +1,127 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RG Sharma,CH Morris,S Dhawan,2,1,3,3,,2,1,0,noballs,0.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-1,RG Sharma,CH Morris,S Dhawan,1,0,1,4,,3,2,0,-,1.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-2,S Dhawan,CH Morris,RG Sharma,1,0,1,5,,1,1,0,-,2.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-3,RG Sharma,CH Morris,S Dhawan,0,0,0,5,,3,3,0,-,3.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-4,RG Sharma,CH Morris,S Dhawan,0,0,0,5,,3,4,0,-,4.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-5,RG Sharma,CH Morris,S Dhawan,4,0,4,9,,7,5,0,-,5.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-6,RG Sharma,CH Morris,S Dhawan,4,0,4,13,,11,6,0,-,6.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-7,S Dhawan,CJ Dala,RG Sharma,1,0,1,14,,2,2,0,-,1.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-8,RG Sharma,CJ Dala,S Dhawan,0,0,0,14,,11,7,0,-,2.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-9,RG Sharma,CJ Dala,S Dhawan,0,0,0,14,,11,8,1,-,3.0,1,lbw,RG Sharma,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-10,SK Raina,CJ Dala,S Dhawan,6,0,6,20,,6,1,1,-,4.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-11,SK Raina,CJ Dala,S Dhawan,2,0,2,22,,8,2,1,-,5.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-12,SK Raina,CJ Dala,S Dhawan,0,0,0,22,,8,3,1,-,6.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-13,S Dhawan,JP Duminy,SK Raina,1,0,1,23,,3,3,1,-,1.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-14,SK Raina,JP Duminy,S Dhawan,4,0,4,27,,12,4,1,-,2.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-15,SK Raina,JP Duminy,S Dhawan,1,0,1,28,,13,5,1,-,3.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-16,S Dhawan,JP Duminy,SK Raina,0,0,0,28,,3,4,1,-,4.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-17,S Dhawan,JP Duminy,SK Raina,1,0,1,29,,4,5,1,-,5.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-18,SK Raina,JP Duminy,S Dhawan,0,1,1,30,,13,6,1,legbyes,6.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-19,SK Raina,CJ Dala,S Dhawan,0,0,0,30,,13,7,1,-,1.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-20,SK Raina,CJ Dala,S Dhawan,1,0,1,31,,14,8,1,-,2.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-21,S Dhawan,CJ Dala,SK Raina,0,0,0,31,,4,6,1,-,3.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-22,S Dhawan,CJ Dala,SK Raina,2,0,2,33,,6,7,1,-,4.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-23,S Dhawan,CJ Dala,SK Raina,2,0,2,35,,8,8,1,-,5.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-24,S Dhawan,CJ Dala,SK Raina,0,0,0,35,,8,9,1,-,6.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-25,SK Raina,AL Phehlukwayo,S Dhawan,4,0,4,39,,18,9,1,-,1.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-26,SK Raina,AL Phehlukwayo,S Dhawan,4,0,4,43,,22,10,1,-,2.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-27,SK Raina,AL Phehlukwayo,S Dhawan,1,0,1,44,,23,11,1,-,3.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-28,S Dhawan,AL Phehlukwayo,SK Raina,1,0,1,45,,9,10,1,-,4.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-29,SK Raina,AL Phehlukwayo,S Dhawan,0,1,1,46,,23,12,1,wides,4.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-30,SK Raina,AL Phehlukwayo,S Dhawan,0,0,0,46,,23,13,1,-,5.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-31,SK Raina,AL Phehlukwayo,S Dhawan,1,0,1,47,,24,14,1,-,6.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-32,SK Raina,CH Morris,S Dhawan,2,0,2,49,,26,15,1,-,1.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-33,SK Raina,CH Morris,S Dhawan,4,0,4,53,,30,16,1,-,2.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-34,SK Raina,CH Morris,S Dhawan,1,0,1,54,,31,17,1,-,3.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-35,S Dhawan,CH Morris,SK Raina,1,0,1,55,,10,11,1,-,4.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-36,SK Raina,CH Morris,S Dhawan,1,0,1,56,,32,18,1,-,5.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-37,S Dhawan,CH Morris,SK Raina,1,0,1,57,,11,12,1,-,6.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-38,S Dhawan,JP Duminy,SK Raina,0,0,0,57,,11,13,1,-,1.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-39,S Dhawan,JP Duminy,SK Raina,1,0,1,58,,12,14,1,-,2.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-40,SK Raina,JP Duminy,S Dhawan,1,0,1,59,,33,19,1,-,3.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-41,S Dhawan,JP Duminy,SK Raina,0,0,0,59,,12,15,1,-,4.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-42,S Dhawan,JP Duminy,SK Raina,2,0,2,61,,14,16,1,-,5.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-43,S Dhawan,JP Duminy,SK Raina,1,0,1,62,,15,17,1,-,6.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-44,S Dhawan,T Shamsi,SK Raina,1,0,1,63,,16,18,1,-,1.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-45,SK Raina,T Shamsi,S Dhawan,0,0,0,63,,33,20,1,-,2.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-46,SK Raina,T Shamsi,S Dhawan,0,0,0,63,,33,21,1,-,3.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-47,SK Raina,T Shamsi,S Dhawan,1,0,1,64,,34,22,1,-,4.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-48,S Dhawan,T Shamsi,SK Raina,0,0,0,64,,16,19,1,-,5.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-49,S Dhawan,T Shamsi,SK Raina,1,0,1,65,,17,20,1,-,6.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-50,S Dhawan,JP Duminy,SK Raina,1,0,1,66,,18,21,1,-,1.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-51,SK Raina,JP Duminy,S Dhawan,1,0,1,67,,35,23,1,-,2.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-52,S Dhawan,JP Duminy,SK Raina,1,0,1,68,,19,22,1,-,3.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-53,SK Raina,JP Duminy,S Dhawan,4,0,4,72,,39,24,1,-,4.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-54,SK Raina,JP Duminy,S Dhawan,2,0,2,74,,41,25,1,-,5.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-55,SK Raina,JP Duminy,S Dhawan,1,0,1,75,,42,26,1,-,6.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-56,SK Raina,T Shamsi,S Dhawan,1,0,1,76,,43,27,1,-,1.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-57,S Dhawan,T Shamsi,SK Raina,2,0,2,78,,21,23,1,-,2.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-58,S Dhawan,T Shamsi,SK Raina,1,0,1,79,,22,24,1,-,3.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-59,SK Raina,T Shamsi,S Dhawan,0,0,0,79,,43,28,2,-,4.0,9,caught,SK Raina,F Behardien,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-60,MK Pandey,T Shamsi,S Dhawan,1,0,1,80,,1,1,2,-,5.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-61,S Dhawan,T Shamsi,MK Pandey,1,0,1,81,,23,25,2,-,6.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-62,S Dhawan,AM Phangiso,MK Pandey,1,0,1,82,,24,26,2,-,1.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-63,MK Pandey,AM Phangiso,S Dhawan,1,0,1,83,,2,2,2,-,2.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-64,S Dhawan,AM Phangiso,MK Pandey,0,0,0,83,,24,27,2,-,3.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-65,S Dhawan,AM Phangiso,MK Pandey,1,0,1,84,,25,28,2,-,4.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-66,MK Pandey,AM Phangiso,S Dhawan,0,0,0,84,,2,3,2,-,5.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-67,MK Pandey,AM Phangiso,S Dhawan,1,0,1,85,,3,4,2,-,6.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-68,MK Pandey,T Shamsi,S Dhawan,6,0,6,91,,9,5,2,-,1.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-69,MK Pandey,T Shamsi,S Dhawan,1,0,1,92,,10,6,2,-,2.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-70,S Dhawan,T Shamsi,MK Pandey,4,0,4,96,,29,29,2,-,3.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-71,S Dhawan,T Shamsi,MK Pandey,1,0,1,97,,30,30,2,-,4.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-72,MK Pandey,T Shamsi,S Dhawan,1,0,1,98,,11,7,2,-,5.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-73,S Dhawan,T Shamsi,MK Pandey,4,0,4,102,,34,31,2,-,6.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-74,MK Pandey,AM Phangiso,S Dhawan,1,0,1,103,,12,8,2,-,1.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-75,S Dhawan,AM Phangiso,MK Pandey,0,0,0,103,,34,32,2,-,2.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-76,S Dhawan,AM Phangiso,MK Pandey,2,0,2,105,,36,33,2,-,3.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-77,S Dhawan,AM Phangiso,MK Pandey,4,0,4,109,,40,34,2,-,4.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-78,S Dhawan,AM Phangiso,MK Pandey,1,0,1,110,,41,35,2,-,5.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-79,MK Pandey,AM Phangiso,S Dhawan,1,0,1,111,,13,9,2,-,6.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-80,MK Pandey,CJ Dala,S Dhawan,0,0,0,111,,13,10,3,-,1.0,13,caught,MK Pandey,DA Miller,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-81,S Dhawan,CJ Dala,HH Pandya,2,0,2,113,,43,36,3,-,2.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-82,S Dhawan,CJ Dala,HH Pandya,1,0,1,114,,44,37,3,-,3.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-83,HH Pandya,CJ Dala,S Dhawan,1,0,1,115,,1,1,3,-,4.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-84,S Dhawan,CJ Dala,HH Pandya,1,0,1,116,,45,38,3,-,5.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-85,HH Pandya,CJ Dala,S Dhawan,1,0,1,117,,2,2,3,-,6.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-86,HH Pandya,AL Phehlukwayo,S Dhawan,0,1,1,118,,2,3,3,wides,0.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-87,HH Pandya,AL Phehlukwayo,S Dhawan,2,0,2,120,,4,4,3,-,1.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-88,HH Pandya,AL Phehlukwayo,S Dhawan,2,0,2,122,,6,5,3,-,2.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-89,HH Pandya,AL Phehlukwayo,S Dhawan,0,0,0,122,,6,6,3,-,3.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-90,HH Pandya,AL Phehlukwayo,S Dhawan,0,0,0,122,,6,7,3,-,4.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-91,HH Pandya,AL Phehlukwayo,S Dhawan,1,0,1,123,,7,8,3,-,5.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-92,S Dhawan,AL Phehlukwayo,HH Pandya,0,1,1,124,,45,39,3,wides,5.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-93,S Dhawan,AL Phehlukwayo,HH Pandya,1,0,1,125,,46,40,3,-,6.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-94,S Dhawan,T Shamsi,HH Pandya,1,0,1,126,,47,41,4,-,1.0,15,run out,S Dhawan,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-95,MS Dhoni,T Shamsi,HH Pandya,0,0,0,126,,0,1,4,-,2.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-96,MS Dhoni,T Shamsi,HH Pandya,1,0,1,127,,1,2,4,-,3.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-97,HH Pandya,T Shamsi,MS Dhoni,1,0,1,128,,8,9,4,-,4.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-98,MS Dhoni,T Shamsi,HH Pandya,1,0,1,129,,2,3,4,-,5.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-99,HH Pandya,T Shamsi,MS Dhoni,1,0,1,130,,9,10,4,-,6.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-100,HH Pandya,AL Phehlukwayo,MS Dhoni,1,0,1,131,,10,11,4,-,1.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-101,MS Dhoni,AL Phehlukwayo,HH Pandya,1,0,1,132,,3,4,4,-,2.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-102,HH Pandya,AL Phehlukwayo,MS Dhoni,2,0,2,134,,12,12,4,-,3.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-103,HH Pandya,AL Phehlukwayo,MS Dhoni,0,0,0,134,,12,13,4,-,4.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-104,HH Pandya,AL Phehlukwayo,MS Dhoni,1,0,1,135,,13,14,4,-,5.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-105,MS Dhoni,AL Phehlukwayo,HH Pandya,1,0,1,136,,4,5,4,-,6.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-106,MS Dhoni,CH Morris,HH Pandya,2,0,2,138,,6,6,4,-,1.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-107,MS Dhoni,CH Morris,HH Pandya,1,0,1,139,,7,7,4,-,2.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-108,HH Pandya,CH Morris,MS Dhoni,6,0,6,145,,19,15,4,-,3.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-109,HH Pandya,CH Morris,MS Dhoni,1,0,1,146,,20,16,4,-,4.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-110,MS Dhoni,CH Morris,HH Pandya,0,0,0,146,,7,8,4,-,5.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-111,MS Dhoni,CH Morris,HH Pandya,1,0,1,147,,8,9,4,-,6.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-112,MS Dhoni,CJ Dala,HH Pandya,4,0,4,151,,12,10,4,-,1.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-113,MS Dhoni,CJ Dala,HH Pandya,0,0,0,151,,12,11,5,-,2.0,18,caught,MS Dhoni,DA Miller,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-114,HH Pandya,CJ Dala,KD Karthik,0,1,1,152,,20,17,5,wides,2.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-115,HH Pandya,CJ Dala,KD Karthik,1,0,1,153,,21,18,5,-,3.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-116,KD Karthik,CJ Dala,HH Pandya,4,0,4,157,,4,1,5,-,4.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-117,KD Karthik,CJ Dala,HH Pandya,4,0,4,161,,8,2,5,-,5.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-118,KD Karthik,CJ Dala,HH Pandya,1,0,1,162,,9,3,5,-,6.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-119,KD Karthik,CH Morris,HH Pandya,0,1,1,163,,9,4,5,legbyes,1.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-120,HH Pandya,CH Morris,KD Karthik,0,0,0,163,,21,19,6,-,2.0,19,caught,HH Pandya,H Klaasen,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-121,KD Karthik,CH Morris,AR Patel,4,0,4,167,,13,5,6,-,3.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-122,KD Karthik,CH Morris,AR Patel,0,1,1,168,,13,6,6,wides,3.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-123,KD Karthik,CH Morris,AR Patel,0,0,0,168,,13,7,7,-,4.0,19,lbw,KD Karthik,,"{'by': 'India', 'umpire': 'BP Jele', 'batter': 'KD Karthik', 'decision': 'struck down'}",field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-124,B Kumar,CH Morris,AR Patel,3,0,3,171,,3,1,7,-,5.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
-125,AR Patel,CH Morris,B Kumar,1,0,1,172,,1,1,7,-,6.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,RG Sharma,CH Morris,S Dhawan,2,1,3,3,,2,1,0,noballs,0.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+1,RG Sharma,CH Morris,S Dhawan,1,0,1,4,,3,2,0,-,1.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+2,S Dhawan,CH Morris,RG Sharma,1,0,1,5,,1,1,0,-,2.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Fast
+3,RG Sharma,CH Morris,S Dhawan,0,0,0,5,,3,3,0,-,3.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+4,RG Sharma,CH Morris,S Dhawan,0,0,0,5,,3,4,0,-,4.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+5,RG Sharma,CH Morris,S Dhawan,4,0,4,9,,7,5,0,-,5.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+6,RG Sharma,CH Morris,S Dhawan,4,0,4,13,,11,6,0,-,6.0,0,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+7,S Dhawan,CJ Dala,RG Sharma,1,0,1,14,,2,2,0,-,1.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+8,RG Sharma,CJ Dala,S Dhawan,0,0,0,14,,11,7,0,-,2.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+9,RG Sharma,CJ Dala,S Dhawan,0,0,0,14,,11,8,1,-,3.0,1,lbw,RG Sharma,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+10,SK Raina,CJ Dala,S Dhawan,6,0,6,20,,6,1,1,-,4.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+11,SK Raina,CJ Dala,S Dhawan,2,0,2,22,,8,2,1,-,5.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+12,SK Raina,CJ Dala,S Dhawan,0,0,0,22,,8,3,1,-,6.0,1,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+13,S Dhawan,JP Duminy,SK Raina,1,0,1,23,,3,3,1,-,1.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+14,SK Raina,JP Duminy,S Dhawan,4,0,4,27,,12,4,1,-,2.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+15,SK Raina,JP Duminy,S Dhawan,1,0,1,28,,13,5,1,-,3.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+16,S Dhawan,JP Duminy,SK Raina,0,0,0,28,,3,4,1,-,4.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+17,S Dhawan,JP Duminy,SK Raina,1,0,1,29,,4,5,1,-,5.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+18,SK Raina,JP Duminy,S Dhawan,0,1,1,30,,13,6,1,legbyes,6.0,2,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+19,SK Raina,CJ Dala,S Dhawan,0,0,0,30,,13,7,1,-,1.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+20,SK Raina,CJ Dala,S Dhawan,1,0,1,31,,14,8,1,-,2.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+21,S Dhawan,CJ Dala,SK Raina,0,0,0,31,,4,6,1,-,3.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+22,S Dhawan,CJ Dala,SK Raina,2,0,2,33,,6,7,1,-,4.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+23,S Dhawan,CJ Dala,SK Raina,2,0,2,35,,8,8,1,-,5.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+24,S Dhawan,CJ Dala,SK Raina,0,0,0,35,,8,9,1,-,6.0,3,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+25,SK Raina,AL Phehlukwayo,S Dhawan,4,0,4,39,,18,9,1,-,1.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+26,SK Raina,AL Phehlukwayo,S Dhawan,4,0,4,43,,22,10,1,-,2.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+27,SK Raina,AL Phehlukwayo,S Dhawan,1,0,1,44,,23,11,1,-,3.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+28,S Dhawan,AL Phehlukwayo,SK Raina,1,0,1,45,,9,10,1,-,4.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+29,SK Raina,AL Phehlukwayo,S Dhawan,0,1,1,46,,23,12,1,wides,4.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+30,SK Raina,AL Phehlukwayo,S Dhawan,0,0,0,46,,23,13,1,-,5.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+31,SK Raina,AL Phehlukwayo,S Dhawan,1,0,1,47,,24,14,1,-,6.0,4,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Medium
+32,SK Raina,CH Morris,S Dhawan,2,0,2,49,,26,15,1,-,1.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+33,SK Raina,CH Morris,S Dhawan,4,0,4,53,,30,16,1,-,2.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+34,SK Raina,CH Morris,S Dhawan,1,0,1,54,,31,17,1,-,3.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+35,S Dhawan,CH Morris,SK Raina,1,0,1,55,,10,11,1,-,4.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+36,SK Raina,CH Morris,S Dhawan,1,0,1,56,,32,18,1,-,5.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+37,S Dhawan,CH Morris,SK Raina,1,0,1,57,,11,12,1,-,6.0,5,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Fast
+38,S Dhawan,JP Duminy,SK Raina,0,0,0,57,,11,13,1,-,1.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+39,S Dhawan,JP Duminy,SK Raina,1,0,1,58,,12,14,1,-,2.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+40,SK Raina,JP Duminy,S Dhawan,1,0,1,59,,33,19,1,-,3.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+41,S Dhawan,JP Duminy,SK Raina,0,0,0,59,,12,15,1,-,4.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+42,S Dhawan,JP Duminy,SK Raina,2,0,2,61,,14,16,1,-,5.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+43,S Dhawan,JP Duminy,SK Raina,1,0,1,62,,15,17,1,-,6.0,6,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+44,S Dhawan,T Shamsi,SK Raina,1,0,1,63,,16,18,1,-,1.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+45,SK Raina,T Shamsi,S Dhawan,0,0,0,63,,33,20,1,-,2.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+46,SK Raina,T Shamsi,S Dhawan,0,0,0,63,,33,21,1,-,3.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+47,SK Raina,T Shamsi,S Dhawan,1,0,1,64,,34,22,1,-,4.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+48,S Dhawan,T Shamsi,SK Raina,0,0,0,64,,16,19,1,-,5.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+49,S Dhawan,T Shamsi,SK Raina,1,0,1,65,,17,20,1,-,6.0,7,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+50,S Dhawan,JP Duminy,SK Raina,1,0,1,66,,18,21,1,-,1.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+51,SK Raina,JP Duminy,S Dhawan,1,0,1,67,,35,23,1,-,2.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+52,S Dhawan,JP Duminy,SK Raina,1,0,1,68,,19,22,1,-,3.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+53,SK Raina,JP Duminy,S Dhawan,4,0,4,72,,39,24,1,-,4.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+54,SK Raina,JP Duminy,S Dhawan,2,0,2,74,,41,25,1,-,5.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+55,SK Raina,JP Duminy,S Dhawan,1,0,1,75,,42,26,1,-,6.0,8,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Right arm Offbreak
+56,SK Raina,T Shamsi,S Dhawan,1,0,1,76,,43,27,1,-,1.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+57,S Dhawan,T Shamsi,SK Raina,2,0,2,78,,21,23,1,-,2.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+58,S Dhawan,T Shamsi,SK Raina,1,0,1,79,,22,24,1,-,3.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+59,SK Raina,T Shamsi,S Dhawan,0,0,0,79,,43,28,2,-,4.0,9,caught,SK Raina,F Behardien,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Left hand Bat,Left arm Wrist spin
+60,MK Pandey,T Shamsi,S Dhawan,1,0,1,80,,1,1,2,-,5.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Wrist spin
+61,S Dhawan,T Shamsi,MK Pandey,1,0,1,81,,23,25,2,-,6.0,9,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Wrist spin
+62,S Dhawan,AM Phangiso,MK Pandey,1,0,1,82,,24,26,2,-,1.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+63,MK Pandey,AM Phangiso,S Dhawan,1,0,1,83,,2,2,2,-,2.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Orthodox
+64,S Dhawan,AM Phangiso,MK Pandey,0,0,0,83,,24,27,2,-,3.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+65,S Dhawan,AM Phangiso,MK Pandey,1,0,1,84,,25,28,2,-,4.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+66,MK Pandey,AM Phangiso,S Dhawan,0,0,0,84,,2,3,2,-,5.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Orthodox
+67,MK Pandey,AM Phangiso,S Dhawan,1,0,1,85,,3,4,2,-,6.0,10,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Orthodox
+68,MK Pandey,T Shamsi,S Dhawan,6,0,6,91,,9,5,2,-,1.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Wrist spin
+69,MK Pandey,T Shamsi,S Dhawan,1,0,1,92,,10,6,2,-,2.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Wrist spin
+70,S Dhawan,T Shamsi,MK Pandey,4,0,4,96,,29,29,2,-,3.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Wrist spin
+71,S Dhawan,T Shamsi,MK Pandey,1,0,1,97,,30,30,2,-,4.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Wrist spin
+72,MK Pandey,T Shamsi,S Dhawan,1,0,1,98,,11,7,2,-,5.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Wrist spin
+73,S Dhawan,T Shamsi,MK Pandey,4,0,4,102,,34,31,2,-,6.0,11,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Wrist spin
+74,MK Pandey,AM Phangiso,S Dhawan,1,0,1,103,,12,8,2,-,1.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Orthodox
+75,S Dhawan,AM Phangiso,MK Pandey,0,0,0,103,,34,32,2,-,2.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+76,S Dhawan,AM Phangiso,MK Pandey,2,0,2,105,,36,33,2,-,3.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+77,S Dhawan,AM Phangiso,MK Pandey,4,0,4,109,,40,34,2,-,4.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+78,S Dhawan,AM Phangiso,MK Pandey,1,0,1,110,,41,35,2,-,5.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Orthodox
+79,MK Pandey,AM Phangiso,S Dhawan,1,0,1,111,,13,9,2,-,6.0,12,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Left arm Orthodox
+80,MK Pandey,CJ Dala,S Dhawan,0,0,0,111,,13,10,3,-,1.0,13,caught,MK Pandey,DA Miller,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+81,S Dhawan,CJ Dala,HH Pandya,2,0,2,113,,43,36,3,-,2.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+82,S Dhawan,CJ Dala,HH Pandya,1,0,1,114,,44,37,3,-,3.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+83,HH Pandya,CJ Dala,S Dhawan,1,0,1,115,,1,1,3,-,4.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+84,S Dhawan,CJ Dala,HH Pandya,1,0,1,116,,45,38,3,-,5.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+85,HH Pandya,CJ Dala,S Dhawan,1,0,1,117,,2,2,3,-,6.0,13,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+86,HH Pandya,AL Phehlukwayo,S Dhawan,0,1,1,118,,2,3,3,wides,0.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+87,HH Pandya,AL Phehlukwayo,S Dhawan,2,0,2,120,,4,4,3,-,1.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+88,HH Pandya,AL Phehlukwayo,S Dhawan,2,0,2,122,,6,5,3,-,2.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+89,HH Pandya,AL Phehlukwayo,S Dhawan,0,0,0,122,,6,6,3,-,3.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+90,HH Pandya,AL Phehlukwayo,S Dhawan,0,0,0,122,,6,7,3,-,4.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+91,HH Pandya,AL Phehlukwayo,S Dhawan,1,0,1,123,,7,8,3,-,5.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Medium
+92,S Dhawan,AL Phehlukwayo,HH Pandya,0,1,1,124,,45,39,3,wides,5.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+93,S Dhawan,AL Phehlukwayo,HH Pandya,1,0,1,125,,46,40,3,-,6.0,14,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Medium
+94,S Dhawan,T Shamsi,HH Pandya,1,0,1,126,,47,41,4,-,1.0,15,run out,S Dhawan,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Left arm Wrist spin
+95,MS Dhoni,T Shamsi,HH Pandya,0,0,0,126,,0,1,4,-,2.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Left arm Wrist spin
+96,MS Dhoni,T Shamsi,HH Pandya,1,0,1,127,,1,2,4,-,3.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Left arm Wrist spin
+97,HH Pandya,T Shamsi,MS Dhoni,1,0,1,128,,8,9,4,-,4.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Left arm Wrist spin
+98,MS Dhoni,T Shamsi,HH Pandya,1,0,1,129,,2,3,4,-,5.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Left arm Wrist spin
+99,HH Pandya,T Shamsi,MS Dhoni,1,0,1,130,,9,10,4,-,6.0,15,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Left arm Wrist spin
+100,HH Pandya,AL Phehlukwayo,MS Dhoni,1,0,1,131,,10,11,4,-,1.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+101,MS Dhoni,AL Phehlukwayo,HH Pandya,1,0,1,132,,3,4,4,-,2.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+102,HH Pandya,AL Phehlukwayo,MS Dhoni,2,0,2,134,,12,12,4,-,3.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+103,HH Pandya,AL Phehlukwayo,MS Dhoni,0,0,0,134,,12,13,4,-,4.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+104,HH Pandya,AL Phehlukwayo,MS Dhoni,1,0,1,135,,13,14,4,-,5.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+105,MS Dhoni,AL Phehlukwayo,HH Pandya,1,0,1,136,,4,5,4,-,6.0,16,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+106,MS Dhoni,CH Morris,HH Pandya,2,0,2,138,,6,6,4,-,1.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+107,MS Dhoni,CH Morris,HH Pandya,1,0,1,139,,7,7,4,-,2.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+108,HH Pandya,CH Morris,MS Dhoni,6,0,6,145,,19,15,4,-,3.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+109,HH Pandya,CH Morris,MS Dhoni,1,0,1,146,,20,16,4,-,4.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+110,MS Dhoni,CH Morris,HH Pandya,0,0,0,146,,7,8,4,-,5.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+111,MS Dhoni,CH Morris,HH Pandya,1,0,1,147,,8,9,4,-,6.0,17,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+112,MS Dhoni,CJ Dala,HH Pandya,4,0,4,151,,12,10,4,-,1.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+113,MS Dhoni,CJ Dala,HH Pandya,0,0,0,151,,12,11,5,-,2.0,18,caught,MS Dhoni,DA Miller,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+114,HH Pandya,CJ Dala,KD Karthik,0,1,1,152,,20,17,5,wides,2.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+115,HH Pandya,CJ Dala,KD Karthik,1,0,1,153,,21,18,5,-,3.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+116,KD Karthik,CJ Dala,HH Pandya,4,0,4,157,,4,1,5,-,4.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+117,KD Karthik,CJ Dala,HH Pandya,4,0,4,161,,8,2,5,-,5.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+118,KD Karthik,CJ Dala,HH Pandya,1,0,1,162,,9,3,5,-,6.0,18,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Medium
+119,KD Karthik,CH Morris,HH Pandya,0,1,1,163,,9,4,5,legbyes,1.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+120,HH Pandya,CH Morris,KD Karthik,0,0,0,163,,21,19,6,-,2.0,19,caught,HH Pandya,H Klaasen,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Right hand Bat,Right arm Fast
+121,KD Karthik,CH Morris,AR Patel,4,0,4,167,,13,5,6,-,3.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+122,KD Karthik,CH Morris,AR Patel,0,1,1,168,,13,6,6,wides,3.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+123,KD Karthik,CH Morris,AR Patel,0,0,0,168,,13,7,7,-,4.0,19,lbw,KD Karthik,,"{'by': 'India', 'umpire': 'BP Jele', 'batter': 'KD Karthik', 'decision': 'struck down'}",field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+124,B Kumar,CH Morris,AR Patel,3,0,3,171,,3,1,7,-,5.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Right hand Bat,Left hand Bat,Right arm Fast
+125,AR Patel,CH Morris,B Kumar,1,0,1,172,,1,1,7,-,6.0,19,0,,,,field,South Africa,1,Newlands,2018,02,India_South Africa_2018-02-24,India,India,South Africa,True,172,Left hand Bat,Right hand Bat,Right arm Fast
