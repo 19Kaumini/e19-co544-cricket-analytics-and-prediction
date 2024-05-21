@@ -228,7 +228,7 @@ def json_to_csv(match_file, output_file=False):
         df["final_team_total"] = df["current_team_total"].iloc[-1]
 
         # Add Player Types
-        types_df = pd.read_csv("../Scraper/scraper_outputs/player_types.csv")
+        types_df = pd.read_csv("../Scraper/scraper_outputs/player_type.csv")
         df["batter_type"] = [{} for _ in range(len(df))]
         df["non_striker_type"] = [{} for _ in range(len(df))]
         df["bowler_type"] = [{} for _ in range(len(df))]
