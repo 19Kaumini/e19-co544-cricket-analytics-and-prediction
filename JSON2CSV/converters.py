@@ -226,6 +226,40 @@ def json_to_csv(match_file, output_file=False):
         if "extras" in df.columns:
             df.drop(columns=["extras"], inplace=True)
         df["final_team_total"] = df["current_team_total"].iloc[-1]
+
+        # Add Player Types
+        types_df = pd.read_csv("../Scraper/scraper_outputs/player_type.csv")
+        df["batter_type"] = [{} for _ in range(len(df))]
+        df["non_striker_type"] = [{} for _ in range(len(df))]
+        df["bowler_type"] = [{} for _ in range(len(df))]
+        for idx, row in df.iterrows():
+            batter_id = players[row["batter"]]
+            non_striker_id = players[row["non_striker"]]
+            bowler_id = players[row["bowler"]]
+
+            batter_row = types_df.loc[types_df["identifier"] == batter_id]
+            non_striker_row = types_df.loc[types_df["identifier"] == non_striker_id]
+            bowler_row = types_df.loc[types_df["identifier"] == bowler_id]
+
+            if not batter_row.empty:
+                batting_style = batter_row["batting_style"].iloc[0]
+            else:
+                batting_style = np.nan
+
+            if not bowler_row.empty:
+                bowling_style = bowler_row["bowling_style"].iloc[0]
+            else:
+                bowling_style = np.nan
+
+            if not non_striker_row.empty:
+                non_striker_style = non_striker_row["batting_style"].iloc[0]
+            else:
+                non_striker_style = np.nan
+
+            df.at[idx, "batter_type"] = batting_style
+            df.at[idx, "non_striker_type"] = non_striker_style
+            df.at[idx, "bowler_type"] = bowling_style
+
         if output_file:
 
             file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"

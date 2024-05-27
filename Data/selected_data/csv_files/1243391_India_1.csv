@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RG Sharma,AU Rashid,KL Rahul,6,0,6,6,,6,1,0,-,1.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-1,RG Sharma,AU Rashid,KL Rahul,0,0,0,6,,6,2,0,-,2.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-2,RG Sharma,AU Rashid,KL Rahul,4,0,4,10,,10,3,0,-,3.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-3,RG Sharma,AU Rashid,KL Rahul,0,0,0,10,,10,4,0,-,4.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-4,RG Sharma,AU Rashid,KL Rahul,1,0,1,11,,11,5,0,-,5.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-5,KL Rahul,AU Rashid,RG Sharma,1,0,1,12,,1,1,0,-,6.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-6,KL Rahul,JC Archer,RG Sharma,0,0,0,12,,1,2,0,-,1.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-7,KL Rahul,JC Archer,RG Sharma,0,0,0,12,,1,3,0,-,2.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-8,KL Rahul,JC Archer,RG Sharma,1,0,1,13,,2,4,0,-,3.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-9,RG Sharma,JC Archer,KL Rahul,0,1,1,14,,11,6,0,legbyes,4.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-10,KL Rahul,JC Archer,RG Sharma,0,0,0,14,,2,5,0,-,5.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-11,KL Rahul,JC Archer,RG Sharma,4,0,4,18,,6,6,0,-,6.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-12,RG Sharma,MA Wood,KL Rahul,0,0,0,18,,11,7,0,-,1.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-13,RG Sharma,MA Wood,KL Rahul,0,0,0,18,,11,8,0,-,2.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-14,RG Sharma,MA Wood,KL Rahul,0,1,1,19,,11,9,0,legbyes,3.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-15,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,7,0,-,4.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-16,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,8,0,-,5.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-17,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,9,0,-,6.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-18,RG Sharma,JC Archer,KL Rahul,0,0,0,19,,11,10,0,-,1.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-19,RG Sharma,JC Archer,KL Rahul,1,0,1,20,,12,11,0,-,2.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-20,KL Rahul,JC Archer,RG Sharma,1,0,1,21,,7,10,0,-,3.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-21,RG Sharma,JC Archer,KL Rahul,0,0,0,21,,12,12,1,-,4.0,3,caught and bowled,RG Sharma,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-22,SA Yadav,JC Archer,KL Rahul,6,0,6,27,,6,1,1,-,5.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-23,SA Yadav,JC Archer,KL Rahul,0,0,0,27,,6,2,1,-,6.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-24,KL Rahul,MA Wood,SA Yadav,0,1,1,28,,7,11,1,legbyes,1.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-25,SA Yadav,MA Wood,KL Rahul,0,0,0,28,,6,3,1,-,2.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-26,SA Yadav,MA Wood,KL Rahul,4,0,4,32,,10,4,1,-,3.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-27,SA Yadav,MA Wood,KL Rahul,0,1,1,33,,10,5,1,wides,3.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-28,SA Yadav,MA Wood,KL Rahul,0,0,0,33,,10,6,1,-,4.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-29,SA Yadav,MA Wood,KL Rahul,0,0,0,33,,10,7,1,-,5.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-30,SA Yadav,MA Wood,KL Rahul,1,0,1,34,,11,8,1,-,6.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-31,SA Yadav,CJ Jordan,KL Rahul,1,0,1,35,,12,9,1,-,1.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-32,KL Rahul,CJ Jordan,SA Yadav,0,1,1,36,,7,12,1,wides,1.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-33,KL Rahul,CJ Jordan,SA Yadav,4,0,4,40,,11,13,1,-,2.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-34,KL Rahul,CJ Jordan,SA Yadav,1,0,1,41,,12,14,1,-,3.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-35,SA Yadav,CJ Jordan,KL Rahul,4,0,4,45,,16,10,1,-,4.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-36,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,,16,11,1,-,5.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-37,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,,16,12,1,-,6.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-38,KL Rahul,AU Rashid,SA Yadav,1,0,1,46,,13,15,1,-,1.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-39,SA Yadav,AU Rashid,KL Rahul,1,0,1,47,,17,13,1,-,2.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-40,KL Rahul,AU Rashid,SA Yadav,1,0,1,48,,14,16,1,-,3.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-41,SA Yadav,AU Rashid,KL Rahul,4,0,4,52,,21,14,1,-,4.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-42,SA Yadav,AU Rashid,KL Rahul,6,0,6,58,,27,15,1,-,5.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-43,SA Yadav,AU Rashid,KL Rahul,1,0,1,59,,28,16,1,-,6.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-44,SA Yadav,BA Stokes,KL Rahul,0,1,1,60,,28,17,1,wides,0.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-45,SA Yadav,BA Stokes,KL Rahul,2,0,2,62,,30,18,1,-,1.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-46,SA Yadav,BA Stokes,KL Rahul,1,0,1,63,,31,19,1,-,2.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-47,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,,14,17,1,-,3.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-48,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,,14,18,2,-,4.0,7,caught,KL Rahul,JC Archer,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-49,V Kohli,BA Stokes,SA Yadav,1,0,1,64,,1,1,2,-,5.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-50,SA Yadav,BA Stokes,V Kohli,4,0,4,68,,35,20,2,-,6.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-51,V Kohli,AU Rashid,SA Yadav,0,0,0,68,,1,2,2,-,1.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-52,V Kohli,AU Rashid,SA Yadav,0,2,2,70,,1,3,2,legbyes,2.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-53,V Kohli,AU Rashid,SA Yadav,0,0,0,70,,1,4,2,-,3.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-54,V Kohli,AU Rashid,SA Yadav,0,0,0,70,,1,5,3,-,4.0,8,stumped,V Kohli,JC Buttler,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-55,RR Pant,AU Rashid,SA Yadav,0,0,0,70,,0,1,3,-,5.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-56,RR Pant,AU Rashid,SA Yadav,0,0,0,70,,0,2,3,-,6.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-57,SA Yadav,BA Stokes,RR Pant,1,0,1,71,,36,21,3,-,1.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-58,RR Pant,BA Stokes,SA Yadav,0,0,0,71,,0,3,3,-,2.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-59,RR Pant,BA Stokes,SA Yadav,1,0,1,72,,1,4,3,-,3.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-60,SA Yadav,BA Stokes,RR Pant,0,0,0,72,,36,22,3,-,4.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-61,SA Yadav,BA Stokes,RR Pant,1,0,1,73,,37,23,3,-,5.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-62,RR Pant,BA Stokes,SA Yadav,2,0,2,75,,3,5,3,-,6.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-63,SA Yadav,CJ Jordan,RR Pant,1,0,1,76,,38,24,3,-,1.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-64,RR Pant,CJ Jordan,SA Yadav,1,0,1,77,,4,6,3,-,2.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-65,SA Yadav,CJ Jordan,RR Pant,0,0,0,77,,38,25,3,-,3.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-66,SA Yadav,CJ Jordan,RR Pant,1,0,1,78,,39,26,3,-,4.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-67,RR Pant,CJ Jordan,SA Yadav,0,0,0,78,,4,7,3,-,5.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-68,RR Pant,CJ Jordan,SA Yadav,1,0,1,79,,5,8,3,-,6.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-69,RR Pant,AU Rashid,SA Yadav,1,0,1,80,,6,9,3,-,1.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-70,SA Yadav,AU Rashid,RR Pant,4,0,4,84,,43,27,3,-,2.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-71,SA Yadav,AU Rashid,RR Pant,2,0,2,86,,45,28,3,-,3.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-72,SA Yadav,AU Rashid,RR Pant,1,0,1,87,,46,29,3,-,4.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-73,RR Pant,AU Rashid,SA Yadav,1,0,1,88,,7,10,3,-,5.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-74,SA Yadav,AU Rashid,RR Pant,4,0,4,92,,50,30,3,-,6.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-75,RR Pant,BA Stokes,SA Yadav,4,0,4,96,,11,11,3,-,1.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-76,RR Pant,BA Stokes,SA Yadav,1,0,1,97,,12,12,3,-,2.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-77,SA Yadav,BA Stokes,RR Pant,1,0,1,98,,51,31,3,-,3.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-78,RR Pant,BA Stokes,SA Yadav,4,0,4,102,,16,13,3,-,4.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-79,RR Pant,BA Stokes,SA Yadav,0,0,0,102,,16,14,3,-,5.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-80,RR Pant,BA Stokes,SA Yadav,2,0,2,104,,18,15,3,-,6.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-81,SA Yadav,SM Curran,RR Pant,6,0,6,110,,57,32,3,-,1.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-82,SA Yadav,SM Curran,RR Pant,0,0,0,110,,57,33,4,-,2.0,13,caught,SA Yadav,DJ Malan,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-83,SS Iyer,SM Curran,RR Pant,4,0,4,114,,4,1,4,-,3.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-84,SS Iyer,SM Curran,RR Pant,1,0,1,115,,5,2,4,-,4.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-85,RR Pant,SM Curran,SS Iyer,1,0,1,116,,19,16,4,-,5.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-86,SS Iyer,SM Curran,RR Pant,4,0,4,120,,9,3,4,-,6.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-87,RR Pant,CJ Jordan,SS Iyer,0,0,0,120,,19,17,4,-,1.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-88,RR Pant,CJ Jordan,SS Iyer,1,0,1,121,,20,18,4,-,2.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-89,SS Iyer,CJ Jordan,RR Pant,1,0,1,122,,10,4,4,-,3.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-90,RR Pant,CJ Jordan,SS Iyer,4,0,4,126,,24,19,4,-,4.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-91,RR Pant,CJ Jordan,SS Iyer,1,0,1,127,,25,20,4,-,5.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-92,SS Iyer,CJ Jordan,RR Pant,1,0,1,128,,11,5,4,-,6.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-93,SS Iyer,MA Wood,RR Pant,0,0,0,128,,11,6,4,-,1.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-94,SS Iyer,MA Wood,RR Pant,2,0,2,130,,13,7,4,-,2.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-95,SS Iyer,MA Wood,RR Pant,4,0,4,134,,17,8,4,-,3.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-96,SS Iyer,MA Wood,RR Pant,1,0,1,135,,18,9,4,-,4.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-97,RR Pant,MA Wood,SS Iyer,1,0,1,136,,26,21,4,-,5.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-98,SS Iyer,MA Wood,RR Pant,4,0,4,140,,22,10,4,-,6.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-99,RR Pant,JC Archer,SS Iyer,4,0,4,144,,30,22,4,-,1.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-100,RR Pant,JC Archer,SS Iyer,0,0,0,144,,30,23,5,-,2.0,16,bowled,RR Pant,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-101,HH Pandya,JC Archer,SS Iyer,1,0,1,145,,1,1,5,-,3.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-102,SS Iyer,JC Archer,HH Pandya,2,0,2,147,,24,11,5,-,4.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-103,SS Iyer,JC Archer,HH Pandya,1,0,1,148,,25,12,5,-,5.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-104,HH Pandya,JC Archer,SS Iyer,1,0,1,149,,2,2,5,-,6.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-105,HH Pandya,CJ Jordan,SS Iyer,6,0,6,155,,8,3,5,-,1.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-106,HH Pandya,CJ Jordan,SS Iyer,1,0,1,156,,9,4,5,-,2.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-107,SS Iyer,CJ Jordan,HH Pandya,0,0,0,156,,25,13,5,-,3.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-108,SS Iyer,CJ Jordan,HH Pandya,4,0,4,160,,29,14,5,-,4.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-109,SS Iyer,CJ Jordan,HH Pandya,6,0,6,166,,35,15,5,-,5.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-110,SS Iyer,CJ Jordan,HH Pandya,1,0,1,167,,36,16,5,-,6.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-111,SS Iyer,MA Wood,HH Pandya,1,0,1,168,,37,17,5,-,1.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-112,HH Pandya,MA Wood,SS Iyer,2,0,2,170,,11,5,5,-,2.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-113,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,6,5,-,3.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-114,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,7,5,-,4.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-115,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,8,6,-,5.0,18,caught,HH Pandya,BA Stokes,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-116,SN Thakur,MA Wood,SS Iyer,4,0,4,174,,4,1,6,-,6.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-117,SS Iyer,JC Archer,SN Thakur,0,0,0,174,,37,18,7,-,1.0,19,caught,SS Iyer,DJ Malan,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-118,SN Thakur,JC Archer,Washington Sundar,1,0,1,175,,5,2,7,-,2.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-119,Washington Sundar,JC Archer,SN Thakur,4,0,4,179,,4,1,7,-,3.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-120,Washington Sundar,JC Archer,SN Thakur,0,0,0,179,,4,2,8,-,4.0,19,caught,Washington Sundar,AU Rashid,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-121,SN Thakur,JC Archer,B Kumar,0,1,1,180,,5,3,8,wides,4.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-122,SN Thakur,JC Archer,B Kumar,4,0,4,184,,9,4,8,-,5.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
-123,SN Thakur,JC Archer,B Kumar,1,0,1,185,,10,5,8,-,6.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,RG Sharma,AU Rashid,KL Rahul,6,0,6,6,,6,1,0,-,1.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+1,RG Sharma,AU Rashid,KL Rahul,0,0,0,6,,6,2,0,-,2.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+2,RG Sharma,AU Rashid,KL Rahul,4,0,4,10,,10,3,0,-,3.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+3,RG Sharma,AU Rashid,KL Rahul,0,0,0,10,,10,4,0,-,4.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+4,RG Sharma,AU Rashid,KL Rahul,1,0,1,11,,11,5,0,-,5.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+5,KL Rahul,AU Rashid,RG Sharma,1,0,1,12,,1,1,0,-,6.0,0,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+6,KL Rahul,JC Archer,RG Sharma,0,0,0,12,,1,2,0,-,1.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+7,KL Rahul,JC Archer,RG Sharma,0,0,0,12,,1,3,0,-,2.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+8,KL Rahul,JC Archer,RG Sharma,1,0,1,13,,2,4,0,-,3.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+9,RG Sharma,JC Archer,KL Rahul,0,1,1,14,,11,6,0,legbyes,4.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+10,KL Rahul,JC Archer,RG Sharma,0,0,0,14,,2,5,0,-,5.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+11,KL Rahul,JC Archer,RG Sharma,4,0,4,18,,6,6,0,-,6.0,1,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+12,RG Sharma,MA Wood,KL Rahul,0,0,0,18,,11,7,0,-,1.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+13,RG Sharma,MA Wood,KL Rahul,0,0,0,18,,11,8,0,-,2.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+14,RG Sharma,MA Wood,KL Rahul,0,1,1,19,,11,9,0,legbyes,3.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+15,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,7,0,-,4.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+16,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,8,0,-,5.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+17,KL Rahul,MA Wood,RG Sharma,0,0,0,19,,6,9,0,-,6.0,2,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+18,RG Sharma,JC Archer,KL Rahul,0,0,0,19,,11,10,0,-,1.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+19,RG Sharma,JC Archer,KL Rahul,1,0,1,20,,12,11,0,-,2.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+20,KL Rahul,JC Archer,RG Sharma,1,0,1,21,,7,10,0,-,3.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+21,RG Sharma,JC Archer,KL Rahul,0,0,0,21,,12,12,1,-,4.0,3,caught and bowled,RG Sharma,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+22,SA Yadav,JC Archer,KL Rahul,6,0,6,27,,6,1,1,-,5.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+23,SA Yadav,JC Archer,KL Rahul,0,0,0,27,,6,2,1,-,6.0,3,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+24,KL Rahul,MA Wood,SA Yadav,0,1,1,28,,7,11,1,legbyes,1.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+25,SA Yadav,MA Wood,KL Rahul,0,0,0,28,,6,3,1,-,2.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+26,SA Yadav,MA Wood,KL Rahul,4,0,4,32,,10,4,1,-,3.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+27,SA Yadav,MA Wood,KL Rahul,0,1,1,33,,10,5,1,wides,3.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+28,SA Yadav,MA Wood,KL Rahul,0,0,0,33,,10,6,1,-,4.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+29,SA Yadav,MA Wood,KL Rahul,0,0,0,33,,10,7,1,-,5.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+30,SA Yadav,MA Wood,KL Rahul,1,0,1,34,,11,8,1,-,6.0,4,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+31,SA Yadav,CJ Jordan,KL Rahul,1,0,1,35,,12,9,1,-,1.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+32,KL Rahul,CJ Jordan,SA Yadav,0,1,1,36,,7,12,1,wides,1.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+33,KL Rahul,CJ Jordan,SA Yadav,4,0,4,40,,11,13,1,-,2.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+34,KL Rahul,CJ Jordan,SA Yadav,1,0,1,41,,12,14,1,-,3.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+35,SA Yadav,CJ Jordan,KL Rahul,4,0,4,45,,16,10,1,-,4.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+36,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,,16,11,1,-,5.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+37,SA Yadav,CJ Jordan,KL Rahul,0,0,0,45,,16,12,1,-,6.0,5,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+38,KL Rahul,AU Rashid,SA Yadav,1,0,1,46,,13,15,1,-,1.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+39,SA Yadav,AU Rashid,KL Rahul,1,0,1,47,,17,13,1,-,2.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+40,KL Rahul,AU Rashid,SA Yadav,1,0,1,48,,14,16,1,-,3.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+41,SA Yadav,AU Rashid,KL Rahul,4,0,4,52,,21,14,1,-,4.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+42,SA Yadav,AU Rashid,KL Rahul,6,0,6,58,,27,15,1,-,5.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+43,SA Yadav,AU Rashid,KL Rahul,1,0,1,59,,28,16,1,-,6.0,6,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+44,SA Yadav,BA Stokes,KL Rahul,0,1,1,60,,28,17,1,wides,0.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+45,SA Yadav,BA Stokes,KL Rahul,2,0,2,62,,30,18,1,-,1.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+46,SA Yadav,BA Stokes,KL Rahul,1,0,1,63,,31,19,1,-,2.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+47,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,,14,17,1,-,3.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+48,KL Rahul,BA Stokes,SA Yadav,0,0,0,63,,14,18,2,-,4.0,7,caught,KL Rahul,JC Archer,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+49,V Kohli,BA Stokes,SA Yadav,1,0,1,64,,1,1,2,-,5.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+50,SA Yadav,BA Stokes,V Kohli,4,0,4,68,,35,20,2,-,6.0,7,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+51,V Kohli,AU Rashid,SA Yadav,0,0,0,68,,1,2,2,-,1.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Legbreak
+52,V Kohli,AU Rashid,SA Yadav,0,2,2,70,,1,3,2,legbyes,2.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Legbreak
+53,V Kohli,AU Rashid,SA Yadav,0,0,0,70,,1,4,2,-,3.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Legbreak
+54,V Kohli,AU Rashid,SA Yadav,0,0,0,70,,1,5,3,-,4.0,8,stumped,V Kohli,JC Buttler,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Legbreak
+55,RR Pant,AU Rashid,SA Yadav,0,0,0,70,,0,1,3,-,5.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+56,RR Pant,AU Rashid,SA Yadav,0,0,0,70,,0,2,3,-,6.0,8,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+57,SA Yadav,BA Stokes,RR Pant,1,0,1,71,,36,21,3,-,1.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+58,RR Pant,BA Stokes,SA Yadav,0,0,0,71,,0,3,3,-,2.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+59,RR Pant,BA Stokes,SA Yadav,1,0,1,72,,1,4,3,-,3.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+60,SA Yadav,BA Stokes,RR Pant,0,0,0,72,,36,22,3,-,4.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+61,SA Yadav,BA Stokes,RR Pant,1,0,1,73,,37,23,3,-,5.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+62,RR Pant,BA Stokes,SA Yadav,2,0,2,75,,3,5,3,-,6.0,9,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+63,SA Yadav,CJ Jordan,RR Pant,1,0,1,76,,38,24,3,-,1.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+64,RR Pant,CJ Jordan,SA Yadav,1,0,1,77,,4,6,3,-,2.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+65,SA Yadav,CJ Jordan,RR Pant,0,0,0,77,,38,25,3,-,3.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+66,SA Yadav,CJ Jordan,RR Pant,1,0,1,78,,39,26,3,-,4.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+67,RR Pant,CJ Jordan,SA Yadav,0,0,0,78,,4,7,3,-,5.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+68,RR Pant,CJ Jordan,SA Yadav,1,0,1,79,,5,8,3,-,6.0,10,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+69,RR Pant,AU Rashid,SA Yadav,1,0,1,80,,6,9,3,-,1.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+70,SA Yadav,AU Rashid,RR Pant,4,0,4,84,,43,27,3,-,2.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+71,SA Yadav,AU Rashid,RR Pant,2,0,2,86,,45,28,3,-,3.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+72,SA Yadav,AU Rashid,RR Pant,1,0,1,87,,46,29,3,-,4.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+73,RR Pant,AU Rashid,SA Yadav,1,0,1,88,,7,10,3,-,5.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Legbreak
+74,SA Yadav,AU Rashid,RR Pant,4,0,4,92,,50,30,3,-,6.0,11,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Legbreak
+75,RR Pant,BA Stokes,SA Yadav,4,0,4,96,,11,11,3,-,1.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+76,RR Pant,BA Stokes,SA Yadav,1,0,1,97,,12,12,3,-,2.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+77,SA Yadav,BA Stokes,RR Pant,1,0,1,98,,51,31,3,-,3.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+78,RR Pant,BA Stokes,SA Yadav,4,0,4,102,,16,13,3,-,4.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+79,RR Pant,BA Stokes,SA Yadav,0,0,0,102,,16,14,3,-,5.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+80,RR Pant,BA Stokes,SA Yadav,2,0,2,104,,18,15,3,-,6.0,12,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+81,SA Yadav,SM Curran,RR Pant,6,0,6,110,,57,32,3,-,1.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Left arm Medium
+82,SA Yadav,SM Curran,RR Pant,0,0,0,110,,57,33,4,-,2.0,13,caught,SA Yadav,DJ Malan,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Left arm Medium
+83,SS Iyer,SM Curran,RR Pant,4,0,4,114,,4,1,4,-,3.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Left arm Medium
+84,SS Iyer,SM Curran,RR Pant,1,0,1,115,,5,2,4,-,4.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Left arm Medium
+85,RR Pant,SM Curran,SS Iyer,1,0,1,116,,19,16,4,-,5.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Left arm Medium
+86,SS Iyer,SM Curran,RR Pant,4,0,4,120,,9,3,4,-,6.0,13,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Left arm Medium
+87,RR Pant,CJ Jordan,SS Iyer,0,0,0,120,,19,17,4,-,1.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+88,RR Pant,CJ Jordan,SS Iyer,1,0,1,121,,20,18,4,-,2.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+89,SS Iyer,CJ Jordan,RR Pant,1,0,1,122,,10,4,4,-,3.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+90,RR Pant,CJ Jordan,SS Iyer,4,0,4,126,,24,19,4,-,4.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+91,RR Pant,CJ Jordan,SS Iyer,1,0,1,127,,25,20,4,-,5.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+92,SS Iyer,CJ Jordan,RR Pant,1,0,1,128,,11,5,4,-,6.0,14,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+93,SS Iyer,MA Wood,RR Pant,0,0,0,128,,11,6,4,-,1.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+94,SS Iyer,MA Wood,RR Pant,2,0,2,130,,13,7,4,-,2.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+95,SS Iyer,MA Wood,RR Pant,4,0,4,134,,17,8,4,-,3.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+96,SS Iyer,MA Wood,RR Pant,1,0,1,135,,18,9,4,-,4.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+97,RR Pant,MA Wood,SS Iyer,1,0,1,136,,26,21,4,-,5.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+98,SS Iyer,MA Wood,RR Pant,4,0,4,140,,22,10,4,-,6.0,15,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,,Right arm Fast
+99,RR Pant,JC Archer,SS Iyer,4,0,4,144,,30,22,4,-,1.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+100,RR Pant,JC Archer,SS Iyer,0,0,0,144,,30,23,5,-,2.0,16,bowled,RR Pant,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,,Right hand Bat,Right arm Fast
+101,HH Pandya,JC Archer,SS Iyer,1,0,1,145,,1,1,5,-,3.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+102,SS Iyer,JC Archer,HH Pandya,2,0,2,147,,24,11,5,-,4.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+103,SS Iyer,JC Archer,HH Pandya,1,0,1,148,,25,12,5,-,5.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+104,HH Pandya,JC Archer,SS Iyer,1,0,1,149,,2,2,5,-,6.0,16,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+105,HH Pandya,CJ Jordan,SS Iyer,6,0,6,155,,8,3,5,-,1.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+106,HH Pandya,CJ Jordan,SS Iyer,1,0,1,156,,9,4,5,-,2.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+107,SS Iyer,CJ Jordan,HH Pandya,0,0,0,156,,25,13,5,-,3.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+108,SS Iyer,CJ Jordan,HH Pandya,4,0,4,160,,29,14,5,-,4.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+109,SS Iyer,CJ Jordan,HH Pandya,6,0,6,166,,35,15,5,-,5.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+110,SS Iyer,CJ Jordan,HH Pandya,1,0,1,167,,36,16,5,-,6.0,17,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+111,SS Iyer,MA Wood,HH Pandya,1,0,1,168,,37,17,5,-,1.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+112,HH Pandya,MA Wood,SS Iyer,2,0,2,170,,11,5,5,-,2.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+113,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,6,5,-,3.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+114,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,7,5,-,4.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+115,HH Pandya,MA Wood,SS Iyer,0,0,0,170,,11,8,6,-,5.0,18,caught,HH Pandya,BA Stokes,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+116,SN Thakur,MA Wood,SS Iyer,4,0,4,174,,4,1,6,-,6.0,18,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+117,SS Iyer,JC Archer,SN Thakur,0,0,0,174,,37,18,7,-,1.0,19,caught,SS Iyer,DJ Malan,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+118,SN Thakur,JC Archer,Washington Sundar,1,0,1,175,,5,2,7,-,2.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Left hand Bat,Right arm Fast
+119,Washington Sundar,JC Archer,SN Thakur,4,0,4,179,,4,1,7,-,3.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Left hand Bat,Right hand Bat,Right arm Fast
+120,Washington Sundar,JC Archer,SN Thakur,0,0,0,179,,4,2,8,-,4.0,19,caught,Washington Sundar,AU Rashid,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Left hand Bat,Right hand Bat,Right arm Fast
+121,SN Thakur,JC Archer,B Kumar,0,1,1,180,,5,3,8,wides,4.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+122,SN Thakur,JC Archer,B Kumar,4,0,4,184,,9,4,8,-,5.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast
+123,SN Thakur,JC Archer,B Kumar,1,0,1,185,,10,5,8,-,6.0,19,0,,,field,England,1,Narendra Modi Stadium,2021,03,India_England_2021-03-18,India,India,England,True,185,Right hand Bat,Right hand Bat,Right arm Fast

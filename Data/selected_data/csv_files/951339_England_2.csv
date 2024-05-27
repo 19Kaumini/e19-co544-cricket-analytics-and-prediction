@@ -1,129 +1,129 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,JJ Roy,K Rabada,AD Hales,4,0,4,4,225,4,1,0,-,1.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-1,JJ Roy,K Rabada,AD Hales,4,0,4,8,221,8,2,0,-,2.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-2,JJ Roy,K Rabada,AD Hales,0,0,0,8,221,8,3,0,-,3.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-3,JJ Roy,K Rabada,AD Hales,0,5,5,13,216,8,4,0,wides,3.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-4,JJ Roy,K Rabada,AD Hales,4,0,4,17,212,12,5,0,-,4.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-5,JJ Roy,K Rabada,AD Hales,0,0,0,17,212,12,6,0,-,5.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-6,JJ Roy,K Rabada,AD Hales,4,0,4,21,208,16,7,0,-,6.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-7,AD Hales,DW Steyn,JJ Roy,4,0,4,25,204,4,1,0,-,1.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-8,AD Hales,DW Steyn,JJ Roy,4,0,4,29,200,8,2,0,-,2.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-9,AD Hales,DW Steyn,JJ Roy,4,0,4,33,196,12,3,0,-,3.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-10,AD Hales,DW Steyn,JJ Roy,1,0,1,34,195,13,4,0,-,4.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-11,JJ Roy,DW Steyn,AD Hales,4,0,4,38,191,20,8,0,-,5.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-12,JJ Roy,DW Steyn,AD Hales,6,0,6,44,185,26,9,0,-,6.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-13,AD Hales,KJ Abbott,JJ Roy,4,0,4,48,181,17,5,0,-,1.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-14,AD Hales,KJ Abbott,JJ Roy,0,0,0,48,181,17,6,0,-,2.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-15,AD Hales,KJ Abbott,JJ Roy,0,0,0,48,181,17,7,1,-,3.0,2,lbw,AD Hales,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-16,BA Stokes,KJ Abbott,JJ Roy,1,0,1,49,180,1,1,1,-,4.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-17,JJ Roy,KJ Abbott,BA Stokes,6,0,6,55,174,32,10,1,-,5.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-18,JJ Roy,KJ Abbott,BA Stokes,1,0,1,56,173,33,11,1,-,6.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-19,JJ Roy,K Rabada,BA Stokes,2,0,2,58,171,35,12,1,-,1.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-20,JJ Roy,K Rabada,BA Stokes,1,0,1,59,170,36,13,1,-,2.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-21,BA Stokes,K Rabada,JJ Roy,4,0,4,63,166,5,2,1,-,3.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-22,BA Stokes,K Rabada,JJ Roy,0,0,0,63,166,5,3,1,-,4.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-23,BA Stokes,K Rabada,JJ Roy,1,0,1,64,165,6,4,1,-,5.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-24,JJ Roy,K Rabada,BA Stokes,1,0,1,65,164,37,14,1,-,6.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-25,JJ Roy,KJ Abbott,BA Stokes,0,0,0,65,164,37,15,1,-,1.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-26,JJ Roy,KJ Abbott,BA Stokes,6,0,6,71,158,43,16,1,-,2.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-27,JJ Roy,KJ Abbott,BA Stokes,0,0,0,71,158,43,17,2,-,3.0,4,caught,JJ Roy,Q de Kock,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-28,BA Stokes,KJ Abbott,JE Root,0,5,5,76,153,6,5,2,wides,3.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-29,BA Stokes,KJ Abbott,JE Root,1,0,1,77,152,7,6,2,-,4.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-30,JE Root,KJ Abbott,BA Stokes,1,0,1,78,151,1,1,2,-,5.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-31,BA Stokes,KJ Abbott,JE Root,1,0,1,79,150,8,7,2,-,6.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-32,BA Stokes,K Rabada,JE Root,6,0,6,85,144,14,8,2,-,1.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-33,BA Stokes,K Rabada,JE Root,1,0,1,86,143,15,9,2,-,2.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-34,JE Root,K Rabada,BA Stokes,1,0,1,87,142,2,2,2,-,3.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-35,BA Stokes,K Rabada,JE Root,0,0,0,87,142,15,10,3,-,4.0,5,caught,BA Stokes,CH Morris,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-36,EJG Morgan,K Rabada,JE Root,0,1,1,88,141,0,1,3,wides,4.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-37,EJG Morgan,K Rabada,JE Root,1,0,1,89,140,1,2,3,-,5.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-38,JE Root,K Rabada,EJG Morgan,0,0,0,89,140,2,3,3,-,6.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-39,EJG Morgan,Imran Tahir,JE Root,1,0,1,90,139,2,3,3,-,1.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-40,JE Root,Imran Tahir,EJG Morgan,2,0,2,92,137,4,4,3,-,2.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-41,JE Root,Imran Tahir,EJG Morgan,1,0,1,93,136,5,5,3,-,3.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-42,EJG Morgan,Imran Tahir,JE Root,1,0,1,94,135,3,4,3,-,4.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-43,JE Root,Imran Tahir,EJG Morgan,1,0,1,95,134,6,6,3,-,5.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-44,EJG Morgan,Imran Tahir,JE Root,1,0,1,96,133,4,5,3,-,6.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-45,EJG Morgan,JP Duminy,JE Root,1,0,1,97,132,5,6,3,-,1.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-46,JE Root,JP Duminy,EJG Morgan,2,0,2,99,130,8,7,3,-,2.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-47,JE Root,JP Duminy,EJG Morgan,1,0,1,100,129,9,8,3,-,3.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-48,EJG Morgan,JP Duminy,JE Root,1,0,1,101,128,6,7,3,-,4.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-49,JE Root,JP Duminy,EJG Morgan,1,0,1,102,127,10,9,3,-,5.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-50,EJG Morgan,JP Duminy,JE Root,1,0,1,103,126,7,8,3,-,6.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-51,EJG Morgan,Imran Tahir,JE Root,1,0,1,104,125,8,9,3,-,1.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-52,JE Root,Imran Tahir,EJG Morgan,0,1,1,105,124,10,10,3,wides,1.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-53,JE Root,Imran Tahir,EJG Morgan,1,0,1,106,123,11,11,3,-,2.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-54,EJG Morgan,Imran Tahir,JE Root,0,0,0,106,123,8,10,3,-,3.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-55,EJG Morgan,Imran Tahir,JE Root,0,0,0,106,123,8,11,3,-,4.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-56,EJG Morgan,Imran Tahir,JE Root,2,0,2,108,121,10,12,3,-,5.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-57,EJG Morgan,Imran Tahir,JE Root,1,0,1,109,120,11,13,3,-,6.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-58,EJG Morgan,JP Duminy,JE Root,1,0,1,110,119,12,14,3,-,1.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-59,JE Root,JP Duminy,EJG Morgan,1,0,1,111,118,12,12,3,-,2.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-60,EJG Morgan,JP Duminy,JE Root,0,0,0,111,118,12,15,3,-,3.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-61,EJG Morgan,JP Duminy,JE Root,0,0,0,111,118,12,16,4,-,4.0,9,bowled,EJG Morgan,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-62,JC Buttler,JP Duminy,JE Root,1,0,1,112,117,1,1,4,-,5.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-63,JE Root,JP Duminy,JC Buttler,6,0,6,118,111,18,13,4,-,6.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-64,JC Buttler,CH Morris,JE Root,1,0,1,119,110,2,2,4,-,1.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-65,JE Root,CH Morris,JC Buttler,6,0,6,125,104,24,14,4,-,2.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-66,JE Root,CH Morris,JC Buttler,1,0,1,126,103,25,15,4,-,3.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-67,JC Buttler,CH Morris,JE Root,0,1,1,127,102,2,3,4,wides,3.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-68,JC Buttler,CH Morris,JE Root,0,1,1,128,101,2,4,4,legbyes,4.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-69,JE Root,CH Morris,JC Buttler,0,1,1,129,100,25,16,4,legbyes,5.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-70,JC Buttler,CH Morris,JE Root,4,0,4,133,96,6,5,4,-,6.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-71,JE Root,JP Duminy,JC Buttler,4,0,4,137,92,29,17,4,-,1.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-72,JE Root,JP Duminy,JC Buttler,1,0,1,138,91,30,18,4,-,2.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-73,JC Buttler,JP Duminy,JE Root,1,0,1,139,90,7,6,4,-,3.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-74,JE Root,JP Duminy,JC Buttler,2,0,2,141,88,32,19,4,-,4.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-75,JE Root,JP Duminy,JC Buttler,1,0,1,142,87,33,20,4,-,5.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-76,JC Buttler,JP Duminy,JE Root,6,0,6,148,81,13,7,4,-,6.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-77,JE Root,DW Steyn,JC Buttler,2,0,2,150,79,35,21,4,-,1.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-78,JE Root,DW Steyn,JC Buttler,0,1,1,151,78,35,22,4,wides,1.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-79,JE Root,DW Steyn,JC Buttler,1,0,1,152,77,36,23,4,-,2.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-80,JC Buttler,DW Steyn,JE Root,1,0,1,153,76,14,8,4,-,3.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-81,JE Root,DW Steyn,JC Buttler,2,0,2,155,74,38,24,4,-,4.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-82,JE Root,DW Steyn,JC Buttler,4,0,4,159,70,42,25,4,-,5.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-83,JE Root,DW Steyn,JC Buttler,1,0,1,160,69,43,26,4,-,6.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-84,JE Root,Imran Tahir,JC Buttler,1,0,1,161,68,44,27,4,-,1.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-85,JC Buttler,Imran Tahir,JE Root,0,3,3,164,65,14,9,4,wides,1.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-86,JC Buttler,Imran Tahir,JE Root,2,0,2,166,63,16,10,4,-,2.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-87,JC Buttler,Imran Tahir,JE Root,1,0,1,167,62,17,11,4,-,3.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-88,JE Root,Imran Tahir,JC Buttler,1,0,1,168,61,45,28,4,-,4.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-89,JC Buttler,Imran Tahir,JE Root,1,0,1,169,60,18,12,4,-,5.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-90,JE Root,Imran Tahir,JC Buttler,1,0,1,170,59,46,29,4,-,6.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-91,JE Root,CH Morris,JC Buttler,0,1,1,171,58,46,30,4,wides,0.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-92,JE Root,CH Morris,JC Buttler,1,0,1,172,57,47,31,4,-,1.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-93,JC Buttler,CH Morris,JE Root,1,0,1,173,56,19,13,4,-,2.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-94,JE Root,CH Morris,JC Buttler,6,0,6,179,50,53,32,4,-,3.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-95,JE Root,CH Morris,JC Buttler,1,0,1,180,49,54,33,4,-,4.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-96,JC Buttler,CH Morris,JE Root,0,1,1,181,48,19,14,4,wides,4.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-97,JC Buttler,CH Morris,JE Root,1,0,1,182,47,20,15,4,-,5.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-98,JE Root,CH Morris,JC Buttler,1,0,1,183,46,55,34,4,-,6.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-99,JE Root,Imran Tahir,JC Buttler,1,0,1,184,45,56,35,4,-,1.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-100,JC Buttler,Imran Tahir,JE Root,1,0,1,185,44,21,16,4,-,2.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-101,JE Root,Imran Tahir,JC Buttler,1,0,1,186,43,57,36,4,-,3.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-102,JC Buttler,Imran Tahir,JE Root,0,0,0,186,43,21,17,5,-,4.0,15,stumped,JC Buttler,Q de Kock,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-103,MM Ali,Imran Tahir,JE Root,1,0,1,187,42,1,1,5,-,5.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-104,JE Root,Imran Tahir,MM Ali,1,0,1,188,41,58,37,5,-,6.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-105,JE Root,KJ Abbott,MM Ali,4,0,4,192,37,62,38,5,-,1.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-106,JE Root,KJ Abbott,MM Ali,6,0,6,198,31,68,39,5,-,2.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-107,JE Root,KJ Abbott,MM Ali,1,0,1,199,30,69,40,5,-,3.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-108,MM Ali,KJ Abbott,JE Root,0,1,1,200,29,1,2,5,wides,3.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-109,MM Ali,KJ Abbott,JE Root,1,0,1,201,28,2,3,5,-,4.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-110,JE Root,KJ Abbott,MM Ali,1,0,1,202,27,70,41,5,-,5.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-111,MM Ali,KJ Abbott,JE Root,0,0,0,202,27,2,4,5,-,6.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-112,JE Root,CH Morris,MM Ali,4,0,4,206,23,74,42,5,-,1.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-113,JE Root,CH Morris,MM Ali,4,0,4,210,19,78,43,5,-,2.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-114,JE Root,CH Morris,MM Ali,4,0,4,214,15,82,44,5,-,3.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-115,JE Root,CH Morris,MM Ali,1,0,1,215,14,83,45,5,-,4.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-116,MM Ali,CH Morris,JE Root,0,0,0,215,14,2,5,5,-,5.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-117,MM Ali,CH Morris,JE Root,0,4,4,219,10,2,6,5,legbyes,6.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-118,JE Root,K Rabada,MM Ali,0,0,0,219,10,83,46,5,-,1.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-119,JE Root,K Rabada,MM Ali,0,0,0,219,10,83,47,6,-,2.0,18,caught,JE Root,DA Miller,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-120,MM Ali,K Rabada,CJ Jordan,4,0,4,223,6,6,7,6,-,3.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-121,MM Ali,K Rabada,CJ Jordan,1,0,1,224,5,7,8,6,-,4.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-122,CJ Jordan,K Rabada,MM Ali,4,0,4,228,1,4,1,6,-,5.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-123,CJ Jordan,K Rabada,MM Ali,1,0,1,229,0,5,2,6,-,6.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-124,CJ Jordan,KJ Abbott,MM Ali,0,0,0,229,0,5,3,7,-,1.0,19,caught,CJ Jordan,JP Duminy,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-125,MM Ali,KJ Abbott,DJ Willey,0,0,0,229,0,7,9,8,-,2.0,19,run out,DJ Willey,DA Miller;AB de Villiers,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-126,MM Ali,KJ Abbott,AU Rashid,0,0,0,229,0,7,10,8,-,3.0,19,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
-127,MM Ali,KJ Abbott,AU Rashid,1,0,1,230,-1,8,11,8,-,4.0,19,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,JJ Roy,K Rabada,AD Hales,4,0,4,4,225,4,1,0,-,1.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+1,JJ Roy,K Rabada,AD Hales,4,0,4,8,221,8,2,0,-,2.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+2,JJ Roy,K Rabada,AD Hales,0,0,0,8,221,8,3,0,-,3.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+3,JJ Roy,K Rabada,AD Hales,0,5,5,13,216,8,4,0,wides,3.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+4,JJ Roy,K Rabada,AD Hales,4,0,4,17,212,12,5,0,-,4.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+5,JJ Roy,K Rabada,AD Hales,0,0,0,17,212,12,6,0,-,5.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+6,JJ Roy,K Rabada,AD Hales,4,0,4,21,208,16,7,0,-,6.0,0,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+7,AD Hales,DW Steyn,JJ Roy,4,0,4,25,204,4,1,0,-,1.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+8,AD Hales,DW Steyn,JJ Roy,4,0,4,29,200,8,2,0,-,2.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+9,AD Hales,DW Steyn,JJ Roy,4,0,4,33,196,12,3,0,-,3.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+10,AD Hales,DW Steyn,JJ Roy,1,0,1,34,195,13,4,0,-,4.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+11,JJ Roy,DW Steyn,AD Hales,4,0,4,38,191,20,8,0,-,5.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+12,JJ Roy,DW Steyn,AD Hales,6,0,6,44,185,26,9,0,-,6.0,1,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+13,AD Hales,KJ Abbott,JJ Roy,4,0,4,48,181,17,5,0,-,1.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+14,AD Hales,KJ Abbott,JJ Roy,0,0,0,48,181,17,6,0,-,2.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+15,AD Hales,KJ Abbott,JJ Roy,0,0,0,48,181,17,7,1,-,3.0,2,lbw,AD Hales,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+16,BA Stokes,KJ Abbott,JJ Roy,1,0,1,49,180,1,1,1,-,4.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,,Right arm Fast
+17,JJ Roy,KJ Abbott,BA Stokes,6,0,6,55,174,32,10,1,-,5.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+18,JJ Roy,KJ Abbott,BA Stokes,1,0,1,56,173,33,11,1,-,6.0,2,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+19,JJ Roy,K Rabada,BA Stokes,2,0,2,58,171,35,12,1,-,1.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+20,JJ Roy,K Rabada,BA Stokes,1,0,1,59,170,36,13,1,-,2.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+21,BA Stokes,K Rabada,JJ Roy,4,0,4,63,166,5,2,1,-,3.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,,Right arm Fast
+22,BA Stokes,K Rabada,JJ Roy,0,0,0,63,166,5,3,1,-,4.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,,Right arm Fast
+23,BA Stokes,K Rabada,JJ Roy,1,0,1,64,165,6,4,1,-,5.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,,Right arm Fast
+24,JJ Roy,K Rabada,BA Stokes,1,0,1,65,164,37,14,1,-,6.0,3,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+25,JJ Roy,KJ Abbott,BA Stokes,0,0,0,65,164,37,15,1,-,1.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+26,JJ Roy,KJ Abbott,BA Stokes,6,0,6,71,158,43,16,1,-,2.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+27,JJ Roy,KJ Abbott,BA Stokes,0,0,0,71,158,43,17,2,-,3.0,4,caught,JJ Roy,Q de Kock,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Left hand Bat,Right arm Fast
+28,BA Stokes,KJ Abbott,JE Root,0,5,5,76,153,6,5,2,wides,3.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+29,BA Stokes,KJ Abbott,JE Root,1,0,1,77,152,7,6,2,-,4.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+30,JE Root,KJ Abbott,BA Stokes,1,0,1,78,151,1,1,2,-,5.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+31,BA Stokes,KJ Abbott,JE Root,1,0,1,79,150,8,7,2,-,6.0,4,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+32,BA Stokes,K Rabada,JE Root,6,0,6,85,144,14,8,2,-,1.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+33,BA Stokes,K Rabada,JE Root,1,0,1,86,143,15,9,2,-,2.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+34,JE Root,K Rabada,BA Stokes,1,0,1,87,142,2,2,2,-,3.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+35,BA Stokes,K Rabada,JE Root,0,0,0,87,142,15,10,3,-,4.0,5,caught,BA Stokes,CH Morris,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+36,EJG Morgan,K Rabada,JE Root,0,1,1,88,141,0,1,3,wides,4.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+37,EJG Morgan,K Rabada,JE Root,1,0,1,89,140,1,2,3,-,5.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+38,JE Root,K Rabada,EJG Morgan,0,0,0,89,140,2,3,3,-,6.0,5,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+39,EJG Morgan,Imran Tahir,JE Root,1,0,1,90,139,2,3,3,-,1.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+40,JE Root,Imran Tahir,EJG Morgan,2,0,2,92,137,4,4,3,-,2.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+41,JE Root,Imran Tahir,EJG Morgan,1,0,1,93,136,5,5,3,-,3.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+42,EJG Morgan,Imran Tahir,JE Root,1,0,1,94,135,3,4,3,-,4.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+43,JE Root,Imran Tahir,EJG Morgan,1,0,1,95,134,6,6,3,-,5.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+44,EJG Morgan,Imran Tahir,JE Root,1,0,1,96,133,4,5,3,-,6.0,6,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+45,EJG Morgan,JP Duminy,JE Root,1,0,1,97,132,5,6,3,-,1.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+46,JE Root,JP Duminy,EJG Morgan,2,0,2,99,130,8,7,3,-,2.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Offbreak
+47,JE Root,JP Duminy,EJG Morgan,1,0,1,100,129,9,8,3,-,3.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Offbreak
+48,EJG Morgan,JP Duminy,JE Root,1,0,1,101,128,6,7,3,-,4.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+49,JE Root,JP Duminy,EJG Morgan,1,0,1,102,127,10,9,3,-,5.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Offbreak
+50,EJG Morgan,JP Duminy,JE Root,1,0,1,103,126,7,8,3,-,6.0,7,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+51,EJG Morgan,Imran Tahir,JE Root,1,0,1,104,125,8,9,3,-,1.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+52,JE Root,Imran Tahir,EJG Morgan,0,1,1,105,124,10,10,3,wides,1.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+53,JE Root,Imran Tahir,EJG Morgan,1,0,1,106,123,11,11,3,-,2.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+54,EJG Morgan,Imran Tahir,JE Root,0,0,0,106,123,8,10,3,-,3.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+55,EJG Morgan,Imran Tahir,JE Root,0,0,0,106,123,8,11,3,-,4.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+56,EJG Morgan,Imran Tahir,JE Root,2,0,2,108,121,10,12,3,-,5.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+57,EJG Morgan,Imran Tahir,JE Root,1,0,1,109,120,11,13,3,-,6.0,8,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+58,EJG Morgan,JP Duminy,JE Root,1,0,1,110,119,12,14,3,-,1.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+59,JE Root,JP Duminy,EJG Morgan,1,0,1,111,118,12,12,3,-,2.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Offbreak
+60,EJG Morgan,JP Duminy,JE Root,0,0,0,111,118,12,15,3,-,3.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+61,EJG Morgan,JP Duminy,JE Root,0,0,0,111,118,12,16,4,-,4.0,9,bowled,EJG Morgan,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Offbreak
+62,JC Buttler,JP Duminy,JE Root,1,0,1,112,117,1,1,4,-,5.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Offbreak
+63,JE Root,JP Duminy,JC Buttler,6,0,6,118,111,18,13,4,-,6.0,9,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Offbreak
+64,JC Buttler,CH Morris,JE Root,1,0,1,119,110,2,2,4,-,1.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+65,JE Root,CH Morris,JC Buttler,6,0,6,125,104,24,14,4,-,2.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+66,JE Root,CH Morris,JC Buttler,1,0,1,126,103,25,15,4,-,3.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+67,JC Buttler,CH Morris,JE Root,0,1,1,127,102,2,3,4,wides,3.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+68,JC Buttler,CH Morris,JE Root,0,1,1,128,101,2,4,4,legbyes,4.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+69,JE Root,CH Morris,JC Buttler,0,1,1,129,100,25,16,4,legbyes,5.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+70,JC Buttler,CH Morris,JE Root,4,0,4,133,96,6,5,4,-,6.0,10,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+71,JE Root,JP Duminy,JC Buttler,4,0,4,137,92,29,17,4,-,1.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Offbreak
+72,JE Root,JP Duminy,JC Buttler,1,0,1,138,91,30,18,4,-,2.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Offbreak
+73,JC Buttler,JP Duminy,JE Root,1,0,1,139,90,7,6,4,-,3.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Offbreak
+74,JE Root,JP Duminy,JC Buttler,2,0,2,141,88,32,19,4,-,4.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Offbreak
+75,JE Root,JP Duminy,JC Buttler,1,0,1,142,87,33,20,4,-,5.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Offbreak
+76,JC Buttler,JP Duminy,JE Root,6,0,6,148,81,13,7,4,-,6.0,11,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Offbreak
+77,JE Root,DW Steyn,JC Buttler,2,0,2,150,79,35,21,4,-,1.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+78,JE Root,DW Steyn,JC Buttler,0,1,1,151,78,35,22,4,wides,1.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+79,JE Root,DW Steyn,JC Buttler,1,0,1,152,77,36,23,4,-,2.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+80,JC Buttler,DW Steyn,JE Root,1,0,1,153,76,14,8,4,-,3.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+81,JE Root,DW Steyn,JC Buttler,2,0,2,155,74,38,24,4,-,4.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+82,JE Root,DW Steyn,JC Buttler,4,0,4,159,70,42,25,4,-,5.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+83,JE Root,DW Steyn,JC Buttler,1,0,1,160,69,43,26,4,-,6.0,12,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+84,JE Root,Imran Tahir,JC Buttler,1,0,1,161,68,44,27,4,-,1.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Legbreak
+85,JC Buttler,Imran Tahir,JE Root,0,3,3,164,65,14,9,4,wides,1.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+86,JC Buttler,Imran Tahir,JE Root,2,0,2,166,63,16,10,4,-,2.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+87,JC Buttler,Imran Tahir,JE Root,1,0,1,167,62,17,11,4,-,3.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+88,JE Root,Imran Tahir,JC Buttler,1,0,1,168,61,45,28,4,-,4.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Legbreak
+89,JC Buttler,Imran Tahir,JE Root,1,0,1,169,60,18,12,4,-,5.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+90,JE Root,Imran Tahir,JC Buttler,1,0,1,170,59,46,29,4,-,6.0,13,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Legbreak
+91,JE Root,CH Morris,JC Buttler,0,1,1,171,58,46,30,4,wides,0.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+92,JE Root,CH Morris,JC Buttler,1,0,1,172,57,47,31,4,-,1.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+93,JC Buttler,CH Morris,JE Root,1,0,1,173,56,19,13,4,-,2.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+94,JE Root,CH Morris,JC Buttler,6,0,6,179,50,53,32,4,-,3.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+95,JE Root,CH Morris,JC Buttler,1,0,1,180,49,54,33,4,-,4.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+96,JC Buttler,CH Morris,JE Root,0,1,1,181,48,19,14,4,wides,4.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+97,JC Buttler,CH Morris,JE Root,1,0,1,182,47,20,15,4,-,5.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Fast
+98,JE Root,CH Morris,JC Buttler,1,0,1,183,46,55,34,4,-,6.0,14,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Fast
+99,JE Root,Imran Tahir,JC Buttler,1,0,1,184,45,56,35,4,-,1.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Legbreak
+100,JC Buttler,Imran Tahir,JE Root,1,0,1,185,44,21,16,4,-,2.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+101,JE Root,Imran Tahir,JC Buttler,1,0,1,186,43,57,36,4,-,3.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,,Right arm Legbreak
+102,JC Buttler,Imran Tahir,JE Root,0,0,0,186,43,21,17,5,-,4.0,15,stumped,JC Buttler,Q de Kock,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,,Right hand Bat,Right arm Legbreak
+103,MM Ali,Imran Tahir,JE Root,1,0,1,187,42,1,1,5,-,5.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Legbreak
+104,JE Root,Imran Tahir,MM Ali,1,0,1,188,41,58,37,5,-,6.0,15,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Legbreak
+105,JE Root,KJ Abbott,MM Ali,4,0,4,192,37,62,38,5,-,1.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+106,JE Root,KJ Abbott,MM Ali,6,0,6,198,31,68,39,5,-,2.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+107,JE Root,KJ Abbott,MM Ali,1,0,1,199,30,69,40,5,-,3.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+108,MM Ali,KJ Abbott,JE Root,0,1,1,200,29,1,2,5,wides,3.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+109,MM Ali,KJ Abbott,JE Root,1,0,1,201,28,2,3,5,-,4.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+110,JE Root,KJ Abbott,MM Ali,1,0,1,202,27,70,41,5,-,5.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+111,MM Ali,KJ Abbott,JE Root,0,0,0,202,27,2,4,5,-,6.0,16,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+112,JE Root,CH Morris,MM Ali,4,0,4,206,23,74,42,5,-,1.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+113,JE Root,CH Morris,MM Ali,4,0,4,210,19,78,43,5,-,2.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+114,JE Root,CH Morris,MM Ali,4,0,4,214,15,82,44,5,-,3.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+115,JE Root,CH Morris,MM Ali,1,0,1,215,14,83,45,5,-,4.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+116,MM Ali,CH Morris,JE Root,0,0,0,215,14,2,5,5,-,5.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+117,MM Ali,CH Morris,JE Root,0,4,4,219,10,2,6,5,legbyes,6.0,17,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+118,JE Root,K Rabada,MM Ali,0,0,0,219,10,83,46,5,-,1.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+119,JE Root,K Rabada,MM Ali,0,0,0,219,10,83,47,6,-,2.0,18,caught,JE Root,DA Miller,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+120,MM Ali,K Rabada,CJ Jordan,4,0,4,223,6,6,7,6,-,3.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+121,MM Ali,K Rabada,CJ Jordan,1,0,1,224,5,7,8,6,-,4.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+122,CJ Jordan,K Rabada,MM Ali,4,0,4,228,1,4,1,6,-,5.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+123,CJ Jordan,K Rabada,MM Ali,1,0,1,229,0,5,2,6,-,6.0,18,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+124,CJ Jordan,KJ Abbott,MM Ali,0,0,0,229,0,5,3,7,-,1.0,19,caught,CJ Jordan,JP Duminy,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Right hand Bat,Left hand Bat,Right arm Fast
+125,MM Ali,KJ Abbott,DJ Willey,0,0,0,229,0,7,9,8,-,2.0,19,run out,DJ Willey,DA Miller;AB de Villiers,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Left hand Bat,Right arm Fast
+126,MM Ali,KJ Abbott,AU Rashid,0,0,0,229,0,7,10,8,-,3.0,19,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast
+127,MM Ali,KJ Abbott,AU Rashid,1,0,1,230,-1,8,11,8,-,4.0,19,0,,,field,England,2,Wankhede Stadium,2016,03,England_South Africa_2016-03-18,England,England,South Africa,True,230,Left hand Bat,Right hand Bat,Right arm Fast

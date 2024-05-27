@@ -1,126 +1,126 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,159,0,1,0,-,1.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-1,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,1,158,1,2,0,-,2.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-2,RG Sharma,Shaheen Shah Afridi,KL Rahul,1,0,1,2,157,1,1,0,-,3.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-3,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,3,156,2,3,0,-,4.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-4,RG Sharma,Shaheen Shah Afridi,KL Rahul,0,0,0,3,156,1,2,0,-,5.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-5,RG Sharma,Shaheen Shah Afridi,KL Rahul,2,0,2,5,154,3,3,0,-,6.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-6,KL Rahul,Naseem Shah,RG Sharma,0,0,0,5,154,2,4,0,-,1.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-7,KL Rahul,Naseem Shah,RG Sharma,0,0,0,5,154,2,5,0,-,2.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-8,KL Rahul,Naseem Shah,RG Sharma,2,0,2,7,152,4,6,0,-,3.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-9,KL Rahul,Naseem Shah,RG Sharma,0,0,0,7,152,4,7,0,-,4.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-10,KL Rahul,Naseem Shah,RG Sharma,0,0,0,7,152,4,8,1,-,5.0,1,bowled,KL Rahul,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-11,V Kohli,Naseem Shah,RG Sharma,0,0,0,7,152,0,1,1,-,6.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-12,RG Sharma,Shaheen Shah Afridi,V Kohli,0,0,0,7,152,3,4,1,-,1.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-13,RG Sharma,Shaheen Shah Afridi,V Kohli,1,0,1,8,151,4,5,1,-,2.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-14,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,8,151,0,2,1,-,3.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-15,V Kohli,Shaheen Shah Afridi,RG Sharma,2,0,2,10,149,2,3,1,-,4.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-16,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,10,149,2,4,1,-,5.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-17,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,10,149,2,5,1,-,6.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-18,RG Sharma,Haris Rauf,V Kohli,0,0,0,10,149,4,6,1,-,1.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-19,RG Sharma,Haris Rauf,V Kohli,0,0,0,10,149,4,7,2,-,2.0,3,caught,RG Sharma,Iftikhar Ahmed,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-20,SA Yadav,Haris Rauf,V Kohli,4,0,4,14,145,4,1,2,-,3.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-21,SA Yadav,Haris Rauf,V Kohli,3,0,3,17,142,7,2,2,-,4.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-22,V Kohli,Haris Rauf,SA Yadav,0,0,0,17,142,2,6,2,-,5.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-23,V Kohli,Haris Rauf,SA Yadav,0,0,0,17,142,2,7,2,-,6.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-24,SA Yadav,Naseem Shah,V Kohli,0,0,0,17,142,7,3,2,-,1.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-25,SA Yadav,Naseem Shah,V Kohli,0,0,0,17,142,7,4,2,-,2.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-26,SA Yadav,Naseem Shah,V Kohli,3,0,3,20,139,10,5,2,-,3.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-27,V Kohli,Naseem Shah,SA Yadav,1,0,1,21,138,3,8,2,-,4.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-28,SA Yadav,Naseem Shah,V Kohli,0,0,0,21,138,10,6,2,-,5.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-29,SA Yadav,Naseem Shah,V Kohli,1,0,1,22,137,11,7,2,-,6.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-30,SA Yadav,Haris Rauf,V Kohli,0,0,0,22,137,11,8,2,-,1.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-31,SA Yadav,Haris Rauf,V Kohli,4,0,4,26,133,15,9,2,-,2.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-32,SA Yadav,Haris Rauf,V Kohli,0,0,0,26,133,15,10,3,-,3.0,5,caught,SA Yadav,Mohammad Rizwan,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-33,AR Patel,Haris Rauf,V Kohli,2,0,2,28,131,2,1,3,-,4.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-34,AR Patel,Haris Rauf,V Kohli,0,1,1,29,130,2,2,3,legbyes,5.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-35,V Kohli,Haris Rauf,AR Patel,2,0,2,31,128,5,9,3,-,6.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-36,AR Patel,Shadab Khan,V Kohli,0,0,0,31,128,2,3,4,-,1.0,6,run out,AR Patel,Mohammad Rizwan;Babar Azam,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-37,HH Pandya,Shadab Khan,V Kohli,0,0,0,31,128,0,1,4,-,2.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-38,HH Pandya,Shadab Khan,V Kohli,1,0,1,32,127,1,2,4,-,3.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-39,V Kohli,Shadab Khan,HH Pandya,0,0,0,32,127,5,10,4,-,4.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-40,V Kohli,Shadab Khan,HH Pandya,1,0,1,33,126,6,11,4,-,5.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-41,HH Pandya,Shadab Khan,V Kohli,0,0,0,33,126,1,3,4,-,6.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-42,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,34,125,7,12,4,-,1.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-43,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,34,125,1,4,4,-,2.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-44,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,35,124,2,5,4,-,3.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-45,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,36,123,8,13,4,-,4.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-46,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,37,122,3,6,4,-,5.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-47,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,38,121,9,14,4,-,6.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-48,V Kohli,Shadab Khan,HH Pandya,1,0,1,39,120,10,15,4,-,1.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-49,HH Pandya,Shadab Khan,V Kohli,1,0,1,40,119,4,7,4,-,2.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-50,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,16,4,-,3.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-51,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,17,4,-,4.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-52,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,18,4,-,5.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-53,V Kohli,Shadab Khan,HH Pandya,1,0,1,41,118,11,19,4,-,6.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-54,V Kohli,Mohammad Nawaz,HH Pandya,0,0,0,41,118,11,20,4,-,1.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-55,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,42,117,12,21,4,-,2.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-56,HH Pandya,Mohammad Nawaz,V Kohli,2,0,2,44,115,6,8,4,-,3.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-57,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,44,115,6,9,4,-,4.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-58,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,44,115,6,10,4,-,5.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-59,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,45,114,7,11,4,-,6.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-60,HH Pandya,Shadab Khan,V Kohli,0,0,0,45,114,7,12,4,-,1.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-61,HH Pandya,Shadab Khan,V Kohli,4,0,4,49,110,11,13,4,-,2.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-62,HH Pandya,Shadab Khan,V Kohli,1,0,1,50,109,12,14,4,-,3.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-63,V Kohli,Shadab Khan,HH Pandya,1,0,1,51,108,13,22,4,-,4.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-64,HH Pandya,Shadab Khan,V Kohli,1,0,1,52,107,13,15,4,-,5.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-65,V Kohli,Shadab Khan,HH Pandya,2,0,2,54,105,15,23,4,-,6.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-66,HH Pandya,Mohammad Nawaz,V Kohli,6,0,6,60,99,19,16,4,-,1.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-67,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,61,98,20,17,4,-,2.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-68,V Kohli,Mohammad Nawaz,HH Pandya,0,0,0,61,98,15,24,4,-,3.0,11,0,,,"{'by': 'Pakistan', 'umpire': 'RJ Tucker', 'batter': 'V Kohli', 'decision': 'struck down'}",field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-69,V Kohli,Mohammad Nawaz,HH Pandya,6,0,6,67,92,21,25,4,-,4.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-70,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,68,91,22,26,4,-,5.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-71,HH Pandya,Mohammad Nawaz,V Kohli,6,0,6,74,85,26,18,4,-,6.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-72,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,75,84,23,27,4,-,1.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-73,HH Pandya,Shaheen Shah Afridi,V Kohli,2,0,2,77,82,28,19,4,-,2.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-74,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,78,81,29,20,4,-,3.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-75,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,82,77,27,28,4,-,4.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-76,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,83,76,28,29,4,-,5.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-77,HH Pandya,Shaheen Shah Afridi,V Kohli,0,0,0,83,76,29,21,4,-,6.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-78,V Kohli,Shadab Khan,HH Pandya,4,0,4,87,72,32,30,4,-,1.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-79,V Kohli,Shadab Khan,HH Pandya,1,0,1,88,71,33,31,4,-,2.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-80,HH Pandya,Shadab Khan,V Kohli,0,0,0,88,71,29,22,4,-,3.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-81,HH Pandya,Shadab Khan,V Kohli,1,0,1,89,70,30,23,4,-,4.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-82,V Kohli,Shadab Khan,HH Pandya,0,0,0,89,70,33,32,4,-,5.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-83,V Kohli,Shadab Khan,HH Pandya,1,0,1,90,69,34,33,4,-,6.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-84,V Kohli,Naseem Shah,HH Pandya,2,0,2,92,67,36,34,4,-,1.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-85,V Kohli,Naseem Shah,HH Pandya,1,0,1,93,66,37,35,4,-,2.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-86,HH Pandya,Naseem Shah,V Kohli,1,0,1,94,65,31,24,4,-,3.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-87,V Kohli,Naseem Shah,HH Pandya,4,0,4,98,61,41,36,4,-,4.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-88,V Kohli,Naseem Shah,HH Pandya,1,0,1,99,60,42,37,4,-,5.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-89,HH Pandya,Naseem Shah,V Kohli,1,0,1,100,59,32,25,4,-,6.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-90,HH Pandya,Haris Rauf,V Kohli,0,0,0,100,59,32,26,4,-,1.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-91,HH Pandya,Haris Rauf,V Kohli,1,0,1,101,58,33,27,4,-,2.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-92,V Kohli,Haris Rauf,HH Pandya,0,0,0,101,58,42,38,4,-,3.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-93,V Kohli,Haris Rauf,HH Pandya,1,0,1,102,57,43,39,4,-,4.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-94,HH Pandya,Haris Rauf,V Kohli,0,3,3,105,54,33,28,4,wides,4.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-95,HH Pandya,Haris Rauf,V Kohli,0,0,0,105,54,33,29,4,-,5.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-96,HH Pandya,Haris Rauf,V Kohli,1,0,1,106,53,34,30,4,-,6.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-97,HH Pandya,Naseem Shah,V Kohli,1,0,1,107,52,35,31,4,-,1.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-98,V Kohli,Naseem Shah,HH Pandya,2,0,2,109,50,45,40,4,-,2.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-99,V Kohli,Naseem Shah,HH Pandya,0,0,0,109,50,45,41,4,-,3.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-100,V Kohli,Naseem Shah,HH Pandya,1,0,1,110,49,46,42,4,-,4.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-101,HH Pandya,Naseem Shah,V Kohli,0,0,0,110,49,35,32,4,-,5.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-102,HH Pandya,Naseem Shah,V Kohli,2,0,2,112,47,37,33,4,-,6.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-103,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,116,43,50,43,4,-,1.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-104,V Kohli,Shaheen Shah Afridi,HH Pandya,0,1,1,117,42,50,44,4,wides,1.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-105,V Kohli,Shaheen Shah Afridi,HH Pandya,2,0,2,119,40,52,45,4,-,2.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-106,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,123,36,56,46,4,-,3.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-107,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,124,35,57,47,4,-,4.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-108,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,125,34,38,34,4,-,5.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-109,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,129,30,61,48,4,-,6.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-110,HH Pandya,Haris Rauf,V Kohli,1,0,1,130,29,39,35,4,-,1.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-111,V Kohli,Haris Rauf,HH Pandya,1,0,1,131,28,62,49,4,-,2.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-112,HH Pandya,Haris Rauf,V Kohli,0,0,0,131,28,39,36,4,-,3.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-113,HH Pandya,Haris Rauf,V Kohli,1,0,1,132,27,40,37,4,-,4.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-114,V Kohli,Haris Rauf,HH Pandya,6,0,6,138,21,68,50,4,-,5.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-115,V Kohli,Haris Rauf,HH Pandya,6,0,6,144,15,74,51,4,-,6.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-116,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,144,15,40,38,5,-,1.0,19,caught,HH Pandya,Babar Azam,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-117,KD Karthik,Mohammad Nawaz,V Kohli,1,0,1,145,14,1,1,5,-,2.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-118,V Kohli,Mohammad Nawaz,KD Karthik,2,0,2,147,12,76,52,5,-,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-119,V Kohli,Mohammad Nawaz,KD Karthik,6,1,7,154,5,82,53,5,noballs,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-120,V Kohli,Mohammad Nawaz,KD Karthik,0,1,1,155,4,82,54,5,wides,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-121,V Kohli,Mohammad Nawaz,KD Karthik,0,3,3,158,1,82,55,5,byes,4.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-122,KD Karthik,Mohammad Nawaz,V Kohli,0,0,0,158,1,1,2,6,-,5.0,19,stumped,KD Karthik,Mohammad Rizwan,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-123,R Ashwin,Mohammad Nawaz,V Kohli,0,1,1,159,0,0,1,6,wides,5.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
-124,R Ashwin,Mohammad Nawaz,V Kohli,1,0,1,160,-1,1,2,6,-,6.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,KL Rahul,Shaheen Shah Afridi,RG Sharma,0,0,0,0,159,0,1,0,-,1.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Left arm Fast
+1,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,1,158,1,2,0,-,2.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Left arm Fast
+2,RG Sharma,Shaheen Shah Afridi,KL Rahul,1,0,1,2,157,1,1,0,-,3.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,,Left arm Fast
+3,KL Rahul,Shaheen Shah Afridi,RG Sharma,1,0,1,3,156,2,3,0,-,4.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Left arm Fast
+4,RG Sharma,Shaheen Shah Afridi,KL Rahul,0,0,0,3,156,1,2,0,-,5.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,,Left arm Fast
+5,RG Sharma,Shaheen Shah Afridi,KL Rahul,2,0,2,5,154,3,3,0,-,6.0,0,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,,Left arm Fast
+6,KL Rahul,Naseem Shah,RG Sharma,0,0,0,5,154,2,4,0,-,1.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Right arm Fast
+7,KL Rahul,Naseem Shah,RG Sharma,0,0,0,5,154,2,5,0,-,2.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Right arm Fast
+8,KL Rahul,Naseem Shah,RG Sharma,2,0,2,7,152,4,6,0,-,3.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Right arm Fast
+9,KL Rahul,Naseem Shah,RG Sharma,0,0,0,7,152,4,7,0,-,4.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Right arm Fast
+10,KL Rahul,Naseem Shah,RG Sharma,0,0,0,7,152,4,8,1,-,5.0,1,bowled,KL Rahul,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,,Right hand Bat,Right arm Fast
+11,V Kohli,Naseem Shah,RG Sharma,0,0,0,7,152,0,1,1,-,6.0,1,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+12,RG Sharma,Shaheen Shah Afridi,V Kohli,0,0,0,7,152,3,4,1,-,1.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+13,RG Sharma,Shaheen Shah Afridi,V Kohli,1,0,1,8,151,4,5,1,-,2.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+14,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,8,151,0,2,1,-,3.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+15,V Kohli,Shaheen Shah Afridi,RG Sharma,2,0,2,10,149,2,3,1,-,4.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+16,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,10,149,2,4,1,-,5.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+17,V Kohli,Shaheen Shah Afridi,RG Sharma,0,0,0,10,149,2,5,1,-,6.0,2,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+18,RG Sharma,Haris Rauf,V Kohli,0,0,0,10,149,4,6,1,-,1.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+19,RG Sharma,Haris Rauf,V Kohli,0,0,0,10,149,4,7,2,-,2.0,3,caught,RG Sharma,Iftikhar Ahmed,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+20,SA Yadav,Haris Rauf,V Kohli,4,0,4,14,145,4,1,2,-,3.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+21,SA Yadav,Haris Rauf,V Kohli,3,0,3,17,142,7,2,2,-,4.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+22,V Kohli,Haris Rauf,SA Yadav,0,0,0,17,142,2,6,2,-,5.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+23,V Kohli,Haris Rauf,SA Yadav,0,0,0,17,142,2,7,2,-,6.0,3,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+24,SA Yadav,Naseem Shah,V Kohli,0,0,0,17,142,7,3,2,-,1.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+25,SA Yadav,Naseem Shah,V Kohli,0,0,0,17,142,7,4,2,-,2.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+26,SA Yadav,Naseem Shah,V Kohli,3,0,3,20,139,10,5,2,-,3.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+27,V Kohli,Naseem Shah,SA Yadav,1,0,1,21,138,3,8,2,-,4.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+28,SA Yadav,Naseem Shah,V Kohli,0,0,0,21,138,10,6,2,-,5.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+29,SA Yadav,Naseem Shah,V Kohli,1,0,1,22,137,11,7,2,-,6.0,4,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+30,SA Yadav,Haris Rauf,V Kohli,0,0,0,22,137,11,8,2,-,1.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+31,SA Yadav,Haris Rauf,V Kohli,4,0,4,26,133,15,9,2,-,2.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+32,SA Yadav,Haris Rauf,V Kohli,0,0,0,26,133,15,10,3,-,3.0,5,caught,SA Yadav,Mohammad Rizwan,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+33,AR Patel,Haris Rauf,V Kohli,2,0,2,28,131,2,1,3,-,4.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Left hand Bat,Right hand Bat,Right arm Fast
+34,AR Patel,Haris Rauf,V Kohli,0,1,1,29,130,2,2,3,legbyes,5.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Left hand Bat,Right hand Bat,Right arm Fast
+35,V Kohli,Haris Rauf,AR Patel,2,0,2,31,128,5,9,3,-,6.0,5,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Left hand Bat,Right arm Fast
+36,AR Patel,Shadab Khan,V Kohli,0,0,0,31,128,2,3,4,-,1.0,6,run out,AR Patel,Mohammad Rizwan;Babar Azam,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Left hand Bat,Right hand Bat,Right arm Legbreak
+37,HH Pandya,Shadab Khan,V Kohli,0,0,0,31,128,0,1,4,-,2.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+38,HH Pandya,Shadab Khan,V Kohli,1,0,1,32,127,1,2,4,-,3.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+39,V Kohli,Shadab Khan,HH Pandya,0,0,0,32,127,5,10,4,-,4.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+40,V Kohli,Shadab Khan,HH Pandya,1,0,1,33,126,6,11,4,-,5.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+41,HH Pandya,Shadab Khan,V Kohli,0,0,0,33,126,1,3,4,-,6.0,6,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+42,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,34,125,7,12,4,-,1.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+43,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,34,125,1,4,4,-,2.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+44,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,35,124,2,5,4,-,3.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+45,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,36,123,8,13,4,-,4.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+46,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,37,122,3,6,4,-,5.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+47,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,38,121,9,14,4,-,6.0,7,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+48,V Kohli,Shadab Khan,HH Pandya,1,0,1,39,120,10,15,4,-,1.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+49,HH Pandya,Shadab Khan,V Kohli,1,0,1,40,119,4,7,4,-,2.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+50,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,16,4,-,3.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+51,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,17,4,-,4.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+52,V Kohli,Shadab Khan,HH Pandya,0,0,0,40,119,10,18,4,-,5.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+53,V Kohli,Shadab Khan,HH Pandya,1,0,1,41,118,11,19,4,-,6.0,8,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+54,V Kohli,Mohammad Nawaz,HH Pandya,0,0,0,41,118,11,20,4,-,1.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+55,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,42,117,12,21,4,-,2.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+56,HH Pandya,Mohammad Nawaz,V Kohli,2,0,2,44,115,6,8,4,-,3.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+57,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,44,115,6,9,4,-,4.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+58,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,44,115,6,10,4,-,5.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+59,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,45,114,7,11,4,-,6.0,9,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+60,HH Pandya,Shadab Khan,V Kohli,0,0,0,45,114,7,12,4,-,1.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+61,HH Pandya,Shadab Khan,V Kohli,4,0,4,49,110,11,13,4,-,2.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+62,HH Pandya,Shadab Khan,V Kohli,1,0,1,50,109,12,14,4,-,3.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+63,V Kohli,Shadab Khan,HH Pandya,1,0,1,51,108,13,22,4,-,4.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+64,HH Pandya,Shadab Khan,V Kohli,1,0,1,52,107,13,15,4,-,5.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+65,V Kohli,Shadab Khan,HH Pandya,2,0,2,54,105,15,23,4,-,6.0,10,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+66,HH Pandya,Mohammad Nawaz,V Kohli,6,0,6,60,99,19,16,4,-,1.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+67,HH Pandya,Mohammad Nawaz,V Kohli,1,0,1,61,98,20,17,4,-,2.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+68,V Kohli,Mohammad Nawaz,HH Pandya,0,0,0,61,98,15,24,4,-,3.0,11,0,,,"{'by': 'Pakistan', 'umpire': 'RJ Tucker', 'batter': 'V Kohli', 'decision': 'struck down'}",field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+69,V Kohli,Mohammad Nawaz,HH Pandya,6,0,6,67,92,21,25,4,-,4.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+70,V Kohli,Mohammad Nawaz,HH Pandya,1,0,1,68,91,22,26,4,-,5.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+71,HH Pandya,Mohammad Nawaz,V Kohli,6,0,6,74,85,26,18,4,-,6.0,11,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+72,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,75,84,23,27,4,-,1.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+73,HH Pandya,Shaheen Shah Afridi,V Kohli,2,0,2,77,82,28,19,4,-,2.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+74,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,78,81,29,20,4,-,3.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+75,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,82,77,27,28,4,-,4.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+76,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,83,76,28,29,4,-,5.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+77,HH Pandya,Shaheen Shah Afridi,V Kohli,0,0,0,83,76,29,21,4,-,6.0,12,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+78,V Kohli,Shadab Khan,HH Pandya,4,0,4,87,72,32,30,4,-,1.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+79,V Kohli,Shadab Khan,HH Pandya,1,0,1,88,71,33,31,4,-,2.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+80,HH Pandya,Shadab Khan,V Kohli,0,0,0,88,71,29,22,4,-,3.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+81,HH Pandya,Shadab Khan,V Kohli,1,0,1,89,70,30,23,4,-,4.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+82,V Kohli,Shadab Khan,HH Pandya,0,0,0,89,70,33,32,4,-,5.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+83,V Kohli,Shadab Khan,HH Pandya,1,0,1,90,69,34,33,4,-,6.0,13,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Legbreak
+84,V Kohli,Naseem Shah,HH Pandya,2,0,2,92,67,36,34,4,-,1.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+85,V Kohli,Naseem Shah,HH Pandya,1,0,1,93,66,37,35,4,-,2.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+86,HH Pandya,Naseem Shah,V Kohli,1,0,1,94,65,31,24,4,-,3.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+87,V Kohli,Naseem Shah,HH Pandya,4,0,4,98,61,41,36,4,-,4.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+88,V Kohli,Naseem Shah,HH Pandya,1,0,1,99,60,42,37,4,-,5.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+89,HH Pandya,Naseem Shah,V Kohli,1,0,1,100,59,32,25,4,-,6.0,14,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+90,HH Pandya,Haris Rauf,V Kohli,0,0,0,100,59,32,26,4,-,1.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+91,HH Pandya,Haris Rauf,V Kohli,1,0,1,101,58,33,27,4,-,2.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+92,V Kohli,Haris Rauf,HH Pandya,0,0,0,101,58,42,38,4,-,3.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+93,V Kohli,Haris Rauf,HH Pandya,1,0,1,102,57,43,39,4,-,4.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+94,HH Pandya,Haris Rauf,V Kohli,0,3,3,105,54,33,28,4,wides,4.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+95,HH Pandya,Haris Rauf,V Kohli,0,0,0,105,54,33,29,4,-,5.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+96,HH Pandya,Haris Rauf,V Kohli,1,0,1,106,53,34,30,4,-,6.0,15,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+97,HH Pandya,Naseem Shah,V Kohli,1,0,1,107,52,35,31,4,-,1.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+98,V Kohli,Naseem Shah,HH Pandya,2,0,2,109,50,45,40,4,-,2.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+99,V Kohli,Naseem Shah,HH Pandya,0,0,0,109,50,45,41,4,-,3.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+100,V Kohli,Naseem Shah,HH Pandya,1,0,1,110,49,46,42,4,-,4.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+101,HH Pandya,Naseem Shah,V Kohli,0,0,0,110,49,35,32,4,-,5.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+102,HH Pandya,Naseem Shah,V Kohli,2,0,2,112,47,37,33,4,-,6.0,16,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+103,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,116,43,50,43,4,-,1.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+104,V Kohli,Shaheen Shah Afridi,HH Pandya,0,1,1,117,42,50,44,4,wides,1.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+105,V Kohli,Shaheen Shah Afridi,HH Pandya,2,0,2,119,40,52,45,4,-,2.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+106,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,123,36,56,46,4,-,3.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+107,V Kohli,Shaheen Shah Afridi,HH Pandya,1,0,1,124,35,57,47,4,-,4.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+108,HH Pandya,Shaheen Shah Afridi,V Kohli,1,0,1,125,34,38,34,4,-,5.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+109,V Kohli,Shaheen Shah Afridi,HH Pandya,4,0,4,129,30,61,48,4,-,6.0,17,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Fast
+110,HH Pandya,Haris Rauf,V Kohli,1,0,1,130,29,39,35,4,-,1.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+111,V Kohli,Haris Rauf,HH Pandya,1,0,1,131,28,62,49,4,-,2.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+112,HH Pandya,Haris Rauf,V Kohli,0,0,0,131,28,39,36,4,-,3.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+113,HH Pandya,Haris Rauf,V Kohli,1,0,1,132,27,40,37,4,-,4.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+114,V Kohli,Haris Rauf,HH Pandya,6,0,6,138,21,68,50,4,-,5.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+115,V Kohli,Haris Rauf,HH Pandya,6,0,6,144,15,74,51,4,-,6.0,18,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Right arm Fast
+116,HH Pandya,Mohammad Nawaz,V Kohli,0,0,0,144,15,40,38,5,-,1.0,19,caught,HH Pandya,Babar Azam,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+117,KD Karthik,Mohammad Nawaz,V Kohli,1,0,1,145,14,1,1,5,-,2.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+118,V Kohli,Mohammad Nawaz,KD Karthik,2,0,2,147,12,76,52,5,-,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+119,V Kohli,Mohammad Nawaz,KD Karthik,6,1,7,154,5,82,53,5,noballs,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+120,V Kohli,Mohammad Nawaz,KD Karthik,0,1,1,155,4,82,54,5,wides,3.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+121,V Kohli,Mohammad Nawaz,KD Karthik,0,3,3,158,1,82,55,5,byes,4.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+122,KD Karthik,Mohammad Nawaz,V Kohli,0,0,0,158,1,1,2,6,-,5.0,19,stumped,KD Karthik,Mohammad Rizwan,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+123,R Ashwin,Mohammad Nawaz,V Kohli,0,1,1,159,0,0,1,6,wides,5.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox
+124,R Ashwin,Mohammad Nawaz,V Kohli,1,0,1,160,-1,1,2,6,-,6.0,19,0,,,,field,India,2,Melbourne Cricket Ground,2022,10,Pakistan_India_2022-10-23,India,India,Pakistan,True,160,Right hand Bat,Right hand Bat,Left arm Orthodox

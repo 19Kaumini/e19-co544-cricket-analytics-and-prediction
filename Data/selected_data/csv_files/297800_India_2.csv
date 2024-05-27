@@ -1,118 +1,118 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,G Gambhir,B Lee,V Sehwag,0,0,0,0,166,0,1,0,-,1.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-1,G Gambhir,B Lee,V Sehwag,0,1,1,1,165,0,2,0,wides,1.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-2,G Gambhir,B Lee,V Sehwag,0,0,0,1,165,0,3,0,-,2.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-3,G Gambhir,B Lee,V Sehwag,1,0,1,2,164,1,4,0,-,3.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-4,V Sehwag,B Lee,G Gambhir,0,0,0,2,164,0,1,0,-,4.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-5,V Sehwag,B Lee,G Gambhir,1,0,1,3,163,1,2,0,-,5.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-6,G Gambhir,B Lee,V Sehwag,0,1,1,4,162,1,5,0,legbyes,6.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-7,G Gambhir,NW Bracken,V Sehwag,4,0,4,8,158,5,6,0,-,1.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-8,G Gambhir,NW Bracken,V Sehwag,0,4,4,12,154,5,7,0,legbyes,2.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-9,G Gambhir,NW Bracken,V Sehwag,0,0,0,12,154,5,8,0,-,3.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-10,G Gambhir,NW Bracken,V Sehwag,0,0,0,12,154,5,9,0,-,4.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-11,G Gambhir,NW Bracken,V Sehwag,4,0,4,16,150,9,10,0,-,5.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-12,G Gambhir,NW Bracken,V Sehwag,0,0,0,16,150,9,11,0,-,6.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-13,V Sehwag,B Lee,G Gambhir,4,0,4,20,146,5,3,0,-,1.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-14,V Sehwag,B Lee,G Gambhir,0,0,0,20,146,5,4,1,-,2.0,2,caught,V Sehwag,AC Gilchrist,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-15,RV Uthappa,B Lee,G Gambhir,0,0,0,20,146,0,1,1,-,3.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-16,RV Uthappa,B Lee,G Gambhir,1,0,1,21,145,1,2,1,-,4.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-17,G Gambhir,B Lee,RV Uthappa,1,0,1,22,144,10,12,1,-,5.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-18,RV Uthappa,B Lee,G Gambhir,0,0,0,22,144,1,3,1,-,6.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-19,G Gambhir,BW Hilfenhaus,RV Uthappa,1,1,2,24,142,11,13,1,noballs,0.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-20,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,24,142,1,4,1,-,1.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-21,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,28,138,5,5,1,-,2.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-22,RV Uthappa,BW Hilfenhaus,G Gambhir,1,0,1,29,137,6,6,1,-,3.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-23,G Gambhir,BW Hilfenhaus,RV Uthappa,0,1,1,30,136,11,14,1,legbyes,4.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-24,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,30,136,6,7,1,-,5.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-25,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,30,136,6,8,1,-,6.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-26,G Gambhir,B Lee,RV Uthappa,4,0,4,34,132,15,15,1,-,1.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-27,G Gambhir,B Lee,RV Uthappa,5,0,5,39,127,20,16,1,-,2.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-28,RV Uthappa,B Lee,G Gambhir,4,1,5,44,122,10,9,1,noballs,2.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-29,RV Uthappa,B Lee,G Gambhir,4,0,4,48,118,14,10,1,-,3.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-30,RV Uthappa,B Lee,G Gambhir,0,0,0,48,118,14,11,1,-,4.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-31,RV Uthappa,B Lee,G Gambhir,1,0,1,49,117,15,12,1,-,5.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-32,G Gambhir,B Lee,RV Uthappa,1,0,1,50,116,21,17,1,-,6.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-33,G Gambhir,BW Hilfenhaus,RV Uthappa,0,0,0,50,116,21,18,1,-,1.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-34,G Gambhir,BW Hilfenhaus,RV Uthappa,4,0,4,54,112,25,19,1,-,2.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-35,G Gambhir,BW Hilfenhaus,RV Uthappa,1,0,1,55,111,26,20,1,-,3.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-36,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,59,107,19,13,1,-,4.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-37,RV Uthappa,BW Hilfenhaus,G Gambhir,1,1,2,61,105,20,14,1,noballs,4.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-38,G Gambhir,BW Hilfenhaus,RV Uthappa,6,0,6,67,99,32,21,1,-,5.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-39,G Gambhir,BW Hilfenhaus,RV Uthappa,1,0,1,68,98,33,22,1,-,6.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-40,G Gambhir,SR Clark,RV Uthappa,1,0,1,69,97,34,23,1,-,1.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-41,RV Uthappa,SR Clark,G Gambhir,1,0,1,70,96,21,15,1,-,2.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-42,G Gambhir,SR Clark,RV Uthappa,4,0,4,74,92,38,24,1,-,3.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-43,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,25,1,-,4.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-44,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,26,1,-,5.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-45,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,27,1,-,6.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-46,RV Uthappa,A Symonds,G Gambhir,1,0,1,75,91,22,16,1,-,1.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-47,G Gambhir,A Symonds,RV Uthappa,2,0,2,77,89,40,28,1,-,2.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-48,G Gambhir,A Symonds,RV Uthappa,1,0,1,78,88,41,29,1,-,3.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-49,RV Uthappa,A Symonds,G Gambhir,0,0,0,78,88,22,17,1,-,4.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-50,RV Uthappa,A Symonds,G Gambhir,1,0,1,79,87,23,18,1,-,5.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-51,G Gambhir,A Symonds,RV Uthappa,1,0,1,80,86,42,30,1,-,6.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-52,G Gambhir,SR Clark,RV Uthappa,1,0,1,81,85,43,31,1,-,1.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-53,RV Uthappa,SR Clark,G Gambhir,1,0,1,82,84,24,19,1,-,2.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-54,G Gambhir,SR Clark,RV Uthappa,0,0,0,82,84,43,32,1,-,3.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-55,G Gambhir,SR Clark,RV Uthappa,0,0,0,82,84,43,33,1,-,4.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-56,G Gambhir,SR Clark,RV Uthappa,0,5,5,87,79,43,34,1,wides,4.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-57,G Gambhir,SR Clark,RV Uthappa,1,0,1,88,78,44,35,1,-,5.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-58,RV Uthappa,SR Clark,G Gambhir,1,0,1,89,77,25,20,1,-,6.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-59,RV Uthappa,A Symonds,G Gambhir,1,0,1,90,76,26,21,1,-,1.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-60,G Gambhir,A Symonds,RV Uthappa,1,0,1,91,75,45,36,1,-,2.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-61,RV Uthappa,A Symonds,G Gambhir,4,0,4,95,71,30,22,1,-,3.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-62,RV Uthappa,A Symonds,G Gambhir,1,0,1,96,70,31,23,1,-,4.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-63,G Gambhir,A Symonds,RV Uthappa,1,0,1,97,69,46,37,1,-,5.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-64,RV Uthappa,A Symonds,G Gambhir,4,0,4,101,65,35,24,1,-,6.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-65,G Gambhir,MJ Clarke,RV Uthappa,1,0,1,102,64,47,38,1,-,1.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-66,RV Uthappa,MJ Clarke,G Gambhir,0,0,0,102,64,35,25,1,-,2.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-67,RV Uthappa,MJ Clarke,G Gambhir,0,0,0,102,64,35,26,2,-,3.0,10,caught,RV Uthappa,AC Gilchrist,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-68,Yuvraj Singh,MJ Clarke,G Gambhir,0,0,0,102,64,0,1,2,-,4.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-69,Yuvraj Singh,MJ Clarke,G Gambhir,1,0,1,103,63,1,2,2,-,5.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-70,G Gambhir,MJ Clarke,Yuvraj Singh,0,0,0,103,63,47,39,2,-,6.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-71,Yuvraj Singh,A Symonds,G Gambhir,4,0,4,107,59,5,3,2,-,1.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-72,Yuvraj Singh,A Symonds,G Gambhir,1,0,1,108,58,6,4,2,-,2.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-73,G Gambhir,A Symonds,Yuvraj Singh,1,0,1,109,57,48,40,2,-,3.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-74,Yuvraj Singh,A Symonds,G Gambhir,0,0,0,109,57,6,5,2,-,4.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-75,Yuvraj Singh,A Symonds,G Gambhir,1,0,1,110,56,7,6,2,-,5.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-76,G Gambhir,A Symonds,Yuvraj Singh,1,0,1,111,55,49,41,2,-,6.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-77,G Gambhir,MJ Clarke,Yuvraj Singh,0,1,1,112,54,49,42,2,wides,0.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-78,G Gambhir,MJ Clarke,Yuvraj Singh,1,0,1,113,53,50,43,2,-,1.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-79,Yuvraj Singh,MJ Clarke,G Gambhir,6,0,6,119,47,13,7,2,-,2.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-80,Yuvraj Singh,MJ Clarke,G Gambhir,1,0,1,120,46,14,8,2,-,3.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-81,G Gambhir,MJ Clarke,Yuvraj Singh,2,0,2,122,44,52,44,2,-,4.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-82,G Gambhir,MJ Clarke,Yuvraj Singh,1,0,1,123,43,53,45,2,-,5.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-83,Yuvraj Singh,MJ Clarke,G Gambhir,0,0,0,123,43,14,9,2,-,6.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-84,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,123,43,53,46,2,-,1.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-85,G Gambhir,NW Bracken,Yuvraj Singh,4,0,4,127,39,57,47,2,-,2.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-86,G Gambhir,NW Bracken,Yuvraj Singh,0,1,1,128,38,57,48,2,wides,2.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-87,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,128,38,57,49,2,-,3.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-88,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,128,38,57,50,2,-,4.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-89,G Gambhir,NW Bracken,Yuvraj Singh,5,0,5,133,33,62,51,2,-,5.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-90,Yuvraj Singh,NW Bracken,G Gambhir,1,0,1,134,32,15,10,2,-,6.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-91,Yuvraj Singh,SR Clark,G Gambhir,0,4,4,138,28,15,11,2,legbyes,1.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-92,Yuvraj Singh,SR Clark,G Gambhir,1,0,1,139,27,16,12,2,-,2.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-93,G Gambhir,SR Clark,Yuvraj Singh,0,0,0,139,27,62,52,2,-,3.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-94,G Gambhir,SR Clark,Yuvraj Singh,0,1,1,140,26,62,53,2,wides,3.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-95,G Gambhir,SR Clark,Yuvraj Singh,1,0,1,141,25,63,54,2,-,4.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-96,Yuvraj Singh,SR Clark,G Gambhir,1,0,1,142,24,17,13,2,-,5.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-97,G Gambhir,SR Clark,Yuvraj Singh,0,0,0,142,24,63,55,2,-,6.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-98,Yuvraj Singh,BW Hilfenhaus,G Gambhir,0,0,0,142,24,17,14,2,-,1.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-99,Yuvraj Singh,BW Hilfenhaus,G Gambhir,1,0,1,143,23,18,15,2,-,2.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-100,G Gambhir,BW Hilfenhaus,Yuvraj Singh,0,0,0,143,23,63,56,2,-,3.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-101,G Gambhir,BW Hilfenhaus,Yuvraj Singh,0,0,0,143,23,63,57,3,-,4.0,15,caught,G Gambhir,RT Ponting,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-102,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,143,23,18,16,3,-,5.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-103,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,143,23,18,17,3,-,6.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-104,MS Dhoni,SR Clark,Yuvraj Singh,0,0,0,143,23,0,1,3,-,1.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-105,MS Dhoni,SR Clark,Yuvraj Singh,1,0,1,144,22,1,2,3,-,2.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-106,Yuvraj Singh,SR Clark,MS Dhoni,6,0,6,150,16,24,18,3,-,3.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-107,Yuvraj Singh,SR Clark,MS Dhoni,6,0,6,156,10,30,19,3,-,4.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-108,Yuvraj Singh,SR Clark,MS Dhoni,0,0,0,156,10,30,20,3,-,5.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-109,Yuvraj Singh,SR Clark,MS Dhoni,1,0,1,157,9,31,21,3,-,6.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-110,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,1,1,158,8,31,22,3,legbyes,1.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-111,MS Dhoni,BW Hilfenhaus,Yuvraj Singh,1,0,1,159,7,2,3,3,-,2.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-112,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,159,7,31,23,3,-,3.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-113,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,159,7,31,24,3,-,4.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-114,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,1,1,160,6,31,25,3,legbyes,5.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-115,MS Dhoni,BW Hilfenhaus,Yuvraj Singh,1,0,1,161,5,3,4,3,-,6.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
-116,MS Dhoni,B Lee,Yuvraj Singh,6,0,6,167,-1,9,5,3,-,1.0,18,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,G Gambhir,B Lee,V Sehwag,0,0,0,0,166,0,1,0,-,1.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+1,G Gambhir,B Lee,V Sehwag,0,1,1,1,165,0,2,0,wides,1.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+2,G Gambhir,B Lee,V Sehwag,0,0,0,1,165,0,3,0,-,2.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+3,G Gambhir,B Lee,V Sehwag,1,0,1,2,164,1,4,0,-,3.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+4,V Sehwag,B Lee,G Gambhir,0,0,0,2,164,0,1,0,-,4.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+5,V Sehwag,B Lee,G Gambhir,1,0,1,3,163,1,2,0,-,5.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+6,G Gambhir,B Lee,V Sehwag,0,1,1,4,162,1,5,0,legbyes,6.0,0,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+7,G Gambhir,NW Bracken,V Sehwag,4,0,4,8,158,5,6,0,-,1.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+8,G Gambhir,NW Bracken,V Sehwag,0,4,4,12,154,5,7,0,legbyes,2.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+9,G Gambhir,NW Bracken,V Sehwag,0,0,0,12,154,5,8,0,-,3.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+10,G Gambhir,NW Bracken,V Sehwag,0,0,0,12,154,5,9,0,-,4.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+11,G Gambhir,NW Bracken,V Sehwag,4,0,4,16,150,9,10,0,-,5.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+12,G Gambhir,NW Bracken,V Sehwag,0,0,0,16,150,9,11,0,-,6.0,1,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Fast
+13,V Sehwag,B Lee,G Gambhir,4,0,4,20,146,5,3,0,-,1.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+14,V Sehwag,B Lee,G Gambhir,0,0,0,20,146,5,4,1,-,2.0,2,caught,V Sehwag,AC Gilchrist,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+15,RV Uthappa,B Lee,G Gambhir,0,0,0,20,146,0,1,1,-,3.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+16,RV Uthappa,B Lee,G Gambhir,1,0,1,21,145,1,2,1,-,4.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+17,G Gambhir,B Lee,RV Uthappa,1,0,1,22,144,10,12,1,-,5.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+18,RV Uthappa,B Lee,G Gambhir,0,0,0,22,144,1,3,1,-,6.0,2,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+19,G Gambhir,BW Hilfenhaus,RV Uthappa,1,1,2,24,142,11,13,1,noballs,0.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+20,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,24,142,1,4,1,-,1.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+21,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,28,138,5,5,1,-,2.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+22,RV Uthappa,BW Hilfenhaus,G Gambhir,1,0,1,29,137,6,6,1,-,3.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+23,G Gambhir,BW Hilfenhaus,RV Uthappa,0,1,1,30,136,11,14,1,legbyes,4.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+24,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,30,136,6,7,1,-,5.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+25,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,30,136,6,8,1,-,6.0,3,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+26,G Gambhir,B Lee,RV Uthappa,4,0,4,34,132,15,15,1,-,1.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+27,G Gambhir,B Lee,RV Uthappa,5,0,5,39,127,20,16,1,-,2.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+28,RV Uthappa,B Lee,G Gambhir,4,1,5,44,122,10,9,1,noballs,2.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+29,RV Uthappa,B Lee,G Gambhir,4,0,4,48,118,14,10,1,-,3.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+30,RV Uthappa,B Lee,G Gambhir,0,0,0,48,118,14,11,1,-,4.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+31,RV Uthappa,B Lee,G Gambhir,1,0,1,49,117,15,12,1,-,5.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+32,G Gambhir,B Lee,RV Uthappa,1,0,1,50,116,21,17,1,-,6.0,4,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+33,G Gambhir,BW Hilfenhaus,RV Uthappa,0,0,0,50,116,21,18,1,-,1.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+34,G Gambhir,BW Hilfenhaus,RV Uthappa,4,0,4,54,112,25,19,1,-,2.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+35,G Gambhir,BW Hilfenhaus,RV Uthappa,1,0,1,55,111,26,20,1,-,3.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+36,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,59,107,19,13,1,-,4.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+37,RV Uthappa,BW Hilfenhaus,G Gambhir,1,1,2,61,105,20,14,1,noballs,4.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+38,G Gambhir,BW Hilfenhaus,RV Uthappa,6,0,6,67,99,32,21,1,-,5.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+39,G Gambhir,BW Hilfenhaus,RV Uthappa,1,0,1,68,98,33,22,1,-,6.0,5,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+40,G Gambhir,SR Clark,RV Uthappa,1,0,1,69,97,34,23,1,-,1.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+41,RV Uthappa,SR Clark,G Gambhir,1,0,1,70,96,21,15,1,-,2.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+42,G Gambhir,SR Clark,RV Uthappa,4,0,4,74,92,38,24,1,-,3.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+43,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,25,1,-,4.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+44,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,26,1,-,5.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+45,G Gambhir,SR Clark,RV Uthappa,0,0,0,74,92,38,27,1,-,6.0,6,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+46,RV Uthappa,A Symonds,G Gambhir,1,0,1,75,91,22,16,1,-,1.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+47,G Gambhir,A Symonds,RV Uthappa,2,0,2,77,89,40,28,1,-,2.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Medium
+48,G Gambhir,A Symonds,RV Uthappa,1,0,1,78,88,41,29,1,-,3.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Medium
+49,RV Uthappa,A Symonds,G Gambhir,0,0,0,78,88,22,17,1,-,4.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+50,RV Uthappa,A Symonds,G Gambhir,1,0,1,79,87,23,18,1,-,5.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+51,G Gambhir,A Symonds,RV Uthappa,1,0,1,80,86,42,30,1,-,6.0,7,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Medium
+52,G Gambhir,SR Clark,RV Uthappa,1,0,1,81,85,43,31,1,-,1.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+53,RV Uthappa,SR Clark,G Gambhir,1,0,1,82,84,24,19,1,-,2.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+54,G Gambhir,SR Clark,RV Uthappa,0,0,0,82,84,43,32,1,-,3.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+55,G Gambhir,SR Clark,RV Uthappa,0,0,0,82,84,43,33,1,-,4.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+56,G Gambhir,SR Clark,RV Uthappa,0,5,5,87,79,43,34,1,wides,4.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+57,G Gambhir,SR Clark,RV Uthappa,1,0,1,88,78,44,35,1,-,5.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+58,RV Uthappa,SR Clark,G Gambhir,1,0,1,89,77,25,20,1,-,6.0,8,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+59,RV Uthappa,A Symonds,G Gambhir,1,0,1,90,76,26,21,1,-,1.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+60,G Gambhir,A Symonds,RV Uthappa,1,0,1,91,75,45,36,1,-,2.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Medium
+61,RV Uthappa,A Symonds,G Gambhir,4,0,4,95,71,30,22,1,-,3.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+62,RV Uthappa,A Symonds,G Gambhir,1,0,1,96,70,31,23,1,-,4.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+63,G Gambhir,A Symonds,RV Uthappa,1,0,1,97,69,46,37,1,-,5.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Medium
+64,RV Uthappa,A Symonds,G Gambhir,4,0,4,101,65,35,24,1,-,6.0,9,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Medium
+65,G Gambhir,MJ Clarke,RV Uthappa,1,0,1,102,64,47,38,1,-,1.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Left arm Orthodox
+66,RV Uthappa,MJ Clarke,G Gambhir,0,0,0,102,64,35,25,1,-,2.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Left arm Orthodox
+67,RV Uthappa,MJ Clarke,G Gambhir,0,0,0,102,64,35,26,2,-,3.0,10,caught,RV Uthappa,AC Gilchrist,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Left arm Orthodox
+68,Yuvraj Singh,MJ Clarke,G Gambhir,0,0,0,102,64,0,1,2,-,4.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+69,Yuvraj Singh,MJ Clarke,G Gambhir,1,0,1,103,63,1,2,2,-,5.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+70,G Gambhir,MJ Clarke,Yuvraj Singh,0,0,0,103,63,47,39,2,-,6.0,10,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+71,Yuvraj Singh,A Symonds,G Gambhir,4,0,4,107,59,5,3,2,-,1.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+72,Yuvraj Singh,A Symonds,G Gambhir,1,0,1,108,58,6,4,2,-,2.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+73,G Gambhir,A Symonds,Yuvraj Singh,1,0,1,109,57,48,40,2,-,3.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+74,Yuvraj Singh,A Symonds,G Gambhir,0,0,0,109,57,6,5,2,-,4.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+75,Yuvraj Singh,A Symonds,G Gambhir,1,0,1,110,56,7,6,2,-,5.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+76,G Gambhir,A Symonds,Yuvraj Singh,1,0,1,111,55,49,41,2,-,6.0,11,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Medium
+77,G Gambhir,MJ Clarke,Yuvraj Singh,0,1,1,112,54,49,42,2,wides,0.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+78,G Gambhir,MJ Clarke,Yuvraj Singh,1,0,1,113,53,50,43,2,-,1.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+79,Yuvraj Singh,MJ Clarke,G Gambhir,6,0,6,119,47,13,7,2,-,2.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+80,Yuvraj Singh,MJ Clarke,G Gambhir,1,0,1,120,46,14,8,2,-,3.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+81,G Gambhir,MJ Clarke,Yuvraj Singh,2,0,2,122,44,52,44,2,-,4.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+82,G Gambhir,MJ Clarke,Yuvraj Singh,1,0,1,123,43,53,45,2,-,5.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+83,Yuvraj Singh,MJ Clarke,G Gambhir,0,0,0,123,43,14,9,2,-,6.0,12,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Orthodox
+84,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,123,43,53,46,2,-,1.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+85,G Gambhir,NW Bracken,Yuvraj Singh,4,0,4,127,39,57,47,2,-,2.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+86,G Gambhir,NW Bracken,Yuvraj Singh,0,1,1,128,38,57,48,2,wides,2.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+87,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,128,38,57,49,2,-,3.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+88,G Gambhir,NW Bracken,Yuvraj Singh,0,0,0,128,38,57,50,2,-,4.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+89,G Gambhir,NW Bracken,Yuvraj Singh,5,0,5,133,33,62,51,2,-,5.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+90,Yuvraj Singh,NW Bracken,G Gambhir,1,0,1,134,32,15,10,2,-,6.0,13,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Left arm Fast
+91,Yuvraj Singh,SR Clark,G Gambhir,0,4,4,138,28,15,11,2,legbyes,1.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+92,Yuvraj Singh,SR Clark,G Gambhir,1,0,1,139,27,16,12,2,-,2.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+93,G Gambhir,SR Clark,Yuvraj Singh,0,0,0,139,27,62,52,2,-,3.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+94,G Gambhir,SR Clark,Yuvraj Singh,0,1,1,140,26,62,53,2,wides,3.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+95,G Gambhir,SR Clark,Yuvraj Singh,1,0,1,141,25,63,54,2,-,4.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+96,Yuvraj Singh,SR Clark,G Gambhir,1,0,1,142,24,17,13,2,-,5.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+97,G Gambhir,SR Clark,Yuvraj Singh,0,0,0,142,24,63,55,2,-,6.0,14,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+98,Yuvraj Singh,BW Hilfenhaus,G Gambhir,0,0,0,142,24,17,14,2,-,1.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+99,Yuvraj Singh,BW Hilfenhaus,G Gambhir,1,0,1,143,23,18,15,2,-,2.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+100,G Gambhir,BW Hilfenhaus,Yuvraj Singh,0,0,0,143,23,63,56,2,-,3.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+101,G Gambhir,BW Hilfenhaus,Yuvraj Singh,0,0,0,143,23,63,57,3,-,4.0,15,caught,G Gambhir,RT Ponting,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Left hand Bat,Right arm Fast
+102,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,143,23,18,16,3,-,5.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+103,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,143,23,18,17,3,-,6.0,15,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+104,MS Dhoni,SR Clark,Yuvraj Singh,0,0,0,143,23,0,1,3,-,1.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+105,MS Dhoni,SR Clark,Yuvraj Singh,1,0,1,144,22,1,2,3,-,2.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+106,Yuvraj Singh,SR Clark,MS Dhoni,6,0,6,150,16,24,18,3,-,3.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+107,Yuvraj Singh,SR Clark,MS Dhoni,6,0,6,156,10,30,19,3,-,4.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+108,Yuvraj Singh,SR Clark,MS Dhoni,0,0,0,156,10,30,20,3,-,5.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+109,Yuvraj Singh,SR Clark,MS Dhoni,1,0,1,157,9,31,21,3,-,6.0,16,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+110,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,1,1,158,8,31,22,3,legbyes,1.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+111,MS Dhoni,BW Hilfenhaus,Yuvraj Singh,1,0,1,159,7,2,3,3,-,2.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+112,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,159,7,31,23,3,-,3.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+113,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,0,0,159,7,31,24,3,-,4.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+114,Yuvraj Singh,BW Hilfenhaus,MS Dhoni,0,1,1,160,6,31,25,3,legbyes,5.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Left hand Bat,Right hand Bat,Right arm Fast
+115,MS Dhoni,BW Hilfenhaus,Yuvraj Singh,1,0,1,161,5,3,4,3,-,6.0,17,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast
+116,MS Dhoni,B Lee,Yuvraj Singh,6,0,6,167,-1,9,5,3,-,1.0,18,0,,,bat,Australia,2,Brabourne Stadium,2007,10,India_Australia_2007-10-20,India,India,Australia,True,167,Right hand Bat,Left hand Bat,Right arm Fast

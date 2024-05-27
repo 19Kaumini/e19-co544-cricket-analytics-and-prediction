@@ -1,123 +1,123 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,replacements,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,1,0,-,1.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-1,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,2,0,-,2.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-2,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,3,0,-,3.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-3,DA Warner,R Ashwin,MS Wade,1,0,1,1,,1,4,0,-,4.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-4,MS Wade,R Ashwin,DA Warner,0,0,0,1,,0,1,0,-,5.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-5,MS Wade,R Ashwin,DA Warner,1,0,1,2,,1,2,0,-,6.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-6,MS Wade,P Kumar,DA Warner,1,0,1,3,,2,3,0,-,1.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-7,DA Warner,P Kumar,MS Wade,0,0,0,3,,1,5,0,-,2.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-8,DA Warner,P Kumar,MS Wade,1,0,1,4,,2,6,0,-,3.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-9,MS Wade,P Kumar,DA Warner,4,0,4,8,,6,4,0,-,4.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-10,MS Wade,P Kumar,DA Warner,0,0,0,8,,6,5,0,-,5.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-11,MS Wade,P Kumar,DA Warner,1,0,1,9,,7,6,0,-,6.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-12,MS Wade,R Ashwin,DA Warner,1,0,1,10,,8,7,0,-,1.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-13,DA Warner,R Ashwin,MS Wade,0,0,0,10,,2,7,0,-,2.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-14,DA Warner,R Ashwin,MS Wade,6,0,6,16,,8,8,0,-,3.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-15,DA Warner,R Ashwin,MS Wade,4,0,4,20,,12,9,0,-,4.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-16,DA Warner,R Ashwin,MS Wade,6,0,6,26,,18,10,0,-,5.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-17,DA Warner,R Ashwin,MS Wade,2,0,2,28,,20,11,0,-,6.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-18,MS Wade,R Vinay Kumar,DA Warner,3,0,3,31,,11,8,0,-,1.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-19,DA Warner,R Vinay Kumar,MS Wade,2,0,2,33,,22,12,0,-,2.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-20,DA Warner,R Vinay Kumar,MS Wade,3,0,3,36,,25,13,0,-,3.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-21,MS Wade,R Vinay Kumar,DA Warner,0,1,1,37,,11,9,0,wides,3.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-22,MS Wade,R Vinay Kumar,DA Warner,1,0,1,38,,12,10,0,-,4.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-23,DA Warner,R Vinay Kumar,MS Wade,0,0,0,38,,25,14,1,-,5.0,3,caught,DA Warner,SK Raina,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-24,MS Wade,R Vinay Kumar,TR Birt,1,0,1,39,,13,11,1,-,6.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-25,MS Wade,P Kumar,TR Birt,2,0,2,41,,15,12,1,-,1.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-26,MS Wade,P Kumar,TR Birt,0,0,0,41,,15,13,1,-,2.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-27,MS Wade,P Kumar,TR Birt,3,0,3,44,,18,14,1,-,3.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-28,TR Birt,P Kumar,MS Wade,0,0,0,44,,0,1,1,-,4.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-29,TR Birt,P Kumar,MS Wade,1,0,1,45,,1,2,1,-,5.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-30,MS Wade,P Kumar,TR Birt,3,0,3,48,,21,15,1,-,6.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-31,MS Wade,R Vinay Kumar,TR Birt,1,0,1,49,,22,16,1,-,1.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-32,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,3,1,-,2.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-33,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,4,1,-,3.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-34,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,5,1,-,4.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-35,TR Birt,R Vinay Kumar,MS Wade,6,0,6,55,,7,6,1,-,5.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-36,TR Birt,R Vinay Kumar,MS Wade,0,0,0,55,,7,7,1,-,6.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-37,MS Wade,SK Raina,TR Birt,0,0,0,55,,22,17,1,-,1.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-38,MS Wade,SK Raina,TR Birt,1,0,1,56,,23,18,1,-,2.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-39,TR Birt,SK Raina,MS Wade,0,0,0,56,,7,8,1,-,3.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-40,TR Birt,SK Raina,MS Wade,0,0,0,56,,7,9,1,-,4.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-41,TR Birt,SK Raina,MS Wade,1,0,1,57,,8,10,1,-,5.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-42,MS Wade,SK Raina,TR Birt,1,0,1,58,,24,19,1,-,6.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-43,MS Wade,R Ashwin,TR Birt,6,0,6,64,,30,20,1,-,1.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-44,MS Wade,R Ashwin,TR Birt,1,0,1,65,,31,21,1,-,2.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-45,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,11,1,-,3.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-46,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,12,1,-,4.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-47,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,13,1,-,5.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-48,TR Birt,R Ashwin,MS Wade,1,0,1,66,,9,14,1,-,6.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-49,TR Birt,R Sharma,MS Wade,0,0,0,66,,9,15,1,-,1.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-50,TR Birt,R Sharma,MS Wade,4,0,4,70,,13,16,1,-,2.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-51,TR Birt,R Sharma,MS Wade,2,0,2,72,,15,17,1,-,3.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-52,TR Birt,R Sharma,MS Wade,0,0,0,72,,15,18,1,-,4.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-53,TR Birt,RG Sharma,MS Wade,1,0,1,73,,16,19,1,-,5.0,8,0,,,"{'role': [{'in': 'RG Sharma', 'reason': 'injury', 'role': 'bowler'}]}",field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-54,MS Wade,RG Sharma,TR Birt,1,0,1,74,,32,22,1,-,6.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-55,MS Wade,R Ashwin,TR Birt,1,0,1,75,,33,23,1,-,1.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-56,TR Birt,R Ashwin,MS Wade,1,0,1,76,,17,20,1,-,2.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-57,MS Wade,R Ashwin,TR Birt,2,0,2,78,,35,24,1,-,3.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-58,MS Wade,R Ashwin,TR Birt,0,0,0,78,,35,25,1,-,4.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-59,MS Wade,R Ashwin,TR Birt,1,0,1,79,,36,26,1,-,5.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-60,TR Birt,R Ashwin,MS Wade,0,0,0,79,,17,21,2,-,6.0,9,caught,TR Birt,SK Raina,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-61,MS Wade,RA Jadeja,DJ Hussey,1,0,1,80,,37,27,2,-,1.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-62,DJ Hussey,RA Jadeja,MS Wade,1,0,1,81,,1,1,2,-,2.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-63,MS Wade,RA Jadeja,DJ Hussey,4,0,4,85,,41,28,2,-,3.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-64,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,29,2,-,4.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-65,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,30,2,-,5.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-66,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,31,2,-,6.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-67,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,2,2,-,1.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-68,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,3,2,-,2.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-69,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,4,2,-,3.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-70,DJ Hussey,R Sharma,MS Wade,0,1,1,86,,1,5,2,wides,3.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-71,DJ Hussey,R Sharma,MS Wade,1,0,1,87,,2,6,2,-,4.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-72,MS Wade,R Sharma,DJ Hussey,1,0,1,88,,42,32,2,-,5.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-73,DJ Hussey,R Sharma,MS Wade,0,0,0,88,,2,7,2,-,6.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-74,MS Wade,RA Jadeja,DJ Hussey,1,0,1,89,,43,33,2,-,1.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-75,DJ Hussey,RA Jadeja,MS Wade,1,0,1,90,,3,8,2,-,2.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-76,MS Wade,RA Jadeja,DJ Hussey,4,0,4,94,,47,34,2,-,3.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-77,MS Wade,RA Jadeja,DJ Hussey,6,0,6,100,,53,35,2,-,4.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-78,MS Wade,RA Jadeja,DJ Hussey,4,0,4,104,,57,36,2,-,5.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-79,MS Wade,RA Jadeja,DJ Hussey,1,0,1,105,,58,37,2,-,6.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-80,MS Wade,P Kumar,DJ Hussey,4,0,4,109,,62,38,2,-,1.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-81,MS Wade,P Kumar,DJ Hussey,1,0,1,110,,63,39,2,-,2.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-82,DJ Hussey,P Kumar,MS Wade,4,0,4,114,,7,9,2,-,3.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-83,DJ Hussey,P Kumar,MS Wade,2,0,2,116,,9,10,2,-,4.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-84,DJ Hussey,P Kumar,MS Wade,1,0,1,117,,10,11,2,-,5.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-85,MS Wade,P Kumar,DJ Hussey,6,0,6,123,,69,40,2,-,6.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-86,DJ Hussey,R Sharma,MS Wade,1,0,1,124,,11,12,2,-,1.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-87,MS Wade,R Sharma,DJ Hussey,0,0,0,124,,69,41,2,-,2.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-88,MS Wade,R Sharma,DJ Hussey,1,0,1,125,,70,42,2,-,3.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-89,DJ Hussey,R Sharma,MS Wade,6,0,6,131,,17,13,2,-,4.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-90,DJ Hussey,R Sharma,MS Wade,0,0,0,131,,17,14,2,-,5.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-91,DJ Hussey,R Sharma,MS Wade,1,0,1,132,,18,15,2,-,6.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-92,DJ Hussey,SK Raina,MS Wade,0,0,0,132,,18,16,2,-,1.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-93,DJ Hussey,SK Raina,MS Wade,1,0,1,133,,19,17,2,-,2.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-94,MS Wade,SK Raina,DJ Hussey,2,0,2,135,,72,43,2,-,3.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-95,MS Wade,SK Raina,DJ Hussey,0,0,0,135,,72,44,3,-,4.0,15,bowled,MS Wade,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-96,GJ Bailey,SK Raina,DJ Hussey,1,0,1,136,,1,1,3,-,5.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-97,DJ Hussey,SK Raina,GJ Bailey,1,0,1,137,,20,18,3,-,6.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-98,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,138,,21,19,3,-,1.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-99,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,139,,2,2,3,-,2.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-100,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,140,,22,20,3,-,3.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-101,GJ Bailey,R Vinay Kumar,DJ Hussey,0,0,0,140,,2,3,3,-,4.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-102,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,141,,3,4,3,-,5.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-103,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,142,,23,21,3,-,6.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-104,DJ Hussey,SK Raina,GJ Bailey,2,0,2,144,,25,22,3,-,1.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-105,DJ Hussey,SK Raina,GJ Bailey,6,0,6,150,,31,23,3,-,2.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-106,DJ Hussey,SK Raina,GJ Bailey,1,0,1,151,,32,24,3,-,3.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-107,GJ Bailey,SK Raina,DJ Hussey,4,0,4,155,,7,5,3,-,4.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-108,GJ Bailey,SK Raina,DJ Hussey,1,0,1,156,,8,6,3,-,5.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-109,DJ Hussey,SK Raina,GJ Bailey,0,0,0,156,,32,25,3,-,6.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-110,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,157,,9,7,3,-,1.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-111,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,158,,33,26,3,-,2.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-112,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,159,,10,8,3,-,3.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-113,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,160,,34,27,3,-,4.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-114,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,161,,11,9,3,-,5.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-115,DJ Hussey,R Vinay Kumar,GJ Bailey,0,0,0,161,,34,28,3,-,6.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-116,GJ Bailey,R Sharma,DJ Hussey,0,0,0,161,,11,10,3,-,1.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-117,GJ Bailey,R Sharma,DJ Hussey,1,0,1,162,,12,11,3,-,2.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-118,DJ Hussey,R Sharma,GJ Bailey,6,0,6,168,,40,29,3,-,3.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-119,DJ Hussey,R Sharma,GJ Bailey,2,0,2,170,,42,30,3,-,4.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-120,DJ Hussey,R Sharma,GJ Bailey,0,0,0,170,,42,31,4,-,5.0,19,bowled,DJ Hussey,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
-121,MR Marsh,R Sharma,GJ Bailey,0,1,1,171,,0,1,4,legbyes,6.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,replacements,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,1,0,-,1.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+1,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,2,0,-,2.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+2,DA Warner,R Ashwin,MS Wade,0,0,0,0,,0,3,0,-,3.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+3,DA Warner,R Ashwin,MS Wade,1,0,1,1,,1,4,0,-,4.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+4,MS Wade,R Ashwin,DA Warner,0,0,0,1,,0,1,0,-,5.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+5,MS Wade,R Ashwin,DA Warner,1,0,1,2,,1,2,0,-,6.0,0,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+6,MS Wade,P Kumar,DA Warner,1,0,1,3,,2,3,0,-,1.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+7,DA Warner,P Kumar,MS Wade,0,0,0,3,,1,5,0,-,2.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+8,DA Warner,P Kumar,MS Wade,1,0,1,4,,2,6,0,-,3.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+9,MS Wade,P Kumar,DA Warner,4,0,4,8,,6,4,0,-,4.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+10,MS Wade,P Kumar,DA Warner,0,0,0,8,,6,5,0,-,5.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+11,MS Wade,P Kumar,DA Warner,1,0,1,9,,7,6,0,-,6.0,1,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+12,MS Wade,R Ashwin,DA Warner,1,0,1,10,,8,7,0,-,1.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+13,DA Warner,R Ashwin,MS Wade,0,0,0,10,,2,7,0,-,2.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+14,DA Warner,R Ashwin,MS Wade,6,0,6,16,,8,8,0,-,3.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+15,DA Warner,R Ashwin,MS Wade,4,0,4,20,,12,9,0,-,4.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+16,DA Warner,R Ashwin,MS Wade,6,0,6,26,,18,10,0,-,5.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+17,DA Warner,R Ashwin,MS Wade,2,0,2,28,,20,11,0,-,6.0,2,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+18,MS Wade,R Vinay Kumar,DA Warner,3,0,3,31,,11,8,0,-,1.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+19,DA Warner,R Vinay Kumar,MS Wade,2,0,2,33,,22,12,0,-,2.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+20,DA Warner,R Vinay Kumar,MS Wade,3,0,3,36,,25,13,0,-,3.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+21,MS Wade,R Vinay Kumar,DA Warner,0,1,1,37,,11,9,0,wides,3.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+22,MS Wade,R Vinay Kumar,DA Warner,1,0,1,38,,12,10,0,-,4.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+23,DA Warner,R Vinay Kumar,MS Wade,0,0,0,38,,25,14,1,-,5.0,3,caught,DA Warner,SK Raina,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+24,MS Wade,R Vinay Kumar,TR Birt,1,0,1,39,,13,11,1,-,6.0,3,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+25,MS Wade,P Kumar,TR Birt,2,0,2,41,,15,12,1,-,1.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+26,MS Wade,P Kumar,TR Birt,0,0,0,41,,15,13,1,-,2.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+27,MS Wade,P Kumar,TR Birt,3,0,3,44,,18,14,1,-,3.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+28,TR Birt,P Kumar,MS Wade,0,0,0,44,,0,1,1,-,4.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+29,TR Birt,P Kumar,MS Wade,1,0,1,45,,1,2,1,-,5.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+30,MS Wade,P Kumar,TR Birt,3,0,3,48,,21,15,1,-,6.0,4,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+31,MS Wade,R Vinay Kumar,TR Birt,1,0,1,49,,22,16,1,-,1.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+32,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,3,1,-,2.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+33,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,4,1,-,3.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+34,TR Birt,R Vinay Kumar,MS Wade,0,0,0,49,,1,5,1,-,4.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+35,TR Birt,R Vinay Kumar,MS Wade,6,0,6,55,,7,6,1,-,5.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+36,TR Birt,R Vinay Kumar,MS Wade,0,0,0,55,,7,7,1,-,6.0,5,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Medium
+37,MS Wade,SK Raina,TR Birt,0,0,0,55,,22,17,1,-,1.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+38,MS Wade,SK Raina,TR Birt,1,0,1,56,,23,18,1,-,2.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+39,TR Birt,SK Raina,MS Wade,0,0,0,56,,7,8,1,-,3.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+40,TR Birt,SK Raina,MS Wade,0,0,0,56,,7,9,1,-,4.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+41,TR Birt,SK Raina,MS Wade,1,0,1,57,,8,10,1,-,5.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+42,MS Wade,SK Raina,TR Birt,1,0,1,58,,24,19,1,-,6.0,6,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+43,MS Wade,R Ashwin,TR Birt,6,0,6,64,,30,20,1,-,1.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+44,MS Wade,R Ashwin,TR Birt,1,0,1,65,,31,21,1,-,2.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+45,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,11,1,-,3.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+46,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,12,1,-,4.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+47,TR Birt,R Ashwin,MS Wade,0,0,0,65,,8,13,1,-,5.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+48,TR Birt,R Ashwin,MS Wade,1,0,1,66,,9,14,1,-,6.0,7,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+49,TR Birt,R Sharma,MS Wade,0,0,0,66,,9,15,1,-,1.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Legbreak
+50,TR Birt,R Sharma,MS Wade,4,0,4,70,,13,16,1,-,2.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Legbreak
+51,TR Birt,R Sharma,MS Wade,2,0,2,72,,15,17,1,-,3.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Legbreak
+52,TR Birt,R Sharma,MS Wade,0,0,0,72,,15,18,1,-,4.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Legbreak
+53,TR Birt,RG Sharma,MS Wade,1,0,1,73,,16,19,1,-,5.0,8,0,,,"{'role': [{'in': 'RG Sharma', 'reason': 'injury', 'role': 'bowler'}]}",field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+54,MS Wade,RG Sharma,TR Birt,1,0,1,74,,32,22,1,-,6.0,8,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+55,MS Wade,R Ashwin,TR Birt,1,0,1,75,,33,23,1,-,1.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+56,TR Birt,R Ashwin,MS Wade,1,0,1,76,,17,20,1,-,2.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+57,MS Wade,R Ashwin,TR Birt,2,0,2,78,,35,24,1,-,3.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+58,MS Wade,R Ashwin,TR Birt,0,0,0,78,,35,25,1,-,4.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+59,MS Wade,R Ashwin,TR Birt,1,0,1,79,,36,26,1,-,5.0,9,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+60,TR Birt,R Ashwin,MS Wade,0,0,0,79,,17,21,2,-,6.0,9,caught,TR Birt,SK Raina,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Left hand Bat,Right arm Offbreak
+61,MS Wade,RA Jadeja,DJ Hussey,1,0,1,80,,37,27,2,-,1.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+62,DJ Hussey,RA Jadeja,MS Wade,1,0,1,81,,1,1,2,-,2.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Left arm Orthodox
+63,MS Wade,RA Jadeja,DJ Hussey,4,0,4,85,,41,28,2,-,3.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+64,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,29,2,-,4.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+65,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,30,2,-,5.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+66,MS Wade,RA Jadeja,DJ Hussey,0,0,0,85,,41,31,2,-,6.0,10,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+67,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,2,2,-,1.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+68,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,3,2,-,2.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+69,DJ Hussey,R Sharma,MS Wade,0,0,0,85,,1,4,2,-,3.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+70,DJ Hussey,R Sharma,MS Wade,0,1,1,86,,1,5,2,wides,3.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+71,DJ Hussey,R Sharma,MS Wade,1,0,1,87,,2,6,2,-,4.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+72,MS Wade,R Sharma,DJ Hussey,1,0,1,88,,42,32,2,-,5.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Legbreak
+73,DJ Hussey,R Sharma,MS Wade,0,0,0,88,,2,7,2,-,6.0,11,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+74,MS Wade,RA Jadeja,DJ Hussey,1,0,1,89,,43,33,2,-,1.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+75,DJ Hussey,RA Jadeja,MS Wade,1,0,1,90,,3,8,2,-,2.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Left arm Orthodox
+76,MS Wade,RA Jadeja,DJ Hussey,4,0,4,94,,47,34,2,-,3.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+77,MS Wade,RA Jadeja,DJ Hussey,6,0,6,100,,53,35,2,-,4.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+78,MS Wade,RA Jadeja,DJ Hussey,4,0,4,104,,57,36,2,-,5.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+79,MS Wade,RA Jadeja,DJ Hussey,1,0,1,105,,58,37,2,-,6.0,12,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Left arm Orthodox
+80,MS Wade,P Kumar,DJ Hussey,4,0,4,109,,62,38,2,-,1.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Medium
+81,MS Wade,P Kumar,DJ Hussey,1,0,1,110,,63,39,2,-,2.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Medium
+82,DJ Hussey,P Kumar,MS Wade,4,0,4,114,,7,9,2,-,3.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Medium
+83,DJ Hussey,P Kumar,MS Wade,2,0,2,116,,9,10,2,-,4.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Medium
+84,DJ Hussey,P Kumar,MS Wade,1,0,1,117,,10,11,2,-,5.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Medium
+85,MS Wade,P Kumar,DJ Hussey,6,0,6,123,,69,40,2,-,6.0,13,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Medium
+86,DJ Hussey,R Sharma,MS Wade,1,0,1,124,,11,12,2,-,1.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+87,MS Wade,R Sharma,DJ Hussey,0,0,0,124,,69,41,2,-,2.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Legbreak
+88,MS Wade,R Sharma,DJ Hussey,1,0,1,125,,70,42,2,-,3.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Legbreak
+89,DJ Hussey,R Sharma,MS Wade,6,0,6,131,,17,13,2,-,4.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+90,DJ Hussey,R Sharma,MS Wade,0,0,0,131,,17,14,2,-,5.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+91,DJ Hussey,R Sharma,MS Wade,1,0,1,132,,18,15,2,-,6.0,14,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Legbreak
+92,DJ Hussey,SK Raina,MS Wade,0,0,0,132,,18,16,2,-,1.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Offbreak
+93,DJ Hussey,SK Raina,MS Wade,1,0,1,133,,19,17,2,-,2.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Left hand Bat,Right arm Offbreak
+94,MS Wade,SK Raina,DJ Hussey,2,0,2,135,,72,43,2,-,3.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Offbreak
+95,MS Wade,SK Raina,DJ Hussey,0,0,0,135,,72,44,3,-,4.0,15,bowled,MS Wade,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Left hand Bat,Right hand Bat,Right arm Offbreak
+96,GJ Bailey,SK Raina,DJ Hussey,1,0,1,136,,1,1,3,-,5.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+97,DJ Hussey,SK Raina,GJ Bailey,1,0,1,137,,20,18,3,-,6.0,15,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+98,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,138,,21,19,3,-,1.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+99,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,139,,2,2,3,-,2.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+100,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,140,,22,20,3,-,3.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+101,GJ Bailey,R Vinay Kumar,DJ Hussey,0,0,0,140,,2,3,3,-,4.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+102,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,141,,3,4,3,-,5.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+103,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,142,,23,21,3,-,6.0,16,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+104,DJ Hussey,SK Raina,GJ Bailey,2,0,2,144,,25,22,3,-,1.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+105,DJ Hussey,SK Raina,GJ Bailey,6,0,6,150,,31,23,3,-,2.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+106,DJ Hussey,SK Raina,GJ Bailey,1,0,1,151,,32,24,3,-,3.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+107,GJ Bailey,SK Raina,DJ Hussey,4,0,4,155,,7,5,3,-,4.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+108,GJ Bailey,SK Raina,DJ Hussey,1,0,1,156,,8,6,3,-,5.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+109,DJ Hussey,SK Raina,GJ Bailey,0,0,0,156,,32,25,3,-,6.0,17,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Offbreak
+110,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,157,,9,7,3,-,1.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+111,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,158,,33,26,3,-,2.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+112,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,159,,10,8,3,-,3.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+113,DJ Hussey,R Vinay Kumar,GJ Bailey,1,0,1,160,,34,27,3,-,4.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+114,GJ Bailey,R Vinay Kumar,DJ Hussey,1,0,1,161,,11,9,3,-,5.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+115,DJ Hussey,R Vinay Kumar,GJ Bailey,0,0,0,161,,34,28,3,-,6.0,18,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Medium
+116,GJ Bailey,R Sharma,DJ Hussey,0,0,0,161,,11,10,3,-,1.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak
+117,GJ Bailey,R Sharma,DJ Hussey,1,0,1,162,,12,11,3,-,2.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak
+118,DJ Hussey,R Sharma,GJ Bailey,6,0,6,168,,40,29,3,-,3.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak
+119,DJ Hussey,R Sharma,GJ Bailey,2,0,2,170,,42,30,3,-,4.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak
+120,DJ Hussey,R Sharma,GJ Bailey,0,0,0,170,,42,31,4,-,5.0,19,bowled,DJ Hussey,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak
+121,MR Marsh,R Sharma,GJ Bailey,0,1,1,171,,0,1,4,legbyes,6.0,19,0,,,,field,India,1,Stadium Australia,2012,02,Australia_India_2012-02-01,Australia,Australia,India,True,171,Right hand Bat,Right hand Bat,Right arm Legbreak

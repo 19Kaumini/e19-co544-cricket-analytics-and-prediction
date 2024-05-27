@@ -1,129 +1,129 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,RG Sharma,DJ Willey,RR Pant,0,0,0,0,,0,1,0,-,1.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-1,RG Sharma,DJ Willey,RR Pant,1,0,1,1,,1,2,0,-,2.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-2,RR Pant,DJ Willey,RG Sharma,1,0,1,2,,1,1,0,-,3.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-3,RG Sharma,DJ Willey,RR Pant,0,0,0,2,,1,3,0,-,4.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-4,RG Sharma,DJ Willey,RR Pant,0,0,0,2,,1,4,0,-,5.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-5,RG Sharma,DJ Willey,RR Pant,6,0,6,8,,7,5,0,-,6.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-6,RR Pant,SM Curran,RG Sharma,0,1,1,9,,1,2,0,wides,0.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-7,RR Pant,SM Curran,RG Sharma,1,0,1,10,,2,3,0,-,1.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-8,RG Sharma,SM Curran,RR Pant,0,0,0,10,,7,6,0,-,2.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-9,RG Sharma,SM Curran,RR Pant,0,0,0,10,,7,7,0,-,3.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-10,RG Sharma,SM Curran,RR Pant,1,0,1,11,,8,8,0,-,4.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-11,RR Pant,SM Curran,RG Sharma,4,0,4,15,,6,4,0,-,5.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-12,RR Pant,SM Curran,RG Sharma,0,0,0,15,,6,5,0,-,6.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-13,RG Sharma,DJ Willey,RR Pant,6,0,6,21,,14,9,0,-,1.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-14,RG Sharma,DJ Willey,RR Pant,1,0,1,22,,15,10,0,-,2.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-15,RR Pant,DJ Willey,RG Sharma,4,0,4,26,,10,6,0,-,3.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-16,RR Pant,DJ Willey,RG Sharma,0,0,0,26,,10,7,0,-,4.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-17,RR Pant,DJ Willey,RG Sharma,0,1,1,27,,10,8,0,wides,4.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-18,RR Pant,DJ Willey,RG Sharma,0,0,0,27,,10,9,0,-,5.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-19,RR Pant,DJ Willey,RG Sharma,0,1,1,28,,10,10,0,wides,5.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-20,RR Pant,DJ Willey,RG Sharma,4,0,4,32,,14,11,0,-,6.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-21,RG Sharma,MM Ali,RR Pant,1,0,1,33,,16,11,0,-,1.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-22,RR Pant,MM Ali,RG Sharma,1,0,1,34,,15,12,0,-,2.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-23,RG Sharma,MM Ali,RR Pant,4,0,4,38,,20,12,0,-,3.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-24,RG Sharma,MM Ali,RR Pant,0,0,0,38,,20,13,0,-,4.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-25,RG Sharma,MM Ali,RR Pant,4,0,4,42,,24,14,0,-,5.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-26,RG Sharma,MM Ali,RR Pant,1,0,1,43,,25,15,0,-,6.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-27,RG Sharma,RJ Gleeson,RR Pant,0,0,0,43,,25,16,0,-,1.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-28,RG Sharma,RJ Gleeson,RR Pant,4,0,4,47,,29,17,0,-,2.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-29,RG Sharma,RJ Gleeson,RR Pant,0,0,0,47,,29,18,0,-,3.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-30,RG Sharma,RJ Gleeson,RR Pant,2,0,2,49,,31,19,0,-,4.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-31,RG Sharma,RJ Gleeson,RR Pant,0,0,0,49,,31,20,1,-,5.0,4,caught,RG Sharma,JC Buttler,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-32,V Kohli,RJ Gleeson,RR Pant,0,0,0,49,,0,1,1,-,6.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-33,RR Pant,MM Ali,V Kohli,6,0,6,55,,21,13,1,-,1.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-34,RR Pant,MM Ali,V Kohli,4,0,4,59,,25,14,1,-,2.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-35,RR Pant,MM Ali,V Kohli,0,0,0,59,,25,15,1,-,3.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-36,RR Pant,MM Ali,V Kohli,0,0,0,59,,25,16,1,-,4.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-37,RR Pant,MM Ali,V Kohli,1,0,1,60,,26,17,1,-,5.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-38,V Kohli,MM Ali,RR Pant,1,0,1,61,,1,2,1,-,6.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-39,V Kohli,RJ Gleeson,RR Pant,0,0,0,61,,1,3,2,-,1.0,6,caught,V Kohli,DJ Malan,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-40,RR Pant,RJ Gleeson,SA Yadav,0,0,0,61,,26,18,3,-,2.0,6,caught,RR Pant,JC Buttler,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-41,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,1,3,-,3.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-42,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,2,3,-,4.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-43,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,3,3,-,5.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-44,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,4,3,-,6.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-45,SA Yadav,MW Parkinson,HH Pandya,0,0,0,61,,0,1,3,-,1.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-46,SA Yadav,MW Parkinson,HH Pandya,4,0,4,65,,4,2,3,-,2.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-47,SA Yadav,MW Parkinson,HH Pandya,1,0,1,66,,5,3,3,-,3.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-48,HH Pandya,MW Parkinson,SA Yadav,1,0,1,67,,1,5,3,-,4.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-49,SA Yadav,MW Parkinson,HH Pandya,0,1,1,68,,5,4,3,wides,4.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-50,SA Yadav,MW Parkinson,HH Pandya,0,0,0,68,,5,5,3,-,5.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-51,SA Yadav,MW Parkinson,HH Pandya,1,0,1,69,,6,6,3,-,6.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-52,SA Yadav,CJ Jordan,HH Pandya,1,0,1,70,,7,7,3,-,1.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-53,HH Pandya,CJ Jordan,SA Yadav,0,0,0,70,,1,6,3,-,2.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-54,HH Pandya,CJ Jordan,SA Yadav,0,0,0,70,,1,7,3,-,3.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-55,HH Pandya,CJ Jordan,SA Yadav,1,0,1,71,,2,8,3,-,4.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-56,SA Yadav,CJ Jordan,HH Pandya,1,0,1,72,,8,8,3,-,5.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-57,HH Pandya,CJ Jordan,SA Yadav,1,0,1,73,,3,9,3,-,6.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-58,HH Pandya,MW Parkinson,SA Yadav,4,0,4,77,,7,10,3,-,1.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-59,HH Pandya,MW Parkinson,SA Yadav,1,0,1,78,,8,11,3,-,2.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-60,SA Yadav,MW Parkinson,HH Pandya,2,0,2,80,,10,9,3,-,3.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-61,SA Yadav,MW Parkinson,HH Pandya,4,0,4,84,,14,10,3,-,4.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-62,SA Yadav,MW Parkinson,HH Pandya,1,0,1,85,,15,11,3,-,5.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-63,HH Pandya,MW Parkinson,SA Yadav,1,0,1,86,,9,12,3,-,6.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-64,HH Pandya,CJ Jordan,SA Yadav,2,0,2,88,,11,13,3,-,1.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-65,HH Pandya,CJ Jordan,SA Yadav,1,0,1,89,,12,14,3,-,2.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-66,SA Yadav,CJ Jordan,HH Pandya,0,0,0,89,,15,12,4,-,3.0,10,caught,SA Yadav,SM Curran,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-67,HH Pandya,CJ Jordan,RA Jadeja,0,0,0,89,,12,15,5,-,4.0,10,caught,HH Pandya,DJ Malan,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-68,KD Karthik,CJ Jordan,RA Jadeja,0,0,0,89,,0,1,5,-,5.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-69,KD Karthik,CJ Jordan,RA Jadeja,0,0,0,89,,0,2,5,-,6.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-70,RA Jadeja,RJ Gleeson,KD Karthik,1,0,1,90,,1,1,5,-,1.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-71,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,90,,0,3,5,-,2.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-72,KD Karthik,RJ Gleeson,RA Jadeja,0,1,1,91,,0,4,5,wides,2.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-73,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,5,5,-,3.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-74,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,6,5,-,4.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-75,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,7,5,-,5.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-76,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,8,5,-,6.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-77,RA Jadeja,DJ Willey,KD Karthik,2,0,2,93,,3,2,5,-,1.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-78,RA Jadeja,DJ Willey,KD Karthik,1,0,1,94,,4,3,5,-,2.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-79,KD Karthik,DJ Willey,RA Jadeja,2,0,2,96,,2,9,5,-,3.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-80,KD Karthik,DJ Willey,RA Jadeja,0,0,0,96,,2,10,5,-,4.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-81,KD Karthik,DJ Willey,RA Jadeja,1,0,1,97,,3,11,5,-,5.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-82,RA Jadeja,DJ Willey,KD Karthik,4,0,4,101,,8,4,5,-,6.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-83,KD Karthik,LS Livingstone,RA Jadeja,1,0,1,102,,4,12,5,-,1.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-84,RA Jadeja,LS Livingstone,KD Karthik,1,0,1,103,,9,5,5,-,2.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-85,KD Karthik,LS Livingstone,RA Jadeja,2,0,2,105,,6,13,5,-,3.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-86,KD Karthik,LS Livingstone,RA Jadeja,0,0,0,105,,6,14,5,-,4.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-87,KD Karthik,LS Livingstone,RA Jadeja,1,0,1,106,,7,15,5,-,5.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-88,RA Jadeja,LS Livingstone,KD Karthik,1,0,1,107,,10,6,5,-,6.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-89,RA Jadeja,SM Curran,KD Karthik,0,0,0,107,,10,7,5,-,1.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-90,RA Jadeja,SM Curran,KD Karthik,1,0,1,108,,11,8,5,-,2.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-91,KD Karthik,SM Curran,RA Jadeja,4,0,4,112,,11,16,5,-,3.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-92,KD Karthik,SM Curran,RA Jadeja,0,1,1,113,,11,17,5,wides,3.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-93,KD Karthik,SM Curran,RA Jadeja,0,0,0,113,,11,18,5,-,4.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-94,KD Karthik,SM Curran,RA Jadeja,1,0,1,114,,12,19,5,-,5.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-95,RA Jadeja,SM Curran,KD Karthik,1,0,1,115,,12,9,5,-,6.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-96,RA Jadeja,LS Livingstone,KD Karthik,0,5,5,120,,12,10,5,wides,0.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-97,RA Jadeja,LS Livingstone,KD Karthik,2,0,2,122,,14,11,6,-,1.0,15,run out,KD Karthik,JC Buttler;HC Brook,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-98,HV Patel,LS Livingstone,RA Jadeja,1,0,1,123,,1,1,6,-,2.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-99,RA Jadeja,LS Livingstone,HV Patel,4,0,4,127,,18,12,6,-,3.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-100,RA Jadeja,LS Livingstone,HV Patel,0,0,0,127,,18,13,6,-,4.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-101,RA Jadeja,LS Livingstone,HV Patel,1,0,1,128,,19,14,6,-,5.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-102,HV Patel,LS Livingstone,RA Jadeja,4,0,4,132,,5,2,6,-,6.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-103,RA Jadeja,CJ Jordan,HV Patel,4,0,4,136,,23,15,6,-,1.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-104,RA Jadeja,CJ Jordan,HV Patel,1,0,1,137,,24,16,6,-,2.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-105,HV Patel,CJ Jordan,RA Jadeja,2,0,2,139,,7,3,6,-,3.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-106,HV Patel,CJ Jordan,RA Jadeja,0,0,0,139,,7,4,6,-,4.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-107,HV Patel,CJ Jordan,RA Jadeja,6,0,6,145,,13,5,6,-,5.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-108,HV Patel,CJ Jordan,RA Jadeja,0,0,0,145,,13,6,7,-,6.0,16,caught,HV Patel,RJ Gleeson,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-109,RA Jadeja,RJ Gleeson,B Kumar,1,0,1,146,,25,17,7,-,1.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-110,B Kumar,RJ Gleeson,RA Jadeja,0,0,0,146,,0,1,7,-,2.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-111,B Kumar,RJ Gleeson,RA Jadeja,1,0,1,147,,1,2,7,-,3.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-112,RA Jadeja,RJ Gleeson,B Kumar,2,0,2,149,,27,18,7,-,4.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-113,RA Jadeja,RJ Gleeson,B Kumar,2,0,2,151,,29,19,7,-,5.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-114,RA Jadeja,RJ Gleeson,B Kumar,1,0,1,152,,30,20,7,-,6.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-115,RA Jadeja,CJ Jordan,B Kumar,1,0,1,153,,31,21,7,-,1.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-116,B Kumar,CJ Jordan,RA Jadeja,1,0,1,154,,2,3,7,-,2.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-117,RA Jadeja,CJ Jordan,B Kumar,0,0,0,154,,31,22,7,-,3.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-118,RA Jadeja,CJ Jordan,B Kumar,4,0,4,158,,35,23,7,-,4.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-119,RA Jadeja,CJ Jordan,B Kumar,1,0,1,159,,36,24,7,-,5.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-120,B Kumar,CJ Jordan,RA Jadeja,0,0,0,159,,2,4,8,-,6.0,18,caught,B Kumar,DJ Willey,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-121,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,161,,38,25,8,-,1.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-122,RA Jadeja,SM Curran,JJ Bumrah,0,1,1,162,,38,26,8,wides,1.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-123,RA Jadeja,SM Curran,JJ Bumrah,0,0,0,162,,38,27,8,-,2.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-124,RA Jadeja,SM Curran,JJ Bumrah,4,0,4,166,,42,28,8,-,3.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-125,RA Jadeja,SM Curran,JJ Bumrah,0,0,0,166,,42,29,8,-,4.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-126,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,168,,44,30,8,-,5.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
-127,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,170,,46,31,8,-,6.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,RG Sharma,DJ Willey,RR Pant,0,0,0,0,,0,1,0,-,1.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+1,RG Sharma,DJ Willey,RR Pant,1,0,1,1,,1,2,0,-,2.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+2,RR Pant,DJ Willey,RG Sharma,1,0,1,2,,1,1,0,-,3.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+3,RG Sharma,DJ Willey,RR Pant,0,0,0,2,,1,3,0,-,4.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+4,RG Sharma,DJ Willey,RR Pant,0,0,0,2,,1,4,0,-,5.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+5,RG Sharma,DJ Willey,RR Pant,6,0,6,8,,7,5,0,-,6.0,0,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+6,RR Pant,SM Curran,RG Sharma,0,1,1,9,,1,2,0,wides,0.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Medium
+7,RR Pant,SM Curran,RG Sharma,1,0,1,10,,2,3,0,-,1.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Medium
+8,RG Sharma,SM Curran,RR Pant,0,0,0,10,,7,6,0,-,2.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Medium
+9,RG Sharma,SM Curran,RR Pant,0,0,0,10,,7,7,0,-,3.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Medium
+10,RG Sharma,SM Curran,RR Pant,1,0,1,11,,8,8,0,-,4.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Medium
+11,RR Pant,SM Curran,RG Sharma,4,0,4,15,,6,4,0,-,5.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Medium
+12,RR Pant,SM Curran,RG Sharma,0,0,0,15,,6,5,0,-,6.0,1,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Medium
+13,RG Sharma,DJ Willey,RR Pant,6,0,6,21,,14,9,0,-,1.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+14,RG Sharma,DJ Willey,RR Pant,1,0,1,22,,15,10,0,-,2.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Left arm Fast
+15,RR Pant,DJ Willey,RG Sharma,4,0,4,26,,10,6,0,-,3.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+16,RR Pant,DJ Willey,RG Sharma,0,0,0,26,,10,7,0,-,4.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+17,RR Pant,DJ Willey,RG Sharma,0,1,1,27,,10,8,0,wides,4.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+18,RR Pant,DJ Willey,RG Sharma,0,0,0,27,,10,9,0,-,5.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+19,RR Pant,DJ Willey,RG Sharma,0,1,1,28,,10,10,0,wides,5.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+20,RR Pant,DJ Willey,RG Sharma,4,0,4,32,,14,11,0,-,6.0,2,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Left arm Fast
+21,RG Sharma,MM Ali,RR Pant,1,0,1,33,,16,11,0,-,1.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+22,RR Pant,MM Ali,RG Sharma,1,0,1,34,,15,12,0,-,2.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+23,RG Sharma,MM Ali,RR Pant,4,0,4,38,,20,12,0,-,3.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+24,RG Sharma,MM Ali,RR Pant,0,0,0,38,,20,13,0,-,4.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+25,RG Sharma,MM Ali,RR Pant,4,0,4,42,,24,14,0,-,5.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+26,RG Sharma,MM Ali,RR Pant,1,0,1,43,,25,15,0,-,6.0,3,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+27,RG Sharma,RJ Gleeson,RR Pant,0,0,0,43,,25,16,0,-,1.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+28,RG Sharma,RJ Gleeson,RR Pant,4,0,4,47,,29,17,0,-,2.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+29,RG Sharma,RJ Gleeson,RR Pant,0,0,0,47,,29,18,0,-,3.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+30,RG Sharma,RJ Gleeson,RR Pant,2,0,2,49,,31,19,0,-,4.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+31,RG Sharma,RJ Gleeson,RR Pant,0,0,0,49,,31,20,1,-,5.0,4,caught,RG Sharma,JC Buttler,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+32,V Kohli,RJ Gleeson,RR Pant,0,0,0,49,,0,1,1,-,6.0,4,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+33,RR Pant,MM Ali,V Kohli,6,0,6,55,,21,13,1,-,1.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+34,RR Pant,MM Ali,V Kohli,4,0,4,59,,25,14,1,-,2.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+35,RR Pant,MM Ali,V Kohli,0,0,0,59,,25,15,1,-,3.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+36,RR Pant,MM Ali,V Kohli,0,0,0,59,,25,16,1,-,4.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+37,RR Pant,MM Ali,V Kohli,1,0,1,60,,26,17,1,-,5.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Offbreak
+38,V Kohli,MM Ali,RR Pant,1,0,1,61,,1,2,1,-,6.0,5,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Offbreak
+39,V Kohli,RJ Gleeson,RR Pant,0,0,0,61,,1,3,2,-,1.0,6,caught,V Kohli,DJ Malan,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,,Right arm Fast
+40,RR Pant,RJ Gleeson,SA Yadav,0,0,0,61,,26,18,3,-,2.0,6,caught,RR Pant,JC Buttler,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,,Right hand Bat,Right arm Fast
+41,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,1,3,-,3.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+42,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,2,3,-,4.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+43,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,3,3,-,5.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+44,HH Pandya,RJ Gleeson,SA Yadav,0,0,0,61,,0,4,3,-,6.0,6,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+45,SA Yadav,MW Parkinson,HH Pandya,0,0,0,61,,0,1,3,-,1.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+46,SA Yadav,MW Parkinson,HH Pandya,4,0,4,65,,4,2,3,-,2.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+47,SA Yadav,MW Parkinson,HH Pandya,1,0,1,66,,5,3,3,-,3.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+48,HH Pandya,MW Parkinson,SA Yadav,1,0,1,67,,1,5,3,-,4.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+49,SA Yadav,MW Parkinson,HH Pandya,0,1,1,68,,5,4,3,wides,4.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+50,SA Yadav,MW Parkinson,HH Pandya,0,0,0,68,,5,5,3,-,5.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+51,SA Yadav,MW Parkinson,HH Pandya,1,0,1,69,,6,6,3,-,6.0,7,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+52,SA Yadav,CJ Jordan,HH Pandya,1,0,1,70,,7,7,3,-,1.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+53,HH Pandya,CJ Jordan,SA Yadav,0,0,0,70,,1,6,3,-,2.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+54,HH Pandya,CJ Jordan,SA Yadav,0,0,0,70,,1,7,3,-,3.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+55,HH Pandya,CJ Jordan,SA Yadav,1,0,1,71,,2,8,3,-,4.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+56,SA Yadav,CJ Jordan,HH Pandya,1,0,1,72,,8,8,3,-,5.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+57,HH Pandya,CJ Jordan,SA Yadav,1,0,1,73,,3,9,3,-,6.0,8,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+58,HH Pandya,MW Parkinson,SA Yadav,4,0,4,77,,7,10,3,-,1.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+59,HH Pandya,MW Parkinson,SA Yadav,1,0,1,78,,8,11,3,-,2.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+60,SA Yadav,MW Parkinson,HH Pandya,2,0,2,80,,10,9,3,-,3.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+61,SA Yadav,MW Parkinson,HH Pandya,4,0,4,84,,14,10,3,-,4.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+62,SA Yadav,MW Parkinson,HH Pandya,1,0,1,85,,15,11,3,-,5.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+63,HH Pandya,MW Parkinson,SA Yadav,1,0,1,86,,9,12,3,-,6.0,9,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Legbreak
+64,HH Pandya,CJ Jordan,SA Yadav,2,0,2,88,,11,13,3,-,1.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+65,HH Pandya,CJ Jordan,SA Yadav,1,0,1,89,,12,14,3,-,2.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+66,SA Yadav,CJ Jordan,HH Pandya,0,0,0,89,,15,12,4,-,3.0,10,caught,SA Yadav,SM Curran,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Right hand Bat,Right arm Fast
+67,HH Pandya,CJ Jordan,RA Jadeja,0,0,0,89,,12,15,5,-,4.0,10,caught,HH Pandya,DJ Malan,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+68,KD Karthik,CJ Jordan,RA Jadeja,0,0,0,89,,0,1,5,-,5.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+69,KD Karthik,CJ Jordan,RA Jadeja,0,0,0,89,,0,2,5,-,6.0,10,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+70,RA Jadeja,RJ Gleeson,KD Karthik,1,0,1,90,,1,1,5,-,1.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+71,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,90,,0,3,5,-,2.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+72,KD Karthik,RJ Gleeson,RA Jadeja,0,1,1,91,,0,4,5,wides,2.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+73,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,5,5,-,3.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+74,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,6,5,-,4.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+75,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,7,5,-,5.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+76,KD Karthik,RJ Gleeson,RA Jadeja,0,0,0,91,,0,8,5,-,6.0,11,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+77,RA Jadeja,DJ Willey,KD Karthik,2,0,2,93,,3,2,5,-,1.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Fast
+78,RA Jadeja,DJ Willey,KD Karthik,1,0,1,94,,4,3,5,-,2.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Fast
+79,KD Karthik,DJ Willey,RA Jadeja,2,0,2,96,,2,9,5,-,3.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Fast
+80,KD Karthik,DJ Willey,RA Jadeja,0,0,0,96,,2,10,5,-,4.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Fast
+81,KD Karthik,DJ Willey,RA Jadeja,1,0,1,97,,3,11,5,-,5.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Fast
+82,RA Jadeja,DJ Willey,KD Karthik,4,0,4,101,,8,4,5,-,6.0,12,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Fast
+83,KD Karthik,LS Livingstone,RA Jadeja,1,0,1,102,,4,12,5,-,1.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+84,RA Jadeja,LS Livingstone,KD Karthik,1,0,1,103,,9,5,5,-,2.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+85,KD Karthik,LS Livingstone,RA Jadeja,2,0,2,105,,6,13,5,-,3.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+86,KD Karthik,LS Livingstone,RA Jadeja,0,0,0,105,,6,14,5,-,4.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+87,KD Karthik,LS Livingstone,RA Jadeja,1,0,1,106,,7,15,5,-,5.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+88,RA Jadeja,LS Livingstone,KD Karthik,1,0,1,107,,10,6,5,-,6.0,13,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+89,RA Jadeja,SM Curran,KD Karthik,0,0,0,107,,10,7,5,-,1.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+90,RA Jadeja,SM Curran,KD Karthik,1,0,1,108,,11,8,5,-,2.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+91,KD Karthik,SM Curran,RA Jadeja,4,0,4,112,,11,16,5,-,3.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Medium
+92,KD Karthik,SM Curran,RA Jadeja,0,1,1,113,,11,17,5,wides,3.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Medium
+93,KD Karthik,SM Curran,RA Jadeja,0,0,0,113,,11,18,5,-,4.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Medium
+94,KD Karthik,SM Curran,RA Jadeja,1,0,1,114,,12,19,5,-,5.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Left arm Medium
+95,RA Jadeja,SM Curran,KD Karthik,1,0,1,115,,12,9,5,-,6.0,14,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+96,RA Jadeja,LS Livingstone,KD Karthik,0,5,5,120,,12,10,5,wides,0.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+97,RA Jadeja,LS Livingstone,KD Karthik,2,0,2,122,,14,11,6,-,1.0,15,run out,KD Karthik,JC Buttler;HC Brook,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+98,HV Patel,LS Livingstone,RA Jadeja,1,0,1,123,,1,1,6,-,2.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+99,RA Jadeja,LS Livingstone,HV Patel,4,0,4,127,,18,12,6,-,3.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+100,RA Jadeja,LS Livingstone,HV Patel,0,0,0,127,,18,13,6,-,4.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+101,RA Jadeja,LS Livingstone,HV Patel,1,0,1,128,,19,14,6,-,5.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Offbreak
+102,HV Patel,LS Livingstone,RA Jadeja,4,0,4,132,,5,2,6,-,6.0,15,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Offbreak
+103,RA Jadeja,CJ Jordan,HV Patel,4,0,4,136,,23,15,6,-,1.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+104,RA Jadeja,CJ Jordan,HV Patel,1,0,1,137,,24,16,6,-,2.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+105,HV Patel,CJ Jordan,RA Jadeja,2,0,2,139,,7,3,6,-,3.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+106,HV Patel,CJ Jordan,RA Jadeja,0,0,0,139,,7,4,6,-,4.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+107,HV Patel,CJ Jordan,RA Jadeja,6,0,6,145,,13,5,6,-,5.0,16,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+108,HV Patel,CJ Jordan,RA Jadeja,0,0,0,145,,13,6,7,-,6.0,16,caught,HV Patel,RJ Gleeson,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+109,RA Jadeja,RJ Gleeson,B Kumar,1,0,1,146,,25,17,7,-,1.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+110,B Kumar,RJ Gleeson,RA Jadeja,0,0,0,146,,0,1,7,-,2.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+111,B Kumar,RJ Gleeson,RA Jadeja,1,0,1,147,,1,2,7,-,3.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+112,RA Jadeja,RJ Gleeson,B Kumar,2,0,2,149,,27,18,7,-,4.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+113,RA Jadeja,RJ Gleeson,B Kumar,2,0,2,151,,29,19,7,-,5.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+114,RA Jadeja,RJ Gleeson,B Kumar,1,0,1,152,,30,20,7,-,6.0,17,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+115,RA Jadeja,CJ Jordan,B Kumar,1,0,1,153,,31,21,7,-,1.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+116,B Kumar,CJ Jordan,RA Jadeja,1,0,1,154,,2,3,7,-,2.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+117,RA Jadeja,CJ Jordan,B Kumar,0,0,0,154,,31,22,7,-,3.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+118,RA Jadeja,CJ Jordan,B Kumar,4,0,4,158,,35,23,7,-,4.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+119,RA Jadeja,CJ Jordan,B Kumar,1,0,1,159,,36,24,7,-,5.0,18,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Right arm Fast
+120,B Kumar,CJ Jordan,RA Jadeja,0,0,0,159,,2,4,8,-,6.0,18,caught,B Kumar,DJ Willey,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Right hand Bat,Left hand Bat,Right arm Fast
+121,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,161,,38,25,8,-,1.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+122,RA Jadeja,SM Curran,JJ Bumrah,0,1,1,162,,38,26,8,wides,1.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+123,RA Jadeja,SM Curran,JJ Bumrah,0,0,0,162,,38,27,8,-,2.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+124,RA Jadeja,SM Curran,JJ Bumrah,4,0,4,166,,42,28,8,-,3.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+125,RA Jadeja,SM Curran,JJ Bumrah,0,0,0,166,,42,29,8,-,4.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+126,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,168,,44,30,8,-,5.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium
+127,RA Jadeja,SM Curran,JJ Bumrah,2,0,2,170,,46,31,8,-,6.0,19,0,,,field,England,1,"Edgbaston, Birmingham",2022,07,India_England_2022-07-09,India,India,England,True,170,Left hand Bat,Right hand Bat,Left arm Medium

@@ -1,122 +1,122 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,P Mustard,KD Mills,LJ Wright,1,0,1,1,,1,1,0,-,1.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-1,LJ Wright,KD Mills,P Mustard,1,0,1,2,,1,1,0,-,2.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-2,P Mustard,KD Mills,LJ Wright,0,0,0,2,,1,2,0,-,3.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-3,P Mustard,KD Mills,LJ Wright,0,0,0,2,,1,3,0,-,4.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-4,P Mustard,KD Mills,LJ Wright,4,0,4,6,,5,4,0,-,5.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-5,P Mustard,KD Mills,LJ Wright,4,0,4,10,,9,5,0,-,6.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-6,LJ Wright,CS Martin,P Mustard,0,1,1,11,,1,2,0,legbyes,1.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-7,P Mustard,CS Martin,LJ Wright,0,0,0,11,,9,6,0,-,2.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-8,P Mustard,CS Martin,LJ Wright,0,0,0,11,,9,7,0,-,3.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-9,P Mustard,CS Martin,LJ Wright,1,0,1,12,,10,8,0,-,4.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-10,LJ Wright,CS Martin,P Mustard,0,0,0,12,,1,3,1,-,5.0,1,caught,LJ Wright,BB McCullum,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-11,KP Pietersen,CS Martin,P Mustard,4,0,4,16,,4,1,1,-,6.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-12,P Mustard,KD Mills,KP Pietersen,2,0,2,18,,12,9,1,-,1.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-13,P Mustard,KD Mills,KP Pietersen,6,0,6,24,,18,10,1,-,2.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-14,P Mustard,KD Mills,KP Pietersen,1,0,1,25,,19,11,1,-,3.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-15,KP Pietersen,KD Mills,P Mustard,1,0,1,26,,5,2,1,-,4.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-16,P Mustard,KD Mills,KP Pietersen,1,0,1,27,,20,12,1,-,5.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-17,KP Pietersen,KD Mills,P Mustard,4,0,4,31,,9,3,1,-,6.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-18,P Mustard,CS Martin,KP Pietersen,0,0,0,31,,20,13,2,-,1.0,3,caught,P Mustard,JD Ryder,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-19,KP Pietersen,CS Martin,IR Bell,4,0,4,35,,13,4,2,-,2.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-20,KP Pietersen,CS Martin,IR Bell,0,0,0,35,,13,5,2,-,3.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-21,KP Pietersen,CS Martin,IR Bell,1,0,1,36,,14,6,2,-,4.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-22,IR Bell,CS Martin,KP Pietersen,0,0,0,36,,0,1,2,-,5.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-23,IR Bell,CS Martin,KP Pietersen,2,0,2,38,,2,2,2,-,6.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-24,KP Pietersen,JDP Oram,IR Bell,1,0,1,39,,15,7,2,-,1.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-25,IR Bell,JDP Oram,KP Pietersen,0,0,0,39,,2,3,2,-,2.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-26,IR Bell,JDP Oram,KP Pietersen,4,0,4,43,,6,4,2,-,3.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-27,IR Bell,JDP Oram,KP Pietersen,0,0,0,43,,6,5,2,-,4.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-28,IR Bell,JDP Oram,KP Pietersen,1,0,1,44,,7,6,2,-,5.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-29,KP Pietersen,JDP Oram,IR Bell,1,0,1,45,,16,8,2,-,6.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-30,KP Pietersen,CS Martin,IR Bell,4,0,4,49,,20,9,2,-,1.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-31,KP Pietersen,CS Martin,IR Bell,4,0,4,53,,24,10,2,-,2.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-32,KP Pietersen,CS Martin,IR Bell,2,0,2,55,,26,11,2,-,3.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-33,KP Pietersen,CS Martin,IR Bell,0,0,0,55,,26,12,2,-,4.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-34,KP Pietersen,CS Martin,IR Bell,4,0,4,59,,30,13,2,-,5.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-35,KP Pietersen,CS Martin,IR Bell,0,0,0,59,,30,14,2,-,6.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-36,IR Bell,JDP Oram,KP Pietersen,0,0,0,59,,7,7,2,-,1.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-37,IR Bell,JDP Oram,KP Pietersen,1,0,1,60,,8,8,2,-,2.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-38,KP Pietersen,JDP Oram,IR Bell,1,0,1,61,,31,15,2,-,3.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-39,IR Bell,JDP Oram,KP Pietersen,4,0,4,65,,12,9,2,-,4.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-40,IR Bell,JDP Oram,KP Pietersen,0,0,0,65,,12,10,3,-,5.0,6,bowled,IR Bell,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-41,PD Collingwood,JDP Oram,KP Pietersen,2,0,2,67,,2,1,3,-,6.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-42,KP Pietersen,CS Martin,PD Collingwood,6,0,6,73,,37,16,3,-,1.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-43,KP Pietersen,CS Martin,PD Collingwood,0,0,0,73,,37,17,3,-,2.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-44,KP Pietersen,CS Martin,PD Collingwood,1,0,1,74,,38,18,3,-,3.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-45,PD Collingwood,CS Martin,KP Pietersen,0,0,0,74,,2,2,3,-,4.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-46,PD Collingwood,CS Martin,KP Pietersen,0,0,0,74,,2,3,3,-,5.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-47,PD Collingwood,CS Martin,KP Pietersen,1,0,1,75,,3,4,3,-,6.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-48,PD Collingwood,JDP Oram,KP Pietersen,1,0,1,76,,4,5,3,-,1.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-49,KP Pietersen,JDP Oram,PD Collingwood,1,0,1,77,,39,19,3,-,2.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-50,PD Collingwood,JDP Oram,KP Pietersen,1,0,1,78,,5,6,3,-,3.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-51,KP Pietersen,JDP Oram,PD Collingwood,2,0,2,80,,41,20,3,-,4.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-52,KP Pietersen,JDP Oram,PD Collingwood,1,0,1,81,,42,21,3,-,5.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-53,PD Collingwood,JDP Oram,KP Pietersen,0,0,0,81,,5,7,3,-,6.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-54,KP Pietersen,JS Patel,PD Collingwood,1,0,1,82,,43,22,3,-,1.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-55,PD Collingwood,JS Patel,KP Pietersen,0,0,0,82,,5,8,3,-,2.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-56,PD Collingwood,JS Patel,KP Pietersen,2,0,2,84,,7,9,3,-,3.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-57,PD Collingwood,JS Patel,KP Pietersen,1,0,1,85,,8,10,3,-,4.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-58,KP Pietersen,JS Patel,PD Collingwood,0,0,0,85,,43,23,4,-,5.0,9,caught,KP Pietersen,LRPL Taylor,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-59,OA Shah,JS Patel,PD Collingwood,1,0,1,86,,1,1,4,-,6.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-60,OA Shah,TG Southee,PD Collingwood,0,0,0,86,,1,2,4,-,1.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-61,OA Shah,TG Southee,PD Collingwood,2,0,2,88,,3,3,4,-,2.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-62,OA Shah,TG Southee,PD Collingwood,0,0,0,88,,3,4,4,-,3.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-63,OA Shah,TG Southee,PD Collingwood,4,0,4,92,,7,5,4,-,4.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-64,OA Shah,TG Southee,PD Collingwood,0,0,0,92,,7,6,4,-,5.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-65,OA Shah,TG Southee,PD Collingwood,1,0,1,93,,8,7,4,-,6.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-66,OA Shah,JS Patel,PD Collingwood,1,0,1,94,,9,8,4,-,1.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-67,PD Collingwood,JS Patel,OA Shah,1,0,1,95,,9,11,4,-,2.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-68,OA Shah,JS Patel,PD Collingwood,1,0,1,96,,10,9,4,-,3.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-69,PD Collingwood,JS Patel,OA Shah,1,0,1,97,,10,12,4,-,4.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-70,OA Shah,JS Patel,PD Collingwood,1,0,1,98,,11,10,4,-,5.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-71,PD Collingwood,JS Patel,OA Shah,6,0,6,104,,16,13,4,-,6.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-72,OA Shah,TG Southee,PD Collingwood,0,0,0,104,,11,11,4,-,1.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-73,OA Shah,TG Southee,PD Collingwood,1,0,1,105,,12,12,4,-,2.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-74,PD Collingwood,TG Southee,OA Shah,1,0,1,106,,17,14,4,-,3.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-75,OA Shah,TG Southee,PD Collingwood,6,0,6,112,,18,13,4,-,4.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-76,OA Shah,TG Southee,PD Collingwood,4,0,4,116,,22,14,4,-,5.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-77,OA Shah,TG Southee,PD Collingwood,1,0,1,117,,23,15,4,-,6.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-78,OA Shah,JD Ryder,PD Collingwood,0,0,0,117,,23,16,4,-,1.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-79,OA Shah,JD Ryder,PD Collingwood,0,0,0,117,,23,17,5,-,2.0,13,lbw,OA Shah,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-80,AD Mascarenhas,JD Ryder,PD Collingwood,0,0,0,117,,0,1,5,-,3.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-81,AD Mascarenhas,JD Ryder,PD Collingwood,0,0,0,117,,0,2,5,-,4.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-82,AD Mascarenhas,JD Ryder,PD Collingwood,1,0,1,118,,1,3,5,-,5.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-83,PD Collingwood,JD Ryder,AD Mascarenhas,1,0,1,119,,18,15,5,-,6.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-84,PD Collingwood,JDP Oram,AD Mascarenhas,1,0,1,120,,19,16,5,-,1.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-85,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,120,,1,4,5,-,2.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-86,AD Mascarenhas,JDP Oram,PD Collingwood,0,1,1,121,,1,5,5,wides,2.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-87,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,121,,1,6,5,-,3.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-88,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,121,,1,7,5,-,4.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-89,AD Mascarenhas,JDP Oram,PD Collingwood,1,0,1,122,,2,8,5,-,5.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-90,PD Collingwood,JDP Oram,AD Mascarenhas,0,0,0,122,,19,17,5,-,6.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-91,AD Mascarenhas,JS Patel,PD Collingwood,1,0,1,123,,3,9,5,-,1.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-92,PD Collingwood,JS Patel,AD Mascarenhas,1,0,1,124,,20,18,5,-,2.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-93,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,130,,9,10,5,-,3.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-94,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,136,,15,11,5,-,4.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-95,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,142,,21,12,5,-,5.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-96,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,148,,27,13,5,-,6.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-97,PD Collingwood,KD Mills,AD Mascarenhas,4,0,4,152,,24,19,5,-,1.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-98,PD Collingwood,KD Mills,AD Mascarenhas,1,0,1,153,,25,20,5,-,2.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-99,AD Mascarenhas,KD Mills,PD Collingwood,4,0,4,157,,31,14,5,-,3.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-100,AD Mascarenhas,KD Mills,PD Collingwood,0,0,0,157,,31,15,6,-,4.0,16,caught,AD Mascarenhas,JS Patel,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-101,PD Collingwood,KD Mills,GP Swann,1,0,1,158,,26,21,6,-,5.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-102,GP Swann,KD Mills,PD Collingwood,1,0,1,159,,1,1,6,-,6.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-103,GP Swann,TG Southee,PD Collingwood,1,0,1,160,,2,2,6,-,1.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-104,PD Collingwood,TG Southee,GP Swann,0,0,0,160,,26,22,7,-,2.0,17,caught,PD Collingwood,SB Styris,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-105,GP Swann,TG Southee,SCJ Broad,4,0,4,164,,6,3,7,-,3.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-106,GP Swann,TG Southee,SCJ Broad,0,0,0,164,,6,4,7,-,4.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-107,GP Swann,TG Southee,SCJ Broad,1,0,1,165,,7,5,7,-,5.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-108,SCJ Broad,TG Southee,GP Swann,1,0,1,166,,1,1,7,-,6.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-109,SCJ Broad,KD Mills,GP Swann,4,0,4,170,,5,2,7,-,1.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-110,SCJ Broad,KD Mills,GP Swann,1,0,1,171,,6,3,7,-,2.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-111,GP Swann,KD Mills,SCJ Broad,1,0,1,172,,8,6,7,-,3.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-112,SCJ Broad,KD Mills,GP Swann,0,0,0,172,,6,4,8,-,4.0,18,caught,SCJ Broad,SB Styris,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-113,GP Swann,KD Mills,RJ Sidebottom,1,0,1,173,,9,7,8,-,5.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-114,RJ Sidebottom,KD Mills,GP Swann,0,0,0,173,,0,1,8,-,6.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-115,GP Swann,TG Southee,RJ Sidebottom,1,0,1,174,,10,8,8,-,1.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-116,RJ Sidebottom,TG Southee,GP Swann,0,0,0,174,,0,2,8,-,2.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-117,RJ Sidebottom,TG Southee,GP Swann,4,0,4,178,,4,3,8,-,3.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-118,RJ Sidebottom,TG Southee,GP Swann,1,0,1,179,,5,4,8,-,4.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-119,GP Swann,TG Southee,RJ Sidebottom,4,0,4,183,,14,9,8,-,5.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
-120,GP Swann,TG Southee,RJ Sidebottom,1,0,1,184,,15,10,8,-,6.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,P Mustard,KD Mills,LJ Wright,1,0,1,1,,1,1,0,-,1.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+1,LJ Wright,KD Mills,P Mustard,1,0,1,2,,1,1,0,-,2.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+2,P Mustard,KD Mills,LJ Wright,0,0,0,2,,1,2,0,-,3.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+3,P Mustard,KD Mills,LJ Wright,0,0,0,2,,1,3,0,-,4.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+4,P Mustard,KD Mills,LJ Wright,4,0,4,6,,5,4,0,-,5.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+5,P Mustard,KD Mills,LJ Wright,4,0,4,10,,9,5,0,-,6.0,0,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+6,LJ Wright,CS Martin,P Mustard,0,1,1,11,,1,2,0,legbyes,1.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+7,P Mustard,CS Martin,LJ Wright,0,0,0,11,,9,6,0,-,2.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+8,P Mustard,CS Martin,LJ Wright,0,0,0,11,,9,7,0,-,3.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+9,P Mustard,CS Martin,LJ Wright,1,0,1,12,,10,8,0,-,4.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+10,LJ Wright,CS Martin,P Mustard,0,0,0,12,,1,3,1,-,5.0,1,caught,LJ Wright,BB McCullum,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+11,KP Pietersen,CS Martin,P Mustard,4,0,4,16,,4,1,1,-,6.0,1,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+12,P Mustard,KD Mills,KP Pietersen,2,0,2,18,,12,9,1,-,1.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+13,P Mustard,KD Mills,KP Pietersen,6,0,6,24,,18,10,1,-,2.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+14,P Mustard,KD Mills,KP Pietersen,1,0,1,25,,19,11,1,-,3.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+15,KP Pietersen,KD Mills,P Mustard,1,0,1,26,,5,2,1,-,4.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+16,P Mustard,KD Mills,KP Pietersen,1,0,1,27,,20,12,1,-,5.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+17,KP Pietersen,KD Mills,P Mustard,4,0,4,31,,9,3,1,-,6.0,2,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+18,P Mustard,CS Martin,KP Pietersen,0,0,0,31,,20,13,2,-,1.0,3,caught,P Mustard,JD Ryder,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+19,KP Pietersen,CS Martin,IR Bell,4,0,4,35,,13,4,2,-,2.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+20,KP Pietersen,CS Martin,IR Bell,0,0,0,35,,13,5,2,-,3.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+21,KP Pietersen,CS Martin,IR Bell,1,0,1,36,,14,6,2,-,4.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+22,IR Bell,CS Martin,KP Pietersen,0,0,0,36,,0,1,2,-,5.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+23,IR Bell,CS Martin,KP Pietersen,2,0,2,38,,2,2,2,-,6.0,3,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+24,KP Pietersen,JDP Oram,IR Bell,1,0,1,39,,15,7,2,-,1.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+25,IR Bell,JDP Oram,KP Pietersen,0,0,0,39,,2,3,2,-,2.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+26,IR Bell,JDP Oram,KP Pietersen,4,0,4,43,,6,4,2,-,3.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+27,IR Bell,JDP Oram,KP Pietersen,0,0,0,43,,6,5,2,-,4.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+28,IR Bell,JDP Oram,KP Pietersen,1,0,1,44,,7,6,2,-,5.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+29,KP Pietersen,JDP Oram,IR Bell,1,0,1,45,,16,8,2,-,6.0,4,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+30,KP Pietersen,CS Martin,IR Bell,4,0,4,49,,20,9,2,-,1.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+31,KP Pietersen,CS Martin,IR Bell,4,0,4,53,,24,10,2,-,2.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+32,KP Pietersen,CS Martin,IR Bell,2,0,2,55,,26,11,2,-,3.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+33,KP Pietersen,CS Martin,IR Bell,0,0,0,55,,26,12,2,-,4.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+34,KP Pietersen,CS Martin,IR Bell,4,0,4,59,,30,13,2,-,5.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+35,KP Pietersen,CS Martin,IR Bell,0,0,0,59,,30,14,2,-,6.0,5,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+36,IR Bell,JDP Oram,KP Pietersen,0,0,0,59,,7,7,2,-,1.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+37,IR Bell,JDP Oram,KP Pietersen,1,0,1,60,,8,8,2,-,2.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+38,KP Pietersen,JDP Oram,IR Bell,1,0,1,61,,31,15,2,-,3.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+39,IR Bell,JDP Oram,KP Pietersen,4,0,4,65,,12,9,2,-,4.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+40,IR Bell,JDP Oram,KP Pietersen,0,0,0,65,,12,10,3,-,5.0,6,bowled,IR Bell,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+41,PD Collingwood,JDP Oram,KP Pietersen,2,0,2,67,,2,1,3,-,6.0,6,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+42,KP Pietersen,CS Martin,PD Collingwood,6,0,6,73,,37,16,3,-,1.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+43,KP Pietersen,CS Martin,PD Collingwood,0,0,0,73,,37,17,3,-,2.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+44,KP Pietersen,CS Martin,PD Collingwood,1,0,1,74,,38,18,3,-,3.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+45,PD Collingwood,CS Martin,KP Pietersen,0,0,0,74,,2,2,3,-,4.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+46,PD Collingwood,CS Martin,KP Pietersen,0,0,0,74,,2,3,3,-,5.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+47,PD Collingwood,CS Martin,KP Pietersen,1,0,1,75,,3,4,3,-,6.0,7,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+48,PD Collingwood,JDP Oram,KP Pietersen,1,0,1,76,,4,5,3,-,1.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+49,KP Pietersen,JDP Oram,PD Collingwood,1,0,1,77,,39,19,3,-,2.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+50,PD Collingwood,JDP Oram,KP Pietersen,1,0,1,78,,5,6,3,-,3.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+51,KP Pietersen,JDP Oram,PD Collingwood,2,0,2,80,,41,20,3,-,4.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+52,KP Pietersen,JDP Oram,PD Collingwood,1,0,1,81,,42,21,3,-,5.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+53,PD Collingwood,JDP Oram,KP Pietersen,0,0,0,81,,5,7,3,-,6.0,8,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+54,KP Pietersen,JS Patel,PD Collingwood,1,0,1,82,,43,22,3,-,1.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+55,PD Collingwood,JS Patel,KP Pietersen,0,0,0,82,,5,8,3,-,2.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+56,PD Collingwood,JS Patel,KP Pietersen,2,0,2,84,,7,9,3,-,3.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+57,PD Collingwood,JS Patel,KP Pietersen,1,0,1,85,,8,10,3,-,4.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+58,KP Pietersen,JS Patel,PD Collingwood,0,0,0,85,,43,23,4,-,5.0,9,caught,KP Pietersen,LRPL Taylor,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+59,OA Shah,JS Patel,PD Collingwood,1,0,1,86,,1,1,4,-,6.0,9,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+60,OA Shah,TG Southee,PD Collingwood,0,0,0,86,,1,2,4,-,1.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+61,OA Shah,TG Southee,PD Collingwood,2,0,2,88,,3,3,4,-,2.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+62,OA Shah,TG Southee,PD Collingwood,0,0,0,88,,3,4,4,-,3.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+63,OA Shah,TG Southee,PD Collingwood,4,0,4,92,,7,5,4,-,4.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+64,OA Shah,TG Southee,PD Collingwood,0,0,0,92,,7,6,4,-,5.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+65,OA Shah,TG Southee,PD Collingwood,1,0,1,93,,8,7,4,-,6.0,10,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+66,OA Shah,JS Patel,PD Collingwood,1,0,1,94,,9,8,4,-,1.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+67,PD Collingwood,JS Patel,OA Shah,1,0,1,95,,9,11,4,-,2.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+68,OA Shah,JS Patel,PD Collingwood,1,0,1,96,,10,9,4,-,3.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+69,PD Collingwood,JS Patel,OA Shah,1,0,1,97,,10,12,4,-,4.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+70,OA Shah,JS Patel,PD Collingwood,1,0,1,98,,11,10,4,-,5.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+71,PD Collingwood,JS Patel,OA Shah,6,0,6,104,,16,13,4,-,6.0,11,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+72,OA Shah,TG Southee,PD Collingwood,0,0,0,104,,11,11,4,-,1.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+73,OA Shah,TG Southee,PD Collingwood,1,0,1,105,,12,12,4,-,2.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+74,PD Collingwood,TG Southee,OA Shah,1,0,1,106,,17,14,4,-,3.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+75,OA Shah,TG Southee,PD Collingwood,6,0,6,112,,18,13,4,-,4.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+76,OA Shah,TG Southee,PD Collingwood,4,0,4,116,,22,14,4,-,5.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+77,OA Shah,TG Southee,PD Collingwood,1,0,1,117,,23,15,4,-,6.0,12,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+78,OA Shah,JD Ryder,PD Collingwood,0,0,0,117,,23,16,4,-,1.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+79,OA Shah,JD Ryder,PD Collingwood,0,0,0,117,,23,17,5,-,2.0,13,lbw,OA Shah,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+80,AD Mascarenhas,JD Ryder,PD Collingwood,0,0,0,117,,0,1,5,-,3.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+81,AD Mascarenhas,JD Ryder,PD Collingwood,0,0,0,117,,0,2,5,-,4.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+82,AD Mascarenhas,JD Ryder,PD Collingwood,1,0,1,118,,1,3,5,-,5.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+83,PD Collingwood,JD Ryder,AD Mascarenhas,1,0,1,119,,18,15,5,-,6.0,13,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+84,PD Collingwood,JDP Oram,AD Mascarenhas,1,0,1,120,,19,16,5,-,1.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+85,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,120,,1,4,5,-,2.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+86,AD Mascarenhas,JDP Oram,PD Collingwood,0,1,1,121,,1,5,5,wides,2.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+87,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,121,,1,6,5,-,3.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+88,AD Mascarenhas,JDP Oram,PD Collingwood,0,0,0,121,,1,7,5,-,4.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+89,AD Mascarenhas,JDP Oram,PD Collingwood,1,0,1,122,,2,8,5,-,5.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+90,PD Collingwood,JDP Oram,AD Mascarenhas,0,0,0,122,,19,17,5,-,6.0,14,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+91,AD Mascarenhas,JS Patel,PD Collingwood,1,0,1,123,,3,9,5,-,1.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+92,PD Collingwood,JS Patel,AD Mascarenhas,1,0,1,124,,20,18,5,-,2.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+93,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,130,,9,10,5,-,3.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+94,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,136,,15,11,5,-,4.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+95,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,142,,21,12,5,-,5.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+96,AD Mascarenhas,JS Patel,PD Collingwood,6,0,6,148,,27,13,5,-,6.0,15,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Offbreak
+97,PD Collingwood,KD Mills,AD Mascarenhas,4,0,4,152,,24,19,5,-,1.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+98,PD Collingwood,KD Mills,AD Mascarenhas,1,0,1,153,,25,20,5,-,2.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+99,AD Mascarenhas,KD Mills,PD Collingwood,4,0,4,157,,31,14,5,-,3.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+100,AD Mascarenhas,KD Mills,PD Collingwood,0,0,0,157,,31,15,6,-,4.0,16,caught,AD Mascarenhas,JS Patel,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+101,PD Collingwood,KD Mills,GP Swann,1,0,1,158,,26,21,6,-,5.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+102,GP Swann,KD Mills,PD Collingwood,1,0,1,159,,1,1,6,-,6.0,16,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Fast
+103,GP Swann,TG Southee,PD Collingwood,1,0,1,160,,2,2,6,-,1.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+104,PD Collingwood,TG Southee,GP Swann,0,0,0,160,,26,22,7,-,2.0,17,caught,PD Collingwood,SB Styris,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Right hand Bat,Right arm Medium
+105,GP Swann,TG Southee,SCJ Broad,4,0,4,164,,6,3,7,-,3.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium
+106,GP Swann,TG Southee,SCJ Broad,0,0,0,164,,6,4,7,-,4.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium
+107,GP Swann,TG Southee,SCJ Broad,1,0,1,165,,7,5,7,-,5.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium
+108,SCJ Broad,TG Southee,GP Swann,1,0,1,166,,1,1,7,-,6.0,17,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Medium
+109,SCJ Broad,KD Mills,GP Swann,4,0,4,170,,5,2,7,-,1.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+110,SCJ Broad,KD Mills,GP Swann,1,0,1,171,,6,3,7,-,2.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+111,GP Swann,KD Mills,SCJ Broad,1,0,1,172,,8,6,7,-,3.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+112,SCJ Broad,KD Mills,GP Swann,0,0,0,172,,6,4,8,-,4.0,18,caught,SCJ Broad,SB Styris,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+113,GP Swann,KD Mills,RJ Sidebottom,1,0,1,173,,9,7,8,-,5.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Fast
+114,RJ Sidebottom,KD Mills,GP Swann,0,0,0,173,,0,1,8,-,6.0,18,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Fast
+115,GP Swann,TG Southee,RJ Sidebottom,1,0,1,174,,10,8,8,-,1.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium
+116,RJ Sidebottom,TG Southee,GP Swann,0,0,0,174,,0,2,8,-,2.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Medium
+117,RJ Sidebottom,TG Southee,GP Swann,4,0,4,178,,4,3,8,-,3.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Medium
+118,RJ Sidebottom,TG Southee,GP Swann,1,0,1,179,,5,4,8,-,4.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Left hand Bat,Right hand Bat,Right arm Medium
+119,GP Swann,TG Southee,RJ Sidebottom,4,0,4,183,,14,9,8,-,5.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium
+120,GP Swann,TG Southee,RJ Sidebottom,1,0,1,184,,15,10,8,-,6.0,19,0,,,field,New Zealand,1,Eden Park,2008,02,New Zealand_England_2008-02-05,England,England,New Zealand,True,184,Right hand Bat,Left hand Bat,Right arm Medium

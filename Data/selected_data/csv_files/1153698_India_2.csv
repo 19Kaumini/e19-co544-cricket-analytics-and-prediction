@@ -1,128 +1,128 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,S Dhawan,MJ Santner,RG Sharma,0,0,0,0,212,0,1,0,-,1.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-1,S Dhawan,MJ Santner,RG Sharma,4,0,4,4,208,4,2,0,-,2.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-2,S Dhawan,MJ Santner,RG Sharma,1,0,1,5,207,5,3,0,-,3.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-3,RG Sharma,MJ Santner,S Dhawan,1,0,1,6,206,1,1,0,-,4.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-4,S Dhawan,MJ Santner,RG Sharma,0,0,0,6,206,5,4,1,-,5.0,caught,S Dhawan,DJ Mitchell,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-5,V Shankar,MJ Santner,RG Sharma,0,5,5,11,201,0,1,1,wides,5.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-6,V Shankar,MJ Santner,RG Sharma,0,0,0,11,201,0,2,1,-,6.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-7,RG Sharma,TG Southee,V Shankar,1,0,1,12,200,2,2,1,-,1.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-8,V Shankar,TG Southee,RG Sharma,0,0,0,12,200,0,3,1,-,2.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-9,V Shankar,TG Southee,RG Sharma,1,0,1,13,199,1,4,1,-,3.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-10,RG Sharma,TG Southee,V Shankar,0,0,0,13,199,2,3,1,-,4.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-11,RG Sharma,TG Southee,V Shankar,4,0,4,17,195,6,4,1,-,5.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-12,RG Sharma,TG Southee,V Shankar,1,0,1,18,194,7,5,1,-,6.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-13,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,19,193,8,6,1,-,1.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-14,V Shankar,SC Kuggeleijn,RG Sharma,1,0,1,20,192,2,5,1,-,2.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-15,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,21,191,9,7,1,-,3.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-16,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,25,187,6,6,1,-,4.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-17,V Shankar,SC Kuggeleijn,RG Sharma,0,0,0,25,187,6,7,1,-,5.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-18,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,29,183,10,8,1,-,6.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-19,RG Sharma,BM Tickner,V Shankar,1,0,1,30,182,10,8,1,-,1.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-20,V Shankar,BM Tickner,RG Sharma,0,0,0,30,182,10,9,1,-,2.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-21,V Shankar,BM Tickner,RG Sharma,0,0,0,30,182,10,10,1,-,3.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-22,V Shankar,BM Tickner,RG Sharma,2,0,2,32,180,12,11,1,-,4.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-23,V Shankar,BM Tickner,RG Sharma,0,1,1,33,179,12,12,1,wides,4.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-24,V Shankar,BM Tickner,RG Sharma,4,0,4,37,175,16,13,1,-,5.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-25,V Shankar,BM Tickner,RG Sharma,1,0,1,38,174,17,14,1,-,6.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-26,V Shankar,TG Southee,RG Sharma,0,0,0,38,174,17,15,1,-,1.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-27,V Shankar,TG Southee,RG Sharma,1,0,1,39,173,18,16,1,-,2.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-28,RG Sharma,TG Southee,V Shankar,1,0,1,40,172,11,9,1,-,3.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-29,V Shankar,TG Southee,RG Sharma,1,0,1,41,171,19,17,1,-,4.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-30,RG Sharma,TG Southee,V Shankar,4,0,4,45,167,15,10,1,-,5.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-31,RG Sharma,TG Southee,V Shankar,4,0,4,49,163,19,11,1,-,6.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-32,V Shankar,SC Kuggeleijn,RG Sharma,0,0,0,49,163,19,18,1,-,1.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-33,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,53,159,23,19,1,-,2.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-34,V Shankar,SC Kuggeleijn,RG Sharma,1,0,1,54,158,24,20,1,-,3.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-35,RG Sharma,SC Kuggeleijn,V Shankar,2,0,2,56,156,21,12,1,-,4.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-36,RG Sharma,SC Kuggeleijn,V Shankar,0,0,0,56,156,21,13,1,-,5.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-37,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,57,155,22,14,1,-,6.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-38,RG Sharma,MJ Santner,V Shankar,1,0,1,58,154,23,15,1,-,1.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-39,V Shankar,MJ Santner,RG Sharma,0,0,0,58,154,24,21,1,-,2.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-40,V Shankar,MJ Santner,RG Sharma,1,0,1,59,153,25,22,1,-,3.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-41,RG Sharma,MJ Santner,V Shankar,0,0,0,59,153,23,16,1,-,4.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-42,RG Sharma,MJ Santner,V Shankar,0,1,1,60,152,23,17,1,wides,4.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-43,RG Sharma,MJ Santner,V Shankar,1,0,1,61,151,24,18,1,-,5.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-44,V Shankar,MJ Santner,RG Sharma,1,0,1,62,150,26,23,1,-,6.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-45,V Shankar,IS Sodhi,RG Sharma,1,0,1,63,149,27,24,1,-,1.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-46,RG Sharma,IS Sodhi,V Shankar,1,0,1,64,148,25,19,1,-,2.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-47,V Shankar,IS Sodhi,RG Sharma,0,0,0,64,148,27,25,1,-,3.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-48,V Shankar,IS Sodhi,RG Sharma,6,0,6,70,142,33,26,1,-,4.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-49,V Shankar,IS Sodhi,RG Sharma,6,0,6,76,136,39,27,1,-,5.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-50,V Shankar,IS Sodhi,RG Sharma,0,0,0,76,136,39,28,1,-,6.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-51,RG Sharma,MJ Santner,V Shankar,1,0,1,77,135,26,20,1,-,1.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-52,V Shankar,MJ Santner,RG Sharma,4,0,4,81,131,43,29,1,-,2.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-53,V Shankar,MJ Santner,RG Sharma,0,0,0,81,131,43,30,2,-,3.0,caught,V Shankar,C de Grandhomme,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-54,RG Sharma,MJ Santner,RR Pant,1,0,1,82,130,27,21,2,-,4.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-55,RR Pant,MJ Santner,RG Sharma,4,0,4,86,126,4,1,2,-,5.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-56,RR Pant,MJ Santner,RG Sharma,6,0,6,92,120,10,2,2,-,6.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-57,RG Sharma,IS Sodhi,RR Pant,1,0,1,93,119,28,22,2,-,1.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-58,RR Pant,IS Sodhi,RG Sharma,0,1,1,94,118,10,3,2,wides,1.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-59,RR Pant,IS Sodhi,RG Sharma,6,0,6,100,112,16,4,2,-,2.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-60,RR Pant,IS Sodhi,RG Sharma,0,0,0,100,112,16,5,2,-,3.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-61,RR Pant,IS Sodhi,RG Sharma,1,0,1,101,111,17,6,2,-,4.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-62,RG Sharma,IS Sodhi,RR Pant,1,0,1,102,110,29,23,2,-,5.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-63,RR Pant,IS Sodhi,RG Sharma,6,0,6,108,104,23,7,2,-,6.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-64,RG Sharma,BM Tickner,RR Pant,1,0,1,109,103,30,24,2,-,1.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-65,RR Pant,BM Tickner,RG Sharma,2,0,2,111,101,25,8,2,-,2.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-66,RR Pant,BM Tickner,RG Sharma,1,0,1,112,100,26,9,2,-,3.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-67,RG Sharma,BM Tickner,RR Pant,2,0,2,114,98,32,25,2,-,4.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-68,RG Sharma,BM Tickner,RR Pant,0,0,0,114,98,32,26,2,-,5.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-69,RG Sharma,BM Tickner,RR Pant,1,0,1,115,97,33,27,2,-,6.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-70,RG Sharma,DJ Mitchell,RR Pant,1,0,1,116,96,34,28,2,-,1.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-71,RR Pant,DJ Mitchell,RG Sharma,0,0,0,116,96,26,10,2,-,2.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-72,RR Pant,DJ Mitchell,RG Sharma,1,0,1,117,95,27,11,2,-,3.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-73,RG Sharma,DJ Mitchell,RR Pant,1,0,1,118,94,35,29,2,-,4.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-74,RR Pant,DJ Mitchell,RG Sharma,1,0,1,119,93,28,12,2,-,5.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-75,RG Sharma,DJ Mitchell,RR Pant,1,0,1,120,92,36,30,2,-,6.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-76,RG Sharma,BM Tickner,RR Pant,1,0,1,121,91,37,31,2,-,1.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-77,RR Pant,BM Tickner,RG Sharma,0,0,0,121,91,28,13,3,-,2.0,caught,RR Pant,KS Williamson,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-78,HH Pandya,BM Tickner,RG Sharma,6,0,6,127,85,6,1,3,-,3.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-79,HH Pandya,BM Tickner,RG Sharma,0,0,0,127,85,6,2,3,-,4.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-80,HH Pandya,BM Tickner,RG Sharma,0,0,0,127,85,6,3,3,-,5.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-81,HH Pandya,BM Tickner,RG Sharma,1,0,1,128,84,7,4,3,-,6.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-82,HH Pandya,DJ Mitchell,RG Sharma,1,0,1,129,83,8,5,3,-,1.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-83,RG Sharma,DJ Mitchell,HH Pandya,1,0,1,130,82,38,32,3,-,2.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-84,HH Pandya,DJ Mitchell,RG Sharma,4,0,4,134,78,12,6,3,-,3.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-85,HH Pandya,DJ Mitchell,RG Sharma,6,0,6,140,72,18,7,3,-,4.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-86,HH Pandya,DJ Mitchell,RG Sharma,1,0,1,141,71,19,8,3,-,5.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-87,RG Sharma,DJ Mitchell,HH Pandya,0,0,0,141,71,38,33,4,-,6.0,caught,RG Sharma,TL Seifert,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-88,HH Pandya,SC Kuggeleijn,MS Dhoni,1,0,1,142,70,20,9,4,-,1.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-89,MS Dhoni,SC Kuggeleijn,HH Pandya,1,0,1,143,69,1,1,4,-,2.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-90,HH Pandya,SC Kuggeleijn,MS Dhoni,1,0,1,144,68,21,10,4,-,3.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-91,MS Dhoni,SC Kuggeleijn,HH Pandya,1,0,1,145,67,2,2,4,-,4.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-92,HH Pandya,SC Kuggeleijn,MS Dhoni,0,0,0,145,67,21,11,5,-,5.0,caught,HH Pandya,KS Williamson,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-93,KD Karthik,SC Kuggeleijn,MS Dhoni,0,0,0,145,67,0,1,5,-,6.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-94,MS Dhoni,DJ Mitchell,KD Karthik,0,0,0,145,67,2,3,5,-,1.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-95,MS Dhoni,DJ Mitchell,KD Karthik,0,0,0,145,67,2,4,6,-,2.0,caught,MS Dhoni,TG Southee,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-96,KD Karthik,DJ Mitchell,KH Pandya,2,0,2,147,65,2,2,6,-,3.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-97,KD Karthik,DJ Mitchell,KH Pandya,6,0,6,153,59,8,3,6,-,4.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-98,KD Karthik,DJ Mitchell,KH Pandya,0,0,0,153,59,8,4,6,-,5.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-99,KD Karthik,DJ Mitchell,KH Pandya,1,0,1,154,58,9,5,6,-,6.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-100,KD Karthik,BM Tickner,KH Pandya,6,0,6,160,52,15,6,6,-,1.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-101,KD Karthik,BM Tickner,KH Pandya,0,1,1,161,51,15,7,6,legbyes,2.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-102,KH Pandya,BM Tickner,KD Karthik,1,0,1,162,50,1,1,6,-,3.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-103,KD Karthik,BM Tickner,KH Pandya,1,0,1,163,49,16,8,6,-,4.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-104,KH Pandya,BM Tickner,KD Karthik,0,1,1,164,48,1,2,6,wides,4.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-105,KH Pandya,BM Tickner,KD Karthik,0,0,0,164,48,1,3,6,-,5.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-106,KH Pandya,BM Tickner,KD Karthik,1,0,1,165,47,2,4,6,-,6.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-107,KH Pandya,TG Southee,KD Karthik,0,1,1,166,46,2,5,6,wides,0.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-108,KH Pandya,TG Southee,KD Karthik,6,0,6,172,40,8,6,6,-,1.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-109,KH Pandya,TG Southee,KD Karthik,4,0,4,176,36,12,7,6,-,2.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-110,KH Pandya,TG Southee,KD Karthik,4,0,4,180,32,16,8,6,-,3.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-111,KH Pandya,TG Southee,KD Karthik,1,0,1,181,31,17,9,6,-,4.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-112,KD Karthik,TG Southee,KH Pandya,1,0,1,182,30,17,9,6,-,5.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-113,KH Pandya,TG Southee,KD Karthik,1,0,1,183,29,18,10,6,-,6.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-114,KH Pandya,SC Kuggeleijn,KD Karthik,0,0,0,183,29,18,11,6,-,1.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-115,KH Pandya,SC Kuggeleijn,KD Karthik,1,0,1,184,28,19,12,6,-,2.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-116,KD Karthik,SC Kuggeleijn,KH Pandya,6,0,6,190,22,23,10,6,-,3.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-117,KD Karthik,SC Kuggeleijn,KH Pandya,1,0,1,191,21,24,11,6,-,4.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-118,KH Pandya,SC Kuggeleijn,KD Karthik,0,0,0,191,21,19,13,6,-,5.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-119,KH Pandya,SC Kuggeleijn,KD Karthik,6,0,6,197,15,25,14,6,-,6.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-120,KD Karthik,TG Southee,KH Pandya,2,0,2,199,13,26,12,6,-,1.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-121,KD Karthik,TG Southee,KH Pandya,0,0,0,199,13,26,13,6,-,2.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-122,KD Karthik,TG Southee,KH Pandya,0,0,0,199,13,26,14,6,-,3.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-123,KD Karthik,TG Southee,KH Pandya,1,0,1,200,12,27,15,6,-,4.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-124,KH Pandya,TG Southee,KD Karthik,1,0,1,201,11,26,15,6,-,5.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-125,KD Karthik,TG Southee,KH Pandya,0,1,1,202,10,27,16,6,wides,5.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
-126,KD Karthik,TG Southee,KH Pandya,6,0,6,208,4,33,17,6,-,6.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,wicket_type,player_out,fielder,over,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,S Dhawan,MJ Santner,RG Sharma,0,0,0,0,212,0,1,0,-,1.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Left arm Orthodox
+1,S Dhawan,MJ Santner,RG Sharma,4,0,4,4,208,4,2,0,-,2.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Left arm Orthodox
+2,S Dhawan,MJ Santner,RG Sharma,1,0,1,5,207,5,3,0,-,3.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Left arm Orthodox
+3,RG Sharma,MJ Santner,S Dhawan,1,0,1,6,206,1,1,0,-,4.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Left arm Orthodox
+4,S Dhawan,MJ Santner,RG Sharma,0,0,0,6,206,5,4,1,-,5.0,caught,S Dhawan,DJ Mitchell,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Left arm Orthodox
+5,V Shankar,MJ Santner,RG Sharma,0,5,5,11,201,0,1,1,wides,5.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+6,V Shankar,MJ Santner,RG Sharma,0,0,0,11,201,0,2,1,-,6.0,0,,,0,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+7,RG Sharma,TG Southee,V Shankar,1,0,1,12,200,2,2,1,-,1.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+8,V Shankar,TG Southee,RG Sharma,0,0,0,12,200,0,3,1,-,2.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+9,V Shankar,TG Southee,RG Sharma,1,0,1,13,199,1,4,1,-,3.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+10,RG Sharma,TG Southee,V Shankar,0,0,0,13,199,2,3,1,-,4.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+11,RG Sharma,TG Southee,V Shankar,4,0,4,17,195,6,4,1,-,5.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+12,RG Sharma,TG Southee,V Shankar,1,0,1,18,194,7,5,1,-,6.0,0,,,1,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+13,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,19,193,8,6,1,-,1.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+14,V Shankar,SC Kuggeleijn,RG Sharma,1,0,1,20,192,2,5,1,-,2.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+15,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,21,191,9,7,1,-,3.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+16,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,25,187,6,6,1,-,4.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+17,V Shankar,SC Kuggeleijn,RG Sharma,0,0,0,25,187,6,7,1,-,5.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+18,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,29,183,10,8,1,-,6.0,0,,,2,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+19,RG Sharma,BM Tickner,V Shankar,1,0,1,30,182,10,8,1,-,1.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+20,V Shankar,BM Tickner,RG Sharma,0,0,0,30,182,10,9,1,-,2.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+21,V Shankar,BM Tickner,RG Sharma,0,0,0,30,182,10,10,1,-,3.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+22,V Shankar,BM Tickner,RG Sharma,2,0,2,32,180,12,11,1,-,4.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+23,V Shankar,BM Tickner,RG Sharma,0,1,1,33,179,12,12,1,wides,4.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+24,V Shankar,BM Tickner,RG Sharma,4,0,4,37,175,16,13,1,-,5.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+25,V Shankar,BM Tickner,RG Sharma,1,0,1,38,174,17,14,1,-,6.0,0,,,3,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+26,V Shankar,TG Southee,RG Sharma,0,0,0,38,174,17,15,1,-,1.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+27,V Shankar,TG Southee,RG Sharma,1,0,1,39,173,18,16,1,-,2.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+28,RG Sharma,TG Southee,V Shankar,1,0,1,40,172,11,9,1,-,3.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+29,V Shankar,TG Southee,RG Sharma,1,0,1,41,171,19,17,1,-,4.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+30,RG Sharma,TG Southee,V Shankar,4,0,4,45,167,15,10,1,-,5.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+31,RG Sharma,TG Southee,V Shankar,4,0,4,49,163,19,11,1,-,6.0,0,,,4,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+32,V Shankar,SC Kuggeleijn,RG Sharma,0,0,0,49,163,19,18,1,-,1.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+33,V Shankar,SC Kuggeleijn,RG Sharma,4,0,4,53,159,23,19,1,-,2.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+34,V Shankar,SC Kuggeleijn,RG Sharma,1,0,1,54,158,24,20,1,-,3.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+35,RG Sharma,SC Kuggeleijn,V Shankar,2,0,2,56,156,21,12,1,-,4.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+36,RG Sharma,SC Kuggeleijn,V Shankar,0,0,0,56,156,21,13,1,-,5.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+37,RG Sharma,SC Kuggeleijn,V Shankar,1,0,1,57,155,22,14,1,-,6.0,0,,,5,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+38,RG Sharma,MJ Santner,V Shankar,1,0,1,58,154,23,15,1,-,1.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+39,V Shankar,MJ Santner,RG Sharma,0,0,0,58,154,24,21,1,-,2.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+40,V Shankar,MJ Santner,RG Sharma,1,0,1,59,153,25,22,1,-,3.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+41,RG Sharma,MJ Santner,V Shankar,0,0,0,59,153,23,16,1,-,4.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+42,RG Sharma,MJ Santner,V Shankar,0,1,1,60,152,23,17,1,wides,4.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+43,RG Sharma,MJ Santner,V Shankar,1,0,1,61,151,24,18,1,-,5.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+44,V Shankar,MJ Santner,RG Sharma,1,0,1,62,150,26,23,1,-,6.0,0,,,6,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+45,V Shankar,IS Sodhi,RG Sharma,1,0,1,63,149,27,24,1,-,1.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+46,RG Sharma,IS Sodhi,V Shankar,1,0,1,64,148,25,19,1,-,2.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+47,V Shankar,IS Sodhi,RG Sharma,0,0,0,64,148,27,25,1,-,3.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+48,V Shankar,IS Sodhi,RG Sharma,6,0,6,70,142,33,26,1,-,4.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+49,V Shankar,IS Sodhi,RG Sharma,6,0,6,76,136,39,27,1,-,5.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+50,V Shankar,IS Sodhi,RG Sharma,0,0,0,76,136,39,28,1,-,6.0,0,,,7,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Legbreak
+51,RG Sharma,MJ Santner,V Shankar,1,0,1,77,135,26,20,1,-,1.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+52,V Shankar,MJ Santner,RG Sharma,4,0,4,81,131,43,29,1,-,2.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+53,V Shankar,MJ Santner,RG Sharma,0,0,0,81,131,43,30,2,-,3.0,caught,V Shankar,C de Grandhomme,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Left arm Orthodox
+54,RG Sharma,MJ Santner,RR Pant,1,0,1,82,130,27,21,2,-,4.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Left arm Orthodox
+55,RR Pant,MJ Santner,RG Sharma,4,0,4,86,126,4,1,2,-,5.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Left arm Orthodox
+56,RR Pant,MJ Santner,RG Sharma,6,0,6,92,120,10,2,2,-,6.0,0,,,8,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Left arm Orthodox
+57,RG Sharma,IS Sodhi,RR Pant,1,0,1,93,119,28,22,2,-,1.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Legbreak
+58,RR Pant,IS Sodhi,RG Sharma,0,1,1,94,118,10,3,2,wides,1.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Legbreak
+59,RR Pant,IS Sodhi,RG Sharma,6,0,6,100,112,16,4,2,-,2.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Legbreak
+60,RR Pant,IS Sodhi,RG Sharma,0,0,0,100,112,16,5,2,-,3.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Legbreak
+61,RR Pant,IS Sodhi,RG Sharma,1,0,1,101,111,17,6,2,-,4.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Legbreak
+62,RG Sharma,IS Sodhi,RR Pant,1,0,1,102,110,29,23,2,-,5.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Legbreak
+63,RR Pant,IS Sodhi,RG Sharma,6,0,6,108,104,23,7,2,-,6.0,0,,,9,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Legbreak
+64,RG Sharma,BM Tickner,RR Pant,1,0,1,109,103,30,24,2,-,1.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+65,RR Pant,BM Tickner,RG Sharma,2,0,2,111,101,25,8,2,-,2.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+66,RR Pant,BM Tickner,RG Sharma,1,0,1,112,100,26,9,2,-,3.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+67,RG Sharma,BM Tickner,RR Pant,2,0,2,114,98,32,25,2,-,4.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+68,RG Sharma,BM Tickner,RR Pant,0,0,0,114,98,32,26,2,-,5.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+69,RG Sharma,BM Tickner,RR Pant,1,0,1,115,97,33,27,2,-,6.0,0,,,10,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+70,RG Sharma,DJ Mitchell,RR Pant,1,0,1,116,96,34,28,2,-,1.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+71,RR Pant,DJ Mitchell,RG Sharma,0,0,0,116,96,26,10,2,-,2.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+72,RR Pant,DJ Mitchell,RG Sharma,1,0,1,117,95,27,11,2,-,3.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+73,RG Sharma,DJ Mitchell,RR Pant,1,0,1,118,94,35,29,2,-,4.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+74,RR Pant,DJ Mitchell,RG Sharma,1,0,1,119,93,28,12,2,-,5.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+75,RG Sharma,DJ Mitchell,RR Pant,1,0,1,120,92,36,30,2,-,6.0,0,,,11,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+76,RG Sharma,BM Tickner,RR Pant,1,0,1,121,91,37,31,2,-,1.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,,Right arm Medium
+77,RR Pant,BM Tickner,RG Sharma,0,0,0,121,91,28,13,3,-,2.0,caught,RR Pant,KS Williamson,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,,Right hand Bat,Right arm Medium
+78,HH Pandya,BM Tickner,RG Sharma,6,0,6,127,85,6,1,3,-,3.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+79,HH Pandya,BM Tickner,RG Sharma,0,0,0,127,85,6,2,3,-,4.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+80,HH Pandya,BM Tickner,RG Sharma,0,0,0,127,85,6,3,3,-,5.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+81,HH Pandya,BM Tickner,RG Sharma,1,0,1,128,84,7,4,3,-,6.0,0,,,12,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+82,HH Pandya,DJ Mitchell,RG Sharma,1,0,1,129,83,8,5,3,-,1.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+83,RG Sharma,DJ Mitchell,HH Pandya,1,0,1,130,82,38,32,3,-,2.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+84,HH Pandya,DJ Mitchell,RG Sharma,4,0,4,134,78,12,6,3,-,3.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+85,HH Pandya,DJ Mitchell,RG Sharma,6,0,6,140,72,18,7,3,-,4.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+86,HH Pandya,DJ Mitchell,RG Sharma,1,0,1,141,71,19,8,3,-,5.0,0,,,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+87,RG Sharma,DJ Mitchell,HH Pandya,0,0,0,141,71,38,33,4,-,6.0,caught,RG Sharma,TL Seifert,13,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+88,HH Pandya,SC Kuggeleijn,MS Dhoni,1,0,1,142,70,20,9,4,-,1.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+89,MS Dhoni,SC Kuggeleijn,HH Pandya,1,0,1,143,69,1,1,4,-,2.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+90,HH Pandya,SC Kuggeleijn,MS Dhoni,1,0,1,144,68,21,10,4,-,3.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+91,MS Dhoni,SC Kuggeleijn,HH Pandya,1,0,1,145,67,2,2,4,-,4.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+92,HH Pandya,SC Kuggeleijn,MS Dhoni,0,0,0,145,67,21,11,5,-,5.0,caught,HH Pandya,KS Williamson,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+93,KD Karthik,SC Kuggeleijn,MS Dhoni,0,0,0,145,67,0,1,5,-,6.0,0,,,14,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Fast
+94,MS Dhoni,DJ Mitchell,KD Karthik,0,0,0,145,67,2,3,5,-,1.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+95,MS Dhoni,DJ Mitchell,KD Karthik,0,0,0,145,67,2,4,6,-,2.0,caught,MS Dhoni,TG Southee,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Right hand Bat,Right arm Medium
+96,KD Karthik,DJ Mitchell,KH Pandya,2,0,2,147,65,2,2,6,-,3.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+97,KD Karthik,DJ Mitchell,KH Pandya,6,0,6,153,59,8,3,6,-,4.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+98,KD Karthik,DJ Mitchell,KH Pandya,0,0,0,153,59,8,4,6,-,5.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+99,KD Karthik,DJ Mitchell,KH Pandya,1,0,1,154,58,9,5,6,-,6.0,0,,,15,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+100,KD Karthik,BM Tickner,KH Pandya,6,0,6,160,52,15,6,6,-,1.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+101,KD Karthik,BM Tickner,KH Pandya,0,1,1,161,51,15,7,6,legbyes,2.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+102,KH Pandya,BM Tickner,KD Karthik,1,0,1,162,50,1,1,6,-,3.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+103,KD Karthik,BM Tickner,KH Pandya,1,0,1,163,49,16,8,6,-,4.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+104,KH Pandya,BM Tickner,KD Karthik,0,1,1,164,48,1,2,6,wides,4.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+105,KH Pandya,BM Tickner,KD Karthik,0,0,0,164,48,1,3,6,-,5.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+106,KH Pandya,BM Tickner,KD Karthik,1,0,1,165,47,2,4,6,-,6.0,0,,,16,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+107,KH Pandya,TG Southee,KD Karthik,0,1,1,166,46,2,5,6,wides,0.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+108,KH Pandya,TG Southee,KD Karthik,6,0,6,172,40,8,6,6,-,1.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+109,KH Pandya,TG Southee,KD Karthik,4,0,4,176,36,12,7,6,-,2.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+110,KH Pandya,TG Southee,KD Karthik,4,0,4,180,32,16,8,6,-,3.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+111,KH Pandya,TG Southee,KD Karthik,1,0,1,181,31,17,9,6,-,4.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+112,KD Karthik,TG Southee,KH Pandya,1,0,1,182,30,17,9,6,-,5.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+113,KH Pandya,TG Southee,KD Karthik,1,0,1,183,29,18,10,6,-,6.0,0,,,17,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+114,KH Pandya,SC Kuggeleijn,KD Karthik,0,0,0,183,29,18,11,6,-,1.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Fast
+115,KH Pandya,SC Kuggeleijn,KD Karthik,1,0,1,184,28,19,12,6,-,2.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Fast
+116,KD Karthik,SC Kuggeleijn,KH Pandya,6,0,6,190,22,23,10,6,-,3.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Fast
+117,KD Karthik,SC Kuggeleijn,KH Pandya,1,0,1,191,21,24,11,6,-,4.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Fast
+118,KH Pandya,SC Kuggeleijn,KD Karthik,0,0,0,191,21,19,13,6,-,5.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Fast
+119,KH Pandya,SC Kuggeleijn,KD Karthik,6,0,6,197,15,25,14,6,-,6.0,0,,,18,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Fast
+120,KD Karthik,TG Southee,KH Pandya,2,0,2,199,13,26,12,6,-,1.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+121,KD Karthik,TG Southee,KH Pandya,0,0,0,199,13,26,13,6,-,2.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+122,KD Karthik,TG Southee,KH Pandya,0,0,0,199,13,26,14,6,-,3.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+123,KD Karthik,TG Southee,KH Pandya,1,0,1,200,12,27,15,6,-,4.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+124,KH Pandya,TG Southee,KD Karthik,1,0,1,201,11,26,15,6,-,5.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Left hand Bat,Right hand Bat,Right arm Medium
+125,KD Karthik,TG Southee,KH Pandya,0,1,1,202,10,27,16,6,wides,5.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium
+126,KD Karthik,TG Southee,KH Pandya,6,0,6,208,4,33,17,6,-,6.0,0,,,19,field,India,2,Seddon Park,2019,02,New Zealand_India_2019-02-10,New Zealand,India,New Zealand,False,208,Right hand Bat,Left hand Bat,Right arm Medium

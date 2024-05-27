@@ -1,125 +1,125 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,1,0,-,1.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-1,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,2,0,-,2.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-2,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,3,0,-,3.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-3,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,4,0,-,4.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-4,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,5,0,-,5.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-5,CJ Chibhabha,BB Sran,H Masakadza,0,1,1,1,137,0,6,0,legbyes,6.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-6,CJ Chibhabha,DS Kulkarni,H Masakadza,4,0,4,5,133,4,7,0,-,1.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-7,CJ Chibhabha,DS Kulkarni,H Masakadza,0,0,0,5,133,4,8,0,-,2.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-8,CJ Chibhabha,DS Kulkarni,H Masakadza,1,0,1,6,132,5,9,0,-,3.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-9,H Masakadza,DS Kulkarni,CJ Chibhabha,0,4,4,10,128,0,1,0,legbyes,4.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-10,H Masakadza,DS Kulkarni,CJ Chibhabha,0,0,0,10,128,0,2,0,-,5.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-11,H Masakadza,DS Kulkarni,CJ Chibhabha,0,1,1,11,127,0,3,0,legbyes,6.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-12,H Masakadza,BB Sran,CJ Chibhabha,0,0,0,11,127,0,4,0,-,1.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-13,H Masakadza,BB Sran,CJ Chibhabha,4,0,4,15,123,4,5,0,-,2.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-14,H Masakadza,BB Sran,CJ Chibhabha,1,0,1,16,122,5,6,0,-,3.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-15,CJ Chibhabha,BB Sran,H Masakadza,0,1,1,17,121,5,10,0,wides,3.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-16,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,17,121,5,11,1,-,4.0,2,caught,CJ Chibhabha,YS Chahal,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-17,V Sibanda,BB Sran,H Masakadza,0,1,1,18,120,0,1,1,wides,4.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-18,V Sibanda,BB Sran,H Masakadza,0,0,0,18,120,0,2,1,-,5.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-19,V Sibanda,BB Sran,H Masakadza,1,0,1,19,119,1,3,1,-,6.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-20,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,23,115,5,4,1,-,1.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-21,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,27,111,9,5,1,-,2.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-22,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,31,107,13,6,1,-,3.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-23,V Sibanda,DS Kulkarni,H Masakadza,0,0,0,31,107,13,7,1,-,4.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-24,V Sibanda,DS Kulkarni,H Masakadza,1,0,1,32,106,14,8,1,-,5.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-25,H Masakadza,DS Kulkarni,V Sibanda,0,0,0,32,106,5,7,1,-,6.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-26,V Sibanda,BB Sran,H Masakadza,4,0,4,36,102,18,9,1,-,1.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-27,V Sibanda,BB Sran,H Masakadza,0,0,0,36,102,18,10,1,-,2.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-28,V Sibanda,BB Sran,H Masakadza,0,0,0,36,102,18,11,1,-,3.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-29,V Sibanda,BB Sran,H Masakadza,1,0,1,37,101,19,12,1,-,4.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-30,H Masakadza,BB Sran,V Sibanda,0,0,0,37,101,5,8,1,-,5.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-31,H Masakadza,BB Sran,V Sibanda,1,0,1,38,100,6,9,1,-,6.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-32,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,10,1,-,1.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-33,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,11,1,-,2.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-34,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,12,1,-,3.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-35,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,13,1,-,4.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-36,H Masakadza,JJ Bumrah,V Sibanda,1,0,1,39,99,7,14,1,-,5.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-37,V Sibanda,JJ Bumrah,H Masakadza,1,0,1,40,98,20,13,1,-,6.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-38,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,14,1,-,1.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-39,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,15,1,-,2.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-40,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,16,1,-,3.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-41,V Sibanda,AR Patel,H Masakadza,0,1,1,41,97,20,17,1,legbyes,4.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-42,H Masakadza,AR Patel,V Sibanda,1,0,1,42,96,8,15,1,-,5.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-43,V Sibanda,AR Patel,H Masakadza,1,0,1,43,95,21,18,1,-,6.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-44,V Sibanda,YS Chahal,H Masakadza,4,0,4,47,91,25,19,1,-,1.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-45,V Sibanda,YS Chahal,H Masakadza,0,0,0,47,91,25,20,1,-,2.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-46,V Sibanda,YS Chahal,H Masakadza,1,0,1,48,90,26,21,1,-,3.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-47,H Masakadza,YS Chahal,V Sibanda,1,0,1,49,89,9,16,1,-,4.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-48,V Sibanda,YS Chahal,H Masakadza,1,0,1,50,88,27,22,1,-,5.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-49,H Masakadza,YS Chahal,V Sibanda,1,0,1,51,87,10,17,1,-,6.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-50,H Masakadza,AR Patel,V Sibanda,4,0,4,55,83,14,18,1,-,1.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-51,H Masakadza,AR Patel,V Sibanda,1,0,1,56,82,15,19,1,-,2.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-52,V Sibanda,AR Patel,H Masakadza,1,0,1,57,81,28,23,1,-,3.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-53,H Masakadza,AR Patel,V Sibanda,0,0,0,57,81,15,20,1,-,4.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-54,H Masakadza,AR Patel,V Sibanda,0,0,0,57,81,15,21,2,-,5.0,8,lbw,H Masakadza,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-55,PJ Moor,AR Patel,V Sibanda,1,0,1,58,80,1,1,2,-,6.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-56,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,2,2,-,1.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-57,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,3,2,-,2.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-58,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,4,2,-,3.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-59,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,5,2,-,4.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-60,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,6,2,-,5.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-61,PJ Moor,YS Chahal,V Sibanda,1,0,1,59,79,2,7,2,-,6.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-62,PJ Moor,DS Kulkarni,V Sibanda,0,0,0,59,79,2,8,2,-,1.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-63,PJ Moor,DS Kulkarni,V Sibanda,1,0,1,60,78,3,9,2,-,2.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-64,V Sibanda,DS Kulkarni,PJ Moor,0,0,0,60,78,28,24,3,-,3.0,10,lbw,V Sibanda,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-65,MN Waller,DS Kulkarni,PJ Moor,0,0,0,60,78,0,1,3,-,4.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-66,MN Waller,DS Kulkarni,PJ Moor,1,0,1,61,77,1,2,3,-,5.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-67,PJ Moor,DS Kulkarni,MN Waller,1,0,1,62,76,4,10,3,-,6.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-68,PJ Moor,YS Chahal,MN Waller,6,0,6,68,70,10,11,3,-,1.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-69,PJ Moor,YS Chahal,MN Waller,1,0,1,69,69,11,12,3,-,2.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-70,MN Waller,YS Chahal,PJ Moor,1,0,1,70,68,2,3,3,-,3.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-71,PJ Moor,YS Chahal,MN Waller,0,0,0,70,68,11,13,3,-,4.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-72,PJ Moor,YS Chahal,MN Waller,1,0,1,71,67,12,14,3,-,5.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-73,MN Waller,YS Chahal,PJ Moor,0,0,0,71,67,2,4,3,-,6.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-74,PJ Moor,AR Patel,MN Waller,1,0,1,72,66,13,15,3,-,1.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-75,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,5,3,-,2.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-76,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,6,3,-,3.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-77,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,7,3,-,4.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-78,MN Waller,AR Patel,PJ Moor,1,0,1,73,65,3,8,3,-,5.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-79,PJ Moor,AR Patel,MN Waller,1,0,1,74,64,14,16,3,-,6.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-80,PJ Moor,YS Chahal,MN Waller,6,0,6,80,58,20,17,3,-,1.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-81,PJ Moor,YS Chahal,MN Waller,0,0,0,80,58,20,18,3,-,2.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-82,PJ Moor,YS Chahal,MN Waller,0,0,0,80,58,20,19,3,-,3.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-83,PJ Moor,YS Chahal,MN Waller,6,0,6,86,52,26,20,3,-,4.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-84,PJ Moor,YS Chahal,MN Waller,0,0,0,86,52,26,21,4,-,5.0,13,caught,PJ Moor,Mandeep Singh,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-85,MN Waller,YS Chahal,E Chigumbura,2,0,2,88,50,5,9,4,-,6.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-86,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,89,49,1,1,4,-,1.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-87,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,90,48,6,10,4,-,2.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-88,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,90,48,1,2,4,-,3.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-89,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,90,48,1,3,4,-,4.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-90,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,91,47,2,4,4,-,5.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-91,MN Waller,JJ Bumrah,E Chigumbura,0,0,0,91,47,6,11,4,-,6.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-92,E Chigumbura,AR Patel,MN Waller,1,0,1,92,46,3,5,4,-,1.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-93,MN Waller,AR Patel,E Chigumbura,0,0,0,92,46,6,12,4,-,2.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-94,MN Waller,AR Patel,E Chigumbura,1,0,1,93,45,7,13,4,-,3.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-95,E Chigumbura,AR Patel,MN Waller,1,0,1,94,44,4,6,4,-,4.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-96,MN Waller,AR Patel,E Chigumbura,1,0,1,95,43,8,14,4,-,5.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-97,E Chigumbura,AR Patel,MN Waller,2,0,2,97,41,6,7,4,-,6.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-98,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,98,40,9,15,4,-,1.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-99,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,99,39,7,8,4,-,2.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-100,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,100,38,10,16,4,-,3.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-101,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,100,38,7,9,4,-,4.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-102,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,100,38,7,10,4,-,5.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-103,E Chigumbura,JJ Bumrah,MN Waller,4,0,4,104,34,11,11,4,-,6.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-104,MN Waller,DS Kulkarni,E Chigumbura,0,0,0,104,34,10,17,5,-,1.0,17,caught,MN Waller,JJ Bumrah,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-105,T Maruma,DS Kulkarni,E Chigumbura,1,0,1,105,33,1,1,5,-,2.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-106,E Chigumbura,DS Kulkarni,T Maruma,0,1,1,106,32,11,12,5,legbyes,3.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-107,T Maruma,DS Kulkarni,E Chigumbura,0,0,0,106,32,1,2,5,-,4.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-108,T Maruma,DS Kulkarni,E Chigumbura,1,0,1,107,31,2,3,5,-,5.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-109,E Chigumbura,DS Kulkarni,T Maruma,0,0,0,107,31,11,13,5,-,6.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-110,T Maruma,JJ Bumrah,E Chigumbura,1,0,1,108,30,3,4,5,-,1.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-111,E Chigumbura,JJ Bumrah,T Maruma,1,0,1,109,29,12,14,5,-,2.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-112,T Maruma,JJ Bumrah,E Chigumbura,2,0,2,111,27,5,5,5,-,3.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-113,T Maruma,JJ Bumrah,E Chigumbura,6,0,6,117,21,11,6,5,-,4.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-114,T Maruma,JJ Bumrah,E Chigumbura,0,0,0,117,21,11,7,5,-,5.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-115,T Maruma,JJ Bumrah,E Chigumbura,1,0,1,118,20,12,8,5,-,6.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-116,T Maruma,BB Sran,E Chigumbura,6,0,6,124,14,18,9,5,-,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-117,T Maruma,BB Sran,E Chigumbura,0,1,1,125,13,18,10,5,wides,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-118,T Maruma,BB Sran,E Chigumbura,4,1,5,130,8,22,11,5,noballs,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-119,T Maruma,BB Sran,E Chigumbura,0,0,0,130,8,22,12,5,-,2.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-120,T Maruma,BB Sran,E Chigumbura,0,0,0,130,8,22,13,5,-,3.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-121,T Maruma,BB Sran,E Chigumbura,1,0,1,131,7,23,14,5,-,4.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-122,E Chigumbura,BB Sran,T Maruma,4,0,4,135,3,16,15,5,-,5.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
-123,E Chigumbura,BB Sran,T Maruma,0,0,0,135,3,16,16,6,-,6.0,19,caught,E Chigumbura,YS Chahal,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,1,0,-,1.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+1,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,2,0,-,2.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+2,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,3,0,-,3.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+3,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,4,0,-,4.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+4,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,0,138,0,5,0,-,5.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+5,CJ Chibhabha,BB Sran,H Masakadza,0,1,1,1,137,0,6,0,legbyes,6.0,0,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+6,CJ Chibhabha,DS Kulkarni,H Masakadza,4,0,4,5,133,4,7,0,-,1.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+7,CJ Chibhabha,DS Kulkarni,H Masakadza,0,0,0,5,133,4,8,0,-,2.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+8,CJ Chibhabha,DS Kulkarni,H Masakadza,1,0,1,6,132,5,9,0,-,3.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+9,H Masakadza,DS Kulkarni,CJ Chibhabha,0,4,4,10,128,0,1,0,legbyes,4.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+10,H Masakadza,DS Kulkarni,CJ Chibhabha,0,0,0,10,128,0,2,0,-,5.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+11,H Masakadza,DS Kulkarni,CJ Chibhabha,0,1,1,11,127,0,3,0,legbyes,6.0,1,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+12,H Masakadza,BB Sran,CJ Chibhabha,0,0,0,11,127,0,4,0,-,1.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+13,H Masakadza,BB Sran,CJ Chibhabha,4,0,4,15,123,4,5,0,-,2.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+14,H Masakadza,BB Sran,CJ Chibhabha,1,0,1,16,122,5,6,0,-,3.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+15,CJ Chibhabha,BB Sran,H Masakadza,0,1,1,17,121,5,10,0,wides,3.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+16,CJ Chibhabha,BB Sran,H Masakadza,0,0,0,17,121,5,11,1,-,4.0,2,caught,CJ Chibhabha,YS Chahal,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+17,V Sibanda,BB Sran,H Masakadza,0,1,1,18,120,0,1,1,wides,4.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+18,V Sibanda,BB Sran,H Masakadza,0,0,0,18,120,0,2,1,-,5.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+19,V Sibanda,BB Sran,H Masakadza,1,0,1,19,119,1,3,1,-,6.0,2,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+20,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,23,115,5,4,1,-,1.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+21,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,27,111,9,5,1,-,2.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+22,V Sibanda,DS Kulkarni,H Masakadza,4,0,4,31,107,13,6,1,-,3.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+23,V Sibanda,DS Kulkarni,H Masakadza,0,0,0,31,107,13,7,1,-,4.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+24,V Sibanda,DS Kulkarni,H Masakadza,1,0,1,32,106,14,8,1,-,5.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+25,H Masakadza,DS Kulkarni,V Sibanda,0,0,0,32,106,5,7,1,-,6.0,3,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+26,V Sibanda,BB Sran,H Masakadza,4,0,4,36,102,18,9,1,-,1.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+27,V Sibanda,BB Sran,H Masakadza,0,0,0,36,102,18,10,1,-,2.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+28,V Sibanda,BB Sran,H Masakadza,0,0,0,36,102,18,11,1,-,3.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+29,V Sibanda,BB Sran,H Masakadza,1,0,1,37,101,19,12,1,-,4.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+30,H Masakadza,BB Sran,V Sibanda,0,0,0,37,101,5,8,1,-,5.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+31,H Masakadza,BB Sran,V Sibanda,1,0,1,38,100,6,9,1,-,6.0,4,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+32,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,10,1,-,1.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+33,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,11,1,-,2.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+34,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,12,1,-,3.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+35,H Masakadza,JJ Bumrah,V Sibanda,0,0,0,38,100,6,13,1,-,4.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+36,H Masakadza,JJ Bumrah,V Sibanda,1,0,1,39,99,7,14,1,-,5.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+37,V Sibanda,JJ Bumrah,H Masakadza,1,0,1,40,98,20,13,1,-,6.0,5,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+38,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,14,1,-,1.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+39,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,15,1,-,2.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+40,V Sibanda,AR Patel,H Masakadza,0,0,0,40,98,20,16,1,-,3.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+41,V Sibanda,AR Patel,H Masakadza,0,1,1,41,97,20,17,1,legbyes,4.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+42,H Masakadza,AR Patel,V Sibanda,1,0,1,42,96,8,15,1,-,5.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+43,V Sibanda,AR Patel,H Masakadza,1,0,1,43,95,21,18,1,-,6.0,6,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+44,V Sibanda,YS Chahal,H Masakadza,4,0,4,47,91,25,19,1,-,1.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+45,V Sibanda,YS Chahal,H Masakadza,0,0,0,47,91,25,20,1,-,2.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+46,V Sibanda,YS Chahal,H Masakadza,1,0,1,48,90,26,21,1,-,3.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+47,H Masakadza,YS Chahal,V Sibanda,1,0,1,49,89,9,16,1,-,4.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+48,V Sibanda,YS Chahal,H Masakadza,1,0,1,50,88,27,22,1,-,5.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+49,H Masakadza,YS Chahal,V Sibanda,1,0,1,51,87,10,17,1,-,6.0,7,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+50,H Masakadza,AR Patel,V Sibanda,4,0,4,55,83,14,18,1,-,1.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+51,H Masakadza,AR Patel,V Sibanda,1,0,1,56,82,15,19,1,-,2.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+52,V Sibanda,AR Patel,H Masakadza,1,0,1,57,81,28,23,1,-,3.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+53,H Masakadza,AR Patel,V Sibanda,0,0,0,57,81,15,20,1,-,4.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+54,H Masakadza,AR Patel,V Sibanda,0,0,0,57,81,15,21,2,-,5.0,8,lbw,H Masakadza,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+55,PJ Moor,AR Patel,V Sibanda,1,0,1,58,80,1,1,2,-,6.0,8,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+56,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,2,2,-,1.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+57,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,3,2,-,2.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+58,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,4,2,-,3.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+59,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,5,2,-,4.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+60,PJ Moor,YS Chahal,V Sibanda,0,0,0,58,80,1,6,2,-,5.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+61,PJ Moor,YS Chahal,V Sibanda,1,0,1,59,79,2,7,2,-,6.0,9,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+62,PJ Moor,DS Kulkarni,V Sibanda,0,0,0,59,79,2,8,2,-,1.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+63,PJ Moor,DS Kulkarni,V Sibanda,1,0,1,60,78,3,9,2,-,2.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+64,V Sibanda,DS Kulkarni,PJ Moor,0,0,0,60,78,28,24,3,-,3.0,10,lbw,V Sibanda,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+65,MN Waller,DS Kulkarni,PJ Moor,0,0,0,60,78,0,1,3,-,4.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+66,MN Waller,DS Kulkarni,PJ Moor,1,0,1,61,77,1,2,3,-,5.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+67,PJ Moor,DS Kulkarni,MN Waller,1,0,1,62,76,4,10,3,-,6.0,10,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+68,PJ Moor,YS Chahal,MN Waller,6,0,6,68,70,10,11,3,-,1.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+69,PJ Moor,YS Chahal,MN Waller,1,0,1,69,69,11,12,3,-,2.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+70,MN Waller,YS Chahal,PJ Moor,1,0,1,70,68,2,3,3,-,3.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+71,PJ Moor,YS Chahal,MN Waller,0,0,0,70,68,11,13,3,-,4.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+72,PJ Moor,YS Chahal,MN Waller,1,0,1,71,67,12,14,3,-,5.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+73,MN Waller,YS Chahal,PJ Moor,0,0,0,71,67,2,4,3,-,6.0,11,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+74,PJ Moor,AR Patel,MN Waller,1,0,1,72,66,13,15,3,-,1.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+75,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,5,3,-,2.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+76,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,6,3,-,3.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+77,MN Waller,AR Patel,PJ Moor,0,0,0,72,66,2,7,3,-,4.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+78,MN Waller,AR Patel,PJ Moor,1,0,1,73,65,3,8,3,-,5.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+79,PJ Moor,AR Patel,MN Waller,1,0,1,74,64,14,16,3,-,6.0,12,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+80,PJ Moor,YS Chahal,MN Waller,6,0,6,80,58,20,17,3,-,1.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+81,PJ Moor,YS Chahal,MN Waller,0,0,0,80,58,20,18,3,-,2.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+82,PJ Moor,YS Chahal,MN Waller,0,0,0,80,58,20,19,3,-,3.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+83,PJ Moor,YS Chahal,MN Waller,6,0,6,86,52,26,20,3,-,4.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+84,PJ Moor,YS Chahal,MN Waller,0,0,0,86,52,26,21,4,-,5.0,13,caught,PJ Moor,Mandeep Singh,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+85,MN Waller,YS Chahal,E Chigumbura,2,0,2,88,50,5,9,4,-,6.0,13,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Legbreak
+86,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,89,49,1,1,4,-,1.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+87,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,90,48,6,10,4,-,2.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+88,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,90,48,1,2,4,-,3.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+89,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,90,48,1,3,4,-,4.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+90,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,91,47,2,4,4,-,5.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+91,MN Waller,JJ Bumrah,E Chigumbura,0,0,0,91,47,6,11,4,-,6.0,14,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+92,E Chigumbura,AR Patel,MN Waller,1,0,1,92,46,3,5,4,-,1.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+93,MN Waller,AR Patel,E Chigumbura,0,0,0,92,46,6,12,4,-,2.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+94,MN Waller,AR Patel,E Chigumbura,1,0,1,93,45,7,13,4,-,3.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+95,E Chigumbura,AR Patel,MN Waller,1,0,1,94,44,4,6,4,-,4.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+96,MN Waller,AR Patel,E Chigumbura,1,0,1,95,43,8,14,4,-,5.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+97,E Chigumbura,AR Patel,MN Waller,2,0,2,97,41,6,7,4,-,6.0,15,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Orthodox
+98,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,98,40,9,15,4,-,1.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+99,E Chigumbura,JJ Bumrah,MN Waller,1,0,1,99,39,7,8,4,-,2.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+100,MN Waller,JJ Bumrah,E Chigumbura,1,0,1,100,38,10,16,4,-,3.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+101,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,100,38,7,9,4,-,4.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+102,E Chigumbura,JJ Bumrah,MN Waller,0,0,0,100,38,7,10,4,-,5.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+103,E Chigumbura,JJ Bumrah,MN Waller,4,0,4,104,34,11,11,4,-,6.0,16,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+104,MN Waller,DS Kulkarni,E Chigumbura,0,0,0,104,34,10,17,5,-,1.0,17,caught,MN Waller,JJ Bumrah,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+105,T Maruma,DS Kulkarni,E Chigumbura,1,0,1,105,33,1,1,5,-,2.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+106,E Chigumbura,DS Kulkarni,T Maruma,0,1,1,106,32,11,12,5,legbyes,3.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+107,T Maruma,DS Kulkarni,E Chigumbura,0,0,0,106,32,1,2,5,-,4.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+108,T Maruma,DS Kulkarni,E Chigumbura,1,0,1,107,31,2,3,5,-,5.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+109,E Chigumbura,DS Kulkarni,T Maruma,0,0,0,107,31,11,13,5,-,6.0,17,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Medium
+110,T Maruma,JJ Bumrah,E Chigumbura,1,0,1,108,30,3,4,5,-,1.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+111,E Chigumbura,JJ Bumrah,T Maruma,1,0,1,109,29,12,14,5,-,2.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+112,T Maruma,JJ Bumrah,E Chigumbura,2,0,2,111,27,5,5,5,-,3.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+113,T Maruma,JJ Bumrah,E Chigumbura,6,0,6,117,21,11,6,5,-,4.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+114,T Maruma,JJ Bumrah,E Chigumbura,0,0,0,117,21,11,7,5,-,5.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+115,T Maruma,JJ Bumrah,E Chigumbura,1,0,1,118,20,12,8,5,-,6.0,18,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Right arm Fast
+116,T Maruma,BB Sran,E Chigumbura,6,0,6,124,14,18,9,5,-,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+117,T Maruma,BB Sran,E Chigumbura,0,1,1,125,13,18,10,5,wides,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+118,T Maruma,BB Sran,E Chigumbura,4,1,5,130,8,22,11,5,noballs,1.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+119,T Maruma,BB Sran,E Chigumbura,0,0,0,130,8,22,12,5,-,2.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+120,T Maruma,BB Sran,E Chigumbura,0,0,0,130,8,22,13,5,-,3.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+121,T Maruma,BB Sran,E Chigumbura,1,0,1,131,7,23,14,5,-,4.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+122,E Chigumbura,BB Sran,T Maruma,4,0,4,135,3,16,15,5,-,5.0,19,0,,,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium
+123,E Chigumbura,BB Sran,T Maruma,0,0,0,135,3,16,16,6,-,6.0,19,caught,E Chigumbura,YS Chahal,field,Zimbabwe,2,Harare Sports Club,2016,06,Zimbabwe_India_2016-06-22,India,Zimbabwe,India,False,135,Right hand Bat,Right hand Bat,Left arm Medium

@@ -1,128 +1,128 @@
-,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total
-0,MS Wade,DL Chahar,AJ Finch,0,0,0,0,,0,1,0,-,1.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-1,MS Wade,DL Chahar,AJ Finch,0,0,0,0,,0,2,0,-,2.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-2,MS Wade,DL Chahar,AJ Finch,4,0,4,4,,4,3,0,-,3.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-3,MS Wade,DL Chahar,AJ Finch,0,0,0,4,,4,4,0,-,4.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-4,MS Wade,DL Chahar,AJ Finch,4,0,4,8,,8,5,0,-,5.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-5,MS Wade,DL Chahar,AJ Finch,1,0,1,9,,9,6,0,-,6.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-6,MS Wade,Washington Sundar,AJ Finch,4,0,4,13,,13,7,0,-,1.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-7,MS Wade,Washington Sundar,AJ Finch,1,0,1,14,,14,8,0,-,2.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-8,AJ Finch,Washington Sundar,MS Wade,0,0,0,14,,0,1,0,-,3.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-9,AJ Finch,Washington Sundar,MS Wade,0,0,0,14,,0,2,1,-,4.0,1,caught,AJ Finch,HH Pandya,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-10,MS Wade,Washington Sundar,SPD Smith,0,0,0,14,,14,9,1,-,5.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-11,MS Wade,Washington Sundar,SPD Smith,0,0,0,14,,14,10,1,-,6.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-12,SPD Smith,DL Chahar,MS Wade,0,0,0,14,,0,1,1,-,1.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-13,SPD Smith,DL Chahar,MS Wade,1,0,1,15,,1,2,1,-,2.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-14,MS Wade,DL Chahar,SPD Smith,0,0,0,15,,14,11,1,-,3.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-15,MS Wade,DL Chahar,SPD Smith,0,0,0,15,,14,12,1,-,4.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-16,MS Wade,DL Chahar,SPD Smith,1,0,1,16,,15,13,1,-,5.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-17,SPD Smith,DL Chahar,MS Wade,0,0,0,16,,1,3,1,-,6.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-18,MS Wade,Washington Sundar,SPD Smith,0,5,5,21,,15,14,1,wides,0.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-19,MS Wade,Washington Sundar,SPD Smith,4,0,4,25,,19,15,1,-,1.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-20,MS Wade,Washington Sundar,SPD Smith,0,0,0,25,,19,16,1,-,2.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-21,MS Wade,Washington Sundar,SPD Smith,1,0,1,26,,20,17,1,-,3.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-22,SPD Smith,Washington Sundar,MS Wade,0,0,0,26,,1,4,1,-,4.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-23,SPD Smith,Washington Sundar,MS Wade,1,0,1,27,,2,5,1,-,5.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-24,MS Wade,Washington Sundar,SPD Smith,0,1,1,28,,20,18,1,legbyes,6.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-25,MS Wade,DL Chahar,SPD Smith,4,0,4,32,,24,19,1,-,1.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-26,MS Wade,DL Chahar,SPD Smith,4,0,4,36,,28,20,1,-,2.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-27,MS Wade,DL Chahar,SPD Smith,0,1,1,37,,28,21,1,wides,2.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-28,MS Wade,DL Chahar,SPD Smith,1,0,1,38,,29,22,1,-,3.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-29,SPD Smith,DL Chahar,MS Wade,1,0,1,39,,3,6,1,-,4.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-30,MS Wade,DL Chahar,SPD Smith,3,0,3,42,,32,23,1,-,5.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-31,SPD Smith,DL Chahar,MS Wade,3,0,3,45,,6,7,1,-,6.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-32,SPD Smith,T Natarajan,MS Wade,0,0,0,45,,6,8,1,-,1.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-33,SPD Smith,T Natarajan,MS Wade,0,0,0,45,,6,9,1,-,2.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-34,SPD Smith,T Natarajan,MS Wade,1,0,1,46,,7,10,1,-,3.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-35,MS Wade,T Natarajan,SPD Smith,1,0,1,47,,33,24,1,-,4.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-36,SPD Smith,T Natarajan,MS Wade,3,0,3,50,,10,11,1,-,5.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-37,MS Wade,T Natarajan,SPD Smith,1,0,1,51,,34,25,1,-,6.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-38,MS Wade,YS Chahal,SPD Smith,2,0,2,53,,36,26,1,-,1.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-39,MS Wade,YS Chahal,SPD Smith,1,0,1,54,,37,27,1,-,2.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-40,SPD Smith,YS Chahal,MS Wade,1,0,1,55,,11,12,1,-,3.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-41,MS Wade,YS Chahal,SPD Smith,1,0,1,56,,38,28,1,-,4.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-42,SPD Smith,YS Chahal,MS Wade,1,0,1,57,,12,13,1,-,5.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-43,MS Wade,YS Chahal,SPD Smith,2,0,2,59,,40,29,1,-,6.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-44,SPD Smith,Washington Sundar,MS Wade,1,0,1,60,,13,14,1,-,1.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-45,MS Wade,Washington Sundar,SPD Smith,1,0,1,61,,41,30,1,-,2.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-46,SPD Smith,Washington Sundar,MS Wade,1,0,1,62,,14,15,1,-,3.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-47,MS Wade,Washington Sundar,SPD Smith,4,0,4,66,,45,31,1,-,4.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-48,MS Wade,Washington Sundar,SPD Smith,1,0,1,67,,46,32,1,-,5.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-49,SPD Smith,Washington Sundar,MS Wade,1,0,1,68,,15,16,1,-,6.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-50,SPD Smith,YS Chahal,MS Wade,1,0,1,69,,16,17,1,-,1.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-51,MS Wade,YS Chahal,SPD Smith,1,0,1,70,,47,33,1,-,2.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-52,SPD Smith,YS Chahal,MS Wade,1,0,1,71,,17,18,1,-,3.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-53,MS Wade,YS Chahal,SPD Smith,0,0,0,71,,47,34,1,-,4.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-54,MS Wade,YS Chahal,SPD Smith,1,0,1,72,,48,35,1,-,5.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-55,SPD Smith,YS Chahal,MS Wade,1,0,1,73,,18,19,1,-,6.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-56,SPD Smith,Washington Sundar,MS Wade,0,0,0,73,,18,20,1,-,1.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-57,SPD Smith,Washington Sundar,MS Wade,4,0,4,77,,22,21,1,-,2.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-58,SPD Smith,Washington Sundar,MS Wade,2,0,2,79,,24,22,1,-,3.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-59,SPD Smith,Washington Sundar,MS Wade,0,0,0,79,,24,23,2,-,4.0,9,bowled,SPD Smith,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-60,GJ Maxwell,Washington Sundar,MS Wade,2,0,2,81,,2,1,2,-,5.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-61,GJ Maxwell,Washington Sundar,MS Wade,1,0,1,82,,3,2,2,-,6.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-62,GJ Maxwell,T Natarajan,MS Wade,0,0,0,82,,3,3,2,-,1.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-63,GJ Maxwell,T Natarajan,MS Wade,1,0,1,83,,4,4,2,-,2.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-64,MS Wade,T Natarajan,GJ Maxwell,0,1,1,84,,48,36,2,wides,2.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-65,MS Wade,T Natarajan,GJ Maxwell,2,0,2,86,,50,37,2,-,3.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-66,MS Wade,T Natarajan,GJ Maxwell,0,0,0,86,,50,38,2,-,4.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-67,MS Wade,T Natarajan,GJ Maxwell,1,0,1,87,,51,39,2,-,5.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-68,GJ Maxwell,T Natarajan,MS Wade,0,0,0,87,,4,5,2,-,6.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-69,MS Wade,SN Thakur,GJ Maxwell,6,0,6,93,,57,40,2,-,1.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-70,MS Wade,SN Thakur,GJ Maxwell,1,0,1,94,,58,41,2,-,2.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-71,GJ Maxwell,SN Thakur,MS Wade,0,0,0,94,,4,6,2,-,3.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-72,GJ Maxwell,SN Thakur,MS Wade,2,0,2,96,,6,7,2,-,4.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-73,GJ Maxwell,SN Thakur,MS Wade,4,0,4,100,,10,8,2,-,5.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-74,GJ Maxwell,SN Thakur,MS Wade,1,0,1,101,,11,9,2,-,6.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-75,GJ Maxwell,YS Chahal,MS Wade,0,1,1,102,,11,10,2,wides,0.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-76,GJ Maxwell,YS Chahal,MS Wade,1,0,1,103,,12,11,2,-,1.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-77,MS Wade,YS Chahal,GJ Maxwell,1,0,1,104,,59,42,2,-,2.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-78,GJ Maxwell,YS Chahal,MS Wade,4,0,4,108,,16,12,2,-,3.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-79,GJ Maxwell,YS Chahal,MS Wade,3,0,3,111,,19,13,2,-,4.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-80,MS Wade,YS Chahal,GJ Maxwell,1,0,1,112,,60,43,2,-,5.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-81,GJ Maxwell,YS Chahal,MS Wade,0,1,1,113,,19,14,2,noballs,5.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-82,MS Wade,YS Chahal,GJ Maxwell,1,0,1,114,,61,44,2,-,6.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-83,MS Wade,SN Thakur,GJ Maxwell,1,0,1,115,,62,45,2,-,1.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-84,GJ Maxwell,SN Thakur,MS Wade,2,0,2,117,,21,15,2,-,2.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-85,GJ Maxwell,SN Thakur,MS Wade,0,0,0,117,,21,16,2,-,3.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-86,GJ Maxwell,SN Thakur,MS Wade,1,0,1,118,,22,17,2,-,4.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-87,MS Wade,SN Thakur,GJ Maxwell,6,0,6,124,,68,46,2,-,5.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-88,MS Wade,SN Thakur,GJ Maxwell,0,0,0,124,,68,47,2,-,6.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-89,GJ Maxwell,YS Chahal,MS Wade,1,0,1,125,,23,18,2,-,1.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-90,MS Wade,YS Chahal,GJ Maxwell,1,0,1,126,,69,48,2,-,2.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-91,GJ Maxwell,YS Chahal,MS Wade,6,0,6,132,,29,19,2,-,3.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-92,GJ Maxwell,YS Chahal,MS Wade,0,1,1,133,,29,20,2,wides,3.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-93,GJ Maxwell,YS Chahal,MS Wade,0,0,0,133,,29,21,2,-,4.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-94,GJ Maxwell,YS Chahal,MS Wade,6,0,6,139,,35,22,2,-,5.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-95,GJ Maxwell,YS Chahal,MS Wade,0,0,0,139,,35,23,2,-,6.0,14,0,,,"{'by': 'India', 'umpire': 'RJ Tucker', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-96,MS Wade,DL Chahar,GJ Maxwell,1,0,1,140,,70,49,2,-,1.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-97,GJ Maxwell,DL Chahar,MS Wade,0,0,0,140,,35,24,2,-,2.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-98,GJ Maxwell,DL Chahar,MS Wade,1,0,1,141,,36,25,2,-,3.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-99,MS Wade,DL Chahar,GJ Maxwell,2,0,2,143,,72,50,2,-,4.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-100,MS Wade,DL Chahar,GJ Maxwell,1,0,1,144,,73,51,2,-,5.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-101,GJ Maxwell,DL Chahar,MS Wade,1,0,1,145,,37,26,2,-,6.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-102,GJ Maxwell,SN Thakur,MS Wade,0,0,0,145,,37,27,2,-,1.0,16,0,,,"{'by': 'India', 'umpire': 'RJ Tucker', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-103,GJ Maxwell,SN Thakur,MS Wade,1,0,1,146,,38,28,2,-,2.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-104,MS Wade,SN Thakur,GJ Maxwell,2,0,2,148,,75,52,2,-,3.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-105,MS Wade,SN Thakur,GJ Maxwell,1,0,1,149,,76,53,2,-,4.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-106,GJ Maxwell,SN Thakur,MS Wade,2,0,2,151,,40,29,2,-,5.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-107,GJ Maxwell,SN Thakur,MS Wade,6,0,6,157,,46,30,2,-,6.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-108,MS Wade,T Natarajan,GJ Maxwell,3,0,3,160,,79,54,2,-,1.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-109,GJ Maxwell,T Natarajan,MS Wade,0,0,0,160,,46,31,2,-,2.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-110,GJ Maxwell,T Natarajan,MS Wade,1,0,1,161,,47,32,2,-,3.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-111,MS Wade,T Natarajan,GJ Maxwell,0,1,1,162,,79,55,2,wides,3.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-112,MS Wade,T Natarajan,GJ Maxwell,1,0,1,163,,80,56,2,-,4.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-113,GJ Maxwell,T Natarajan,MS Wade,4,0,4,167,,51,33,2,-,5.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-114,GJ Maxwell,T Natarajan,MS Wade,1,0,1,168,,52,34,2,-,6.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-115,GJ Maxwell,SN Thakur,MS Wade,1,0,1,169,,53,35,2,-,1.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-116,MS Wade,SN Thakur,GJ Maxwell,0,0,0,169,,80,57,3,-,2.0,18,lbw,MS Wade,,"{'by': 'Australia', 'umpire': 'RJ Tucker', 'batter': 'MS Wade', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-117,MC Henriques,SN Thakur,GJ Maxwell,4,0,4,173,,4,1,3,-,3.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-118,MC Henriques,SN Thakur,GJ Maxwell,1,0,1,174,,5,2,3,-,4.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-119,GJ Maxwell,SN Thakur,MC Henriques,0,0,0,174,,53,36,3,-,5.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-120,GJ Maxwell,SN Thakur,MC Henriques,1,0,1,175,,54,37,3,-,6.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-121,GJ Maxwell,T Natarajan,MC Henriques,0,0,0,175,,54,38,4,-,1.0,19,bowled,GJ Maxwell,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-122,DJM Short,T Natarajan,MC Henriques,2,0,2,177,,2,1,4,-,2.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-123,DJM Short,T Natarajan,MC Henriques,4,0,4,181,,6,2,4,-,3.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-124,DJM Short,T Natarajan,MC Henriques,1,0,1,182,,7,3,5,-,4.0,19,run out,DJM Short,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-125,DR Sams,T Natarajan,MC Henriques,4,0,4,186,,4,1,5,-,5.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
-126,DR Sams,T Natarajan,MC Henriques,0,0,0,186,,4,2,5,-,6.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186
+,batter,bowler,non_striker,runs_by_bat,extra_runs,total_runs_delivery,current_team_total,runs_remain,batter_runs,balls_faced,wickets_fallen,extra_type,delivery,over,wicket_type,player_out,fielder,review,toss_decision,toss_winner,innings,venue,year,month,match_id,winning_team,batting_team,bowling_team,won,final_team_total,batter_type,non_striker_type,bowler_type
+0,MS Wade,DL Chahar,AJ Finch,0,0,0,0,,0,1,0,-,1.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+1,MS Wade,DL Chahar,AJ Finch,0,0,0,0,,0,2,0,-,2.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+2,MS Wade,DL Chahar,AJ Finch,4,0,4,4,,4,3,0,-,3.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+3,MS Wade,DL Chahar,AJ Finch,0,0,0,4,,4,4,0,-,4.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+4,MS Wade,DL Chahar,AJ Finch,4,0,4,8,,8,5,0,-,5.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+5,MS Wade,DL Chahar,AJ Finch,1,0,1,9,,9,6,0,-,6.0,0,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+6,MS Wade,Washington Sundar,AJ Finch,4,0,4,13,,13,7,0,-,1.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+7,MS Wade,Washington Sundar,AJ Finch,1,0,1,14,,14,8,0,-,2.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+8,AJ Finch,Washington Sundar,MS Wade,0,0,0,14,,0,1,0,-,3.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+9,AJ Finch,Washington Sundar,MS Wade,0,0,0,14,,0,2,1,-,4.0,1,caught,AJ Finch,HH Pandya,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+10,MS Wade,Washington Sundar,SPD Smith,0,0,0,14,,14,9,1,-,5.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+11,MS Wade,Washington Sundar,SPD Smith,0,0,0,14,,14,10,1,-,6.0,1,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+12,SPD Smith,DL Chahar,MS Wade,0,0,0,14,,0,1,1,-,1.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+13,SPD Smith,DL Chahar,MS Wade,1,0,1,15,,1,2,1,-,2.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+14,MS Wade,DL Chahar,SPD Smith,0,0,0,15,,14,11,1,-,3.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+15,MS Wade,DL Chahar,SPD Smith,0,0,0,15,,14,12,1,-,4.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+16,MS Wade,DL Chahar,SPD Smith,1,0,1,16,,15,13,1,-,5.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+17,SPD Smith,DL Chahar,MS Wade,0,0,0,16,,1,3,1,-,6.0,2,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+18,MS Wade,Washington Sundar,SPD Smith,0,5,5,21,,15,14,1,wides,0.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+19,MS Wade,Washington Sundar,SPD Smith,4,0,4,25,,19,15,1,-,1.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+20,MS Wade,Washington Sundar,SPD Smith,0,0,0,25,,19,16,1,-,2.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+21,MS Wade,Washington Sundar,SPD Smith,1,0,1,26,,20,17,1,-,3.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+22,SPD Smith,Washington Sundar,MS Wade,0,0,0,26,,1,4,1,-,4.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+23,SPD Smith,Washington Sundar,MS Wade,1,0,1,27,,2,5,1,-,5.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+24,MS Wade,Washington Sundar,SPD Smith,0,1,1,28,,20,18,1,legbyes,6.0,3,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+25,MS Wade,DL Chahar,SPD Smith,4,0,4,32,,24,19,1,-,1.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+26,MS Wade,DL Chahar,SPD Smith,4,0,4,36,,28,20,1,-,2.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+27,MS Wade,DL Chahar,SPD Smith,0,1,1,37,,28,21,1,wides,2.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+28,MS Wade,DL Chahar,SPD Smith,1,0,1,38,,29,22,1,-,3.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+29,SPD Smith,DL Chahar,MS Wade,1,0,1,39,,3,6,1,-,4.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+30,MS Wade,DL Chahar,SPD Smith,3,0,3,42,,32,23,1,-,5.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+31,SPD Smith,DL Chahar,MS Wade,3,0,3,45,,6,7,1,-,6.0,4,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+32,SPD Smith,T Natarajan,MS Wade,0,0,0,45,,6,8,1,-,1.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+33,SPD Smith,T Natarajan,MS Wade,0,0,0,45,,6,9,1,-,2.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+34,SPD Smith,T Natarajan,MS Wade,1,0,1,46,,7,10,1,-,3.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+35,MS Wade,T Natarajan,SPD Smith,1,0,1,47,,33,24,1,-,4.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+36,SPD Smith,T Natarajan,MS Wade,3,0,3,50,,10,11,1,-,5.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+37,MS Wade,T Natarajan,SPD Smith,1,0,1,51,,34,25,1,-,6.0,5,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+38,MS Wade,YS Chahal,SPD Smith,2,0,2,53,,36,26,1,-,1.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+39,MS Wade,YS Chahal,SPD Smith,1,0,1,54,,37,27,1,-,2.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+40,SPD Smith,YS Chahal,MS Wade,1,0,1,55,,11,12,1,-,3.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+41,MS Wade,YS Chahal,SPD Smith,1,0,1,56,,38,28,1,-,4.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+42,SPD Smith,YS Chahal,MS Wade,1,0,1,57,,12,13,1,-,5.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+43,MS Wade,YS Chahal,SPD Smith,2,0,2,59,,40,29,1,-,6.0,6,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+44,SPD Smith,Washington Sundar,MS Wade,1,0,1,60,,13,14,1,-,1.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+45,MS Wade,Washington Sundar,SPD Smith,1,0,1,61,,41,30,1,-,2.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+46,SPD Smith,Washington Sundar,MS Wade,1,0,1,62,,14,15,1,-,3.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+47,MS Wade,Washington Sundar,SPD Smith,4,0,4,66,,45,31,1,-,4.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+48,MS Wade,Washington Sundar,SPD Smith,1,0,1,67,,46,32,1,-,5.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Offbreak
+49,SPD Smith,Washington Sundar,MS Wade,1,0,1,68,,15,16,1,-,6.0,7,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+50,SPD Smith,YS Chahal,MS Wade,1,0,1,69,,16,17,1,-,1.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+51,MS Wade,YS Chahal,SPD Smith,1,0,1,70,,47,33,1,-,2.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+52,SPD Smith,YS Chahal,MS Wade,1,0,1,71,,17,18,1,-,3.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+53,MS Wade,YS Chahal,SPD Smith,0,0,0,71,,47,34,1,-,4.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+54,MS Wade,YS Chahal,SPD Smith,1,0,1,72,,48,35,1,-,5.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+55,SPD Smith,YS Chahal,MS Wade,1,0,1,73,,18,19,1,-,6.0,8,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+56,SPD Smith,Washington Sundar,MS Wade,0,0,0,73,,18,20,1,-,1.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+57,SPD Smith,Washington Sundar,MS Wade,4,0,4,77,,22,21,1,-,2.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+58,SPD Smith,Washington Sundar,MS Wade,2,0,2,79,,24,22,1,-,3.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+59,SPD Smith,Washington Sundar,MS Wade,0,0,0,79,,24,23,2,-,4.0,9,bowled,SPD Smith,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+60,GJ Maxwell,Washington Sundar,MS Wade,2,0,2,81,,2,1,2,-,5.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+61,GJ Maxwell,Washington Sundar,MS Wade,1,0,1,82,,3,2,2,-,6.0,9,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Offbreak
+62,GJ Maxwell,T Natarajan,MS Wade,0,0,0,82,,3,3,2,-,1.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+63,GJ Maxwell,T Natarajan,MS Wade,1,0,1,83,,4,4,2,-,2.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+64,MS Wade,T Natarajan,GJ Maxwell,0,1,1,84,,48,36,2,wides,2.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+65,MS Wade,T Natarajan,GJ Maxwell,2,0,2,86,,50,37,2,-,3.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+66,MS Wade,T Natarajan,GJ Maxwell,0,0,0,86,,50,38,2,-,4.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+67,MS Wade,T Natarajan,GJ Maxwell,1,0,1,87,,51,39,2,-,5.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+68,GJ Maxwell,T Natarajan,MS Wade,0,0,0,87,,4,5,2,-,6.0,10,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+69,MS Wade,SN Thakur,GJ Maxwell,6,0,6,93,,57,40,2,-,1.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+70,MS Wade,SN Thakur,GJ Maxwell,1,0,1,94,,58,41,2,-,2.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+71,GJ Maxwell,SN Thakur,MS Wade,0,0,0,94,,4,6,2,-,3.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+72,GJ Maxwell,SN Thakur,MS Wade,2,0,2,96,,6,7,2,-,4.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+73,GJ Maxwell,SN Thakur,MS Wade,4,0,4,100,,10,8,2,-,5.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+74,GJ Maxwell,SN Thakur,MS Wade,1,0,1,101,,11,9,2,-,6.0,11,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+75,GJ Maxwell,YS Chahal,MS Wade,0,1,1,102,,11,10,2,wides,0.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+76,GJ Maxwell,YS Chahal,MS Wade,1,0,1,103,,12,11,2,-,1.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+77,MS Wade,YS Chahal,GJ Maxwell,1,0,1,104,,59,42,2,-,2.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+78,GJ Maxwell,YS Chahal,MS Wade,4,0,4,108,,16,12,2,-,3.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+79,GJ Maxwell,YS Chahal,MS Wade,3,0,3,111,,19,13,2,-,4.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+80,MS Wade,YS Chahal,GJ Maxwell,1,0,1,112,,60,43,2,-,5.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+81,GJ Maxwell,YS Chahal,MS Wade,0,1,1,113,,19,14,2,noballs,5.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+82,MS Wade,YS Chahal,GJ Maxwell,1,0,1,114,,61,44,2,-,6.0,12,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+83,MS Wade,SN Thakur,GJ Maxwell,1,0,1,115,,62,45,2,-,1.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+84,GJ Maxwell,SN Thakur,MS Wade,2,0,2,117,,21,15,2,-,2.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+85,GJ Maxwell,SN Thakur,MS Wade,0,0,0,117,,21,16,2,-,3.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+86,GJ Maxwell,SN Thakur,MS Wade,1,0,1,118,,22,17,2,-,4.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+87,MS Wade,SN Thakur,GJ Maxwell,6,0,6,124,,68,46,2,-,5.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+88,MS Wade,SN Thakur,GJ Maxwell,0,0,0,124,,68,47,2,-,6.0,13,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+89,GJ Maxwell,YS Chahal,MS Wade,1,0,1,125,,23,18,2,-,1.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+90,MS Wade,YS Chahal,GJ Maxwell,1,0,1,126,,69,48,2,-,2.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Legbreak
+91,GJ Maxwell,YS Chahal,MS Wade,6,0,6,132,,29,19,2,-,3.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+92,GJ Maxwell,YS Chahal,MS Wade,0,1,1,133,,29,20,2,wides,3.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+93,GJ Maxwell,YS Chahal,MS Wade,0,0,0,133,,29,21,2,-,4.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+94,GJ Maxwell,YS Chahal,MS Wade,6,0,6,139,,35,22,2,-,5.0,14,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+95,GJ Maxwell,YS Chahal,MS Wade,0,0,0,139,,35,23,2,-,6.0,14,0,,,"{'by': 'India', 'umpire': 'RJ Tucker', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Legbreak
+96,MS Wade,DL Chahar,GJ Maxwell,1,0,1,140,,70,49,2,-,1.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+97,GJ Maxwell,DL Chahar,MS Wade,0,0,0,140,,35,24,2,-,2.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+98,GJ Maxwell,DL Chahar,MS Wade,1,0,1,141,,36,25,2,-,3.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+99,MS Wade,DL Chahar,GJ Maxwell,2,0,2,143,,72,50,2,-,4.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+100,MS Wade,DL Chahar,GJ Maxwell,1,0,1,144,,73,51,2,-,5.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+101,GJ Maxwell,DL Chahar,MS Wade,1,0,1,145,,37,26,2,-,6.0,15,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+102,GJ Maxwell,SN Thakur,MS Wade,0,0,0,145,,37,27,2,-,1.0,16,0,,,"{'by': 'India', 'umpire': 'RJ Tucker', 'batter': 'GJ Maxwell', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+103,GJ Maxwell,SN Thakur,MS Wade,1,0,1,146,,38,28,2,-,2.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+104,MS Wade,SN Thakur,GJ Maxwell,2,0,2,148,,75,52,2,-,3.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+105,MS Wade,SN Thakur,GJ Maxwell,1,0,1,149,,76,53,2,-,4.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+106,GJ Maxwell,SN Thakur,MS Wade,2,0,2,151,,40,29,2,-,5.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+107,GJ Maxwell,SN Thakur,MS Wade,6,0,6,157,,46,30,2,-,6.0,16,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+108,MS Wade,T Natarajan,GJ Maxwell,3,0,3,160,,79,54,2,-,1.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+109,GJ Maxwell,T Natarajan,MS Wade,0,0,0,160,,46,31,2,-,2.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+110,GJ Maxwell,T Natarajan,MS Wade,1,0,1,161,,47,32,2,-,3.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+111,MS Wade,T Natarajan,GJ Maxwell,0,1,1,162,,79,55,2,wides,3.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+112,MS Wade,T Natarajan,GJ Maxwell,1,0,1,163,,80,56,2,-,4.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+113,GJ Maxwell,T Natarajan,MS Wade,4,0,4,167,,51,33,2,-,5.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+114,GJ Maxwell,T Natarajan,MS Wade,1,0,1,168,,52,34,2,-,6.0,17,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Left arm Medium
+115,GJ Maxwell,SN Thakur,MS Wade,1,0,1,169,,53,35,2,-,1.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Left hand Bat,Right arm Medium
+116,MS Wade,SN Thakur,GJ Maxwell,0,0,0,169,,80,57,3,-,2.0,18,lbw,MS Wade,,"{'by': 'Australia', 'umpire': 'RJ Tucker', 'batter': 'MS Wade', 'decision': 'struck down'}",field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Right arm Medium
+117,MC Henriques,SN Thakur,GJ Maxwell,4,0,4,173,,4,1,3,-,3.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Right arm Medium
+118,MC Henriques,SN Thakur,GJ Maxwell,1,0,1,174,,5,2,3,-,4.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Right arm Medium
+119,GJ Maxwell,SN Thakur,MC Henriques,0,0,0,174,,53,36,3,-,5.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Right arm Medium
+120,GJ Maxwell,SN Thakur,MC Henriques,1,0,1,175,,54,37,3,-,6.0,18,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Right arm Medium
+121,GJ Maxwell,T Natarajan,MC Henriques,0,0,0,175,,54,38,4,-,1.0,19,bowled,GJ Maxwell,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Left arm Medium
+122,DJM Short,T Natarajan,MC Henriques,2,0,2,177,,2,1,4,-,2.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+123,DJM Short,T Natarajan,MC Henriques,4,0,4,181,,6,2,4,-,3.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+124,DJM Short,T Natarajan,MC Henriques,1,0,1,182,,7,3,5,-,4.0,19,run out,DJM Short,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Left hand Bat,Right hand Bat,Left arm Medium
+125,DR Sams,T Natarajan,MC Henriques,4,0,4,186,,4,1,5,-,5.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Left arm Medium
+126,DR Sams,T Natarajan,MC Henriques,0,0,0,186,,4,2,5,-,6.0,19,0,,,,field,India,1,Sydney Cricket Ground,2020,12,Australia_India_2020-12-08,Australia,Australia,India,True,186,Right hand Bat,Right hand Bat,Left arm Medium
