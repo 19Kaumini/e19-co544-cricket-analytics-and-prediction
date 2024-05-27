@@ -214,7 +214,7 @@ def json_to_csv(match_file, output_file=False):
             df["batting_team"] = innings[idx]["team"]
             df["bowling_team"] = (
                 info["teams"][0]
-                if info["teams"][0] != df["batting_team"]
+                if info["teams"][0] != innings[idx]["team"]
                 else info["teams"][1]
             )
 
