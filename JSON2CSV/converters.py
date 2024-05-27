@@ -51,9 +51,9 @@ def convert_over_to_df(over_data):
             delivery += 1
         over_df.at[idx, "delivery"] = delivery
 
-        if batter in balls_faced:
+        if batter in balls_faced and row["extra_type"] not in extras_arr:
             balls_faced[batter] += 1
-        else:
+        elif batter not in balls_faced and row["extra_type"] not in extras_arr:
             balls_faced[batter] = 1
         over_df.at[idx, "balls_faced"] = balls_faced.copy()[batter]
 
