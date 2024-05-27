@@ -212,7 +212,11 @@ def json_to_csv(match_file, output_file=False):
         else:
             # Handle the case when there is no second inning
             df["batting_team"] = innings[idx]["team"]
-            df["bowling_team"] = None
+            df["bowling_team"] = (
+                info["teams"][0]
+                if info["teams"][0] != innings[idx]["team"]
+                else info["teams"][1]
+            )
 
         # outcome
         outcome = info["outcome"]
