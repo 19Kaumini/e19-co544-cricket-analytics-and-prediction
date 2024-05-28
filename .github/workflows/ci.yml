@@ -20,8 +20,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-          python CI_Test/Cluster.py
+      - name: Run Cluster script
+        run: python CI_Test/Cluster.py
 
+      - name: Generate report
+        run: |
           echo "## Metrics" > report.md
           cat metrics.txt >> report.md
           
@@ -33,9 +36,7 @@ jobs:
           cml-send-comment report.md
 
       - name: Install pytest
-        run: |
-          pip install pytest
+        run: pip install pytest
 
       - name: Run tests
-        run: |
-          pytest
+        run: pytest

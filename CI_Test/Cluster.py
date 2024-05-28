@@ -4,9 +4,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
+import os
 
-# Load the data
-data = pd.read_csv('../Data/selected_data/processed_data.csv')
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the full path to the CSV file
+file_path = os.path.join(script_dir, '../Data/selected_data/processed_data.csv')
+
+# Read the CSV file
+data = pd.read_csv(file_path)
 
 # %% [markdown]
 # ### **Batsman Clustering**
@@ -66,7 +73,7 @@ sns.scatterplot(data=batsman_metrics, x='average_score_per_match', y='strike_rat
 plt.title('Scatter Plot of Batsmen Strike Rate vs Average Score')
 plt.xlabel('Average Score per Match')
 plt.ylabel('Strike Rate')
-plt.show()
+# plt.show()
 
 # %%
 # Elbow Method
@@ -86,7 +93,7 @@ plt.plot(k_range, sse, marker='o')
 plt.title('Elbow Method for Optimal Number of Clusters')
 plt.xlabel('Number of Clusters')
 plt.ylabel('Sum of Squared Distances')
-plt.show()
+# plt.show()
 
 # %%
 print("sse: ",sse)
@@ -107,7 +114,7 @@ plt.title('K-means Clustering of Batsmen based on Strike Rate and Average Score'
 plt.xlabel('Average Score per Match')
 plt.ylabel('Strike Rate')
 plt.legend(title='Cluster')
-plt.show()
+# plt.show()
 plt.savefig("Clustering_of_Batsmen.png",dpi=120) 
 plt.close()
 
@@ -149,7 +156,7 @@ sns.scatterplot(data=bowler_metrics, x='average_wickets_per_match', y='economy_r
 plt.title('Scatter Plot of Bowler Economy Rate vs Average Wickets')
 plt.xlabel('Average Wickets per Match')
 plt.ylabel('Economy Rate')
-plt.show()
+# plt.show()
 
 # %%
 #Elbow method
@@ -167,7 +174,7 @@ plt.plot(k_range, sse, marker='o')
 plt.title('Elbow Method for Optimal Number of Clusters')
 plt.xlabel('Number of Clusters')
 plt.ylabel('Sum of Squared Distances (SSE)')
-plt.show()
+# plt.show()
 
 # %%
 print("sse: ",sse)
@@ -188,7 +195,7 @@ plt.title('K-means Clustering of Bowlers based on Average Wickets per Match and 
 plt.xlabel('Average Wickets per Match')
 plt.ylabel('Economy Rate')
 plt.legend(title='Cluster')
-plt.show()
+# plt.show()
 plt.savefig("Clustering_of_Bowlers.png",dpi=120) 
 plt.close()
 
@@ -223,7 +230,7 @@ sns.heatmap(contingency_table, annot=True, cmap="YlGnBu", fmt="d")
 plt.title('Contingency Table: Batsman Clusters vs Bowler Clusters')
 plt.xlabel('Bowler Clusters')
 plt.ylabel('Batsman Clusters')
-plt.show()
+# plt.show()
 plt.savefig("Contingency_Table.png",dpi=120) 
 plt.close()
 
