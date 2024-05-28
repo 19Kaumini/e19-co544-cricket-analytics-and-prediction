@@ -20,26 +20,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install CML
-        run: pip install cml
-
-      - name: Run Cluster script
-        run: python CI_Test/Cluster.py
-
-      - name: Generate report
-        run: |
-          echo "## Metrics" > report.md
-          cat metrics.txt >> report.md
-          
-          echo "## Data Visualization" >> report.md
-          cml-publish Clustering_of_Batsmen.png --md >> report.md
-          cml-publish Clustering_of_Bowlers.png --md >> report.md
-          cml-publish Contingency_Table.png --md >> report.md
-          
-          cml-send-comment report.md
-
       - name: Install pytest
-        run: pip install pytest
+        run: |
+          pip install pytest
 
       - name: Run tests
-        run: pytest
+        run: |
+          pytest
