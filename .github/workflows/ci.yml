@@ -25,6 +25,7 @@ jobs:
           pip install pytest
 
       - name: Run tests
+        working-directory: ./Tests
         run: |
           pytest
-          working-directory:./Tests
+
