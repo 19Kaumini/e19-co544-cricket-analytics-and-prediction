@@ -40,3 +40,18 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction.git
    cd e19-co544-cricket-analytics-and-prediction
+
+2. **Set Up the Virtual Environment:**
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+3. **Install Dependencies:**
+   ```sh
+   pip install --upgrade pip
+   pip install -r requirements.txt
+
+4. **Run Tests:**
+   ```sh
+   pytest
+
