@@ -26,4 +26,5 @@ jobs:
 
       - name: Run tests
         run: |
+          working_directory:~/projects/Tests
           pytest
