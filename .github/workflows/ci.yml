@@ -20,6 +20,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+          echo "## Metrics" > report.md
+          cat metrics.txt >> report.md
+          
+          echo "## Data Visualization" >> report.md
+          cml-publish Clustering_of_Batsmen.png --md >> report.md
+          cml-publish Clustering_of_Bowlers.png --md >> report.md
+          cml-publish Contingency_Table.png --md >> report.md
+          
+          cml-send-comment report.md
+
       - name: Install pytest
         run: |
           pip install pytest
