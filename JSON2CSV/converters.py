@@ -35,7 +35,7 @@ def convert_over_to_df(over_data):
 
     if "extras" in over_df.columns:
         over_df["extra_type"] = over_df["extras"].apply(
-            lambda x: "".join(list(x.keys())) if type(x) == dict else np.nan
+            lambda x: ",".join(list(x.keys())) if type(x) == dict else np.nan
         )
     else:
         over_df["extra_type"] = np.nan
@@ -43,19 +43,21 @@ def convert_over_to_df(over_data):
     delivery = 0
     extras_arr = ["wides", "noballs"]
     for idx, row in over_df.iterrows():
-
+        extras_list = (
+            row["extra_type"].split(",") if type(row["extra_type"]) == str else []
+        )
         batter = row["batter"]
         runs = row["runs_by_bat"]
 
-        if row["extra_type"] not in extras_arr:
+        if "wides" not in extras_list and "noballs" not in extras_list:
             delivery += 1
         over_df.at[idx, "delivery"] = delivery
 
         if batter in balls_faced:
-            if row["extra_type"] not in extras_arr:
+            if "wides" not in extras_list and "noballs" not in extras_list:
                 balls_faced[batter] += 1
         else:
-            if row["extra_type"] not in extras_arr:
+            if "wides" not in extras_list and "noballs" not in extras_list:
                 balls_faced[batter] = 1
             else:
                 balls_faced[batter] = 0
