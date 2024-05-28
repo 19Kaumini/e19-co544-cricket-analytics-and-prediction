@@ -12,7 +12,7 @@ import joblib
 MODEL_PATH = '../Models/model.joblib'
 
 # Sample data for testing
-TEST_DATA_PATH = '2nd_inning_data.csv'
+TEST_DATA_PATH = '../EDA/2nd_inning_data.csv'
 
 @pytest.fixture
 def sample_data():
