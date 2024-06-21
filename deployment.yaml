@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cricket-analytics-deployment
+spec:
+  replicas: 1  # Number of replicas (pods) to run
+  selector:
+    matchLabels:
+      app: cricket-analytics
+  template:
+    metadata:
+      labels:
+        app: cricket-analytics
+    spec:
+      containers:
+        - name: cricket-analytics-container
+          image: e19324/cricket-analytics-api:latest  # Replace with your Docker username and image details
+          ports:
+            - containerPort: 5000  # Replace with the port your Flask app is listening on
