@@ -49,6 +49,13 @@ def delete_downloaded_files(directory):
     for file in os.listdir(directory):
         os.remove(os.path.join(directory, file))
 
+# Copy new JSON files in the temp directory to the data directory
+def copy_temp_to_data():
+    for file in os.listdir(temp_directory):
+        shutil.copy2(os.path.join(temp_directory, file), os.path.join(data_directory, file))
+        print(f"Copied new file: {file}")
+    print(f"New JSON files have been copied to {data_directory}")
+
 def main():
     download_dir = download_and_unzip(zip_url)
     
@@ -62,6 +69,9 @@ def main():
 
     # Delete downloaded files
     delete_downloaded_files(download_dir)
+
+    # Copy new JSON files to the data directory
+    copy_temp_to_data()
 
 if __name__ == "__main__":
     main()
