@@ -277,4 +277,6 @@ def json_to_csv(match_file, output_file=False):
 
         all_innings_df[team_innings] = df
 
+    all_innings_df.drop(columns=["review,replacements"], inplace=True)
+
     return all_innings_df, players
