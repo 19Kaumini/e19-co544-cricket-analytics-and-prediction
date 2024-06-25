@@ -214,7 +214,12 @@ def json_to_csv(match_file, output_file=False):
 
         if len(innings) > 1:
             df["batting_team"] = innings[idx]["team"]
-            df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
+            df["bowling_team"] = (
+                info["teams"][0]
+                if info["teams"][0] != innings[idx]["team"]
+                else info["teams"][1]
+            )
+
         else:
             # Handle the case when there is no second inning
             df["batting_team"] = innings[idx]["team"]
