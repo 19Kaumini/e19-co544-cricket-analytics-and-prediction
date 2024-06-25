@@ -5,8 +5,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.base import ClassifierMixin
-from zenml import step, pipeline
-from zenml.client import Client
+# from zenml import step, pipeline
+# from zenml.client import Client
 
 # Set up MLflow tracking
 import dagshub
@@ -20,13 +20,13 @@ def get_clf_metrics(y_true: np.ndarray, y_pred: np.ndarray):
     f1 = f1_score(y_true, y_pred, average='macro')
     return accuracy, precision, recall, f1
 
-@step
+# @step
 def load_data() -> pd.DataFrame:
     """Load a dataset."""
     data = pd.read_csv("https://raw.githubusercontent.com/KattsonBastos/mlops-zenml-pipelines/main/data/cardio_train_sampled.csv")
     return data
 
-@step
+# @step
 def data_preparation(data: pd.DataFrame) -> tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
     dataframe = data.copy()
     dataframe['age'] = round(dataframe['age'] / 365).astype(int)
@@ -35,7 +35,7 @@ def data_preparation(data: pd.DataFrame) -> tuple[np.ndarray, np.ndarray, np.nda
     X_train, X_test, y_train, y_true = train_test_split(X, y, test_size=0.2, random_state=42)
     return X_train, X_test, y_train, y_true
 
-@step(enable_cache=False)
+# @step(enable_cache=False)
 def train_rf(X_train: np.ndarray, y_train: np.ndarray, model_name: str = "model", max_depth: int = 4, random_state: int = 42) -> ClassifierMixin:
     """Training a sklearn RF model."""
     model = RandomForestClassifier(max_depth=max_depth, random_state=random_state)
@@ -48,7 +48,7 @@ def train_rf(X_train: np.ndarray, y_train: np.ndarray, model_name: str = "model"
     
     return model
 
-@step(enable_cache=False)
+# @step(enable_cache=False)
 def evaluate_model(model: ClassifierMixin, X_test: np.ndarray, y_test: np.ndarray) -> float:
     """Model Evaluation and ML metrics register."""
     y_pred = model.predict(X_test)
@@ -63,7 +63,7 @@ def evaluate_model(model: ClassifierMixin, X_test: np.ndarray, y_test: np.ndarra
     
     return recall
 
-@pipeline(enable_cache=False)
+# @pipeline(enable_cache=False)
 def training_rf_pipeline():
     data = load_data()        
     X_train, X_test, y_train, y_test = data_preparation(data)        
@@ -72,7 +72,7 @@ def training_rf_pipeline():
 
     print(f"Recall: {recall_metric}")
 
-experiment_tracker = Client().active_stack.experiment_tracker
+# experiment_tracker = Client().active_stack.experiment_tracker
 
 def main():
     # Start a single MLflow run here
