@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Smester 5\e19-co544-cricket-analytics-and-prediction\cricvision"
+VIRTUAL_ENV="D:\PE19\Semester 6\CO544\e19-co544-cricket-analytics-and-prediction\cricvision"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
