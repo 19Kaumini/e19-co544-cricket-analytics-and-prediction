@@ -1,34 +1,52 @@
-from flask import Flask, request, jsonify
+from MLOps.NRR_prediction import load_data, data_preparation, train_rf, evaluate_model
 import pickle
+import numpy as np
+from flask import Flask, request, jsonify
+import os
+from flask_cors import CORS, cross_origin
 import pandas as pd
+from joblib import load
+from flask import Flask, request, jsonify, render_template
+import os
+from flask_cors import CORS, cross_origin
+import pandas as pd
+from joblib import load
+
+os.putenv('LANG', 'en_US.UTF-8')
+os.putenv('LC_ALL', 'en_US.UTF-8')
 
 app = Flask(__name__)
+CORS(app)
 
-# Load the trained model
-with open('random_forest_model.pkl', 'rb') as model_file:
-    model = pickle.load(model_file)
+class ClientApp:
+    def __init__(self):
+        self.model = self.load_model()
 
-# Define a route for prediction
-@app.route('/predict', methods=['POST'])
-def predict():
-    # Get data from the POST request
-    data = request.json
-    
-    # Assuming data is in the same format as your training data
-    df = pd.DataFrame(data)
-    
-    # Make prediction
-    win_probability = model.predict_proba(df)[:, 1]  # Assuming binary classification for win probability
-    
-    # Return the result as JSON
-    return jsonify({'win_probability': win_probability.tolist()})
+    def load_model(self):
+        model_path = 'models/model.pkl'
+        return load(model_path)
 
-# Define a route for a welcome message
+    def predict(self, input_data):
+        # Assuming input_data is a pandas DataFrame
+        prediction = self.model.predict(input_data)
+        return prediction
+
 @app.route('/')
-def index():
-    return 'Welcome to Cricket Analytics API!'
+@cross_origin()
+def home():
+    return render_template('index.html')
+
+@app.route('/predict', methods=['POST'])
+@cross_origin()
+def predict():
+    try:
+        json_data = request.get_json()
+        data = pd.DataFrame(json_data)
+        client_app = ClientApp()
+        predictions = client_app.predict(data)
+        return jsonify(predictions.tolist())
+    except Exception as e:
+        return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
