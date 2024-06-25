@@ -5,3 +5,17 @@ flask
 pytest
 matplotlib
 seaborn
+
+mlflow==2.14.1
+gdown
+dvc
+notebook
+python-box
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask-Cors
+-e .
