@@ -1,7 +1,6 @@
 import mlflow
 import numpy as np
 import pandas as pd
-import os
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
@@ -11,7 +10,7 @@ from zenml.client import Client
 
 # Set up MLflow tracking
 import dagshub
-dagshub.init(repo_owner='chnandula00', repo_name='e19-co544-cricket-analytics-and-prediction', mlflow=True)
+dagshub.init(repo_owner='chandula00', repo_name='e19-co544-cricket-analytics-and-prediction', mlflow=True)
 mlflow.set_experiment("Cardiovascular Disease Prediction")
 
 def get_clf_metrics(y_true: np.ndarray, y_pred: np.ndarray):
@@ -24,7 +23,7 @@ def get_clf_metrics(y_true: np.ndarray, y_pred: np.ndarray):
 @step
 def load_data() -> pd.DataFrame:
     """Load a dataset."""
-    data = pd.read_csv("data/cardio_train_sampled.csv")
+    data = pd.read_csv("https://raw.githubusercontent.com/KattsonBastos/mlops-zenml-pipelines/main/data/cardio_train_sampled.csv")
     return data
 
 @step
@@ -66,25 +65,19 @@ def evaluate_model(model: ClassifierMixin, X_test: np.ndarray, y_test: np.ndarra
 
 @pipeline(enable_cache=False)
 def training_rf_pipeline():
-    with mlflow.start_run(run_name="full_pipeline"):
-        with mlflow.start_run(run_name="load_data", nested=True):
-            data = load_data()
-        
-        with mlflow.start_run(run_name="data_preparation", nested=True):
-            X_train, X_test, y_train, y_test = data_preparation(data)
-        
-        with mlflow.start_run(run_name="train_model", nested=True):
-            model = train_rf(X_train, y_train)
-        
-        with mlflow.start_run(run_name="evaluate_model", nested=True):
-            recall_metric = evaluate_model(model, X_test, y_test)
+    data = load_data()        
+    X_train, X_test, y_train, y_test = data_preparation(data)        
+    model = train_rf(X_train, y_train)    
+    recall_metric = evaluate_model(model, X_test, y_test)
 
     print(f"Recall: {recall_metric}")
 
 experiment_tracker = Client().active_stack.experiment_tracker
 
 def main():
-    training_rf_pipeline()
+    # Start a single MLflow run here
+    with mlflow.start_run():
+        training_rf_pipeline()
 
 if __name__ == '__main__':
     main()
