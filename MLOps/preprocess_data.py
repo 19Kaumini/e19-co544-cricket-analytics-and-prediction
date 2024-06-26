@@ -68,6 +68,7 @@ def All_Batters_NRR():
 
 def getPlayerScores(player_name: str, innings: list[int] = [1, 2] ) -> pd.DataFrame:
     # Get the data for BKG Mendis if batter is BKG Mendis or non-striker is BKG Mendis
+    data = pd.read_csv("Data/selected_data/processed_data_NRR.csv")
 	player_data = data.loc[
 		((data['batter'] == player_name) | (data['non_striker'] == player_name)) & (data['innings'].isin(innings))
 	]
@@ -161,7 +162,7 @@ def main():
     check_null_values()
     copy_data()
     preprocess_NRR_data()
-    All_Batters_NRR()
+    # All_Batters_NRR()
 
 if __name__ == "__main__":
     main()
