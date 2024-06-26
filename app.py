@@ -1,16 +1,13 @@
 from MLOps.NRR_prediction import load_data, data_preparation, train_rf, evaluate_model
 import pickle
 import numpy as np
-from flask import Flask, request, jsonify
 import os
 from flask_cors import CORS, cross_origin
 import pandas as pd
 from joblib import load
 from flask import Flask, request, jsonify, render_template
-import os
-from flask_cors import CORS, cross_origin
-import pandas as pd
-from joblib import load
+
+
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -27,7 +24,6 @@ class ClientApp:
         return load(model_path)
 
     def predict(self, input_data):
-        # Assuming input_data is a pandas DataFrame
         prediction = self.model.predict(input_data)
         return prediction
 

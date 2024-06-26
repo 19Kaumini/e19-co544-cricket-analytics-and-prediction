@@ -1,29 +1,49 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #f8f9fa;
     margin: 0;
     padding: 0;
 }
 
+.header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
 .container {
     max-width: 800px;
-    margin: 20px auto;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 h1 {
-    color: #333;
+    margin: 0;
+    font-size: 2em;
+    color: #ffffff;
 }
 
 p {
-    line-height: 1.6;
+    font-size: 1.2em;
+    color: #333;
 }
 
 form {
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 textarea {
@@ -32,18 +52,25 @@ textarea {
     font-size: 14px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 button {
     padding: 10px 20px;
     background-color: #007bff;
-    color: #fff;
+    color: #ffffff;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 button:hover {
     background-color: #0056b3;
+}
+
+#predictionResult {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #007bff;
 }
