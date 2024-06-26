@@ -1,0 +1,52 @@
+name: MLOps Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for running the workflow'
+        required: true
+        default: 'Manual trigger'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run MLOps scripts
+      run: |
+        python MLOps/fetch_data.py
+        python MLOps/convert_to_csv.py
+        python MLOps/preprocess_data.py
+        python MLOps/purge.py
+
+    - name: Set up ZenML
+      run: |
+        zenml init
+        zenml experiment-tracker register mlflow_tracker --flavor=mlflow
+        zenml stack register mlflow_stack -a default -o default -e mlflow_tracker
+        zenml stack register my_stack -a default -o default -e mlflow_tracker
+        zenml stack set my_stack
+
+    - name: Run ML model
+      run: python MLOps/ml_model.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Auto-commit: Update after MLOps workflow" || echo "No changes to commit"
+        git push
