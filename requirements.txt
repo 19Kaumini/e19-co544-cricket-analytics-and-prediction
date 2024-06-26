@@ -18,4 +18,6 @@ joblib
 types-pyYAML
 scipy
 Flask-Cors
+zenml
+dagshub
 -e .
