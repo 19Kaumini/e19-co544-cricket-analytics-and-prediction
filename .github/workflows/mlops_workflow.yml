@@ -54,9 +54,6 @@ jobs:
 
     - name: Set up ZenML
       working-directory: running-repo
-      env:
-        ZENML_USERNAME: ${{ secrets.ZENML_USERNAME }}
-        ZENML_PASSWORD: ${{ secrets.ZENML_PASSWORD }}
       run: |
         pip install zenml
         zenml init
@@ -64,7 +61,7 @@ jobs:
         zenml stack register mlflow_stack -a default -o default -e mlflow_tracker
         zenml stack register my_stack -a default -o default -e mlflow_tracker
         zenml stack set my_stack
-        zenml connect --url https://9e23ae6c-zenml.cloudinfra.zenml.io --username $ZENML_USERNAME --password $ZENML_PASSWORD
+        zenml connect --url https://9e23ae6c-zenml.cloudinfra.zenml.io --username='default' --password=''
 
     - name: Run ML model
       working-directory: running-repo
