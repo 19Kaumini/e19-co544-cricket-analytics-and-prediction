@@ -15,7 +15,7 @@ class ClientApp:
         self.model = self.load_model()
 
     def load_model(self):
-        model_path = 'models/random_forest_model.pkl'
+        model_path = 'models/model.pkl'
         return load(model_path)
 
     def predict(self, input_data):
