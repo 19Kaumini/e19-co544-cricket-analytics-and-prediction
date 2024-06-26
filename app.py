@@ -31,35 +31,38 @@ def home():
 @cross_origin()
 def predict():
     try:
+        data = request.json
+
         form_data = {
-            'batter': request.form['batter'],
-            'innings': int(request.form['innings']),
-            'wickets_fallen': int(request.form['wickets_fallen']),
-            'bowling_team': request.form['bowling_team'],
-            'batting_team': request.form['batting_team'],
-            'toss_winner': request.form['toss_winner'],
-            'runs_remain': int(request.form['runs_remain']),
-            'first_ball': int(request.form['first_ball']),
-            'current_team_total': int(request.form['current_team_total']),
-            'is_powerplay': int(request.form['is_powerplay']),
-            'Left arm Fast': int(request.form.get('Left arm Fast', 0)),
-            'Left arm Orthodox': int(request.form.get('Left arm Orthodox', 0)),
-            'Left arm Wrist spin': int(request.form.get('Left arm Wrist spin', 0)),
-            'Right arm Fast': int(request.form.get('Right arm Fast', 0)),
-            'Right arm Legbreak': int(request.form.get('Right arm Legbreak', 0)),
-            'Right arm Offbreak': int(request.form.get('Right arm Offbreak', 0)),
-            'venue': request.form['venue']
+            'batter': data['batter'],
+            'innings': int(data['innings']),
+            'wickets_fallen': int(data['wickets_fallen']),
+            'bowling_team': data['bowling_team'],
+            'batting_team': data['batting_team'],
+            'toss_winner': data['toss_winner'],
+            'runs_remain': int(data['runs_remain']),
+            'first_ball': int(data['first_ball']),
+            'current_team_total': int(data['current_team_total']),
+            'is_powerplay': int(data['is_powerplay']),
+            'Left arm Fast': int(data.get('Left arm Fast', 0)),
+            'Left arm Orthodox': int(data.get('Left arm Orthodox', 0)),
+            'Left arm Wrist spin': int(data.get('Left arm Wrist spin', 0)),
+            'Right arm Fast': int(data.get('Right arm Fast', 0)),
+            'Right arm Legbreak': int(data.get('Right arm Legbreak', 0)),
+            'Right arm Offbreak': int(data.get('Right arm Offbreak', 0)),
+            'venue': data['venue']
         }
-        data = pd.DataFrame([form_data])
+
+        data_df = pd.DataFrame([form_data])
 
         expected_columns = ['batter', 'innings', 'wickets_fallen', 'bowling_team', 'batting_team',
                             'toss_winner', 'runs_remain', 'first_ball', 'current_team_total',
                             'is_powerplay', 'Left arm Fast', 'Left arm Orthodox', 'Left arm Wrist spin',
                             'Right arm Fast', 'Right arm Legbreak', 'Right arm Offbreak', 'venue']
-        data = data[expected_columns]
+        data_df = data_df[expected_columns]
 
         client_app = ClientApp()
-        predictions = client_app.predict(data)
+        predictions = client_app.predict(data_df)
         return jsonify(predictions.tolist())
     except Exception as e:
         return jsonify({'error': str(e)}), 400

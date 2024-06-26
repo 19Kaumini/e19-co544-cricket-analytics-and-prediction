@@ -81,6 +81,16 @@
         box-sizing: border-box;
       }
 
+      select {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+      }
+
       button {
         padding: 10px 20px;
         background-color: #800000; /* Maroon */
@@ -182,9 +192,11 @@
 
           <label for="toss_winner">Toss Winner:</label><br />
           <input
-            type="text"
+            type="number"
             id="toss_winner"
             name="toss_winner"
+            min="0"
+            step="1"
             required
           /><br /><br />
 
@@ -218,17 +230,11 @@
             required
           /><br /><br />
 
-          <label for="is_powerplay">Is Powerplay (1 for Yes, 0 for No):</label
-          ><br />
-          <input
-            type="number"
-            id="is_powerplay"
-            name="is_powerplay"
-            min="0"
-            max="1"
-            step="1"
-            required
-          /><br /><br />
+          <label for="is_powerplay">Is Powerplay:</label><br />
+          <select id="is_powerplay" name="is_powerplay" required>
+            <option value="true">True</option>
+            <option value="false">False</option>
+          </select><br /><br />
 
           <label for="Left arm Fast">Left arm Fast:</label><br />
           <input
@@ -236,7 +242,6 @@
             id="Left arm Fast"
             name="Left arm Fast"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -247,7 +252,6 @@
             id="Left arm Orthodox"
             name="Left arm Orthodox"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -258,7 +262,6 @@
             id="Left arm Wrist spin"
             name="Left arm Wrist spin"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -269,7 +272,6 @@
             id="Right arm Fast"
             name="Right arm Fast"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -280,7 +282,6 @@
             id="Right arm Legbreak"
             name="Right arm Legbreak"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -291,7 +292,6 @@
             id="Right arm Offbreak"
             name="Right arm Offbreak"
             min="0"
-            max="1"
             step="1"
             required
           /><br /><br />
@@ -306,7 +306,6 @@
     </div>
 
 
-
     <script>
       document
         .getElementById("predictForm")
@@ -315,7 +314,11 @@
           var formData = new FormData(this);
           var jsonData = {};
           formData.forEach(function (value, key) {
-            jsonData[key] = value;
+            if (key === "is_powerplay") {
+              jsonData[key] = value === "true";
+            } else {
+              jsonData[key] = value;
+            }
           });
           fetch("/predict", {
             method: "POST",
