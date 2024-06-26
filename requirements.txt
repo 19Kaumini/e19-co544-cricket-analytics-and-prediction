@@ -18,6 +18,6 @@ joblib
 types-pyYAML
 scipy
 Flask-Cors
-zenml
+zenml[server]==0.58.2
 dagshub
 -e .

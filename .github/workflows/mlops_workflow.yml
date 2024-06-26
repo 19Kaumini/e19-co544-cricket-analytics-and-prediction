@@ -13,30 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout running repository
-      uses: actions/checkout@v2
-      with:
-        path: running-repo
-
-    - name: Clone chandula00 repository
-      uses: actions/checkout@v2
-      with:
-        repository: chandula00/e19-co544-cricket-analytics-and-prediction
-        path: chandula-repo
-
-    - name: Copy chandula00 repo contents to running repo
-      run: |
-        cp -R chandula-repo/* running-repo/
-        cd running-repo
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Sync with chandula00 repo" || echo "No changes to commit"
+    - uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
-        python-version: '3.x'
+        python-version: '3.9'
 
     - name: Install dependencies
       working-directory: running-repo
@@ -61,32 +43,14 @@ jobs:
         zenml stack register mlflow_stack -a default -o default -e mlflow_tracker
         zenml stack register my_stack -a default -o default -e mlflow_tracker
         zenml stack set my_stack
-        zenml connect --url https://9e23ae6c-zenml.cloudinfra.zenml.io --username='default' --password=''
 
     - name: Run ML model
-      working-directory: running-repo
-      env:
-        DAGSHUB_TOKEN: ${{ secrets.DAGSHUB_TOKEN }}
-      run: |
-        export MLFLOW_TRACKING_USERNAME=$DAGSHUB_TOKEN
-        export MLFLOW_TRACKING_PASSWORD=$DAGSHUB_TOKEN
-        python MLOps/ml_model.py
+      run: python MLOps/ml_model.py
 
-    - name: Commit changes to running repo
-      working-directory: running-repo
+    - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Auto-commit: Update after MLOps workflow" || echo "No changes to commit"
         git push
-
-    - name: Push changes to chandula00 repo
-      working-directory: chandula-repo
-      run: |
-        cp -R ../running-repo/* .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Sync changes from cepdnaclk repo" || echo "No changes to commit"
-        git push https://${{ secrets.CHANDULA_GITHUB_TOKEN }}@github.com/chandula00/e19-co544-cricket-analytics-and-prediction.git HEAD:main

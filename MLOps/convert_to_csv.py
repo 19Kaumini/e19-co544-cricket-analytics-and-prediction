@@ -213,17 +213,12 @@ def json_to_csv(match_file, output_file=False):
 
         # No outcome error handle
 
-        if len(innings) > 1:
-            df["batting_team"] = innings[idx]["team"]
-            df["bowling_team"] = innings[1 if idx == 0 else 0]["team"]
-        else:
-            # Handle the case when there is no second inning
-            df["batting_team"] = innings[idx]["team"]
-            df["bowling_team"] = (
-                info["teams"][0]
-                if info["teams"][0] != innings[idx]["team"]
-                else info["teams"][1]
-            )
+        df["batting_team"] = innings[idx]["team"]
+        df["bowling_team"] = (
+            info["teams"][0]
+            if info["teams"][0] != innings[idx]["team"]
+            else info["teams"][1]
+        )
 
         # outcome
         outcome = info["outcome"]
@@ -275,6 +270,12 @@ def json_to_csv(match_file, output_file=False):
 
             file_path = f"Data/MLOps_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
             df.to_csv(file_path)
+
+        if "review" in df.columns:
+            df.drop(columns=["review"], inplace=True)
+
+        if "replacements" in df.columns:
+            df.drop(columns=["replacements"], inplace=True)
 
         all_innings_df[team_innings] = df
 
