@@ -116,7 +116,11 @@ def complete_team_df(team_overs):
     return pd.concat(all_overs, ignore_index=True)
 
 
-def json_to_csv(match_file, output_file=False):
+def json_to_csv(
+    match_file,
+    path,
+    output_file=False,
+):
 
     with open(match_file, "r") as f:
         file = json.load(f)
@@ -283,7 +287,9 @@ def json_to_csv(match_file, output_file=False):
 
         if output_file:
 
-            file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
+            # file_path = f"../Data/selected_data/csv_files/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
+            file_path = f"{path}/{os.path.splitext(os.path.split(match_file)[-1])[0]}_{team_innings}.csv"
+
             df.to_csv(file_path)
 
         if "review" in df.columns:
