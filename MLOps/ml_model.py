@@ -47,8 +47,8 @@ def train_rf(X: np.ndarray, y: np.ndarray, model_name: str = "RandomForestRegres
     model = RandomForestRegressor(n_estimators=estimators, random_state=RANDOM_STATE)
     model.fit(X, y)
 
-    # Save the model with joblib
-    joblib.dump(model, f"models/{model_name}.joblib")
+    # Save the pkl model with joblib
+    joblib.dump(model, f"Models/{model_name}.pkl")
 
     print(f"Model: {model_name} trained successfully.")
     print(f"Model Parameters: {model.get_params()}")
