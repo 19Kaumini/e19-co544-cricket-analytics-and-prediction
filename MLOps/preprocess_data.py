@@ -68,24 +68,26 @@ def All_Batters_NRR():
 
 def getPlayerScores(player_name: str, innings: list[int] = [1, 2] ) -> pd.DataFrame:
     # Get the data for BKG Mendis if batter is BKG Mendis or non-striker is BKG Mendis
-	player_data = data.loc[
+    data = pd.read_csv("Data/selected_data/processed_data_NRR.csv")
+	
+    player_data = data.loc[
 		((data['batter'] == player_name) | (data['non_striker'] == player_name)) & (data['innings'].isin(innings))
 	]
 
-	player_data.head()
+    player_data.head()
 
 	# 3 matches missing from the data
 	# group data by match_id
-	gp = player_data.groupby('match_id')
-	cols = ['batting_team', 'batter', 'non_striker', 'batter_runs', 'balls_faced', 'wicket_type', 'won', 'innings', 'over', 'delivery', 'wickets_fallen','bowling_team','venue','net_run_rate']
-	player_scores= gp.last().loc[:, cols]
+    gp = player_data.groupby('match_id')
+    cols = ['batting_team', 'batter', 'non_striker', 'batter_runs', 'balls_faced', 'wicket_type', 'won', 'innings', 'over', 'delivery', 'wickets_fallen','bowling_team','venue','net_run_rate']
+    player_scores= gp.last().loc[:, cols]
 
 	# get the first ball he faced or at non-striker
-	first_ball = gp.first().loc[:, ['over', 'delivery', 'wickets_fallen']]
-	first_ball['first_ball'] = (first_ball['over'] * 6 + first_ball['delivery']).astype(int)
+    first_ball = gp.first().loc[:, ['over', 'delivery', 'wickets_fallen']]
+    first_ball['first_ball'] = (first_ball['over'] * 6 + first_ball['delivery']).astype(int)
 
-	player_scores['first_ball'] = first_ball['first_ball']
-	player_scores['wickets_fallen'] = first_ball['wickets_fallen']
+    player_scores['first_ball'] = first_ball['first_ball']
+    player_scores['wickets_fallen'] = first_ball['wickets_fallen']
 
 	# when BKG Mendis is the non-striker when the last ball was bowled
 	# The batter_runs and balls_faced are not his, but the on_strike batter's
@@ -94,35 +96,35 @@ def getPlayerScores(player_name: str, innings: list[int] = [1, 2] ) -> pd.DataFr
 
 	# get the last ball he faced
 
-	matches_non_striker = player_scores[player_scores['non_striker'] == player_name].index
+    matches_non_striker = player_scores[player_scores['non_striker'] == player_name].index
 	
 	# Sometimes the player might not even have faced a single ball
 	# Eg: Afghanistan_Sri Lanka_2022-11-01 MD Shanaka not out on the non strikers end
 
-	player_scores.loc[matches_non_striker, ['batter_runs', 'balls_faced']] = [0, 0]
+    player_scores.loc[matches_non_striker, ['batter_runs', 'balls_faced']] = [0, 0]
 	
 	
 	# get the last batter == player_name row from gp data
-	gp = player_data[(player_data['batter'] == player_name) & (player_data['match_id'].isin(matches_non_striker))].groupby(['match_id'])
-	last_batter_scores = gp.last()[['batter_runs', 'balls_faced']]	
+    gp = player_data[(player_data['batter'] == player_name) & (player_data['match_id'].isin(matches_non_striker))].groupby(['match_id'])
+    last_batter_scores = gp.last()[['batter_runs', 'balls_faced']]	
 	
 	# update the rows with non_striker with correct values
-	player_scores.update(last_batter_scores)
+    player_scores.update(last_batter_scores)
 	
 	# adding new features
 	# strike rate
-	player_scores['strike_rate'] = round(player_scores['batter_runs'] / player_scores['balls_faced'] * 100, 2)
-	player_scores['out'] = player_scores['wicket_type'] != '0'
-	player_scores['last_ball'] = (player_scores['over'] * 6 + player_scores['delivery']).astype(int)
+    player_scores['strike_rate'] = round(player_scores['batter_runs'] / player_scores['balls_faced'] * 100, 2)
+    player_scores['out'] = player_scores['wicket_type'] != '0'
+    player_scores['last_ball'] = (player_scores['over'] * 6 + player_scores['delivery']).astype(int)
  
  
-	player_scores['batter'] = player_name
-	player_scores.drop('non_striker', inplace=True, axis = 1)
+    player_scores['batter'] = player_name
+    player_scores.drop('non_striker', inplace=True, axis = 1)
 
 	# drop over and delivery
-	player_scores.drop(['over', 'delivery'], inplace=True, axis=1)
+    player_scores.drop(['over', 'delivery'], inplace=True, axis=1)
  
-	return player_scores
+    return player_scores
 
 
 def preprocess_data():
