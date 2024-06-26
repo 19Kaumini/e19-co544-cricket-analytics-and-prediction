@@ -1,0 +1,95 @@
+name: MLOps Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for running the workflow'
+        required: true
+        default: 'Manual trigger'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout running repository
+      uses: actions/checkout@v2
+      with:
+        path: running-repo
+
+    - name: Clone chandula00 repository
+      uses: actions/checkout@v2
+      with:
+        repository: chandula00/e19-co544-cricket-analytics-and-prediction
+        path: chandula-repo
+
+    - name: Copy chandula00 repo contents to running repo
+      run: |
+        cp -R chandula-repo/* running-repo/
+        cd running-repo
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Sync with chandula00 repo" || echo "No changes to commit"
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      working-directory: running-repo
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run MLOps scripts
+      working-directory: running-repo
+      run: |
+        python MLOps/fetch_data.py
+        python MLOps/convert_to_csv.py
+        python MLOps/preprocess_data.py
+        python MLOps/purge.py
+
+    - name: Set up ZenML
+      working-directory: running-repo
+      env:
+        ZENML_USERNAME: ${{ secrets.ZENML_USERNAME }}
+        ZENML_PASSWORD: ${{ secrets.ZENML_PASSWORD }}
+      run: |
+        pip install zenml
+        zenml init
+        zenml experiment-tracker register mlflow_tracker --flavor=mlflow
+        zenml stack register mlflow_stack -a default -o default -e mlflow_tracker
+        zenml stack register my_stack -a default -o default -e mlflow_tracker
+        zenml stack set my_stack
+        zenml connect --url https://9e23ae6c-zenml.cloudinfra.zenml.io --username $ZENML_USERNAME --password $ZENML_PASSWORD
+
+    - name: Run ML model
+      working-directory: running-repo
+      env:
+        DAGSHUB_TOKEN: ${{ secrets.DAGSHUB_TOKEN }}
+      run: |
+        export MLFLOW_TRACKING_USERNAME=$DAGSHUB_TOKEN
+        export MLFLOW_TRACKING_PASSWORD=$DAGSHUB_TOKEN
+        python MLOps/ml_model.py
+
+    - name: Commit changes to running repo
+      working-directory: running-repo
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Auto-commit: Update after MLOps workflow" || echo "No changes to commit"
+        git push
+
+    - name: Push changes to chandula00 repo
+      working-directory: chandula-repo
+      run: |
+        cp -R ../running-repo/* .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Sync changes from cepdnaclk repo" || echo "No changes to commit"
+        git push https://${{ secrets.CHANDULA_GITHUB_TOKEN }}@github.com/chandula00/e19-co544-cricket-analytics-and-prediction.git HEAD:main
