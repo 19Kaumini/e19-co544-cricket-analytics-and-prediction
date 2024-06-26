@@ -21,13 +21,11 @@ jobs:
         python-version: '3.9'
 
     - name: Install dependencies
-      working-directory: running-repo
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
     - name: Run MLOps scripts
-      working-directory: running-repo
       run: |
         python MLOps/fetch_data.py
         python MLOps/convert_to_csv.py
@@ -35,9 +33,7 @@ jobs:
         python MLOps/purge.py
 
     - name: Set up ZenML
-      working-directory: running-repo
       run: |
-        pip install zenml
         zenml init
         zenml experiment-tracker register mlflow_tracker --flavor=mlflow
         zenml stack register mlflow_stack -a default -o default -e mlflow_tracker
