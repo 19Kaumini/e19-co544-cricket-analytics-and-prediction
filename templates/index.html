@@ -1,65 +1,340 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>CricVision</title>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}" />
     <style>
-        body {
-            background: url("{{ url_for('static', filename='images/cricket_background.jpg') }}") no-repeat center center fixed;
-            background-size: cover;
-        }
+      body {
+        background: url("{{ url_for('static', filename='images/cricket_background.jpg') }}") no-repeat center center fixed;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+
+      .header {
+        background-color: rgba(128, 0, 0, 0.8); /* Maroon */
+        color: white;
+        padding: 20px;
+        text-align: center;
+        position: relative;
+      }
+
+      .logo {
+        width: 300px; 
+        height: auto;
+        position: absolute;
+        left: 50%; 
+        transform: translateX(-50%);
+        top: 10px; 
+      }
+
+      .content {
+        max-width: 800px;
+        margin: 40px auto;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+
+      .intro {
+        margin-bottom: 20px;
+      }
+
+      .intro h2 {
+        color: #800000; /* Maroon */
+        margin-bottom: 10px;
+      }
+
+      .intro p {
+        font-size: 1.2em;
+        color: #555;
+      }
+
+      .intro-image {
+        width: 100px;
+        height: auto;
+        margin-top: 20px;
+      }
+
+      .form-container {
+        margin-top: 20px;
+      }
+
+      form {
+        margin: 20px 0;
+        text-align: left;
+      }
+
+      textarea,
+      input[type="text"],
+      input[type="number"] {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+      }
+
+      button {
+        padding: 10px 20px;
+        background-color: #800000; /* Maroon */
+        color: #ffffff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+
+      button:hover {
+        background-color: #660000; /* Darker Maroon */
+      }
+
+      .result-box {
+        margin-top: 20px;
+        font-size: 1.2em;
+        color: #800000; /* Maroon */
+        border: 1px solid #800000; /* Maroon */
+        padding: 10px;
+        border-radius: 4px;
+        background-color: #ffe6e6; /* Light Maroon background */
+      }
+
+      footer {
+        text-align: center;
+        padding: 20px;
+        background-color: rgba(128, 0, 0, 0.8); /* Maroon */
+        color: white;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+      }
+
+      footer p {
+        margin: 0;
+        font-size: 0.9em;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="header">
-        <img src="{{ url_for('static', filename='images/cricket.jpg') }}" alt="Cricket Logo" class="logo">
-        <h1>CricVision</h1>
+      <h1><img src="{{ url_for('static', filename='images/Logo.png') }}" alt="CricVision Logo" class="logo"></h1>
     </div>
     <div class="content">
-        <div class="intro">
-            <h2>Welcome to the CricVision - The Cricket Match Predictor</h2>
-            <p>Use this tool to predict the outcome of cricket matches based on your input data</p>
-            <img src="{{ url_for('static', filename='images/cricket.jpg') }}" alt="Cricket Bat" class="intro-image">
-        </div>
-        <div class="form-container">
-            <form id="predictForm">
-                <label for="inputData">Input Data (JSON format):</label><br>
-                <textarea id="inputData" name="inputData" rows="6" placeholder='Enter JSON data here...'></textarea><br>
-                <button type="submit">Predict</button>
-            </form>
-            <div id="predictionResult" class="result-box"></div>
-        </div>
+      <div class="intro">
+        <h2>Welcome to CricVision - The Cricket Match Predictor</h2>
+        <p>
+          Use this tool to predict the outcome of cricket matches based on your
+          input data
+        </p>
+        <img
+          src="{{ url_for('static', filename='images/cricket.jpg') }}"
+          alt="Cricket Bat"
+          class="intro-image"
+        />
+      </div>
+      <div class="form-container">
+        <form id="predictForm">
+          <label for="batter">Batter:</label><br />
+          <input type="text" id="batter" name="batter" required /><br /><br />
+
+          <label for="innings">Innings:</label><br />
+          <input
+            type="number"
+            id="innings"
+            name="innings"
+            min="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="wickets_fallen">Wickets Fallen:</label><br />
+          <input
+            type="number"
+            id="wickets_fallen"
+            name="wickets_fallen"
+            min="0"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="bowling_team">Bowling Team:</label><br />
+          <input
+            type="text"
+            id="bowling_team"
+            name="bowling_team"
+            required
+          /><br /><br />
+
+          <label for="batting_team">Batting Team:</label><br />
+          <input
+            type="text"
+            id="batting_team"
+            name="batting_team"
+            required
+          /><br /><br />
+
+          <label for="toss_winner">Toss Winner:</label><br />
+          <input
+            type="text"
+            id="toss_winner"
+            name="toss_winner"
+            required
+          /><br /><br />
+
+          <label for="runs_remain">Runs Remain:</label><br />
+          <input
+            type="number"
+            id="runs_remain"
+            name="runs_remain"
+            min="0"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="first_ball">First Ball:</label><br />
+          <input
+            type="number"
+            id="first_ball"
+            name="first_ball"
+            min="0"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="current_team_total">Current Team Total:</label><br />
+          <input
+            type="number"
+            id="current_team_total"
+            name="current_team_total"
+            min="0"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="is_powerplay">Is Powerplay (1 for Yes, 0 for No):</label
+          ><br />
+          <input
+            type="number"
+            id="is_powerplay"
+            name="is_powerplay"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Left arm Fast">Left arm Fast:</label><br />
+          <input
+            type="number"
+            id="Left arm Fast"
+            name="Left arm Fast"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Left arm Orthodox">Left arm Orthodox:</label><br />
+          <input
+            type="number"
+            id="Left arm Orthodox"
+            name="Left arm Orthodox"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Left arm Wrist spin">Left arm Wrist spin:</label><br />
+          <input
+            type="number"
+            id="Left arm Wrist spin"
+            name="Left arm Wrist spin"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Right arm Fast">Right arm Fast:</label><br />
+          <input
+            type="number"
+            id="Right arm Fast"
+            name="Right arm Fast"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Right arm Legbreak">Right arm Legbreak:</label><br />
+          <input
+            type="number"
+            id="Right arm Legbreak"
+            name="Right arm Legbreak"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="Right arm Offbreak">Right arm Offbreak:</label><br />
+          <input
+            type="number"
+            id="Right arm Offbreak"
+            name="Right arm Offbreak"
+            min="0"
+            max="1"
+            step="1"
+            required
+          /><br /><br />
+
+          <label for="venue">Venue:</label><br />
+          <input type="text" id="venue" name="venue" required /><br /><br />
+
+          <button type="submit">Predict</button>
+        </form>
+        <div id="predictionResult" class="result-box"></div>
+      </div>
     </div>
 
-    <footer>
-        <p>© 2024 Cricket Analytics. All rights reserved.</p>
-    </footer>
+
 
     <script>
-        document.getElementById('predictForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-            var inputData = document.getElementById('inputData').value;
-            try {
-                var jsonData = JSON.parse(inputData);
-                fetch('/predict', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify(jsonData)
-                })
-                .then(response => response.json())
-                .then(data => {
-                    document.getElementById('predictionResult').innerText = 'Prediction: ' + JSON.stringify(data);
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    document.getElementById('predictionResult').innerText = 'Error: ' + error;
-                });
-            } catch (e) {
-                document.getElementById('predictionResult').innerText = 'Invalid JSON format.';
-            }
+      document
+        .getElementById("predictForm")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+          var formData = new FormData(this);
+          var jsonData = {};
+          formData.forEach(function (value, key) {
+            jsonData[key] = value;
+          });
+          fetch("/predict", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(jsonData),
+          })
+            .then((response) => response.json())
+            .then((data) => {
+              document.getElementById("predictionResult").innerText =
+                "Prediction: " + JSON.stringify(data);
+            })
+            .catch((error) => {
+              console.error("Error:", error);
+              document.getElementById("predictionResult").innerText =
+                "Error: " + error;
+            });
         });
     </script>
-</body>
+  </body>
 </html>
