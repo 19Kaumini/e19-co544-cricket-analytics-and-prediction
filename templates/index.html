@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CricVision</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        body {
+            background: url("{{ url_for('static', filename='images/cricket_background.jpg') }}") no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="{{ url_for('static', filename='images/cricket.jpg') }}" alt="Cricket Logo" class="logo">
+        <h1>CricVision</h1>
+    </div>
+    <div class="content">
+        <div class="intro">
+            <h2>Welcome to the CricVision - The Cricket Match Predictor</h2>
+            <p>Use this tool to predict the outcome of cricket matches based on your input data</p>
+            <img src="{{ url_for('static', filename='images/cricket.jpg') }}" alt="Cricket Bat" class="intro-image">
+        </div>
+        <div class="form-container">
+            <form id="predictForm">
+                <label for="inputData">Input Data (JSON format):</label><br>
+                <textarea id="inputData" name="inputData" rows="6" placeholder='Enter JSON data here...'></textarea><br>
+                <button type="submit">Predict</button>
+            </form>
+            <div id="predictionResult" class="result-box"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 Cricket Analytics. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.getElementById('predictForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var inputData = document.getElementById('inputData').value;
+            try {
+                var jsonData = JSON.parse(inputData);
+                fetch('/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(jsonData)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('predictionResult').innerText = 'Prediction: ' + JSON.stringify(data);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('predictionResult').innerText = 'Error: ' + error;
+                });
+            } catch (e) {
+                document.getElementById('predictionResult').innerText = 'Invalid JSON format.';
+            }
+        });
+    </script>
+</body>
+</html>
