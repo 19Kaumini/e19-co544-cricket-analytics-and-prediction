@@ -27,19 +27,19 @@ class ClientApp:
 
     def load_batter_runs(self):
         # paths for models Batter Runs, Strike Rate, Final Team Score, and Net Run Rate
-        model_path_batter_runs = 'Models/batter_runs.pkl'
+        model_path_batter_runs = 'Models/MultiOutputRegression/pkls/batter_runs_model.pkl'
         return load(model_path_batter_runs)
     
     def load_strike_rate(self):
-        model_path_strike_rate = 'Models/strike_rate.pkl'
+        model_path_strike_rate = 'Models/MultiOutputRegression/pkls/strike_rate_model.pkl'
         return load(model_path_strike_rate)
     
     def load_final_team_score(self):
-        model_path_final_team_score = 'Models/final_team_score.pkl'
+        model_path_final_team_score = 'Models/MultiOutputRegression/pkls/final_team_total_model.pkl'
         return load(model_path_final_team_score)
     
     def load_net_run_rate(self):
-        model_path_net_run_rate = 'Models/net_run_rate.pkl'
+        model_path_net_run_rate = 'Models/MultiOutputRegression/pkls/nrr_model.pkl'
         return load(model_path_net_run_rate)   
 
     def predict(self, input_data):
@@ -108,72 +108,72 @@ def home():
 @app.route('/predict', methods=['POST'])
 @cross_origin()
 def predict():
-    try:
-        form_data = {
-            'batter': request.form['batter'],
-            'innings': int(request.form['innings']),
-            'wickets_fallen': int(request.form['wickets_fallen']),
-            'bowling_team': request.form['bowling_team'],
-            'batting_team': request.form['batting_team'],
-            'toss_winner': int(request.form['toss_winner']),
-            'runs_remain': float(request.form['runs_remain']),
-            'first_ball': int(request.form['first_ball']),
-            'current_team_total': int(request.form['current_team_total']),
-            'is_powerplay': request.form['is_powerplay'] == 'true',
-            'Left arm Fast': float(request.form.get('Left arm Fast', 0)),
-            'Left arm Orthodox': float(request.form.get('Left arm Orthodox', 0)),
-            'Left arm Wrist spin': float(request.form.get('Left arm Wrist spin', 0)),
-            'Right arm Fast': float(request.form.get('Right arm Fast', 0)),
-            'Right arm Legbreak': float(request.form.get('Right arm Legbreak', 0)),
-            'Right arm Offbreak': float(request.form.get('Right arm Offbreak', 0)),
-            'venue': request.form['venue']
-        }
+    data = request.get_json()
+    form_data = {
+        'batter': data['batter'],
+        'innings': int(data['innings']),
+        'wickets_fallen': int(data['wickets_fallen']),
+        'bowling_team': data['bowling_team'],
+        'batting_team': data['batting_team'],
+        'toss_winner': int(data['toss_winner']),
+        'runs_remain': float(data['runs_remain']),
+        'first_ball': int(data['first_ball']),
+        'current_team_total': int(data['current_team_total']),
+        'is_powerplay': data['is_powerplay'] == 'true',
+        'Left arm Fast': float(data.get('Left arm Fast', 0)),
+        'Left arm Orthodox': float(data.get('Left arm Orthodox', 0)),
+        'Left arm Wrist spin': float(data.get('Left arm Wrist spin', 0)),
+        'Right arm Fast': float(data.get('Right arm Fast', 0)),
+        'Right arm Legbreak': float(data.get('Right arm Legbreak', 0)),
+        'Right arm Offbreak': float(data.get('Right arm Offbreak', 0)),
+        'venue': data['venue']
+    }
 
-        input_dic = form_data.copy()
-        del input_dic['batter']
+    input_dic = form_data.copy()
+    del input_dic['batter']
 
-        batters_list = request.form['batter'].split(',')
+    batters_list = data['batter'].split(',')
 
-        data = pd.DataFrame()
+    data = pd.DataFrame()
 
-        for batter in batters_list:
-            batter_dic = input_dic.copy()
-            batter_dic['batter'] = batter
-            new_features = derive_features(batter_dic)
+    for batter in batters_list:
+        batter_dic = input_dic.copy()
+        batter_dic['batter'] = batter
+        new_features = derive_features(batter_dic)
+    
+        print(new_features)
+        data = pd.concat([data,pd.DataFrame([new_features])])
+
+    data.replace(np.inf,120,inplace=True)
+    data_processed = pd.get_dummies(data=data,dtype=int)
+
+
+    all_cols = all_columns.columns.tolist()
+    data_cols = data_processed.columns.tolist()
+
+
+    missing_columns = set(all_cols) - set(data_cols)
+
+    for col in missing_columns:
+        data_processed[col] = 0
+
         
-            print(new_features)
-            data = pd.concat([data,pd.DataFrame([new_features])])
 
-        data.replace(np.inf,120,inplace=True)
-        data_processed = pd.get_dummies(data=data,dtype=int)
+    client_app = ClientApp()
+    # print the dattypes in data
+    print(data_processed.dtypes)
+    predictions = client_app.predict(data_processed)
+    # concat the predictions to the data
+    data['batter_runs'] = predictions[0]
+    data['strike_rate'] = predictions[1]
+    data['final_team_score'] = predictions[2]
+    data['net_run_rate'] = predictions[3]
 
+    results = data[['batter','batter_runs','strike_rate','final_team_score','net_run_rate']]
 
-        all_cols = all_columns.columns.tolist()
-        data_cols = data_processed.columns.tolist()
+    # sort the results by net run rate
+    results = results.sort_values(by='net_run_rate',ascending=False)
 
-
-        missing_columns = set(all_cols) - set(data_cols)
-
-        for col in missing_columns:
-            data_processed[col] = 0
-
-            
-
-        client_app = ClientApp()
-        predictions = client_app.predict(data)
-        # concat the predictions to the data
-        data['batter_runs'] = predictions[0]
-        data['strike_rate'] = predictions[1]
-        data['final_team_score'] = predictions[2]
-        data['net_run_rate'] = predictions[3]
-
-        results = data[['batter','batter_runs','strike_rate','final_team_score','net_run_rate']]
-
-        # sort the results by net run rate
-        results = results.sort_values(by='net_run_rate',ascending=False)
-        return jsonify(results.to_dict(orient='records'))
-    except Exception as e:
-        return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
     app.run(debug=True)
