@@ -56,19 +56,19 @@ def derive_features(input_dic):
     def get_venue_info():
         venue = input_dic['venue']
         if venue in venues_df['venue'].values:
-            venue_mean = venues_df.loc[venues_df['venue'] == venue, 'total_mean']
+            venue_mean_total = venues_df.loc[venues_df['venue'] == venue, 'total_mean']
             venue_first_bat_won_ratio = venues_df.loc[venues_df['venue'] == venue, 'first_bat_won_ratio']
-            input_dic['venue_mean'] = venue_mean.values[0]
+            input_dic['venue_mean_total'] = venue_mean_total.values[0]
             input_dic['venue_first_bat_won_ratio'] = venue_first_bat_won_ratio.values[0]
         else:
-            input_dic['venue_mean'] = venues_df['total_mean'].median()
+            input_dic['venue_mean_total'] = venues_df['total_mean'].median()
             input_dic['venue_first_bat_won_ratio'] = venues_df['first_bat_won_ratio'].median()
 
     def get_runs_remain():
         if input_dic['innings'] == 2:
             return
         if input_dic['innings'] == 1:
-            input_dic['runs_remain'] = input_dic['venue_mean'] - input_dic['current_team_total']
+            input_dic['runs_remain'] = input_dic['venue_mean_total'] - input_dic['current_team_total']
 
     def get_bowler_type_data():
         player_vs_bowler = player_vs_bowler_df[player_vs_bowler_df['batter'] == input_dic['batter']]
