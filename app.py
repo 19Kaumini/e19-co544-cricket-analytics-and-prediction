@@ -14,18 +14,40 @@ CORS(app)
 # Load CSV files
 venues_df = pd.read_csv("train_venues.csv")
 player_vs_bowler_df = pd.read_csv("train_player_vs_bowler.csv")
+train_set = pd.read_csv("train_set.csv")
+all_columns = pd.read_csv("Models/MultiOutputRegression/all_columns.csv")
 
 class ClientApp:
     def __init__(self):
-        self.model = self.load_model()
+        self.batter_runs = self.load_batter_runs()
+        self.strike_rate = self.load_strike_rate()
+        self.final_team_score = self.load_final_team_score()
+        self.net_run_rate = self.load_net_run_rate()
 
-    def load_model(self):
-        model_path = 'models/model.pkl'
-        return load(model_path)
+
+    def load_batter_runs(self):
+        # paths for models Batter Runs, Strike Rate, Final Team Score, and Net Run Rate
+        model_path_batter_runs = 'Models/batter_runs.pkl'
+        return load(model_path_batter_runs)
+    
+    def load_strike_rate(self):
+        model_path_strike_rate = 'Models/strike_rate.pkl'
+        return load(model_path_strike_rate)
+    
+    def load_final_team_score(self):
+        model_path_final_team_score = 'Models/final_team_score.pkl'
+        return load(model_path_final_team_score)
+    
+    def load_net_run_rate(self):
+        model_path_net_run_rate = 'Models/net_run_rate.pkl'
+        return load(model_path_net_run_rate)   
 
     def predict(self, input_data):
-        prediction = self.model.predict(input_data)
-        return prediction
+        predicted_batter_runs = self.batter_runs.predict(input_data)
+        predicted_strike_rate = self.strike_rate.predict(input_data)
+        predicted_final_team_score = self.final_team_score.predict(input_data)
+        predicted_net_run_rate = self.net_run_rate.predict(input_data)
+        return predicted_batter_runs, predicted_strike_rate, predicted_final_team_score, predicted_net_run_rate
 
 def derive_features(input_dic):
     bowler_types = ['Left arm Fast', 'Right arm Fast', 'Left arm Orthodox',
@@ -107,35 +129,49 @@ def predict():
             'venue': request.form['venue']
         }
 
-        # Derive features
-        derived_features = derive_features(form_data)
+        input_dic = form_data.copy()
+        del input_dic['batter']
 
-        # Convert to DataFrame for prediction
-        data = pd.DataFrame([derived_features])
+        batters_list = request.form['batter'].split(',')
 
-        # Keep only the columns that the model expects
-        expected_columns = ['batter', 'innings', 'wickets_fallen', 'bowling_team', 'batting_team',
-                            'toss_winner', 'runs_remain', 'first_ball', 'current_team_total',
-                            'is_powerplay', 'Left arm Fast', 'Left arm Orthodox', 'Left arm Wrist spin',
-                            'Right arm Fast', 'Right arm Legbreak', 'Right arm Offbreak', 'venue',
-                            'venue_mean', 'venue_first_bat_won_ratio', 'Left arm Fast Expected Runs',
-                            'Left arm Fast Expected Wickets', 'Left arm Fast Strike Rate', 
-                            'Left arm Fast Deliveries Per Wicket', 'Right arm Fast Expected Runs',
-                            'Right arm Fast Expected Wickets', 'Right arm Fast Strike Rate', 
-                            'Right arm Fast Deliveries Per Wicket', 'Left arm Orthodox Expected Runs',
-                            'Left arm Orthodox Expected Wickets', 'Left arm Orthodox Strike Rate', 
-                            'Left arm Orthodox Deliveries Per Wicket', 'Left arm Wrist spin Expected Runs',
-                            'Left arm Wrist spin Expected Wickets', 'Left arm Wrist spin Strike Rate',
-                            'Left arm Wrist spin Deliveries Per Wicket', 'Right arm Legbreak Expected Runs',
-                            'Right arm Legbreak Expected Wickets', 'Right arm Legbreak Strike Rate',
-                            'Right arm Legbreak Deliveries Per Wicket', 'Right arm Offbreak Expected Runs',
-                            'Right arm Offbreak Expected Wickets', 'Right arm Offbreak Strike Rate',
-                            'Right arm Offbreak Deliveries Per Wicket', 'expected_wickets', 'expected_runs']
-        data = data[expected_columns]
+        data = pd.DataFrame()
+
+        for batter in batters_list:
+            batter_dic = input_dic.copy()
+            batter_dic['batter'] = batter
+            new_features = derive_features(batter_dic)
+        
+            print(new_features)
+            data = pd.concat([data,pd.DataFrame([new_features])])
+
+        data.replace(np.inf,120,inplace=True)
+        data_processed = pd.get_dummies(data=data,dtype=int)
+
+
+        all_cols = all_columns.columns.tolist()
+        data_cols = data_processed.columns.tolist()
+
+
+        missing_columns = set(all_cols) - set(data_cols)
+
+        for col in missing_columns:
+            data_processed[col] = 0
+
+            
 
         client_app = ClientApp()
         predictions = client_app.predict(data)
-        return jsonify(predictions.tolist())
+        # concat the predictions to the data
+        data['batter_runs'] = predictions[0]
+        data['strike_rate'] = predictions[1]
+        data['final_team_score'] = predictions[2]
+        data['net_run_rate'] = predictions[3]
+
+        results = data[['batter','batter_runs','strike_rate','final_team_score','net_run_rate']]
+
+        # sort the results by net run rate
+        results = results.sort_values(by='net_run_rate',ascending=False)
+        return jsonify(results.to_dict(orient='records'))
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
